@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Genesis Owusu
 
-637 songs - 1 day 11 hr 37 min
+638 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 | 2025-05-30 |
 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 | 2024-05-31 | 2025-04-04 |
 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-05-31 | 2025-05-09 |
+| [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 | 2026-05-14 |  |
 | [Big Ideas](https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Ideas](https://open.spotify.com/album/7xfeC5mioThYz3byVAIeOO) | 2:39 | 2025-11-20 | 2026-01-15 |
 | [Big Ol' Hammer](https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Big Ol' Hammer](https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX) | 2:27 | 2025-06-12 | 2025-07-22 |
 | [Big Thoughts](https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:58 | 2025-02-06 | 2025-09-05 |
@@ -390,7 +391,7 @@
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-06-19 | 2025-06-27 |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2025-04-08 | 2025-07-13 |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-25 | 2024-09-15 |
-| [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 | 2026-03-05 |  |
+| [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 | 2026-03-05 | 2026-05-17 |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2025-01-10 |
 | [NOSEBLEED](https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [NOSEBLEED](https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I) | 2:44 | 2025-10-02 | 2025-10-10 |
 | [Not Enough](https://open.spotify.com/track/0unMVqDlGLVerXRHQMIj8P) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/5jszKm4RngylvqtM8bSZKT) | 3:37 | 2025-01-16 | 2025-01-24 |

@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "2 Hard 4 The Radio",
+      "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+    },
+    {
+      "album": {
         "name": "2 Meter tiefer",
         "url": "https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu"
       },
@@ -2749,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "90%",
+        "url": "https://open.spotify.com/album/2s9m37Y63Oiwln6btnBkUh"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133917,
+      "name": "90%",
+      "url": "https://open.spotify.com/track/7CJmlOfMv7ZeuEFOPQp1gu"
+    },
+    {
+      "album": {
         "name": "90er Berlin",
         "url": "https://open.spotify.com/album/5bwgOUZdynA5mQ7eBx5kiv"
       },
@@ -3416,7 +3452,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -3678,7 +3714,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
@@ -7615,6 +7651,28 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "B's On The Table (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
+    },
+    {
+      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G"
       },
@@ -7824,7 +7882,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 159565,
       "name": "Baby Bell",
       "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
@@ -8076,7 +8134,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -10002,7 +10060,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -12565,6 +12623,36 @@
     },
     {
       "album": {
+        "name": "Blonde Amber",
+        "url": "https://open.spotify.com/album/2UyHcSrdTsNWKT9qVW3Kep"
+      },
+      "artists": [
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Blonde Amber",
+      "url": "https://open.spotify.com/track/5I9JTJwKFJqrjCHSC5Ak90"
+    },
+    {
+      "album": {
         "name": "Blonde Chaya (Sped up)",
         "url": "https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY"
       },
@@ -13949,6 +14037,24 @@
     },
     {
       "album": {
+        "name": "BRITNEY SPEARS",
+        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "BRITNEY SPEARS",
+      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
+    },
+    {
+      "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
       },
@@ -14308,6 +14414,24 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225990,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
     },
     {
       "album": {
@@ -15384,6 +15508,28 @@
       "duration_ms": 243711,
       "name": "CARRERA",
       "url": "https://open.spotify.com/track/3cfz2Kt5k1mZ2GLJDY45l2"
+    },
+    {
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/3JIj4DNeOq5dc5Ibr54hts"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171519,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/4Kpg8liqQZughWnUOFZ9HU"
     },
     {
       "album": {
@@ -18414,7 +18560,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -22562,6 +22708,24 @@
       "duration_ms": 161440,
       "name": "Durstl\u00f6scher",
       "url": "https://open.spotify.com/track/51S7lhJk6AHiFg0PhJupfz"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189217,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
     },
     {
       "album": {
@@ -31418,7 +31582,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -34140,6 +34304,24 @@
       "duration_ms": 171428,
       "name": "Hit One",
       "url": "https://open.spotify.com/track/5OeScOAa7LAx2jN11RRVJe"
+    },
+    {
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "album": {
@@ -37974,7 +38156,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -38528,7 +38710,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -39026,6 +39208,24 @@
       "duration_ms": 224146,
       "name": "James Blake",
       "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "album": {
@@ -40959,6 +41159,28 @@
     },
     {
       "album": {
+        "name": "Kein Zur\u00fcck",
+        "url": "https://open.spotify.com/album/7z17rZnKqCVKwlZnxOWemA"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156024,
+      "name": "Kein Zur\u00fcck",
+      "url": "https://open.spotify.com/track/3i0pKkdca9nJ5YW2Ubpi2e"
+    },
+    {
+      "album": {
         "name": "Keine Antwort",
         "url": "https://open.spotify.com/album/1VB0XYXN3nSPsHxFcEYeeg"
       },
@@ -42158,6 +42380,32 @@
       "duration_ms": 173000,
       "name": "Koka Shem",
       "url": "https://open.spotify.com/track/2sj5vf9ss7eUxSIVUp50EW"
+    },
+    {
+      "album": {
+        "name": "POPPSTAR",
+        "url": "https://open.spotify.com/album/2XWB45gIGGPAS4DFuG2PiS"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146043,
+      "name": "KOKOSNUSS",
+      "url": "https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V"
     },
     {
       "album": {
@@ -46070,7 +46318,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -47735,6 +47983,42 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307681,
+      "name": "Make Them Cry",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301950,
+      "name": "Make Them Pay",
+      "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+    },
+    {
+      "album": {
         "name": "MAKE UP",
         "url": "https://open.spotify.com/album/3QmmqhEk7QCdmnSwmOMNfo"
       },
@@ -48060,7 +48344,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -48836,6 +49120,28 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+    },
+    {
+      "album": {
+        "name": "MAYBACH",
+        "url": "https://open.spotify.com/album/5Kuzd2UUCfgIoaptvTySIv"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "MAYBACH",
+      "url": "https://open.spotify.com/track/0ZGXx48mw9okLX22ArvYy0"
     },
     {
       "album": {
@@ -51328,7 +51634,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 182968,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
@@ -51364,7 +51670,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 194028,
       "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
       "url": "https://open.spotify.com/track/0xrjwh7fhJ9KmpoTWcazQW"
@@ -53495,6 +53801,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200830,
+      "name": "National Treasures",
+      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+    },
+    {
+      "album": {
         "name": "Sampler 5",
         "url": "https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG"
       },
@@ -54874,7 +55198,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -55598,7 +55922,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -60327,6 +60651,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195678,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+    },
+    {
+      "album": {
         "name": "Aymen",
         "url": "https://open.spotify.com/album/5AJ9eYWrmaGXZ11jhAfWk5"
       },
@@ -60836,6 +61178,32 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
+        "name": "Prada Sport",
+        "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        },
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205229,
+      "name": "Prada Sport",
+      "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
     },
     {
       "album": {
@@ -61956,7 +62324,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -62044,6 +62412,32 @@
       "duration_ms": 176858,
       "name": "RAN AN DIE BULETTEN",
       "url": "https://open.spotify.com/track/4iHgHwghOMGzqX9kZ0QgHY"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "album": {
@@ -64434,7 +64828,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 260858,
       "name": "Run Run River",
       "url": "https://open.spotify.com/track/1iZ2OYQygaUg7SxsxU6BI1"
@@ -67301,6 +67695,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "album": {
         "name": "GALGEN",
         "url": "https://open.spotify.com/album/5OZYS1Zu1pCY9TweBqMcuq"
       },
@@ -68504,7 +68916,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -69921,6 +70333,32 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/6Il7QV7psvsviOrcosXM0J"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155516,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -70278,7 +70716,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -73158,7 +73596,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 110912,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/1prNhzt3DdgRoxKoALTEYo"
@@ -74052,7 +74490,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -74738,7 +75176,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 284310,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
@@ -78242,7 +78680,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -82983,6 +83421,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -83458,6 +83914,24 @@
       "duration_ms": 154593,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7nEFkod9E9SQwHr7KIqVCQ"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
       "album": {

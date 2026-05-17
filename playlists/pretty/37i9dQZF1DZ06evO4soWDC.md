@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982 likes - 42 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 983 likes - 42 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 14 | [Say It Back](https://open.spotify.com/track/5pH5IVbOFvYiK42nzp51jX) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/37gMu8RoBwnnkBiBFVSFiG) | 3:43 |
 | 15 | [The World Don't Owe You Anything](https://open.spotify.com/track/44wjc3admuhjgP8W1ZFRIR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:09 |
 | 16 | [Get Sad, See Mates](https://open.spotify.com/track/5tmx1G6YVUcpIl7qPSUIVD) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv) | 2:56 |
-| 17 | [Got to Give](https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:34 |
+| 17 | [The In\-Between](https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:02 |
 | 18 | [Overwhelmed / Ill Prepared](https://open.spotify.com/track/70HzdQWVrxVTwrPIuRhyNb) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/37gMu8RoBwnnkBiBFVSFiG) | 3:00 |
 | 19 | [Sonny](https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:40 |
 | 20 | [Every Time You're Here \(I'm Gone\)](https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 2:44 |
-| 21 | [The In\-Between](https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:02 |
+| 21 | [Got to Give](https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:34 |
 | 22 | [Spin and Collapse](https://open.spotify.com/track/65KaVvN3OsxkqdKnaYmgu6) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/37gMu8RoBwnnkBiBFVSFiG) | 2:45 |
 | 23 | [The Entry Ramp](https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 1:38 |
 | 24 | [Western Junction](https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv) | 3:04 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 36 | [Benthos](https://open.spotify.com/track/04GyfMLy3j0S6aa7NRrRn0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv) | 3:03 |
 | 37 | [Beacons](https://open.spotify.com/track/59UVajW9WnjGIvhShHxRPY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao) | 2:47 |
 | 38 | [Quicksand](https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0) | 3:00 |
-| 39 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 |
-| 40 | [Yossarian](https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Yossarian](https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c) | 3:11 |
-| 41 | [Southbound](https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao) | 2:40 |
-| 42 | [Guillotines in Arbour Park](https://open.spotify.com/track/7eggFqeK0f8155QXSKGWoY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao) | 3:10 |
+| 39 | [Yossarian](https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Yossarian](https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c) | 3:11 |
+| 40 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 |
+| 41 | [Guillotines in Arbour Park](https://open.spotify.com/track/7eggFqeK0f8155QXSKGWoY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao) | 3:10 |
+| 42 | [Southbound](https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao) | 2:40 |
 
-Snapshot ID: `agUQgAAAAAA/+L1uJcIN4N3O9xRP3X6s`
+Snapshot ID: `agZiAAAAAACCsLBHYV8HXYb94yRLLr3t`

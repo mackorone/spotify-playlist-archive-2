@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 353161,
+  "num_followers": 353211,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1747,26 +1747,18 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "COSBY",
-          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
-        },
-        {
-          "name": "sebo",
-          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 131062,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1791,6 +1783,30 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "sebo",
+          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+        }
+      ],
+      "duration_ms": 131062,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-04-24 18:45:09",

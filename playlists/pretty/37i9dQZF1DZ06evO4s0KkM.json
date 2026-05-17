@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126472,
+  "num_followers": 126473,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAj19XA0qCKhxpLpFXlYgbI",
+  "snapshot_id": "agZiAAAAAACfkfPCEEliZvaHpqHhFU1X",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed and Sealed In Blood",
-        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -583,38 +583,6 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
       "artists": [
         {
@@ -644,9 +612,25 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238286,
-      "name": "James Connolly",
-      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 238286,
+      "name": "James Connolly",
+      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 181843,
-      "name": "Kids Games",
-      "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 171026,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 181843,
+      "name": "Kids Games",
+      "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Broken Hymns",
-      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183306,
       "name": "Black Velvet Band",
       "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Broken Hymns",
+      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
     },
     {
       "added_at": null,

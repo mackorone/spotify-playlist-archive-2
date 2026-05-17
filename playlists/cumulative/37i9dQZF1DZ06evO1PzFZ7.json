@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 213030,
       "name": "La Chancla",
       "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
@@ -1144,6 +1144,28 @@
       "duration_ms": 161671,
       "name": "La Charreada",
       "url": "https://open.spotify.com/track/0fG5R5B8KoJdjLSPqGgulu"
+    },
+    {
+      "album": {
+        "name": "La Ley del Monte",
+        "url": "https://open.spotify.com/album/20bZmUNHGTxuzyzoSmCTuZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/40J1g6GnB9uyPoCzOPa4VC"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Ima
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,790 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,783 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 |
+| 1 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 |
 | 2 | [tout ce qui m'arrive](https://open.spotify.com/track/3j2RLn7aiBYVW6j5zXtG1l) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [J’ÉCRIS LES PROBLÈMES QU’ON EST EN TRAIN DE LAISSER À NOS ENFANTS](https://open.spotify.com/album/3LL6RAPzfh8HwSYu8Xbgvv) | 2:18 |
 | 3 | [Où sont passés mes rêves](https://open.spotify.com/track/1s0C6Fg6vqHBLJRLF4m86o) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Où sont passés mes rêves](https://open.spotify.com/album/4vjRJyB147KrMbpTLeqaqI) | 3:25 |
 | 4 | [Sanzaru](https://open.spotify.com/track/2AKMoiJfH9SDy5DamRsozh) | [Maelydée](https://open.spotify.com/artist/6x5vRGtgDI0MZDuKl7Z3UG) | [Sanzaru](https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB) | 3:09 |

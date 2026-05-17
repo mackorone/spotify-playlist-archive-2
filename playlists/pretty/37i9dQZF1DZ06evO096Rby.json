@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 58189,
+  "num_followers": 58226,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAy+4HTLH83muQmDugIdNPn",
+  "snapshot_id": "agZiAAAAAABPbZQjjAEAesVg3qJCW/X5",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+      "duration_ms": 122583,
+      "name": "Que Chulada - En Vivo",
+      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 122583,
-      "name": "Que Chulada - En Vivo",
-      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234154,
-      "name": "Y Ahora Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 183311,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234154,
+      "name": "Y Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Aliados del tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 158409,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Banda y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Aliados del tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Por Ti",
-        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calmados y No Dejados",
         "url": "https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d"
       },
@@ -919,22 +899,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+        "name": "Es Por Ti",
+        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HDTPM",
+        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+      "duration_ms": 157874,
+      "name": "HDTPM",
+      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

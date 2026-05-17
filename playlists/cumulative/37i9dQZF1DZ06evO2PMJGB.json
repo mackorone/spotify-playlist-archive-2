@@ -963,6 +963,32 @@
     },
     {
       "album": {
+        "name": "LABUBU (Latin Version)",
+        "url": "https://open.spotify.com/album/6FSY6tFduBWJvbhkZeDftj"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ILYAH",
+          "url": "https://open.spotify.com/artist/3BKrAAsxD33NXflFODb7kq"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "LABUBU - Latin Version",
+      "url": "https://open.spotify.com/track/09fNHC3AibrTnmndlRuFVF"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },

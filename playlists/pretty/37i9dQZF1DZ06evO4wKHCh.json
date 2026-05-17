@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 12559,
+  "num_followers": 12568,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAM0GuX/3JBNMaK6Rdg6Xlm",
+  "snapshot_id": "agZiAAAAAAA0yrbxXijlWQecvXUZlAk0",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140937,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain (Deluxe)",
         "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 142307,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140937,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Talk Talk Talk",
-      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain (Deluxe)",
         "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 119900,
       "name": "Human Being - Demo",
       "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Talk Talk Talk",
+      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
     },
     {
       "added_at": null,

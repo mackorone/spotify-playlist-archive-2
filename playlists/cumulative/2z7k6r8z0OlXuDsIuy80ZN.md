@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Juan Magán y Omar Montes en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Taylor Swift en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-395 songs - 20 hr 36 min
+396 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [EL TONTO](https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL TONTO](https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s) | 3:08 | 2023-04-29 | 2023-12-31 |
 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 | 2023-07-22 | 2023-11-05 |
 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 | 2024-10-12 | 2025-04-21 |
+| [En Unos Años](https://open.spotify.com/track/0afuGOGxfL5PpfcEwxZvLf) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [En Unos Años](https://open.spotify.com/album/7ayiPbT8eXGxLqxxbqqk1U) | 3:09 | 2026-05-16 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-17 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-20 | 2025-10-05 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-29 | 2022-08-28 |
@@ -401,7 +402,7 @@
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-08-10 | 2024-11-10 |
 | [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 | 2025-09-06 | 2026-05-10 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-15 | 2022-05-22 |
-| [Última Bala](https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [No Lo Sé Ni Yo](https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy) | 3:00 | 2025-10-18 |  |
+| [Última Bala](https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [No Lo Sé Ni Yo](https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy) | 3:00 | 2025-10-18 | 2026-05-17 |
 | [⁠LUCIÉRNAGAS](https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TUTTO PASSA](https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9) | 2:40 | 2026-02-21 |  |
 
 \*This playlist was first scraped on 2022-01-15. Prior content cannot be recovered.

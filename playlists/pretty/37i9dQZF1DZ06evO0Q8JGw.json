@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 804509,
+  "num_followers": 804557,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAC9S5Uqr22pS6fGfCtUQ3OC",
+  "snapshot_id": "agZiAAAAAACtSGmjJQh0R0HoA4wOQjpH",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 299706,
-      "name": "In Hiding",
-      "url": "https://open.spotify.com/track/4Pd29XwNou8SVdjcoVR4WP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riot Act",
         "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 250133,
       "name": "Thumbing My Way",
       "url": "https://open.spotify.com/track/42JkURlKrerwh2JdlwEkg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "In Hiding",
+      "url": "https://open.spotify.com/track/4Pd29XwNou8SVdjcoVR4WP"
     },
     {
       "added_at": null,

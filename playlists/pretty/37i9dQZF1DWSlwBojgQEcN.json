@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1594458,
+  "num_followers": 1594310,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Schema - EP",
+        "url": "https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo"
+      },
+      "artists": [
+        {
+          "name": "Lee Henke",
+          "url": "https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Care for Me",
+      "url": "https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "Me and the Fool I've Been (Set 2)",
         "url": "https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 186038,
       "name": "Love Is a Made up Word",
       "url": "https://open.spotify.com/track/1dUfHTOZfjE7fqpqd5zjpH"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Schema - EP",
-        "url": "https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo"
-      },
-      "artists": [
-        {
-          "name": "Lee Henke",
-          "url": "https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Care for Me",
-      "url": "https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE"
     },
     {
       "added_at": "2025-06-26 15:53:58",

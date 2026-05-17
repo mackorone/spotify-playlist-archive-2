@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Wazir Patar, SNXRE & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,147 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,164 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 3 | [Lil Bit](https://open.spotify.com/track/6HGusWZruRsgCrWXhPYWnI) | [Flowzy](https://open.spotify.com/artist/1h9r7ndumxffbdS8woCrsF), [Rabi](https://open.spotify.com/artist/0KCsAAX4lqtF3gJOn84Bgz) | [Lil Bit](https://open.spotify.com/album/3CR4MN9FYxSnd7YT56n4Eg) | 3:16 |
 | 4 | [Fire Ne \(feat\. Azaad 4L\)](https://open.spotify.com/track/4G4BBKBJ5vLiWOXtZQcBkH) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Fire Ne \(feat\. Azaad 4L\)](https://open.spotify.com/album/4CjUvGMKUf4pTPcZhAw5ZN) | 2:29 |
 | 5 | [Kill Switch Flow](https://open.spotify.com/track/20nHXM5bMUDYgGhzAlgqse) | [SNXRE](https://open.spotify.com/artist/63mpHVYZrAefPyV62M2Prl), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Kill Switch Flow](https://open.spotify.com/album/6GQNN7cSaWJ6LXyoS6nQvp) | 2:26 |
-| 6 | [Grow](https://open.spotify.com/track/1UuEp88TfDkOLrgsdj6Ysh) | [Archit](https://open.spotify.com/artist/1iDrH7gxhKHXtP9cHE3XWq), [Gaani](https://open.spotify.com/artist/6OnlJd064aMWdtg7y1kJz8) | [Grow](https://open.spotify.com/album/4EQ8rUHgNu8ELOl1n2pD6y) | 2:30 |
+| 6 | [Grow](https://open.spotify.com/track/1UuEp88TfDkOLrgsdj6Ysh) | [Gaani](https://open.spotify.com/artist/7t3C1wLtf7ScPzbtfjDu7A), [Archit](https://open.spotify.com/artist/1iDrH7gxhKHXtP9cHE3XWq) | [Grow](https://open.spotify.com/album/4EQ8rUHgNu8ELOl1n2pD6y) | 2:30 |
 | 7 | [Levels](https://open.spotify.com/track/5BZZsMvRqiWBYuUZWPUy13) | [AGAAJ](https://open.spotify.com/artist/5BAHfrGXWsAdssqx1r4X8R) | [Levels](https://open.spotify.com/album/3XjsW8sq1eYFYtgbtfICOP) | 2:26 |
 | 8 | [Bar Bar](https://open.spotify.com/track/1hkjw8Vxcra0Y9CnpxtmDw) | [SHAVI](https://open.spotify.com/artist/4HGWwB0ifpyq6PLJPdLc3A) | [Bar Bar](https://open.spotify.com/album/54e2ah3fJXznrlbFIqHadX) | 2:32 |
 | 9 | [AWAARA](https://open.spotify.com/track/3MdxEdmROiQ4ZwmXtsY0WO) | [Sourex](https://open.spotify.com/artist/7cHm8Nhq3n63HzwETMuRaZ) | [AWAARA](https://open.spotify.com/album/74KBu8xZuUjyBoNWHjzHqL) | 2:28 |

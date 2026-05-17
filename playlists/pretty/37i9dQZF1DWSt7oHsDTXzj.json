@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 273162,
+  "num_followers": 273140,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "santa baby",
-        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 159209,
-      "name": "santa baby",
-      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Learning to Crawl (US Release)",
         "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "santa baby",
+        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 159209,
+      "name": "santa baby",
+      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Christmas (live from a restaurant in downtown Los Angeles)",
         "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2025-12-17 22:42:18",

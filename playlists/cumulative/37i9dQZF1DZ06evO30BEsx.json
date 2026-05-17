@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 604360,
       "name": "Cello Sonata in G Minor, Op. 19: IV. Allegro mosso",
       "url": "https://open.spotify.com/track/3A1h9wIPl9IXg7LvoijfQ5"
@@ -2304,6 +2304,48 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
+        "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        },
+        {
+          "name": "Blythe Teh Engstroem",
+          "url": "https://open.spotify.com/artist/0ctZb3X3jIZx8H3nwYvC3e"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Stephan Koncz",
+          "url": "https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414041,
+      "name": "Souvenir de Florence, Op. 70, TH 118: IV. Allegro vivace - Live from Verbier Festival / 2013",
+      "url": "https://open.spotify.com/track/7nj882q7Wd9O50o4W1egND"
     },
     {
       "album": {

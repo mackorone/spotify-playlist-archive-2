@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1689516,
+  "num_followers": 1689428,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Tragic Magic",
-        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 271087,
-      "name": "Maker",
-      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 271087,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Slide Tackle",
-      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 213186,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Slide Tackle",
+      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
+        "name": "I Love You, Brae",
+        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00e9ar",
+          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Queenstown",
+      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
-        "name": "I Love You, Brae",
-        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00e9ar",
-          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Queenstown",
-      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Mad At Me",
-        "url": "https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Mad At Me",
-      "url": "https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Sweet Lucy / Wild Mountain Thyme",
         "url": "https://open.spotify.com/album/57wSPDNu5pthfNZlrBIRjL"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
+        "name": "Mad At Me",
+        "url": "https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Mad At Me",
+      "url": "https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
         "name": "Tried to Tell You",
         "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Fanfare",
-      "url": "https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 217130,
       "name": "Teeth Marks",
       "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

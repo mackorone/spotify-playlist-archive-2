@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 82434,
+  "num_followers": 82481,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADffkrNxq4sta1819vWRklr",
+  "snapshot_id": "agZiAAAAAABExalLDXrJ6UQxFU67fOAs",
   "tracks": [
     {
       "added_at": null,
@@ -119,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
+      "duration_ms": 176933,
+      "name": "About You (feat. Tucker Wetmore)",
+      "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
     },
     {
       "added_at": null,
@@ -167,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 176933,
-      "name": "About You (feat. Tucker Wetmore)",
-      "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Cold (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Cold (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -399,6 +415,22 @@
       "duration_ms": 213600,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
     },
     {
       "added_at": null,
@@ -435,38 +467,6 @@
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 178531,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
+      "duration_ms": 144000,
+      "name": "Badu Flow",
+      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
     },
     {
       "added_at": null,
@@ -596,9 +596,25 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Badu Flow",
-      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
+      "duration_ms": 178531,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 179053,
       "name": "SAFE TO SAY",
       "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164954,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
         "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 194716,
       "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling Like Dennis",
-        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "Feeling Like Dennis",
-      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling Like Dennis",
+        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "Feeling Like Dennis",
+      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

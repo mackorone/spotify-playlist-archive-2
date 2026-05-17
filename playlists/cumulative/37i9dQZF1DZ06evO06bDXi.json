@@ -558,7 +558,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 167120,
       "name": "Elgar: Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
@@ -734,6 +734,36 @@
       "duration_ms": 224200,
       "name": "Il Postino: Theme",
       "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
+    },
+    {
+      "album": {
+        "name": "Saint-Saens: Le Carnaval des Animaux; Organ Symphony",
+        "url": "https://open.spotify.com/album/1mHSNRQQywgvuBLF4V6BtC"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536266,
+      "name": "Introduction et Rondo capriccioso, Op. 28, R. 188",
+      "url": "https://open.spotify.com/track/4hIifeWsD8PQJpemqAI9eV"
     },
     {
       "album": {
@@ -976,7 +1006,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 198893,
       "name": "Out of Africa: Main Title",
       "url": "https://open.spotify.com/track/0twtEOouu8gohnjlPGYa9O"
@@ -1182,7 +1212,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 316426,
       "name": "Remembrances",
       "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"

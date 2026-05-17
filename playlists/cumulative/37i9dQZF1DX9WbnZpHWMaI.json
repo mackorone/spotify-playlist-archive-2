@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 414918,
       "name": "A Prayer for the Dancefloor (feat. Conduit)",
       "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 195716,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
@@ -5917,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "HA HA HA",
+        "url": "https://open.spotify.com/album/4NX0ZjSayrZDwRKLu0yDdR"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288069,
+      "name": "HA HA HA",
+      "url": "https://open.spotify.com/track/6MePkdJLUWUb6DY3ptvLXx"
+    },
+    {
+      "album": {
         "name": "Hand on my heart",
         "url": "https://open.spotify.com/album/5r54C4zS7OMFAjOBI1gKzf"
       },
@@ -7706,6 +7724,24 @@
       "duration_ms": 374360,
       "name": "Jeanette",
       "url": "https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0"
+    },
+    {
+      "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
       "album": {
@@ -13816,7 +13852,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 293142,
       "name": "The Power",
       "url": "https://open.spotify.com/track/1zKDsM8zVAf3R68ND3VeLZ"
@@ -15192,6 +15228,24 @@
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1"
     },
     {
       "album": {

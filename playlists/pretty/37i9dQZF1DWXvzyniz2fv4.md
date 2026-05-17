@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,735 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,734 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 54 | [Toda Linda \(feat\. Caslu\)](https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T) | [Modo Avião](https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH) | 2:48 |
 | 55 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 56 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
-| 57 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
-| 58 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
+| 57 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
+| 58 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
 | 59 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
 | 60 | [Comemorar?](https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Comemorar?](https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml) | 3:10 |
 

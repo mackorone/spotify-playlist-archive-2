@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Gloria Anderson, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,651 likes - 72 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,673 likes - 72 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

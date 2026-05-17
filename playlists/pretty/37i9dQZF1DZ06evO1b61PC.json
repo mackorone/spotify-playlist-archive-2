@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11380,
+  "num_followers": 11381,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADuTLaeT6iCXECyBrwLR/99",
+  "snapshot_id": "agZiAAAAAAB1drI1/zjWa/26Y4nwyYjq",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 185142,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 205423,
       "name": "Don't Look Down (feat. BANKS)",
       "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
     },
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Gravity (feat. JMR)",
+      "url": "https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 182571,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Gravity (feat. JMR)",
-      "url": "https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H"
     },
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
       "artists": [
         {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         },
         {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Want It All (feat. Evalyn)",
-      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy For Me (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 201444,
       "name": "Easy For Me - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 123692,
-      "name": "Flight Log 822",
-      "url": "https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7"
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
+      "duration_ms": 123692,
+      "name": "Flight Log 822",
+      "url": "https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7"
     }
   ],
   "unique_name": "This Is Jai Wolf",

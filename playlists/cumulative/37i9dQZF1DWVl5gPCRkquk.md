@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-404 songs - 1 day 1 hr 10 min
+405 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 | 2021-10-29 |  |
 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 | 2022-04-15 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-29 |  |
+| [No Place to Be](https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Fondness, Etc.](https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF) | 2:55 | 2026-05-15 |  |
 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 | 2022-11-21 | 2026-05-02 |
 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 | 2026-05-01 |  |
 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 | 2021-10-29 | 2022-06-29 |
@@ -297,7 +298,7 @@
 | [Red and Neon](https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw) | [Peanut](https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty) | 3:10 | 2026-01-27 |  |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-04-15 | 2022-07-29 |
-| [Right on Time \- In Harmony](https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time \(In Harmony\)](https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I) | 3:07 | 2021-10-29 |  |
+| [Right on Time \- In Harmony](https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time \(In Harmony\)](https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I) | 3:07 | 2021-10-29 | 2026-05-17 |
 | [Road Trip](https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Garden Snake](https://open.spotify.com/album/5ndQYno2ocWkZFdbsnNcmD) | 3:05 | 2024-01-03 | 2024-11-05 |
 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 | 2025-01-16 |  |
 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 | 2024-12-06 |  |

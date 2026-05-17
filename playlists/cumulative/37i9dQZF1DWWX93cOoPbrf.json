@@ -15209,6 +15209,24 @@
     },
     {
       "album": {
+        "name": "El Sieteh",
+        "url": "https://open.spotify.com/album/0BY2DlS9YdLe3ogF05wpNt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Elexion",
+          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "El Sieteh",
+      "url": "https://open.spotify.com/track/55VA0XDT9jc2sgHJht85xO"
+    },
+    {
+      "album": {
         "name": "El Sin Hueso",
         "url": "https://open.spotify.com/album/1fnhNiYrd2J984T2nebDNX"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u0445\u0456\u0442\u0438 \u0442\u0430 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: David Glads",
-  "num_followers": 39139,
+  "num_followers": 39137,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "\u041a\u0438\u043b\u0438\u043c",
-        "url": "https://open.spotify.com/album/6jyJTIdgjzgyPltPQYnyux"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 183041,
-      "name": "\u041a\u0438\u043b\u0438\u043c",
-      "url": "https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
         "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0422\u0438",
         "url": "https://open.spotify.com/album/33qWxCQhN1VFCgRv1aWAxu"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "\u041a\u0438\u043b\u0438\u043c",
+        "url": "https://open.spotify.com/album/6jyJTIdgjzgyPltPQYnyux"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 183041,
+      "name": "\u041a\u0438\u043b\u0438\u043c",
+      "url": "https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u0421\u0435\u043a\u0441 \u0437\u0430 \u043c\u0456\u0441\u0442\u043e\u043c",
         "url": "https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "\u041c\u0456\u0441\u0442\u043e",
-        "url": "https://open.spotify.com/album/3PLSlPuOywVMQB3gr5xnmM"
-      },
-      "artists": [
-        {
-          "name": "Ziferblat",
-          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
-        }
-      ],
-      "duration_ms": 249193,
-      "name": "\u041c\u0456\u0441\u0442\u043e",
-      "url": "https://open.spotify.com/track/0VtqPfb1Ln1AIKSc8jamcU"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
         "name": "\u041c\u0438 \u0442\u0443\u0442 \u0449\u043e\u0431 \u0436\u0438\u0442\u0438",
         "url": "https://open.spotify.com/album/5i6i8MC75FR7ZofwqWczmf"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 160893,
       "name": "\u041c\u0438 \u0442\u0443\u0442 \u0449\u043e\u0431 \u0436\u0438\u0442\u0438",
       "url": "https://open.spotify.com/track/5BeJImIcn815YAHA9Smt4z"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
+        "name": "\u041c\u0456\u0441\u0442\u043e",
+        "url": "https://open.spotify.com/album/3PLSlPuOywVMQB3gr5xnmM"
+      },
+      "artists": [
+        {
+          "name": "Ziferblat",
+          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
+        }
+      ],
+      "duration_ms": 249193,
+      "name": "\u041c\u0456\u0441\u0442\u043e",
+      "url": "https://open.spotify.com/track/0VtqPfb1Ln1AIKSc8jamcU"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "Viskra",
-        "url": "https://open.spotify.com/album/6tKb5eqYdO6scLOYgzEov5"
-      },
-      "artists": [
-        {
-          "name": "YUVI",
-          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
-        }
-      ],
-      "duration_ms": 160004,
-      "name": "\u0430\u0439",
-      "url": "https://open.spotify.com/track/4zdhmTiQe7PmFa9xigWDKb"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
         "name": "\u042f \u043c\u0430\u043b\u044e\u044e \u0437\u043d\u0430\u043a",
         "url": "https://open.spotify.com/album/2LotcDJp06LEXrGQVFGJFk"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 212888,
       "name": "\u042f \u043c\u0430\u043b\u044e\u044e \u0437\u043d\u0430\u043a",
       "url": "https://open.spotify.com/track/4xpIJ38jfP9CAo6Cdh4lqC"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
+        "name": "Viskra",
+        "url": "https://open.spotify.com/album/6tKb5eqYdO6scLOYgzEov5"
+      },
+      "artists": [
+        {
+          "name": "YUVI",
+          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
+        }
+      ],
+      "duration_ms": 160004,
+      "name": "\u0430\u0439",
+      "url": "https://open.spotify.com/track/4zdhmTiQe7PmFa9xigWDKb"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1sx9FLrd4NeqI3Gd87d73P"
+      },
+      "artists": [
+        {
+          "name": "teeNsad",
+          "url": "https://open.spotify.com/artist/7elTC4UjdEVwcpEnOvHoUN"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "\u0442\u0435\u043f\u043b\u043e \u043d\u0430\u0448\u0438\u0445 \u0442\u0456\u043b",
+      "url": "https://open.spotify.com/track/59fGdTf3pd5i1lDiiXTLch"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u0413\u0435\u043d\u0456\u0439-\u0441\u0443\u043f\u0435\u0440\u0437\u0456\u0440\u043a\u0430",
         "url": "https://open.spotify.com/album/0Vx9Ogw9i485UO8CuH1Jcj"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 212115,
       "name": "\u0421\u0430\u043c\u043e\u0442\u043d\u0456 \u0440\u0430\u0437\u043e\u043c \u043d\u0430\u0437\u0430\u0432\u0436\u0434\u0438",
       "url": "https://open.spotify.com/track/5YPmwgOBnOlC8vfgUwABa9"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1sx9FLrd4NeqI3Gd87d73P"
-      },
-      "artists": [
-        {
-          "name": "teeNsad",
-          "url": "https://open.spotify.com/artist/7elTC4UjdEVwcpEnOvHoUN"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "\u0442\u0435\u043f\u043b\u043e \u043d\u0430\u0448\u0438\u0445 \u0442\u0456\u043b",
-      "url": "https://open.spotify.com/track/59fGdTf3pd5i1lDiiXTLch"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "\u041d\u0435 \u043e\u043a",
+        "url": "https://open.spotify.com/album/7ulwE33RFokcfYeiPpaCYX"
+      },
+      "artists": [
+        {
+          "name": "Darie Lu",
+          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "\u041d\u0435 \u043e\u043a",
+      "url": "https://open.spotify.com/track/1qa3LGMCn0yRZ8A1HA7H3f"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u041d\u0410\u0419\u0414\u0415\u0428\u0415\u0412\u0428\u0410 \u0422\u0420\u0410\u0412\u0410",
         "url": "https://open.spotify.com/album/17jE6EHtCby0Kx1AXDXVnx"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "\u041d\u0435 \u043e\u043a",
-        "url": "https://open.spotify.com/album/7ulwE33RFokcfYeiPpaCYX"
+        "name": "\u0417\u0456\u0439\u0434\u0435 \u0440\u043e\u0441\u0430",
+        "url": "https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu"
       },
       "artists": [
         {
-          "name": "Darie Lu",
-          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
+          "name": "Do Sliz",
+          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
         }
       ],
-      "duration_ms": 164204,
-      "name": "\u041d\u0435 \u043e\u043a",
-      "url": "https://open.spotify.com/track/1qa3LGMCn0yRZ8A1HA7H3f"
+      "duration_ms": 220800,
+      "name": "\u0417\u0456\u0439\u0434\u0435 \u0440\u043e\u0441\u0430",
+      "url": "https://open.spotify.com/track/530ESVh9HEg4Ug6bLB0bnL"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -859,22 +875,6 @@
       "duration_ms": 165000,
       "name": "\u041d\u0443 \u0456 \u043f\u043e\u0445\u0443\u0439",
       "url": "https://open.spotify.com/track/0sdBEGb1tVCleo2CzJWwQM"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
-        "name": "\u0417\u0456\u0439\u0434\u0435 \u0440\u043e\u0441\u0430",
-        "url": "https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu"
-      },
-      "artists": [
-        {
-          "name": "Do Sliz",
-          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "\u0417\u0456\u0439\u0434\u0435 \u0440\u043e\u0441\u0430",
-      "url": "https://open.spotify.com/track/530ESVh9HEg4Ug6bLB0bnL"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "\u0414\u0438\u0432\u043b\u044e\u0441\u044c \u043d\u0430 \u0456\u043d\u0448\u0438\u0445",
-        "url": "https://open.spotify.com/album/2RUAWpTrs27a3gTwZpzL0p"
-      },
-      "artists": [
-        {
-          "name": "bulovinova",
-          "url": "https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P"
-        }
-      ],
-      "duration_ms": 171038,
-      "name": "\u0414\u0438\u0432\u043b\u044e\u0441\u044c \u043d\u0430 \u0456\u043d\u0448\u0438\u0445",
-      "url": "https://open.spotify.com/track/5DpXzbMrEnVPAURrnOIxCm"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
         "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
         "url": "https://open.spotify.com/album/5poYOMNs33FOUy49Tu8Tfj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 264000,
       "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
       "url": "https://open.spotify.com/track/5ipHXEO6huR9GXel3WgTxg"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
+        "name": "\u0414\u0438\u0432\u043b\u044e\u0441\u044c \u043d\u0430 \u0456\u043d\u0448\u0438\u0445",
+        "url": "https://open.spotify.com/album/2RUAWpTrs27a3gTwZpzL0p"
+      },
+      "artists": [
+        {
+          "name": "bulovinova",
+          "url": "https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "\u0414\u0438\u0432\u043b\u044e\u0441\u044c \u043d\u0430 \u0456\u043d\u0448\u0438\u0445",
+      "url": "https://open.spotify.com/track/5DpXzbMrEnVPAURrnOIxCm"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "\u0421\u0435\u0440\u0446\u0435 \u0445\u043e\u0447\u0435 \u0440\u0430\u0434\u0438\u043a\u0430\u043b\u044c\u043d\u0438\u0445 \u0437\u043c\u0456\u043d",
+        "url": "https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D"
+      },
+      "artists": [
+        {
+          "name": "\u042f \u0422\u043e\u043d\u044f",
+          "url": "https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a"
+        }
+      ],
+      "duration_ms": 215991,
+      "name": "\u0421\u0435\u0440\u0446\u0435 \u0445\u043e\u0447\u0435 \u0440\u0430\u0434\u0438\u043a\u0430\u043b\u044c\u043d\u0438\u0445 \u0437\u043c\u0456\u043d",
+      "url": "https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u0412\u0456\u0448\u043b\u0456\u0441\u0442",
         "url": "https://open.spotify.com/album/2LQxfeNVKqR6HQRRTDESzz"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 263516,
       "name": "\u0412\u0456\u0448\u043b\u0456\u0441\u0442",
       "url": "https://open.spotify.com/track/47hZVeRyKcxRmmXtTbTD7o"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
-        "name": "\u0421\u0435\u0440\u0446\u0435 \u0445\u043e\u0447\u0435 \u0440\u0430\u0434\u0438\u043a\u0430\u043b\u044c\u043d\u0438\u0445 \u0437\u043c\u0456\u043d",
-        "url": "https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D"
-      },
-      "artists": [
-        {
-          "name": "\u042f \u0422\u043e\u043d\u044f",
-          "url": "https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a"
-        }
-      ],
-      "duration_ms": 215991,
-      "name": "\u0421\u0435\u0440\u0446\u0435 \u0445\u043e\u0447\u0435 \u0440\u0430\u0434\u0438\u043a\u0430\u043b\u044c\u043d\u0438\u0445 \u0437\u043c\u0456\u043d",
-      "url": "https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "\u044f\u0440\u0456\u043c\u0430\u0442\u0456\u043b\u0430\u0442\u0432\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/5F4thnoF6WUjnYQOyqHDmI"
+      },
+      "artists": [
+        {
+          "name": "\u043f\u0443\u043b\u0435\u043d\u0431\u0456\u0440",
+          "url": "https://open.spotify.com/artist/3a0KMTr7p0eHISBvONnkae"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "\u044f\u0440\u0456\u043c\u0430\u0442\u0456\u043b\u0430\u0442\u0432\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u0422\u0432\u0456\u0439 \u0422\u0440\u0435\u043a",
         "url": "https://open.spotify.com/album/7kF3WJYLZ6XwuofO7l6Z1K"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 148905,
       "name": "\u041f\u0435\u0440\u0435\u0434\u043e\u0437",
       "url": "https://open.spotify.com/track/1q68eKAnjgcgwZ66VuFlIr"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
-        "name": "\u044f\u0440\u0456\u043c\u0430\u0442\u0456\u043b\u0430\u0442\u0432\u0430\u043b\u0430",
-        "url": "https://open.spotify.com/album/5F4thnoF6WUjnYQOyqHDmI"
-      },
-      "artists": [
-        {
-          "name": "\u043f\u0443\u043b\u0435\u043d\u0431\u0456\u0440",
-          "url": "https://open.spotify.com/artist/3a0KMTr7p0eHISBvONnkae"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "\u044f\u0440\u0456\u043c\u0430\u0442\u0456\u043b\u0430\u0442\u0432\u0430\u043b\u0430",
-      "url": "https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa"
     },
     {
       "added_at": "2026-05-14 21:18:05",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
+        "name": "\u041d\u0430 \u0412\u0435\u0440\u0448\u0438\u043d\u0456",
+        "url": "https://open.spotify.com/album/0exFJWpOLVA911DwkhvJJf"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u041a\u0412\u0415\u0420",
+          "url": "https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6"
+        }
+      ],
+      "duration_ms": 225675,
+      "name": "\u041d\u0430 \u0412\u0435\u0440\u0448\u0438\u043d\u0456",
+      "url": "https://open.spotify.com/track/3ObHaVH2Wb4OtkTEMKjaTo"
+    },
+    {
+      "added_at": "2026-05-14 21:18:05",
+      "album": {
         "name": "\u0437\u043b\u0456\u0442\u0430\u0439",
         "url": "https://open.spotify.com/album/6iJXacCJ2X7eMfSTPALTRj"
       },
@@ -1315,34 +1331,18 @@
     {
       "added_at": "2026-05-14 21:18:05",
       "album": {
-        "name": "\u041d\u0430 \u0412\u0435\u0440\u0448\u0438\u043d\u0456",
-        "url": "https://open.spotify.com/album/0exFJWpOLVA911DwkhvJJf"
+        "name": "\u041c\u0443\u0441\u0442\u0430\u043d\u0433",
+        "url": "https://open.spotify.com/album/4ALfGX7fLQfuFwxHci7m3n"
       },
       "artists": [
         {
-          "name": "\u0421\u041a\u0412\u0415\u0420",
-          "url": "https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6"
+          "name": "HLIBOROB",
+          "url": "https://open.spotify.com/artist/00HxF49G1Lkku0sJoxQW5k"
         }
       ],
-      "duration_ms": 225675,
-      "name": "\u041d\u0430 \u0412\u0435\u0440\u0448\u0438\u043d\u0456",
-      "url": "https://open.spotify.com/track/3ObHaVH2Wb4OtkTEMKjaTo"
-    },
-    {
-      "added_at": "2026-05-14 21:18:05",
-      "album": {
-        "name": "\u0411\u0456\u043b\u044c \u043f\u0435\u0440\u0435\u0445\u0456\u0434\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u0443",
-        "url": "https://open.spotify.com/album/35lStdNGEMDaZ7S1yCp5DE"
-      },
-      "artists": [
-        {
-          "name": "Berliner D\u00f6ner",
-          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "\u0441\u043e\u043d\u0446\u0435",
-      "url": "https://open.spotify.com/track/2wghOcJn6yPpd6PKTkBrnL"
+      "duration_ms": 251612,
+      "name": "\u041c\u0443\u0441\u0442\u0430\u043d\u0433",
+      "url": "https://open.spotify.com/track/3jtAknEW7Z4xzpacfRIZbN"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

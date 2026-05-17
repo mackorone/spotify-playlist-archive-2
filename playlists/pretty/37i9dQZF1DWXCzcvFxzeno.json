@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
-  "num_followers": 498413,
+  "num_followers": 498674,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 165049,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -231,22 +231,26 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+        "name": "SHIVA",
+        "url": "https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u"
       },
       "artists": [
         {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
         },
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Flawx",
+          "url": "https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
+      "duration_ms": 220714,
+      "name": "SHIVA",
+      "url": "https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -271,26 +275,22 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "SHIVA",
-        "url": "https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
       },
       "artists": [
         {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         },
         {
-          "name": "Flawx",
-          "url": "https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         }
       ],
-      "duration_ms": 220714,
-      "name": "SHIVA",
-      "url": "https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL"
+      "duration_ms": 171000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -323,30 +323,6 @@
       "duration_ms": 193345,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
-        "name": "Fuck This",
-        "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "elMefti",
-          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
-        },
-        {
-          "name": "FACELESS",
-          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
-        }
-      ],
-      "duration_ms": 207631,
-      "name": "Fuck This",
-      "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -387,6 +363,30 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
+        "name": "Fuck This",
+        "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
+        },
+        {
+          "name": "FACELESS",
+          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
+        }
+      ],
+      "duration_ms": 207631,
+      "name": "Fuck This",
+      "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
         "name": "Let the Bass Kick",
         "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
       },
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
         "name": "4am In A Rave / Speed Is A Deed",
         "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "SCHREI NACH LIEBE",
-        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 149612,
-      "name": "SCHREI NACH LIEBE",
-      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
         "name": "Die Tonight",
         "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "SCHREI NACH LIEBE",
+        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 149612,
+      "name": "SCHREI NACH LIEBE",
+      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "TASTE MY LOVE",
-        "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
+        "name": "Turn The Music Down",
+        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
       },
       "artists": [
         {
-          "name": "FoxTune",
-          "url": "https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 185343,
-      "name": "TASTE MY LOVE",
-      "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
+      "duration_ms": 148800,
+      "name": "Turn The Music Down",
+      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Turn The Music Down",
-        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
+        "name": "TASTE MY LOVE",
+        "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "FoxTune",
+          "url": "https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Turn The Music Down",
-      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
+      "duration_ms": 185343,
+      "name": "TASTE MY LOVE",
+      "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
         "name": "HEAR THIZ MF",
         "url": "https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 143264,
       "name": "HEAR THIZ MF",
       "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Rave 4 love",
-        "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        }
-      ],
-      "duration_ms": 301627,
-      "name": "Rave 4 love",
-      "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
         "name": "Shivaya (Remix)",
         "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202838,
       "name": "Shivaya - Remix",
       "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "Rave 4 love",
+        "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        }
+      ],
+      "duration_ms": 301627,
+      "name": "Rave 4 love",
+      "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "GOD_MODE",
-        "url": "https://open.spotify.com/album/5Kb2yX0CH8oLDLnfZRtunT"
+        "name": "10.000 Flores",
+        "url": "https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
-        },
-        {
-          "name": "SLVL",
-          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
         }
       ],
-      "duration_ms": 210003,
-      "name": "GOD_MODE",
-      "url": "https://open.spotify.com/track/4w7jPxQ0KOEKPXSNRlt3hX"
+      "duration_ms": 263874,
+      "name": "10.000 Flores",
+      "url": "https://open.spotify.com/track/543rnl651yHWLNP41A5D1t"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "10.000 Flores",
-        "url": "https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV"
+        "name": "GOD_MODE",
+        "url": "https://open.spotify.com/album/5Kb2yX0CH8oLDLnfZRtunT"
       },
       "artists": [
         {
-          "name": "AEREA",
-          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        },
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
         }
       ],
-      "duration_ms": 263874,
-      "name": "10.000 Flores",
-      "url": "https://open.spotify.com/track/543rnl651yHWLNP41A5D1t"
+      "duration_ms": 210003,
+      "name": "GOD_MODE",
+      "url": "https://open.spotify.com/track/4w7jPxQ0KOEKPXSNRlt3hX"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
         "name": "Adagio For Strings",
         "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 360000,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1771,38 +1771,6 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Get Naughty",
-        "url": "https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 117677,
-      "name": "Get Naughty",
-      "url": "https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
-        "name": "Nightcore",
-        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
-      },
-      "artists": [
-        {
-          "name": "Lady Maru",
-          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Nightcore",
-      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
         "name": "Save Me (Remixes)",
         "url": "https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3"
       },
@@ -1823,6 +1791,38 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
+        "name": "Nightcore",
+        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
+      },
+      "artists": [
+        {
+          "name": "Lady Maru",
+          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Nightcore",
+      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "Get Naughty",
+        "url": "https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 117677,
+      "name": "Get Naughty",
+      "url": "https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
         "name": "Phatt Bass",
         "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
       },
@@ -1839,6 +1839,22 @@
       "duration_ms": 255584,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
+    },
+    {
+      "added_at": "2026-05-07 08:04:53",
+      "album": {
+        "name": "Medication",
+        "url": "https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL"
+      },
+      "artists": [
+        {
+          "name": "D\u00d8MINA",
+          "url": "https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD"
+        }
+      ],
+      "duration_ms": 238509,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm"
     },
     {
       "added_at": "2026-05-07 08:04:53",
@@ -1867,34 +1883,18 @@
     {
       "added_at": "2026-05-07 08:04:53",
       "album": {
-        "name": "Medication",
-        "url": "https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL"
+        "name": "ich kann's nicht",
+        "url": "https://open.spotify.com/album/7Gh3M3zC9edZhiuWsJ6CNK"
       },
       "artists": [
         {
-          "name": "D\u00d8MINA",
-          "url": "https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD"
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
         }
       ],
-      "duration_ms": 238509,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm"
-    },
-    {
-      "added_at": "2026-05-07 08:04:53",
-      "album": {
-        "name": "Devils Got My Back",
-        "url": "https://open.spotify.com/album/2aSrnAjieDsZl8nbKdTk2n"
-      },
-      "artists": [
-        {
-          "name": "Basswell",
-          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Devils Got My Back",
-      "url": "https://open.spotify.com/track/0PItAl4HEXoEfK5NMRCAQW"
+      "duration_ms": 170156,
+      "name": "ich kann's nicht",
+      "url": "https://open.spotify.com/track/3xT6oaM80PoSGyZaUt8sTZ"
     }
   ],
   "unique_name": "Hard Techno",

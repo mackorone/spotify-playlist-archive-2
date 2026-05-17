@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 94696,
+  "num_followers": 94702,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
-        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
       "artists": [
         {
@@ -488,17 +488,21 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
         },
         {
-          "name": "Zhu Wang",
-          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 161146,
-      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin & Piano)",
-      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
+      "duration_ms": 1224000,
+      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
+      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -531,8 +535,8 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin Fantasy",
-        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
       },
       "artists": [
         {
@@ -540,21 +544,17 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Zhu Wang",
+          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
         }
       ],
-      "duration_ms": 1224000,
-      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
-      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+      "duration_ms": 161146,
+      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin & Piano)",
+      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
     },
     {
       "added_at": "2025-12-15 11:57:31",

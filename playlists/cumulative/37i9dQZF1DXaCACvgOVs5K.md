@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-503 songs - 1 day 5 hr 46 min
+504 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 | 2025-09-18 |  |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-07-26 | 2024-04-19 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-04 | 2023-08-18 |
-| [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4) | 3:00 | 2026-04-30 |  |
+| [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4) | 3:00 | 2026-04-30 | 2026-05-17 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 | 2023-10-19 | 2024-04-19 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-05-19 | 2023-12-24 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-19 | 2024-07-05 |
@@ -243,6 +243,7 @@
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2022-08-26 | 2023-01-19 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-08-26 | 2025-04-18 |
 | [La Fiesta](https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [La Fiesta](https://open.spotify.com/album/3DrNNJtb95HOnFrECKZqvE) | 2:58 | 2026-04-30 | 2026-05-15 |
+| [La La Land](https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [ESSENTIA](https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k) | [La La Land](https://open.spotify.com/album/2IBPM3ympEL7o5vkWYEJfv) | 3:07 | 2026-05-14 |  |
 | [La Luna](https://open.spotify.com/track/5afZm32oXtSeL8azZ0IJdo) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [La Luna](https://open.spotify.com/album/1F17plZRxOhvYgt18ZcrnJ) | 3:11 | 2026-04-30 |  |
 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 | 2026-04-30 |  |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-08-26 | 2025-04-18 |

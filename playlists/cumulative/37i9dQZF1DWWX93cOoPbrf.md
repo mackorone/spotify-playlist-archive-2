@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Christian Ortega en portada.
 
-1,862 songs - 3 day 22 hr 30 min
+1,863 songs - 3 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [El Señor de la A 2](https://open.spotify.com/track/351cyxunKr8RmTzhhs9sRL) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Señor de la A 2](https://open.spotify.com/album/7IQDzjG6TBjQzSX6jE4tUa) | 2:42 | 2022-07-29 | 2022-10-08 |
 | [El Señor De La Montaña \- Live](https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Señor De La Montaña \(Live\)](https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97) | 4:00 | 2024-11-29 | 2025-02-22 |
 | [El Señor De Las Cachas](https://open.spotify.com/track/1G3TYKJOP5VfwfzOSEgiUf) | [Los Sembradores](https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm) | [El Señor De Las Cachas](https://open.spotify.com/album/7Jm0CplKBZaM9KKr9kcfbm) | 3:08 | 2023-01-13 | 2023-01-21 |
+| [El Sieteh](https://open.spotify.com/track/55VA0XDT9jc2sgHJht85xO) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [El Sieteh](https://open.spotify.com/album/0BY2DlS9YdLe3ogF05wpNt) | 3:02 | 2026-05-15 |  |
 | [El Sin Hueso](https://open.spotify.com/track/1CiBELgbxeY8Rrjrhdb5Km) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [El Sin Hueso](https://open.spotify.com/album/1fnhNiYrd2J984T2nebDNX) | 2:57 | 2024-05-03 | 2024-07-13 |
 | [El Sombrero](https://open.spotify.com/track/3kadohzYsxiRuacqs5TDT0) | [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [El Sombrero](https://open.spotify.com/album/6Y9R5zFHlSfAqM3Eo7v4Uk) | 2:09 | 2023-04-28 | 2023-05-06 |
 | [El Sombrero Del Mercadito](https://open.spotify.com/track/0A22ZsBBqLDM8qnqlvXjXQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Sombrero Del Mercadito](https://open.spotify.com/album/63BFkVslnXUFMBffS7JtgF) | 2:54 | 2023-02-17 | 2023-03-04 |

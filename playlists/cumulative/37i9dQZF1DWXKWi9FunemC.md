@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-436 songs - 1 day 3 hr 51 min
+437 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 | 2023-07-28 | 2026-04-18 |
 | [Don't Let Me Stray](https://open.spotify.com/track/1XCpH3pqDi1dsOPPKsXyfS) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Don't Let Me Stray](https://open.spotify.com/album/1IdIWg8IWI1aHE4f2eWO2z) | 5:31 | 2025-08-06 | 2025-10-11 |
 | [Don't Stop Praying \(Acoustic\)](https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Don't Stop Praying \(Acoustic\)](https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L) | 4:19 | 2024-06-23 |  |
-| [Down To Earth](https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Down To Earth](https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb) | 3:41 | 2026-03-23 |  |
+| [Down To Earth](https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Down To Earth](https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb) | 3:41 | 2026-03-23 | 2026-05-17 |
 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-19 | 2026-03-24 |
 | [Echoes Of Love](https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Echoes Of Love](https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt) | 3:31 | 2024-06-23 | 2024-08-03 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-07-28 | 2024-06-24 |
@@ -370,6 +370,7 @@
 | [The Sacrifice](https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [The Sacrifice](https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB) | 3:48 | 2025-08-06 |  |
 | [The Secret Place \(feat\. Madison Cunningham\) \- Acoustic](https://open.spotify.com/track/2kLHSJ9B6sqDYggynPrNiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/3x5CRN5vXyPcBuaFOg4D6k) | 4:43 | 2020-08-31 | 2022-07-29 |
 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 | 2020-08-31 | 2024-04-19 |
+| [The Water](https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 3:34 | 2026-04-17 |  |
 | [The Word Remains](https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR) | [Woodside Worship](https://open.spotify.com/artist/51TNr4se0ZZqdT55ydHiRX) | [The Word Remains](https://open.spotify.com/album/0sZsZtYQfj2PNZ9THp2fFo) | 4:49 | 2020-08-31 | 2024-06-24 |
 | [This Holy Moment](https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi) | [Neal Carpenter](https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8), [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [This Holy Moment](https://open.spotify.com/album/3topP3w3C25at3bUbkvglb) | 3:32 | 2025-10-10 | 2026-03-25 |
 | [This Is How I Thank The Lord \- Acoustic](https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [This is How I Thank The Lord \(Acoustic\)](https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ) | 2:58 | 2024-08-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220752,
+  "num_followers": 220762,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAC/BvWjjMGuE8RKp1PxbmGb",
+  "snapshot_id": "agZiAAAAAACLErdmz27C5wFU0R2xo9DO",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 168000,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Blue Sky & The Painter",
-      "url": "https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Gone Mad (From Bright: The Album)",
         "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195700,
       "name": "World Gone Mad",
       "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Blue Sky & The Painter",
+      "url": "https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 177221,
       "name": "Distorted Light Beam",
       "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,

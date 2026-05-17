@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,006 songs - 2 day 13 hr 3 min
+1,007 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [For Myself](https://open.spotify.com/track/3HWzaX6AK97TZKU0FjvcHz) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:05 | 2026-03-12 | 2026-05-06 |
 | [For You](https://open.spotify.com/track/3ZPgyQzK9cwKMQzxDFiYRd) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/0TrqwVnAcuTtGU7VcRJFiJ) | 2:07 | 2024-07-12 | 2024-09-08 |
 | [For You](https://open.spotify.com/track/3iyyhV6kIgzwzRu7gOjV7u) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Welcome To The Cruise](https://open.spotify.com/album/5S3tGTzTgNl45UJCIY7tNd) | 2:38 | 2025-09-13 | 2025-11-15 |
+| [Forced Perspective](https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:25 | 2026-05-16 |  |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-01-30 | 2024-03-10 |
 | [Forget Me Not](https://open.spotify.com/track/3Cb9gPgWkwBmGjVtoJoqrS) | [Roy Harper](https://open.spotify.com/artist/424ZDRAZzCKKUXvzvv52ox) | [HQ \(Remastered\)](https://open.spotify.com/album/3JV0kDftm6nMsTpjZGgo86) | 2:24 | 2026-05-05 |  |
 | [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 | 2024-05-24 | 2024-07-12 |

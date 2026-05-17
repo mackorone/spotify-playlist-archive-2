@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17213,
+  "num_followers": 17211,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
+        "name": "Rainy Season",
+        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Rainy Season",
+      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
+    },
+    {
+      "added_at": "2026-03-26 09:39:41",
+      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 216064,
       "name": "Salt Rain",
       "url": "https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy"
-    },
-    {
-      "added_at": "2026-03-26 09:39:41",
-      "album": {
-        "name": "Rainy Season",
-        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 222285,
-      "name": "Rainy Season",
-      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
     },
     {
       "added_at": "2026-03-26 09:39:41",
@@ -743,42 +743,6 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
-        "name": "Dingo X KIXO - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Dingo X KIXO - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2026-03-26 09:39:41",
-      "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
-    },
-    {
-      "added_at": "2026-03-26 09:39:41",
-      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -811,6 +775,42 @@
       "duration_ms": 203500,
       "name": "Alive with you (feat. SFC.JGR)",
       "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
+    },
+    {
+      "added_at": "2026-03-26 09:39:41",
+      "album": {
+        "name": "Dingo X KIXO - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Dingo X KIXO - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "added_at": "2026-03-26 09:39:41",
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "added_at": "2026-03-26 09:39:41",

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 101180,
+  "num_followers": 101183,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 333816,
-      "name": "China Girl - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 333816,
+      "name": "China Girl - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "OU812",
-        "url": "https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 339840,
-      "name": "When It's Love",
-      "url": "https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "OU812",
+        "url": "https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 339840,
+      "name": "When It's Love",
+      "url": "https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss"
     },
     {
       "added_at": "2024-07-12 14:55:35",

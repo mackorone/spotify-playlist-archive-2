@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,652 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,571 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 20 | [LINDOS RECUERDOS](https://open.spotify.com/track/4TOFbtRgXpWRnfC2qFfYtW) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LINDOS RECUERDOS](https://open.spotify.com/album/2gXWrKNLjcZTi51GepYx3C) | 3:16 |
 | 21 | [YeYe](https://open.spotify.com/track/6lJtEgHJEWUBxbe7xKBaTP) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [YeYe](https://open.spotify.com/album/3a5CFEGEgVIk9j3cTifRVv) | 2:55 |
 | 22 | [Mira Como Me Tienes](https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [X Amor al Arte](https://open.spotify.com/album/4p7prXOtCEjiwU0iWb62fP) | 3:08 |
-| 23 | [NAVE \(FUNKHALL\)](https://open.spotify.com/track/7m8SXOgdGiLXh1SVCmOcOp) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [Mc Lil do Santa](https://open.spotify.com/artist/1yqyRHa0RxsTztiDnoKMJt) | [CONEXÃO JAMAICA BRASILEIRA, VOL\. 1](https://open.spotify.com/album/5EhKNu35AyDVQBxCC4Tq2q) | 2:43 |
+| 23 | [NAVE \(FUNKHALL\)](https://open.spotify.com/track/7m8SXOgdGiLXh1SVCmOcOp) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [WuK Beats](https://open.spotify.com/artist/0mOHdejlG5ca8NkzkS1Zmt), [Mc Lil do Santa](https://open.spotify.com/artist/1yqyRHa0RxsTztiDnoKMJt) | [CONEXÃO JAMAICA BRASILEIRA, VOL\. 1](https://open.spotify.com/album/5EhKNu35AyDVQBxCC4Tq2q) | 2:43 |
 | 24 | [LUCID DREAMS](https://open.spotify.com/track/0Ep9mfByYoxK6iCW3gnTI1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [COBRA](https://open.spotify.com/album/6YtZ8VN5iNj6aUXqlr6XDk) | 2:58 |
 | 25 | [GPS \#8 \- Por Mi Bien](https://open.spotify.com/track/79UJXCfYKEcx9LGY2ZjTuG) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Georgy Parra Salvaje](https://open.spotify.com/album/5gvUss3lmDYiPYkOP6dPpE) | 2:45 |
 | 26 | [La Buena](https://open.spotify.com/track/0ttaVNl8XOHTPtrCzQL20I) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [La Buena](https://open.spotify.com/album/4jgH09kysdekgRaUkHUEHb) | 2:32 |

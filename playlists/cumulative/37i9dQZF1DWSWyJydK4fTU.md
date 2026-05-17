@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-358 songs - 18 hr 8 min
+360 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Große grüne Wiese](https://open.spotify.com/track/4dOs9LICvMjlOGlON9hb4I) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Große grüne Wiese](https://open.spotify.com/album/6pakVsYX4W1DJbyAQV2aex) | 2:35 | 2026-04-02 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2025-06-21 |
 | [Halo](https://open.spotify.com/track/74KNUsROKQpivX8RHHwwr9) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Halo](https://open.spotify.com/album/1hR2Fahege0dQiUnRBm94b) | 2:56 | 2024-10-03 | 2025-02-28 |
-| [HALTDEINMAUL](https://open.spotify.com/track/1H8rHfjnlDYiTNzGqV3oGp) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [HALTDEINMAUL](https://open.spotify.com/album/7hNoHWpmkTDdXIZRiuuJzT) | 2:51 | 2026-03-05 |  |
+| [HALTDEINMAUL](https://open.spotify.com/track/1H8rHfjnlDYiTNzGqV3oGp) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [HALTDEINMAUL](https://open.spotify.com/album/7hNoHWpmkTDdXIZRiuuJzT) | 2:51 | 2026-03-05 | 2026-05-17 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-22 | 2024-10-04 |
 | [Hast du kurz Zeit](https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ) | 2:13 | 2025-09-24 | 2026-01-31 |
 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 | 2025-05-22 | 2025-08-02 |
@@ -174,11 +174,12 @@
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-18 | 2026-01-03 |
 | [Is This What You've Been Waiting For?](https://open.spotify.com/track/5GQcyVcnALfm9IU2uGmm0p) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Is This What You've Been Waiting For?](https://open.spotify.com/album/7D76N6Tx5MdC6h5itARNT0) | 3:34 | 2025-06-04 | 2025-11-18 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2024-06-20 | 2024-07-11 |
-| [It Takes A Village](https://open.spotify.com/track/0J6zVLXz3BEtlGE58z5lIu) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Takes A Village](https://open.spotify.com/album/7icnIK1BEAb0PPsB6LYPEr) | 2:32 | 2026-04-23 |  |
+| [It Takes A Village](https://open.spotify.com/track/0J6zVLXz3BEtlGE58z5lIu) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Takes A Village](https://open.spotify.com/album/7icnIK1BEAb0PPsB6LYPEr) | 2:32 | 2026-04-23 | 2026-05-17 |
 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-02 | 2024-09-14 |
 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 | 2026-04-23 | 2026-05-15 |
 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-05 | 2026-03-20 |
 | [Jedes Jahr](https://open.spotify.com/track/0wRu4iD5DqZxL7jjwcRr0j) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Jedes Jahr](https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9) | 2:54 | 2025-11-17 | 2026-01-03 |
+| [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-14 |  |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-10-11 | 2025-02-20 |
 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 | 2026-05-07 | 2026-05-15 |
 | [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 | 2024-06-20 | 2026-01-03 |
@@ -300,6 +301,7 @@
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-06-20 | 2024-08-08 |
 | [Summer In The Woods](https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Summer In The Woods](https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6) | 3:04 | 2026-03-19 | 2026-05-15 |
 | [Sun](https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Derik Fein Essentials](https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3) | 3:02 | 2025-01-08 | 2025-02-08 |
+| [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 | 2026-05-14 |  |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-07-10 | 2025-09-25 |
 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 | 2026-05-14 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-30 | 2024-10-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Arroba Nat en portada.",
-  "num_followers": 545274,
+  "num_followers": 545230,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
         "name": "Caso Cerrado",
         "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 189346,
       "name": "Caso Cerrado",
       "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Esto no acab\u00f3 por m\u00ed",
-        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
       },
       "artists": [
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 207208,
-      "name": "Esto no acab\u00f3 por m\u00ed",
-      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1283,6 +1267,22 @@
       "duration_ms": 186491,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
+        "name": "Esto no acab\u00f3 por m\u00ed",
+        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 207208,
+      "name": "Esto no acab\u00f3 por m\u00ed",
+      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Bolerito (Remix)",
-        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 165542,
-      "name": "Bolerito - Remix",
-      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
+        "name": "Bolerito (Remix)",
+        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "Bolerito - Remix",
+      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
-      },
-      "artists": [
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
+        "name": "Despu\u00e9s del Norte",
+        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 165456,
+      "name": "Medias tintas",
+      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
         "name": "\u00bfEn Qu\u00e9 Momento?",
         "url": "https://open.spotify.com/album/3HoxwdbK9PpMGxcSfOqbPs"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 199946,
       "name": "\u00bfEn Qu\u00e9 Momento?",
       "url": "https://open.spotify.com/track/5U27L9B2PfV40ksWzQqxNX"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
-        "name": "Despu\u00e9s del Norte",
-        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 165456,
-      "name": "Medias tintas",
-      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
       },
       "artists": [
         {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1675,6 +1659,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-04-24 06:00:29",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-04-24 06:00:29",
       "album": {
-        "name": "Tu Tu Tu",
-        "url": "https://open.spotify.com/album/3eZXbkbXWE6i1oEvx0ewtJ"
-      },
-      "artists": [
-        {
-          "name": "Juanse Laverde",
-          "url": "https://open.spotify.com/artist/0Xsc2ZIdwp0XGL4Mzr0xcg"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Tu Tu Tu",
-      "url": "https://open.spotify.com/track/1uvs6vKbZUfr8p962klX5h"
-    },
-    {
-      "added_at": "2026-04-24 06:00:29",
-      "album": {
         "name": "Lo esencial de Or\u00edgenes: El Bolero",
         "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
+    },
+    {
+      "added_at": "2026-04-24 06:00:29",
+      "album": {
+        "name": "Tu Tu Tu",
+        "url": "https://open.spotify.com/album/3eZXbkbXWE6i1oEvx0ewtJ"
+      },
+      "artists": [
+        {
+          "name": "Juanse Laverde",
+          "url": "https://open.spotify.com/artist/0Xsc2ZIdwp0XGL4Mzr0xcg"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Tu Tu Tu",
+      "url": "https://open.spotify.com/track/1uvs6vKbZUfr8p962klX5h"
     }
   ],
   "unique_name": "nuevo bolero",

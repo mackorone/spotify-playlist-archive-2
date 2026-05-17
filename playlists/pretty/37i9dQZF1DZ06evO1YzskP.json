@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 66867,
+  "num_followers": 66869,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABlMJHN5afXaY+ZRSFmdFxA",
+  "snapshot_id": "agZiAAAAAAB1eYwNO7A59r9dRfQw0l/S",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 136416,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo elegiste a \u00e9l (la renta 2)",
         "url": "https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 171391,
       "name": "Lo elegiste a \u00e9l (la renta 2)",
       "url": "https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "La Receta",
-      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 130368,
-      "name": "Tus Red flags",
-      "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 208413,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 130368,
+      "name": "Tus Red flags",
+      "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bateando Duro",
         "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 146522,
       "name": "Sal De Tu Casa",
       "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Las Facetas de Arturo (En Vivo)",
+      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REGRESA",
         "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
@@ -763,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo (En Vivo)",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 191914,
-      "name": "cosas raras",
-      "url": "https://open.spotify.com/track/1Oo91InghZYlhbUL4o3QoW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos Mayiza",
         "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192600,
       "name": "Somos Mayiza",
       "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 191914,
+      "name": "cosas raras",
+      "url": "https://open.spotify.com/track/1Oo91InghZYlhbUL4o3QoW"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146032,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146032,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
     },
     {
       "added_at": null,

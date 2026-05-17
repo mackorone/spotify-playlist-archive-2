@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > These are some of Cat Clyde's favourite songs by Indigenous artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,960 likes - 29 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,966 likes - 29 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

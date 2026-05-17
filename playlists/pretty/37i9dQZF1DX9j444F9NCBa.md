@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,991 likes - 150 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,376 likes - 150 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 149 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 |
 | 150 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 |
 
-Snapshot ID: `AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX`
+Snapshot ID: `AAAAAOz/5OrQ52sz+s9RAKFolVGrMTyb`

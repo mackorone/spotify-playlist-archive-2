@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Fito Silva, Cachirula y LOOJAN hasta el amanecer ",
-  "num_followers": 24434,
+  "num_followers": 24436,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2026-05-15 06:00:21",
       "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/56bx66S5IACSXarZGq1D2D"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        }
+      ],
+      "duration_ms": 172686,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv"
+    },
+    {
+      "added_at": "2026-05-15 06:00:21",
+      "album": {
         "name": "LA OBSESION, VOL. 1",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 152459,
       "name": "SiNoMeLloranVivo",
       "url": "https://open.spotify.com/track/28L5hz89OMvfcyu9Ef89wC"
-    },
-    {
-      "added_at": "2026-05-15 06:00:21",
-      "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/56bx66S5IACSXarZGq1D2D"
-      },
-      "artists": [
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        }
-      ],
-      "duration_ms": 172686,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv"
     },
     {
       "added_at": "2026-05-15 06:00:21",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-15 06:00:21",
       "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2026-05-15 06:00:21",
+      "album": {
         "name": "No Hay Nah",
         "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 188764,
       "name": "No Hay Nah",
       "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
-    },
-    {
-      "added_at": "2026-05-15 06:00:21",
-      "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
     },
     {
       "added_at": "2026-05-15 06:00:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-15 06:00:21",
       "album": {
-        "name": "te doy igual?",
-        "url": "https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 116832,
-      "name": "te doy igual?",
-      "url": "https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1"
-    },
-    {
-      "added_at": "2026-05-15 06:00:21",
-      "album": {
         "name": "mineminemine",
         "url": "https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 156764,
       "name": "mineminemine",
       "url": "https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL"
+    },
+    {
+      "added_at": "2026-05-15 06:00:21",
+      "album": {
+        "name": "te doy igual?",
+        "url": "https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 116832,
+      "name": "te doy igual?",
+      "url": "https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1"
     },
     {
       "added_at": "2026-05-15 06:00:21",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-05-15 06:00:21",
       "album": {
+        "name": "YNQNPQSD",
+        "url": "https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "duration_ms": 152876,
+      "name": "Icono",
+      "url": "https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr"
+    },
+    {
+      "added_at": "2026-05-15 06:00:21",
+      "album": {
         "name": "sistemu",
         "url": "https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 184053,
       "name": "sistemu",
       "url": "https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE"
-    },
-    {
-      "added_at": "2026-05-15 06:00:21",
-      "album": {
-        "name": "YNQNPQSD",
-        "url": "https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9"
-      },
-      "artists": [
-        {
-          "name": "Abrildefresa",
-          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
-        }
-      ],
-      "duration_ms": 152876,
-      "name": "Icono",
-      "url": "https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr"
     }
   ],
   "unique_name": "ANTRO ",

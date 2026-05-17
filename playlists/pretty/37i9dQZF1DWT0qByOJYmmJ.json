@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 629431,
+  "num_followers": 629403,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Lo Hice, Te Dej\u00e9",
-        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 186730,
-      "name": "Lo Hice, Te Dej\u00e9",
-      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Lo Hice, Te Dej\u00e9",
+        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 186730,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "pero qu\u00e9 cosa",
         "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 161813,
       "name": "Es Verdad",
       "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "por qu\u00e9 est\u00e1 tan cabr\u00f3n crecer?",
-        "url": "https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 226142,
-      "name": "por qu\u00e9 est\u00e1 tan cabr\u00f3n crecer?",
-      "url": "https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Nunca Sabr\u00e1s",
         "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 216017,
       "name": "Nunca Sabr\u00e1s",
       "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "por qu\u00e9 est\u00e1 tan cabr\u00f3n crecer?",
+        "url": "https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 226142,
+      "name": "por qu\u00e9 est\u00e1 tan cabr\u00f3n crecer?",
+      "url": "https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1215,22 +1215,6 @@
       "duration_ms": 181240,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Aeroplanos",
         "url": "https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210041,
       "name": "Respira",
       "url": "https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

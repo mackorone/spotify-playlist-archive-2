@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,761 likes - 35 songs - 2 hr 18 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,762 likes - 36 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 33 | [Tales of Illusion ad Truth](https://open.spotify.com/track/32swzSSwkfqriDTMWyoHKy) | [Nightingale News](https://open.spotify.com/artist/197QL7L2MIBrlqDrxp5V99) | [Echoes of a Dreamscape](https://open.spotify.com/album/1AIBf5YhsX2yfl4UdOYxT6) | 5:22 |
 | 34 | [Seen It There](https://open.spotify.com/track/1ggOQJscEnaCqZbqYalW0Z) | [Pjn](https://open.spotify.com/artist/4T4eiCiGgdTxxCXbaxNYkt) | [Fragments Remain](https://open.spotify.com/album/02YCm3On9kVVdljckcMwLk) | 4:03 |
 | 35 | [Cliché](https://open.spotify.com/track/5UWCAdtGnpJeI4Ycf0Vky0) | [Shugi](https://open.spotify.com/artist/3tkEaWGZQKxZpIQTXJwjXl) | [Cliché](https://open.spotify.com/album/7ArtiLnMqlAlFCJreZSzYi) | 4:36 |
+| 36 | [From zombieland about love \(2025\)](https://open.spotify.com/track/0EolNu9GNftMungr2Fi9pI) | [Charlie Crash Msc](https://open.spotify.com/artist/0Gz327pnjWwQUuzWhr7wF9) | [From zombieland about love \(2025\)](https://open.spotify.com/album/170nJJruVYePhChH6mPLRk) | 5:04 |
 
-Snapshot ID: `AAAO0JlWrMxbrOaiomfdOVPNPbN/bPhk`
+Snapshot ID: `AAAO0dTNFF+2t0NMCxk+c/+Yfsz/a3rT`

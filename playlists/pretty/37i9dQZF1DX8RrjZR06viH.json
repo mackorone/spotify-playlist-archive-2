@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159402,
+  "num_followers": 159393,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-14 22:00:29",
       "album": {
-        "name": "Lips",
-        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 135559,
-      "name": "Lips",
-      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
-    },
-    {
-      "added_at": "2026-05-14 22:00:29",
-      "album": {
         "name": "OVERTIME/OVERKILL VOL. 1",
         "url": "https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2026-05-14 22:00:29",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
         }
       ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
+      "duration_ms": 135559,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
     },
     {
       "added_at": "2026-05-14 22:00:29",
@@ -703,6 +687,22 @@
       "duration_ms": 198095,
       "name": "Changes",
       "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
+    },
+    {
+      "added_at": "2026-05-14 22:00:29",
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2026-05-14 22:00:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-05-14 22:00:29",
       "album": {
+        "name": "MS. SEROTONIN",
+        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "MS. SEROTONIN",
+      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
+    },
+    {
+      "added_at": "2026-05-14 22:00:29",
+      "album": {
         "name": "Heim te st\u00e5vo",
         "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 196758,
       "name": "Heim te st\u00e5vo",
       "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
-    },
-    {
-      "added_at": "2026-05-14 22:00:29",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-05-14 22:00:29",
@@ -907,18 +907,34 @@
     {
       "added_at": "2026-05-14 22:00:29",
       "album": {
-        "name": "MS. SEROTONIN",
-        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 152440,
-      "name": "MS. SEROTONIN",
-      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2026-05-14 22:00:29",
+      "album": {
+        "name": "Jeg sp\u00f8r for en venn",
+        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Jeg sp\u00f8r for en venn",
+      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-05-14 22:00:29",
@@ -951,22 +967,6 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2026-05-14 22:00:29",
-      "album": {
-        "name": "Jeg sp\u00f8r for en venn",
-        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Jeg sp\u00f8r for en venn",
-      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-05-14 22:00:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-14 22:00:29",
       "album": {
-        "name": "Rosary",
-        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
-      },
-      "artists": [
-        {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
-        }
-      ],
-      "duration_ms": 142219,
-      "name": "Rosary",
-      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
-    },
-    {
-      "added_at": "2026-05-14 22:00:29",
-      "album": {
         "name": "jeg holder pusten til du drar",
         "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 185338,
       "name": "jeg holder pusten til du drar",
       "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "added_at": "2026-05-14 22:00:29",
+      "album": {
+        "name": "Rosary",
+        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 142219,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
     },
     {
       "added_at": "2026-05-14 22:00:29",

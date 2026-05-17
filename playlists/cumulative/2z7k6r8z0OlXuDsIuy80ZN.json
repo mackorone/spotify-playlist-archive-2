@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Juan Mag\u00e1n y Omar Montes en el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Taylor Swift en el N\u00ba1",
   "tracks": [
     {
       "album": {
@@ -2336,6 +2336,24 @@
       "duration_ms": 226626,
       "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
       "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "album": {
+        "name": "En Unos A\u00f1os",
+        "url": "https://open.spotify.com/album/7ayiPbT8eXGxLqxxbqqk1U"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "En Unos A\u00f1os",
+      "url": "https://open.spotify.com/track/0afuGOGxfL5PpfcEwxZvLf"
     },
     {
       "album": {
@@ -7770,7 +7788,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 180260,
       "name": "\u00daltima Bala",
       "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"

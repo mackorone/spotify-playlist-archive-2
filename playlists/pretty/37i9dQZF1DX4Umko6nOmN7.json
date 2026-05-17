@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612576,
+  "num_followers": 612555,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Be More",
-        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 231684,
-      "name": "Be More",
-      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Run Through Fire",
         "url": "https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 184534,
       "name": "Run Through Fire",
       "url": "https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "It's a Beautiful Dream",
-      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+      "duration_ms": 173000,
+      "name": "It's a Beautiful Dream",
+      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 159400,
       "name": "Your Bones",
       "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1147,6 +1131,22 @@
       "duration_ms": 190243,
       "name": "Penny (Akustisk) [feat. Penny]",
       "url": "https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
         }
       ],
-      "duration_ms": 231907,
-      "name": "logical",
-      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1355,6 +1339,22 @@
       "duration_ms": 168874,
       "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
       "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Kite (Acoustic)",
-        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 149996,
-      "name": "Kite - Acoustic",
-      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+        "name": "Kite (Acoustic)",
+        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+      "duration_ms": 149996,
+      "name": "Kite - Acoustic",
+      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Please Like Me",
-        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 209206,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "okej att d\u00f6 (igen) [isby sessions]",
         "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 174021,
       "name": "okej att d\u00f6 (igen) - isby sessions",
       "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
     },
     {
       "added_at": "2026-04-16 22:01:21",

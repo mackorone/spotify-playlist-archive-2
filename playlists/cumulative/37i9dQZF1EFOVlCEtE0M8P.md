@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 19 hr 59 min
+346 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 | 2024-03-07 |  |
 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 | 2024-03-07 |  |
 | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/track/1ApZXdmjbw5amGoIKLyaw5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/album/6OwA1VFpPcGCrr1drHwpfs) | 3:14 | 2024-03-07 |  |
+| [Tightrope](https://open.spotify.com/track/6iSwu4p1TNJ7BbSuctIRgd) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Stupid Question / Tightrope](https://open.spotify.com/album/4QBzVZXpXYmVdpH3RVqrBQ) | 3:34 | 2026-05-16 |  |
 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 | 2024-03-07 |  |
 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 | 2024-03-07 |  |
 | [Trap Nest](https://open.spotify.com/track/1sudHlSnZ22l77slLmCPZ5) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:59 | 2025-11-28 |  |

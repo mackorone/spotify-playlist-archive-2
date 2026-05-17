@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,690 songs - 10 day 22 hr 14 min
+4,691 songs - 10 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4073,6 +4073,7 @@
 | [Tethys](https://open.spotify.com/track/7GQH1qHDkqUKExdDmoMBQD) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Tethys](https://open.spotify.com/album/5EvQdpCR4rWeWvKPoIMEO0) | 4:27 | 2026-03-13 | 2026-04-11 |
 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 | 2024-09-06 | 2024-10-05 |
 | [Thank You \- MPH Remix](https://open.spotify.com/track/4ydbcR9moXeWEdR1NwE9kr) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Thank You \(MPH Remix\)](https://open.spotify.com/album/1d1jRyc9MPisaqIij3HFTo) | 3:54 | 2023-11-03 | 2023-12-02 |
+| [That Acid \- Dimension & Subsonic Remix](https://open.spotify.com/track/3UR3VP4TsZkKmsk8BNORg6) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [That Acid \(Dimension & Subsonic Remix\)](https://open.spotify.com/album/5rC46RG3sNGnaRhRR35tjZ) | 2:55 | 2026-05-16 |  |
 | [that high](https://open.spotify.com/track/38pWw9VgfwdbFJ29sGMP9A) | [CAM GIRL](https://open.spotify.com/artist/6UcCFjhPJaRZPh16sItJlj) | [xoxo](https://open.spotify.com/album/403895ue2PMRhz7zJwo4CQ) | 2:32 | 2024-08-30 | 2024-09-28 |
 | [That Look](https://open.spotify.com/track/12PMYpa3Brj6VlTs7nBbkr) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [That Look / Soul Wrench](https://open.spotify.com/album/5bh936ijezAC5h0ekAHs4G) | 4:10 | 2025-01-31 | 2025-03-08 |
 | [That Sound](https://open.spotify.com/track/0MP2he665Jggrzp9SZKgnF) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [That Sound](https://open.spotify.com/album/6LBbCQJsfH9SHKglDxhmnB) | 2:12 | 2025-06-06 | 2025-07-05 |

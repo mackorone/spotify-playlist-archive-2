@@ -1,6 +1,6 @@
 {
   "description": "music that just *hits different* Cover: grentperez",
-  "num_followers": 631984,
+  "num_followers": 631931,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -111,18 +107,22 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 138284,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Sweet Dreams (feat. Miguel)",
-        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 172952,
-      "name": "Sweet Dreams (feat. Miguel)",
-      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -571,6 +551,26 @@
       "duration_ms": 198391,
       "name": "Right Back!",
       "url": "https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "EVERYTHING I'VE EVER WANTED",
-      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "The Great Impersonator (Deluxe)",
         "url": "https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Soft 2",
-        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 230521,
-      "name": "When Did You Stop Loving Me?",
-      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+      "duration_ms": 135111,
+      "name": "EVERYTHING I'VE EVER WANTED",
+      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
+        "name": "Soft 2",
+        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 230521,
+      "name": "When Did You Stop Loving Me?",
+      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
         "name": "Sincerely,",
         "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 195627,
-      "name": "Beauty Pageant",
-      "url": "https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 265606,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 195627,
+      "name": "Beauty Pageant",
+      "url": "https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
-        "name": "rollerblade",
-        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 114056,
-      "name": "rollerblade",
-      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
+        "name": "rollerblade",
+        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 114056,
+      "name": "rollerblade",
+      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
         "name": "Pre: Prema",
         "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 202052,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -1079,22 +1095,6 @@
       "duration_ms": 187658,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
-        "name": "CHOOM",
-        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
+        "name": "Stem the Flow",
+        "url": "https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Stem the Flow",
+      "url": "https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
         "name": "Blueberry Skies",
         "url": "https://open.spotify.com/album/75El775pQjP9Mx13n1rl41"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
-        "name": "IS IT FUN OR IS IT OVER?",
-        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 154131,
-      "name": "Kiss Me Better",
-      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
     },
     {
       "added_at": "2026-05-14 14:00:52",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-05-14 14:00:52",
       "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+    },
+    {
+      "added_at": "2026-05-14 14:00:52",
+      "album": {
         "name": "Woman I Am",
         "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 211078,
       "name": "Woman I Am",
       "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
-    },
-    {
-      "added_at": "2026-05-14 14:00:52",
-      "album": {
-        "name": "Stem the Flow",
-        "url": "https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Stem the Flow",
-      "url": "https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA"
     }
   ],
   "unique_name": "*hits different*",

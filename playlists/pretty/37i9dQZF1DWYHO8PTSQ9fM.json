@@ -1,13 +1,53 @@
 {
-  "description": "This is Morocco right now. Cover: Tame Impala, JENNIE",
-  "num_followers": 679902,
+  "description": "The hottest hits right now. Cover: Drake",
+  "num_followers": 679865,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVO9/9dxwZ8cjdRUdPxAN/pBHCT",
+  "snapshot_id": "AAAAAMfMtCvU86wFfuIBmaxNfkWRIBRT",
   "tracks": [
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "added_at": "2026-05-13 16:21:44",
+      "album": {
+        "name": "PER LA VITA",
+        "url": "https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "PER LA VITA",
+      "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
+    },
     {
       "added_at": "2026-05-07 12:46:02",
       "album": {
@@ -27,6 +67,26 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "FALLEN ANGEL",
+        "url": "https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 164539,
+      "name": "GHALAT",
+      "url": "https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd"
     },
     {
       "added_at": "2026-05-07 12:46:02",
@@ -51,18 +111,22 @@
     {
       "added_at": "2026-05-07 12:46:02",
       "album": {
-        "name": "KALIMAT",
-        "url": "https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br"
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
       },
       "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
         {
           "name": "Manal",
           "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
         }
       ],
-      "duration_ms": 192415,
-      "name": "KALIMAT",
-      "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
+      "duration_ms": 179782,
+      "name": "WARDA",
+      "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
     },
     {
       "added_at": "2026-05-07 12:46:02",
@@ -87,38 +151,42 @@
     {
       "added_at": "2026-05-07 12:46:02",
       "album": {
-        "name": "Dorororo",
-        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
+        "name": "101",
+        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
       "artists": [
         {
-          "name": "Gustavo 51",
-          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Dorororo",
-      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
-    },
-    {
-      "added_at": "2026-05-07 12:46:02",
-      "album": {
-        "name": "Bali maak",
-        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
-      },
-      "artists": [
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         },
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
         }
       ],
-      "duration_ms": 159310,
-      "name": "Bali maak",
-      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
+      "duration_ms": 194510,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "MA3LISH",
+      "url": "https://open.spotify.com/track/0JMhQxKjiNTsV2NSTZyfSN"
     },
     {
       "added_at": "2026-05-07 12:46:02",
@@ -143,58 +211,106 @@
     {
       "added_at": "2026-05-07 12:46:02",
       "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
+        "name": "Dorororo",
+        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
         }
       ],
-      "duration_ms": 179782,
-      "name": "WARDA",
-      "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
+      "duration_ms": 164210,
+      "name": "Dorororo",
+      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "duration_ms": 228617,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/5Dtzyp05eJDj4SlCjewnmE"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
     },
     {
       "added_at": "2026-05-07 12:46:02",
       "album": {
-        "name": "101",
-        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
+        "name": "Bali maak",
+        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
       },
       "artists": [
         {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
         },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 194510,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
-    },
-    {
-      "added_at": "2026-05-13 16:21:44",
-      "album": {
-        "name": "PER LA VITA",
-        "url": "https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z"
-      },
-      "artists": [
         {
           "name": "Stormy",
           "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 192000,
-      "name": "PER LA VITA",
-      "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
+      "duration_ms": 159310,
+      "name": "Bali maak",
+      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
+    {
+      "added_at": "2026-05-07 12:46:02",
+      "album": {
+        "name": "KALIMAT",
+        "url": "https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 192415,
+      "name": "KALIMAT",
+      "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
     },
     {
       "added_at": "2026-05-07 12:46:02",
@@ -279,22 +395,6 @@
       "duration_ms": 183673,
       "name": "AKHI",
       "url": "https://open.spotify.com/track/6Ylgcr82E1I8Ypn6yMfN16"
-    },
-    {
-      "added_at": "2026-05-07 12:46:02",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2026-05-07 12:46:02",
@@ -615,6 +715,26 @@
       "duration_ms": 194000,
       "name": "SONGI SONGI - ARABIC REMIX",
       "url": "https://open.spotify.com/track/103iHzuUptY8rjReB2i9rj"
+    },
+    {
+      "added_at": "2026-05-16 17:49:47",
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "added_at": "2026-05-07 12:46:02",

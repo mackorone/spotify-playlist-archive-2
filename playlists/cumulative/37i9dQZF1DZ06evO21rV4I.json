@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 218000,
       "name": "Like That (bomboclatt) (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
@@ -3260,6 +3260,28 @@
       "duration_ms": 395044,
       "name": "Sponono",
       "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
+    },
+    {
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192227,
+      "name": "STATE OF MIND",
+      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Tanxugueiras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,779 likes - 119 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,768 likes - 119 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

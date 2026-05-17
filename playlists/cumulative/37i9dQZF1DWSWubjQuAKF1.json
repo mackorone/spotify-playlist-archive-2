@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 186674,
       "name": "baza",
       "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
@@ -5496,7 +5496,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 155294,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu"

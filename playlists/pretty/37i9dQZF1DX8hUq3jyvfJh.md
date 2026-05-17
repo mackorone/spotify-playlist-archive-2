@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,406 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,422 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 24 | [Afim De Verão](https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Afim De Verão](https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI) | 5:00 |
 | 25 | [Xote Destino](https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Xote Destino](https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn) | 3:42 |
-| 26 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
-| 27 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
+| 26 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
+| 27 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
 | 28 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
 | 29 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 30 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |
 | 33 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
 | 34 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
-| 35 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
-| 36 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
+| 35 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
+| 36 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
 | 37 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
 | 38 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
 | 39 | [Gerando na Alta](https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Gerando na Alta](https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb) | 4:08 |

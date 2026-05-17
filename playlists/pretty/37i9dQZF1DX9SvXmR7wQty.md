@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Tayc, Lara Fabian, Souldia, Blynk, FouKi, St\-Prince, Classe Moyenne et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,122 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,123 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 7 | [J't'en vacances \(j'fais c'que j'veux\) \[feat\. Orange Lessard\]](https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Orange Lessard](https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6) | [J't'en vacances \(j'fais c'que j'veux\)](https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml) | 3:05 |
 | 8 | [Recommencer](https://open.spotify.com/track/2VCbG9GbSLURdvK1gkJPuB) | [romie](https://open.spotify.com/artist/7wrEX7WSksgXmTz7qq9Dvw) | [Recommencer](https://open.spotify.com/album/2S7ju9TbZFf9e3epLnLrR6) | 3:20 |
 | 9 | [Worst Way](https://open.spotify.com/track/2UeVcTXzniIExnnziWHRTe) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Worst Way](https://open.spotify.com/album/4hMFE2lpPHZDjdTExVVDwc) | 3:50 |
-| 10 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 |
+| 10 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 |
 | 11 | [Juste des chums](https://open.spotify.com/track/59EoMUScZlC2zWT7YQwO0D) | [Gab Forest](https://open.spotify.com/artist/1xgUg61sm46MiNk52i2kQL) | [Appel manqué](https://open.spotify.com/album/4MYyIHDSPBQtJ0sbTXRNcN) | 2:19 |
 | 12 | [La honte](https://open.spotify.com/track/7FQIm0YX52rqalOTGpyosE) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Les horribles](https://open.spotify.com/album/5YnRx9xGwoBe94fQ7bTRkF) | 2:30 |
 | 13 | [côté jardin, côté cour](https://open.spotify.com/track/4uCp2eatQBf8NSV0adNH9F) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [côté jardin, côté cour](https://open.spotify.com/album/4XeoiMYok0wk9aWKzMsiiq) | 3:24 |

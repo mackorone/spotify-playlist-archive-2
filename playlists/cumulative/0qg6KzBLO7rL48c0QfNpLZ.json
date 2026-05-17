@@ -28152,6 +28152,36 @@
     {
       "album": {
         "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/1KZb79nG2EG3duHzkwyi4I"
+      },
+      "artists": [
+        {
+          "name": "rivve",
+          "url": "https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV"
+        },
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159107,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/6Kaoa8OVX9BgPGqdPI6pcq"
+    },
+    {
+      "album": {
+        "name": "Those Eyes",
         "url": "https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE"
       },
       "artists": [

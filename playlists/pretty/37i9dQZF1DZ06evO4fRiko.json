@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 985957,
+  "num_followers": 986033,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABgiCZ2biW+FLp83TX8ygGF",
+  "snapshot_id": "agZiAAAAAACMFDewDGJpIyY+E+iCf0h7",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "Next To You (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 227280,
       "name": "International Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Next To You (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 187837,
+      "name": "It's Not You It's Me",
+      "url": "https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 187837,
-      "name": "It's Not You It's Me",
-      "url": "https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 189469,
+      "name": "Honey Pack",
+      "url": "https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back 2 Life",
         "url": "https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 253453,
       "name": "Beat It (feat. Chris Brown & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 189469,
-      "name": "Honey Pack",
-      "url": "https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 196675,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/5mHMquOvCCeCyzcGT4fY2I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jordin Sparks",
         "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 196675,
-      "name": "Something In The Water",
-      "url": "https://open.spotify.com/track/5mHMquOvCCeCyzcGT4fY2I"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 363709,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/6XqByEYtFrbH2OPwQuGn8q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 363709,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/6XqByEYtFrbH2OPwQuGn8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaky Friday (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
       },
@@ -747,26 +747,6 @@
       "duration_ms": 216631,
       "name": "Freaky Friday (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Own Lane (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Main Chick (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/2asIUjALYhUbH8hvLUhDWo"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 138909,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/25X5bys7y2mclBZOJIzHYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Own Lane (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Main Chick (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/2asIUjALYhUbH8hvLUhDWo"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 178917,
+      "name": "Won't Let Me Leave",
+      "url": "https://open.spotify.com/track/3wTzCXNCqfMdBvtUjb4cv5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 211975,
       "name": "Five More Hours",
       "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 178917,
-      "name": "Won't Let Me Leave",
-      "url": "https://open.spotify.com/track/3wTzCXNCqfMdBvtUjb4cv5"
     },
     {
       "added_at": null,
@@ -931,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Easy - Remix",
+      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy (Remix)",
-        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Easy - Remix",
-      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
       "added_at": null,

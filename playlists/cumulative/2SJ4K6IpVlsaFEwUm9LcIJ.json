@@ -5349,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "+3",
+        "url": "https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl"
+      },
+      "artists": [
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205018,
+      "name": "Forced Perspective",
+      "url": "https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
       },

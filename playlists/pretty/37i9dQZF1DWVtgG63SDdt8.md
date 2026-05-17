@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,685 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,692 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Who You'll Always Be](https://open.spotify.com/track/247FkK3tNtB5GgTMp8sn5O) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Sidney Bakken](https://open.spotify.com/artist/09B94nqRRlslNMlWJU9QpZ) | [Who You'll Always Be](https://open.spotify.com/album/0zQEXFvIw8P8FcpH9vu4Qq) | 5:25 |
 | 27 | [Room](https://open.spotify.com/track/0Kje0chIptIu912nhgtU9y) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Room](https://open.spotify.com/album/3SpX4MG6cbWMHwBTtWVvpF) | 7:04 |
 | 28 | [Tore The Veil \- Live](https://open.spotify.com/track/4INtw07scCX5gMNsfRinTS) | [Newlands Worship](https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Tore the Veil \(Live\)](https://open.spotify.com/album/1hR1hpZu7gnYrbK91rEOm0) | 5:47 |
-| 29 | [God Did It \- Live](https://open.spotify.com/track/41KsVXRDrTy2qKKsUx6giC) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [God Did It \(Live\)](https://open.spotify.com/album/7eVUZP9VCvUe97JF1v8CVL) | 3:34 |
+| 29 | [God Did It \- Live In Melbourne](https://open.spotify.com/track/41KsVXRDrTy2qKKsUx6giC) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [God Did It \(Live In Melbourne\)](https://open.spotify.com/album/7eVUZP9VCvUe97JF1v8CVL) | 3:34 |
 | 30 | [Set Me Free](https://open.spotify.com/track/1tqJp8Vu71PTMePdV2PrFh) | [God Behind Bars Music](https://open.spotify.com/artist/4VCPkwan3LdbjCUcE93UzM), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Set Me Free](https://open.spotify.com/album/0nfHiIkRtkl77z9g8zmBqk) | 3:36 |
 | 31 | [Fill This House](https://open.spotify.com/track/4Ay9zVCAZToRRhKfOFbW7f) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Fill This House](https://open.spotify.com/album/7r0yuEfCTwyjOgjmPTgGS5) | 3:41 |
 | 32 | [Dwelling Place](https://open.spotify.com/track/59oT7OokSZpckNlj8fLbjs) | [Catch the Fire Raleigh](https://open.spotify.com/artist/3AJhHt4TTBrnHMkiTiAT2B), [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jane Tiller](https://open.spotify.com/artist/0ozvNK1aQZycHUK2iEC9wc) | [Dwelling Place](https://open.spotify.com/album/5uSJvT95wzUKN78Z9BkTER) | 6:04 |

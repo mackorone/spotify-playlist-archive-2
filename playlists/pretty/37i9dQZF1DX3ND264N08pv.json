@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 95017,
+  "num_followers": 95030,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,18 @@
     {
       "added_at": "2026-05-13 08:29:00",
       "album": {
-        "name": "WaKe uP",
-        "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
+        "name": "Sikam Szampan Techno",
+        "url": "https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz"
       },
       "artists": [
         {
-          "name": "Adjuzt",
-          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
-        },
-        {
-          "name": "Akimbo",
-          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
         }
       ],
-      "duration_ms": 145903,
-      "name": "WaKe uP",
-      "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
+      "duration_ms": 188562,
+      "name": "Sikam Szampan Techno",
+      "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"
     },
     {
       "added_at": "2026-05-13 08:29:00",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-05-13 08:29:00",
       "album": {
-        "name": "Sikam Szampan Techno",
-        "url": "https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz"
+        "name": "WaKe uP",
+        "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
       },
       "artists": [
         {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
         }
       ],
-      "duration_ms": 188562,
-      "name": "Sikam Szampan Techno",
-      "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"
+      "duration_ms": 145903,
+      "name": "WaKe uP",
+      "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 141156,
+  "num_followers": 141150,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Matcha Coco",
         "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177758,
       "name": "Matcha Coco",
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 161311,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
         "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 152615,
       "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
       "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Broski\u2019s",
-        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Broski\u2019s",
-      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "GIOVANNI II",
-        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
-      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "GIOVANNI II",
+        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
+      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1171,26 +1171,18 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Dans Gewoon",
-        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
       },
       "artists": [
         {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Dans Gewoon",
-      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1235,18 +1227,26 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "PGS",
-        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+        "name": "Dans Gewoon",
+        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
       },
       "artists": [
         {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         }
       ],
-      "duration_ms": 151016,
-      "name": "PGS",
-      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1427,26 +1427,18 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
       },
       "artists": [
         {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
         }
       ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1467,18 +1459,26 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
       "artists": [
         {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         }
       ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+      "duration_ms": 194347,
+      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
+      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
     },
     {
       "added_at": "2026-04-02 22:02:08",

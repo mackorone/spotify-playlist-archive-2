@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,614 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,664 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 58 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
 | 59 | [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 |
 | 60 | [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 |
-| 61 | [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 |
-| 62 | [Head's Gone](https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ) | [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Head's Gone](https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc) | 2:28 |
+| 61 | [Head's Gone](https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ) | [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Head's Gone](https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc) | 2:28 |
+| 62 | [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 |
 | 63 | [Break It](https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Break It](https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl) | 2:53 |
-| 64 | [Drinkin](https://open.spotify.com/track/6xfYEbfVjXQB5E4YEcYq6y) | [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Drinkin](https://open.spotify.com/album/28UltGDhKsm2HLKlL46suP) | 3:17 |
+| 64 | [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 |
 | 65 | [Loca](https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Loca](https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6) | 3:57 |
-| 66 | [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 |
+| 66 | [Drinkin](https://open.spotify.com/track/6xfYEbfVjXQB5E4YEcYq6y) | [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Drinkin](https://open.spotify.com/album/28UltGDhKsm2HLKlL46suP) | 3:17 |
 | 67 | [somebody else \- Denon Reed Remix](https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [somebody else \(Denon Reed Remix\)](https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF) | 2:20 |
 | 68 | [You Could Be the One](https://open.spotify.com/track/0EFuNMasYGeMi4nYIWod4K) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Zibba](https://open.spotify.com/artist/5QiPfBDBHOGEdB8yCjNiEk) | [You Could Be the One](https://open.spotify.com/album/1DeVzwejnOXKBr8v4UQr4i) | 3:01 |
 | 69 | [Combat \(feat\. Gardna\)](https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1) | [Declan Knapp](https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Combat \(feat\. Gardna\)](https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG) | 2:27 |

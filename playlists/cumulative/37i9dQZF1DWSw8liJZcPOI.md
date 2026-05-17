@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-674 songs - 1 day 21 hr 45 min
+675 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Land](https://open.spotify.com/track/7qEcI9JpmtOhs6yE2lil7a) | [Kosuke Anamizu](https://open.spotify.com/artist/5KB7zhJ6Lqyy4lKhspWe33), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Land](https://open.spotify.com/album/2xbGlIjbjxZUmLt9ShLCh2) | 3:34 | 2024-05-31 |  |
 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 | 2023-10-20 | 2024-04-19 |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-07-22 | 2023-11-03 |
-| [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2021-11-28 |  |
+| [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2021-11-28 | 2026-05-17 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-08-28 | 2024-11-21 |
 | [Le jardin féerique \(From Ma mère l'oye, Ballet, M\. 62\) \- Recomposed](https://open.spotify.com/track/63h3n9SifgFlsVBNWtokB3) | [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Le jardin féerique \(From Ma mère l'oye, Ballet, M\. 62\) \[Recomposed\]](https://open.spotify.com/album/6QN72tgiljZIC66nDKwrRv) | 4:38 | 2025-10-03 |  |
 | [Le Port](https://open.spotify.com/track/03HJlTPzRd7UO4lI7HsLaC) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Le Port](https://open.spotify.com/album/3p3emsUaBIABTwjxcWBOK9) | 2:28 | 2026-02-27 |  |
@@ -366,6 +366,7 @@
 | [Mirror](https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Mirror](https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8) | 3:14 | 2022-03-14 |  |
 | [Mirror 8](https://open.spotify.com/track/77AIHy7pkYwRKfa1nM6hlR) | [Michael A\. Muller](https://open.spotify.com/artist/2jNobg3ln4Ylaokr4C3qoU), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Mirror Music](https://open.spotify.com/album/32Hr30Ahgal5QIXdpOcvNE) | 3:36 | 2024-11-20 | 2025-03-20 |
 | [Mishkin](https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Mishkin & Septuagint](https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc) | 3:15 | 2021-05-08 |  |
+| [MNMAL Sparkles](https://open.spotify.com/track/2KhpUnZLUunzbDDYydR4oX) | [Tiny Music](https://open.spotify.com/artist/3Bb7BV6WhaUGn33TubW1U2), [Florian Seraul](https://open.spotify.com/artist/5mfh4XfCcWjPhueeSKQj3Y) | [MNMAL Series](https://open.spotify.com/album/5xhCsUhqOLFtrhYpKBdEhs) | 2:33 | 2026-05-15 |  |
 | [Modern Driveway](https://open.spotify.com/track/2XgqIg1xo9bvzyK0DEnqxN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Piano Versions](https://open.spotify.com/album/1vJp2Gd1xz0TqnQs0vCr1I) | 4:07 | 2021-04-17 | 2024-11-21 |
 | [Molasses](https://open.spotify.com/track/3V4I8dG0X81BQVycsZsrBd) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [White Mountain](https://open.spotify.com/album/5wU8rScffTeWlTfpuqwzmt) | 4:02 | 2020-12-04 | 2020-12-11 |
 | [Moonmoons](https://open.spotify.com/track/4TspfEJNuFpudxZvaIbyKs) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2), [Matthew Barley](https://open.spotify.com/artist/7H3B421x5YuTEeO0hLH7nd) | [Moonmoons](https://open.spotify.com/album/4l0pLKfnM97kFLPuiY5WUl) | 4:18 | 2024-11-20 |  |

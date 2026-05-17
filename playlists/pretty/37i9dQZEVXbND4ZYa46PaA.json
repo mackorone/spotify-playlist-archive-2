@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21564,
+  "num_followers": 21569,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZqOeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZviUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-05-15 13:34:30",
@@ -215,8 +215,8 @@
     {
       "added_at": "2026-05-15 13:34:30",
       "album": {
-        "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
       "artists": [
         {
@@ -230,7 +230,7 @@
       ],
       "duration_ms": 190822,
       "name": "Zoo",
-      "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
       "added_at": "2026-05-15 13:34:30",
@@ -856,7 +856,7 @@
       "added_at": "2026-05-15 13:34:30",
       "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3Y4ZambRFbDzlnCtqEUrgY"
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
       "artists": [
         {
@@ -866,7 +866,7 @@
       ],
       "duration_ms": 284310,
       "name": "They Don't Care About Us",
-      "url": "https://open.spotify.com/track/62qPhTdER9X8P2gEpHXWzN"
+      "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
     }
   ],
   "unique_name": "Top Songs - Belgium",

@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 59707,
+  "num_followers": 59724,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAW04X3GUq5N4AVqe73LUFL",
+  "snapshot_id": "agZiAAAAAADaQw18x/ur5XcYOtcY4ARW",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,26 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Feel So Free (Peggy Gou Energy Mix)",
+        "url": "https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 267508,
+      "name": "I Feel So Free - Peggy Gou Energy Mix",
+      "url": "https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8"
     },
     {
       "added_at": null,
@@ -456,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 117236,
-      "name": "Your Art",
-      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
+      "duration_ms": 157252,
+      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
+      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
     },
     {
       "added_at": null,
@@ -520,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 157252,
-      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
-      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+      "duration_ms": 117236,
+      "name": "Your Art",
+      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
     },
     {
       "added_at": null,

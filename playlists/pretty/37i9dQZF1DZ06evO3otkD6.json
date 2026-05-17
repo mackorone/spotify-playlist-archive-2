@@ -1,37 +1,13 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 92270,
+  "num_followers": 92307,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAA+dhUPFS/tqVMOKbi5a5E3",
+  "snapshot_id": "agZiAAAAAAC/f5C4lOT7AKH33nXsIO8B",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ella (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
-    },
     {
       "added_at": null,
       "album": {
@@ -491,22 +467,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+        "name": "Por Ella (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
       },
       "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Egoista",
-      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+      "duration_ms": 181253,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
     },
     {
       "added_at": null,
@@ -531,6 +511,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Egoista",
+      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cuadrada",
         "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
       },
@@ -551,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
       "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
       "added_at": null,
@@ -595,26 +615,6 @@
       "duration_ms": 233080,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 116611,
-      "name": "De Color De Rosa",
-      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
+      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blink Twice (Dos Veces Remix)",
         "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 154134,
       "name": "Blink Twice - Dos Veces Remix",
       "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
-      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1193833,
+  "num_followers": 1193936,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1647,6 +1647,34 @@
     {
       "added_at": "2026-05-15 06:00:23",
       "album": {
+        "name": "Linea Del Perreo",
+        "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 181137,
+      "name": "Linea Del Perreo",
+      "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "added_at": "2026-05-15 06:00:23",
+      "album": {
         "name": "La Hermandad",
         "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
       },
@@ -1679,34 +1707,6 @@
       "duration_ms": 209333,
       "name": "YA NO SIENTO NADA",
       "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
-    },
-    {
-      "added_at": "2026-05-15 06:00:23",
-      "album": {
-        "name": "Linea Del Perreo",
-        "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 181137,
-      "name": "Linea Del Perreo",
-      "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
     },
     {
       "added_at": "2026-05-15 06:00:23",
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2026-05-15 06:00:23",
       "album": {
-        "name": "THANK YOU BB",
-        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 206666,
-      "name": "THANK YOU BB",
-      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2026-05-15 06:00:23",
@@ -1879,22 +1879,22 @@
     {
       "added_at": "2026-05-15 06:00:23",
       "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+        "name": "THANK YOU BB",
+        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+      "duration_ms": 206666,
+      "name": "THANK YOU BB",
+      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
     },
     {
       "added_at": "2026-05-15 06:00:23",

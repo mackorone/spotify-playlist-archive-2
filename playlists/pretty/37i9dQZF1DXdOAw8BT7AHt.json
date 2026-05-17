@@ -1,12 +1,12 @@
 {
   "description": "The best of every corner of modern punk rock. Cover: Citizen",
-  "num_followers": 472950,
+  "num_followers": 472953,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZ/vdU7vmAIKDfA1z2AVfI++YNR",
+  "snapshot_id": "AAAAAH0EIKNLwbJS7MUxz7eow2Y51gvB",
   "tracks": [
     {
       "added_at": "2026-05-08 04:02:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Doom in Bloom",
-        "url": "https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 197370,
-      "name": "Doom in Bloom",
-      "url": "https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 164586,
       "name": "Barely Here",
       "url": "https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Doom in Bloom",
+        "url": "https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 197370,
+      "name": "Doom in Bloom",
+      "url": "https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -731,54 +731,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Burning Down The Curtains",
-        "url": "https://open.spotify.com/album/1hI3UL0YtFzMY4WCcRPCXf"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 162312,
-      "name": "Burning Down The Curtains",
-      "url": "https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "I Don't Wanna Go!",
-        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "I Don't Wanna Go!",
-      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "Box In The Basement",
-        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Box In The Basement",
-      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/376ZC8whCIAiEIbT3pgPGw"
       },
@@ -799,18 +751,50 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6"
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
         }
       ],
-      "duration_ms": 191475,
-      "name": "Common Sense",
-      "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Burning Down The Curtains",
+        "url": "https://open.spotify.com/album/1hI3UL0YtFzMY4WCcRPCXf"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "duration_ms": 162312,
+      "name": "Burning Down The Curtains",
+      "url": "https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Box In The Basement",
+        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Box In The Basement",
+      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -843,6 +827,22 @@
       "duration_ms": 185828,
       "name": "BOMBS AWAY",
       "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Common Sense",
+      "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Crater",
-        "url": "https://open.spotify.com/album/5gWk7S4VYT5QEqsOsw0SwC"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
       "artists": [
         {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
         }
       ],
-      "duration_ms": 153201,
-      "name": "Crater",
-      "url": "https://open.spotify.com/track/7HccOip9j5YgyWcuDwB9F4"
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
+        "name": "Crater",
+        "url": "https://open.spotify.com/album/5gWk7S4VYT5QEqsOsw0SwC"
       },
       "artists": [
         {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
         }
       ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
+      "duration_ms": 153201,
+      "name": "Crater",
+      "url": "https://open.spotify.com/track/7HccOip9j5YgyWcuDwB9F4"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
+        "name": "Coming Up From Hell",
+        "url": "https://open.spotify.com/album/24v70eySN0px7R6SOjEZQR"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "duration_ms": 232134,
+      "name": "Coming Up From Hell",
+      "url": "https://open.spotify.com/track/474gI8ikMGHJvxhqtOGhNv"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
         "name": "Diversion",
         "url": "https://open.spotify.com/album/61xKeULyzHUjN6sRblOASG"
       },
@@ -1263,26 +1279,6 @@
       "duration_ms": 178083,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/35GsI9rs2Ogsqa34WyIx8w"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "The Invisible Hurt",
-        "url": "https://open.spotify.com/album/2vNTIf9mS4vV0NBubOMN4d"
-      },
-      "artists": [
-        {
-          "name": "The Saddest Landscape",
-          "url": "https://open.spotify.com/artist/6i8MWognuWjNQSP3iwDfqJ"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 447505,
-      "name": "The Invisible Hurt",
-      "url": "https://open.spotify.com/track/5xbG3PwIkkN1ftpJZ8p8WB"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Coming Up From Hell",
-        "url": "https://open.spotify.com/album/24v70eySN0px7R6SOjEZQR"
+        "name": "The Invisible Hurt",
+        "url": "https://open.spotify.com/album/2vNTIf9mS4vV0NBubOMN4d"
       },
       "artists": [
         {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+          "name": "The Saddest Landscape",
+          "url": "https://open.spotify.com/artist/6i8MWognuWjNQSP3iwDfqJ"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 232134,
-      "name": "Coming Up From Hell",
-      "url": "https://open.spotify.com/track/474gI8ikMGHJvxhqtOGhNv"
+      "duration_ms": 447505,
+      "name": "The Invisible Hurt",
+      "url": "https://open.spotify.com/track/5xbG3PwIkkN1ftpJZ8p8WB"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 223521,
+      "name": "Lay Me Down (B-Side)",
+      "url": "https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
         "name": "Big-Box Store Heart",
         "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "WACO (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 223521,
-      "name": "Lay Me Down (B-Side)",
-      "url": "https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
       },
@@ -1427,38 +1427,6 @@
       "duration_ms": 260946,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "Inner Peace",
-        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
-      },
-      "artists": [
-        {
-          "name": "The Flatliners",
-          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
-        }
-      ],
-      "duration_ms": 156670,
-      "name": "Inner Peace",
-      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
-      },
-      "artists": [
-        {
-          "name": "How Much Art",
-          "url": "https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy"
-        }
-      ],
-      "duration_ms": 176430,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1491,6 +1459,38 @@
       "duration_ms": 198440,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/1OdxcrMq0y4OLX0jSwEapn"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
+      },
+      "artists": [
+        {
+          "name": "How Much Art",
+          "url": "https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy"
+        }
+      ],
+      "duration_ms": 176430,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "duration_ms": 156670,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Optimizer",
-        "url": "https://open.spotify.com/album/6DH6Tz9pzAvqGT6pfEIVPw"
-      },
-      "artists": [
-        {
-          "name": "Stuck",
-          "url": "https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a"
-        }
-      ],
-      "duration_ms": 313280,
-      "name": "Fire, Man",
-      "url": "https://open.spotify.com/track/6IICxWIGvm4adq3rPpnmBV"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "the loneliest place i've ever been",
         "url": "https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 242413,
       "name": "little pieces",
       "url": "https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Optimizer",
+        "url": "https://open.spotify.com/album/6DH6Tz9pzAvqGT6pfEIVPw"
+      },
+      "artists": [
+        {
+          "name": "Stuck",
+          "url": "https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a"
+        }
+      ],
+      "duration_ms": 313280,
+      "name": "Fire, Man",
+      "url": "https://open.spotify.com/track/6IICxWIGvm4adq3rPpnmBV"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "AIN'T MY GAME",
-        "url": "https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "AIN'T MY GAME",
-      "url": "https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Nobody\u2019s",
         "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 135897,
       "name": "Nobody\u2019s",
       "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "AIN'T MY GAME",
+        "url": "https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "AIN'T MY GAME",
+      "url": "https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/4ZDYV3mQ4Pu0y0BFTYT6ye"
-      },
-      "artists": [
-        {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
-        }
-      ],
-      "duration_ms": 184780,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/5hEx9Ws13eMrgt8ocXnwmf"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Do One",
         "url": "https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 158053,
       "name": "Do One",
       "url": "https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/4ZDYV3mQ4Pu0y0BFTYT6ye"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 184780,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/5hEx9Ws13eMrgt8ocXnwmf"
     },
     {
       "added_at": "2026-05-08 04:02:22",

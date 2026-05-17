@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 168588,
+  "num_followers": 168600,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABust956ZVAQBdD3/ICvyMh",
+  "snapshot_id": "agZiAAAAAAB/H5Pqr2IeMi2qP0Wraay4",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 256041,
-      "name": "Leave My Girl Alone",
-      "url": "https://open.spotify.com/track/6Xq8b6nBZNs744j0MhE5a3"
+      "duration_ms": 237638,
+      "name": "Change It",
+      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 237638,
-      "name": "Change It",
-      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Step",
         "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
@@ -392,9 +376,25 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 163878,
-      "name": "Let Me Love You Baby",
-      "url": "https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx"
+      "duration_ms": 256041,
+      "name": "Leave My Girl Alone",
+      "url": "https://open.spotify.com/track/6Xq8b6nBZNs744j0MhE5a3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 367589,
+      "name": "Ain't Gone 'N' Give up on Love",
+      "url": "https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 367589,
-      "name": "Ain't Gone 'N' Give up on Love",
-      "url": "https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf"
+      "duration_ms": 163878,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx"
     },
     {
       "added_at": null,
@@ -683,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "In Session (Remaster w/ eBooklet)",
+        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+      "duration_ms": 500586,
+      "name": "Overall Junction",
+      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
     },
     {
       "added_at": null,
@@ -719,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session (Remaster w/ eBooklet)",
-        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 500586,
-      "name": "Overall Junction",
-      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,

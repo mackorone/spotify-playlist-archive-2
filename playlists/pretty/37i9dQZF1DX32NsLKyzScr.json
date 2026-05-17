@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2598240,
+  "num_followers": 2598175,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,22 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
       "artists": [
         {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 204285,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -759,6 +759,26 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -863,22 +883,6 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
         "name": "Diet Coke",
         "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
       },
@@ -891,6 +895,22 @@
       "duration_ms": 155624,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1063,6 +1083,26 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1107,26 +1147,6 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
         "name": "Cola (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
@@ -1147,22 +1167,6 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1191,6 +1195,22 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "LA NOCHE",
         "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
       },
@@ -1215,26 +1235,26 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/2NnCa9OR5WBlOFU9JIPnpn"
+        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         },
         {
-          "name": "Liv Grace Blue",
-          "url": "https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 270648,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/6flTr5BDb7OQN7nZCs8xmR"
+      "duration_ms": 240318,
+      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1263,6 +1283,30 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/2NnCa9OR5WBlOFU9JIPnpn"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Liv Grace Blue",
+          "url": "https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl"
+        }
+      ],
+      "duration_ms": 270648,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/6flTr5BDb7OQN7nZCs8xmR"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -1279,26 +1323,6 @@
       "duration_ms": 169090,
       "name": "DONA",
       "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "She's A Devil",
-        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "She's A Devil",
-      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1347,6 +1371,26 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "She's A Devil",
+        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "She's A Devil",
+      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
@@ -1363,6 +1407,26 @@
       "duration_ms": 218978,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1395,26 +1459,6 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1479,6 +1523,22 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "For The Soul",
         "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
       },
@@ -1511,22 +1571,6 @@
       "duration_ms": 292693,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1763,30 +1807,6 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Release The Pressure (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/7AewwCb33VnOyxqga8dDqk"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 170124,
-      "name": "Release The Pressure - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/5yXplTZMVRQiMpjBzV7GT8"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
         "name": "Dark Matter (Deluxe)",
         "url": "https://open.spotify.com/album/6PcXqjoJnFUdkhZcqRrgnm"
       },
@@ -1839,6 +1859,50 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Release The Pressure (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/7AewwCb33VnOyxqga8dDqk"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 170124,
+      "name": "Release The Pressure - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/5yXplTZMVRQiMpjBzV7GT8"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 213748,
+      "name": "When I Look In Your Eyes",
+      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Turbo Speed",
         "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
       },
@@ -1871,26 +1935,6 @@
       "duration_ms": 200000,
       "name": "Enjoy the Silence - Don Diablo Version",
       "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 213748,
-      "name": "When I Look In Your Eyes",
-      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -1939,6 +1983,22 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 232968,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Sun Goes Down (feat. Camden Cox)",
         "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
       },
@@ -1959,46 +2019,6 @@
       "duration_ms": 346904,
       "name": "Sun Goes Down (feat. Camden Cox)",
       "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 232968,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
-        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 240318,
-      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
-      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -2199,22 +2219,22 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+        "name": "Arp12",
+        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+      "duration_ms": 260053,
+      "name": "Arp12",
+      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -2339,22 +2359,6 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
-        "name": "Redemption / Lights On",
-        "url": "https://open.spotify.com/album/0NqrM4feSbn5iBvL13Iuzs"
-      },
-      "artists": [
-        {
-          "name": "J Ribbon",
-          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
         "name": "Activate (feat. Nevve)",
         "url": "https://open.spotify.com/album/6cDptxdkyy1agz2vOXuyiZ"
       },
@@ -2375,6 +2379,22 @@
       "duration_ms": 195118,
       "name": "Activate (feat. Nevve)",
       "url": "https://open.spotify.com/track/7CBJoTWCIbf04C7tFyZtmF"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "Redemption / Lights On",
+        "url": "https://open.spotify.com/album/0NqrM4feSbn5iBvL13Iuzs"
+      },
+      "artists": [
+        {
+          "name": "J Ribbon",
+          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -2415,6 +2435,26 @@
     {
       "added_at": "2026-05-15 04:00:49",
       "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "duration_ms": 119869,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
         "name": "Like I Don't Exist",
         "url": "https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg"
       },
@@ -2443,6 +2483,26 @@
       "duration_ms": 156521,
       "name": "Taste The Bass",
       "url": "https://open.spotify.com/track/3GLMMMUd499cjYITlwMq4F"
+    },
+    {
+      "added_at": "2026-05-15 04:00:49",
+      "album": {
+        "name": "It's Chemical",
+        "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "It's Chemical",
+      "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
     },
     {
       "added_at": "2026-05-15 04:00:49",
@@ -2507,66 +2567,6 @@
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "It's Chemical",
-        "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "It's Chemical",
-      "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "Arp12",
-        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Arp12",
-      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
-    },
-    {
-      "added_at": "2026-05-15 04:00:49",
-      "album": {
-        "name": "Lost My Mind",
-        "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        }
-      ],
-      "duration_ms": 119869,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
     }
   ],
   "unique_name": "Power Hour",

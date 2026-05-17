@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 93 songs - 5 hr 21 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 95 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 91 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 |
 | 92 | [Do You Care](https://open.spotify.com/track/7kY6QH8DKLM8yCI6nIjuNp) | [FL!P](https://open.spotify.com/artist/1Nhc1lmGw78IavLiBewZDU) | [Do You Care](https://open.spotify.com/album/5wV40igYpNvJ1RG9b3obV7) | 2:51 |
 | 93 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 |
+| 94 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 |
+| 95 | [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 |
 
-Snapshot ID: `AAAO5JzVbOERRp2R9xd/Qn9Z4PSnewLB`
+Snapshot ID: `AAAO5uxmON6r6cfkDGOfsHulewlNVDON`

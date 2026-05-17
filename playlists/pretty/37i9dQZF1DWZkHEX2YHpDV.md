@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,487 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,444 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 92 | [Lay Down and Die](https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Joyride The Pale Horse](https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT) | 2:35 |
 | 93 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
 | 94 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 95 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
-| 96 | [Island in the Sun \(feat\. Cory Castro of Free Throw\)](https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Cory Castro](https://open.spotify.com/artist/0kvKmsx3dW0nEHuOYPem9w), [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Island in the Sun](https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y) | 2:29 |
+| 95 | [Island in the Sun \(feat\. Cory Castro of Free Throw\)](https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Cory Castro](https://open.spotify.com/artist/0kvKmsx3dW0nEHuOYPem9w), [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Island in the Sun](https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y) | 2:29 |
+| 96 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
 | 97 | [FEVER](https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:39 |
 | 98 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
 | 99 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-913 songs - 2 day 10 hr 57 min
+914 songs - 2 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Impervious](https://open.spotify.com/track/6u6DfUcJOFIdor88ME8JGG) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Impervious](https://open.spotify.com/album/1uOv8G7pOWudEO1zo75awb) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [In Control](https://open.spotify.com/track/6kgpOdVMkB6z7zf0a9oPyB) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [In Control](https://open.spotify.com/album/2wC7LyUAEUNGkrCfYTFLpf) | 4:20 | 2025-06-06 | 2025-08-01 |
 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 | 2022-02-17 | 2022-04-08 |
+| [Inception](https://open.spotify.com/track/3ciyxe84sO0WGPc67PaAYj) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [Iccarus](https://open.spotify.com/artist/2MCdMlj6ulRjn1jrohgq8I) | [Inception](https://open.spotify.com/album/784zK3MGaDrCuBOPHlCGdq) | 2:58 | 2026-05-16 |  |
 | [INFATUNE](https://open.spotify.com/track/6wm9fDV64dAyBYoqmw6HZI) | [Blurrd Vzn](https://open.spotify.com/artist/1Un7dSWqDulk2W0L0QD8vI) | [TERROR](https://open.spotify.com/album/4sUj9yVDeKxGwL2CCAa9fC) | 2:44 | 2025-08-29 |  |
 | [Inferno](https://open.spotify.com/track/2C5L0K4gIiAU929Jvr5Kik) | [RXZE](https://open.spotify.com/artist/1xXMpZLZr62texaggPY7LF), [LVDEX](https://open.spotify.com/artist/2TmZsmGxVBiE8P06mhVBcl) | [Inferno](https://open.spotify.com/album/1UWd0jALPwjJZmE0aouCTa) | 3:24 | 2022-03-31 | 2022-07-01 |
 | [Inhale Exhale](https://open.spotify.com/track/4cCfprh4NrvyLGKN2rOCO7) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:25 | 2023-02-17 | 2024-08-10 |
@@ -593,7 +594,7 @@
 | [Paper Moon](https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [HOLLOW WORLD](https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719) | 3:45 | 2023-08-25 | 2024-08-17 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
-| [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |
+| [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 | 2026-05-17 |
 | [Peaking](https://open.spotify.com/track/6p7B5uSORzBJG46GIGU8nl) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Danger Console](https://open.spotify.com/album/0NGN04sKoB1sRijI88GibI) | 2:46 | 2025-07-11 | 2026-03-21 |
 | [Pelican](https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Pelican](https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8) | 2:34 | 2025-07-11 |  |
 | [Peppermint](https://open.spotify.com/track/3oO26OMKFDDko6ouX4rQVC) | [Cool Customer](https://open.spotify.com/artist/2zP6x0auCdwbZrzWFVq1fO) | [Peppermint](https://open.spotify.com/album/0k3k2F2i1BKdZhpX2hfIn5) | 4:37 | 2025-10-17 | 2026-03-21 |

@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 36 | [Inside Out](https://open.spotify.com/track/5lHndfQNCimM1zHRgJiQCA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:37 |
 | 37 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
 | 38 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 |
-| 39 | [Forever Drunk](https://open.spotify.com/track/2owL06IrgS4toOcQDCzvgI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:10 |
-| 40 | [Guilty Pleasure](https://open.spotify.com/track/6OeglDMxrFvhmHxegrNLz2) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [¡Viva la Cobra!](https://open.spotify.com/album/5hJuFOrpXDXHtBmAHnAvua) | 3:22 |
+| 39 | [Guilty Pleasure](https://open.spotify.com/track/6OeglDMxrFvhmHxegrNLz2) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [¡Viva la Cobra!](https://open.spotify.com/album/5hJuFOrpXDXHtBmAHnAvua) | 3:22 |
+| 40 | [Forever Drunk](https://open.spotify.com/track/2owL06IrgS4toOcQDCzvgI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:10 |
 | 41 | [Hey Alligator](https://open.spotify.com/track/1wMgSz5vW6txvc0RkbsvSY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:29 |
 | 42 | [Turn Me Up](https://open.spotify.com/track/2d5SLxED4RIdjnAfbpTcYw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:44 |
 | 43 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `AcRl/AAAAAAIaTn39mAmDzzgnm6iSA3k`
+Snapshot ID: `AcRrnAAAAADZwEPuf1s+cctG80jltait`

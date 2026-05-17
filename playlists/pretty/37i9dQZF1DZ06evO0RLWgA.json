@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52375,
+  "num_followers": 52378,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAA8sW6JQWWkMnhndwk7t/pp",
+  "snapshot_id": "agZiAAAAAABMEPKR3F+u9yaLDK9pdiwC",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Summit",
-        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
       },
       "artists": [
         {
@@ -224,13 +224,13 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         },
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Booker T. Jones",
+          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
         }
       ],
-      "duration_ms": 298066,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
+      "duration_ms": 404453,
+      "name": "I Cover the Waterfront - feat. Booker T. Jones",
+      "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Lucky",
-        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+        "name": "Blues Summit",
+        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
       "artists": [
         {
@@ -264,13 +264,13 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         },
         {
-          "name": "Booker T. Jones",
-          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 404453,
-      "name": "I Cover the Waterfront - feat. Booker T. Jones",
-      "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
+      "duration_ms": 298066,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
     },
     {
       "added_at": null,
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "Boom Boom (2007 Remaster)",
+        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 266533,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
+      "duration_ms": 373933,
+      "name": "Same Old Blues Again - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom Boom (2007 Remaster)",
-        "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 373933,
-      "name": "Same Old Blues Again - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+      "duration_ms": 266533,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: sadie
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,025 likes - 152 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,112 likes - 152 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

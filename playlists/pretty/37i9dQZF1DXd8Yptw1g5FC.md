@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > İrem Derici ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,418 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,435 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 48 | [Kalabilsen Yarınıma Keşke](https://open.spotify.com/track/5PRZQP5B7JGc6mv7fk5ROc) | [yunusemre](https://open.spotify.com/artist/0dfex4kZyUbI489BMy0fqK) | [Kalabilsen Yarınıma Keşke](https://open.spotify.com/album/75kmL8CziMT7wHEvzt2hRs) | 3:14 |
 | 49 | [Beni Kimse Anlamaz](https://open.spotify.com/track/3IIoOfFC1WWWeJD9mnzG5y) | [Şerif Ali Boztepe](https://open.spotify.com/artist/1VeewB3eKKDN7XR43xwlQb), [Berrin Keskin](https://open.spotify.com/artist/2ovRz9ewEyKS71oGJf6gTb) | [Beni Kimse Anlamaz](https://open.spotify.com/album/1ksIkkQDz6P3xkxma5msun) | 5:38 |
 | 50 | [ITIRAF](https://open.spotify.com/track/5vsG7VCAdjcYQYbCrhMsXP) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [ITIRAF](https://open.spotify.com/album/0lE17NhdyHMs5avRrhrYpm) | 2:12 |
-| 51 | [YUH!](https://open.spotify.com/track/3qoInqxiAAtEfXVyjfxw73) | [AURA](https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo) | [YUH!](https://open.spotify.com/album/4ln3fPmQE0dq6P9q16xfqG) | 2:28 |
+| 51 | [YUH!](https://open.spotify.com/track/3qoInqxiAAtEfXVyjfxw73) | [Aura](https://open.spotify.com/artist/2q14eVUoemKH1iMFmMHDNA) | [YUH!](https://open.spotify.com/album/4ln3fPmQE0dq6P9q16xfqG) | 2:28 |
 | 52 | [Bi Kiss](https://open.spotify.com/track/2dhv3ryBURC4g7chzeQ0p5) | [Mantra Girls](https://open.spotify.com/artist/6LjXO5vwBOyFJOR4zsLCIs) | [Bi Kiss](https://open.spotify.com/album/3hq6YOuK4xlOgyUnojx22s) | 2:40 |
 | 53 | [TIK TOK](https://open.spotify.com/track/48y7nBjX1ZTjoOuVTpa2kf) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [UCUZ BİR ROMAN](https://open.spotify.com/album/4Ubnz60pqQCPU1urWx0MzI) | 3:59 |
 | 54 | [Yazarız Adını Göklere](https://open.spotify.com/track/6ksc4AfHhWIxtYf9cSoFLW) | [Faruk K](https://open.spotify.com/artist/6rixu3hOO3YKVGBABu2vpo), [Birkaç İyi Adam](https://open.spotify.com/artist/5c8r9eDCu5NUX7FJJGaLS0) | [Yazarız Adını Göklere](https://open.spotify.com/album/3iUkSPqb08eIK0YvUUteS3) | 2:32 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 75 | [Ay Que Me Quema](https://open.spotify.com/track/0RWnpQ7jCb4BtvBI6N13by) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Merve Ekinci](https://open.spotify.com/artist/75W38iHuJolKCZDgl2vh20), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Ay Que Me Quema](https://open.spotify.com/album/42aKghPwfuK8zTOLsoZVGd) | 2:50 |
 | 76 | [İstanbul'da Sonbahar](https://open.spotify.com/track/7CA3ho9XnXJgEVCAzCcGUY) | [GALI](https://open.spotify.com/artist/3Gezk7PNZUHOmg9zuhtleN) | [İstanbul'da Sonbahar](https://open.spotify.com/album/3XZ5pWxKB9UYCyzYlwAeMF) | 3:53 |
 | 77 | [BEYGIR\_MODE](https://open.spotify.com/track/2gExxgmOw5iAnBfsSa24H4) | [Ravend](https://open.spotify.com/artist/0HYSrLdpldAsePdvuhxSLx), [Alpha](https://open.spotify.com/artist/7boUlDeqEyuT3gdf5Xl80x) | [BEYGIR\_MODE](https://open.spotify.com/album/1OyHmX8YbmQDyNea5HY1ED) | 3:05 |
-| 78 | [Anlatamadım](https://open.spotify.com/track/5kHh84cxmyJNwFO0SDk2OA) | [Dest](https://open.spotify.com/artist/1LHPVpHC47y3smBcWT925y), [Samet Aslan](https://open.spotify.com/artist/4knd7t8ZM6Wjr8loaly68W) | [Anlatamadım](https://open.spotify.com/album/2PY3b5GGVFB4fnWLuHHv0F) | 2:09 |
+| 78 | [ANLATAMADIM](https://open.spotify.com/track/5kHh84cxmyJNwFO0SDk2OA) | [Dest](https://open.spotify.com/artist/1LHPVpHC47y3smBcWT925y), [Samet Aslan](https://open.spotify.com/artist/4knd7t8ZM6Wjr8loaly68W) | [ANLATAMADIM](https://open.spotify.com/album/2PY3b5GGVFB4fnWLuHHv0F) | 2:09 |
 | 79 | [Dilemma](https://open.spotify.com/track/0IGSi2YWZRWQWB1xUg9qcb) | [Murder King](https://open.spotify.com/artist/1ptBI7xKk38agbcEThoubT) | [Dilemma](https://open.spotify.com/album/6D1ZrTdTJOZlassnYhOIDg) | 4:31 |
 | 80 | [Time To Move](https://open.spotify.com/track/4XBTwD1mayrjX7xwt7ths0) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Time To Move](https://open.spotify.com/album/2sbiF9Krdx5HzGQsEYqYZy) | 3:43 |
 | 81 | [Kulak Verdim](https://open.spotify.com/track/6rWM7JC6TDpVgyChiansgH) | [Engin Arslan](https://open.spotify.com/artist/1mFQ13SfvD4jWIfOAa9tXw), [Atakan Akdaş](https://open.spotify.com/artist/1y9hGCBPewEfD3jCxYfrRo) | [Kulak Verdim](https://open.spotify.com/album/2v7Ehvt1eqYcCuSP2mSZi9) | 5:01 |

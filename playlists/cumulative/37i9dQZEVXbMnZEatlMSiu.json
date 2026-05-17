@@ -7945,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
+    },
+    {
+      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd"
       },
@@ -10832,7 +10850,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 170000,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/5rGrtds032AS35wDDyTNN4"
@@ -20809,6 +20827,24 @@
     },
     {
       "album": {
+        "name": "\u7576\u5927\u4eba",
+        "url": "https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587 Ivy",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194716,
+      "name": "\u4e0d\u611b\u5c31\u4e0d\u611b",
+      "url": "https://open.spotify.com/track/3ZILOOFldKtW2C7sD3MYXi"
+    },
+    {
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -27466,7 +27502,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
@@ -28364,6 +28400,24 @@
       "duration_ms": 267100,
       "name": "\u7e5e - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn"
+    },
+    {
+      "album": {
+        "name": "\u7e5e\u8def",
+        "url": "https://open.spotify.com/album/7LEQYEoBYvnlsoos9STleJ"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276253,
+      "name": "\u7e5e\u8def",
+      "url": "https://open.spotify.com/track/38RcCZ3geLYeYMzxTF1tpg"
     },
     {
       "album": {
@@ -29570,7 +29624,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 333546,
       "name": "\u9023\u540d\u5e36\u59d3",
       "url": "https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8"

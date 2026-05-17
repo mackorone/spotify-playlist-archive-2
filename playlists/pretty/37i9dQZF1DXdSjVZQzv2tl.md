@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário, Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,096,641 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,097,110 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 24 | [Mil Adjetivos \(Perfeita Pra Mim\) \- Ao Vivo](https://open.spotify.com/track/5vk6IKLrBccCifWuqUORyQ) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Mil Adjetivos \(Perfeita Pra Mim\)](https://open.spotify.com/album/6xP8c8bxoKfxlBpApmsdS1) | 2:58 |
 | 25 | [Quem Que Tá](https://open.spotify.com/track/2kd04YGxY6v8t4HYztOHn7) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Quem Que Tá](https://open.spotify.com/album/6AOYra2DSu2cs5tBUhpEbS) | 2:32 |
 | 26 | [Entrei De Gaiato \- Ao Vivo](https://open.spotify.com/track/6VTTVe35DoNzhd2DEYJqpU) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Ao Vivo Nos Porta\-Malas](https://open.spotify.com/album/4oKEQDjABbdf2LVnd0fLgF) | 2:56 |
-| 27 | [Desocupa](https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Altas Modas](https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh) | 2:30 |
+| 27 | [Desocupa](https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Altas Modas \(Ao Vivo\)](https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh) | 2:30 |
 | 28 | [Transa Pendente](https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:26 |
 | 29 | [Corpo Nu \- Ao Vivo](https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Corpo Nu \(Ao Vivo\)](https://open.spotify.com/album/4vN9lisiflP3K9caJwFvlc) | 3:18 |
 | 30 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |

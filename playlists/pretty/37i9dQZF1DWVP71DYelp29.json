@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 733253,
+  "num_followers": 733234,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -752,22 +752,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -779,6 +763,22 @@
       "duration_ms": 206079,
       "name": "Motivation - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
     },
     {
       "added_at": "2025-01-27 19:19:14",
@@ -832,22 +832,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -888,6 +872,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
       "artists": [
@@ -899,22 +899,6 @@
       "duration_ms": 191992,
       "name": "Like A Virgin - Spotify Singles",
       "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
-    },
-    {
-      "added_at": "2025-01-27 19:19:14",
-      "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -931,6 +915,22 @@
       "duration_ms": 217058,
       "name": "thank u, next - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2025-01-27 19:19:14",
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 246701,
+      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 246701,
-      "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 248045,
-      "name": "Billie Jean - Spotify Singles",
-      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1395,6 +1379,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 248045,
+      "name": "Billie Jean - Spotify Singles",
+      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
     },
     {
       "added_at": "2023-06-22 04:00:00",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
     },
     {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Sky Walker - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM"
+    },
+    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1511,22 +1527,6 @@
       "duration_ms": 270264,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Sky Walker - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM"
     },
     {
       "added_at": "2023-11-07 18:53:41",
@@ -1721,22 +1721,6 @@
       "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "Waterfalls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk"
-    },
-    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1751,6 +1735,22 @@
       "duration_ms": 206499,
       "name": "I Want It That Way - Spotify Singles",
       "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Waterfalls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1884,22 +1884,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 213606,
-      "name": "Black Beatles - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/07MbSpXIjhoUzh0QBUM1J1"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
       },
       "artists": [
@@ -1911,6 +1895,22 @@
       "duration_ms": 163903,
       "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 213606,
+      "name": "Black Beatles - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/07MbSpXIjhoUzh0QBUM1J1"
     },
     {
       "added_at": "2023-01-11 19:54:48",

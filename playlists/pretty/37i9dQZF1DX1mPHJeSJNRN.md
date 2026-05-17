@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,145 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,174 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 17 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 |
 | 18 | [You’re Getting To Be A Habit With Me](https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 3:50 |
 | 19 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
-| 20 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
-| 21 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
+| 20 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
+| 21 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
 | 22 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:16 |
 | 23 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
 | 24 | [Japanese Folk Song](https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Straight, No Chaser](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) | 16:42 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 52 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
 | 53 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 |
 | 54 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 |
-| 55 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
-| 56 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
+| 55 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
+| 56 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 57 | [You're The Top](https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:39 |
 | 58 | [Bye Bye Blackbird](https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 5:10 |
 | 59 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |

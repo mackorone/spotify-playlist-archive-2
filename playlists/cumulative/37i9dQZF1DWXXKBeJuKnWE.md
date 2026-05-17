@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Beartooth
 
-740 songs - 1 day 20 hr 25 min
+741 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 | 2025-06-06 | 2025-10-04 |
 | [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-23 |  |
 | [EXPIRE](https://open.spotify.com/track/6nWD0hIvscwrUddF8lTRPU) | [ARCHIVES](https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq) | [EXPIRE](https://open.spotify.com/album/3tynJ9yMLDlo0kv8iubqW7) | 3:03 | 2025-08-11 | 2025-09-12 |
+| [Eye Of The Storm](https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Eye Of The Storm](https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp) | 3:15 | 2026-05-15 |  |
 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 | 2025-04-04 | 2025-09-12 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-06-01 | 2023-08-05 |
 | [Fakers](https://open.spotify.com/track/3mhMo1P47SQif7ldmsPVhr) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere \(Deluxe Edition\)](https://open.spotify.com/album/4DREcbo2ahGgX9tNZn5IXH) | 3:17 | 2025-02-21 | 2025-09-12 |
@@ -441,7 +442,7 @@
 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 | 2026-01-30 | 2026-05-05 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-02-07 | 2025-09-12 |
 | [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-26 |
-| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 |  |
+| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 | 2026-05-17 |
 | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 | 2024-03-22 | 2025-09-12 |
 | [MURDERER](https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [MURDERER + NOSEBLEEDS](https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8) | 3:18 | 2024-09-20 | 2025-09-12 |
 | [My People](https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 2:40 | 2026-04-30 |  |

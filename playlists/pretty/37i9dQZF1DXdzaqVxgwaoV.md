@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,142 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,135 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 15 | [Señor Prohibido](https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Unica](https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD) | 3:27 |
 | 16 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
 | 17 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 |
-| 18 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
-| 19 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
+| 18 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
+| 19 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 20 | [Que Sufra, Que Chupe y Que Llore](https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:35 |
 | 21 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 27 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 |
 | 28 | [Me Voy para Olvidarte](https://open.spotify.com/track/6XZvZmCuUsWtQDGXJDxy2f) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:35 |
 | 29 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
-| 30 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
-| 31 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 |
+| 30 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 |
+| 31 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
 | 32 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
 | 33 | [El Camionero](https://open.spotify.com/track/2EfWBfYDonXIXrQWXwYA5O) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:17 |
 | 34 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 |

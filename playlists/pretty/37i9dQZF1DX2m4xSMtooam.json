@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 340734,
+  "num_followers": 341018,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAMkxAoyBLtjSC1obBlKeX+XPEu",
+  "snapshot_id": "AAAAACD3jYQUidJkK/VcoPCU3Xhaz7W7",
   "tracks": [
     {
       "added_at": "2026-05-08 04:00:36",
@@ -431,6 +431,26 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 183746,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "C\u00e9u Tropical",
         "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 215699,
       "name": "C\u00e9u Tropical",
       "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "La Boca",
-        "url": "https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5"
-      },
-      "artists": [
-        {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "La Boca",
-      "url": "https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "P\u00e3o de A\u00e7\u00facar",
         "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222402,
       "name": "P\u00e3o de A\u00e7\u00facar",
       "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "La Boca",
+        "url": "https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186000,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172162,
       "name": "Verano",
       "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 300360,
       "name": "Baubles, Bangles and Beads",
       "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "The Milky Way",
-        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 211037,
-      "name": "The Milky Way",
-      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "The Milky Way",
+        "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 211037,
+      "name": "The Milky Way",
+      "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Vanguarda",
         "url": "https://open.spotify.com/album/2ZPNkYuaywFWEW4ccOcB9i"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 251267,
       "name": "Vanguarda",
       "url": "https://open.spotify.com/track/513avTZFJnIDwjFIughYK4"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
     },
     {
       "added_at": "2026-05-08 04:00:36",

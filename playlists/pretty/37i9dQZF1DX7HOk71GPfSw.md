@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > May God Save The Three 🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,691 likes - 125 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,730 likes - 125 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

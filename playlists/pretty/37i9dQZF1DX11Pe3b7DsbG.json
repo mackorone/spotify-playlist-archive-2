@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234565,
+  "num_followers": 234572,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Argumento",
-        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
         }
       ],
-      "duration_ms": 185120,
-      "name": "No Pagode Do Vav\u00e1",
-      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
+      "duration_ms": 185120,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Rede Velha",
+        "url": "https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "Rede Velha",
+      "url": "https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Fundamental - Teresa Cristina e Grupo Semente",
         "url": "https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 156280,
       "name": "Cora\u00e7\u00e3o Imprudente",
       "url": "https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Rede Velha",
-        "url": "https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "Rede Velha",
-      "url": "https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o"
     },
     {
       "added_at": "2025-09-19 22:07:37",

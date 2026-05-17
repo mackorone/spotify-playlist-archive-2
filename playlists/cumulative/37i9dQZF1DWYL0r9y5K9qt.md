@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: Chloe Qisha
 
-86 songs - 4 hr 20 min
+87 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,13 @@
 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 | 2026-03-05 | 2026-03-27 |
 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 | 2026-03-05 |  |
 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 | 2026-05-01 |  |
-| [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2026-03-26 |  |
+| [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2026-03-26 | 2026-05-17 |
 | [everyday](https://open.spotify.com/track/4AkyoTKbtqT15hUyhuyVTH) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [everyday](https://open.spotify.com/album/6CPvnBRpfq9fmozOZByJRa) | 3:14 | 2026-03-05 | 2026-03-27 |
 | [Girls Like Me](https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Girls Like Me](https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi) | 2:12 | 2026-03-05 | 2026-04-10 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2026-03-05 | 2026-03-27 |
 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 | 2026-03-05 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2026-03-05 |  |
+| [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 | 2026-05-14 |  |
 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-14 |  |
 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 | 2026-03-05 |  |
 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 | 2026-03-05 |  |

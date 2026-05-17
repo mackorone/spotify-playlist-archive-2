@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,686 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,691 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Downtown](https://open.spotify.com/track/4XXqNYESlfqGKIddnyDYAw) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Downtown EP](https://open.spotify.com/album/62rtRsFWFtdugJOsTSzMfC) | 6:36 |
 | 75 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
 
-Snapshot ID: `AAAAADA2clhxSD9MP7bOE4qRn1QoL8Du`
+Snapshot ID: `AAAAAOXmOKXniTrsmR2ZjZ8PZg1JTSwM`

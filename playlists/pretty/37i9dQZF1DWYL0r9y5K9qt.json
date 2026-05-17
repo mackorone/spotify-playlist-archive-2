@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: Chloe Qisha",
-  "num_followers": 629871,
+  "num_followers": 629825,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-05-14 23:54:52",
       "album": {
+        "name": "Haru Ni Mau",
+        "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 238180,
+      "name": "Haru Ni Mau",
+      "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
+    },
+    {
+      "added_at": "2026-05-14 23:54:52",
+      "album": {
         "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
         "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
-    },
-    {
-      "added_at": "2026-05-14 23:54:52",
-      "album": {
-        "name": "ENEMY",
-        "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 161949,
-      "name": "ENEMY",
-      "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
     }
   ],
   "unique_name": "poses",

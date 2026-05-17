@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 243440,
+  "num_followers": 243451,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "WHY",
-        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 235045,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "Mountain To Move",
+      "url": "https://open.spotify.com/track/7zGyIkunvMO11FByE93lzZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 236280,
-      "name": "Mountain To Move",
-      "url": "https://open.spotify.com/track/7zGyIkunvMO11FByE93lzZ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Stars Of CCTV",
-        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
-      },
-      "artists": [
-        {
-          "name": "Hard-Fi",
-          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Hard to Beat",
-      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Stars Of CCTV",
+        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Hard to Beat",
+      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Biblical",
-      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The State of Things",
         "url": "https://open.spotify.com/album/27M9sBMAePJK5rcsVxn3l1"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 205226,
       "name": "Heavyweight Champion of the World",
       "url": "https://open.spotify.com/track/6BveiUac0BhnHB14wgi1lg"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
-      },
-      "artists": [
-        {
-          "name": "Hothouse Flowers",
-          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/1QTA91lsVoCLeRUXRMukmg"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
+      },
+      "artists": [
+        {
+          "name": "Hothouse Flowers",
+          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 351893,
       "name": "Fistful Of Love",
       "url": "https://open.spotify.com/track/37YJOz90ri4sjyo4uyCLXA"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "What They Say EP",
+        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -2487,18 +2503,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "What They Say EP",
-        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
       },
       "artists": [
         {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
         }
       ],
-      "duration_ms": 400115,
-      "name": "What They Say",
-      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+      "duration_ms": 219106,
+      "name": "This World Couldn\u2019t See Us",
+      "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2515,22 +2531,6 @@
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "This World Couldn\u2019t See Us",
-      "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 202055,
-      "name": "Britpop",
-      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Humble As The Sun",
         "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 199643,
       "name": "Makes Me Violent",
       "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "There\u2019s Nothing But Space, Man!",
         "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
       },
@@ -2867,6 +2851,22 @@
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/6HzwR0zqTzoyfADCR1rPX3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "H.O.O.D 2025",
-        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "H.O.O.D - 2025 Mix",
-      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 307075,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "H.O.O.D 2025",
+        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "duration_ms": 172557,
+      "name": "H.O.O.D - 2025 Mix",
+      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3203,22 +3203,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Inner City Life",
         "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 206400,
       "name": "Rhythm Is a Mystery",
       "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
     },
     {
       "added_at": "2025-06-27 23:00:28",

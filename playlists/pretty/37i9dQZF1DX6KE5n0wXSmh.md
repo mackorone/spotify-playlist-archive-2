@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of this month\. Cover: Show Me The Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 49 | [Not a boy, not a girl](https://open.spotify.com/track/0lY6xEMwUGgrYsFh6I7STV) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [Not a boy, not a girl](https://open.spotify.com/album/5yZU14N8dW7TiCSVuzvTTM) | 3:29 |
 | 50 | [Whiplash](https://open.spotify.com/track/2MnELOi7B2KNVopcrQdbS3) | [Supermarkt](https://open.spotify.com/artist/5BerKMqbH0Dejdnr89MG5e) | [Whiplash](https://open.spotify.com/album/1caBfFmqFlLjrKu6Hc6cYe) | 4:36 |
 
-Snapshot ID: `AAAAAJTou1n2EWnJJGGT+t3T9RnpJNfR`
+Snapshot ID: `AAAAAPsdbacEK1T1gxVjQKUhwaJUEzX9`

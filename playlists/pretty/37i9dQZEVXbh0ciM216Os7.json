@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BULLDAWG",
+        "url": "https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "FIND GOD (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO BRAKES",
         "url": "https://open.spotify.com/album/7uofrnAiQEkhR8Go9EYltR"
       },
@@ -59,6 +79,62 @@
       "duration_ms": 167926,
       "name": "SIDEKICK - feat. Tyler, The Creator",
       "url": "https://open.spotify.com/track/6hTyV70KoYRZ0hwgG9I6uf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better That Way",
+        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 225884,
+      "name": "Better That Way (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See-Line Woman (Mochakk Mix)",
+        "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 288021,
+      "name": "See-Line Woman - Mochakk Mix",
+      "url": "https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/709ABDJqgHV7ru0UWZjHoE"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/5KIEpygBhhl0vES5hBep8y"
     },
     {
       "added_at": null,
@@ -111,22 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "See-Line Woman (Mochakk Mix)",
-        "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
+        "name": "Defected presents House Masters - Deetron",
+        "url": "https://open.spotify.com/album/1sJpcGSdQJoJmemolZhvo4"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
         }
       ],
-      "duration_ms": 288021,
-      "name": "See-Line Woman - Mochakk Mix",
-      "url": "https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B"
+      "duration_ms": 330910,
+      "name": "You & Me - Deetron Extended Remix",
+      "url": "https://open.spotify.com/track/3OxkWuRJ4HmUgwvfIvhXxL"
     },
     {
       "added_at": null,
@@ -144,29 +224,13 @@
           "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
         },
         {
-          "name": "Maki Namekawa",
-          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
+          "name": "Anton Batagov",
+          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
         }
       ],
-      "duration_ms": 444626,
-      "name": "Magic Psalm (Etude No.17)",
-      "url": "https://open.spotify.com/track/0zAvcwseyr7VW1RFfAmoeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm with You",
-        "url": "https://open.spotify.com/album/709ABDJqgHV7ru0UWZjHoE"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/5KIEpygBhhl0vES5hBep8y"
+      "duration_ms": 554733,
+      "name": "Have You Seen This Movie (Distant Figure)",
+      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
     },
     {
       "added_at": null,
@@ -199,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Murmaider - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
       },
@@ -219,34 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wheel",
-        "url": "https://open.spotify.com/album/4QhY7dM5fDZSxyVqr05n3I"
+        "name": "The Memory Remains (Remastered)",
+        "url": "https://open.spotify.com/album/33675FUCqTas3vtbDUhIJh"
       },
       "artists": [
         {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 225095,
-      "name": "Wheel",
-      "url": "https://open.spotify.com/track/2vp4txObSiZJT2tMrntkjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Murmaider - Remixed & Remastered",
-      "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
+      "duration_ms": 254280,
+      "name": "Memory - \"The Memory Remains\" Take 18 / November 6th 1995",
+      "url": "https://open.spotify.com/track/7B2RA6YiyD9sv0m2CBFzR3"
     },
     {
       "added_at": null,
@@ -287,66 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
-        "url": "https://open.spotify.com/album/2afVHus0oDgzuPR6rnpJKZ"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 126739,
-      "name": "from me to u (feat. Poppy) [Major Lazer Remix)",
-      "url": "https://open.spotify.com/track/50WYcoDO2SjMb6lKMPxQTC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smog (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Neapolitan Phantasy",
-      "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVERYTIME YOU TOUCH ME (LOVE SO HIGH)",
-        "url": "https://open.spotify.com/album/3jXxz7NswFElE4ToknP8AE"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "KING BOOO!",
-          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "EVERYTIME YOU TOUCH ME (LOVE SO HIGH)",
-      "url": "https://open.spotify.com/track/55IYCNhm9GCHztUASOzqzx"
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SI BUENO / ON BRO",
         "url": "https://open.spotify.com/album/1Cyy0ghLBbJcaGECDBmWMy"
       },
@@ -415,54 +415,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memory Remains (Remastered)",
-        "url": "https://open.spotify.com/album/33675FUCqTas3vtbDUhIJh"
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Memory - \"The Memory Remains\" Take 18 / November 6th 1995",
-      "url": "https://open.spotify.com/track/7B2RA6YiyD9sv0m2CBFzR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance (Remix)",
-        "url": "https://open.spotify.com/album/3hTvPvn4PKsyzCaZYUZRN0"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
         },
         {
-          "name": "Rafael Labate",
-          "url": "https://open.spotify.com/artist/5uy2HuyY3YnA6QmUTXqXvI"
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
         }
       ],
-      "duration_ms": 177096,
-      "name": "Dance (Remix)",
-      "url": "https://open.spotify.com/track/3hhD6tcu0ER2l82vwdg2t7"
+      "duration_ms": 138920,
+      "name": "Trish Status",
+      "url": "https://open.spotify.com/track/61KfQrwYsZuOuKteYFPYEE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "1983",
-        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
       "artists": [
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 88346,
-      "name": "Bad Actors",
-      "url": "https://open.spotify.com/track/1oOUhect64PiuYFboTjbnq"
+      "duration_ms": 183906,
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 247867,
+      "name": "Racism Is a Killa (feat. Big Boi)",
+      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
     },
     {
       "added_at": null,
@@ -495,82 +503,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+        "name": "Smog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
         },
         {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 247867,
-      "name": "Racism Is a Killa (feat. Big Boi)",
-      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
+      "duration_ms": 234000,
+      "name": "Neapolitan Phantasy",
+      "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
-        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 183906,
-      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
-      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blurry Creatures",
-        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
-      },
-      "artists": [
-        {
-          "name": "If These Trees Could Talk",
-          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
-        }
-      ],
-      "duration_ms": 360613,
-      "name": "Blurry Creatures",
-      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Takoma With Love",
-        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Heno.",
-          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
-        },
-        {
-          "name": "Kal\u00e9ra",
-          "url": "https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa"
-        }
-      ],
-      "duration_ms": 171075,
-      "name": "No Sleep (with Kal\u00e9ra)",
-      "url": "https://open.spotify.com/track/6GIcKCUENZzpaa7eKkNlQQ"
+      "duration_ms": 155039,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
     },
     {
       "added_at": null,
@@ -599,42 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "EL CIELO",
-      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simple Simon (Original Recording / 1980)",
-        "url": "https://open.spotify.com/album/7lsrOOwdOOI8QZoetr0kn6"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Simple Simon - Original Recording / 1980",
-      "url": "https://open.spotify.com/track/64dp7XCK1PnmredMdnUqPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheric River",
         "url": "https://open.spotify.com/album/50gG3QfSCU2gGR8MYsrNcS"
       },
@@ -651,6 +583,42 @@
       "duration_ms": 195197,
       "name": "Atmospheric River",
       "url": "https://open.spotify.com/track/7kWyo0B3kBB1XgDMGbR8qA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance (Remix)",
+        "url": "https://open.spotify.com/album/3hTvPvn4PKsyzCaZYUZRN0"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Rafael Labate",
+          "url": "https://open.spotify.com/artist/5uy2HuyY3YnA6QmUTXqXvI"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Dance (Remix)",
+      "url": "https://open.spotify.com/track/3hhD6tcu0ER2l82vwdg2t7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blurry Creatures",
+        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
+      },
+      "artists": [
+        {
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
+        }
+      ],
+      "duration_ms": 360613,
+      "name": "Blurry Creatures",
+      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

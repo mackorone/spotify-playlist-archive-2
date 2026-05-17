@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 139 | [Ambroxyde](https://open.spotify.com/track/5Jj9nsX0EuynTtg7100XOB) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:57 |
 | 140 | [Signs](https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Signs](https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn) | 1:50 |
 | 141 | [Black Shoes](https://open.spotify.com/track/51rMSVVM8ouSttSLL9UVsW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:14 |
-| 142 | [Silence](https://open.spotify.com/track/28CFasFNhNUO83NvGJSbVl) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Silence](https://open.spotify.com/album/4jkUC2e2rZHE3it09y8RqN) | 3:43 |
-| 143 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 142 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 143 | [Silence](https://open.spotify.com/track/28CFasFNhNUO83NvGJSbVl) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Silence](https://open.spotify.com/album/4jkUC2e2rZHE3it09y8RqN) | 3:43 |
 | 144 | [Hiroshima](https://open.spotify.com/track/1V7sNlhbDeAcgX0Hp5NkJw) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:31 |
 | 145 | [Late](https://open.spotify.com/track/5HdUkEux2rUBknvnaAZdCO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:57 |
 | 146 | [Palomita Negrita](https://open.spotify.com/track/2dOBdBDLjEZlcpc6lC2mQ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [ISOLA](https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML) | 4:05 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 174 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
 | 175 | [Your Party](https://open.spotify.com/track/2mV56orItkQuNIcNB3oyoW) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:11 |
 | 176 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
-| 177 | [Take It Easy](https://open.spotify.com/track/2S2a6NriPBl7miM6VQg3MO) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/02XImxL6rc0tesxatMjY5t) | 3:44 |
-| 178 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
+| 177 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
+| 178 | [Take It Easy](https://open.spotify.com/track/2S2a6NriPBl7miM6VQg3MO) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/02XImxL6rc0tesxatMjY5t) | 3:44 |
 | 179 | [Bathroom Floor](https://open.spotify.com/track/1q7bdWE77gGMJuJkUE8fNr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:31 |
 | 180 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 |
 | 181 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 282 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 283 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcRl/AAAAAAwK1ryVP88ZsJA7FsZgbqN`
+Snapshot ID: `AcRrnAAAAAC51j60LDWpzZpAu9umFX8U`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 296231,
+  "num_followers": 296258,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAB7hcTJR16N2RC4jN5cpX+u",
+  "snapshot_id": "agZiAAAAAACqCv4dTxEg97Mdyq88nxMi",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 191200,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 297301,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Rock And Roll Is Dead",
-      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 242440,
       "name": "5 More Days 'Til Summer",
       "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Rock And Roll Is Dead",
+      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Black Velveteen",
-      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 234413,
       "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
       "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
     },
     {
       "added_at": null,

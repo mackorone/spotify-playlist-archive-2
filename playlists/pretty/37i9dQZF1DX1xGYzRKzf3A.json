@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 171245,
+  "num_followers": 171263,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "El Estr\u00e9s",
+        "url": "https://open.spotify.com/album/5ovae0uIRz8BvemwybWbMS"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "duration_ms": 234990,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5fuTmwYlUNijAz0wa2G1OT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "La Macarena con Lara Campos, HK3 y Saritah Beb\u00e9",
         "url": "https://open.spotify.com/album/4aCLzmiviceQxBujmGd29s"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 168986,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/2psCHGIWluVtlfEVKEFUM7"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "El Estr\u00e9s",
-        "url": "https://open.spotify.com/album/5ovae0uIRz8BvemwybWbMS"
-      },
-      "artists": [
-        {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
-        }
-      ],
-      "duration_ms": 234990,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5fuTmwYlUNijAz0wa2G1OT"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Deseo",
-        "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
-      },
-      "artists": [
-        {
-          "name": "Alanis Yuki",
-          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
-        }
-      ],
-      "duration_ms": 108137,
-      "name": "Deseo",
-      "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 177800,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
+      },
+      "artists": [
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "duration_ms": 108137,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1435,22 +1435,6 @@
       "duration_ms": 278720,
       "name": "Quiero Volver - Live",
       "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Comienza la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 145540,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1495,6 +1479,22 @@
       "duration_ms": 294545,
       "name": "Malvivientes",
       "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Comienza la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 145540,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Que Suene El Sax",
         "url": "https://open.spotify.com/album/10lxeg4bMWez6UK7BRrNrE"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 152721,
       "name": "lo que no sabes",
       "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "La Fiesta De Mi Rancho",
-        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
-      },
-      "artists": [
-        {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        }
-      ],
-      "duration_ms": 156659,
-      "name": "La Fiesta De Mi Rancho",
-      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Marcando La Diferencia",
         "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 179948,
       "name": "Marcando La Diferencia",
       "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "La Fiesta De Mi Rancho",
+        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
+      },
+      "artists": [
+        {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        }
+      ],
+      "duration_ms": 156659,
+      "name": "La Fiesta De Mi Rancho",
+      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "A La PM Puse En Alto",
-        "url": "https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 261809,
-      "name": "A La PM Puse En Alto",
-      "url": "https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "La Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/7r6l3aKLwvcAH8Ouw4CRIa"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 203600,
       "name": "Colgando En Tus Manos (En Vivo)",
       "url": "https://open.spotify.com/track/2YuPxSG5WNLylV3wTIoOqv"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "A La PM Puse En Alto",
+        "url": "https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 261809,
+      "name": "A La PM Puse En Alto",
+      "url": "https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2363,30 +2363,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
-      },
-      "artists": [
-        {
-          "name": "Refugee",
-          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "AM\u00c1NDOTE",
-      "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Prom",
         "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
       },
@@ -2419,6 +2395,30 @@
       "duration_ms": 142000,
       "name": "Maquilar",
       "url": "https://open.spotify.com/track/7M1rwbtZ1CAofElsRcqzxW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
+      },
+      "artists": [
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "AM\u00c1NDOTE",
+      "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
     },
     {
       "added_at": "2025-11-09 06:50:57",

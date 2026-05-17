@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 831291,
+  "num_followers": 831403,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 318226,
       "name": "Jeremy",
       "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 235142,
       "name": "Daughter - Remastered",
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Hard To Explain",
-      "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+      "duration_ms": 224426,
+      "name": "Hard To Explain",
+      "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 199759,
-      "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "American Idiot (Deluxe)",
         "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 493400,
       "name": "Holiday / Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/0HJRAM7Gt9jXskuXjZeFX3"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+      "duration_ms": 197160,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2535,18 +2535,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt"
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
       },
@@ -2979,6 +2963,22 @@
       "duration_ms": 203733,
       "name": "Can't Stand Me Now",
       "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Don't Look Back into the Sun",
         "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
       },
@@ -3079,6 +3063,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 220026,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/18IqyOGs1pRNZfbMo93r57"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
     },
     {
       "added_at": "2026-02-13 03:17:49",

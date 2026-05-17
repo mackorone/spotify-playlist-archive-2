@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 115426,
       "name": "13 Stitches",
       "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 149896,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd"
@@ -636,6 +636,24 @@
       "duration_ms": 86550,
       "name": "Fake-a-Wish Foundation",
       "url": "https://open.spotify.com/track/3zphlVNZhI0c6qqFEccPN2"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "First Call",
+      "url": "https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498"
     },
     {
       "album": {
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 99333,
       "name": "Thank God It's Monday",
       "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"

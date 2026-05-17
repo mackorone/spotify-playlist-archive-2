@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. el Xava Drago por siempre ",
-  "num_followers": 575082,
+  "num_followers": 575100,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Dead - En Vivo",
-      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Globoscopio",
         "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 273266,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Dead - En Vivo",
+      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Viajero",
         "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 286859,
       "name": "Tlatelolco",
       "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Viajero",
         "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 253608,
       "name": "Viajero",
       "url": "https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Ely Guerra",
-        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "Jurame",
-      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Arrullo De Estrellas",
         "url": "https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 236506,
       "name": "Gavil\u00e1n o Paloma - Resmasterizado",
       "url": "https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Ely Guerra",
+        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "Jurame",
+      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Sufro Sufro Sufro",
-        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
+        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
       },
       "artists": [
         {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 249506,
-      "name": "Nos Tragamos",
-      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
+      "duration_ms": 218426,
+      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
+      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
+        "name": "Sufro Sufro Sufro",
+        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
-      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
+      "duration_ms": 249506,
+      "name": "Nos Tragamos",
+      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
     },
     {
       "added_at": "2025-08-22 06:00:14",

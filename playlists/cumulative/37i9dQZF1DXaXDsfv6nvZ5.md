@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Tank and The Bangas
 
-964 songs - 2 day 9 hr 23 min
+965 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 | 2023-04-14 | 2023-10-07 |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-03 | 2022-10-03 |
 | [Brown Eyed Girl](https://open.spotify.com/track/4cRILh1CrOeqPfeOao8Ygl) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [Brown Eyed Girl](https://open.spotify.com/album/1Ku5pnag29dA2UCj7MrTc2) | 4:32 | 2023-06-16 | 2023-07-01 |
+| [But, Nvm](https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [But, Nvm](https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN) | 3:07 | 2026-05-15 |  |
 | [Butterflies](https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Butterflies](https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE) | 2:50 | 2024-07-19 | 2024-12-19 |
 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 | 2025-11-14 | 2026-05-15 |
 | [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 | 2024-10-13 | 2024-11-23 |
@@ -588,7 +589,7 @@
 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 | 2024-09-27 | 2025-04-12 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 | 2022-09-10 |
 | [Nature's Perfume](https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Nature's Perfume](https://open.spotify.com/album/73ixc6to7QEhJcagNXiTtB) | 3:22 | 2026-05-08 |  |
-| [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 |  |
+| [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 | 2026-05-17 |
 | [Need Somebody](https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:18 | 2023-09-16 | 2024-02-24 |
 | [Need U Like](https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Need U Like](https://open.spotify.com/album/4rSJXZieqQpt16ly5KwaIE) | 3:28 | 2025-03-07 | 2025-03-22 |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-09-12 |

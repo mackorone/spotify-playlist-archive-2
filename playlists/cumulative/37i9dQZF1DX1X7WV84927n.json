@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Arrogant Boy",
+        "url": "https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Arrogant Boy",
+      "url": "https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y"
+    },
+    {
+      "album": {
         "name": "TEKKNO",
         "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
@@ -4954,6 +4972,24 @@
       "duration_ms": 186098,
       "name": "Container",
       "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5Qw83IHn2c9UbIsSKuPGGN"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161420,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/454588Y9FY0pCMIg8rXVvE"
     },
     {
       "album": {
@@ -15128,7 +15164,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 185621,
       "name": "Lips",
       "url": "https://open.spotify.com/track/1SCVwglsCuuJNGBj8mLqH3"
@@ -22118,7 +22154,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 167259,
       "name": "Save Your Roses",
       "url": "https://open.spotify.com/track/7qWKbKxjWIh6Yq0jcba8s2"

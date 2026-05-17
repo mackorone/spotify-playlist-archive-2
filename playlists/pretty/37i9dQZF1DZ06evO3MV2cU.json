@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141203,
+  "num_followers": 141204,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACd/yfEC4FBO8jBAPijdQz+",
+  "snapshot_id": "agZiAAAAAAD2zHO3pOcG/aGhT/6e/510",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help My Unbelief",
-        "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 206799,
-      "name": "Help My Unbelief - Acoustic",
-      "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriving",
         "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
       },
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+        "name": "Help My Unbelief",
+        "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
+      "duration_ms": 206799,
+      "name": "Help My Unbelief - Acoustic",
+      "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Nobody Loves Me Like You",
+      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7752,
+  "num_followers": 7757,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADBVUIhgSRT4E1GWB1qakTA",
+  "snapshot_id": "agZiAAAAAACN6q/bIOy131fvolMIdtHA",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+        "name": "Enko Den",
+        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 339253,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+      "duration_ms": 294680,
+      "name": "Enko Den",
+      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enko Den",
-        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 294680,
-      "name": "Enko Den",
-      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
+      "duration_ms": 339253,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
       "duration_ms": 309880,
       "name": "Ma to Odo Mu",
       "url": "https://open.spotify.com/track/6EZv2b78cH0gJLOW9SaTVy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Ankwanoma",
-      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "Ankwanoma",
+      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bubra",
         "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ko Hye Po",
-        "url": "https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Ye Ne Wo Sere Kwa",
-      "url": "https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awarepa Ye Anibre",
         "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 327906,
       "name": "Enti Se Adee Ankye Me'a",
       "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ko Hye Po",
+        "url": "https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Ye Ne Wo Sere Kwa",
+      "url": "https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 387234,
-      "name": "Makra Mo",
-      "url": "https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA"
+      "duration_ms": 371453,
+      "name": "Enye Nyame Den",
+      "url": "https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 371453,
-      "name": "Enye Nyame Den",
-      "url": "https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc"
+      "duration_ms": 387234,
+      "name": "Makra Mo",
+      "url": "https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 308106,
-      "name": "Fakye",
-      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
+      "duration_ms": 383346,
+      "name": "Hye Woho Den",
+      "url": "https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 383346,
-      "name": "Hye Woho Den",
-      "url": "https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM"
+      "duration_ms": 308106,
+      "name": "Fakye",
+      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
     },
     {
       "added_at": null,

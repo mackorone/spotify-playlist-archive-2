@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Maluma, Shakira, Rvfv, DELLAFUENTE y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,400 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,433 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

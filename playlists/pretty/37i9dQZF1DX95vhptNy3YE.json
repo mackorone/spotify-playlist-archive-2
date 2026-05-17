@@ -1,6 +1,6 @@
 {
   "description": "Diggo, L\u00e9o Santana e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443153,
+  "num_followers": 443123,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "She Knows Too Much",
-        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "She Knows Too Much",
-      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
         "name": "Mist\u00e9rios",
         "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 219000,
       "name": "PENSANDO EM MIM",
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
+        "name": "Pagodyando",
+        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
+      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
         "name": "Em Qualquer Cama (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 170562,
       "name": "Em Qualquer Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
-        "name": "Pagodyando",
-        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
-      },
-      "artists": [
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
-        }
-      ],
-      "duration_ms": 301760,
-      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
-      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
+        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
         "name": "Semi Nua",
         "url": "https://open.spotify.com/album/3tPQoE3kBpT18MQz0Pgy3i"
       },
@@ -931,22 +951,18 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -975,22 +991,6 @@
       "duration_ms": 156374,
       "name": "Sob a luz do seu olhar",
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-04-10 03:01:31",

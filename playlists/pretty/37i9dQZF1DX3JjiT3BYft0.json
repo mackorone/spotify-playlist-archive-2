@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78723,
+  "num_followers": 78729,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
+        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
+        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
+        }
+      ],
+      "duration_ms": 277735,
+      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c (Cover)",
+      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
         "name": "\u512a\u52dd",
         "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 271013,
       "name": "\u512a\u52dd",
       "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
-        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
-        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
-        }
-      ],
-      "duration_ms": 277735,
-      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c (Cover)",
-      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -879,6 +879,38 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
         "name": "Pastel \u00e0 la mode",
         "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
       },
@@ -911,22 +943,6 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
-        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 247633,
-      "name": "GO! GO! MANIAC",
-      "url": "https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -939,6 +955,22 @@
       "duration_ms": 215968,
       "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
       "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
+        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 247633,
+      "name": "GO! GO! MANIAC",
+      "url": "https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -991,22 +1023,6 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
-        "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
-        "url": "https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
-      "url": "https://open.spotify.com/track/07g6Yf2bblURbi6vYK3hcG"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
       },
@@ -1035,6 +1051,22 @@
       "duration_ms": 240725,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
+        "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
+        "url": "https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "\u3046\u3043\u30fc\u304d\u3083\u3093\u2606\u30d5\u30ec\u30d5\u30ec\u3063!",
+      "url": "https://open.spotify.com/track/07g6Yf2bblURbi6vYK3hcG"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -1087,22 +1119,6 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
-        "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "\u306f\u308c\u3084\u304b \u3059\u3053\u3084\u304b \u3074\u304b\u308a\u3093\u308a\u3093\u266a",
-      "url": "https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
         "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
         "url": "https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l"
       },
@@ -1147,6 +1163,22 @@
       "duration_ms": 311233,
       "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
       "url": "https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
+        "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "\u306f\u308c\u3084\u304b \u3059\u3053\u3084\u304b \u3074\u304b\u308a\u3093\u308a\u3093\u266a",
+      "url": "https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
-        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 (Cover)",
-        "url": "https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 214833,
-      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 - Cover",
-      "url": "https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
         "name": "ELEMENTS",
         "url": "https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx"
       },
@@ -1227,6 +1243,22 @@
       "duration_ms": 239092,
       "name": "Symbol IV : Earth",
       "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
+        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 (Cover)",
+        "url": "https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 214833,
+      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 - Cover",
+      "url": "https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -1279,22 +1311,6 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
-        "name": "\u7b2c\u516d\u611f (Cover)",
-        "url": "https://open.spotify.com/album/0xgOGOsLzlIaYu0iQeSQiJ"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "\u7b2c\u516d\u611f (Cover)",
-      "url": "https://open.spotify.com/track/4FEpkQIkoNciLSrE4rToTs"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
         "name": "ELEMENTS",
         "url": "https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx"
       },
@@ -1307,6 +1323,22 @@
       "duration_ms": 285665,
       "name": "Ether",
       "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
+        "name": "\u7b2c\u516d\u611f (Cover)",
+        "url": "https://open.spotify.com/album/0xgOGOsLzlIaYu0iQeSQiJ"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "\u7b2c\u516d\u611f (Cover)",
+      "url": "https://open.spotify.com/track/4FEpkQIkoNciLSrE4rToTs"
     },
     {
       "added_at": "2026-04-21 15:00:48",
@@ -1339,22 +1371,6 @@
       "duration_ms": 238633,
       "name": "Reweave (Cover)",
       "url": "https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u30e9\u30e9\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d"
     }
   ],
   "unique_name": "BanG Dream!",

@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 383271,
+  "num_followers": 383359,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Special Love (Micky More & Andy Tee 7\" Jazz Mix)",
@@ -563,22 +579,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cookie Dough",
         "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175586,
       "name": "Serious Drug",
       "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Rubberband EP",
         "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Stratosphere Breakdown",
-        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Kings",
-          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Dream Waves",
-      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1223,18 +1191,34 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+        "name": "Stratosphere Breakdown",
+        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
       },
       "artists": [
         {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+          "name": "New Jersey Kings",
+          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
+      "duration_ms": 295466,
+      "name": "Dream Waves",
+      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1255,6 +1239,22 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1303,6 +1303,26 @@
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
+    },
+    {
+      "added_at": "2026-05-15 04:00:31",
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/4dGbaUWD9WShXQNtbaohs5"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        },
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "The Way We Go",
+      "url": "https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "One for All",
         "url": "https://open.spotify.com/album/2R3q5gMNeQpSNRnAYay6Sm"
       },
@@ -1547,18 +1551,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     }
   ],
   "unique_name": "Acid Jazz",

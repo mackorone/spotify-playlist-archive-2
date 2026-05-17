@@ -85115,6 +85115,32 @@
     },
     {
       "album": {
+        "name": "That Acid (Dimension & Subsonic Remix)",
+        "url": "https://open.spotify.com/album/5rC46RG3sNGnaRhRR35tjZ"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175387,
+      "name": "That Acid - Dimension & Subsonic Remix",
+      "url": "https://open.spotify.com/track/3UR3VP4TsZkKmsk8BNORg6"
+    },
+    {
+      "album": {
         "name": "xoxo",
         "url": "https://open.spotify.com/album/403895ue2PMRhz7zJwo4CQ"
       },

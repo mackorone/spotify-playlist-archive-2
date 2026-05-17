@@ -4,7 +4,7 @@
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-80 songs - 3 hr 58 min
+81 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 | 2023-05-05 |  |
 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 | 2023-05-05 |  |
 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 | 2023-05-05 |  |
+| [Lapponia](https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF) | [Monica Aspelund](https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh) | [100 Kaikkien aikojen iskelmää](https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn) | 2:47 | 2025-03-14 |  |
 | [Le chant de Mallory](https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA) | [Rachel](https://open.spotify.com/artist/6DYyXD1zYrJj8t9gzWhdii) | [Popp Songs](https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj) | 2:22 | 2025-03-14 |  |
 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 | 2023-05-05 |  |
 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 | 2023-05-05 |  |
@@ -76,7 +77,7 @@
 | [Tu te reconnaitras](https://open.spotify.com/track/3682WlWtLmx44QNpB6Py4X) | [Anne\-Marie David](https://open.spotify.com/artist/7s6Q4UQZNcIL7wt3frgxWF) | [Anne\-Marie David](https://open.spotify.com/album/76xEb046LMXr8felVtFMOS) | 2:39 | 2023-05-05 |  |
 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 | 2023-05-05 |  |
 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 | 2023-05-05 | 2026-05-15 |
-| [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 | 2025-03-14 |  |
+| [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 | 2025-03-14 | 2026-05-17 |
 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 | 2023-05-05 |  |
 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 | 2023-05-05 |  |
 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 | 2023-05-05 |  |

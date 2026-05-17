@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 210866,
+  "num_followers": 210856,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
+        "name": "Ps. Kanskje det g\u00e5r",
+        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
       },
       "artists": [
         {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
+      "duration_ms": 214520,
+      "name": "Kanskje det g\u00e5r te helvete",
+      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Gode Tider (feat. Streetboys)",
         "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 169142,
       "name": "Gode Tider (feat. Streetboys)",
       "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Ps. Kanskje det g\u00e5r",
-        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Kanskje det g\u00e5r te helvete",
-      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 129450,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Sorgenfri",
         "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 149173,
       "name": "Vin",
       "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 129450,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
     },
     {
       "added_at": "2026-03-26 23:00:13",

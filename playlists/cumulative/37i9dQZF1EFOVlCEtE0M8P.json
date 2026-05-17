@@ -5681,6 +5681,24 @@
     },
     {
       "album": {
+        "name": "Stupid Question / Tightrope",
+        "url": "https://open.spotify.com/album/4QBzVZXpXYmVdpH3RVqrBQ"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214551,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/6iSwu4p1TNJ7BbSuctIRgd"
+    },
+    {
+      "album": {
         "name": "a lighter shade of blue",
         "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
       },

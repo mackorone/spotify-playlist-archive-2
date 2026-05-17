@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Shouldn't Couldn't Wouldn't](https://open.spotify.com/track/6gGgWXoJ4VB0HCX3zWPpGr) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds II](https://open.spotify.com/album/0XTfFhfbxxwYx0658sgGAh) | 3:15 |
 | 2 | [dating myself](https://open.spotify.com/track/3kZQbfCHwsEqUzyguM0sDi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:24 |
-| 3 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 |
-| 4 | [new heartbreak](https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/7oPhOoCsmqealichnE6389) | 3:14 |
+| 3 | [new heartbreak](https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/7oPhOoCsmqealichnE6389) | 3:14 |
+| 4 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 |
 | 5 | [ibtc \- remix](https://open.spotify.com/track/6ypSVHZWCXAk3siHdJOspd) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:04 |
 | 6 | [rugburn](https://open.spotify.com/track/5bS2KchkARxgGxIJfrU6C9) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/5DNLhuabPTYy8PMimMdoZl) | 2:19 |
 | 7 | [one that got away](https://open.spotify.com/track/6D9tzZdTwuPMxVZ2gD6GqJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:21 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 71 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 72 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `AcRl1AAAAACjZQKFmDIy5MlbzzbldApT`
+Snapshot ID: `AcRrsAAAAACS1dcpSLo1twBnszGudPuz`

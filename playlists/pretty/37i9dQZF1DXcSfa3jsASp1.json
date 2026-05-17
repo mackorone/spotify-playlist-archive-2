@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 51402,
+  "num_followers": 51454,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "I'm with You",
-        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282400,
-      "name": "The Adventures of Rain Dance Maggie",
-      "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Seal The Deal & Let's Boogie (Deluxe)",
         "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282400,
+      "name": "The Adventures of Rain Dance Maggie",
+      "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Got Your Six",
         "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Something For The Pain",
+        "url": "https://open.spotify.com/album/50dBOUiqWBDeThvL0wWDII"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Redlight King",
+          "url": "https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
+      "duration_ms": 181386,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/0sfaeSQbFHecFbc1JOqdN4"
     },
     {
       "added_at": "2024-07-12 15:00:09",

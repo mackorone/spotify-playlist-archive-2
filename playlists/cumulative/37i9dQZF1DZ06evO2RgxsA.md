@@ -4,12 +4,12 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-138 songs - 5 hr 30 min
+139 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Stitches](https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 1:55 | 2022-09-16 | 2022-12-04 |
-| [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 | 2025-09-29 |  |
+| [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 | 2025-09-29 | 2026-05-17 |
 | [60%](https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:25 | 2025-08-22 |  |
 | [60%](https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:25 | 2022-09-16 | 2025-08-22 |
 | [72 Hookers](https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM) | 3:36 | 2025-08-23 |  |
@@ -18,7 +18,7 @@
 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 | 2022-09-16 |  |
 | [American Errorist \(I Hate Hate Haters\)](https://open.spotify.com/track/0yvFtTUjTDunqx1nK9gjtR) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 1:51 | 2022-09-22 | 2022-09-25 |
 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 | 2023-04-20 |  |
-| [Barcelona](https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:29 | 2025-12-11 |  |
+| [Barcelona](https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:29 | 2025-12-11 | 2026-05-17 |
 | [Barcelona](https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Barcelona](https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir) | 2:30 | 2025-07-11 | 2025-12-08 |
 | [Bath of Least Resistance](https://open.spotify.com/track/1yrJDBzciRhmWHl3fFCzrM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 1:47 | 2023-07-06 | 2023-08-26 |
 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 | 2022-09-16 |  |
@@ -43,6 +43,7 @@
 | [Estranged Fruit](https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi), [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Estranged Fruit](https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N) | 3:39 | 2023-05-22 | 2023-07-02 |
 | [Everything in Moderation \(especially moderation\)](https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 1:25 | 2025-12-08 |  |
 | [Fake\-a\-Wish Foundation](https://open.spotify.com/track/3zphlVNZhI0c6qqFEccPN2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 1:26 | 2024-04-21 | 2024-07-04 |
+| [First Call](https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:33 | 2026-05-17 |  |
 | [First Call](https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:33 | 2022-09-21 | 2022-10-05 |
 | [Fleas \(live at MySpace\)](https://open.spotify.com/track/48JwnFyrURjrljZ7F1YrNC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 1:55 | 2025-12-08 | 2026-02-02 |
 | [Franco Un\-American](https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:25 | 2022-09-16 | 2025-08-22 |
@@ -110,7 +111,7 @@
 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 | 2022-09-16 |  |
 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 | 2022-09-18 | 2022-09-29 |
 | [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 | 2022-09-16 | 2025-12-09 |
-| [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 | 2022-09-16 | 2025-12-07 |
+| [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 | 2022-09-16 |  |
 | [The Audition](https://open.spotify.com/track/3ov7r3uavKjG75qA1ARTTe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:31 | 2025-12-09 | 2026-01-31 |
 | [The Big Drag](https://open.spotify.com/track/79FLRV9bif83LXWIMDYEC4) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 5:48 | 2022-09-16 | 2022-10-13 |
 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 | 2022-09-16 |  |

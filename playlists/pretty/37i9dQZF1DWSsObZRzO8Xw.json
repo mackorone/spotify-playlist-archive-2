@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Angine de Poitrine",
-  "num_followers": 219808,
+  "num_followers": 219854,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
-        "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
-      },
-      "artists": [
-        {
-          "name": "Forests",
-          "url": "https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC"
-        }
-      ],
-      "duration_ms": 183286,
-      "name": "Saint Loser",
-      "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
-    },
-    {
-      "added_at": "2026-04-07 18:21:47",
-      "album": {
         "name": "If It Hadn't Ended Then, It Would've Ended Now (2023)",
         "url": "https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3"
       },
@@ -931,18 +915,34 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd"
+        "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
+        "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
       "artists": [
         {
-          "name": "Delta Sleep",
-          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+          "name": "Forests",
+          "url": "https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH"
+      "duration_ms": 183286,
+      "name": "Saint Loser",
+      "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
+    },
+    {
+      "added_at": "2026-04-07 18:21:47",
+      "album": {
+        "name": "We've Been Talking",
+        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Backaches & Cardigans",
+      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
     },
     {
       "added_at": "2026-04-07 18:21:47",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "We've Been Talking",
-        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd"
       },
       "artists": [
         {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
         }
       ],
-      "duration_ms": 254320,
-      "name": "Backaches & Cardigans",
-      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
+      "duration_ms": 255466,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH"
     },
     {
       "added_at": "2026-04-07 18:21:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "H/O",
-        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
-      },
-      "artists": [
-        {
-          "name": "Heavy Ocean",
-          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
-        }
-      ],
-      "duration_ms": 455375,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
-    },
-    {
-      "added_at": "2026-04-07 18:21:47",
-      "album": {
         "name": "Floaty Boaty",
         "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 256532,
       "name": "Floaty Boaty",
       "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2026-04-07 18:21:47",
+      "album": {
+        "name": "H/O",
+        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
+      },
+      "artists": [
+        {
+          "name": "Heavy Ocean",
+          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
+        }
+      ],
+      "duration_ms": 455375,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
     },
     {
       "added_at": "2026-04-07 18:21:47",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "Celebrities",
-        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
+        "name": "Kiev",
+        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
       },
       "artists": [
         {
-          "name": "Collections Of Colonies Of Bees",
-          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
+          "name": "The Polar Dream",
+          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
         }
       ],
-      "duration_ms": 247426,
-      "name": "You can go again",
-      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
+      "duration_ms": 303516,
+      "name": "Caballos (Horses)",
+      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
     },
     {
       "added_at": "2026-04-07 18:21:47",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "Kiev",
-        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
+        "name": "Celebrities",
+        "url": "https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt"
       },
       "artists": [
         {
-          "name": "The Polar Dream",
-          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
+          "name": "Collections Of Colonies Of Bees",
+          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
         }
       ],
-      "duration_ms": 303516,
-      "name": "Caballos (Horses)",
-      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
+      "duration_ms": 247426,
+      "name": "You can go again",
+      "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
     },
     {
       "added_at": "2026-04-07 18:21:47",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-04-07 18:21:47",
       "album": {
-        "name": "The View from This Tower",
-        "url": "https://open.spotify.com/album/5aAKGuszGuSTeMNtbUsTq1"
-      },
-      "artists": [
-        {
-          "name": "Faraquet",
-          "url": "https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Sea Song",
-      "url": "https://open.spotify.com/track/6JkcZN9wUGOz1rGNYgEQxb"
-    },
-    {
-      "added_at": "2026-04-07 18:21:47",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/55VynzQVKgmPV8QpBulCYH"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 238066,
       "name": "Scilla",
       "url": "https://open.spotify.com/track/5IH8NCoWzNIw9GjUHit9ym"
+    },
+    {
+      "added_at": "2026-04-07 18:21:47",
+      "album": {
+        "name": "The View from This Tower",
+        "url": "https://open.spotify.com/album/5aAKGuszGuSTeMNtbUsTq1"
+      },
+      "artists": [
+        {
+          "name": "Faraquet",
+          "url": "https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Sea Song",
+      "url": "https://open.spotify.com/track/6JkcZN9wUGOz1rGNYgEQxb"
     },
     {
       "added_at": "2026-04-07 18:21:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3676,
+  "num_followers": 3675,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADsoJq0jc84fmUQdNKBJfZW",
+  "snapshot_id": "agZiAAAAAACfxlOmQqTpeg/c7Tt9xS7s",
   "tracks": [
     {
       "added_at": null,
@@ -498,15 +498,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+      "duration_ms": 81730,
+      "name": "10X Melhor (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
     },
     {
       "added_at": null,
@@ -602,11 +598,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 81730,
-      "name": "10X Melhor (Interl\u00fadio)",
-      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
     },
     {
       "added_at": null,
@@ -743,30 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasicas Para Marolar",
-        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
       "artists": [
         {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 171008,
-      "name": "Gostoso esse Pretinho",
-      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -799,26 +795,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+        "name": "M\u00fasicas Para Marolar",
+        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+      "duration_ms": 171008,
+      "name": "Gostoso esse Pretinho",
+      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
     },
     {
       "added_at": null,

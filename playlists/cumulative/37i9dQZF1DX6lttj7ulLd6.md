@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-212 songs - 15 hr 27 min
+213 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Peaceful Horizon](https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc) | [ABCastillo Skyline Band](https://open.spotify.com/artist/41dJTxLdwWQXWXtCaIDjlu) | [Peaceful Horizon](https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0) | 3:38 | 2024-03-19 | 2026-01-22 |
 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 | 2023-03-09 |  |
 | [Perfect Moment](https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:45 | 2022-05-06 |  |
+| [Perfect Moments](https://open.spotify.com/track/0ntbWAy6aBZnDZ66Pa9LIY) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Perfect Moments](https://open.spotify.com/album/5cKmoWnvGQp1uCfhEcGIPC) | 3:35 | 2026-05-08 |  |
 | [Picante](https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [Picante](https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw) | 5:02 | 2026-01-14 |  |
 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 | 2023-08-18 |  |
 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 | 2022-05-06 |  |
@@ -163,7 +164,7 @@
 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 | 2022-05-06 |  |
 | [Rozil](https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:29 | 2022-05-06 |  |
 | [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 | 2022-05-06 |  |
-| [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 |  |
+| [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 | 2026-05-17 |
 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 | 2022-08-16 |  |
 | [simply delicious](https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [simply delicious](https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV) | 3:13 | 2026-05-08 |  |
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-05-06 | 2022-11-30 |

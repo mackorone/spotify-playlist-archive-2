@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAO5JzVbOERRp2R9xd/Qn9Z4PSnewLB",
+  "snapshot_id": "AAAO5uxmON6r6cfkDGOfsHulewlNVDON",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1515,6 +1515,38 @@
       "duration_ms": 211575,
       "name": "Don't Play The Victim",
       "url": "https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS"
+    },
+    {
+      "added_at": "2026-05-16 14:27:38",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO"
+      },
+      "artists": [
+        {
+          "name": "Bounce Back",
+          "url": "https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb"
+        }
+      ],
+      "duration_ms": 238448,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3"
+    },
+    {
+      "added_at": "2026-05-16 14:29:15",
+      "album": {
+        "name": "All You Fear Is All You Feel",
+        "url": "https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG"
+      },
+      "artists": [
+        {
+          "name": "Next Week's Washing",
+          "url": "https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6"
+        }
+      ],
+      "duration_ms": 154273,
+      "name": "All You Fear Is All You Feel",
+      "url": "https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop co curada com os Vizinhos .
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,231 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,245 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 21 | [Chumbo da Maria](https://open.spotify.com/track/3x6TKlEnSHeZJE88P9OuOt) | [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [In Taberna](https://open.spotify.com/album/3pY6pe2MXHXjB5HbqTCJKT) | 3:18 |
 | 22 | [Porta 43](https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Porta 43](https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD) | 2:45 |
 | 23 | [Sentir o Sol](https://open.spotify.com/track/70GRlXUPxqaiv1JZCoAKYn) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Pontos nos Is](https://open.spotify.com/album/5oFhCtICV8D4Hh50FU32BG) | 3:47 |
-| 24 | [ÉPOCA DE CAÇA ∆](https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Hormonal](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:43 |
+| 24 | [ÉPOCA DE CAÇA ∆](https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:43 |
 | 25 | [Fujo Contigo \(feat\. Soraia Ramos\)](https://open.spotify.com/track/0rZnAAwYlqZP0y8yixy5jQ) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Fujo Contigo \(feat\. Soraia Ramos\)](https://open.spotify.com/album/1IdwyoQPi2d9R7lFgO1JsO) | 2:56 |
 | 26 | [Tina](https://open.spotify.com/track/0cGZQqrXnlnBfU7uqHY1eh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Tina](https://open.spotify.com/album/6Hw55O1N1t5l25805KLcd7) | 2:50 |
 | 27 | [Chuva De Amor](https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor](https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0) | 3:50 |

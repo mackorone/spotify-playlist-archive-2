@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 23 min
+64 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Entre la Guerra y el Amor](https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Entre la Guerra y el Amor](https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO) | 2:58 | 2024-08-08 |  |
 | [Esa Hembra Es Mala \(En Vivo\)](https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Esa Hembra Es Mala \(En Vivo\)](https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ) | 4:23 | 2026-05-10 |  |
 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 | 2024-08-08 |  |
-| [Está en Ti \- Versión Acústica](https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Está en Ti \(Versión Acústica\)](https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH) | 4:11 | 2024-08-08 |  |
+| [Está en Ti \- Versión Acústica](https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Está en Ti \(Versión Acústica\)](https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH) | 4:11 | 2024-08-08 | 2026-05-17 |
 | [Fuiste Tú \- En Vivo](https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:07 | 2024-08-08 |  |
 | [Hoy Dame el Gusto](https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:12 | 2024-08-08 |  |
 | [Hubiera Querido](https://open.spotify.com/track/0Ww4kKGo0oejyFLahq3WAp) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:27 | 2024-10-28 | 2025-05-23 |
@@ -48,6 +48,7 @@
 | [Mujeres de Alto Mando](https://open.spotify.com/track/0r5tlrcPYP9gmU5PBjhtfE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mujeres de Alto Mando](https://open.spotify.com/album/0c5BPUZCmU98mkIuLTeJgT) | 2:48 | 2025-12-14 |  |
 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 | 2024-08-08 |  |
 | [No Fuimos](https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Fuimos](https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE) | 2:46 | 2024-10-20 |  |
+| [No Me Queda Más \(En Vivo\)](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 | 2026-05-17 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Te Contaron Mal](https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm) | 2:12 | 2024-08-08 |  |
 | [Ojalá que Quererte Bastara](https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:11 | 2024-08-08 | 2025-09-09 |
 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 | 2024-08-08 |  |

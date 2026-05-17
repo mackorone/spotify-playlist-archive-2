@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "100 Kaikkien aikojen iskelm\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn"
+      },
+      "artists": [
+        {
+          "name": "Monica Aspelund",
+          "url": "https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Lapponia",
+      "url": "https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF"
+    },
+    {
+      "album": {
         "name": "Popp Songs",
         "url": "https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 187413,
       "name": "Un jardin sur la Terre",
       "url": "https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc"

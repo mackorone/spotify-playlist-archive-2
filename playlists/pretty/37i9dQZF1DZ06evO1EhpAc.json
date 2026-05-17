@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9665,
+  "num_followers": 9664,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADVQ79L5zHI3lwe87l3mIhL",
+  "snapshot_id": "agZiAAAAAADeIJISAXO/lj+AKofv0Ntb",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Fantasy (Remix)",
-        "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
       },
       "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 202605,
-      "name": "In Your Fantasy (Yaeji Ver.)",
-      "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": null,
@@ -287,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+        "name": "In Your Fantasy (Remix)",
+        "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
       },
       "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+      "duration_ms": 202605,
+      "name": "In Your Fantasy (Yaeji Ver.)",
+      "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
     },
     {
       "added_at": null,

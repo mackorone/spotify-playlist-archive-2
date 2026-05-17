@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,339 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,351 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 28 | [Тону](https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu) | [HOLLYFLAME](https://open.spotify.com/artist/4WSx41vaWVKu4rdK3VpTDX) | [Тону](https://open.spotify.com/album/0dooqoBNx1V9sTJM903uCy) | 2:43 |
 | 29 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 30 | [MARTINE ROSE](https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L) | [MARTINE ROSE](https://open.spotify.com/album/7Je8rk60eM7LPvvZj9FiDy) | 3:06 |
-| 31 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
+| 31 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 |
 | 32 | [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 |
 | 33 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
 | 34 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Into the Sun](https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:47 |
 | 50 | [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 |
 
-Snapshot ID: `MZqOeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MZviUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

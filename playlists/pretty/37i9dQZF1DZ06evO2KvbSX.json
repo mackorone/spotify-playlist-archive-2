@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 806438,
+  "num_followers": 806465,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAoutEgOtcu0GlkyuSrUyCi",
+  "snapshot_id": "agZiAAAAAAATrbZ0gu37dA6QgGwZmgya",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 205080,
       "name": "Love The Hell Out Of You",
       "url": "https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Stay Love",
-      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
     },
     {
       "added_at": null,
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
       },
       "artists": [
         {
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+      "duration_ms": 206106,
+      "name": "Stay Love",
+      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 204430,
-      "name": "A Cure For Minds Unwell",
-      "url": "https://open.spotify.com/track/4PwTyisf9W7zfhAAflOKag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
       },
       "artists": [
         {
@@ -212,25 +196,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 210213,
-      "name": "Leaving My Love Behind",
-      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Heavenly Kind Of State Of Mind",
-      "url": "https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1"
+      "duration_ms": 204430,
+      "name": "A Cure For Minds Unwell",
+      "url": "https://open.spotify.com/track/4PwTyisf9W7zfhAAflOKag"
     },
     {
       "added_at": null,
@@ -251,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Heavenly Kind Of State Of Mind",
+      "url": "https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 210863,
       "name": "Forever",
       "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Leaving My Love Behind",
+      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 218900,
-      "name": "Before You Go - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185657,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0pEkK8MqbmGSX7fT8WLMbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 218900,
+      "name": "Before You Go - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
     },
     {
       "added_at": null,

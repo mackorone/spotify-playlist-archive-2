@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107409,
+  "num_followers": 107415,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABeQi0s+I0U92bG9EOCs+be",
+  "snapshot_id": "agZiAAAAAAAWUKCvRhyU25IaTSbE3ty6",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos De Celia Cruz",
         "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -1099,18 +1099,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar Negra",
-        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+        "name": "Celia Cruz Centennial",
+        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Amores De Un D\u00eda",
-      "url": "https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9"
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     }
   ],
   "unique_name": "This Is Celia Cruz",

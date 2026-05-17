@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  ",
-  "num_followers": 263551,
+  "num_followers": 263575,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "to what we were",
-        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 134250,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 180386,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
+        "name": "ON YOU",
+        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
+      },
+      "artists": [
+        {
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ON YOU",
+      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
         "name": "SHABA",
         "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 121338,
       "name": "SHABA",
       "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
-        "name": "ON YOU",
-        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
-      },
-      "artists": [
-        {
-          "name": "Timi Dre",
-          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ON YOU",
-      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -719,6 +719,30 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
+        "name": "Pepper Me",
+        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Pepper Me",
+      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 154105,
       "name": "Solace II",
       "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
-        "name": "Pepper Me",
-        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
-      },
-      "artists": [
-        {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "Pepper Me",
-      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "Muhammad Ali (Can't Relate)",
-        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Muhammad Ali (Can't Relate)",
-      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 176727,
       "name": "Ball",
       "url": "https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
+        "name": "Muhammad Ali (Can't Relate)",
+        "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Muhammad Ali (Can't Relate)",
+      "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "Get 2 Know",
-        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "K\u00fanl\u00e9",
-          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
-        }
-      ],
-      "duration_ms": 178488,
-      "name": "Get 2 Know",
-      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 189071,
       "name": "Offa Me (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
+        "name": "Get 2 Know",
+        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "K\u00fanl\u00e9",
+          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
+        }
+      ],
+      "duration_ms": 178488,
+      "name": "Get 2 Know",
+      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
         "name": "MENU",
         "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
       },
@@ -1267,22 +1247,22 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
       "artists": [
         {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1307,22 +1287,22 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1359,6 +1339,26 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-05-15 00:01:12",
-      "album": {
         "name": "Choice",
         "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 159335,
       "name": "Choice",
       "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
+    },
+    {
+      "added_at": "2026-05-15 00:01:12",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-05-15 00:01:12",
@@ -1519,22 +1519,22 @@
     {
       "added_at": "2026-05-15 00:01:12",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 120612,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     }
   ],
   "unique_name": "Ginja",

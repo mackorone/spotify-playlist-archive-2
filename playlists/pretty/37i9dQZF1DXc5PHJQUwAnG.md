@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\.  En portada: Sack Baby, Young King y Krusha G
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,819 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,829 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gloyalty](https://open.spotify.com/track/6xR5MHqaiEY9W7CeostYBf) | [Sack Baby](https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s), [Young king](https://open.spotify.com/artist/5kvoC7Oqa2x78ptvzk3mBo) | [Gloyalty](https://open.spotify.com/album/5uuPdhS8oxgKM7IrPJA4Tb) | 3:23 |
-| 2 | [Super Snake](https://open.spotify.com/track/7tzjvYawqMsMV379gTmWMW) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [LOBO66](https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo), [Toni Lozano](https://open.spotify.com/artist/4tNDZiqrCaPXqj5YcldVwk) | [Super Snake](https://open.spotify.com/album/02OYss79tAPHj8up2GCC4R) | 2:23 |
+| 2 | [Super Snake](https://open.spotify.com/track/7tzjvYawqMsMV379gTmWMW) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [LOBO66](https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo), [Toni lozano](https://open.spotify.com/artist/0pGjSJa0SsDl3XGOd50cTX) | [Super Snake](https://open.spotify.com/album/02OYss79tAPHj8up2GCC4R) | 2:23 |
 | 3 | [Dandote](https://open.spotify.com/track/4w0ieYCYZjw3H8xAEddkn5) | [Rodman Baby](https://open.spotify.com/artist/4UNMFNFoO6p1ZhzC7zGMv1), [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf) | [Dandote](https://open.spotify.com/album/1EMlfpzOgzOTHaR8CHTVrq) | 2:39 |
 | 4 | [Kobe](https://open.spotify.com/track/6WwuP453IEMlSNvXInQFJJ) | [Gustavo Almendarez](https://open.spotify.com/artist/5QM9R1r2dCPgzV5u49JCGr), [BALCAZAR](https://open.spotify.com/artist/6ltQRUIG93fCOo3ieLDZPe) | [Kobe](https://open.spotify.com/album/4Bole4E6qm568wEp1Xda6O) | 2:42 |
 | 5 | [Que Lo Que](https://open.spotify.com/track/4re2Ht6A8JtXRpotf3mGnh) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [DOOBLE 9](https://open.spotify.com/artist/0UJsFWmqm2PMz805KkoAFo), [Yvngzhaid](https://open.spotify.com/artist/4gnQfHDDda4VQIc9kGeMyJ) | [Que Lo Que](https://open.spotify.com/album/4nkT37t7ZfMBMMS3FgeqVu) | 2:37 |

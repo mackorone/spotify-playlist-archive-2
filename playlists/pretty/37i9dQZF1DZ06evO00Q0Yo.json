@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 20339,
+  "num_followers": 20342,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABSuYUJkFvgCGJaRfvSj8v6",
+  "snapshot_id": "agZiAAAAAABCrwBZ+QSZqM3gkpMf7QK7",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
     },
     {
       "added_at": null,

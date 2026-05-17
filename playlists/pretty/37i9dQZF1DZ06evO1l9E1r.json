@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3239,
+  "num_followers": 3241,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABGZNCjiuiB83okTgWRbD2B",
+  "snapshot_id": "agZiAAAAAAA7np3/9niLUae3oHnlvfpB",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
       "duration_ms": 184180,
       "name": "Melody of Not Knowing",
       "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 383266,
-      "name": "The Bone Temple",
-      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+      "duration_ms": 383266,
+      "name": "The Bone Temple",
+      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
     },
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+      "duration_ms": 163460,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
     },
     {
       "added_at": null,
@@ -915,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 163460,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
+      "duration_ms": 124541,
+      "name": "A Political Murder",
+      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
     },
     {
       "added_at": null,
@@ -951,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 95520,
-      "name": "He Died for All of Us",
-      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
+      "duration_ms": 196888,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/7J1u0DibcEonQFcZukC8XH"
     },
     {
       "added_at": null,

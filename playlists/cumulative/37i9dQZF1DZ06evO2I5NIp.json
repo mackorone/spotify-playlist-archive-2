@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 219672,
       "name": "Cadillac Blue",
       "url": "https://open.spotify.com/track/0Q5gpSEoto4Tl0V53yEPu0"
@@ -2550,6 +2550,24 @@
       "duration_ms": 254000,
       "name": "Walk On",
       "url": "https://open.spotify.com/track/6kXGe7mPLgsCVj5UZRor3E"
+    },
+    {
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252747,
+      "name": "Walk Until I Ride",
+      "url": "https://open.spotify.com/track/4oTb36MHmlBJHikriDUQhj"
     },
     {
       "album": {

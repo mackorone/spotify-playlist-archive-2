@@ -460,10 +460,32 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 193103,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/7E2Kci9dkM2MobReRitQlu"
+    },
+    {
+      "album": {
+        "name": "Eternal (SATOSHI Remix)",
+        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "SATOSHI",
+          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183171,
+      "name": "Eternal - SATOSHI Remix",
+      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
     },
     {
       "album": {

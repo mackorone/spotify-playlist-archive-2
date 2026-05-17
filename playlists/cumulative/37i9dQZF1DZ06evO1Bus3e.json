@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "FIONA",
+        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188446,
+      "name": "FIONA",
+      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
+    },
+    {
+      "album": {
         "name": "Gente Chaka",
         "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },

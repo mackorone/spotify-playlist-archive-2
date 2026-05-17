@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143274,
+  "num_followers": 143278,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 250927,
-      "name": "Wanna Be Loved - Live At The Ryman",
-      "url": "https://open.spotify.com/track/0UBCL7Xew29kHSTQtCtjc6"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live at the Ryman",
         "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 223032,
       "name": "Heavens To Betsy - Live at the Ryman",
       "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 250927,
+      "name": "Wanna Be Loved - Live At The Ryman",
+      "url": "https://open.spotify.com/track/0UBCL7Xew29kHSTQtCtjc6"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "REBEL (Live From Lexington)",
+        "url": "https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 222942,
+      "name": "The Cross - Live",
+      "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Love On The Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "REBEL (Live From Lexington)",
-        "url": "https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1"
+        "name": "I'm Still Fine (Live At The Ryman)",
+        "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
       },
       "artists": [
         {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
         }
       ],
-      "duration_ms": 222942,
-      "name": "The Cross - Live",
-      "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
+      "duration_ms": 295050,
+      "name": "I'm Still Fine - Live At The Ryman",
+      "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -551,22 +567,6 @@
       "duration_ms": 261839,
       "name": "When You Say Nothing At All - Live From The Louisville Palace, Kentucky / 2002",
       "url": "https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "I'm Still Fine (Live At The Ryman)",
-        "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 295050,
-      "name": "I'm Still Fine - Live At The Ryman",
-      "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1079,42 +1079,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Live in No Shoes Nation",
-        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Save It for a Rainy Day (with Old Dominion) - Live",
-      "url": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
         "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
@@ -1131,6 +1095,38 @@
       "duration_ms": 210880,
       "name": "Nobody But You (Duet with Gwen Stefani) - Live",
       "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Back Where I Come From - Live",
+      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+        "name": "Live in No Shoes Nation",
+        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
       "artists": [
         {
           "name": "Kenny Chesney",
           "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 285306,
-      "name": "Back Where I Come From - Live",
-      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
+      "duration_ms": 255933,
+      "name": "Save It for a Rainy Day (with Old Dominion) - Live",
+      "url": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Hate How You Look (Live From London)",
-        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 203375,
-      "name": "Hate How You Look - Live From London",
-      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "No Horse To Ride (Live From Boston)",
         "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 226523,
       "name": "No Horse To Ride - Live From Boston",
       "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Hate How You Look (Live From London)",
+        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 203375,
+      "name": "Hate How You Look - Live From London",
+      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
-        "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
-      "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Body Like A Back Road (15 In A 30 Tour Live)",
         "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 288106,
       "name": "Body Like A Back Road - 15 In A 30 Tour Live",
       "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
+        "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
+      "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
+        "name": "Me and My Kind (Live)",
+        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 405497,
-      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
+      "duration_ms": 163013,
+      "name": "Me and My Kind - Live",
+      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Me and My Kind (Live)",
-        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
+        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
+        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Me and My Kind - Live",
-      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
+      "duration_ms": 405497,
+      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
     },
     {
       "added_at": "2026-04-15 17:00:10",

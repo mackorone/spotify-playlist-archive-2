@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-937 songs - 2 day 0 hr 13 min
+938 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Back For More](https://open.spotify.com/track/6V05qFS4oDAO7WjUSKh9tp) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Back For More](https://open.spotify.com/album/1iDvvvirRGmT74hyU0AsZt) | 2:43 | 2024-04-05 | 2024-05-09 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-11 |  |
 | [Back to Kids](https://open.spotify.com/track/1gitm0ex2VODvSmsycXCT6) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Back to Kids](https://open.spotify.com/album/5K18XsjMruVGdgEp2VTmPy) | 3:33 | 2022-06-24 | 2023-03-18 |
-| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
+| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 | 2026-05-17 |
 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2024-10-13 |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-05 |
 | [Bad and Boujee \(feat\. taves\)](https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:56 | 2026-02-06 | 2026-03-21 |
@@ -403,6 +403,7 @@
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-19 | 2023-07-29 |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-26 | 2023-12-08 |
 | [Jara](https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jara](https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU) | 2:40 | 2023-09-14 | 2023-09-29 |
+| [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-15 |  |
 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 | 2024-02-02 | 2024-03-06 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 | 2023-02-11 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-29 |

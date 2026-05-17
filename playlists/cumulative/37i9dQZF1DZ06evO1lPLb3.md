@@ -4,7 +4,7 @@
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 11 min
+52 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [I Believe In Love Again](https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:56 | 2024-07-09 |  |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-10 | 2024-07-09 |
 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 | 2023-12-13 | 2024-01-01 |
+| [I Feel So Free \- Peggy Gou Energy Mix](https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Feel So Free \(Peggy Gou Energy Mix\)](https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt) | 4:27 | 2026-05-17 |  |
 | [I Go](https://open.spotify.com/track/2o7wQuwySXB2EDtNp7ymJa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 5:32 | 2024-06-13 | 2024-09-11 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2023-05-02 | 2023-12-14 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs) | 5:29 | 2023-12-13 |  |

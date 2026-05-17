@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407327,
+  "num_followers": 407334,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -235,42 +235,38 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
       "artists": [
         {
-          "name": "Carolina Gait\u00e1n - La Gaita",
-          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
         {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
         },
         {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
         },
         {
-          "name": "Rhenzy Feliz",
-          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
         },
         {
-          "name": "Diane Guerrero",
-          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
         },
         {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
         }
       ],
-      "duration_ms": 216120,
-      "name": "We Don't Talk About Bruno",
-      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+      "duration_ms": 385438,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -311,38 +307,42 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
       "artists": [
         {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
         },
         {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
         },
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
         },
         {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
         },
         {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
         },
         {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
         }
       ],
-      "duration_ms": 385438,
-      "name": "Non-Stop",
-      "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -412,26 +412,6 @@
       },
       "artists": [
         {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 208321,
-      "name": "You'll Be Back",
-      "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
           "name": "Leslie Odom Jr.",
           "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
@@ -463,6 +443,26 @@
       "duration_ms": 236737,
       "name": "Alexander Hamilton",
       "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 208321,
+      "name": "You'll Be Back",
+      "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
     },
     {
       "added_at": "2026-03-06 13:38:21",

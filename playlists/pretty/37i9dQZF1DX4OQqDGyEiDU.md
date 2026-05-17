@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: DECO\*27
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,392 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,396 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 34 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
 | 35 | [シビルアイ](https://open.spotify.com/track/08uJ0SODhKBGBqtm39PZsQ) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [OOPÁRK](https://open.spotify.com/album/2HhmsSYMW2CXhSbCoQkb9f) | 3:00 |
 | 36 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 37 | [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 |
-| 38 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
+| 37 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
+| 38 | [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 |
 | 39 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
 | 40 | [OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY \(Vocaloid ver.\)](https://open.spotify.com/track/3yCKJlbaX60oX6K4mgurgz) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY](https://open.spotify.com/album/7Bm0fQryzCnm3Klw8HezYk) | 2:19 |
 | 41 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |

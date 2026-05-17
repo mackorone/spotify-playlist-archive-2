@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-196 songs - 11 hr 10 min
+197 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ddanddara](https://open.spotify.com/track/52DuC06qxMPfRjYJsDApEE) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5), [VNDK](https://open.spotify.com/artist/15pDttBjet9II5oMdQZJpg) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 3:06 | 2022-05-11 | 2022-07-26 |
 | [Direct Message](https://open.spotify.com/track/1Utz8qNxA90sViCn9JwWOr) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Maze Garden](https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk) | 3:33 | 2022-05-11 | 2022-07-19 |
 | [Distance](https://open.spotify.com/track/3VArv6ytEMbiubvL067Mou) | [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41) | [Distance](https://open.spotify.com/album/7hpzO9yIO5XGilLvosf566) | 3:16 | 2022-05-11 | 2022-07-26 |
+| [Don’t try this at Home \(Feat\. Lotionmoney\)](https://open.spotify.com/track/242IAR40hWWpt3l8Wzn5SU) | [Snozern](https://open.spotify.com/artist/7M7ZaOEQQL2YdnyMxYZtVI), [Lotionmoney](https://open.spotify.com/artist/3x3nxacqbp5UDD0kYLNpzN) | [Don’t try this at Home \(Feat\. Lotionmoney\)](https://open.spotify.com/album/5rFiCVwhUi6K8MouXOoVfi) | 2:38 | 2026-04-01 |  |
 | [Empty Spot](https://open.spotify.com/track/13VuElqGiyeMzS6R7iVsY2) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [The Spoiled Child](https://open.spotify.com/album/3W6pCwylFquhIXclKN1dic) | 5:17 | 2022-05-11 | 2025-04-09 |
 | [Escape](https://open.spotify.com/track/4KWwu50PwXoTjzClhqz61h) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 3:43 | 2022-05-11 | 2022-07-28 |
 | [Excuse \(feat\. Don Malik, DJ KENDRICKX\)](https://open.spotify.com/track/3YaDR5EtEODPedrpnXOft0) | [Kingchi Mane](https://open.spotify.com/artist/2SVuMSzTLK3koFQMbV5quj), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DJ Kendrickx](https://open.spotify.com/artist/5QGsnw046VJFphoOgNfsA5) | [Ω \(Omega\)](https://open.spotify.com/album/0GxJFaxQtBlTRyZtVk51Uc) | 4:22 | 2022-05-11 | 2022-06-07 |
@@ -71,7 +72,7 @@
 | [Girl, Interrupted](https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life](https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3) | 3:00 | 2024-07-01 |  |
 | [GOOD NIGHT](https://open.spotify.com/track/0CxMRR6CxLboQdmMPUWoPm) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/7paPIIEBNYB1Mtnshg6kvB) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 | 2022-07-22 | 2023-12-23 |
-| [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 | 2022-05-11 |  |
+| [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 | 2022-05-11 | 2026-05-17 |
 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 | 2023-01-25 | 2024-06-23 |
 | [Green Thumb](https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Green Thumb](https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV) | 3:05 | 2022-06-09 | 2024-06-10 |
 | [gucci girl](https://open.spotify.com/track/1mqwUoKBZ0oci8NfA9czVG) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:20 | 2022-05-11 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1875753,
+  "num_followers": 1875878,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 109960,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "added_at": "2024-09-06 14:23:51",

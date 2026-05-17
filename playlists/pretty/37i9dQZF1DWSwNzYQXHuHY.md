@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,481 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,485 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 35 | [Wanna Love You](https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Wanna Love You](https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf) | 3:40 |
 | 36 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
 | 37 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |
-| 38 | [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 |
-| 39 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 38 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 39 | [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 |
 | 40 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
 | 41 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 42 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 43 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
-| 44 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
-| 45 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
+| 44 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
+| 45 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
 | 46 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 47 | [Friends to Lovers](https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU) | [B.D.U](https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz) | [Friends to Lovers](https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ) | 2:56 |
 | 48 | [The moment eyes meet](https://open.spotify.com/track/0gM1bMvFSpfw6y7Zbo2DVG) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z), [Sunny Hill](https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf) | [The moment eyes meet](https://open.spotify.com/album/1BHEqYMB2RO4jKh06PBYpt) | 3:46 |

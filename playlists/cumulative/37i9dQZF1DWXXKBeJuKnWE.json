@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+    },
+    {
+      "album": {
         "name": "face.",
         "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
       },
@@ -8146,7 +8164,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 241300,
       "name": "Moths",
       "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"

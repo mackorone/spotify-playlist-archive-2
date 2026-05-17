@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 287 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 288 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 22 | [Merry Go Round](https://open.spotify.com/track/7k9rcsOLrZBzxIL4cyAipZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 4:05 |
 | 23 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 |
 | 24 | [Brave](https://open.spotify.com/track/4Nslo8dwYV7tsnLtGDX63B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:21 |
-| 25 | [Bad Habit](https://open.spotify.com/track/0TiUwSybDflJu4Qe2AUoGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:22 |
-| 26 | [Saccharine](https://open.spotify.com/track/3J65NAYTuI4Bijum16hRTz) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:12 |
+| 25 | [Saccharine](https://open.spotify.com/track/3J65NAYTuI4Bijum16hRTz) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:12 |
+| 26 | [Bad Habit](https://open.spotify.com/track/0TiUwSybDflJu4Qe2AUoGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:22 |
 | 27 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 |
 | 28 | [Temporary Love](https://open.spotify.com/track/614GWtz7F9A61E9OPZqNkU) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:38 |
 | 29 | [Something Sweet](https://open.spotify.com/track/3PlM3biKS6ZUIHojCJmElE) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Something Sweet](https://open.spotify.com/album/2oIUFdMdCZB6KSxcByEbDT) | 3:15 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 141 | [You Promised](https://open.spotify.com/track/0Zm281FNumxgHMe9CVlf5A) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:34 |
 | 142 | [Honeycrash](https://open.spotify.com/track/2Knmi7fn4pkQttT1tgYOex) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:08 |
 | 143 | [Trap Nest](https://open.spotify.com/track/1sudHlSnZ22l77slLmCPZ5) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:59 |
-| 144 | [home](https://open.spotify.com/track/6M4m465yvuv1js4qpxyRWd) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:39 |
-| 145 | [Chasing Ghosts](https://open.spotify.com/track/3AzhppbfxB42GGaYPuQ6kE) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:06 |
+| 144 | [Chasing Ghosts](https://open.spotify.com/track/3AzhppbfxB42GGaYPuQ6kE) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:06 |
+| 145 | [home](https://open.spotify.com/track/6M4m465yvuv1js4qpxyRWd) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:39 |
 | 146 | [Comedown](https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:38 |
 | 147 | [Mr\. Diva](https://open.spotify.com/track/0aItLBbKuK6DXwUL7v46Tq) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Mr\. Diva \- EP](https://open.spotify.com/album/6QRuYRIVmLpS1YZGcPChYh) | 4:07 |
 | 148 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
@@ -295,5 +295,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 285 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 286 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 287 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
+| 288 | [Tightrope](https://open.spotify.com/track/6iSwu4p1TNJ7BbSuctIRgd) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Stupid Question / Tightrope](https://open.spotify.com/album/4QBzVZXpXYmVdpH3RVqrBQ) | 3:34 |
 
-Snapshot ID: `AcRl/AAAAAC9PVhDJDMltmckiY3Ctx2K`
+Snapshot ID: `AcRrnAAAAACbVAxaS1QodpUJwCEl9qJg`

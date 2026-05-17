@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 692341,
+  "num_followers": 692373,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACzZbaT/YyTF5n2nsbMOO4+",
+  "snapshot_id": "agZiAAAAAAAf1vU85KUABxvZB20U35B0",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 132949,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
+      "duration_ms": 146000,
+      "name": "Break on Through (To the Other Side) - New Stereo Mix",
+      "url": "https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Break on Through (To the Other Side) - New Stereo Mix",
-      "url": "https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE"
+      "duration_ms": 132949,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+      "duration_ms": 154066,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
       "added_at": null,

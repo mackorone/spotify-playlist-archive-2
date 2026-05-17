@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 103382,
+  "num_followers": 103419,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACRufnix/KLhivtfcqpMDDF",
+  "snapshot_id": "agZiAAAAAADRYRP/CWlDOqET2igPo9KS",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 265913,
+      "name": "Abuelita - Remastered 2024",
+      "url": "https://open.spotify.com/track/10fLErlEExaTeFbr7dZuZA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Fuga (Remastered 2024)",
-        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 265913,
-      "name": "Abuelita - Remastered 2024",
-      "url": "https://open.spotify.com/track/10fLErlEExaTeFbr7dZuZA"
+      "duration_ms": 318520,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 212123,
       "name": "Camino al Barrio - Remastered 2026",
       "url": "https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 318520,
-      "name": "Cueste Lo Que Cueste",
-      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "Te Conozco",
-      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 316680,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 295480,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
       "added_at": null,

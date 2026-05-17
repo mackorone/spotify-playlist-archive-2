@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 60173,
+  "num_followers": 60174,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -987,18 +987,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\")",
-        "url": "https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1"
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        },
+        {
+          "name": "MULAMBA",
+          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
         }
       ],
-      "duration_ms": 173508,
-      "name": "No Estamos Solas - Tema Central de la Serie \"La Jaur\u00eda\"",
-      "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
+      "duration_ms": 189778,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
+        "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\")",
+        "url": "https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1"
       },
       "artists": [
         {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        },
-        {
-          "name": "MULAMBA",
-          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 189778,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+      "duration_ms": 173508,
+      "name": "No Estamos Solas - Tema Central de la Serie \"La Jaur\u00eda\"",
+      "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
     },
     {
       "added_at": "2024-07-23 21:39:12",

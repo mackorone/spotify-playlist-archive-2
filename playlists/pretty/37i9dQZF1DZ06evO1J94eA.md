@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,378 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,386 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 13 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:28 |
 | 14 | [Empty Pockets \- Remastered 2007](https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:12 |
 | 15 | [Oh! Oh! Here He Comes](https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 4:08 |
-| 16 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:03 |
+| 16 | [Gentle Thoughts](https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 7:02 |
 | 17 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 18 | [The Maze \- Remastered 2007](https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:48 |
 | 19 | [Wiggle Waggle](https://open.spotify.com/track/2akqjwBZxyDIEJEJXq4Cvx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:51 |
-| 20 | [Gentle Thoughts](https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 7:02 |
+| 20 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:03 |
 | 21 | [Bring Down the Birds \- Outtake](https://open.spotify.com/track/3i0meyRRCpIzyMmLdYssGw) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Blow\-Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs) | 1:46 |
 | 22 | [A Case Of You \- Short Version](https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 7:36 |
 | 23 | [MOON \(feat\. Herbie Hancock\)](https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 46 | [4 A.M.](https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 5:23 |
 | 47 | [My Funny Valentine \(feat\. Herbie Hancock\)](https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Funny Valentine \(feat\. Herbie Hancock\)](https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y) | 4:53 |
 | 48 | [Actual Proof](https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 9:41 |
-| 49 | [St\. Louis Blues](https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:49 |
-| 50 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
+| 49 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
+| 50 | [St\. Louis Blues](https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:49 |
 
-Snapshot ID: `agUQgAAAAABCqZZb9RydLIIexk2oA6JQ`
+Snapshot ID: `agZiAAAAAAD8YITySYv1303ShT2yNQzo`

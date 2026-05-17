@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,879 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,884 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 45 | [GUSHERS](https://open.spotify.com/track/0nC9i110RDAyZO5V490Qmd) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [103.7 PSSY FM](https://open.spotify.com/album/2Dl6gaVeU4po65RHWmGCp1) | 2:53 |
 | 46 | [DOLLARS, DOLLS, DRUGS](https://open.spotify.com/track/5QCyiwr9QKzXN9S1t9Z43z) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [DOLLARS, DOLLS, DRUGS](https://open.spotify.com/album/5atVXbuNbsfqkCBoZbetHC) | 3:04 |
 | 47 | [The One](https://open.spotify.com/track/6XIheT6B51KjMcAosWrv6d) | [Kevin Jz Prodigy](https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk), [Drootrax](https://open.spotify.com/artist/4aHy2SSWURubD1vG3YA85c) | [The One](https://open.spotify.com/album/2VdEY0VULgnW8DVJ2yE1SS) | 3:11 |
-| 48 | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/track/4C2BXCCYIbkwdcGVd78jPu) | [Cherie Lily](https://open.spotify.com/artist/62EtucF20PtIgqzJJzE6Dm), [Jack Mizrahi](https://open.spotify.com/artist/3yr44etlSPcdruXQYfhGGi), [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/album/6NvKS9Ff7V9OgCox9LUZ9v) | 4:16 |
+| 48 | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/track/4C2BXCCYIbkwdcGVd78jPu) | [Cherie Lily](https://open.spotify.com/artist/62EtucF20PtIgqzJJzE6Dm), [Jack Mizrahi](https://open.spotify.com/artist/3yr44etlSPcdruXQYfhGGi), [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [Gemstone](https://open.spotify.com/album/6NvKS9Ff7V9OgCox9LUZ9v) | 4:16 |
 | 49 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 |
 | 50 | [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 |
 | 51 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 77 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 77 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 76 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 |
 | 77 | [霞](https://open.spotify.com/track/6gyLJrir6GcZk6cOts0Sws) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [Yukihiko Yotsukura](https://open.spotify.com/artist/6V5Bkn07G676EXpYMlohnT) | [静寂光りて](https://open.spotify.com/album/6U0YMfAPjOeu1vxsAu0FDO) | 2:52 |
 
-Snapshot ID: `AAAAAO8mA5lu/NJl9iYE/zKqWeZ4ufhJ`
+Snapshot ID: `AAAAAMAam2pd7es1wbuIk0JC9TLsuM6V`

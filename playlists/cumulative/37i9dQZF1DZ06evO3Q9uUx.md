@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-148 songs - 6 hr 58 min
+149 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Mi Naturaleza](https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD) | [K2](https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mi Naturaleza](https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8) | 3:07 | 2022-10-28 | 2023-07-30 |
 | [Miami \(feat\. BIA\)](https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 4:03 | 2022-10-28 |  |
 | [MILANO](https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [REALLY HER \(Intl Deluxe\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:14 | 2023-10-10 |  |
-| [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 | 2023-07-29 |  |
+| [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 | 2023-07-29 | 2026-05-17 |
 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 | 2022-10-28 | 2023-10-11 |
 | [Nasty Girl](https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 2:48 | 2024-01-20 | 2024-11-10 |
 | [Nasty Girl](https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 | 2022-10-28 | 2023-10-11 |
@@ -156,5 +156,6 @@
 | [Yeah \(with BIA\)](https://open.spotify.com/track/3ta5gWGwyiJMzBmhae0nip) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Yeah \(with BIA\)](https://open.spotify.com/album/3q1IbjXMfuOo8pqy5ANphP) | 2:20 | 2024-04-14 | 2024-05-11 |
 | [Yeah \(with BIA\)](https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Yeah \(with BIA\)](https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC) | 2:20 | 2024-05-11 | 2024-07-10 |
 | [Yeah \(with BIA\)](https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [What Was Said?](https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5) | 2:20 | 2024-07-18 | 2024-12-26 |
+| [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE) | 2:48 | 2026-05-17 |  |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

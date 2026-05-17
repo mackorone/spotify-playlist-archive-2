@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,713 likes - 350 songs - 12 hr 0 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,711 likes - 350 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 195 | [Night Owl](https://open.spotify.com/track/1BaCsnwSMgwvsoePgDseVo) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Night Owl](https://open.spotify.com/album/2MIlyDp84XcSsrrvMCMEmV) | 2:03 |
 | 196 | [after dinner](https://open.spotify.com/track/14SI5r9CCi8bgjNiTg7He5) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304) | [good evening, everyone](https://open.spotify.com/album/5G99IWF7ks8y8sYQ0av2Mr) | 2:01 |
 | 197 | [Living Proof](https://open.spotify.com/track/3ywcuRJMlJxHNCV2SwdfLq) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Living Proof](https://open.spotify.com/album/4yqYvWdgUiUVGjrfy3qrzS) | 1:55 |
-| 198 | [Digi Deck](https://open.spotify.com/track/5kUl8Pe7dQuGl54NTEZAPL) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Digi Deck](https://open.spotify.com/album/7k0jBPMZGybK797xJ0pwOu) | 1:48 |
+| 198 | [Digi Deck](https://open.spotify.com/track/5kUl8Pe7dQuGl54NTEZAPL) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Digi Deck](https://open.spotify.com/album/7k0jBPMZGybK797xJ0pwOu) | 1:48 |
 | 199 | [Soft Tides](https://open.spotify.com/track/0cNYdzGPTuWV5w0s8npStV) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Soft Tides](https://open.spotify.com/album/6tR6pz9ABaEJVoCLA1z9YE) | 2:00 |
 | 200 | [Purple Haze](https://open.spotify.com/track/0hXKZZJkf1eg92KblvZzm4) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Purple Haze](https://open.spotify.com/album/2SA6KYUiW7GkuuBnX0pXi0) | 2:03 |
 | 201 | [On My Way](https://open.spotify.com/track/42hGEtGMuXslSFZSryneQS) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [On My Way](https://open.spotify.com/album/1pc4UJXo9dRHoxCHNWaHUh) | 2:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,233 likes - 59 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,276 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 11 | [HEAD](https://open.spotify.com/track/6BULZnYoUapTGJU0lAjjL8) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 1:30 |
 | 12 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
 | 13 | [Outta Here](https://open.spotify.com/track/1yjRkRZ9N9blrca0f0UzeF) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:28 |
-| 14 | [Result](https://open.spotify.com/track/2dPWJrGlbSUZnByGEZ9pLB) | [T.C.M.F](https://open.spotify.com/artist/3sqp2MlfpA36SQcAEKEavz) | [Result](https://open.spotify.com/album/4Jtgwp7vIeEhDBROA6A8w8) | 2:51 |
+| 14 | [Result](https://open.spotify.com/track/2dPWJrGlbSUZnByGEZ9pLB) | [T.C.M.F.](https://open.spotify.com/artist/3sqp2MlfpA36SQcAEKEavz) | [Result](https://open.spotify.com/album/4Jtgwp7vIeEhDBROA6A8w8) | 2:51 |
 | 15 | [Dog Years](https://open.spotify.com/track/0Y43QzsurrWc4MkIV9YAId) | [Urethane](https://open.spotify.com/artist/59UNK6T1d6IOEty9OOdmhw) | [Dog Years](https://open.spotify.com/album/6uunjoD3gasjtIR7JQP69b) | 2:43 |
 | 16 | [Charlotte](https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:59 |
 | 17 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |

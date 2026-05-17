@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 784742,
+  "num_followers": 784917,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABWpNaUHQnqzqiwS0O1thrp",
+  "snapshot_id": "agZiAAAAAADpfr01SRAWyzGdi1FNwBzb",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256911,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -507,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -535,6 +539,22 @@
       "duration_ms": 230973,
       "name": "Qu\u00e9date Esta Noche",
       "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
     },
     {
       "added_at": null,
@@ -847,26 +867,6 @@
       "duration_ms": 240573,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JuanesTeban",
-        "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 175281,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4cVXTKRTbV6UGEhXOQNV8d"
     }
   ],
   "unique_name": "This Is Mon Laferte",

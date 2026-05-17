@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,938 likes - 83 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,939 likes - 83 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Corona del Rey \ud83d\udcf8",
-  "num_followers": 1301730,
+  "num_followers": 1301755,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm",
+  "snapshot_id": "AAAAAKHq4nrEiJ5zAW2PWQUZJCPS8Bjj",
   "tracks": [
     {
       "added_at": "2026-05-08 06:00:23",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225170,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 128177,
       "name": "Coraz\u00f3n Malo",
       "url": "https://open.spotify.com/track/7xSxAOJOA2aRkT3tZJ0QRQ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225170,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Fuiste Mi Todo",
-        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152908,
-      "name": "Fuiste Mi Todo",
-      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L"
       },
@@ -567,6 +547,26 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152908,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Con La Misma Piedra",
         "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Aunque me duela",
-        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 228017,
-      "name": "Aunque me duela",
-      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Le Va A Doler",
         "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 160258,
       "name": "Le Va A Doler",
       "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Aunque me duela",
+        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "Aunque me duela",
+      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Chalupas y buenas",
-        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Chalupas y buenas",
-      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "La M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 186021,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Pa' Todas Tengo Yo",
+        "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "Pa' Todas Tengo Yo",
+      "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 215068,
       "name": "Como Este Loco",
       "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Pa' Todas Tengo Yo",
-        "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "Pa' Todas Tengo Yo",
-      "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Quien De Los Dos Sera",
         "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 213169,
       "name": "Quien De Los Dos Sera",
       "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Quererte Mucho",
-        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Quererte Mucho",
-      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Parece Chiste",
         "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+      "duration_ms": 162124,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
       },
       "artists": [
         {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 162124,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Quererte Mucho",
+        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Quererte Mucho",
+      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "T\u00fa Ya Las Conoces, Vol. 1",
-        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Mujeres Livianas",
         "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 182500,
       "name": "A La Luz Del Dia",
       "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
     },
     {
       "added_at": "2026-05-08 06:00:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,883 likes - 150 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,134 likes - 150 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 149 | [Up To You](https://open.spotify.com/track/22naV1kLkISKMUDhxxHjm9) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Up To You](https://open.spotify.com/album/0AzeZpOlv0Nfd63wnZdATv) | 3:12 |
 | 150 | [she loves jazz](https://open.spotify.com/track/6OwJpp1cHkaq9j6v3wqYCp) | [St\-Amour](https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96), [KIMBER](https://open.spotify.com/artist/0iHbzrLG18CgCsKxZVNGRE), [MiQu](https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE) | [she loves jazz](https://open.spotify.com/album/4h8xKxXDjTOntDJBAr6EgO) | 2:36 |
 
-Snapshot ID: `AAAAALfFeZsNuGd65jYUI5BVmyTzgV+Z`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

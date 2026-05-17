@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-948 songs - 2 day 5 hr 8 min
+949 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2024-10-25 | 2024-11-22 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 | 2025-07-29 |
 | [It's Alright](https://open.spotify.com/track/27PxQOwtRXA4ofj1Y0QXPD) | [Cinnamon Gum](https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X) | [The Cinnamon Show](https://open.spotify.com/album/4wNTx3n951dp4FZtCk7CVP) | 3:04 | 2025-03-28 | 2025-06-17 |
-| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-03-13 |  |
+| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-03-13 | 2026-05-17 |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-27 | 2024-11-22 |
 | [Jagna](https://open.spotify.com/track/5a4jziec5vsP0ktnRZ5KcQ) | [L.U.C.](https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv), [Rebel Babel Film Orchestra](https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv) | [Chłopi \(Original Soundtrack\)](https://open.spotify.com/album/4bNiBmPncdmzzWdeUSs7DF) | 1:47 | 2025-09-15 | 2025-09-20 |
 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 | 2026-03-20 | 2026-03-28 |
@@ -668,6 +668,7 @@
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-14 | 2025-06-01 |
 | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/track/6ZXESlOLiryfEWxqpC37oi) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/album/5CCQqMLlqI2eXP5o0FAcU3) | 4:51 | 2025-10-23 | 2025-11-08 |
 | [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 | 2025-02-21 | 2025-04-26 |
+| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-15 |  |
 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-10 |  |
 | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 | 2025-03-07 | 2025-03-29 |
 | [Right Here](https://open.spotify.com/track/6GGGEbj4uAslHYUyjxVyBR) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Right Here](https://open.spotify.com/album/1kpSftsDEXk4MP9xhAumxZ) | 2:29 | 2026-01-23 | 2026-01-31 |

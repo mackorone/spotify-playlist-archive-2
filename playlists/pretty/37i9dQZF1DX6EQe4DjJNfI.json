@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187495,
+  "num_followers": 187501,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "off",
+        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "off",
+      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -679,22 +699,6 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -767,6 +787,22 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -791,6 +827,22 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Te Faria",
         "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
@@ -811,18 +863,22 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+      "duration_ms": 187733,
+      "name": "Falar De Amor - Remix",
+      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -843,26 +899,6 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Falar De Amor - Remix",
-      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -927,6 +963,22 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -947,22 +999,6 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -979,22 +1015,6 @@
       "duration_ms": 204604,
       "name": "perco o ar",
       "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -1451,26 +1471,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
-        "name": "off",
-        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "off",
-      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
     }
   ],
   "unique_name": "R&B Brasil",

@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Sue\u00f1o A Marte en portada.",
-  "num_followers": 38486,
+  "num_followers": 38496,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Quimera",
-        "url": "https://open.spotify.com/album/18VsXc4EL5gm2B2q31p1Po"
-      },
-      "artists": [
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Quimera",
-      "url": "https://open.spotify.com/track/3YGRQyZWnYpTUPOMCrRPwr"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "Quimera",
+        "url": "https://open.spotify.com/album/18VsXc4EL5gm2B2q31p1Po"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Quimera",
+      "url": "https://open.spotify.com/track/3YGRQyZWnYpTUPOMCrRPwr"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Lejos de M\u00ed",
-        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 196630,
-      "name": "Lejos de M\u00ed",
-      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 194640,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "Los Movimientos",
+        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 302602,
+      "name": "Viajar en Metro",
+      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Los Movimientos",
-        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
+        "name": "Lejos de M\u00ed",
+        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 302602,
-      "name": "Viajar en Metro",
-      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
+      "duration_ms": 196630,
+      "name": "Lejos de M\u00ed",
+      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 251595,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "BILLY",
         "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "sky of fading lights",
-        "url": "https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N"
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
       "artists": [
         {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 510028,
-      "name": "et\u00e9rea",
-      "url": "https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf"
+      "duration_ms": 251595,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -527,6 +511,22 @@
       "duration_ms": 254133,
       "name": "Sailor",
       "url": "https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "sky of fading lights",
+        "url": "https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N"
+      },
+      "artists": [
+        {
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
+        }
+      ],
+      "duration_ms": 510028,
+      "name": "et\u00e9rea",
+      "url": "https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
-      },
-      "artists": [
-        {
-          "name": "Flores",
-          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
-        }
-      ],
-      "duration_ms": 277443,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "Ojal\u00e1 te mueras",
         "url": "https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 247583,
       "name": "Ojal\u00e1 te mueras",
       "url": "https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+        }
+      ],
+      "duration_ms": 277443,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
     },
     {
       "added_at": "2025-10-24 06:00:19",

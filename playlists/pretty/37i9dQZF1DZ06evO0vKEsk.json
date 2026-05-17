@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132707,
+  "num_followers": 132703,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABkYxEu9q32Nh6/M16bitc7",
+  "snapshot_id": "agZiAAAAAAA6IXohVIkqs7Tlg5UnOOkO",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maranata (Vem Emanuel) (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 419263,
       "name": "Maranata (Vem Emanuel) (Ao Vivo)",
       "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Debaixo da Nuvem (Ao Vivo)",
         "url": "https://open.spotify.com/album/40haqMQAqyWCXcBvUqKhLu"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 310183,
       "name": "Meu Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     }
   ],
   "unique_name": "This Is Bruna Karla",

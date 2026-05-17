@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACCEQNv5/pHT02opQamt1GV",
+  "snapshot_id": "agZiAAAAAAC/bRX3OOF7WT9tXxhrCi91",
   "tracks": [
     {
       "added_at": null,
@@ -176,15 +176,15 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 586760,
-      "name": "Patchwork",
-      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
+      "duration_ms": 413720,
+      "name": "Old Wave",
+      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
     },
     {
       "added_at": null,
@@ -244,15 +244,15 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 413720,
-      "name": "Old Wave",
-      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
+      "duration_ms": 586760,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ONUKA\n",
-  "num_followers": 15078,
+  "num_followers": 15082,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-05-14 21:18:03",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "added_at": "2026-05-14 21:18:03",
@@ -367,22 +371,18 @@
     {
       "added_at": "2026-05-14 21:18:03",
       "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-05-14 21:18:03",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-05-14 21:18:03",
       "album": {
-        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
-        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
+        "name": "Gorgone",
+        "url": "https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX"
       },
       "artists": [
         {
-          "name": "MAX BARSKIH",
-          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
         }
       ],
-      "duration_ms": 228281,
-      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
-      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
+      "duration_ms": 302989,
+      "name": "Gorgone",
+      "url": "https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV"
     },
     {
       "added_at": "2026-05-14 21:18:03",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-05-14 21:18:03",
       "album": {
-        "name": "Gorgone",
-        "url": "https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX"
+        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
       },
       "artists": [
         {
-          "name": "Carpetman",
-          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
         }
       ],
-      "duration_ms": 302989,
-      "name": "Gorgone",
-      "url": "https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV"
+      "duration_ms": 228281,
+      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
     },
     {
       "added_at": "2026-05-14 21:18:03",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-05-14 21:18:03",
       "album": {
-        "name": "LIGHTKEEPER",
-        "url": "https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE"
+        "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
       },
       "artists": [
         {
-          "name": "LAUD",
-          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
         }
       ],
-      "duration_ms": 179692,
-      "name": "LIGHTKEEPER",
-      "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
+      "duration_ms": 231692,
+      "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",

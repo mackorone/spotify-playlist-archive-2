@@ -1,5 +1,5 @@
 {
-  "description": "With Dystopian X Vision, Jon Drake, MIK's Reaction and more",
+  "description": "With Dystopian X Vision, MIK's Reaction, Lockjaw and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
@@ -47,34 +47,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "From the Attic",
-        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
+        "name": "Nightmare On Lexington Street",
+        "url": "https://open.spotify.com/album/1Y7L7Lg7zSlPEDCsRqWaPZ"
       },
       "artists": [
         {
-          "name": "SCHANZ",
-          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/2x5SlkdvmEsLt8kidtmPlN"
         }
       ],
-      "duration_ms": 260685,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
+      "duration_ms": 197462,
+      "name": "Nightmare On Lexington Street",
+      "url": "https://open.spotify.com/track/3yC4et0t1UpGAHaDPFcbpz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "South Side",
-        "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
+        "name": "F\u00f6rnedringen",
+        "url": "https://open.spotify.com/album/5Zy4wJIQBwmuMK1ND4gDbu"
       },
       "artists": [
         {
-          "name": "weapons of self destruction",
-          "url": "https://open.spotify.com/artist/6dYAQRwebnAQ38F0lQQjn3"
+          "name": "D\u00f6dens Clowner",
+          "url": "https://open.spotify.com/artist/2Q744E0tAVhSxdZeeop9S2"
         }
       ],
-      "duration_ms": 205292,
-      "name": "South Side",
-      "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
+      "duration_ms": 138070,
+      "name": "F\u00f6rnedringen",
+      "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberationizing Light",
+        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
+      },
+      "artists": [
+        {
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+        }
+      ],
+      "duration_ms": 256894,
+      "name": "Liberationizing Light",
+      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "N\u00e5r Verden Treffer Meg I Hodet",
+      "url": "https://open.spotify.com/track/15PYf2wzLRgn4q2vxeRR54"
     },
     {
       "added_at": null,
@@ -99,50 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "From the Attic",
+        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
       },
       "artists": [
         {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
         }
       ],
-      "duration_ms": 214000,
-      "name": "N\u00e5r Verden Treffer Meg I Hodet",
-      "url": "https://open.spotify.com/track/15PYf2wzLRgn4q2vxeRR54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City Of Fear",
-        "url": "https://open.spotify.com/album/5f1UcGwwvye8Iqggvkqjwz"
-      },
-      "artists": [
-        {
-          "name": "Baarhus",
-          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
-        }
-      ],
-      "duration_ms": 277186,
-      "name": "City Of Fear",
-      "url": "https://open.spotify.com/track/0lqBV9sEAWDSlPcT4yAjNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essenza",
-        "url": "https://open.spotify.com/album/2oaVV5vjvKtWVfVzSbhm3l"
-      },
-      "artists": [
-        {
-          "name": "Id-zero",
-          "url": "https://open.spotify.com/artist/0vIq8UxRlpAbwyUP1TGm00"
-        }
-      ],
-      "duration_ms": 218408,
-      "name": "The EyePhone Is My New Religion",
-      "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
+      "duration_ms": 260685,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
     },
     {
       "added_at": null,
@@ -163,18 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Many Dreams",
-        "url": "https://open.spotify.com/album/61L1j1Oq5zoeCdcuTTPwMy"
+        "name": "South Side",
+        "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
       },
       "artists": [
         {
-          "name": "Avoiding Caution",
-          "url": "https://open.spotify.com/artist/1wlNFHeQGG5RtR6mE22xDA"
+          "name": "weapons of self destruction",
+          "url": "https://open.spotify.com/artist/6dYAQRwebnAQ38F0lQQjn3"
         }
       ],
-      "duration_ms": 248000,
-      "name": "So Many Dreams",
-      "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
+      "duration_ms": 205292,
+      "name": "South Side",
+      "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
     },
     {
       "added_at": null,
@@ -199,6 +199,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empty Cell",
+        "url": "https://open.spotify.com/album/7IhN9KdXxWbdfSjuQqSClh"
+      },
+      "artists": [
+        {
+          "name": "Bad Panda",
+          "url": "https://open.spotify.com/artist/7ehiT2ecFcpABnHaClW0oU"
+        }
+      ],
+      "duration_ms": 129783,
+      "name": "Empty Cell",
+      "url": "https://open.spotify.com/track/3WbCoHNxetGoZ3YS966nHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essenza",
+        "url": "https://open.spotify.com/album/2oaVV5vjvKtWVfVzSbhm3l"
+      },
+      "artists": [
+        {
+          "name": "Id-zero",
+          "url": "https://open.spotify.com/artist/0vIq8UxRlpAbwyUP1TGm00"
+        }
+      ],
+      "duration_ms": 218408,
+      "name": "The EyePhone Is My New Religion",
+      "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elbenblut",
         "url": "https://open.spotify.com/album/3MJdJcl6sLgKZDST7aGFyt"
       },
@@ -215,34 +247,166 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm not going home",
-        "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
+        "name": "So Many Dreams",
+        "url": "https://open.spotify.com/album/61L1j1Oq5zoeCdcuTTPwMy"
       },
       "artists": [
         {
-          "name": "Son of the Land",
-          "url": "https://open.spotify.com/artist/1GOQKygP0kIpbYmfUfAp5h"
+          "name": "Avoiding Caution",
+          "url": "https://open.spotify.com/artist/1wlNFHeQGG5RtR6mE22xDA"
         }
       ],
-      "duration_ms": 300386,
-      "name": "I'm not going home",
-      "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
+      "duration_ms": 248000,
+      "name": "So Many Dreams",
+      "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Liberationizing Light",
-        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
       "artists": [
         {
-          "name": "Project Chord Blast",
-          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 256894,
-      "name": "Liberationizing Light",
-      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
+      "duration_ms": 151000,
+      "name": "Briste Eller B\u00e6re",
+      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City Of Fear",
+        "url": "https://open.spotify.com/album/5f1UcGwwvye8Iqggvkqjwz"
+      },
+      "artists": [
+        {
+          "name": "Baarhus",
+          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
+        }
+      ],
+      "duration_ms": 277186,
+      "name": "City Of Fear",
+      "url": "https://open.spotify.com/track/0lqBV9sEAWDSlPcT4yAjNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackacre",
+        "url": "https://open.spotify.com/album/2Jca4ubqaACpsZ8nkFIMAV"
+      },
+      "artists": [
+        {
+          "name": "Blackacre",
+          "url": "https://open.spotify.com/artist/0INuaov3WzDRFeCA8RBWRR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Holy Fire: Inferno",
+      "url": "https://open.spotify.com/track/2RuLjZVRqThERLmzi5z1q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes from the Void",
+        "url": "https://open.spotify.com/album/6iSjdwyitWSmjIKPIFS8cn"
+      },
+      "artists": [
+        {
+          "name": "Sakis Tolis",
+          "url": "https://open.spotify.com/artist/2Mbwnv9a97OLrSoClsRd9D"
+        }
+      ],
+      "duration_ms": 319590,
+      "name": "Sera-(The Dance of War)",
+      "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky Ho's",
+        "url": "https://open.spotify.com/album/7t0zFeVpSXHaAe8ali6gSN"
+      },
+      "artists": [
+        {
+          "name": "Ethan D Henry",
+          "url": "https://open.spotify.com/artist/6EhfFqDuSEAUaKrZAsGIrn"
+        },
+        {
+          "name": "Turt1e",
+          "url": "https://open.spotify.com/artist/6cgIwUR82SXOHtwXlrVPwH"
+        }
+      ],
+      "duration_ms": 168882,
+      "name": "Freaky Ho's",
+      "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindly Plotting For Riot",
+        "url": "https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe"
+      },
+      "artists": [
+        {
+          "name": "30 DENARI",
+          "url": "https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD"
+        }
+      ],
+      "duration_ms": 265987,
+      "name": "Judgment Day",
+      "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Predatory Trails of the Spirit",
+        "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 319892,
+      "name": "The Scavengers",
+      "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vitality",
+        "url": "https://open.spotify.com/album/2qDIuuySzJuX64mGUoB2PO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Wright",
+          "url": "https://open.spotify.com/artist/01M7cHsemzv6uOV70NxVTG"
+        }
+      ],
+      "duration_ms": 177297,
+      "name": "This Is Not Everything I Expected",
+      "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
     },
     {
       "added_at": null,
@@ -272,170 +436,6 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Briste Eller B\u00e6re",
-      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindly Plotting For Riot",
-        "url": "https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe"
-      },
-      "artists": [
-        {
-          "name": "30 DENARI",
-          "url": "https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD"
-        }
-      ],
-      "duration_ms": 265987,
-      "name": "Judgment Day",
-      "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackacre",
-        "url": "https://open.spotify.com/album/2Jca4ubqaACpsZ8nkFIMAV"
-      },
-      "artists": [
-        {
-          "name": "Blackacre",
-          "url": "https://open.spotify.com/artist/0INuaov3WzDRFeCA8RBWRR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Holy Fire: Inferno",
-      "url": "https://open.spotify.com/track/2RuLjZVRqThERLmzi5z1q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaky Ho's",
-        "url": "https://open.spotify.com/album/7t0zFeVpSXHaAe8ali6gSN"
-      },
-      "artists": [
-        {
-          "name": "Ethan D Henry",
-          "url": "https://open.spotify.com/artist/6EhfFqDuSEAUaKrZAsGIrn"
-        },
-        {
-          "name": "Turt1e",
-          "url": "https://open.spotify.com/artist/6cgIwUR82SXOHtwXlrVPwH"
-        }
-      ],
-      "duration_ms": 168882,
-      "name": "Freaky Ho's",
-      "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vitality",
-        "url": "https://open.spotify.com/album/2qDIuuySzJuX64mGUoB2PO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Wright",
-          "url": "https://open.spotify.com/artist/01M7cHsemzv6uOV70NxVTG"
-        }
-      ],
-      "duration_ms": 177297,
-      "name": "This Is Not Everything I Expected",
-      "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borte vekk i sola",
-        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 184162,
-      "name": "Borte vekk i sola",
-      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreams and Falls",
-        "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
-      },
-      "artists": [
-        {
-          "name": "Organoclorados",
-          "url": "https://open.spotify.com/artist/45GwPSYcsi1sTNCtHHVAeH"
-        }
-      ],
-      "duration_ms": 226758,
-      "name": "Days and Roses",
-      "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightmare On Lexington Street",
-        "url": "https://open.spotify.com/album/1Y7L7Lg7zSlPEDCsRqWaPZ"
-      },
-      "artists": [
-        {
-          "name": "The Dark",
-          "url": "https://open.spotify.com/artist/2x5SlkdvmEsLt8kidtmPlN"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "Nightmare On Lexington Street",
-      "url": "https://open.spotify.com/track/3yC4et0t1UpGAHaDPFcbpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dopey Smile",
-        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
-      },
-      "artists": [
-        {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Dopey Smile",
-      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Predatory Trails of the Spirit",
-        "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
-      },
-      "artists": [
-        {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
-        }
-      ],
-      "duration_ms": 319892,
-      "name": "The Scavengers",
-      "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
       "duration_ms": 202000,
       "name": "Strak Saltomortale",
       "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
@@ -443,218 +443,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7CjRGMD9sI1OQNJt4iVXTK"
+        "name": "I'm not going home",
+        "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
       },
       "artists": [
         {
-          "name": "Steve Peacock",
-          "url": "https://open.spotify.com/artist/2CFwobC31DUZ7qlkxzvxew"
-        },
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+          "name": "Son of the Land",
+          "url": "https://open.spotify.com/artist/1GOQKygP0kIpbYmfUfAp5h"
         }
       ],
-      "duration_ms": 247994,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
+      "duration_ms": 300386,
+      "name": "I'm not going home",
+      "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Remains",
-        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
+        "name": "Burn It (Fahrenheit 451 Mix)",
+        "url": "https://open.spotify.com/album/071aT0b01KlTnYCLGcJdB7"
       },
       "artists": [
         {
-          "name": "FirstWave Music",
-          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
+          "name": "Analog 80",
+          "url": "https://open.spotify.com/artist/6b4IRT7Oq462rUvaOZzIsF"
         }
       ],
-      "duration_ms": 299896,
-      "name": "My Remains",
-      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VYFTIG APOKRIEWE",
-        "url": "https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4"
-      },
-      "artists": [
-        {
-          "name": "Neil Sandilands",
-          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Port St. Johns",
-      "url": "https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes from the Void",
-        "url": "https://open.spotify.com/album/6iSjdwyitWSmjIKPIFS8cn"
-      },
-      "artists": [
-        {
-          "name": "Sakis Tolis",
-          "url": "https://open.spotify.com/artist/2Mbwnv9a97OLrSoClsRd9D"
-        }
-      ],
-      "duration_ms": 319590,
-      "name": "Sera-(The Dance of War)",
-      "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "InstantFamous",
-        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
-      },
-      "artists": [
-        {
-          "name": "SUGAR JUNKIES",
-          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
-        }
-      ],
-      "duration_ms": 249272,
-      "name": "Only What You Love",
-      "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everywhere is Nowhere",
-        "url": "https://open.spotify.com/album/1DSxfzYzbQ8ZuWAaXtlQcP"
-      },
-      "artists": [
-        {
-          "name": "Decline and Fall",
-          "url": "https://open.spotify.com/artist/4DMoBz7lv5iBEPqg2CmdNF"
-        }
-      ],
-      "duration_ms": 220179,
-      "name": "Everywhere is Nowhere",
-      "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Music for the Masses",
-        "url": "https://open.spotify.com/album/4ZljwnnmEhokWroGBnBXMO"
-      },
-      "artists": [
-        {
-          "name": "photophor",
-          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
-        }
-      ],
-      "duration_ms": 248165,
-      "name": "Intention",
-      "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwood",
-        "url": "https://open.spotify.com/album/3tEilxPa7GlJgSQa4MJUTF"
-      },
-      "artists": [
-        {
-          "name": "Iterum Nata",
-          "url": "https://open.spotify.com/artist/2haCAnM4Yi8B2lhUTT0rbY"
-        }
-      ],
-      "duration_ms": 304336,
-      "name": "Only Ash and Bones Remain",
-      "url": "https://open.spotify.com/track/1Y8yynZorrHu39AjqJnEtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Stikk Av",
-      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy and Pain",
-        "url": "https://open.spotify.com/album/056IhTdHGPbMNoTwjYVUqq"
-      },
-      "artists": [
-        {
-          "name": "Crossing Waves",
-          "url": "https://open.spotify.com/artist/4gOtrRLSvlidDjdNA5IbmU"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "Joy and Pain",
-      "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond the Mirrors",
-        "url": "https://open.spotify.com/album/3xVJJMY1Hcyn17NNyde98b"
-      },
-      "artists": [
-        {
-          "name": "Shock Out Bandage",
-          "url": "https://open.spotify.com/artist/3aSpPIag5ZfXMzbekZP51U"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Beyond the Mirrors",
-      "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We lived our lives in black",
-        "url": "https://open.spotify.com/album/6g03l491MFuXx13v2LDHki"
-      },
-      "artists": [
-        {
-          "name": "Chemical Waves",
-          "url": "https://open.spotify.com/artist/7hZILkobCHOztyqE5PEoY6"
-        },
-        {
-          "name": "Projector Fires",
-          "url": "https://open.spotify.com/artist/6LmnAGJOYU1Zny1EeoUDVd"
-        }
-      ],
-      "duration_ms": 287038,
-      "name": "Does the body stay",
-      "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
+      "duration_ms": 258305,
+      "name": "Burn It - Fahrenheit 451 Mix",
+      "url": "https://open.spotify.com/track/5TcI48HGjzdeMRHiBAlnY5"
     },
     {
       "added_at": null,
@@ -691,106 +507,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "Borte vekk i sola",
+        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
       },
       "artists": [
         {
           "name": "Bipolar Superstar",
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Mestringskoret",
-          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Stjernene Lyser",
-      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+      "duration_ms": 184162,
+      "name": "Borte vekk i sola",
+      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just Keep Swimming",
-        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7CjRGMD9sI1OQNJt4iVXTK"
       },
       "artists": [
+        {
+          "name": "Steve Peacock",
+          "url": "https://open.spotify.com/artist/2CFwobC31DUZ7qlkxzvxew"
+        },
         {
           "name": "MIK's Reaction",
           "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
         }
       ],
-      "duration_ms": 254925,
-      "name": "Just Keep Swimming",
-      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
+      "duration_ms": 247994,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Music for the Masses",
-        "url": "https://open.spotify.com/album/4ZljwnnmEhokWroGBnBXMO"
+        "name": "Eternal Monsters",
+        "url": "https://open.spotify.com/album/0peinRqUBXRymdXpE3sLBz"
       },
       "artists": [
         {
-          "name": "photophor",
-          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+          "name": "Inkubus Sukkubus",
+          "url": "https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr"
         }
       ],
-      "duration_ms": 208660,
-      "name": "Zerrissen",
-      "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"
+      "duration_ms": 341659,
+      "name": "She's a Killer",
+      "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Life Whisper",
-        "url": "https://open.spotify.com/album/39x2ldLiTSQdP8LJ71MEzt"
+        "name": "Skyward Bound",
+        "url": "https://open.spotify.com/album/7DkLMWBq2OUJnS39vsXzBH"
       },
       "artists": [
         {
-          "name": "The Poor Toms",
-          "url": "https://open.spotify.com/artist/3lS4BMYHAGUcSf1h5YRlyV"
+          "name": "Adrenaline Gelantine",
+          "url": "https://open.spotify.com/artist/7rUZwzRn1s7ChS9PaUtH3y"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Life Whisper & New Life - Reprise",
-      "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
+      "duration_ms": 390967,
+      "name": "Skyward Bound",
+      "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Station To Station (50th Anniversary)",
-        "url": "https://open.spotify.com/album/4lMToCp4mdVHXA9FlojJz5"
+        "name": "It Gets Better",
+        "url": "https://open.spotify.com/album/6lWeG6EI7flaCiGZ9IBgDV"
       },
       "artists": [
         {
-          "name": "Julian Shah-Tayler",
-          "url": "https://open.spotify.com/artist/1vhNv7y2kxwcjbIf2f4CXX"
+          "name": "Cracks",
+          "url": "https://open.spotify.com/artist/4VUVL4wVY59OSa06nQQw37"
         }
       ],
-      "duration_ms": 365902,
-      "name": "Station To Station - 50th Anniversary",
-      "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ekko",
-        "url": "https://open.spotify.com/album/6AOo3HVJ52tbgpaQNWv3BO"
-      },
-      "artists": [
-        {
-          "name": "Anton Ruud",
-          "url": "https://open.spotify.com/artist/38fPYODGR3UgCG199ZdIYw"
-        },
-        {
-          "name": "Onkel Overdrive",
-          "url": "https://open.spotify.com/artist/7dFWsQC1S2LjcyMpFRcUDr"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Ekko",
-      "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
+      "duration_ms": 230173,
+      "name": "It Gets Better",
+      "url": "https://open.spotify.com/track/2y9aij92KXDUNEVQ77abWj"
     },
     {
       "added_at": null,
@@ -804,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Fucka Det Opp",
-      "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
+      "duration_ms": 238000,
+      "name": "Stikk Av",
+      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
     },
     {
       "added_at": null,
@@ -827,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everywhere is Nowhere",
+        "url": "https://open.spotify.com/album/1DSxfzYzbQ8ZuWAaXtlQcP"
+      },
+      "artists": [
+        {
+          "name": "Decline and Fall",
+          "url": "https://open.spotify.com/artist/4DMoBz7lv5iBEPqg2CmdNF"
+        }
+      ],
+      "duration_ms": 220179,
+      "name": "Everywhere is Nowhere",
+      "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/3sF0yBWVnBCyKLuWMxLvZw"
       },
@@ -839,6 +651,186 @@
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy and Pain",
+        "url": "https://open.spotify.com/album/056IhTdHGPbMNoTwjYVUqq"
+      },
+      "artists": [
+        {
+          "name": "Crossing Waves",
+          "url": "https://open.spotify.com/artist/4gOtrRLSvlidDjdNA5IbmU"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Joy and Pain",
+      "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs of Death",
+        "url": "https://open.spotify.com/album/1DbauAWFDEnx1gslUBV2fk"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 218090,
+      "name": "Death Is On the Way",
+      "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Fucka Det Opp",
+      "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Remains",
+        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
+      },
+      "artists": [
+        {
+          "name": "FirstWave Music",
+          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
+        }
+      ],
+      "duration_ms": 299896,
+      "name": "My Remains",
+      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VYFTIG APOKRIEWE",
+        "url": "https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Port St. Johns",
+      "url": "https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Almost a Distant Memory",
+        "url": "https://open.spotify.com/album/42HYAeMuV4X4bgfcCowyup"
+      },
+      "artists": [
+        {
+          "name": "Fire Bridge",
+          "url": "https://open.spotify.com/artist/16tWu8CpsI2N7MYrmJLQkn"
+        }
+      ],
+      "duration_ms": 260622,
+      "name": "Man In The Box",
+      "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dopey Smile",
+        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Dopey Smile",
+      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loss Of Faith",
+        "url": "https://open.spotify.com/album/03G91HY5ixWc4GbedImoy9"
+      },
+      "artists": [
+        {
+          "name": "Red Project",
+          "url": "https://open.spotify.com/artist/4ucDFqGfX5VBPPWDu1G4OZ"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "Loss Of Faith",
+      "url": "https://open.spotify.com/track/1up3Tnuz2h8GNMeHln42YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Mestringskoret",
+          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Stjernene Lyser",
+      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unfolding of Patagia",
+        "url": "https://open.spotify.com/album/1WuMqfNode1EcZmrWH2YFL"
+      },
+      "artists": [
+        {
+          "name": "Thin Eater",
+          "url": "https://open.spotify.com/artist/7oE6AelrD0tk6chRMyoA1k"
+        }
+      ],
+      "duration_ms": 288498,
+      "name": "Unfolding of Patagia",
+      "url": "https://open.spotify.com/track/0I39w7uoHfk5yje63WEnSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NIHIL LAND",
+        "url": "https://open.spotify.com/album/7kH7ch4geeORhUOczDETaI"
+      },
+      "artists": [
+        {
+          "name": "NIHIL",
+          "url": "https://open.spotify.com/artist/3zbPkWAkIowJdshNMT3iCa"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "Symphony In Minor",
+      "url": "https://open.spotify.com/track/4HLGfdfrRgB4YntkFv4Cw0"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

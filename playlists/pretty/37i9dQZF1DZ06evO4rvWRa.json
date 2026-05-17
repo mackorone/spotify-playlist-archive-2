@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638382,
+  "num_followers": 1638372,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAxRIwFpAkgM4JyyZuC91Zp",
+  "snapshot_id": "agZiAAAAAAAVe8CuWRqdL4TLYQJKG7Fy",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 198880,
       "name": "All Falls Down (feat. Juliander)",
       "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak Melody",
         "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
       },
@@ -499,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
       "artists": [
         {
@@ -508,13 +488,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 187560,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 202210,
-      "name": "Eroina",
-      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 153207,
       "name": "Last Song (feat. Faouzia)",
       "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 202210,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
     },
     {
       "added_at": null,

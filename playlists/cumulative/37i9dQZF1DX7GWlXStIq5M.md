@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma
 
-1,141 songs - 2 day 8 hr 30 min
+1,142 songs - 2 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,7 +673,7 @@
 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 | 2026-03-20 |  |
 | [Nocaute](https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 3:55 | 2024-11-22 | 2025-07-26 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2023-02-14 | 2023-04-29 |
-| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 |  |
+| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 | 2026-05-17 |
 | [Noites de Papel](https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Noites de Papel](https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls) | 2:18 | 2024-07-05 | 2024-11-23 |
 | [Noites em Miami](https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 3:03 | 2025-10-31 | 2026-02-28 |
 | [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 | 2023-07-29 |
@@ -943,6 +943,7 @@
 | [Sensação Estranha](https://open.spotify.com/track/1DG6MmJPqaQihyXKTzLXKc) | [Tom Filho](https://open.spotify.com/artist/01RmWVpANnlqBpPMPYCQDx) | [BRILHO FRACO DE UMA MENTE](https://open.spotify.com/album/1ZgtrqvcTL6sKioUHBFV57) | 2:45 | 2025-10-17 | 2025-11-29 |
 | [Senta e Levanta](https://open.spotify.com/track/1PzKowy7pVNpxWnP3K0aEO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:36 | 2023-03-24 | 2023-06-17 |
 | [Sentada de Milhões](https://open.spotify.com/track/6THLDEkPoMdlgVNqxccJmq) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Sentada de Milhões](https://open.spotify.com/album/3FTIGVXppGBczjFkLomdHk) | 2:14 | 2023-02-14 | 2023-05-27 |
+| [Sentir Seu Calor](https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Verã071](https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG) | 2:50 | 2026-05-15 |  |
 | [SEQUÊNCIA COLOCADÃO](https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [SEQUÊNCIA COLOCADÃO](https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq) | 1:43 | 2024-04-19 | 2025-01-11 |
 | [sera que esse é mesmo o nosso fim?](https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [BASEADO EM FATOS REAIS \(menos as partes que eu inventei\)](https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1) | 3:03 | 2025-07-18 | 2026-04-11 |
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-07-07 | 2023-09-16 |

@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-129 songs - 8 hr 22 min
+130 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 | 2025-11-24 | 2026-02-07 |
 | [Find Me](https://open.spotify.com/track/1QK8IZR9IYim1HXbNxz1dy) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:01 | 2025-12-17 | 2026-02-07 |
 | [Flytrap Love](https://open.spotify.com/track/3jolugMznsIcM4whHoCXnu) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Flytrap Love](https://open.spotify.com/album/7h5aCkOgOWj65nVIP4UVtn) | 4:44 | 2025-11-04 | 2025-12-08 |
+| [From zombieland about love \(2025\)](https://open.spotify.com/track/0EolNu9GNftMungr2Fi9pI) | [Charlie Crash Msc](https://open.spotify.com/artist/0Gz327pnjWwQUuzWhr7wF9) | [From zombieland about love \(2025\)](https://open.spotify.com/album/170nJJruVYePhChH6mPLRk) | 5:04 | 2026-05-16 |  |
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2025-11-25 | 2026-02-07 |
 | [Give Me Your Hand](https://open.spotify.com/track/56xJGUcYHNBynPr5ixT0B5) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Give Me Your Hand](https://open.spotify.com/album/0eFrdNcYm56jCHKWS5WLM6) | 4:36 | 2025-05-04 |  |
 | [Hear My Voice](https://open.spotify.com/track/6dZG7xMcD16xe3hSZZIDb1) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Hear My Voice](https://open.spotify.com/album/05TOrRce9UGmuBLmSWHPpg) | 4:54 | 2025-09-10 | 2026-05-16 |

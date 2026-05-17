@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACW4SnxXQXfee85m24cx6yW",
+  "snapshot_id": "agZiAAAAAABx2nmydvbfz70AVh9t4mVr",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa",
-        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 288006,
-      "name": "Mesa",
-      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 448133,
       "name": "Water Memory 1",
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mesa",
+        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 288006,
+      "name": "Mesa",
+      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 805173,
       "name": "A Lake",
       "url": "https://open.spotify.com/track/3GgSZWI0IFZeOGLTMPPYEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Tokyo 1",
-      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -187,38 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Star Gazing",
-      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
@@ -228,25 +180,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Your Pond",
-      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+      "duration_ms": 282000,
+      "name": "Tokyo 1",
+      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
     },
     {
       "added_at": null,
@@ -283,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Your Pond",
+      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
@@ -292,9 +244,41 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 386000,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Star Gazing",
+      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
     },
     {
       "added_at": null,
@@ -311,6 +295,22 @@
       "duration_ms": 541893,
       "name": "Water Memory 2",
       "url": "https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Each Story",
-      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friend Forest",
         "url": "https://open.spotify.com/album/1rwhU2oYPJ5lR7dewhMkHj"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 252656,
       "name": "Friend Forest",
       "url": "https://open.spotify.com/track/7yTiL61OsCjCkHDA6MrDO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 610000,
+      "name": "Matsumoto",
+      "url": "https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 610000,
-      "name": "Matsumoto",
-      "url": "https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893"
+      "duration_ms": 435000,
+      "name": "Each Story",
+      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
     },
     {
       "added_at": null,

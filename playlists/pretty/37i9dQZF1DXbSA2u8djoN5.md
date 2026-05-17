@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,133 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,135 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 16 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 |
 | 17 | [EYESFORYOU](https://open.spotify.com/track/3a6N6x28g2RxF7FVPWUlOC) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [EYESFORYOU](https://open.spotify.com/album/4zXnWgTgd9ExFHu30SmB84) | 2:53 |
 | 18 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
-| 19 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
-| 20 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
+| 19 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
+| 20 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
 | 21 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 22 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
 | 23 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |

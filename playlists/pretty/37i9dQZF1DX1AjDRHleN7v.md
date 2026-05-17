@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,574 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,587 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 43 | [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 |
 | 44 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
 | 45 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
-| 46 | [Amor Bom](https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Amor Bom](https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw) | 3:17 |
-| 47 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
-| 48 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 |
-| 49 | [Em Paz Com o Mundo](https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Em Paz Com o Mundo](https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo) | 3:37 |
+| 46 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
+| 47 | [Em Paz Com o Mundo](https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Em Paz Com o Mundo](https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo) | 3:37 |
+| 48 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
+| 49 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 |
 | 50 | [O Amor Não Sabe Esperar](https://open.spotify.com/track/1RTmOom8bXMPkb9Q1OZiI8) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [O Amor Não Sabe Esperar](https://open.spotify.com/album/2Ua5qCOC8yTBRIPmqBZmnH) | 3:30 |
-| 51 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
+| 51 | [Amor Bom](https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Amor Bom](https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw) | 3:17 |
 | 52 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
 | 53 | [Que seja um reggae \- feat\. Os Paralamas Do Sucesso](https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Que seja um reggae \(feat\. Os Paralamas Do Sucesso\)](https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE) | 4:09 |
 | 54 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |

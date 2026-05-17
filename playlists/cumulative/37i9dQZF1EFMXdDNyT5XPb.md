@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 6 hr 38 min
+130 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 | 2025-10-12 |  |
 | [Die For You](https://open.spotify.com/track/2SUUnItpyZN8ZQRXyHdRiV) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/76CqLU04318qHpjS8bCsxy) | 3:06 | 2025-08-09 | 2025-10-13 |
 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 | 2025-09-10 |  |
-| [Don't Even Know Your Name](https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE) | 2:21 | 2024-05-01 |  |
+| [Don't Even Know Your Name](https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE) | 2:21 | 2024-05-01 | 2026-05-17 |
+| [Don't Even Know Your Name](https://open.spotify.com/track/6s3OlLs8Ey8LCol4xaDb6R) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/0DOaI2o4EJgG6Yszs6Ki8J) | 2:21 | 2026-05-16 |  |
 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 | 2024-05-01 |  |
 | [Déjà Vu](https://open.spotify.com/track/7ipXvWl43mmCl2kgBZg9FR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:56 | 2024-05-01 |  |
 | [Falling out of Love](https://open.spotify.com/track/5dXgMYzwp3o19lLgSL3hdG) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:04 | 2024-05-01 | 2025-06-29 |

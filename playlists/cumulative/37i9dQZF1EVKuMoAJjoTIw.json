@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a>, <a href=spotify:playlist:37i9dQZF1EIWNxKGzsF4Ji>The Rare Occasions</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a>, <a href=spotify:playlist:37i9dQZF1EIXUxXYvMa1Ob>XXXTENTACION</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 323448,
       "name": "Ana Mosammem",
       "url": "https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 281211,
       "name": "Awel Kol Haga",
       "url": "https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 251515,
       "name": "Badhulu Thochani",
       "url": "https://open.spotify.com/track/6N4uSSMQBgmZ6NezTRqonS"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 286642,
       "name": "Em Cheppanu",
       "url": "https://open.spotify.com/track/4EbpZyCH7uXaLmSMTSDzr2"
@@ -6310,7 +6310,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
@@ -6382,7 +6382,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 252540,
       "name": "Hapus Aku",
       "url": "https://open.spotify.com/track/0gwOixLwtjRpnC52W7aHYR"
@@ -6466,7 +6466,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM"
@@ -7105,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "i have no friends",
+        "url": "https://open.spotify.com/album/6mJnb5IAOASAq64RitVFHQ"
+      },
+      "artists": [
+        {
+          "name": "s0rrow",
+          "url": "https://open.spotify.com/artist/1UNYYQRaWX6QADIJufgNLh"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99146,
+      "name": "i have no friends",
+      "url": "https://open.spotify.com/track/6g2yhfedCzbg91mon0cwvk"
+    },
+    {
+      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -7579,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
+    },
+    {
+      "album": {
         "name": "Dangerous Levels of Introspection",
         "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
       },
@@ -7630,7 +7666,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -8646,7 +8682,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 169732,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK"
@@ -8910,7 +8946,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 252053,
       "name": "Law Tigi",
       "url": "https://open.spotify.com/track/60zEl2cvjjtDhzF78snIYr"
@@ -10106,7 +10142,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 257834,
       "name": "Lumpuhkan Ingatanku",
       "url": "https://open.spotify.com/track/7vcoZ5pFHObFaToqGNtTlB"
@@ -10558,7 +10594,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 248066,
       "name": "Mengejar Mimpi",
       "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
@@ -10966,7 +11002,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 135090,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
@@ -11816,7 +11852,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -12274,7 +12310,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -12472,7 +12508,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -12584,7 +12620,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 184816,
       "name": "Promises",
       "url": "https://open.spotify.com/track/55OfBElVAZDNBt1oCSungN"
@@ -13888,7 +13924,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 281756,
       "name": "Seket Leh",
       "url": "https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW"
@@ -13906,7 +13942,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 283760,
       "name": "Sekuat Hatimu",
       "url": "https://open.spotify.com/track/0HbrQXrdeMF5zHGHUw0zuH"
@@ -13964,7 +14000,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -14362,6 +14398,24 @@
       "duration_ms": 147851,
       "name": "Simon's Song - from the Netflix Series Young Royals",
       "url": "https://open.spotify.com/track/0cEjzw52873lbcxhgjXNGl"
+    },
+    {
+      "album": {
+        "name": "Sirna",
+        "url": "https://open.spotify.com/album/1BRjj7PNhsCeP5DtRHacCA"
+      },
+      "artists": [
+        {
+          "name": "Inocent Purwanto",
+          "url": "https://open.spotify.com/artist/4XTKI7Gl0YBmD6J5Ga0KwQ"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264454,
+      "name": "Sirna",
+      "url": "https://open.spotify.com/track/1FYdamk6UQrWgvhJDA0bar"
     },
     {
       "album": {
@@ -14838,7 +14892,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 78024,
       "name": "stalk ur socials",
       "url": "https://open.spotify.com/track/18DmllGM1l2hUefG2JjZVV"
@@ -15268,7 +15322,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 255306,
       "name": "Tadfe Gi",
       "url": "https://open.spotify.com/track/4qmnKakW5quqq15m1toRpH"
@@ -16538,7 +16592,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -17280,7 +17334,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 282378,
       "name": "Wasalt Ma3ak",
       "url": "https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L"
@@ -17968,7 +18022,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -18076,7 +18130,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
@@ -18546,7 +18600,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 151426,
       "name": "\u0627\u062a\u0646\u0633\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ"
@@ -18600,7 +18654,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 202533,
       "name": "\u0628\u062a\u0634\u0628\u0647 \u0639\u0644\u064a\u0627 - Betshbah Alaya",
       "url": "https://open.spotify.com/track/4hJqaGLdeBTJ8vedfgm8cy"
@@ -18654,7 +18708,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 242783,
       "name": "\u0628\u062d\u0643\u064a\u0644\u0643 \u0639\u0646 \u0627\u0644\u0623\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt"

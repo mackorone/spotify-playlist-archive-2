@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,163 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,223 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 38 | [Beautiful Day](https://open.spotify.com/track/7C7yPNA7a8jRvVjYIDZqmT) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:42 |
 | 39 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 |
 | 40 | [Tweeting in the Rain](https://open.spotify.com/track/5qGTFA3qALSfVvmtVUSvcO) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Tweeting in the Rain](https://open.spotify.com/album/5e2C4xdF6t8RpsFFLXMrqX) | 2:30 |
-| 41 | [Lastovo Island Summer Bird Song](https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Lastovo Island Summer Bird Song](https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt) | 3:15 |
+| 41 | [Lastovo Island Summer Bird Song](https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Lastovo Island Summer Bird Song](https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt) | 3:14 |
 | 42 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 |
 | 43 | [Birds in the Spring Rain](https://open.spotify.com/track/74HzxCRcYQLHC1CoBwc3gF) | [Jane Quin](https://open.spotify.com/artist/5LByymUnsM8FuuYIEUhI8o) | [Birds in the Spring Rain](https://open.spotify.com/album/0FJndSgck0RqNeMZAzxvmB) | 2:06 |
 | 44 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |

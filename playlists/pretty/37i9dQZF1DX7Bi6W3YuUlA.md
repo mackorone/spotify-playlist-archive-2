@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,709 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,720 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 73 | [Most High](https://open.spotify.com/track/7qOVK5VN6pBKUG9CIxtTrS) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Most High](https://open.spotify.com/album/00YnXipkL78slCKdSkkdkf) | 1:54 |
 | 74 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 
-Snapshot ID: `AAAAAM1P2yAUD9OGjXbICM+fDUiFliu9`
+Snapshot ID: `AAAAAPwR1mt/rdFfs/8OArpVKhgGBuhe`

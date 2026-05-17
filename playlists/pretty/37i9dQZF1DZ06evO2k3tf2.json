@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1440438,
+  "num_followers": 1440533,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAD9hOZkR2/kDGEkGaFjU+MJ",
+  "snapshot_id": "agZiAAAAAADzieh3cIymoUCX5MTVx0d3",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 258853,
-      "name": "Morph",
-      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
+      "duration_ms": 265373,
+      "name": "The Hype",
+      "url": "https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 265373,
-      "name": "The Hype",
-      "url": "https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId"
+      "duration_ms": 258853,
+      "name": "Morph",
+      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
     }
   ],
   "unique_name": "This Is Twenty One Pilots",

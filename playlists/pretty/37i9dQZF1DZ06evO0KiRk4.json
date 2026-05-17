@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 585306,
+  "num_followers": 585367,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAgCYk4t/Eq2deXb5pekpmt",
+  "snapshot_id": "agZiAAAAAABER/dzYavfdh63lDeHPYgw",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Drumming Song",
+      "url": "https://open.spotify.com/track/6hIaLSND7Fo2Kd8NPVoyjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 287240,
       "name": "Heavy In Your Arms",
       "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Drumming Song",
-      "url": "https://open.spotify.com/track/6hIaLSND7Fo2Kd8NPVoyjg"
     },
     {
       "added_at": null,

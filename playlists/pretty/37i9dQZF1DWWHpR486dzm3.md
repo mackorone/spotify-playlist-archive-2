@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,639 likes - 137 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,646 likes - 137 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 136 | [Ave Maria](https://open.spotify.com/track/3l3UuH4ejozFrmNMsD0rD8) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [Interface](https://open.spotify.com/album/6eCWHqQich1xj8hIRR10J6) | 4:14 |
 | 137 | [Niin sä saisit tietää](https://open.spotify.com/track/0k1mr0eJ7dFV0H9IlCiS3O) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx), [Janne Laurila](https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU) | [Janne Laurila Double Denim](https://open.spotify.com/album/5JjRmIL6kt0eIzeVDNrcJX) | 3:22 |
 
-Snapshot ID: `AAAAAIRDzFvRVidAFt1md+rrzUn3SZpZ`
+Snapshot ID: `AAAAANkiVgTmz8HdrMpK7QHNWSwgq6ma`

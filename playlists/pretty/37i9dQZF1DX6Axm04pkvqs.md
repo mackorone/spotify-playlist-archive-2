@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,670 likes - 80 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,711 likes - 80 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 76 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 |
 | 77 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 | 78 | [Song of Angels \(Live\)](https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Song of Angels \(Live\)](https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8) | 12:17 |
-| 79 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
-| 80 | [Aye Ole](https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Aye Ole](https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy) | 23:00 |
+| 79 | [Aye Ole](https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Aye Ole](https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy) | 23:00 |
+| 80 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 
 Snapshot ID: `AAAAAAPw7QdemPDBk5tjKX8Sgu2z7Evy`

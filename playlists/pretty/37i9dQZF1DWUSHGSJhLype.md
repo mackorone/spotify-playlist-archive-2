@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,975 likes - 79 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,985 likes - 79 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 43 | [Simplesmente Acontece](https://open.spotify.com/track/0caCO8a83FpYYzzYxAIoeV) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Simplesmente Acontece](https://open.spotify.com/album/5aMtI7dUanCeMCVnH24Aim) | 2:52 |
 | 44 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
 | 45 | [Marquinha De Fitinha \- Ao Vivo](https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Léo Santana 20 Anos \- DNA De GG \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie) | 2:40 |
-| 46 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
-| 47 | [Fechadão Com O Amor \- Ao Vivo](https://open.spotify.com/track/3aViJFg2GxwCe7GRR0O99l) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fechadão Com O Amor \(Ao Vivo\)](https://open.spotify.com/album/340r8N5XuvcgQ2HWueyO2G) | 2:25 |
+| 46 | [Fechadão Com O Amor \- Ao Vivo](https://open.spotify.com/track/3aViJFg2GxwCe7GRR0O99l) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fechadão Com O Amor \(Ao Vivo\)](https://open.spotify.com/album/340r8N5XuvcgQ2HWueyO2G) | 2:25 |
+| 47 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
 | 48 | [Cabelo de Sol](https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:56 |
 | 49 | [Cama Embrasa](https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Cama Embrasa](https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI) | 2:58 |
 | 50 | [É Tarde Demais / Estou Mal \- Ao Vivo](https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt) | [É Tarde Demais / Estou Mal \(Ao Vivo\)](https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t) | 3:58 |

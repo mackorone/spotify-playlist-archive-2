@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Gracie Abrams, Drake, aespa, G\-DRAGON, Zynakal, Aizat Amdan, Sekumpulan Orang Gila, Alpha, J308 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,526 likes - 115 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,519 likes - 115 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 24 | [Menyala](https://open.spotify.com/track/521ou1Glbfl0JXgWhWWlBd) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Menyala](https://open.spotify.com/album/19K8Pgig7u6Rjg4GrcI2Ss) | 3:18 |
 | 25 | [Ayo Nikah](https://open.spotify.com/track/3SVeqiec8dTavU0zBL9bE4) | [KitShafiq](https://open.spotify.com/artist/0l4GmDW7PPF4jiOXD16dFB), [Arul Rasheed](https://open.spotify.com/artist/2E4BVLpBfP9VdMBQs5c8Q1), [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [Ayo Nikah](https://open.spotify.com/album/3XMA3Z7ih0bl9nNi8vFg0G) | 4:24 |
 | 26 | [NAA VERA LEVEL \(feat\. Raavanaa Ram\)](https://open.spotify.com/track/6A6LppdydNDV3kaZ8Lp2lI) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Raavanaa Ram](https://open.spotify.com/artist/5LkIwUb1fnSYBiZPHTW6vO) | [NAA VERA LEVEL \(feat\. Raavanaa Ram\)](https://open.spotify.com/album/16wMKPXmKWOsTrkc9rDzDE) | 3:18 |
-| 27 | [Goodbye Sayang](https://open.spotify.com/track/3Ufs6UHI1fOB39gRt06iKz) | [Nanasheme](https://open.spotify.com/artist/1QIytw90JEqVwboPDX7nZl) | [Goodbye Sayang](https://open.spotify.com/album/7BZ2LTlXu3DvM6BcwmlQiR) | 3:15 |
+| 27 | [Goodbye Sayang](https://open.spotify.com/track/3Ufs6UHI1fOB39gRt06iKz) | [NanaSheme](https://open.spotify.com/artist/1QIytw90JEqVwboPDX7nZl) | [Goodbye Sayang](https://open.spotify.com/album/7BZ2LTlXu3DvM6BcwmlQiR) | 3:15 |
 | 28 | [Setia Untukmu](https://open.spotify.com/track/7HtsRa5Mdppc13jbQtQuvl) | [Lokman Hakim](https://open.spotify.com/artist/1EPHvByy3TzqhMbqu7ZdwW), [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [Setia Untukmu](https://open.spotify.com/album/56jJVWmsX1E6UdD6Nm0upE) | 3:44 |
 | 29 | [Emphasize](https://open.spotify.com/track/5yNWWyd1YUqs7h7NJHUvHt) | [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [Emphasize](https://open.spotify.com/album/5X2e6ELnVxZuF0RETNHPeA) | 2:22 |
 | 30 | [my crush and i will crush the system baby](https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [my crush and i will crush the system baby](https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ) | 1:57 |

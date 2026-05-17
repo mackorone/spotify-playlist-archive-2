@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,397 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,519 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 75 | [Baila Le Digo](https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Baila Le Digo](https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B) | 2:19 |
 | 76 | [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 |
 | 77 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
-| 78 | [Si Vas Al mar](https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Si Vas Al mar](https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4) | 4:16 |
-| 79 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
+| 78 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
+| 79 | [Si Vas Al mar](https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Si Vas Al mar](https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4) | 4:16 |
 | 80 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |
 | 81 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
 | 82 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
 | 98 | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 |
 | 99 | [Vamos A La Playa \(Feat\. Miranda\)](https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Miranda](https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y) | [Vamos A La Playa](https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL) | 2:56 |
-| 100 | [BaBaBa \(Hangover\)](https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Buraka Som Sistema](https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam) | [BaBaBa \(Hangover\)](https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo) | 2:52 |
+| 100 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
 
 Snapshot ID: `AAAAAIXDSZ/DV9Oj4PQ5y7+x2AAH3nV+`

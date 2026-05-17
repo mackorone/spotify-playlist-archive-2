@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5cnJFKwf0Uje2XQVsR9QrD">FMBLONGMONEY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,408 likes - 77 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,430 likes - 77 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

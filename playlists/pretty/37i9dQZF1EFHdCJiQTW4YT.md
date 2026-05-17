@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 113 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
 | 114 | [LY4L](https://open.spotify.com/track/2olbaPwSwbBRs0goKzSFVf) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg) | 3:40 |
 | 115 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
-| 116 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
-| 117 | [one drink away](https://open.spotify.com/track/4TJVd5nC27kOCwPyCo6zEb) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:10 |
+| 116 | [one drink away](https://open.spotify.com/track/4TJVd5nC27kOCwPyCo6zEb) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:10 |
+| 117 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
 | 118 | [find it](https://open.spotify.com/track/6HCJ2uA14PqJrOxJ0n4RQn) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:10 |
 | 119 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
 | 120 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 147 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 148 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AcRmBgAAAAAVgmTREPcttrpZIfyWVZ82`
+Snapshot ID: `AcRrpgAAAAC7Qr5wA2f/ZPfSJWycmHnh`

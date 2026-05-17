@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > fazer uma grana, pegar um jet fds, anima?? // Kisha zO
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,336 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,365 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 42 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 43 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
-| 44 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
-| 45 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
-| 46 | [Noiz Tem o Molho](https://open.spotify.com/track/7stt0fUsltORgJ2PeqfLC9) | [Freeda](https://open.spotify.com/artist/4rlGEW33pML5GlqS4lsWyp), [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk) | [Noiz Tem o Molho](https://open.spotify.com/album/1GLBToVaJomws3M4S1cfcU) | 2:44 |
-| 47 | [HOT SAUCE](https://open.spotify.com/track/0bE7SYiLfk1cFez4CKSNra) | [iamBJAY](https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl), [KALLY](https://open.spotify.com/artist/3EV9F3Ww4voprvw7X6zghY) | [HOT SAUCE](https://open.spotify.com/album/79iofr8aE9hyLjBZ3Bz6Jh) | 2:28 |
-| 48 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
+| 44 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
+| 45 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
+| 46 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
+| 47 | [Noiz Tem o Molho](https://open.spotify.com/track/7stt0fUsltORgJ2PeqfLC9) | [Freeda](https://open.spotify.com/artist/4rlGEW33pML5GlqS4lsWyp), [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk) | [Noiz Tem o Molho](https://open.spotify.com/album/1GLBToVaJomws3M4S1cfcU) | 2:44 |
+| 48 | [HOT SAUCE](https://open.spotify.com/track/0bE7SYiLfk1cFez4CKSNra) | [iamBJAY](https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl), [KALLY](https://open.spotify.com/artist/3EV9F3Ww4voprvw7X6zghY) | [HOT SAUCE](https://open.spotify.com/album/79iofr8aE9hyLjBZ3Bz6Jh) | 2:28 |
 | 49 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 

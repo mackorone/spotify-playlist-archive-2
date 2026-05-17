@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1166409,
+  "num_followers": 1166279,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Iter Animae: VII",
-        "url": "https://open.spotify.com/album/7ChJwxAncQryV6d9v5c4LM"
-      },
-      "artists": [
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 274571,
-      "name": "Fuego de San Telmo",
-      "url": "https://open.spotify.com/track/7GsgZNzDsHL5Mh8AqRK8DN"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "BOOM BOOM",
         "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Iter Animae: VII",
+        "url": "https://open.spotify.com/album/7ChJwxAncQryV6d9v5c4LM"
+      },
+      "artists": [
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 274571,
+      "name": "Fuego de San Telmo",
+      "url": "https://open.spotify.com/track/7GsgZNzDsHL5Mh8AqRK8DN"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Mundo de Cristal",
         "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
@@ -1543,6 +1543,30 @@
       "duration_ms": 193817,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Lo que piensen de mi",
+        "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
+      },
+      "artists": [
+        {
+          "name": "Mistah Godeh",
+          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
+        },
+        {
+          "name": "Andy Frenx",
+          "url": "https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi"
+        },
+        {
+          "name": "Di BassBoss Musik",
+          "url": "https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Lo que piensen de mi",
+      "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1575,30 +1599,6 @@
       "duration_ms": 198238,
       "name": "Uma Brasileira",
       "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Lo que piensen de mi",
-        "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
-      },
-      "artists": [
-        {
-          "name": "Mistah Godeh",
-          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
-        },
-        {
-          "name": "Andy Frenx",
-          "url": "https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi"
-        },
-        {
-          "name": "Di BassBoss Musik",
-          "url": "https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Lo que piensen de mi",
-      "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Ay Dale",
         "url": "https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Tu Presencia",
         "url": "https://open.spotify.com/album/759hFA2ZJM27HKYvBUjccm"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 227987,
       "name": "Tu Presencia",
       "url": "https://open.spotify.com/track/50uhtfYgi0my9P3atQkJr2"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2026-05-15 06:00:25",

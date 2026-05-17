@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Famous Pluto",
-  "num_followers": 140884,
+  "num_followers": 141055,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "CANADA BREEZE",
-      "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
-    },
-    {
-      "added_at": "2026-05-15 00:01:19",
-      "album": {
         "name": "Mortal Kombat",
         "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "CANADA BREEZE",
+      "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
+    },
+    {
+      "added_at": "2026-05-15 00:01:19",
+      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -687,30 +687,6 @@
       "duration_ms": 140527,
       "name": "SHAOLIN",
       "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2026-05-15 00:01:19",
-      "album": {
-        "name": "Akonuche (Remix)",
-        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 176530,
-      "name": "Akonuche - Remix",
-      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
     },
     {
       "added_at": "2026-05-15 00:01:19",
@@ -739,26 +715,6 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": "2026-05-15 00:01:19",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -775,6 +731,50 @@
       "duration_ms": 176326,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2026-05-15 00:01:19",
+      "album": {
+        "name": "Akonuche (Remix)",
+        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 176530,
+      "name": "Akonuche - Remix",
+      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
+    },
+    {
+      "added_at": "2026-05-15 00:01:19",
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": "2026-05-15 00:01:19",
@@ -895,22 +895,18 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
-        "name": "Labubu",
-        "url": "https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1"
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
       "artists": [
         {
-          "name": "CDQ",
-          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
-        },
-        {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 141355,
-      "name": "Labubu",
-      "url": "https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9"
+      "duration_ms": 139424,
+      "name": "Lakute",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
     },
     {
       "added_at": "2026-05-15 00:01:19",
@@ -927,6 +923,26 @@
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2026-05-15 00:01:19",
+      "album": {
+        "name": "Labubu",
+        "url": "https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "Labubu",
+      "url": "https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9"
     },
     {
       "added_at": "2026-05-15 00:01:19",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+    },
+    {
+      "added_at": "2026-05-15 00:01:19",
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -1063,18 +1095,18 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
     },
     {
       "added_at": "2026-05-15 00:01:19",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2026-05-15 00:01:19",
       "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
-    },
-    {
-      "added_at": "2026-05-15 00:01:19",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -1135,26 +1151,6 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
-    },
-    {
-      "added_at": "2026-05-15 00:01:19",
-      "album": {
-        "name": "Forex Boys",
-        "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
-      },
-      "artists": [
-        {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        },
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Forex Boys",
-      "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
     }
   ],
   "unique_name": "Street Energy ",

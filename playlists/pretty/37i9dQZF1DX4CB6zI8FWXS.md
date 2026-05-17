@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,122 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,120 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
 | 80 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
 
-Snapshot ID: `AAAAABJuUPy2d0joJLPyn+n9BNlFVIA4`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

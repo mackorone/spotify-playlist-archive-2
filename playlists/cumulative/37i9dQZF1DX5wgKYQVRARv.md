@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-867 songs - 3 day 2 hr 18 min
+869 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Heaven on High](https://open.spotify.com/track/7s1qpqm8n0r0FXyvgKSeqM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [A Pale White Dot](https://open.spotify.com/album/47qRIlDca3KNMA0WZMtIXR) | 4:19 | 2026-05-15 |  |
 | [Heirloom](https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [Heirloom](https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1) | 4:22 | 2022-07-13 | 2026-05-16 |
 | [Hello Death](https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Hello Death](https://open.spotify.com/album/6MFXRy30nk6khmwq6GWuHq) | 4:54 | 2022-04-08 | 2025-01-11 |
-| [Here We Are](https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Here We Are](https://open.spotify.com/album/6cytNSU09li8jXGtKezAHz) | 3:34 | 2024-01-30 |  |
+| [Here We Are](https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Here We Are](https://open.spotify.com/album/6cytNSU09li8jXGtKezAHz) | 3:34 | 2024-01-30 | 2026-05-17 |
 | [Hero](https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Paragon](https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT) | 4:42 | 2022-07-13 | 2025-02-08 |
 | [Hidden Window](https://open.spotify.com/track/0WOGPQwYgOl3wtdzCSJ5Xl) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Coherence](https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix) | 8:24 | 2022-07-08 | 2023-01-21 |
 | [Hidden Window](https://open.spotify.com/track/4RPDDNZ5fk0RgeppdEYwTR) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Hidden Window](https://open.spotify.com/album/5SxMs83K4lloEcYeAUTThH) | 8:24 | 2021-12-17 | 2022-07-29 |
@@ -597,6 +597,7 @@
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 | 2024-04-19 |
 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 | 2023-07-22 |
 | [Return To One](https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Return To One](https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs) | 3:35 | 2025-02-07 |  |
+| [Rick Ranch](https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Rick Ranch](https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2) | 3:48 | 2026-05-15 |  |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 | 2025-09-14 |
 | [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 | 2025-02-08 |
 | [Risset](https://open.spotify.com/track/00fqV46YpTk3w4qrwoBFlf) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [Risset](https://open.spotify.com/album/5qcFZTlyZlKLo1yHrUDgZ9) | 4:49 | 2021-12-17 | 2022-09-03 |
@@ -652,7 +653,7 @@
 | [Spaced Out \- alternative version](https://open.spotify.com/track/0DJCA40g0wlTfcnp8dcAx3) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Space Metal \(Re\-issue 2022\)](https://open.spotify.com/album/6jd9WnGmEEmZvBciRy387Y) | 4:55 | 2022-03-11 | 2024-07-24 |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2021-12-17 | 2022-09-03 |
 | [Spherical Horizon](https://open.spotify.com/track/6qGmditKb6K7nhhEtBtCwe) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Qualia](https://open.spotify.com/album/7IhpuuIj0guMsU6hiFNj3R) | 4:50 | 2021-12-17 | 2022-07-26 |
-| [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 | 2025-06-13 |  |
+| [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 | 2025-06-13 | 2026-05-17 |
 | [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 | 2023-12-06 |  |
 | [Spotlight](https://open.spotify.com/track/6nKHKZgspXY4ng3exvTXGD) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Spotlight](https://open.spotify.com/album/01QMzREgm6tyZsydu4mL1U) | 2:42 | 2026-05-15 |  |
 | [Springfield](https://open.spotify.com/track/614xdvVqOIRY6KFCkQlVOB) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [The Optimist](https://open.spotify.com/album/2pmuzXGYLCNysBat1Txe3W) | 5:49 | 2021-12-17 | 2022-01-29 |
@@ -784,6 +785,7 @@
 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 | 2023-12-06 |  |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 | 2026-05-16 |
 | [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2023-08-19 |
+| [To You, Author of My Fade](https://open.spotify.com/track/0kML9DjM0co9mchI1d3j9g) | [Fires in the Distance](https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw) | [To You, Author of My Fade](https://open.spotify.com/album/2apM6rDpbU4nU8nn0338c8) | 9:03 | 2026-05-15 |  |
 | [Total](https://open.spotify.com/track/4SOEGk2A1yK8esgnQuiyiq) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/370O27tHg8pVtHw6GeETG7) | 4:24 | 2023-05-12 | 2024-04-19 |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 | 2023-05-04 |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |

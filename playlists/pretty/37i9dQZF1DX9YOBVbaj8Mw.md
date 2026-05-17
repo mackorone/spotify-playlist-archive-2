@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,309 likes - 79 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,310 likes - 79 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 28 | [MOJA WINA](https://open.spotify.com/track/117KifGYCTOCz3lFev5urW) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MOJA WINA](https://open.spotify.com/album/7sVLTQs9bdJEurrnUKYjvY) | 2:48 |
 | 29 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 30 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
-| 31 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
+| 31 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
 | 32 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
 | 33 | [ZE SPRITE'EM](https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV) | [ZA DUŻO GITAR](https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5) | 3:27 |
 | 34 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
 | 35 | [Co za stan](https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 2:39 |
-| 36 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
+| 36 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
 | 37 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
 | 38 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
 | 39 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 43 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
 | 44 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 45 | [Bowie](https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 4:57 |
-| 46 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
-| 47 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
+| 46 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
+| 47 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
 | 48 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
 | 49 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
 | 50 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |

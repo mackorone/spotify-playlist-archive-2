@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 254866,
       "name": "Afirika",
       "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 204666,
       "name": "Big Heart",
       "url": "https://open.spotify.com/track/2ZmeqptEtIdfGTxRByHMqz"
@@ -1490,6 +1490,28 @@
       "duration_ms": 352573,
       "name": "Ife",
       "url": "https://open.spotify.com/track/6zfQjiEITpwiTf5qragUNj"
+    },
+    {
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163010,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6EnRqTMK7mGy9AB7ArusqU"
     },
     {
       "album": {
@@ -2510,7 +2532,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 141973,
       "name": "No Stopping Us",
       "url": "https://open.spotify.com/track/6LL7k9NYdw4niljdYF7Pg9"

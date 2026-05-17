@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-422 songs - 1 day 8 hr 35 min
+424 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Nimmermeer](https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 4:03 | 2023-10-06 | 2025-06-20 |
 | [no stress](https://open.spotify.com/track/5fGqoavu7BXnzIcLtfOJyW) | [fadinglight](https://open.spotify.com/artist/51pE037fWiZxEMOgvR6vyY) | [no stress](https://open.spotify.com/album/10lxh4DzfjnbUM3gi5FqVG) | 1:36 | 2026-02-27 | 2026-04-04 |
 | [nofour](https://open.spotify.com/track/3hVlgICwiJPz5ZaFhw3tcB) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice \(Versions\)](https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1) | 4:23 | 2025-09-04 | 2026-03-14 |
+| [NOISBIENT SEVEN](https://open.spotify.com/track/5TTuezss4etHTSGUmnLI2B) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [NOISBIENT SEVEN](https://open.spotify.com/album/5mymEaDb667un97GQ35F0c) | 5:00 | 2026-05-15 |  |
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2025-04-12 |
@@ -283,7 +284,7 @@
 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 | 2023-04-21 | 2024-04-19 |
 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 | 2022-01-28 | 2023-06-14 |
 | [Pordeno Me](https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Pordeno Me](https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju) | 2:29 | 2025-01-31 | 2026-03-14 |
-| [pour le poème \(flou v\)](https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [A/B \(moments bleus la nuit\)](https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE) | 2:24 | 2025-12-04 |  |
+| [pour le poème \(flou v\)](https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [A/B \(moments bleus la nuit\)](https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE) | 2:24 | 2025-12-04 | 2026-05-17 |
 | [Power Down the Heart](https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Power Down the Heart](https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab) | 3:41 | 2025-07-03 | 2026-03-14 |
 | [Prelude for Halloween 1](https://open.spotify.com/track/3s5Qgp2Wsuvpt2qNG0sXKo) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Preludes for Halloween Vol\. I](https://open.spotify.com/album/6sbfcYlYMGdTHJJ6QSImiN) | 1:28 | 2022-10-14 | 2023-10-06 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2022-01-21 | 2026-03-14 |
@@ -308,6 +309,7 @@
 | [Run](https://open.spotify.com/track/6ArIMZvWATiUfpghkv1PdW) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [The Lost Flowers of Alice Hart \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/1bl1WwTWbH18xVJtq3KfDY) | 3:51 | 2023-08-11 |  |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 | 2023-11-16 |
+| [Sacrifice](https://open.spotify.com/track/6B81vu7B4NqWHenBTGEJCW) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Empire of Light](https://open.spotify.com/album/1dfNM1BCiyVpCoN5hllUTN) | 5:29 | 2026-05-15 |  |
 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 | 2022-01-21 | 2022-08-18 |
 | [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 | 2022-01-21 | 2022-08-09 |
 | [Saints And Sinners](https://open.spotify.com/track/4kDYRMzcrEfKb8sVNq2eaU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 9:24 | 2022-12-30 | 2024-04-19 |
@@ -391,7 +393,7 @@
 | [tomorrow never comes](https://open.spotify.com/track/5J3b8hZ2P3YbBZzHvDOZzu) | [Lantea](https://open.spotify.com/artist/6FWyoYQomPSqV1TnojO73U), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [tomorrow never comes](https://open.spotify.com/album/1mUSORPqLfV1F3yqj456oD) | 2:14 | 2026-04-03 |  |
 | [Tonality Number Two](https://open.spotify.com/track/4lfuGnhMu24Gt96e0JYVI0) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Tonality Number Two](https://open.spotify.com/album/5oBgqdlZD5hLoSHnXZRRGo) | 6:39 | 2023-12-01 | 2025-06-20 |
 | [Torrek](https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:19 | 2022-03-25 | 2025-10-10 |
-| [Tough Things](https://open.spotify.com/track/4ost9G4bXXZQnbSqzgj2Fg) | [Almøst Silent](https://open.spotify.com/artist/5vOWu89aoQavpRxstw5Ezs) | [Kaizen](https://open.spotify.com/album/0nVYSxYVqjNwYka9L1vlX3) | 5:58 | 2026-05-15 |  |
+| [Tough Things](https://open.spotify.com/track/4ost9G4bXXZQnbSqzgj2Fg) | [Almøst Silent](https://open.spotify.com/artist/5vOWu89aoQavpRxstw5Ezs) | [Kaizen](https://open.spotify.com/album/0nVYSxYVqjNwYka9L1vlX3) | 5:58 | 2026-05-15 | 2026-05-17 |
 | [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 |  |
 | [Transience](https://open.spotify.com/track/54gc7VvU6js8KUWaSOYzFR) | [David Granström](https://open.spotify.com/artist/3XzW3dOgb3xTbi1GlstjWV) | [Empty Room](https://open.spotify.com/album/3mxilQQIyEb5YU8HVmATcH) | 4:45 | 2022-01-21 | 2026-04-04 |
 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 | 2022-01-21 | 2025-10-10 |

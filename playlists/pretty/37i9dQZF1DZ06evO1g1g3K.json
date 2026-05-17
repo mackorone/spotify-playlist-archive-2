@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7164,
+  "num_followers": 7175,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAnKelGpkBCUlYEq8mgc2HC",
+  "snapshot_id": "agZiAAAAAABko1BwfvLcBJy/9n7TD0yZ",
   "tracks": [
     {
       "added_at": null,
@@ -162,31 +162,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 232998,
-      "name": "Undivided",
-      "url": "https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "E-WHIZZ",
-          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 317966,
-      "name": "No Business",
-      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+      "duration_ms": 247251,
+      "name": "soft.",
+      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
     },
     {
       "added_at": null,
@@ -207,6 +191,26 @@
       "duration_ms": 184295,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+        }
+      ],
+      "duration_ms": 317966,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": null,
@@ -238,15 +242,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 247251,
-      "name": "soft.",
-      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
+      "duration_ms": 232998,
+      "name": "Undivided",
+      "url": "https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 136571,
       "name": "ETA?",
       "url": "https://open.spotify.com/track/2KvySb5FNxG0cZWsllmoeM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

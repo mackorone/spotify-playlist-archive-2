@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 148793,
+  "num_followers": 148834,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Taste and See",
-        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        },
-        {
-          "name": "Little Praise Party",
-          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "My God Is Number One",
-      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Rise and Shine Give God the Glory",
         "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 138000,
       "name": "Rise and Shine Give God the Glory",
       "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Taste and See",
+        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        },
+        {
+          "name": "Little Praise Party",
+          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "My God Is Number One",
+      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "100 Singalong Songs For Kids",
-        "url": "https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 94466,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 240373,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "100 Singalong Songs For Kids",
+        "url": "https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 94466,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "The Lord Is My Shepherd (Psalm 23)",
-        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 124032,
-      "name": "The Lord Is My Shepherd (Psalm 23)",
-      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "The Chosen Adventures (Vol. 1)",
         "url": "https://open.spotify.com/album/2X2HR8yvDmDYqIxtCfRnq7"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "The Lord Is My Shepherd (Psalm 23)",
+        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 124032,
+      "name": "The Lord Is My Shepherd (Psalm 23)",
+      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Everyone Should Know",
         "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
       },
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Hillsong Kids Ultimate",
-        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
+        "name": "Jesus Is My Superhero",
+        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
         }
       ],
-      "duration_ms": 273613,
-      "name": "Trust And Obey",
-      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
+      "duration_ms": 164569,
+      "name": "Superhero - Reimagined",
+      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Jesus Is My Superhero",
-        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
+        "name": "Hillsong Kids Ultimate",
+        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
       },
       "artists": [
         {
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
         }
       ],
-      "duration_ms": 164569,
-      "name": "Superhero - Reimagined",
-      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
+      "duration_ms": 273613,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
     },
     {
       "added_at": "2026-05-12 05:39:19",

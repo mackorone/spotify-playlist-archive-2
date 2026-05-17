@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-678 songs - 1 day 17 hr 13 min
+679 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Deeper](https://open.spotify.com/track/6tdYHKNNhrnYLPNVxo5cFX) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 5:12 | 2023-11-02 | 2024-01-12 |
 | [Details in the Fabric \(Demo\)](https://open.spotify.com/track/3qvDtHQWoiJNB4lUED4HoQ) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Details in the Fabric \(Demo\)](https://open.spotify.com/album/7dpACGvlOgh6Rlh6zjHuna) | 5:47 | 2023-09-07 | 2023-11-17 |
 | [DEVOTION](https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:54 | 2025-07-17 | 2026-03-27 |
+| [DIAMOND\-EYED](https://open.spotify.com/track/3Snw356MVOQxHomLGJTYSj) | [Mioko Yamaguchi](https://open.spotify.com/artist/33itzdcS4y00FCGR23sleH) | [LOVE & SALT](https://open.spotify.com/album/2MKGtWGN8mIYxOdJWhUi9Z) | 5:21 | 2026-02-19 |  |
 | [Didn't Know You Then](https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 4:13 | 2023-08-24 | 2023-10-13 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-11-08 | 2022-11-23 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 | 2025-09-06 |
@@ -260,7 +261,7 @@
 | [I Don't Want to Go That Way](https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:24 | 2023-08-31 | 2023-09-22 |
 | [I Don't Want to Go That Way](https://open.spotify.com/track/6iEeLs6QqMVFMjG1eg1W6d) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [I Don't Want to Go That Way](https://open.spotify.com/album/5FWtDMA4uVbsh00QTdLeJ0) | 5:24 | 2023-08-03 | 2023-08-05 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-10-20 | 2024-03-17 |
-| [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 | 2024-01-30 |  |
+| [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 | 2024-01-30 | 2026-05-17 |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-12-15 | 2024-04-19 |
 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 | 2026-05-14 |  |
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-15 |

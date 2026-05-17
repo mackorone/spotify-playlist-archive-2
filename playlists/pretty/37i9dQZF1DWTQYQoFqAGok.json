@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65387,
+  "num_followers": 65382,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "So\u00f1\u00e9 - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "La Instituci\u00f3n Te Reclama",
         "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 349008,
       "name": "Entronque",
       "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -655,6 +655,38 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "La Franca",
+      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -681,36 +713,20 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 198083,
-      "name": "La Franca",
-      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -727,22 +743,6 @@
       "duration_ms": 272771,
       "name": "Nu Soul",
       "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",

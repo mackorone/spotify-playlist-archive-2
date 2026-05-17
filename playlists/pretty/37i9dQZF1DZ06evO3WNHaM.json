@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 495035,
+  "num_followers": 495167,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABWt7/2TiT3SGXb2Bjs/l1E",
+  "snapshot_id": "agZiAAAAAADCIkqiAd4HOx3KeraE8OCe",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 237360,
-      "name": "Back to School (Mini Maggit)",
-      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
+      "duration_ms": 272560,
+      "name": "976-EVIL",
+      "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 272560,
-      "name": "976-EVIL",
-      "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5"
+      "duration_ms": 237360,
+      "name": "Back to School (Mini Maggit)",
+      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
     },
     {
       "added_at": null,

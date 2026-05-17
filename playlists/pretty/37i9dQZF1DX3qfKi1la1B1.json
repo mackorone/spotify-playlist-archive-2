@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127148,
+  "num_followers": 127162,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-05-12 11:51:34",
       "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
-    },
-    {
-      "added_at": "2026-05-12 11:51:34",
-      "album": {
         "name": "Something About You (with Rudimental) [Alternate Versions]",
         "url": "https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
+    },
+    {
+      "added_at": "2026-05-12 11:51:34",
+      "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2026-05-12 11:51:34",
@@ -919,26 +919,22 @@
     {
       "added_at": "2026-05-12 11:51:34",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3nCIGVNjTdwNw9xTcNq7k5"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "G4ZI",
+          "url": "https://open.spotify.com/artist/78eHosuz1v9o8dY3T8tbd3"
         },
         {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 208251,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
+      "duration_ms": 143568,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0EhDGbsM0ApYVcOrSPI2u4"
     },
     {
       "added_at": "2026-05-12 11:51:34",
@@ -987,6 +983,30 @@
     {
       "added_at": "2026-05-12 11:51:34",
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 208251,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
+    },
+    {
+      "added_at": "2026-05-12 11:51:34",
+      "album": {
         "name": "PACIFIC",
         "url": "https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 145384,
       "name": "sky is red",
       "url": "https://open.spotify.com/track/7i6agEc8dbycvrDKJCd0lI"
-    },
-    {
-      "added_at": "2026-05-12 11:51:34",
-      "album": {
-        "name": "Chala (My Soul Is On A Loop)",
-        "url": "https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Aster Aweke",
-          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "Chala (My Soul Is On A Loop)",
-      "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
     }
   ],
   "unique_name": "Midnight Chill",

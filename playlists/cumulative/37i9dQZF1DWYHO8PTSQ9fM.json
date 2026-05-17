@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "This is Morocco right now. Cover: Tame Impala, JENNIE",
+  "description": "The hottest hits right now. Cover: Drake",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -182,6 +182,28 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228617,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/5Dtzyp05eJDj4SlCjewnmE"
     },
     {
       "album": {
@@ -716,7 +738,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -1238,6 +1260,28 @@
       "duration_ms": 172826,
       "name": "BOUHALI",
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
+    },
+    {
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "album": {
@@ -3295,6 +3339,28 @@
     },
     {
       "album": {
+        "name": "FALLEN ANGEL",
+        "url": "https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164539,
+      "name": "GHALAT",
+      "url": "https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd"
+    },
+    {
+      "album": {
         "name": "Ghali",
         "url": "https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg"
       },
@@ -5279,6 +5345,28 @@
     },
     {
       "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "MA3LISH",
+      "url": "https://open.spotify.com/track/0JMhQxKjiNTsV2NSTZyfSN"
+    },
+    {
+      "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
       },
@@ -5496,6 +5584,24 @@
       "duration_ms": 194095,
       "name": "Maktoub",
       "url": "https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn"
+    },
+    {
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
     },
     {
       "album": {
@@ -7572,6 +7678,32 @@
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "album": {
@@ -10592,6 +10724,24 @@
       "duration_ms": 237362,
       "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
       "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
     },
     {
       "album": {

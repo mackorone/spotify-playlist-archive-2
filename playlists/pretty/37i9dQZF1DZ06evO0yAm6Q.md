@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,187 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 25 | [White Chalk](https://open.spotify.com/track/5otrKJigdBWRbBNHOfFg2g) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 3:06 |
 | 26 | [The Glorious Land](https://open.spotify.com/track/5eAcmyKEmOkdIEBopUqM4J) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:34 |
 | 27 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
-| 28 | [Black Hearted Love](https://open.spotify.com/track/0TYC36fmbYl54IqTxjdmDa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk) | [A Woman A Man Walked By](https://open.spotify.com/album/6l86pi1CVEjWneYKszncju) | 4:35 |
-| 29 | [Meet Ze Monsta](https://open.spotify.com/track/29A28JjjELDyZL1mUekhkC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:29 |
+| 28 | [Meet Ze Monsta](https://open.spotify.com/track/29A28JjjELDyZL1mUekhkC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:29 |
+| 29 | [Black Hearted Love](https://open.spotify.com/track/0TYC36fmbYl54IqTxjdmDa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk) | [A Woman A Man Walked By](https://open.spotify.com/album/6l86pi1CVEjWneYKszncju) | 4:35 |
 | 30 | [The Last Living Rose](https://open.spotify.com/track/2K7qvmfEWQm41wIJkjDBj4) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:21 |
-| 31 | [Catherine](https://open.spotify.com/track/1FtCIt8zecbYf4mKvqJ029) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:05 |
-| 32 | [Man\-Size](https://open.spotify.com/track/3X4qUkEhAvGY3qIlpNh1sl) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:16 |
+| 31 | [Man\-Size](https://open.spotify.com/track/3X4qUkEhAvGY3qIlpNh1sl) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:16 |
+| 32 | [Catherine](https://open.spotify.com/track/1FtCIt8zecbYf4mKvqJ029) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:05 |
 | 33 | [Come to Me](https://open.spotify.com/track/7xDeTALyFeNz7241qj3aJS) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 3:45 |
 | 34 | [In The Dark Places](https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:59 |
 | 35 | [Eyepennies](https://open.spotify.com/track/2KN2jYc5w89X3odixWVp1I) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 5:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 43 | [The Mistery of Love](https://open.spotify.com/track/631jwAiEhwJO3aXpzHQx6X) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Before the Poison](https://open.spotify.com/album/2d6SyohTVmBFfAVkE4Bzyu) | 3:51 |
 | 44 | [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 |
 | 45 | [Sheela\-na\-gig](https://open.spotify.com/track/4WTNdb4ivbpoFuEMrykehP) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:12 |
-| 46 | [Yuri\-G](https://open.spotify.com/track/72W93VrqRaDiyn3FushDXO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:28 |
-| 47 | [The Letter](https://open.spotify.com/track/2ZJ28OVvI4RDb6ZwxOOCOw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 3:19 |
+| 46 | [The Letter](https://open.spotify.com/track/2ZJ28OVvI4RDb6ZwxOOCOw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 3:19 |
+| 47 | [Yuri\-G](https://open.spotify.com/track/72W93VrqRaDiyn3FushDXO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:28 |
 | 48 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 |
 | 49 | [Dear Darkness](https://open.spotify.com/track/3khsLfdlKOy9uZ754psc9G) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 3:09 |
-| 50 | [The Wheel](https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 5:38 |
+| 50 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
 
-Snapshot ID: `agUQgAAAAABhZ8/6cK3wV/3HMnDdkWBG`
+Snapshot ID: `agZiAAAAAAAcFdt52ErWotiotxdBSI/3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,478 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,515 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Me Deixe Leve](https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:54 |
 | 50 | [Quero Paz](https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:29 |
 
-Snapshot ID: `agUQgAAAAACN8i4CU+axiZdxucuRMvyi`
+Snapshot ID: `agZiAAAAAAAK0KOA7EeMgujm6s5YzVnw`

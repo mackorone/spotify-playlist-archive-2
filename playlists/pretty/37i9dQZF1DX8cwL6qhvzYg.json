@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 450639,
+  "num_followers": 450750,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 231106,
       "name": "\u00bfD\u00f3nde Estar\u00e1s?",
       "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "El Final De Nuestra Historia",
-        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 259466,
       "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
       "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "El Final De Nuestra Historia",
+        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Vuelve Mi Amor",
-        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
-      },
-      "artists": [
-        {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Ya No Hay Beatles (2026 Remasterizada)",
         "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 168917,
       "name": "Ya No Hay Beatles - 2026 Remasterizada",
       "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Vuelve Mi Amor",
+        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
+      },
+      "artists": [
+        {
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+        }
+      ],
+      "duration_ms": 298353,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Rosal\u00eda",
         "url": "https://open.spotify.com/album/0X6c4MoWNMpAXKkjPb3pe9"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Vampiresa",
-        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
       "artists": [
         {
-          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 298353,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+      "duration_ms": 256773,
+      "name": "Cabo E",
+      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1635,22 +1651,6 @@
       "duration_ms": 130666,
       "name": "pa' vailar pegaditos",
       "url": "https://open.spotify.com/track/5FU6M9qGz18iFL9ZfG6vq0"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Cabo E",
-      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
     },
     {
       "added_at": "2026-03-13 19:07:31",

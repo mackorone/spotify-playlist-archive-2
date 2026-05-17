@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 436,
+  "num_followers": 435,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABl8vtxxJll15+0bsaGXx35yFOvHmf",
+  "snapshot_id": "AAABmHDgPB3NDAq5Ym+zvjU2fSAb49Jn",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J"
     },
     {
-      "added_at": "2025-10-13 14:50:43",
-      "album": {
-        "name": "Don't Forget the Roll",
-        "url": "https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk"
-      },
-      "artists": [
-        {
-          "name": "On-Off",
-          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "The Last On the List",
-      "url": "https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt"
-    },
-    {
       "added_at": "2025-10-13 15:19:42",
       "album": {
         "name": "Feel The Heat",
@@ -301,22 +285,6 @@
       "url": "https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2"
     },
     {
-      "added_at": "2025-11-13 13:33:02",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6"
-      },
-      "artists": [
-        {
-          "name": "AG Session",
-          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
-        }
-      ],
-      "duration_ms": 160335,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH"
-    },
-    {
       "added_at": "2025-11-26 03:08:51",
       "album": {
         "name": "Bring Your Love",
@@ -331,22 +299,6 @@
       "duration_ms": 144395,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB"
-    },
-    {
-      "added_at": "2025-12-03 16:29:06",
-      "album": {
-        "name": "Overthrown",
-        "url": "https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ"
-      },
-      "artists": [
-        {
-          "name": "King's Vengeance",
-          "url": "https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp"
-        }
-      ],
-      "duration_ms": 385285,
-      "name": "Burn It Down - '25",
-      "url": "https://open.spotify.com/track/077M4QbpESAeYneFBGqRdW"
     },
     {
       "added_at": "2025-12-06 14:33:25",
@@ -411,54 +363,6 @@
       "duration_ms": 245733,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja"
-    },
-    {
-      "added_at": "2026-02-07 19:06:29",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ"
-      },
-      "artists": [
-        {
-          "name": "The Homme",
-          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Dancing on Fire",
-      "url": "https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN"
-    },
-    {
-      "added_at": "2026-02-07 19:35:53",
-      "album": {
-        "name": "take me to the other side",
-        "url": "https://open.spotify.com/album/44gz5UtRohvze3YuLSX224"
-      },
-      "artists": [
-        {
-          "name": "Brake Loose",
-          "url": "https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "take me to the other side",
-      "url": "https://open.spotify.com/track/7DVCnily4QAjO3jaaD6eGd"
-    },
-    {
-      "added_at": "2026-02-07 21:32:55",
-      "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB"
-      },
-      "artists": [
-        {
-          "name": "Gradience",
-          "url": "https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Onwards",
-      "url": "https://open.spotify.com/track/4xBM4eYPajrVlJTo6UD8E9"
     },
     {
       "added_at": "2026-02-07 22:08:34",
@@ -605,22 +509,6 @@
       "url": "https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS"
     },
     {
-      "added_at": "2026-02-13 03:43:25",
-      "album": {
-        "name": "In Our Nature",
-        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
-      },
-      "artists": [
-        {
-          "name": "Touch of Red",
-          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
-        }
-      ],
-      "duration_ms": 291153,
-      "name": "Tear Down the Sky",
-      "url": "https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU"
-    },
-    {
       "added_at": "2026-02-16 15:05:56",
       "album": {
         "name": "Extendead Play",
@@ -635,22 +523,6 @@
       "duration_ms": 271348,
       "name": "Lies",
       "url": "https://open.spotify.com/track/6BEeSTmtL7G1omggshngn3"
-    },
-    {
-      "added_at": "2026-03-03 02:35:26",
-      "album": {
-        "name": "Royal Kush (2026 Remix)",
-        "url": "https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri"
-      },
-      "artists": [
-        {
-          "name": "Space of a Day",
-          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
-        }
-      ],
-      "duration_ms": 216543,
-      "name": "Royal Kush - 2026 Remix",
-      "url": "https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2"
     },
     {
       "added_at": "2026-03-04 01:52:50",
@@ -699,38 +571,6 @@
       "duration_ms": 218739,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0lF2y089fv67qGw026DRhq"
-    },
-    {
-      "added_at": "2026-03-11 23:54:25",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm"
-    },
-    {
-      "added_at": "2026-03-12 00:04:10",
-      "album": {
-        "name": "In Our Nature",
-        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
-      },
-      "artists": [
-        {
-          "name": "Touch of Red",
-          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Just a Little",
-      "url": "https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB"
     },
     {
       "added_at": "2026-03-12 00:37:28",
@@ -795,54 +635,6 @@
       "duration_ms": 232716,
       "name": "On A Roll",
       "url": "https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7"
-    },
-    {
-      "added_at": "2026-03-14 12:01:47",
-      "album": {
-        "name": "Guardians of the Phallicy",
-        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
-      },
-      "artists": [
-        {
-          "name": "AG Session",
-          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
-        }
-      ],
-      "duration_ms": 207716,
-      "name": "Burnout and Fadeaway",
-      "url": "https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7"
-    },
-    {
-      "added_at": "2026-03-17 01:29:14",
-      "album": {
-        "name": "Fly Eagle Fly",
-        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
-      },
-      "artists": [
-        {
-          "name": "O KANENAS",
-          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
-        }
-      ],
-      "duration_ms": 186369,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6npXIH9DbzIs472PWdTd7n"
-    },
-    {
-      "added_at": "2026-03-17 01:42:38",
-      "album": {
-        "name": "In Our Nature",
-        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
-      },
-      "artists": [
-        {
-          "name": "Touch of Red",
-          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D"
     },
     {
       "added_at": "2026-03-18 02:28:41",
@@ -1217,22 +1009,6 @@
       "url": "https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg"
     },
     {
-      "added_at": "2026-04-14 16:47:24",
-      "album": {
-        "name": "Never Gonna Make You Mine",
-        "url": "https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Never Gonna Make You Mine",
-      "url": "https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60"
-    },
-    {
       "added_at": "2026-04-15 02:34:01",
       "album": {
         "name": "Unmovable Fires",
@@ -1311,22 +1087,6 @@
       "duration_ms": 152708,
       "name": "Pride",
       "url": "https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy"
-    },
-    {
-      "added_at": "2026-04-20 16:52:48",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll"
-      },
-      "artists": [
-        {
-          "name": "On-Off",
-          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
-        }
-      ],
-      "duration_ms": 260279,
-      "name": "Crime Doesn't Pay",
-      "url": "https://open.spotify.com/track/3FK8CfhykxQBohpPrZPc7y"
     },
     {
       "added_at": "2026-04-20 17:08:52",

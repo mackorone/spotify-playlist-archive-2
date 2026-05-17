@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 1698,
+  "num_followers": 1717,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t",
+  "snapshot_id": "AAAAAGB7aqYPPqMA8dsdkbD3SASi+eTn",
   "tracks": [
     {
       "added_at": "2026-05-07 22:03:31",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "Souls x Mates",
+        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
+      },
+      "artists": [
+        {
+          "name": "Dandi Noxx",
+          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Souls x Mates",
+      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 236080,
       "name": "Faya",
       "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Souls x Mates",
-        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
-      },
-      "artists": [
-        {
-          "name": "Dandi Noxx",
-          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Souls x Mates",
-      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "We Will Run",
+        "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "We Will Run",
+      "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Wayside Lover",
         "url": "https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 251169,
       "name": "Wayside Lover",
       "url": "https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "We Will Run",
-        "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "We Will Run",
-      "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Yalwa",
-        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Yalwa",
-      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Feel It All",
         "url": "https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ"
       },
@@ -911,8 +895,24 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Weight Off My Shoulders",
+        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
         }
       ],
-      "duration_ms": 173634,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+      "duration_ms": 167680,
+      "name": "Weight Off My Shoulders",
+      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -975,6 +975,38 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Holu Lufuno",
         "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
@@ -991,38 +1023,6 @@
       "duration_ms": 201959,
       "name": "Holu Lufuno",
       "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Weight Off My Shoulders",
-        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Weight Off My Shoulders",
-      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ"
+      },
+      "artists": [
+        {
+          "name": "Jade Olivia",
+          "url": "https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Sunlight to My Soul",
         "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 205797,
       "name": "Sunlight to My Soul",
       "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ"
-      },
-      "artists": [
-        {
-          "name": "Jade Olivia",
-          "url": "https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "take it & leave",
-        "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
-      },
-      "artists": [
-        {
-          "name": "Sishii",
-          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "take it & leave",
-      "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 218800,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "take it & leave",
+        "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "take it & leave",
+      "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
     },
     {
       "added_at": "2026-05-07 22:03:31",

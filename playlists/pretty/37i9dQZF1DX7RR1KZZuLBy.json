@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 67242,
+  "num_followers": 67258,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "Open My Heart",
-      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Glory in His Presence (Live)",
@@ -947,18 +931,34 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Greenleaf Soundtrack - Season 2",
-        "url": "https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 209061,
-      "name": "Won't He Do It",
-      "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
+      "duration_ms": 340040,
+      "name": "Open My Heart",
+      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "He Sees You",
+      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     }
   ],
   "unique_name": "Gospel Greatness",

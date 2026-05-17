@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-185 songs - 17 hr 2 min
+186 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 | 2023-04-09 | 2024-04-19 |
 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 | 2024-03-20 |  |
 | [Solo Cristo \(None But Jesus\) \- Live](https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Unidos Permanecemos \(Live\)](https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm) | 5:29 | 2023-04-09 | 2024-04-19 |
-| [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 | 2023-04-09 |  |
+| [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 | 2023-04-09 | 2026-05-17 |
 | [Su Sangre \- Radio Edit](https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um), [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P) | [Su Sangre](https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp) | 5:49 | 2024-03-20 |  |
 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 | 2023-04-09 |  |
 | [Sublime Amor \(Digno es el Señor\)](https://open.spotify.com/track/1gCliEOlpESToPvRqCpsXM) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Misael Jiménez](https://open.spotify.com/artist/6tXl3iMCmgi3cCYTCcPYNr) | [Sublime Amor \(Digno Es El Señor\)](https://open.spotify.com/album/03yh6795WjQFsKZZs1eDrS) | 5:43 | 2026-04-04 |  |
@@ -191,6 +191,7 @@
 | [Tu Reino Está Aquí](https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 5:33 | 2023-10-13 | 2024-04-19 |
 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 | 2024-03-20 |  |
 | [Viene el Rey](https://open.spotify.com/track/3vVUzorXavZFrmnxwSIyuH) | [Jon Carlo](https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK), [Caleb Worship](https://open.spotify.com/artist/2ZDCD2EjRayoBZGm3vClFL), [Efren Rivera](https://open.spotify.com/artist/4OuQcs3ivm8kZxuKPTIMvj) | [Viene el Rey](https://open.spotify.com/album/10r5EoQSsBT4gDttUC2KEX) | 6:57 | 2026-03-29 |  |
+| [Vives Tu Vivo Yo \- Acústico](https://open.spotify.com/track/1tbUBcTzOqzKL9azeIgpty) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Como En Casa \(Acústico\)](https://open.spotify.com/album/58lk4EL45WV2aEZjVWg02U) | 6:03 | 2026-04-04 |  |
 | [Vives Tú Vivo Yo \- Acústico](https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Como en Casa \(Acústico\)](https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V) | 6:03 | 2023-04-09 | 2024-02-22 |
 | [Yahweh Se Manifestará \- Live](https://open.spotify.com/track/04hV8gSYwrEmzwC05AQY4j) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Yahweh Se Manifestará \(Live\)](https://open.spotify.com/album/2d4OJrfbobigzZMZXxV3d1) | 10:03 | 2026-03-29 |  |
 

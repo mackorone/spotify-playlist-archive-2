@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Dua Saleh",
-  "num_followers": 1319933,
+  "num_followers": 1319861,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1165,6 +1165,26 @@
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
+      "added_at": "2025-06-13 04:00:56",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+    },
+    {
       "added_at": "2025-07-18 05:45:52",
       "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
@@ -1191,26 +1211,6 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
-    },
-    {
-      "added_at": "2025-06-13 04:00:56",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
     },
     {
       "added_at": "2026-03-13 08:17:11",
@@ -1617,38 +1617,6 @@
       "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
-      "added_at": "2024-07-26 09:18:29",
-      "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "SCREAM MY NAME",
-      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
-    },
-    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "Lights Down Low",
@@ -1669,6 +1637,22 @@
       "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "Fidelity",
@@ -1683,6 +1667,22 @@
       "duration_ms": 206907,
       "name": "Forty Days",
       "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
+    },
+    {
+      "added_at": "2024-07-26 09:18:29",
+      "album": {
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
-    },
-    {
       "added_at": "2026-05-08 06:11:38",
       "album": {
         "name": "Rest of Your Life",
@@ -1747,6 +1731,22 @@
       "duration_ms": 232373,
       "name": "Rest of Your Life",
       "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
+    },
+    {
+      "added_at": "2024-09-27 23:55:30",
+      "album": {
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1797,38 +1797,6 @@
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "C\u00e1llate",
-        "url": "https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 119960,
-      "name": "C\u00e1llate",
-      "url": "https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67"
-    },
-    {
-      "added_at": "2024-10-26 03:32:36",
-      "album": {
-        "name": "The Drive Home",
-        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
-    },
-    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "I Like It I Like It",
@@ -1847,6 +1815,38 @@
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
+    },
+    {
+      "added_at": "2024-10-26 03:32:36",
+      "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "C\u00e1llate",
+        "url": "https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 119960,
+      "name": "C\u00e1llate",
+      "url": "https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1881,22 +1881,6 @@
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "Dream About You All Through The Night.",
@@ -1911,6 +1895,22 @@
       "duration_ms": 229310,
       "name": "Dream About You All Through The Night.",
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
-      "added_at": "2026-03-13 08:17:11",
-      "album": {
-        "name": "I Do, I Do",
-        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "I Do, I Do",
-      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
-    },
-    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "All American F\u2b50\ufe0fckBoy",
@@ -1999,6 +1983,22 @@
       "duration_ms": 220562,
       "name": "Ken Doll",
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
+    },
+    {
+      "added_at": "2026-03-13 08:17:11",
+      "album": {
+        "name": "I Do, I Do",
+        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 135893,
+      "name": "I Do, I Do",
+      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -2101,20 +2101,20 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2024-08-30 06:47:05",
+      "added_at": "2026-05-08 06:11:38",
       "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7e1XIBDJA9TNmIJhBrB7Pw"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
+      "duration_ms": 223095,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -2153,20 +2153,20 @@
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
+      "added_at": "2024-08-30 06:47:05",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7e1XIBDJA9TNmIJhBrB7Pw"
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
       },
       "artists": [
         {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 223095,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
+      "duration_ms": 110000,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 160727,
-      "name": "Closer Than Close",
-      "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
-    },
-    {
       "added_at": "2026-03-13 08:17:11",
       "album": {
         "name": "A Rush To Nowhere",
@@ -2215,6 +2199,22 @@
       "duration_ms": 185506,
       "name": "Heard What You Said",
       "url": "https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a"
+    },
+    {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 160727,
+      "name": "Closer Than Close",
+      "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -2253,22 +2253,6 @@
       "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
     },
     {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "pilot.",
-        "url": "https://open.spotify.com/album/10AUh5FU4GV7eehXkMxbkB"
-      },
-      "artists": [
-        {
-          "name": "praise.",
-          "url": "https://open.spotify.com/artist/3EdJnvPToPkWpjbaWg0CsD"
-        }
-      ],
-      "duration_ms": 146669,
-      "name": "pilot.",
-      "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "raindance",
@@ -2283,6 +2267,22 @@
       "duration_ms": 218918,
       "name": "raindance",
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
+      "added_at": "2025-05-23 04:00:52",
+      "album": {
+        "name": "pilot.",
+        "url": "https://open.spotify.com/album/10AUh5FU4GV7eehXkMxbkB"
+      },
+      "artists": [
+        {
+          "name": "praise.",
+          "url": "https://open.spotify.com/artist/3EdJnvPToPkWpjbaWg0CsD"
+        }
+      ],
+      "duration_ms": 146669,
+      "name": "pilot.",
+      "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2325,6 +2325,22 @@
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
+    },
+    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "Satellite Business 2.0",
@@ -2345,6 +2361,22 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "RUFF RIDE",
@@ -2363,38 +2395,6 @@
       "duration_ms": 156839,
       "name": "RUFF RIDE",
       "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
-    },
-    {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
     },
     {
       "added_at": "2025-11-07 07:39:57",
@@ -2549,20 +2549,24 @@
       "url": "https://open.spotify.com/track/7aFn4899a2RYIX9dXgkp6g"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-12-06 07:13:57",
       "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+        "name": "Agnus",
+        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+      "duration_ms": 136918,
+      "name": "scrabble",
+      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
     }
   ],
   "unique_name": "Vanguard",

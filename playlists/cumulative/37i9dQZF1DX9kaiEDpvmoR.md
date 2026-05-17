@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-568 songs - 1 day 9 hr 35 min
+569 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 | 2025-05-30 |
 | [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 | 2026-03-12 |  |
 | [Göteborg](https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Göteborg](https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK) | 3:48 | 2026-01-01 |  |
-| [Hallå](https://open.spotify.com/track/19WsngrJerknIMRablf6Zl) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [United States av Sverige](https://open.spotify.com/album/3DJxpqeGvH4FQcC2tjivhy) | 6:01 | 2026-04-23 |  |
+| [Hallå](https://open.spotify.com/track/19WsngrJerknIMRablf6Zl) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [United States av Sverige](https://open.spotify.com/album/3DJxpqeGvH4FQcC2tjivhy) | 6:01 | 2026-04-23 | 2026-05-17 |
 | [Han lever \(Himmelsfärden\)](https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa, Maria Magdalenas kärlek](https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0) | 4:11 | 2025-04-10 | 2025-06-22 |
 | [Hansa City](https://open.spotify.com/track/2QgChXLXnpYzqgGRmWr28p) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Hansa City](https://open.spotify.com/album/6AbSkU3FBzeHHqoyb3UI8g) | 3:12 | 2026-03-12 | 2026-04-17 |
 | [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 | 2026-03-15 |
@@ -302,6 +302,7 @@
 | [Last To Know](https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Last To Know](https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ) | 3:34 | 2026-04-23 |  |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-13 |
 | [Let Her In](https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Let Her In](https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62) | 3:46 | 2024-06-27 | 2024-08-09 |
+| [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 | 2026-05-14 |  |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-06-27 | 2024-08-16 |
 | [Lilla livet](https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Bastard](https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5) | 3:20 | 2025-02-06 | 2026-02-13 |
 | [Lily Of The Valley](https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn) | [Elin Lanto](https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT) | [Lily Of The Valley](https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY) | 3:09 | 2024-06-27 | 2024-09-13 |

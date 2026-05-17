@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418487,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2KYwrmTXpD32W9qvPTdA2D"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 294000,
       "name": "Lowlands",
       "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 245311,
       "name": "Problem of No Name",
       "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 196374,
       "name": "Soft Fold 3/4",
       "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"

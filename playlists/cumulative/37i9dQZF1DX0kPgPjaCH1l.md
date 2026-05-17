@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  Asake
 
-150 songs - 7 hr 4 min
+151 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Gratitude](https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:49 | 2026-05-01 |  |
 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 | 2026-03-16 |  |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2025-06-20 | 2025-12-19 |
-| [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 | 2025-09-19 |  |
+| [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 | 2025-09-19 | 2026-05-17 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2025-06-20 | 2026-01-15 |
 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 | 2025-06-20 |  |
 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 | 2026-01-14 |  |
@@ -80,6 +80,7 @@
 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 | 2025-06-20 |  |
 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 | 2025-06-20 |  |
 | [JEJE \(feat\. Leekee, Sularzo, Graceboy & Lyrical Level\)](https://open.spotify.com/track/6WFI1HyK4XJq649jXQLTul) | [BIG VYBZ](https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [leekee](https://open.spotify.com/artist/0KUeHq79N0bmXrGbrvdSNn), [Sularzo](https://open.spotify.com/artist/5KKSvwR7UM5Kuk5nyUy3rz), [Graceboy](https://open.spotify.com/artist/5QHO7eZ24pvnzoMuJXIbed), [Lyrical Level](https://open.spotify.com/artist/44TDnz304C5bYFOmhK8LZ4) | [JEJE \(feat\. Leekee, Sularzo, Graceboy & Lyrical Level\)](https://open.spotify.com/album/3PYXNQHTZustPnUWhmbjbp) | 2:31 | 2026-02-06 | 2026-02-20 |
+| [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 | 2026-05-15 |  |
 | [Jolly Fellow](https://open.spotify.com/track/39abaX63hZrvJh3ql5cqOB) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Jolly Fellow](https://open.spotify.com/album/77fkD1sTmK1bYwQIhJNqMb) | 2:44 | 2026-02-06 | 2026-02-20 |
 | [JONBU](https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [DJ Enimoney](https://open.spotify.com/artist/7nEYJ01WxrTl3kAklzEC61) | [JONBU](https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP) | 2:38 | 2026-02-20 | 2026-03-17 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2025-06-20 |  |

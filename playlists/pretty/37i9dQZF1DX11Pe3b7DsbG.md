@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,565 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,572 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 31 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 |
 | 32 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
 | 33 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 |
-| 34 | [No Pagode Do Vavá](https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:05 |
+| 34 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
 | 35 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |
-| 36 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
+| 36 | [No Pagode Do Vavá](https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:05 |
 | 37 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
 | 38 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
 | 39 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 50 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
 | 51 | [Todo Santo Dia](https://open.spotify.com/track/2eq3QByQSisn1BMigva2O5) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Todo Santo Dia](https://open.spotify.com/album/4a2772OB2irMyFceTNVP4i) | 2:55 |
 | 52 | [Traço De União](https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Traço De União](https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB) | 3:31 |
-| 53 | [Coração Imprudente](https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 2:36 |
-| 54 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
+| 53 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
+| 54 | [Coração Imprudente](https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 2:36 |
 | 55 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
 | 56 | [Amiga da Minha Mulher / Cilada \- Ao Vivo](https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 4:52 |
 | 57 | [Mulheres \- Ao Vivo](https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Cidade do Samba \(Ao Vivo\)](https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy) | 3:20 |

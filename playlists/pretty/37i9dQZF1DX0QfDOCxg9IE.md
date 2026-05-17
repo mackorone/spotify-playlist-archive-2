@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Η Ελλάδα στον τελικό της Eurovision 🇬🇷! Καλή επιτυχία, Akylas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,739 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,736 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

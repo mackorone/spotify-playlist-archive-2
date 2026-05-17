@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-904 songs - 2 day 18 hr 23 min
+905 songs - 2 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 | 2024-08-24 |
 | [Galaxy](https://open.spotify.com/track/2gtR8ffUU1xAOsTNeaEe3A) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Galaxy](https://open.spotify.com/album/6Ef5H4o43CHIat5nXoGdms) | 3:13 | 2025-07-11 | 2026-03-20 |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-10-20 |
-| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
+| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 | 2026-05-17 |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
 | [Get Together](https://open.spotify.com/track/7BK5HTZRTfKdHHZ7mQrrpP) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [CENKK](https://open.spotify.com/artist/7is6F8lENDaS4DaNGFXSeu) | [Get Together](https://open.spotify.com/album/0jVG0suPDGpQnrKgdPgCKm) | 3:55 | 2025-09-15 |  |
 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 | 2023-05-12 |  |
@@ -337,6 +337,7 @@
 | [Grouplove](https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT) | 3:13 | 2023-10-13 | 2024-04-19 |
 | [Hand In Hand](https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La) | 3:51 | 2023-06-23 | 2023-07-01 |
 | [Hands Of Time](https://open.spotify.com/track/4Pi9gvBuch34QGJgEjCLPm) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:31 | 2023-10-27 | 2023-11-10 |
+| [Hands Up](https://open.spotify.com/track/2X3MVthrKaaP8RbrEen8UJ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Hands Up](https://open.spotify.com/album/2r6q6PurKAaN31ws05LZKC) | 3:07 | 2026-05-14 |  |
 | [Haunt You](https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ), [Ryan Schulze](https://open.spotify.com/artist/5qJ06Gl0qVWWBmiWuTptSR) | [Haunt You EP](https://open.spotify.com/album/7yAzZGsUPGTdszU5igtndX) | 3:31 | 2023-05-23 | 2023-06-01 |
 | [Head In The Ocean](https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i) | [FoundSound](https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp) | [Head In The Ocean](https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa) | 4:04 | 2023-07-21 | 2026-05-02 |
 | [Head Over \- Diode Eins & David Hasert Remix](https://open.spotify.com/track/4ow8LhtX2K6h54ZgGBIgJ4) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Diode Eins](https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Head Over \(Diode Eins & David Hasert Remix\)](https://open.spotify.com/album/3VIgQXLAvIkhLx7USVsJlQ) | 5:54 | 2023-06-09 | 2023-07-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166523,
+  "num_followers": 166531,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,34 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "you\u2019re a star (Skream & Benga remix)",
         "url": "https://open.spotify.com/album/4YbfghdlcIUbycyrtRbUTJ"
       },
@@ -539,30 +567,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
       },
       "artists": [
         {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         },
         {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -587,26 +607,6 @@
       "duration_ms": 233146,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Onslaught",
-        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 181718,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Maia Maia",
         "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Go Down Low",
+        "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 112140,
+      "name": "Go Down Low",
+      "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 210344,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/0AzytvRcpoml1cd11WiBbp"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Go Down Low",
-        "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 112140,
-      "name": "Go Down Low",
-      "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "14ZERO",
         "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
       },
@@ -1107,26 +1123,6 @@
       "duration_ms": 241714,
       "name": "Dubplate Fly",
       "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 171508,
-      "name": "Man Down VIP",
-      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1183,6 +1179,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 171508,
+      "name": "Man Down VIP",
+      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "The Speaker",
         "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 158181,
       "name": "The Speaker",
       "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 210500,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Winter Mix Vol.2",
+        "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "Cascade - Mixed",
+      "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Dread",
         "url": "https://open.spotify.com/album/3pdKDGrfS0On44kYIOo3tm"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Winter Mix Vol.2",
-        "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
+        "name": "Count That",
+        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
         }
       ],
-      "duration_ms": 76800,
-      "name": "Cascade - Mixed",
-      "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
+      "duration_ms": 216214,
+      "name": "Count That",
+      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1599,22 +1615,6 @@
       "duration_ms": 171034,
       "name": "Shrine",
       "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Count That",
-        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
-      },
-      "artists": [
-        {
-          "name": "SHOSH",
-          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
-        }
-      ],
-      "duration_ms": 216214,
-      "name": "Count That",
-      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1779,46 +1779,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Yard Shop",
-        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Yard Shop",
-      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1843,6 +1803,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 209142,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Yard Shop",
+        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Lady Ice",
+          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Yard Shop",
+      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/5Dq54EcygmbUrMGbrRBK5N"
-      },
-      "artists": [
-        {
-          "name": "ECHOSYSTEM",
-          "url": "https://open.spotify.com/artist/4AjcqEPNEc1l4ak9Lnqstl"
-        },
-        {
-          "name": "Mak & Pasteman",
-          "url": "https://open.spotify.com/artist/72D2yFt9Tjzt1ryReiggXG"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Saints",
-      "url": "https://open.spotify.com/track/28QTqDLE9jeOHNiMRtkquc"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Rigid Lord",
         "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 225856,
       "name": "Rigid Lord",
       "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/5Dq54EcygmbUrMGbrRBK5N"
+      },
+      "artists": [
+        {
+          "name": "ECHOSYSTEM",
+          "url": "https://open.spotify.com/artist/4AjcqEPNEc1l4ak9Lnqstl"
+        },
+        {
+          "name": "Mak & Pasteman",
+          "url": "https://open.spotify.com/artist/72D2yFt9Tjzt1ryReiggXG"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Saints",
+      "url": "https://open.spotify.com/track/28QTqDLE9jeOHNiMRtkquc"
     }
   ],
   "unique_name": "Proper Naughty ",

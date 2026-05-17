@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317004,
+  "num_followers": 316998,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 219973,
       "name": "Elle a les yeux revolver",
       "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "S'il Suffisait D'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 222413,
       "name": "Nous deux contre le reste du monde",
       "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "S'il Suffisait D'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Morgane De Toi (2013 Remaster)",
         "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 372186,
       "name": "Morgane de toi - 2013 Remaster",
       "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
     },
     {
       "added_at": "2026-04-15 08:53:32",

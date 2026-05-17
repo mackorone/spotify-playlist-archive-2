@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Famous Pluto
 
-477 songs - 21 hr 48 min
+478 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 | 2024-11-22 | 2024-11-25 |
 | [For My Head](https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi) | [Sean Dampte](https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i) | [For My Head](https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US) | 2:33 | 2023-06-02 | 2023-09-22 |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 | 2026-04-10 |
-| [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 | 2025-04-04 |  |
+| [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 | 2025-04-04 | 2026-05-17 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 | 2025-10-12 |
 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 | 2026-04-10 |  |
 | [FotiFoyin](https://open.spotify.com/track/2tuUgpT6L9av9kVH2Yhj9I) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [FotiFoyin](https://open.spotify.com/album/2qzFiIaTeSBXReTMAISM5u) | 3:35 | 2022-07-07 | 2023-01-03 |
@@ -268,6 +268,7 @@
 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 | 2023-06-30 | 2024-11-16 |
 | [Labubu](https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [Labubu](https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1) | 2:21 | 2025-10-17 |  |
 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-02-24 | 2025-06-17 |
+| [Lakute](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:19 | 2026-05-15 |  |
 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 | 2026-02-20 |  |
 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 | 2025-05-02 | 2025-07-11 |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |

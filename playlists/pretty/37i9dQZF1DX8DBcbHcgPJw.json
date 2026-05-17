@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1126279,
+  "num_followers": 1126111,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
         "name": "Desp\u00f3jate Vol.2",
         "url": "https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 240435,
       "name": "Desp\u00f3jate Vol.2",
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
-        "name": "SALE SOLA",
-        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 125969,
-      "name": "SALE SOLA",
-      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
         "name": "Tu Sacaganas (Remix)",
         "url": "https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 201483,
       "name": "Tu Sacaganas (Remix)",
       "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
+        "name": "SALE SOLA",
+        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 125969,
+      "name": "SALE SOLA",
+      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
-        "name": "Ya no me duele :,)",
-        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Cele Arrabal",
-          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Ya no me duele :,)",
-      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1227,6 +1207,22 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
         "name": "S\u00f3lo con un Beso",
         "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+        "name": "Ya no me duele :,)",
+        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Cele Arrabal",
+          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
         }
       ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+      "duration_ms": 157021,
+      "name": "Ya no me duele :,)",
+      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
-        "name": "BORRACHO Y LOCO",
-        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 232781,
-      "name": "BORRACHO Y LOCO",
-      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 170759,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 232781,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 176577,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 176577,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
-        "name": "Notitas Tristes",
-        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 136555,
-      "name": "Notitas Tristes",
-      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 183431,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
+        "name": "Notitas Tristes",
+        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 136555,
+      "name": "Notitas Tristes",
+      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-05-15 19:12:11",
       "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
         "name": "Ay Chula",
         "url": "https://open.spotify.com/album/265KP12K6800FlCoC9SMIP"
       },
@@ -2019,38 +2035,6 @@
       "duration_ms": 155526,
       "name": "Ay Chula",
       "url": "https://open.spotify.com/track/0FHwDxxUPwKFJcbxzLhi4k"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
-    },
-    {
-      "added_at": "2026-05-15 19:12:11",
-      "album": {
-        "name": "D\u00eda de Enero",
-        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 145626,
-      "name": "D\u00eda de Enero",
-      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     },
     {
       "added_at": "2026-05-15 19:12:11",
@@ -2091,6 +2075,22 @@
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
+    },
+    {
+      "added_at": "2026-05-15 19:12:11",
+      "album": {
+        "name": "D\u00eda de Enero",
+        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

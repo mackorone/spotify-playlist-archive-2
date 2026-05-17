@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 39368,
+  "num_followers": 39383,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADXHMapJWcw0nVpHQRB1w2G",
+  "snapshot_id": "agZiAAAAAAD0N3aiS8bVpj4Q0dpEFYVQ",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Voy De Estas Tierras",
+        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/5WTLB5uAqPd1r7J0KHkatB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 207673,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 165880,
-      "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/4q3VFAaCGyMaQhjYEE5oR2"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 176280,
-      "name": "El Vengador de Federales",
-      "url": "https://open.spotify.com/track/4q3VFAaCGyMaQhjYEE5oR2"
+      "duration_ms": 165880,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 188440,
       "name": "El Rico Pobre",
       "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Pescadores De Ensenada",
-      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 180226,
       "name": "Maquina 501",
       "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Pescadores De Ensenada",
+      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros 15 Exitos",
-        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 191791,
-      "name": "La Noria Escondida",
-      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gallo De San Juan",
         "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198626,
       "name": "El Gallo De San Juan",
       "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros 15 Exitos",
+        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 191791,
+      "name": "La Noria Escondida",
+      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "A Cuatro Leguas",
-      "url": "https://open.spotify.com/track/2LTIiuBpvIW0uqJRUMaUT0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestros Primeros 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 203106,
       "name": "Tengo a Mi Lupe",
       "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "A Cuatro Leguas",
+      "url": "https://open.spotify.com/track/2LTIiuBpvIW0uqJRUMaUT0"
     }
   ],
   "unique_name": "This Is Carlos Y Jose",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,209,677 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,209,934 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 28 | [Mr\. Loverman \(feat\. Chevelle Franklin\)](https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Chevelle Franklin](https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:38 |
 | 29 | [Please Stop Your Lying](https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 30 | [Get Up, Stand Up](https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:29 |
-| 31 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 |
-| 32 | [Simmerdown](https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [The Sleepwalking Society](https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4) | 3:27 |
-| 33 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
+| 31 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1GnTYLEJqZ4dVVhgw84yCs) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 |
+| 32 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
+| 33 | [Simmerdown](https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [The Sleepwalking Society](https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4) | 3:27 |
 | 34 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 |
 | 35 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
 | 36 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 91 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 |
 | 92 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
 | 93 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
-| 94 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 95 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
-| 96 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
-| 97 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 98 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 99 | [Good Thing Going](https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Good Thing Going](https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR) | 3:17 |
-| 100 | [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 |
+| 94 | [Good Thing Going](https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Good Thing Going](https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR) | 3:17 |
+| 95 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
+| 96 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 97 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
+| 98 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 99 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
+| 100 | [Black Pearl](https://open.spotify.com/track/1D9puj0iQTCtCSq7tmgWyu) | [Horace Faith](https://open.spotify.com/artist/34vpOP9tbu2SyS8E7caLsa) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:35 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

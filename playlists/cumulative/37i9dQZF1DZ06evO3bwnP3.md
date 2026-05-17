@@ -4,7 +4,7 @@
 
 > This is Kara\-Lis Coverdale\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 44 min
+55 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Fireflight](https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fireflight](https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S) | 3:04 | 2026-03-19 |  |
 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 | 2026-03-19 |  |
 | [Flutter](https://open.spotify.com/track/0xhn9nGIzsQeJRdLxBHo8D) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 4:21 | 2026-03-19 |  |
+| [Freedom](https://open.spotify.com/track/2KYwrmTXpD32W9qvPTdA2D) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 6:58 | 2026-05-17 |  |
 | [Freedom](https://open.spotify.com/track/5relEzd6zHW4duiUhwVFdS) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Freedom](https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH) | 6:58 | 2026-04-24 | 2026-05-07 |
 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 | 2026-03-19 |  |
 | [Grigori in Jakarta](https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 3:47 | 2026-03-19 |  |
@@ -41,14 +42,14 @@
 | [Kvinne med gresskar](https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Jordsvingninger \(A Smalltown Supersound compilation of exclusive tracks\)](https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN) | 2:28 | 2026-03-19 |  |
 | [Kõne, Vastu](https://open.spotify.com/track/1WXSz1lu5BehZIrYDpkeve) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 4:02 | 2026-04-20 | 2026-05-04 |
 | [Labyrinth I](https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 10:44 | 2026-03-19 |  |
-| [Lowlands](https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 4:54 | 2026-03-19 |  |
+| [Lowlands](https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 4:54 | 2026-03-19 | 2026-05-17 |
 | [Moments In Love](https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8) | 9:23 | 2026-03-19 |  |
 | [Nu\_chanic](https://open.spotify.com/track/17kdenWWdhtPKcd34ZZawa) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 4:56 | 2026-04-24 | 2026-04-25 |
 | [Offload Flip](https://open.spotify.com/track/4ZUrz0NlqXSMnheNUpoe62) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Offload Flip](https://open.spotify.com/album/7w864eA2lFKszD3Y3Jdhsz) | 2:14 | 2026-03-19 |  |
 | [Oriri](https://open.spotify.com/track/60LOVP00FWMzZUQLZw6RW7) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:17 | 2026-03-19 |  |
-| [Problem of No Name](https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:05 | 2026-03-19 |  |
+| [Problem of No Name](https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:05 | 2026-03-19 | 2026-05-17 |
 | [Saps /h](https://open.spotify.com/track/6Qq6md4k1jNKON6eA53HuT) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 4:32 | 2026-04-21 | 2026-05-08 |
-| [Soft Fold 3/4](https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:16 | 2026-03-23 | 2026-05-14 |
+| [Soft Fold 3/4](https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:16 | 2026-03-23 |  |
 | [Splash 144](https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:31 | 2026-03-19 |  |
 | [Strait of Phase](https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 12:10 | 2026-03-19 |  |
 | [Subfall \(to\)](https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 6:12 | 2026-03-19 |  |

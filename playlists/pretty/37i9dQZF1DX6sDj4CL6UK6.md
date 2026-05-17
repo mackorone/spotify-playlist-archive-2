@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,869 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,871 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 43 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
 | 44 | [LASSI](https://open.spotify.com/track/6y9cKGfKKSZw0Ozx84iDrG) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [LASSI](https://open.spotify.com/album/5Ok9uUPaWel7pzJphrwbBl) | 2:44 |
 | 45 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
-| 46 | [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 |
+| 46 | [omg \- Stripped Version](https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [omg \(Stripped Version\)](https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN) | 3:26 |
 | 47 | [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 |
-| 48 | [omg \- Stripped Version](https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [omg \(Stripped Version\)](https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN) | 3:26 |
+| 48 | [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 |
 | 49 | [Flying](https://open.spotify.com/track/25PEjBqc1LAsalXVeTrjbl) | [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Flying](https://open.spotify.com/album/43RrK1GFoLwrOKQLBGuZj3) | 2:11 |
 | 50 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 |
 | 51 | [Wait a sec](https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje) | [Heat Sink](https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD) | [On Second Thought](https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe) | 3:12 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 60 | [Detour](https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw) | [Second Sight](https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla) | [Detour](https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X) | 2:59 |
 | 61 | [Paradise](https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 2:28 |
 | 62 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |
-| 63 | [GIRL](https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [BUCK WILD](https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5) | 3:24 |
-| 64 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |
+| 63 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |
+| 64 | [GIRL](https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [BUCK WILD](https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5) | 3:24 |
 | 65 | [Favourite Song](https://open.spotify.com/track/7sUSBJbe7JI9buZ5jTpLd8) | [Manan Mehta](https://open.spotify.com/artist/39O1pR0xJXA14WDhdQHBNg), [Vaishnav Vyas](https://open.spotify.com/artist/1yKTinZw6FgL14x8o9XoBJ) | [Favourite Song](https://open.spotify.com/album/1zcQec9qUGUDSTqDn6jz5u) | 3:35 |
 | 66 | [Ignorance](https://open.spotify.com/track/6ogsXVG78tnwJj2clGZnDx) | [Akhil Sahni](https://open.spotify.com/artist/0s1Ya2nFCfTMXpsWbq6UPj) | [Puzzle](https://open.spotify.com/album/3TzceoIMgAeXLi4iFljGbO) | 3:28 |
 | 67 | [Paws](https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS) | [Paws](https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z) | 4:12 |

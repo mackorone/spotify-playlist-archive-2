@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068896,
+  "num_followers": 1068938,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "In The Pines",
-        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 210504,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Best Believe",
         "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228192,
       "name": "Best Believe",
       "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "In The Pines",
+        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 210504,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Love Endeavour",
-        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
-      },
-      "artists": [
-        {
-          "name": "PAPA | PEET",
-          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
-        }
-      ],
-      "duration_ms": 275712,
-      "name": "The Love Endeavour",
-      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Bloodline Maintenance",
         "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 187027,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -827,6 +811,22 @@
       "duration_ms": 180150,
       "name": "The Mule",
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Switch On",
         "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 258218,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -991,6 +959,38 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 195573,
       "name": "Love Like Whiskey",
       "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1423,22 +1407,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Gathering Forces",
-        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
       },
       "artists": [
         {
-          "name": "Jonah Smith",
-          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
-        },
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 185399,
-      "name": "Gathering Forces",
-      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1459,6 +1439,26 @@
       "duration_ms": 213733,
       "name": "What Good Is My Love?",
       "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
+      },
+      "artists": [
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Devil That You Know",
-        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
-      },
-      "artists": [
-        {
-          "name": "Emma Elena Grace",
-          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
-        }
-      ],
-      "duration_ms": 198496,
-      "name": "Devil That You Know",
-      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "The Circle Session, 2023",
         "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 216838,
       "name": "Oceans Of Emotions - The Circle Session, 2023",
       "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Devil That You Know",
+        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
+      },
+      "artists": [
+        {
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+        }
+      ],
+      "duration_ms": 198496,
+      "name": "Devil That You Know",
+      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Run Out of Love (with Lisa Loeb)",
         "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 277026,
       "name": "Run Out of Love - with Lisa Loeb",
       "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-05-15 04:01:33",

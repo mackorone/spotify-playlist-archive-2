@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 231788,
+  "num_followers": 231858,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Oye Mi Amor",
-        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
-      },
-      "artists": [
-        {
-          "name": "Anabel",
-          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Oye Mi Amor",
+        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
+      },
+      "artists": [
+        {
+          "name": "Anabel",
+          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
       "artists": [
         {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
       },
       "artists": [
         {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
         }
       ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Con El Tiempo (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 172935,
-      "name": "Con El Tiempo - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Otro trago",
         "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 167710,
       "name": "Otro trago",
       "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Con El Tiempo (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 172935,
+      "name": "Con El Tiempo - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5"
     },
     {
       "added_at": "2022-02-18 06:00:00",

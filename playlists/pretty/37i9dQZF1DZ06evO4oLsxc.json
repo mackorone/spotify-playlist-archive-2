@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADV6U6ffZBchRSaFJcQKVjB",
+  "snapshot_id": "agZiAAAAAAD/9KiEMdzGv3XKAj3uIisR",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+      "duration_ms": 212520,
+      "name": "Perfect Divide",
+      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Perfect Divide",
-      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+      "duration_ms": 157866,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
     },
     {
       "added_at": null,

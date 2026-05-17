@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 548990,
+  "num_followers": 549109,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAA/Q7AIskI4IZeg0jQYwZG0",
+  "snapshot_id": "agZiAAAAAAAcv+Q43G+F32OZqcLum0+2",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Cuando Muere una Dama",
-      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 267080,
       "name": "Taquito De Ojo",
       "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Cuando Muere una Dama",
+      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
     },
     {
       "added_at": null,

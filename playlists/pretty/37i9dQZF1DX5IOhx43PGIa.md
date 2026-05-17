@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere, with a special takeover from Wasia Project 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,993 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,977 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

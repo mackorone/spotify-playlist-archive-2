@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 410219,
+  "num_followers": 410364,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+      "duration_ms": 240666,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Headlong",
         "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219333,
       "name": "Far Too Good",
       "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Every Shade of Blue",
-        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Every Shade of Blue",
-      "url": "https://open.spotify.com/track/57z9G8G9978wYqpdnO8dW8"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "July (Bedroom Session)",
         "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 274830,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Every Shade of Blue",
+      "url": "https://open.spotify.com/track/57z9G8G9978wYqpdnO8dW8"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "No California (Acoustic)",
-        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
       "artists": [
         {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 216058,
-      "name": "No California (Acoustic)",
-      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1703,6 +1687,22 @@
       "duration_ms": 227613,
       "name": "House With No Mirrors",
       "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "No California (Acoustic)",
+        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No California (Acoustic)",
+      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+      "duration_ms": 174146,
+      "name": "Safeword",
+      "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Safeword",
-      "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2197,22 +2197,6 @@
       "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
     },
     {
-      "added_at": "2026-03-13 14:52:14",
-      "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 253575,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob"
-    },
-    {
       "added_at": "2026-01-26 17:23:55",
       "album": {
         "name": "Wild Honey (Acoustic)",
@@ -2227,6 +2211,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2026-03-13 14:52:14",
+      "album": {
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 253575,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "German Cars",
         "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 236133,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 184228,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 184228,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -2591,38 +2607,6 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "The Weather (acoustic-ish & Gospel Reprise)",
-        "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "The Weather (acoustic-ish)",
-      "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2659,18 +2643,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Collected Works, Pt. 1",
-        "url": "https://open.spotify.com/album/7FLJhAH5zqpDyo5558LTs1"
+        "name": "The Weather (acoustic-ish & Gospel Reprise)",
+        "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
       },
       "artists": [
         {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z"
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 270272,
-      "name": "Living Breathing",
-      "url": "https://open.spotify.com/track/1LrDEp7vTkzj1sbrhwGs0Q"
+      "duration_ms": 190500,
+      "name": "The Weather (acoustic-ish)",
+      "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2687,6 +2671,22 @@
       "duration_ms": 205266,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Collected Works, Pt. 1",
+        "url": "https://open.spotify.com/album/7FLJhAH5zqpDyo5558LTs1"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z"
+        }
+      ],
+      "duration_ms": 270272,
+      "name": "Living Breathing",
+      "url": "https://open.spotify.com/track/1LrDEp7vTkzj1sbrhwGs0Q"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Yours in the Morning",
-        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 214919,
-      "name": "Yours in the Morning",
-      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Fool For Waiting",
         "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 243200,
       "name": "Fool For Waiting",
       "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Yours in the Morning",
+        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 214919,
+      "name": "Yours in the Morning",
+      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Altogether Unaccompanied, Vol. V",
-        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 305185,
-      "name": "Bigger Pieces",
-      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 305185,
+      "name": "Bigger Pieces",
+      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
     },
     {
       "added_at": "2026-01-26 17:23:55",

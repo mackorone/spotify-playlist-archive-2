@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Deliver Us",
+        "url": "https://open.spotify.com/album/4LYVyDDjlgHwtLYtgzgGhM"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335411,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/0uL61cbO5vQ6hA5IXH6PMd"
+    },
+    {
+      "album": {
         "name": "Tribl Nights Anthologies",
         "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
       },
@@ -1472,7 +1494,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 180784,
       "name": "I Shall Praise - Live",
       "url": "https://open.spotify.com/track/1ApLJEbcGPgBFOV4qhwC7K"

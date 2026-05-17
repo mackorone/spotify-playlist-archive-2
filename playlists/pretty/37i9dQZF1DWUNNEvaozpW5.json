@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Ultraligera.",
-  "num_followers": 615101,
+  "num_followers": 615130,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEx0WMTvmTFU/sAYSYRe8s6Ht1q3",
+  "snapshot_id": "AAAAAEV2xyXpG9dIYxf8JNEGcNIXi+hS",
   "tracks": [
     {
       "added_at": "2026-05-07 22:01:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "COWBOYS DE LA A3",
         "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 229876,
       "name": "Los Perros",
       "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Si Te Pones de Mi Parte",
-        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 319218,
-      "name": "Si Te Pones de Mi Parte",
-      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+        "name": "Si Te Pones de Mi Parte",
+        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
       },
       "artists": [
         {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+      "duration_ms": 319218,
+      "name": "Si Te Pones de Mi Parte",
+      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1175,6 +1159,22 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "No creo en Dios",
         "url": "https://open.spotify.com/album/4FtSAiTBNy554mHZniF0Se"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 244781,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/1VZKxaYZxp8ZeKoxvGWVKF"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Canciones chulas",
-        "url": "https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW"
-      },
-      "artists": [
-        {
-          "name": "Los Enemigos",
-          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Canciones chulas",
-      "url": "https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 329491,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Canciones chulas",
+        "url": "https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Canciones chulas",
+      "url": "https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "Las 101 canciones - Cinco d\u00e9cadas de Pop Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Pienso en Aquella Tarde",
+      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "A Contracorriente",
-      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "30 a\u00f1os de musica en TVE. 1980-2010",
         "url": "https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "A Contracorriente",
+      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

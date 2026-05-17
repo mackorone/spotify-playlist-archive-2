@@ -744,10 +744,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 141841,
       "name": "Don't Even Know Your Name",
       "url": "https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY"
+    },
+    {
+      "album": {
+        "name": "Don't Even Know Your Name",
+        "url": "https://open.spotify.com/album/0DOaI2o4EJgG6Yszs6Ki8J"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141842,
+      "name": "Don't Even Know Your Name",
+      "url": "https://open.spotify.com/track/6s3OlLs8Ey8LCol4xaDb6R"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Celebrating all that is Eurovision over 70 years, this collection spotlights 2026 participants plus winners across the decades of the beloved and spectacularly enduring song contest. ",
-  "num_followers": 111887,
+  "num_followers": 111868,
   "original_name": "Eurovision at 70: 2026",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAarjPt66a2NfTgMIOpyMKgRSfEZDP7",
+  "snapshot_id": "AAAasAiuVyMb34R28YwpUtzVSvhjFP5T",
   "tracks": [
+    {
+      "added_at": "2026-05-16 23:32:04",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
     {
       "added_at": "2026-05-01 20:27:22",
       "album": {

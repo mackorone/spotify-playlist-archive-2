@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
 352 songs - 1 day 6 hr 40 min
 
@@ -12,7 +12,7 @@
 | [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 | 2025-06-03 | 2026-04-03 |
 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 | 2023-12-14 | 2025-11-08 |
 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Ai Cho Tôi Tình Yêu](https://open.spotify.com/album/6nuh0xhKDgghXctszWjefR) | 5:42 | 2026-03-01 | 2026-05-14 |
-| [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 |  |
+| [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 | 2026-05-17 |
 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 | 2024-01-05 | 2024-02-22 |
 | [Buc Tam Thu](https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 3:40 | 2024-03-12 | 2025-10-29 |
 | [Bài Ca Của Nàng](https://open.spotify.com/track/5hFR51zySvPMBRMNxiV6gQ) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Bài Ca Của Nàng](https://open.spotify.com/album/2kSVRv41pSQyIsS7VhTGYR) | 4:50 | 2025-05-02 | 2026-02-10 |
@@ -97,7 +97,7 @@
 | [Hoa No Ve Dem](https://open.spotify.com/track/2Pln9OJ1flDAG4EpYsRbvz) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 4:43 | 2024-05-27 | 2024-08-02 |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/14VmqyYNTn1fGtS2JiUCV7) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:45 | 2024-03-12 | 2024-06-07 |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/1bFwg8WMoDOtJ5qcFTgNC0) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Hình Ảnh Người Em Không Đợi](https://open.spotify.com/album/3tuuIOATJvx0kSJkUWy5pA) | 6:45 | 2024-02-09 | 2024-04-19 |
-| [Hoa Nở Về Đêm](https://open.spotify.com/track/5TEBDblDZI2DZl7tJzDHma) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:34 | 2025-05-23 | 2026-05-16 |
+| [Hoa Nở Về Đêm](https://open.spotify.com/track/5TEBDblDZI2DZl7tJzDHma) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:34 | 2025-05-23 |  |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/2Pn2zT0OI1Vx8gaDkMZJR4) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Tuyển Chọn Những Ca Khúc Trữ Tình Bolero Hay Nhất \- Cánh Thiệp Đầu Xuân](https://open.spotify.com/album/5CvGBwqvzb6quK2gb79sX7) | 5:52 | 2022-03-11 | 2022-07-28 |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chiều Cuối Tuần](https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8) | 5:54 | 2022-03-11 | 2024-04-19 |
 | [Hoa Su Nha Nang](https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Hoa Su Nha Nang](https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J) | 4:25 | 2022-03-11 | 2025-11-03 |

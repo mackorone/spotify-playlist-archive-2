@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAqdT78gQmr0Jdh599aEPxZ",
+  "snapshot_id": "agZiAAAAAACArOweuZ691slasFKzesLQ",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+        "name": "Od\u00f9",
+        "url": "https://open.spotify.com/album/7JKwYd8flm40rVT6vBkV5O"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 464549,
-      "name": "Chief George Oyedele",
-      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+      "duration_ms": 362289,
+      "name": "Easy Motion Tourist",
+      "url": "https://open.spotify.com/track/5yHTv77ECb71F1iZgWqR5c"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 464549,
+      "name": "Chief George Oyedele",
+      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Degrees North",
         "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 540106,
       "name": "Ariya",
       "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Od\u00f9",
-        "url": "https://open.spotify.com/album/7JKwYd8flm40rVT6vBkV5O"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 362289,
-      "name": "Easy Motion Tourist",
-      "url": "https://open.spotify.com/track/5yHTv77ECb71F1iZgWqR5c"
     },
     {
       "added_at": null,

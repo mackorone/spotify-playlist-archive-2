@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8712,
+  "num_followers": 8715,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAA1NuMMLD7ZR/eSOmsEcYzE",
+  "snapshot_id": "agZiAAAAAAD/Q55fwu2MqLviWXu9K3Qw",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 309145,
       "name": "Darkest (Dim)",
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
@@ -496,13 +496,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Love That Never - IMANU Remix",
-      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+      "duration_ms": 183333,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
     },
     {
       "added_at": null,
@@ -547,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
       "artists": [
         {
@@ -556,17 +560,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "KRANE",
-          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kiya Lacey",
-          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
         }
       ],
-      "duration_ms": 211764,
-      "name": "Heart on the Ground",
-      "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kiya Lacey",
+          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
         }
       ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
+      "duration_ms": 211764,
+      "name": "Heart on the Ground",
+      "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
     },
     {
       "added_at": null,

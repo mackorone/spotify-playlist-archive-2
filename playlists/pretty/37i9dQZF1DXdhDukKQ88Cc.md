@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Cizzo Europa Favela 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,581 likes - 36 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,563 likes - 36 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

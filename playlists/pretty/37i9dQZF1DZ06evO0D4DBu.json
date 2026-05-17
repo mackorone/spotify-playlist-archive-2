@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211154,
+  "num_followers": 211161,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACWTdSMhaWv0cDi9gjbQ7nC",
+  "snapshot_id": "agZiAAAAAAAEHZ+WPGorym6mcR7ZDjCX",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy (Acoustic)",
         "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 205815,
       "name": "Holy - Acoustic",
       "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
     },
     {
       "added_at": null,
@@ -400,17 +400,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Towkio",
-          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
         }
       ],
-      "duration_ms": 219683,
-      "name": "Juke Jam (feat. Justin Bieber & Towkio)",
-      "url": "https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi"
+      "duration_ms": 203794,
+      "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
+      "url": "https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ"
     },
     {
       "added_at": null,
@@ -480,17 +480,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Chicago Children's Choir",
-          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+          "name": "Towkio",
+          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
         }
       ],
-      "duration_ms": 203794,
-      "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
-      "url": "https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ"
+      "duration_ms": 219683,
+      "name": "Juke Jam (feat. Justin Bieber & Towkio)",
+      "url": "https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi"
     },
     {
       "added_at": null,
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
         }
       ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
+      "duration_ms": 172309,
+      "name": "Drapetomania (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
     },
     {
       "added_at": null,
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
         }
       ],
-      "duration_ms": 172309,
-      "name": "Drapetomania (feat. BabyChiefDoit)",
-      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,

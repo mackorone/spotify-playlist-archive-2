@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: corto.alto
 
-811 songs - 2 day 8 hr 27 min
+812 songs - 2 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2021-12-17 | 2022-07-08 |
 | [So Mi Stay](https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [So Mi Stay](https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n) | 4:23 | 2023-11-24 | 2024-09-13 |
 | [Soar](https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Soar](https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu) | 2:34 | 2024-02-02 | 2024-04-13 |
+| [Soften](https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Soften](https://open.spotify.com/album/0bDHHs74NH4n7Ta8TwfzlP) | 4:11 | 2026-05-14 |  |
 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 | 2026-05-14 |  |
 | [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 | 2025-08-07 |  |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |
@@ -796,7 +797,7 @@
 | [Why Are You?](https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Why Are You](https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5) | 3:07 | 2024-10-24 | 2025-07-20 |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-03-07 | 2026-04-03 |
 | [Widening Circles \- Regrown](https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Earth](https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz) | 4:41 | 2024-06-14 | 2024-07-01 |
-| [Windshelter](https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Windshelter](https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP) | 4:43 | 2025-09-23 |  |
+| [Windshelter](https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Windshelter](https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP) | 4:43 | 2025-09-23 | 2026-05-17 |
 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 | 2025-01-17 | 2026-04-03 |
 | [Winter Sun](https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Winter Sun](https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv) | 3:59 | 2023-01-20 | 2023-03-18 |
 | [Wish You the Best](https://open.spotify.com/track/5qm6wyQXDPnEUWM3LAIIkR) | [BRAVE JAMES](https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Wish You the Best](https://open.spotify.com/album/1bOb9XYlOOesWwEEH2DhHq) | 3:23 | 2023-02-17 | 2023-03-05 |

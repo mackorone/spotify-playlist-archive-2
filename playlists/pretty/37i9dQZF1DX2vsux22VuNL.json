@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291065,
+  "num_followers": 291060,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+        "name": "PAZ",
+        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
         },
         {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+      "duration_ms": 239557,
+      "name": "PAZ",
+      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1103,26 +1107,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "PAZ",
-        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
       "artists": [
         {
-          "name": "Pez\u00e3o",
-          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         },
         {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
         }
       ],
-      "duration_ms": 239557,
-      "name": "PAZ",
-      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2026-02-23 14:14:13",

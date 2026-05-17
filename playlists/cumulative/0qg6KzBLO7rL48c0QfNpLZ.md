@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,483 songs - 2 day 17 hr 44 min
+1,484 songs - 2 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,6 +1321,7 @@
 | [Think Of You](https://open.spotify.com/track/1GeErNU963DhkK2hqvbCwB) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Think Of You](https://open.spotify.com/album/29UeSRbflXTItUqTKO5QZs) | 2:30 | 2024-01-18 | 2024-09-15 |
 | [Thinkin' about you](https://open.spotify.com/track/6Jrb6nUbpsMrIjYJ2pnRlG) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Thinkin' about you](https://open.spotify.com/album/058LVPaqkuULNWa9OLRzvG) | 2:19 | 2024-07-26 | 2024-08-31 |
 | [This Is Love](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [This Is Love](https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS) | 3:36 | 2024-03-15 | 2024-04-15 |
+| [Those Eyes](https://open.spotify.com/track/6Kaoa8OVX9BgPGqdPI6pcq) | [rivve](https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Those Eyes](https://open.spotify.com/album/1KZb79nG2EG3duHzkwyi4I) | 2:39 | 2026-05-16 |  |
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 | 2024-09-15 |
 | [Through It All](https://open.spotify.com/track/3kw1HMWR0E8gTKcOIlk8BF) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Through It All](https://open.spotify.com/album/5FYWbWR2pI5hof819TJbu4) | 3:02 | 2025-04-04 | 2025-05-10 |
 | [Thunder](https://open.spotify.com/track/3OOSCaSLkMEVekUUtuaMgD) | [LEVII](https://open.spotify.com/artist/74gYSnr96ktD8abXLhBhXk), [Nethy Aber](https://open.spotify.com/artist/4tqEIuplzwTXtKp9jnvZ3O) | [Thunder](https://open.spotify.com/album/41AkcmrfAKaZuwTMSEYmdF) | 3:13 | 2024-08-02 | 2024-08-31 |

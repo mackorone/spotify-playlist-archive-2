@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2880,
+  "num_followers": 2881,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAfnB1JC2gKICATxuJYEw/I",
+  "snapshot_id": "agZiAAAAAADLHgiIRcw1DTDQ3x1aQp+t",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 134903,
+      "name": "Nuestra Historia",
+      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 206067,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 134903,
-      "name": "Nuestra Historia",
-      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Banda",
-        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
         "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 168746,
       "name": "El se\u00f1or de las canas",
       "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Banda",
+        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Lo Mejor Desde Durango",
-        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Si la Ves",
-      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
+      "duration_ms": 171720,
+      "name": "Zapatos viejos",
+      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+        "name": "Lo Mejor de Lo Mejor Desde Durango",
+        "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 171720,
-      "name": "Zapatos viejos",
-      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
+      "duration_ms": 252866,
+      "name": "Si la Ves",
+      "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
     },
     {
       "added_at": null,

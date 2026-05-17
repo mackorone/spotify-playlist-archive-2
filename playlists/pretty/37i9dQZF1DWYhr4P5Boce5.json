@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209870,
+  "num_followers": 209871,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
+        "name": "More To This Life",
+        "url": "https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "I Will Be Here",
+      "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 172702,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "More To This Life",
-        "url": "https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "I Will Be Here",
-      "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "PASSIONATE",
+        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "PASSIONATE",
+      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1231,22 +1247,6 @@
       "duration_ms": 216446,
       "name": "SHOW ME LOVE AGAIN",
       "url": "https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "PASSIONATE",
-        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "PASSIONATE",
-      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "Capuchino de Amor",
         "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
+        "name": "Without The Risk",
+        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 223518,
+      "name": "Without The Risk",
+      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "Without The Risk",
-        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 223518,
-      "name": "Without The Risk",
-      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 222868,
       "name": "Holding On to You - Single Version",
       "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "Made In Heaven Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/68b8pjMbSWisa3rUrf0DO7"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Made In Heaven Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/2EKGFtmVUOSdkWss5fXAJR"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "Breathe Life",
         "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
         "name": "Let Me Be There",
         "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 185095,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "Made In Heaven Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/68b8pjMbSWisa3rUrf0DO7"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Made In Heaven Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/2EKGFtmVUOSdkWss5fXAJR"
     },
     {
       "added_at": "2026-03-23 15:10:16",

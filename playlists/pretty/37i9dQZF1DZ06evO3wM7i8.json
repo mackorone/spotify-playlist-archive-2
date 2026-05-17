@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36193,
+  "num_followers": 36198,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAC7cO4s1pE+phAdY1ouxvpv",
+  "snapshot_id": "agZiAAAAAABBDOzzLBM/8HwApH87kLhF",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -231,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 177015,
       "name": "Billets Doux",
       "url": "https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Django Reinhardt",
-        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
-      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 171106,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Django Reinhardt",
+        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
+      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173161,
       "name": "It Was So Beautiful",
       "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,

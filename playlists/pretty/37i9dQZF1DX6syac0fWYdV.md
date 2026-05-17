@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,526 likes - 280 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,645 likes - 280 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 279 | [Lovely Brooklyn](https://open.spotify.com/track/1iYSUXinyCNb6E2pRzTK9W) | [Chrome Hours](https://open.spotify.com/artist/78YpGUYzh28JlB6RGSDvru) | [Lovely Brooklyn](https://open.spotify.com/album/5h8RxvusZBXnFLE6Zd5jry) | 2:13 |
 | 280 | [Groovetown](https://open.spotify.com/track/70hCRHGt6tbdUig5MRDy95) | [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Groovetown](https://open.spotify.com/album/66AcJwIMZDg4lsKtow7BJr) | 1:57 |
 
-Snapshot ID: `AAAAAMTWFlEAxTeZiqiKrSx9yuasIIz0`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

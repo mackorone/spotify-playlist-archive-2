@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,017 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,030 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
 | 46 | [The Nightmare Man](https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Nightmare Man](https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU) | 3:06 |
 | 47 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
-| 48 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 |
+| 48 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
 | 49 | [WE DONT PLAY](https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [WE DONT PLAY](https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau) | 2:21 |
-| 50 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
+| 50 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 |
 
 Snapshot ID: `AAAAAJJO9AM1QUDfoLja3xuUzmATvb2k`

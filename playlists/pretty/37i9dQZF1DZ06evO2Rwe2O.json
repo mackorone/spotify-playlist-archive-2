@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13072,
+  "num_followers": 13075,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACWnNbr9E+dTHw/yj81qKUz",
+  "snapshot_id": "agZiAAAAAADKkhI0rz4gtMo98rgFwuKH",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+        "name": "Stranger No More",
+        "url": "https://open.spotify.com/album/0DS9botbRJdPSK6JNmclu0"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 277880,
-      "name": "Jesus I Believe",
-      "url": "https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE"
+      "duration_ms": 223765,
+      "name": "Stranger No More",
+      "url": "https://open.spotify.com/track/2XYTPC9zVV8AcukTR8W8jJ"
     },
     {
       "added_at": null,
@@ -239,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger No More",
-        "url": "https://open.spotify.com/album/0DS9botbRJdPSK6JNmclu0"
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 223765,
-      "name": "Stranger No More",
-      "url": "https://open.spotify.com/track/2XYTPC9zVV8AcukTR8W8jJ"
+      "duration_ms": 277880,
+      "name": "Jesus I Believe",
+      "url": "https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 268018,
-      "name": "Your Love Changes Everything",
-      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+      "duration_ms": 222266,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
+      "duration_ms": 232453,
+      "name": "If You Died Tonight",
+      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "If You Died Tonight",
-      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Life Would Be Like",
         "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Fields of Grace",
+      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 265600,
       "name": "You're Worthy Of My Praise",
       "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Fields of Grace",
-      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "In Christ",
-      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 193760,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What I Was Made For",
         "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222960,
       "name": "Just the Way I Am",
       "url": "https://open.spotify.com/track/1JiJzQfqyEfXFIgFpopxAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,

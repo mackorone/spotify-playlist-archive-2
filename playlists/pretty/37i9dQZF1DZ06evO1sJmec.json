@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2112733,
+  "num_followers": 2112905,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAB1bnUQtloRPM/R6qhN201F",
+  "snapshot_id": "agZiAAAAAAB863KVTG9at9yWbEX18iSI",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 432546,
       "name": "The Four Horsemen - Remastered",
       "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": null,

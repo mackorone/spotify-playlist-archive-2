@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
-  "num_followers": 189973,
+  "num_followers": 190025,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 189677,
       "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
         "name": "Lord I'm Amazed",
         "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
       },
@@ -323,26 +303,6 @@
       "duration_ms": 146776,
       "name": "Lord I'm Amazed",
       "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -367,6 +327,46 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -467,6 +447,26 @@
       "duration_ms": 235102,
       "name": "Last Week",
       "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -771,6 +771,30 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
+        "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
+        "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Oku",
+      "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
         "name": "Everlasting Taker",
         "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
       },
@@ -807,6 +831,22 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -823,22 +863,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -1051,6 +1075,42 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
+        "name": "AFRIKA MAGIK",
+        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 196471,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
+    },
+    {
+      "added_at": "2026-05-15 00:01:10",
+      "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
@@ -1075,42 +1135,6 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "AFRIKA MAGIK",
-        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 196471,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
         "name": "Forever (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
@@ -1131,26 +1155,22 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
-        "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
-        "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
+        "name": "Di Maria",
+        "url": "https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH"
       },
       "artists": [
         {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+          "name": "AKIM PAPICHULO",
+          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
         },
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Oku",
-      "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
+      "duration_ms": 174545,
+      "name": "Di Maria",
+      "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -1211,26 +1231,6 @@
       "duration_ms": 178866,
       "name": "I DONT CARE",
       "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
-    },
-    {
-      "added_at": "2026-05-15 00:01:10",
-      "album": {
-        "name": "Di Maria",
-        "url": "https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH"
-      },
-      "artists": [
-        {
-          "name": "AKIM PAPICHULO",
-          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
-        },
-        {
-          "name": "Ameka Zrai",
-          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Di Maria",
-      "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
     },
     {
       "added_at": "2026-05-15 00:01:10",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2026-05-15 00:01:10",
       "album": {
-        "name": "Nzogbu",
-        "url": "https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1"
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
       },
       "artists": [
         {
-          "name": "Zoro Swagbag",
-          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Nzogbu",
-      "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
+      "duration_ms": 127612,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
     }
   ],
   "unique_name": "Afro Bars ",

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94091,
+  "num_followers": 94105,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADDuaF8plDiOwZljLdZgKSG",
+  "snapshot_id": "agZiAAAAAAAmhajR/TRGX14umPLCmXkZ",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Berlijn",
-        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 277053,
-      "name": "Meer Kan Het Niet Zijn",
-      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
     },
     {
       "added_at": null,
@@ -643,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+        "name": "Radio Berlijn",
+        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
+      "duration_ms": 277053,
+      "name": "Meer Kan Het Niet Zijn",
+      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Monsters Slapen Nooit",
-      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
+      "duration_ms": 210883,
+      "name": "Midzomernacht",
+      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 210883,
-      "name": "Midzomernacht",
-      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
+      "duration_ms": 232840,
+      "name": "Monsters Slapen Nooit",
+      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live op Concert at SEA 2015",
-        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
-      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We doen wat we kunnen (feat. Geike)",
         "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 240562,
       "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
       "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live op Concert at SEA 2015",
+        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
+      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
     },
     {
       "added_at": null,

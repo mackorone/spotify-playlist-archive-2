@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACSBC7NhETEplfhpUqV5WSk",
+  "snapshot_id": "agZiAAAAAACtK5yFXNZPvKIiETJIDwb0",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DTF (Different Type Freak)",
         "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 206226,
       "name": "DTF (Different Type Freak)",
       "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 168997,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
@@ -647,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "FYT (Fuckin you tonight)",
+        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 124000,
-      "name": "2 Tone",
-      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
+      "duration_ms": 254915,
+      "name": "FYT (Fuckin you tonight)",
+      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FYT (Fuckin you tonight)",
-        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 254915,
-      "name": "FYT (Fuckin you tonight)",
-      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure (Pt. 1)",
         "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 116288,
       "name": "Record Straight",
       "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "To The Money - feat. Lakeyah",
+      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
     },
     {
       "added_at": null,
@@ -775,26 +795,6 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridge Kard Blessings",
-        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "To The Money - feat. Lakeyah",
-      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
     },
     {
       "added_at": null,

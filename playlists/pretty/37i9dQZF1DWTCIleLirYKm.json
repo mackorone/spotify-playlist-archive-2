@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Ryan Bingham",
-  "num_followers": 216418,
+  "num_followers": 216570,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2026-05-15 04:01:27",
+      "album": {
         "name": "Top Hat Crown & the Clapmaster's Son",
         "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 214866,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
-    },
-    {
-      "added_at": "2026-05-15 04:01:27",
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
     },
     {
       "added_at": "2026-05-15 04:01:27",

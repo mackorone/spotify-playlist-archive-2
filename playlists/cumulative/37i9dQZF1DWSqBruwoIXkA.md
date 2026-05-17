@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Asha Banks
 
-1,051 songs - 2 day 9 hr 50 min
+1,052 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [happier without you](https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC) | 3:06 | 2024-07-12 | 2024-08-11 |
 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 | 2021-12-17 | 2022-01-22 |
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2023-08-18 | 2023-09-22 |
+| [Happy Again](https://open.spotify.com/track/65v5jCRK3Pgac5GSlIRbzx) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Happy Again](https://open.spotify.com/album/6FWbNITIxlsMMbYKY0Rf4X) | 2:55 | 2026-05-15 |  |
 | [Happy Ever After](https://open.spotify.com/track/4PbUHeQucvx6RvlhRkMJII) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Happy Ever After](https://open.spotify.com/album/6LK0kNhlz19MhiTuxWkOIl) | 3:20 | 2024-10-04 | 2024-12-07 |
 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 | 2022-02-25 | 2022-03-13 |
 | [HAUNTED](https://open.spotify.com/track/66mdyICh5dlCRwji650pcp) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [HAUNTED](https://open.spotify.com/album/7LIhIdxDpoVeEgFvYWhC0G) | 3:38 | 2022-10-28 | 2022-11-13 |
@@ -1039,7 +1040,7 @@
 | [You](https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [You](https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA) | 3:28 | 2025-05-09 | 2025-07-26 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 | 2026-01-24 |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-12 | 2024-04-19 |
-| [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 |  |
+| [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 | 2026-05-17 |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 | 2023-10-14 |
 | [You Don’t](https://open.spotify.com/track/4wxBy0t4F83qVAiHahe6kW) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [You Don’t](https://open.spotify.com/album/35cLRFjBHzSSAEKyacty64) | 3:43 | 2024-04-19 | 2024-04-27 |
 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 | 2022-06-21 | 2022-10-22 |

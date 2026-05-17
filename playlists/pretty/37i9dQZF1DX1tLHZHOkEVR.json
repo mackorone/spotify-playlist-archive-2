@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 362426,
+  "num_followers": 362515,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280586,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-03-18 17:00:39",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "Saturday Night Fever [The Original Movie Soundtrack]",
         "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 285373,
       "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
       "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
     },
     {
       "added_at": "2024-03-18 17:00:39",

@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2180533,
+  "num_followers": 2180826,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Champagne & Sunshine",
         "url": "https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 196363,
       "name": "Champagne & Sunshine",
       "url": "https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1529,6 +1529,22 @@
       "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "touchin\u2019 me",
+        "url": "https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 149617,
+      "name": "touchin\u2019 me",
+      "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
+    },
+    {
       "added_at": "2026-01-09 05:00:48",
       "album": {
         "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
@@ -1549,22 +1565,6 @@
       "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "touchin\u2019 me",
-        "url": "https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 149617,
-      "name": "touchin\u2019 me",
-      "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
-    },
-    {
       "added_at": "2026-04-17 04:01:21",
       "album": {
         "name": "BEAUTY QUEEN",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
       "added_at": "2026-04-24 04:00:54",
       "album": {
         "name": "Bad 4 Me",
@@ -1611,6 +1595,22 @@
       "duration_ms": 143529,
       "name": "Bad 4 Me",
       "url": "https://open.spotify.com/track/77M91bANCutKuN5JoTB6hU"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2026-04-03 04:02:31",

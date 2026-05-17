@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 854016,
+  "num_followers": 854094,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADw7eDb30W0Ftic6uDLdV1R",
+  "snapshot_id": "agZiAAAAAAAndGNyUNXPHwxyeKOAeXIg",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 3 Torres",
         "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202579,
       "name": "Pienso en Ella",
       "url": "https://open.spotify.com/track/79fkYjEJlscHdgAtYWYfUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
     },
     {
       "added_at": null,

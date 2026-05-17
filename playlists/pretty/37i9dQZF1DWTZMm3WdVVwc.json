@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27372,
+  "num_followers": 27369,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+        "url": "https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 292960,
+      "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+      "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NO SIDE",
@@ -695,22 +711,6 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
-        "url": "https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm"
-      },
-      "artists": [
-        {
-          "name": "Original Love",
-          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
-      "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u6708\u306b\u5420\u3048\u308b",
-        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 265803,
-      "name": "\u6708\u306b\u5420\u3048\u308b",
-      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Shout Out to Jesus",
@@ -835,6 +819,22 @@
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 265803,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "bestie",
-        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 259903,
-      "name": "bestie",
-      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Focus",
@@ -975,6 +959,22 @@
       "duration_ms": 257911,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
-      },
-      "artists": [
-        {
-          "name": "clammbon",
-          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Folklore",
-      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -1331,6 +1315,22 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
+      },
+      "artists": [
+        {
+          "name": "clammbon",
+          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Folklore",
+      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 261865,
-      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u51ac\u306e\u4e88\u611f",
@@ -1583,6 +1567,22 @@
       "duration_ms": 201462,
       "name": "\u51ac\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 261865,
+      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-12-19 02:48:54",
-      "album": {
-        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
-      },
-      "artists": [
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
-        }
-      ],
-      "duration_ms": 218622,
-      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u51ac\u82b1\u706b\u2013EP",
@@ -1631,6 +1615,22 @@
       "duration_ms": 188080,
       "name": "\u51ac\u82b1\u2f55",
       "url": "https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv"
+    },
+    {
+      "added_at": "2025-12-19 02:48:54",
+      "album": {
+        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
+        }
+      ],
+      "duration_ms": 218622,
+      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
     },
     {
       "added_at": "2025-03-11 22:40:18",

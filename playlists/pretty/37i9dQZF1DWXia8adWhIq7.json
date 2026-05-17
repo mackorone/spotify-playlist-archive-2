@@ -155,8 +155,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
+        "name": "Entre Milh\u00f5es",
+        "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
       "artists": [
         {
@@ -164,17 +164,13 @@
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         },
         {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
+          "name": "Margem Norte",
+          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
         }
       ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+      "duration_ms": 251000,
+      "name": "Entre Milh\u00f5es",
+      "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -255,8 +251,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Entre Milh\u00f5es",
-        "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
       },
       "artists": [
         {
@@ -264,13 +260,17 @@
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         },
         {
-          "name": "Margem Norte",
-          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Entre Milh\u00f5es",
-      "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -647,22 +647,18 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+        "name": "\u00c9 Mais Que Uma Honra",
+        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
       },
       "artists": [
         {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+      "duration_ms": 296058,
+      "name": "\u00c9 Mais Que Uma Honra",
+      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -683,18 +679,22 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "\u00c9 Mais Que Uma Honra",
-        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
       "artists": [
         {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
         }
       ],
-      "duration_ms": 296058,
-      "name": "\u00c9 Mais Que Uma Honra",
-      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2026-04-10 17:16:27",

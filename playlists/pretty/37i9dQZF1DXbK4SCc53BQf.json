@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107448,
+  "num_followers": 107458,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Perdi La Cuenta",
-        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Perdi La Cuenta",
-      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Bajo la Luna",
         "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 229040,
       "name": "Bajo la Luna",
       "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Perdi La Cuenta",
+        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Perdi La Cuenta",
+      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
-      },
-      "artists": [
-        {
-          "name": "Tommy Bueno",
-          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Entre Familia",
         "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Esencia (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Tommy Bueno",
+          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
         }
       ],
-      "duration_ms": 267769,
-      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+      "duration_ms": 179000,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Esencia (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 267769,
+      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Abr\u00e1zame M\u00e1s",
         "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "CARTAGENA",
         "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
+        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Todo Y Nada - En Vivo",
+      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Lleg\u00f3 el Culto (Remix)",
         "url": "https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 196173,
       "name": "Lleg\u00f3 el Culto - Remix",
       "url": "https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
-        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Todo Y Nada - En Vivo",
-      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "NAZARENO",
-        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
-      },
-      "artists": [
-        {
-          "name": "Chris Paradise",
-          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
-        }
-      ],
-      "duration_ms": 270807,
-      "name": "NAZARENO",
-      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+      },
+      "artists": [
+        {
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+        }
+      ],
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Bendita Prueba",
+      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Por Mucho Tiempo",
         "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 182772,
       "name": "Por Mucho Tiempo",
       "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "Bendita Prueba",
-      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Corro a Ti",
-        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Corro a Ti",
-      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Jord\u00e1n",
         "url": "https://open.spotify.com/album/2yssQpHuCOiNCHlQhKF880"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 262434,
       "name": "Jord\u00e1n",
       "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Corro a Ti",
+        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Corro a Ti",
+      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
     },
     {
       "added_at": "2026-04-25 03:03:53",

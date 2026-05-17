@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 158781,
+  "num_followers": 158910,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Volodos Plays Brahms",
-        "url": "https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 378733,
-      "name": "Sechs Klavierst\u00fccke, Op. 118: II. Intermezzo in A Major",
-      "url": "https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 330840,
       "name": "Suite bergamasque, CD 82: III. Clair de lune",
       "url": "https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Volodos Plays Brahms",
+        "url": "https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "Sechs Klavierst\u00fccke, Op. 118: II. Intermezzo in A Major",
+      "url": "https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Silvestrov: Bagatellen und Serenaden",
-        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Stille Musik: III. Augenblicke der Serenade",
-      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Faur\u00e9: Piano Music",
         "url": "https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 165000,
       "name": "3 Romances sans paroles, Op. 17: No. 3 in A-Flat Major. Andante moderato",
       "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Silvestrov: Bagatellen und Serenaden",
+        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Stille Musik: III. Augenblicke der Serenade",
+      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -1107,6 +1107,38 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
+        "name": "New Seasons - H\u00e4ndel f\u00fcr Oboe und Orchester",
+        "url": "https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
         "name": "Mendelssohn",
         "url": "https://open.spotify.com/album/4pMOwsoOofoDRzAUSkuQXr"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 103600,
       "name": "A Little Book of Hours: VI. Singing Sun",
       "url": "https://open.spotify.com/track/06vaPTVwFkFxCzmJDXlfx5"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
-        "name": "New Seasons - H\u00e4ndel f\u00fcr Oboe und Orchester",
-        "url": "https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Albrecht Mayer",
-          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
-        },
-        {
-          "name": "Sinfonia Varsovia",
-          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
-        },
-        {
-          "name": "Jakub Haufa",
-          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
-        },
-        {
-          "name": "Monika Razynska",
-          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
-      "url": "https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+      },
+      "artists": [
+        {
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
         "name": "Hummel - Weber - Mendelssohn",
         "url": "https://open.spotify.com/album/3wGZgzMRdcYtItW45U51OR"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 150321,
       "name": "Capriccio brillant, Op. 22: Andante",
       "url": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
-      },
-      "artists": [
-        {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
-        }
-      ],
-      "duration_ms": 172758,
-      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 206157,
       "name": "Memories of a Promenade II",
       "url": "https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        }
+      ],
+      "duration_ms": 172758,
+      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Luna (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/65duo4K62WgsV073y3eyff"
+        "name": "Remember Me (Arr. Hough for Piano) [From \"Coco\"]",
+        "url": "https://open.spotify.com/album/6IRI0CJjAauUSsN0gGZ9iv"
       },
       "artists": [
         {
-          "name": "Eunike Tanzil",
-          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Luna - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0I2Fegjk223n6R9m1Utd25"
+      "duration_ms": 167666,
+      "name": "Remember Me (Arr. Hough for Piano) - From \"Coco\"",
+      "url": "https://open.spotify.com/track/0qjBaywnLtQCiZ60AFsC5i"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2475,18 +2475,18 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Remember Me (Arr. Hough for Piano) [From \"Coco\"]",
-        "url": "https://open.spotify.com/album/6IRI0CJjAauUSsN0gGZ9iv"
+        "name": "Luna (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/65duo4K62WgsV073y3eyff"
       },
       "artists": [
         {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
         }
       ],
-      "duration_ms": 167666,
-      "name": "Remember Me (Arr. Hough for Piano) - From \"Coco\"",
-      "url": "https://open.spotify.com/track/0qjBaywnLtQCiZ60AFsC5i"
+      "duration_ms": 222586,
+      "name": "Luna - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0I2Fegjk223n6R9m1Utd25"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 220149,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/6xvYKwgflLoK9ScVi94YQb"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Schumann : Piano works",
         "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 125466,
       "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
       "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 220149,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6xvYKwgflLoK9ScVi94YQb"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -3387,26 +3387,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Sibelius",
-        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 97852,
-      "name": "13 Pieces for Piano, Op. 76: Elegiaco, No. 10",
-      "url": "https://open.spotify.com/track/1fz5D2xY8W4CUXicAhvG5D"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Icon: Vernon Handley",
         "url": "https://open.spotify.com/album/5YjbLq9Kys1XZo499dQ1mr"
       },
@@ -3431,6 +3411,26 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
+        "name": "Sibelius",
+        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 97852,
+      "name": "13 Pieces for Piano, Op. 76: Elegiaco, No. 10",
+      "url": "https://open.spotify.com/track/1fz5D2xY8W4CUXicAhvG5D"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -3447,30 +3447,6 @@
       "duration_ms": 706693,
       "name": "Fratres (Transc. Osokins for Piano)",
       "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
-        "name": "Fortissima",
-        "url": "https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl"
-      },
-      "artists": [
-        {
-          "name": "Luise Adolpha Le Beau",
-          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
-        },
-        {
-          "name": "Raphaela Gromes",
-          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
-        },
-        {
-          "name": "Julian Riem",
-          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Cello Sonata in D Major, Op. 17: II. Andante tranquillo",
-      "url": "https://open.spotify.com/track/47h1LqaY7KTqI5eYnaLvrz"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -3495,6 +3471,30 @@
       "duration_ms": 272640,
       "name": "Bach / Gounod: Ave Maria (Meditation After Bach's Prelude and Fugue in C Major, BWV 846)",
       "url": "https://open.spotify.com/track/0FzJAAJF3eXhobmluu4OyQ"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Fortissima",
+        "url": "https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl"
+      },
+      "artists": [
+        {
+          "name": "Luise Adolpha Le Beau",
+          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Cello Sonata in D Major, Op. 17: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/47h1LqaY7KTqI5eYnaLvrz"
     },
     {
       "added_at": "2026-02-06 14:08:28",

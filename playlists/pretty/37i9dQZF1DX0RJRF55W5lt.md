@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,971 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,100 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 63 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 64 | [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 |
 | 65 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
-| 66 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
+| 66 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
 | 67 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
-| 68 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
-| 69 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
-| 70 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 68 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
+| 69 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
+| 70 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
 | 71 | [Tell Me It's Real \- Club Asylum Vocal Edit](https://open.spotify.com/track/0JrdX6qQr4r6L3xHsuhuKH) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Kisstory 2014](https://open.spotify.com/album/0REhu6zO4Hovw43GYoTS1M) | 3:35 |
 | 72 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 73 | [Sorry! \(Didn't Know\) \[Original Radio Edit\]](https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN) | 4:10 |

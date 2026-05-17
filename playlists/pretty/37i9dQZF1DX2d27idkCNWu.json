@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260045,
+  "num_followers": 260037,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-05-15 03:00:54",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2026-05-15 03:00:54",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 261973,
       "name": "You Learn - Live / Unplugged",
       "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2026-05-15 03:00:54",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2026-05-15 03:00:54",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-05-15 03:00:54",
       "album": {
+        "name": "Com Calor, Lary (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 151542,
+      "name": "Um Milh\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
+    },
+    {
+      "added_at": "2026-05-15 03:00:54",
+      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2026-05-15 03:00:54",
-      "album": {
-        "name": "Com Calor, Lary (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 151542,
-      "name": "Um Milh\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
     },
     {
       "added_at": "2026-05-15 03:00:54",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2026-05-15 03:00:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+      "duration_ms": 207833,
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
       "added_at": "2026-05-15 03:00:54",
@@ -1439,6 +1439,22 @@
       "duration_ms": 177500,
       "name": "At\u00e9 Envelhecer",
       "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2026-05-15 03:00:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2026-05-15 03:00:54",
@@ -1547,26 +1563,6 @@
       "duration_ms": 191986,
       "name": "Blame It On Me (Acoustic)",
       "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2026-05-15 03:00:54",
-      "album": {
-        "name": "GUPE - PP sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Patching Plants",
-          "url": "https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3"
-        }
-      ],
-      "duration_ms": 222582,
-      "name": "beira - PP sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

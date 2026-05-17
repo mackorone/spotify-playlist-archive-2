@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-506 songs - 1 day 2 hr 51 min
+507 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-03-15 | 2024-05-21 |
 | [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 | 2026-04-03 |  |
 | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/track/0Y9qJSwdV2LvPnFmAbNIc8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/album/5DCRPiPF8kxpfVK4emac4Z) | 2:43 | 2021-10-29 | 2022-03-26 |
-| [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 | 2026-05-15 |  |
+| [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 | 2026-05-15 | 2026-05-17 |
 | [Favour](https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs) | 3:14 | 2026-05-15 |  |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-07 | 2025-04-16 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-09-29 | 2024-03-16 |
@@ -276,6 +276,7 @@
 | [Lifting](https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Lifting](https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg) | 2:51 | 2026-03-09 |  |
 | [Lights On](https://open.spotify.com/track/1dMbhY5hzVJVQGIJY6r5FC) | [Saxity](https://open.spotify.com/artist/1jG8sNQCiRuv1Nz1GiFlax), [BoyBoyBoy](https://open.spotify.com/artist/10V0YVsp2S6F0mGSpD2t0E), [Bonny Lauren](https://open.spotify.com/artist/14C0HynGq0YJsXrQAEclN3) | [Lights On](https://open.spotify.com/album/7dRL1T9Yw89hG6lEc5ZuGJ) | 2:36 | 2021-10-29 | 2022-03-04 |
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-23 | 2025-05-31 |
+| [Like It](https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Like It](https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU) | 4:26 | 2026-05-15 |  |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2023-06-02 | 2023-09-09 |
 | [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 | 2026-05-15 |  |
 | [Little Airplanes](https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Little Airplanes](https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj) | 5:30 | 2022-03-25 | 2022-04-21 |

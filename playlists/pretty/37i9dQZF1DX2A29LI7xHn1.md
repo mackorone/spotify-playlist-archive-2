@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > from your FYP and beyond\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,093,396 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,093,186 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
+| 1 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 |
 | 2 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 3 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 4 | [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 |
 | 5 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
 | 6 | [Shot Callin](https://open.spotify.com/track/4n4tC4qO2LeWQRM9Gbbtop) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:45 |
-| 7 | [Dust](https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:09 |
+| 7 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
 | 8 | [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 |
 | 9 | [Everglades](https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU) | [Everglades](https://open.spotify.com/album/6pErDmXR3rA9dkZr9Fwv0E) | 1:48 |
 | 10 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 11 | [Stranger](https://open.spotify.com/track/593fLceKvKYdySkrBkk0dQ) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [While Y'all Wait](https://open.spotify.com/album/59Q7UtDMOgMRRxXoltnfTw) | 3:15 |
 | 12 | [YAYA \- Remix](https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [YAYA \(Remix\)](https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ) | 3:14 |
-| 13 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 |
-| 14 | [Motion Party](https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Motion Party](https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr) | 1:35 |
-| 15 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
+| 13 | [Motion Party](https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Motion Party](https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr) | 1:35 |
+| 14 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
+| 15 | [Dust](https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:09 |
 | 16 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 |
 | 17 | [WE ON GO](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Extended\)](https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1) | 2:48 |
 | 18 | [Mink](https://open.spotify.com/track/6ORKKQ99mRTIqyysQ6bHnI) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ) | [Mink](https://open.spotify.com/album/1pbRO57p3iyQoFg8gr2tpR) | 1:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 99 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
 | 100 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 
-Snapshot ID: `AAAAAI2OAdIk7NVXds6LcVgXlE1CE93I`
+Snapshot ID: `AAAAACmR+k0tGIPf+NnKODCYxCGo+hSG`

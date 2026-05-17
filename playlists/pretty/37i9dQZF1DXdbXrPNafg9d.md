@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Oxis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,629 likes - 160 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,557 likes - 160 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

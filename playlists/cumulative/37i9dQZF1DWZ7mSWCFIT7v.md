@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-595 songs - 1 day 23 hr 37 min
+596 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Menos](https://open.spotify.com/track/3dh9ldPzzPhLj5MYEPlsik) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Temperatura](https://open.spotify.com/album/5oHvCZtymnTAZyO87Ek0CC) | 5:17 | 2021-10-06 | 2022-07-29 |
 | [Mermaid Dust](https://open.spotify.com/track/3uqqRRbVy9CFyZuh4F3xK7) | [Aux Mirari](https://open.spotify.com/artist/56DOlJ7BgDjliureDLKn7i) | [Mermaid Dust](https://open.spotify.com/album/2X1Zcet8uHbUyVHrbnDuh3) | 4:29 | 2025-03-28 | 2025-10-18 |
 | [Metallic](https://open.spotify.com/track/4YJIcpqPeLdZfK5d2I18gV) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 3:14 | 2021-10-06 | 2025-06-07 |
-| [Metromover](https://open.spotify.com/track/4zsRkhaTIhJCVi4F70vW3x) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Jonny From Space](https://open.spotify.com/artist/6DDMnrPzjH1gAFHh07YkLn) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 2:56 | 2025-09-05 |  |
+| [Metromover](https://open.spotify.com/track/4zsRkhaTIhJCVi4F70vW3x) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Jonny From Space](https://open.spotify.com/artist/6DDMnrPzjH1gAFHh07YkLn) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 2:56 | 2025-09-05 | 2026-05-17 |
 | [Middle Life](https://open.spotify.com/track/0lDFIQ79JSrzEv8WiWuHBJ) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 1:37 | 2021-10-06 | 2025-07-17 |
 | [Middle Life](https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR) | 1:37 | 2021-10-06 | 2024-04-19 |
 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 | 2021-10-06 | 2025-07-17 |
@@ -595,6 +595,7 @@
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2021-10-06 | 2025-06-07 |
 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-06 | 2024-04-19 |
 | [Zero](https://open.spotify.com/track/3HEy3iRI7Z5yb4G7cJp1Ii) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Zero](https://open.spotify.com/album/7aCYZPFnKoO8R4YNutJl1e) | 4:52 | 2021-10-06 | 2025-07-17 |
+| [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 | 2026-05-16 |  |
 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 | 2021-10-06 | 2025-07-17 |
 | [ཬɷԾㅍ ꉺლ༽༼இ•̛\)ྀ◞ ༎ຶ ლ༽இ•̛\)ྀ◞☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲༎ຶ ༽ৣৢ؞ৢ؞ؙؖ⁽⁾ا⦁⁾⁽ؙۜؖء؞ૣ࿆˜☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲](https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ཬɷԾㅍ ꉺლ༽༼இ•̛\)ྀ◞ ༎ຶ ლ༽இ•̛\)ྀ◞☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲༎ຶ ༽ৣৢ؞ৢ؞ؙؖ⁽⁾ا⦁⁾⁽ؙۜؖء؞ૣ࿆˜☼⃝◞⊖◟☼⃝ ◉፨∷▲∵⣎⡇ ⃝͢ oOo▲](https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2) | 5:43 | 2025-10-10 |  |
 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 | 2025-10-03 | 2026-04-11 |

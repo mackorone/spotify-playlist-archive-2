@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,651 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 10 | [Outline](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi Vol\. 1](https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb) | 4:10 |
 | 11 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
 | 12 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
-| 13 | [Si on revenait en arrière](https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Si on revenait en arrière](https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76) | 2:19 |
-| 14 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
+| 13 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
+| 14 | [Si on revenait en arrière](https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Si on revenait en arrière](https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76) | 2:19 |
 | 15 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
 | 16 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
 | 17 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 |
 | 20 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
 | 21 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 |
-| 22 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
-| 23 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
-| 24 | [The Call](https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [The Call](https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC) | 4:13 |
-| 25 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 |
-| 26 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
-| 27 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 |
+| 22 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 23 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
+| 24 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 |
+| 25 | [The Call](https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [The Call](https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC) | 4:13 |
+| 26 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 |
+| 27 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
 | 28 | [Selfish](https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Selfish](https://open.spotify.com/album/62e7Dwx5jU8Cvi2sYlxkbN) | 2:58 |
-| 29 | [Block Party](https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Block Party](https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3) | 2:30 |
-| 30 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
+| 29 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
+| 30 | [Block Party](https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Block Party](https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3) | 2:30 |
 | 31 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
 | 32 | [Bones to Ashes, Dark to Light](https://open.spotify.com/track/69anr1rbMwtfBpOkKHP9pd) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Bones to Ashes, Dark to Light](https://open.spotify.com/album/2Az6UHRaSG1G37fJF8IaqW) | 3:29 |
 | 33 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 47 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 |
 | 48 | [GEAR](https://open.spotify.com/track/34V32D276vNbF2WUtDWluJ) | [Bluefold](https://open.spotify.com/artist/7Ev5EGcO8uOOyJ7OrOuDy7) | [GEAR](https://open.spotify.com/album/1V9dhGe30LAZxCDgSEtOMW) | 1:52 |
 | 49 | [Are you with me](https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Are you with me](https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP) | 3:33 |
-| 50 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 |
+| 50 | [Country Club](https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Country Club](https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x) | 3:24 |
 
 Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

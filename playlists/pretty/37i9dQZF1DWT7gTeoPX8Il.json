@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 168305,
+  "num_followers": 168364,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Daur Hidup",
         "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 162739,
       "name": "Daur Hidup",
       "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Janji",
-        "url": "https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT"
+        "name": "Musnah",
+        "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
       },
       "artists": [
         {
-          "name": "Aziz Harun",
-          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+          "name": "Danial Kifli",
+          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
         }
       ],
-      "duration_ms": 201014,
-      "name": "Janji",
-      "url": "https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU"
+      "duration_ms": 239073,
+      "name": "Musnah",
+      "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
     }
   ],
   "unique_name": "galau rabak",

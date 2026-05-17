@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Omar Camacho y Santa Fe Klan 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,912 likes - 79 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,942 likes - 79 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

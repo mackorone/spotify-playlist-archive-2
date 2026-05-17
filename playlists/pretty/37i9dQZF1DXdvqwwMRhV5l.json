@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74685,
+  "num_followers": 74687,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "I AM...SASHA FIERCE - Platinum Edition",
-        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 258560,
       "name": "Rock DJ",
       "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Live It Out",
-        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
-      },
-      "artists": [
-        {
-          "name": "Alain Clark",
-          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Father & Friend",
-      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "After The Hurricane - Greatest Hits & More",
         "url": "https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 240893,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/2LIE4hnlRiueDZaQlfPLci"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Live It Out",
+        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Father & Friend",
+      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/0Mf0uNttnZvaQOKiECOBSn"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/2Za2mUwmQoSxWPscaY2vxl"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2024-07-19 06:48:03",

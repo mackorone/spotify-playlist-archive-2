@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,327 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,330 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Cartier AMG](https://open.spotify.com/track/7cLdpDzMuTJtZuEscZd8t7) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Lil Black Jean Jacket 2 \(Ruby Edition\)](https://open.spotify.com/album/0Z3MS8lDYp8MwMtHZqL9EI) | 2:40 |
 | 50 | [Gangstas](https://open.spotify.com/track/5wET197xfCQ9Mmcfj5BktY) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu) | 2:40 |
 
-Snapshot ID: `AAAAAFjK+FztNfbw+WCEVvIWPV0deBmk`
+Snapshot ID: `AAAAALnbFKxqc+lGbM2EAFNQAuhP9eSJ`

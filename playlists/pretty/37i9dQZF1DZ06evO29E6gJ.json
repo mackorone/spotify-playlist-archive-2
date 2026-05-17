@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12949,
+  "num_followers": 12952,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAADFLOz/ORq0H6VlcMIBlAHw",
+  "snapshot_id": "agZiAAAAAADNd5IOGk8JmNQlXslqp4eh",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rosalito",
-        "url": "https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ"
+        "name": "Puras De Pegue",
+        "url": "https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 146106,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU"
+      "duration_ms": 183797,
+      "name": "El Troquero",
+      "url": "https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Pegue",
-        "url": "https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc"
+        "name": "El Rosalito",
+        "url": "https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 183797,
-      "name": "El Troquero",
-      "url": "https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3"
+      "duration_ms": 146106,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
-        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA TRAICIONERA (Remastered)",
         "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 120306,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
     },
     {
       "added_at": null,

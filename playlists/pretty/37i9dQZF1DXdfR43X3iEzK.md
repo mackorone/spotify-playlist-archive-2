@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: girli
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,481 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,478 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [7th Floor](https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Happiness Is Going To Get You](https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV) | 2:39 |
 | 80 | [Quicksand Heart](https://open.spotify.com/track/10sBS8Ko7OdndQKsGNSpBA) | [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Quicksand Heart](https://open.spotify.com/album/7mkv6Reo0oxld8GyMNWVs8) | 3:41 |
 
-Snapshot ID: `AAAAAEZBcOinhXrbybgVnltj0SIYC/89`
+Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`

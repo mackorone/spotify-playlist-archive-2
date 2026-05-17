@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1789771,
+  "num_followers": 1790047,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 235000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Nervous Nitelife: Vegas",
-        "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
-      },
-      "artists": [
-        {
-          "name": "Leonid Rudenko",
-          "url": "https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
-      "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Nervous Nitelife: Vegas",
+        "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
+      },
+      "artists": [
+        {
+          "name": "Leonid Rudenko",
+          "url": "https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
+      "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Better Off Alone (Laidback Luke Remix)",
         "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 215246,
       "name": "Better Off Alone - 1999 Original Hit Radio",
       "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1455,22 +1455,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 401360,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1499,6 +1495,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Exploration of Space",
         "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 216360,
       "name": "Exploration of Space - Radio Edit",
       "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Heartbroken - Edit",
-      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Heartbroken - Edit",
+      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Sound of Goodbye (Part 2)",
+        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/03x9MmSvyUhbnbphq2noVU"
       },
@@ -1871,22 +1891,6 @@
       "duration_ms": 183146,
       "name": "It's Too Late - Dirty South",
       "url": "https://open.spotify.com/track/6GbAqnbj3diM6MvVc1oiKt"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1907,6 +1911,22 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1963,22 +1983,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 203212,
-      "name": "Crush - Radio Dance Edit",
-      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1995,22 +1999,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Sound of Goodbye (Part 2)",
-        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Perpetuous Dreamer",
-          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
         }
       ],
-      "duration_ms": 199133,
-      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
-      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
+      "duration_ms": 203212,
+      "name": "Crush - Radio Dance Edit",
+      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -1,29 +1,13 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22293,
+  "num_followers": 22308,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAB16Z1eIKj7AQ06WlOpz13L",
+  "snapshot_id": "agZiAAAAAABat9lbBWnJ2wDIDuGuowdp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM"
-    },
     {
       "added_at": null,
       "album": {
@@ -87,22 +71,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+      "duration_ms": 186376,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM"
     },
     {
       "added_at": null,
@@ -127,18 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Formula One",
-        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 185179,
-      "name": "Formula One",
-      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
       "duration_ms": 263810,
       "name": "CORAZ\u00d3N FR\u00cdO",
       "url": "https://open.spotify.com/track/3SaYCT004qZHjezJ4orzFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 200254,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 123096,
       "name": "AMIRI",
       "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 200254,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
     },
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "La Lleca",
-      "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 307565,
       "name": "EN MI MUNDO",
       "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184269,
+      "name": "La Lleca",
+      "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 195334,
       "name": "0 SENTIMIENTOS",
       "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232509,
       "name": "HOLOCAUSTO NUCLEAR",
       "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 141034,
-      "name": "Jalados",
-      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Alto Que El Everest",
         "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181824,
       "name": "Mas Alto Que El Everest",
       "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 141034,
+      "name": "Jalados",
+      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 154477,
-      "name": "Chicoteado",
-      "url": "https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 154477,
+      "name": "Chicoteado",
+      "url": "https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 178114,
-      "name": "Heisenberg",
-      "url": "https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178064,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 178114,
+      "name": "Heisenberg",
+      "url": "https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0"
     }
   ],
   "unique_name": "This Is Jasiel Nu\u00f1ez",

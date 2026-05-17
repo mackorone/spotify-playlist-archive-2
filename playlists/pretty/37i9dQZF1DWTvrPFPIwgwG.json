@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 201100,
+  "num_followers": 201159,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Eu Cuido de Tudo",
         "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 447871,
       "name": "Eu Cuido de Tudo - Ao vivo",
       "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Ora Que Melhora",
         "url": "https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy"
       },
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw"
-      },
-      "artists": [
-        {
-          "name": "Polyana Martins",
-          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 303778,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
         "name": "Minha Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 230000,
       "name": "Minha Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -1423,6 +1403,26 @@
       "duration_ms": 510489,
       "name": "\u00c1guas Purificadoras - Ao Vivo",
       "url": "https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw"
+      },
+      "artists": [
+        {
+          "name": "Polyana Martins",
+          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 303778,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
     },
     {
       "added_at": "2026-04-20 14:31:33",

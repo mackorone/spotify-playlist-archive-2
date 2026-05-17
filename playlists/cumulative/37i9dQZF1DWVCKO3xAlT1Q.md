@@ -2,7 +2,7 @@
 
 ### [Eurovision 2026](https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q)
 
-> The official Eurovision Song Contest 2026 playlist.
+> The official Eurovision Song Contest 2026 playlist\. Congrats to this year's winner DARA!
 
 118 songs - 5 hr 49 min
 

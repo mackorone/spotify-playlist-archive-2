@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 33 min
+100 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 | 2024-03-18 |  |
 | [Cuéntame](https://open.spotify.com/track/7KfNNSQO6UCfvvsppqpD7q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:28 | 2023-08-08 |  |
 | [De Memoria Me Las Sé](https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Memoria Me Las Sé](https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl) | 2:43 | 2023-08-08 | 2023-11-11 |
+| [De Qué Manera Te Olvido](https://open.spotify.com/track/6ZQ7xrGrsOC7V65hVSqBym) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Qué Manera Te Olvido](https://open.spotify.com/album/5wJpgsTJx7CnyDh6FHr5AX) | 2:50 | 2026-05-17 |  |
 | [De Ti Exclusivo](https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:14 | 2023-08-08 |  |
 | [Descuidé](https://open.spotify.com/track/5avQclejDrCYcemid79zc5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Descuidé](https://open.spotify.com/album/0X51NeiNmQpbLm70IwcOSA) | 3:11 | 2026-03-01 | 2026-03-29 |
 | [Disponible Para Mi](https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:26 | 2023-08-08 |  |
@@ -84,7 +85,7 @@
 | [Siempre Estás Tú](https://open.spotify.com/track/1t5Wme3dVkQuBgmyOaqzuy) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:57 | 2023-12-13 |  |
 | [Sobre Mis Pies](https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 4:08 | 2023-08-08 |  |
 | [Te Aconsejo](https://open.spotify.com/track/54b5pnEFSy89Dw5tscj5mN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3J4IsXHUfmSLZfLne1eg2I) | 3:03 | 2024-05-26 | 2024-06-23 |
-| [Te Dejo Libre](https://open.spotify.com/track/1GMKqL4aLxHA7lRoIcTWtS) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:34 | 2026-04-26 |  |
+| [Te Dejo Libre](https://open.spotify.com/track/1GMKqL4aLxHA7lRoIcTWtS) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:34 | 2026-04-26 | 2026-05-17 |
 | [Te Estaré Esperando](https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 4:04 | 2023-08-08 |  |
 | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ) | 3:41 | 2024-03-23 | 2025-08-07 |
 | [Tiene Razón La Lógica](https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:26 | 2023-08-08 | 2024-07-22 |

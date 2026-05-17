@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,388 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,396 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 59 | [Eu Sou](https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Eu Sou](https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9) | 3:05 |
 | 60 | [Oração II](https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et) | [João VR6](https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M), [iagguprod](https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL) | [Oração II](https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ) | 2:13 |
 | 61 | [Lesgo](https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Lesgo](https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV) | 3:24 |
-| 62 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 |
-| 63 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 |
+| 62 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 |
+| 63 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 |
 | 64 | [O Apocalipse É Real](https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Apocalipse É Real](https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq) | 2:35 |
 | 65 | [Tua Face](https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Tua Face](https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR) | 2:26 |
 | 66 | [Profeta](https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Profeta](https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY) | 2:11 |

@@ -264,7 +264,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 115275,
       "name": "BACKINTHECITY",
       "url": "https://open.spotify.com/track/0hraa6N5drtAw6yF9Bqnzz"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 165009,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "SONDER",
+        "url": "https://open.spotify.com/album/1yuHxt8cIsiGNzqdyES8Lc"
+      },
+      "artists": [
+        {
+          "name": "FinEsseMo",
+          "url": "https://open.spotify.com/artist/0GWQysZc1ulCcyPRqaSkTp"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "Farewell and Goodbye",
+      "url": "https://open.spotify.com/track/1A0Vlu1w8HALdhy8eGpMLf"
+    },
+    {
+      "album": {
         "name": "Fire in my heart",
         "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 122070,
       "name": "Opp's Hood",
       "url": "https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4"
@@ -3129,6 +3147,28 @@
     },
     {
       "album": {
+        "name": "VANTAGONIST",
+        "url": "https://open.spotify.com/album/6NxLdlhJEyKo0aNZWn0Jr9"
+      },
+      "artists": [
+        {
+          "name": "Khenan",
+          "url": "https://open.spotify.com/artist/1EjaHZ1glOgzroXJNhuGLE"
+        },
+        {
+          "name": "IGoByTobi",
+          "url": "https://open.spotify.com/artist/7m7JiSs7G0WVtQj9zmPepf"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194332,
+      "name": "Regular Show - Vanta Version",
+      "url": "https://open.spotify.com/track/1F3WRhECuzY78VXXT10CYh"
+    },
+    {
+      "album": {
         "name": "Industry",
         "url": "https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4"
       },
@@ -3281,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "peace does not reside on my end",
+        "url": "https://open.spotify.com/album/53UX0XsKynszKaz5kb570e"
+      },
+      "artists": [
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126040,
+      "name": "scrimmage",
+      "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
+    },
+    {
+      "album": {
         "name": "!?",
         "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
       },
@@ -3314,6 +3372,24 @@
       "duration_ms": 183671,
       "name": "Simple!",
       "url": "https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1"
+    },
+    {
+      "album": {
+        "name": "Hiatus",
+        "url": "https://open.spotify.com/album/1B5dNX0AKfkPAcesNTBMjr"
+      },
+      "artists": [
+        {
+          "name": "luhdelf",
+          "url": "https://open.spotify.com/artist/4igaC79J5tLhSZ8Qqo8zII"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Sizzurp",
+      "url": "https://open.spotify.com/track/1aED4pzjTZQRwEWGVIqFk2"
     },
     {
       "album": {
@@ -4032,7 +4108,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: ZPOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,303 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,304 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [I Don't Like Me](https://open.spotify.com/track/1MFbS9WwBlQgCXfTqMp8U4) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [I Don't Like Me](https://open.spotify.com/album/4u9y7ezpXc0MLMShh2b75I) | 3:37 |
 | 100 | [道別後有空間整理](https://open.spotify.com/track/1IZMZOt5GGjmmXY9OI9tOi) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [EELEE](https://open.spotify.com/artist/1ghSU42Gxi1hJxieIlltJK) | [暮色俱樂部](https://open.spotify.com/album/5cpBDHMwDC8jrtTzkT142e) | 2:21 |
 
-Snapshot ID: `AAAAAAZAuI5m7DSGiSsun9VLByn+xo5p`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

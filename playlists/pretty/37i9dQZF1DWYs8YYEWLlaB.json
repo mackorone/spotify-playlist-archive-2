@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Ayla \u00c7elik",
-  "num_followers": 580093,
+  "num_followers": 580120,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-14 14:34:10",
       "album": {
+        "name": "manifestival",
+        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 166425,
+      "name": "Ya\u015fanacaksa",
+      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
+    },
+    {
+      "added_at": "2026-05-14 14:34:10",
+      "album": {
         "name": "SONBAHAR",
         "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 150000,
       "name": "SONBAHAR",
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
-    },
-    {
-      "added_at": "2026-05-14 14:34:10",
-      "album": {
-        "name": "manifestival",
-        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 166425,
-      "name": "Ya\u015fanacaksa",
-      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
     },
     {
       "added_at": "2026-05-14 14:34:10",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-05-14 14:34:10",
       "album": {
-        "name": "MI AMOR",
-        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
-    },
-    {
-      "added_at": "2026-05-14 14:34:10",
-      "album": {
         "name": "\u00dcz\u00fclmedim Ki",
         "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 154402,
       "name": "\u00dcz\u00fclmedim Ki",
       "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
+    },
+    {
+      "added_at": "2026-05-14 14:34:10",
+      "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
     },
     {
       "added_at": "2026-05-14 14:34:10",

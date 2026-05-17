@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72461,
+  "num_followers": 72460,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAABbcd/BLJSeaa134MwS+eUE",
+  "snapshot_id": "agZiAAAAAAD59hAQtaTNvCxFIgaZlN5h",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
       "duration_ms": 191250,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/1BjQRTWrURcyHhicXHoWtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/2yT98IQ6Rl1oTn0wXGseU8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/4Q5ApVT7NHMx5AiZXP56Bc"
     },
     {
       "added_at": null,
@@ -231,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/1K6TppBV935fe2tIb8YzMA"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/6pctceOP7isMWb4qR21NM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry On (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
       },
@@ -275,6 +271,30 @@
       "duration_ms": 175312,
       "name": "Carry On - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1K6TppBV935fe2tIb8YzMA"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6pctceOP7isMWb4qR21NM2"
     },
     {
       "added_at": null,
@@ -307,26 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
+        "name": "Move It (Rapidin)",
+        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 239736,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
+      "duration_ms": 153750,
+      "name": "Move It (Rapidin)",
+      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
     },
     {
       "added_at": null,
@@ -351,26 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move It (Rapidin)",
-        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
       },
       "artists": [
         {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Move It (Rapidin)",
-      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
+      "duration_ms": 239736,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
     },
     {
       "added_at": null,
@@ -419,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "GESES",
-          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
-        }
-      ],
-      "duration_ms": 167194,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -467,44 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
       "artists": [
         {
@@ -512,13 +472,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Harmony - Radio Edit",
-      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
+      "duration_ms": 167194,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
     },
     {
       "added_at": null,
@@ -543,6 +507,62 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Harmony - Radio Edit",
+      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
     },
     {
       "added_at": null,
@@ -599,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KYGO (The Remixes)",
         "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
       },
@@ -647,6 +643,30 @@
       "duration_ms": 231477,
       "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
       "added_at": null,
@@ -787,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -831,30 +827,6 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free (with Ellie Goulding) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/2MObLeDrhGjJMULsc9kAzp"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
     },
     {
       "added_at": null,
@@ -887,30 +859,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You for the Summer (Kohen Remix)",
-        "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
+        "name": "Free (with Ellie Goulding) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/2MObLeDrhGjJMULsc9kAzp"
       },
       "artists": [
         {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Love You for the Summer - Kohen Remix",
-      "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+      "duration_ms": 224640,
+      "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,
@@ -979,6 +971,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You for the Summer (Kohen Remix)",
+        "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Love You for the Summer - Kohen Remix",
+      "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Higher Off The Ground",
         "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colorful",
         "url": "https://open.spotify.com/album/06jFHzXc8qua7eKYZuD0VH"
       },
@@ -1079,6 +1079,26 @@
       "duration_ms": 196992,
       "name": "Colorful",
       "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1123,26 +1143,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/2x6hopxvQkOzZTBdEMyUO2"
     }
   ],
   "unique_name": "This Is Nicky Romero",

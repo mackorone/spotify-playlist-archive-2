@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 28754,
+  "num_followers": 28767,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAvkJWDdcLLYdswRDc0L/lr",
+  "snapshot_id": "agZiAAAAAADQ72STB6YrcDmf79cIHn8I",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 171906,
-      "name": "La Francis",
-      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 158573,
-      "name": "Trigue\u00f1ita De Ojos Negros",
-      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+      "duration_ms": 171906,
+      "name": "La Francis",
+      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las M\u00e1s Pedidas, Vol. 1",
-        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 161625,
-      "name": "No Le Hace Que Le Aunque",
-      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 1",
+        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 161625,
+      "name": "No Le Hace Que Le Aunque",
+      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 164866,
       "name": "El Amor De Los Dos",
       "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "La Trailerita",
-      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "La Trailerita",
+      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -807,26 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
       "artists": [
         {
-          "name": "Intrusso De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
-        },
-        {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        },
-        {
-          "name": "Los Astros de China",
-          "url": "https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR"
         }
       ],
-      "duration_ms": 346302,
-      "name": "Popurr\u00ed Homenaje a Carlos Y Jose - En Vivo",
-      "url": "https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

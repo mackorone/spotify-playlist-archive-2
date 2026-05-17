@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 955169,
+  "num_followers": 955257,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "The Botanic Verses",
-        "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
-      },
-      "artists": [
-        {
-          "name": "The March Violets",
-          "url": "https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Snake Dance",
-      "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 246760,
       "name": "Deer Stop",
       "url": "https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "The Botanic Verses",
+        "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
+      },
+      "artists": [
+        {
+          "name": "The March Violets",
+          "url": "https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "Snake Dance",
+      "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "The Gothic Sounds Of Nightbreed Volumes One & Two",
-        "url": "https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l"
-      },
-      "artists": [
-        {
-          "name": "Suspiria",
-          "url": "https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Allegedly, Dancefloor Tragedy",
-      "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "When I Have Fears",
         "url": "https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "The Gothic Sounds Of Nightbreed Volumes One & Two",
+        "url": "https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l"
+      },
+      "artists": [
+        {
+          "name": "Suspiria",
+          "url": "https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Allegedly, Dancefloor Tragedy",
+      "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Starfish",
-        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "North, South, East and West",
-      "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "In Flickers",
         "url": "https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 297330,
       "name": "A Failure",
       "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Starfish",
+        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "North, South, East and West",
+      "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
     }
   ],
   "unique_name": "Dark & Gothic",

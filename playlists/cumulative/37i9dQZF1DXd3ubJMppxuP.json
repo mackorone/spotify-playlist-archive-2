@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Adio Amore (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
+      },
+      "artists": [
+        {
+          "name": "Zanger Alex",
+          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
+        },
+        {
+          "name": "Lanterfantje",
+          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210105,
+      "name": "Adio Amore - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
+    },
+    {
+      "album": {
         "name": "Adrenaline (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/5nM7KwNskekFeQ3YCWixcU"
       },
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"

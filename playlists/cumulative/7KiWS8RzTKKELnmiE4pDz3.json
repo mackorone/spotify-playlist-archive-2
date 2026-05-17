@@ -3413,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Blood Hound",
+      "url": "https://open.spotify.com/track/6rbfsPyc6fpoDv1NEuHXyq"
+    },
+    {
+      "album": {
         "name": "Violent By Design",
         "url": "https://open.spotify.com/album/68e1Ou1jnKgDwLkCsOPc4M"
       },

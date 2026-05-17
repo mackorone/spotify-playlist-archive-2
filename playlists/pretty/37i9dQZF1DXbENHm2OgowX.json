@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 339995,
+  "num_followers": 340245,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "i was always there for you",
-        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
-      },
-      "artists": [
-        {
-          "name": "rareeast",
-          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
-        },
-        {
-          "name": "idontno",
-          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "i was always there for you",
-      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "what stayed after you left",
         "url": "https://open.spotify.com/album/6jpYWedczd8uOiQqvpAkBE"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 126315,
       "name": "what stayed after you left",
       "url": "https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "i was always there for you",
+        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
+      },
+      "artists": [
+        {
+          "name": "rareeast",
+          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        }
+      ],
+      "duration_ms": 119600,
+      "name": "i was always there for you",
+      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "try to find you",
-        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 99493,
-      "name": "try to find you",
-      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "try to find you",
+        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 99493,
+      "name": "try to find you",
+      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "silent",
-        "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
-      },
-      "artists": [
-        {
-          "name": "Bhxa",
-          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "silent",
-      "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "silent",
+        "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
+      },
+      "artists": [
+        {
+          "name": "Bhxa",
+          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "silent",
+      "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lonely nights",
-        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
-      },
-      "artists": [
-        {
-          "name": "fauxe.",
-          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
-        }
-      ],
-      "duration_ms": 103208,
-      "name": "lonely nights",
-      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 272501,
       "name": "The Monolith",
       "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "lonely nights",
+        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
+      },
+      "artists": [
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "duration_ms": 103208,
+      "name": "lonely nights",
+      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1259,6 +1259,30 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "if things were different",
+        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
+      },
+      "artists": [
+        {
+          "name": "findnothing",
+          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
+        },
+        {
+          "name": "hide waldo",
+          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
+        }
+      ],
+      "duration_ms": 98108,
+      "name": "for us",
+      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Nebel",
         "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 170878,
       "name": "Close",
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "if things were different",
-        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
-      },
-      "artists": [
-        {
-          "name": "findnothing",
-          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
-        },
-        {
-          "name": "hide waldo",
-          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
-        }
-      ],
-      "duration_ms": 98108,
-      "name": "for us",
-      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "no service",
-        "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
-      },
-      "artists": [
-        {
-          "name": "Marcelo De Carvalho",
-          "url": "https://open.spotify.com/artist/4SoA6yxZqGoIm96Zjynd1o"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "no service",
-      "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Love Is Colder Than Death",
         "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213832,
       "name": "Out Of The Past",
       "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "no service",
+        "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
+      },
+      "artists": [
+        {
+          "name": "Marcelo De Carvalho",
+          "url": "https://open.spotify.com/artist/4SoA6yxZqGoIm96Zjynd1o"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "no service",
+      "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "thoughts inside my head",
-        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 134314,
-      "name": "thoughts inside my head",
-      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Bolted (Deconstructed)",
         "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lost in a memory",
-        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
-      },
-      "artists": [
-        {
-          "name": "\u00d8nedream",
-          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "lost in a memory",
-      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Bathed in Grey",
         "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 253090,
       "name": "Bathed in Grey",
       "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "lost in a memory",
+        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
+      },
+      "artists": [
+        {
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "lost in a memory",
+      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
     },
     {
       "added_at": "2026-05-15 04:00:43",

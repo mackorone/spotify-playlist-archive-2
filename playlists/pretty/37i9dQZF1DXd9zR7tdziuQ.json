@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 964158,
+  "num_followers": 964193,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 201683,
       "name": "Maps",
       "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
-      },
-      "artists": [
-        {
-          "name": "Anna Elizabeth Laube",
-          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "High and Dry",
         "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Chained To The Rhythm",
         "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 203070,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Blood & Rust",
-        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+        "name": "Havana (Acoustic)",
+        "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
       },
       "artists": [
         {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+      "duration_ms": 141142,
+      "name": "Havana - Acoustic",
+      "url": "https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Havana (Acoustic)",
-        "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 141142,
-      "name": "Havana - Acoustic",
-      "url": "https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Dreams (Piano Version)",
-        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Dreams (Piano Version)",
+        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
     },
     {
       "added_at": "2026-03-17 11:56:41",

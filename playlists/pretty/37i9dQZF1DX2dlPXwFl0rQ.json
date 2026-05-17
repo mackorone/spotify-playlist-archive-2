@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada \ud83d\udd25",
-  "num_followers": 8244,
+  "num_followers": 8278,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Maldita Billetera",
         "url": "https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 202500,
       "name": "Maldita Billetera",
       "url": "https://open.spotify.com/track/6wghCwZvtMVV3ElbalRq9u"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Tantito M\u00e1s",
-        "url": "https://open.spotify.com/album/6EAknp3xM8YjeQFjnWVDUc"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Tantito M\u00e1s",
-      "url": "https://open.spotify.com/track/5VIL3joFih2E9JPkkJjc4N"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Bordado a Mano",
         "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+        "name": "Tantito M\u00e1s",
+        "url": "https://open.spotify.com/album/6EAknp3xM8YjeQFjnWVDUc"
       },
       "artists": [
         {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
         }
       ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+      "duration_ms": 189500,
+      "name": "Tantito M\u00e1s",
+      "url": "https://open.spotify.com/track/5VIL3joFih2E9JPkkJjc4N"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Te pareces a mi ex",
-        "url": "https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 150886,
-      "name": "Te pareces a mi ex",
-      "url": "https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Vienes?",
         "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 215346,
       "name": "\u00bfPor Qu\u00e9 No Vienes?",
       "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Te pareces a mi ex",
+        "url": "https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 150886,
+      "name": "Te pareces a mi ex",
+      "url": "https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
-        "name": "Cuando Me Importabas",
-        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Cuando Me Importabas",
-      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 187706,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2026-05-01 06:01:01",

@@ -1,6 +1,6 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2328039,
+  "num_followers": 2327892,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
@@ -1309,6 +1309,26 @@
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
+      "added_at": "2026-05-08 06:38:19",
+      "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+    },
+    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Over It",
@@ -1329,22 +1349,6 @@
       "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
     },
     {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "I Just Died",
-      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
-    },
-    {
       "added_at": "2023-02-02 23:24:59",
       "album": {
         "name": "Damage",
@@ -1361,24 +1365,20 @@
       "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
     },
     {
-      "added_at": "2026-05-08 06:38:19",
+      "added_at": "2023-02-12 15:52:33",
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
         }
       ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+      "duration_ms": 209560,
+      "name": "I Just Died",
+      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
     },
     {
       "added_at": "2022-10-03 07:01:26",

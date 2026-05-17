@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1149,
+  "num_followers": 1151,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAC6//wLcelNIZoeKhNpi1SP",
+  "snapshot_id": "agZiAAAAAACU+ECJJA1kk9tvVrjrwCBI",
   "tracks": [
     {
       "added_at": null,
@@ -550,15 +550,11 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
     },
     {
       "added_at": null,
@@ -618,11 +614,15 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Something Big",
-      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,

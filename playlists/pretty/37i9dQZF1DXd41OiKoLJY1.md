@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[ischi\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,773 likes - 19 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,772 likes - 19 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

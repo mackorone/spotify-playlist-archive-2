@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 55 min
+78 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2025-07-12 | 2025-08-11 |
 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 | 2026-04-05 |  |
 | [Jeserawa](https://open.spotify.com/track/3A8N17kmwoEdxVXnLB7NuE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [TerryTheVoice](https://open.spotify.com/artist/5L8YTHHqLLEseeaYSqvtDc), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:10 | 2025-10-19 | 2025-10-21 |
+| [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 | 2026-05-17 |  |
 | [Jordan](https://open.spotify.com/track/2Fn9hIUPRQDVFUvaMmAHnw) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jordan](https://open.spotify.com/album/3O0giSD7PgRGCWJEkEYa5o) | 2:25 | 2025-09-12 | 2025-09-16 |
 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 | 2025-07-12 |  |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:43 | 2025-07-12 |  |
@@ -83,7 +84,7 @@
 | [TE WO II](https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [TE WO II](https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93) | 2:21 | 2026-04-05 |  |
 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 | 2025-07-12 |  |
 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 | 2025-07-12 |  |
-| [Two Criminals](https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [The Erigma II](https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR) | 3:31 | 2025-07-12 |  |
+| [Two Criminals](https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [The Erigma II](https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR) | 3:31 | 2025-07-12 | 2026-05-17 |
 | [Walking Dead](https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:28 | 2025-07-12 |  |
 
 \*This playlist was first scraped on 2025-07-12. Prior content cannot be recovered.

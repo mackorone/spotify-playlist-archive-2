@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-565 songs - 1 day 0 hr 35 min
+566 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-27 |  |
 | [GLOCK17](https://open.spotify.com/track/3yvBIM3rPDFkycuf5ApNFB) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [GLOCK17](https://open.spotify.com/album/1ZAwA3A3kkNCy7MjYRKpEv) | 1:53 | 2025-04-18 | 2025-05-10 |
 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-03-10 | 2026-03-14 |
-| [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 | 2026-05-15 |  |
+| [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 | 2026-05-15 |  |
+| [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 | 2026-05-15 | 2026-05-17 |
 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 | 2025-07-18 | 2025-08-02 |
 | [Graf Monte\-Cristo](https://open.spotify.com/track/7onsPEhcLrvADBLmLUhDp5) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:30 | 2025-05-02 | 2025-05-10 |
 | [Haunted House](https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:33 | 2024-01-26 | 2024-02-10 |

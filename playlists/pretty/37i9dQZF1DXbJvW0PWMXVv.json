@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77589,
+  "num_followers": 77583,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
+        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
+      },
+      "artists": [
+        {
+          "name": "Caman\u00e9",
+          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "Queixa das almas jovens censuradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Aventuras de Caramelo",
         "url": "https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q"
       },
@@ -1111,30 +1127,6 @@
       "duration_ms": 154900,
       "name": "Bolinha Azul",
       "url": "https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "S\u00f3 Quero Ver",
-      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1167,18 +1159,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
-        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
       "artists": [
         {
-          "name": "Caman\u00e9",
-          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 314680,
-      "name": "Queixa das almas jovens censuradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "added_at": "2025-09-17 15:00:09",

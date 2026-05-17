@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402176,
+  "num_followers": 402153,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "With You Around",
+        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 233218,
+      "name": "With You Around",
+      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "With You Around",
-        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "With You Around",
-      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "Tia Na S\u00e9",
+        "url": "https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Tia Na S\u00e9",
+      "url": "https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "Coquelicot",
         "url": "https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 173133,
       "name": "Coquelicot",
       "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "Tia Na S\u00e9",
-        "url": "https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Tia Na S\u00e9",
-      "url": "https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "Le besoin",
+        "url": "https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA"
+      },
+      "artists": [
+        {
+          "name": "Krisy",
+          "url": "https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo"
+        }
+      ],
+      "duration_ms": 185150,
+      "name": "Le besoin",
+      "url": "https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "FRAGMENT EXHIBITION",
         "url": "https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 184506,
       "name": "ALL WIN",
       "url": "https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "Le besoin",
-        "url": "https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA"
-      },
-      "artists": [
-        {
-          "name": "Krisy",
-          "url": "https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo"
-        }
-      ],
-      "duration_ms": 185150,
-      "name": "Le besoin",
-      "url": "https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0"
     },
     {
       "added_at": "2026-04-30 22:03:34",

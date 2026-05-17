@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAB8+G2dU6EtlUNKU7CqxikB",
+  "snapshot_id": "agZiAAAAAAC8t39B2+B4AZMttVAi9fd0",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "used to",
-        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "used to",
-      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "no vuelvas a mirar atr\u00e1s",
-        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+        "name": "used to",
+        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
       },
       "artists": [
         {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 245945,
-      "name": "no vuelvas a mirar atr\u00e1s",
-      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+      "duration_ms": 208000,
+      "name": "used to",
+      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
     },
     {
       "added_at": null,
@@ -155,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "no vuelvas a mirar atr\u00e1s",
+        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 245945,
+      "name": "no vuelvas a mirar atr\u00e1s",
+      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "pretty little thing",
         "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 190959,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "down 4 u",
-      "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
     },
     {
       "added_at": null,
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "favorite girl",
-        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 204051,
-      "name": "favorite girl",
-      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
+      "duration_ms": 177613,
+      "name": "down 4 u",
+      "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 220235,
       "name": "ocean waves",
       "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "favorite girl",
+        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "favorite girl",
+      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "one & only",
-        "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 213115,
-      "name": "one & only",
-      "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
+      "duration_ms": 159666,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+        "name": "one & only",
+        "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
       },
       "artists": [
         {
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 159666,
-      "name": "make it rain",
-      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
+      "duration_ms": 213115,
+      "name": "one & only",
+      "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
+      "duration_ms": 235480,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 187853,
       "name": "lips - Original Music from The L Word: Generation Q",
       "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203627,
+      "name": "voicenote",
+      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hookah envenena",
         "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 170682,
       "name": "hookah envenena",
       "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1p\u00e1rate!",
-        "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 153189,
-      "name": "\u00a1p\u00e1rate!",
-      "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+        "name": "\u00a1p\u00e1rate!",
+        "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203627,
-      "name": "voicenote",
-      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+      "duration_ms": 153189,
+      "name": "\u00a1p\u00e1rate!",
+      "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
     },
     {
       "added_at": null,

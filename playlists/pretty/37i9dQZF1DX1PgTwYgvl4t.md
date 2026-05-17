@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,926 likes - 100 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,050 likes - 100 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 34 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 35 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
 | 36 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
-| 37 | [Oranmonise](https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oranmonise](https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd) | 9:36 |
+| 37 | [Oranmonise](https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oranmonise](https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd) | 9:38 |
 | 38 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
 | 39 | [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 |
 | 40 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 |

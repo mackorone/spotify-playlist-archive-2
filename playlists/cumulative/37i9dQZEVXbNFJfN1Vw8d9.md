@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,774 songs - 4 day 1 hr 17 min
+1,775 songs - 4 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2021-09-15 | 2022-05-08 |
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2026-02-08 | 2026-02-14 |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-10-21 | 2024-10-15 |
+| [Dime Baby](https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Dime Baby](https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ) | 3:09 | 2026-05-16 |  |
 | [Dime que sí](https://open.spotify.com/track/0O4bCG1TnGt4rARJOFfa1N) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:29 | 2021-04-15 | 2021-04-18 |
 | [DINERO y FAMA \(feat\. Omar Montes\)](https://open.spotify.com/track/3VPRxZK8k2Al2VwEVaDnYC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:35 | 2024-08-24 | 2024-08-26 |
 | [Dios \#1](https://open.spotify.com/track/5xP4rmVm5frtwOPwbmZNQw) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:20 | 2023-05-27 | 2023-05-30 |
@@ -1024,7 +1025,7 @@
 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 | 2022-09-03 | 2022-09-15 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-01-26 | 2023-08-31 |
 | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/track/4JC18crxRPZOuTqBfXKFIR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/album/2r7IVQiJULrFYTN195Dtwo) | 2:53 | 2021-09-18 | 2021-09-30 |
-| [MI BALCÓN](https://open.spotify.com/track/0bZv2rFlEq8pXAKn1cmiow) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:16 | 2026-04-25 |  |
+| [MI BALCÓN](https://open.spotify.com/track/0bZv2rFlEq8pXAKn1cmiow) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:16 | 2026-04-25 | 2026-05-17 |
 | [Mi Cuarto](https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Cuarto](https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P) | 2:11 | 2024-10-26 | 2024-10-28 |
 | [Mi Debili](https://open.spotify.com/track/6pFaZh7Bhp5R2iTacPcPgA) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:44 | 2026-03-07 | 2026-03-09 |
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-25 | 2023-05-21 |

@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/6ttXe8uKkAXA5Vmioq8XJr"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/1EUkM28XvCsIROr9Xix0WM"
+    },
+    {
+      "album": {
         "name": "ALO",
         "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
       },
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 145882,
       "name": "ALO",
       "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
@@ -3484,7 +3506,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -7265,6 +7287,28 @@
     },
     {
       "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194839,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/6Tokf8wNoiuYoDpfMnlkTN"
+    },
+    {
+      "album": {
         "name": "Dando Vueltas",
         "url": "https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk"
       },
@@ -7280,7 +7324,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 194839,
       "name": "Dando Vueltas",
       "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
@@ -9858,7 +9902,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -9902,7 +9946,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -10298,6 +10342,28 @@
       "duration_ms": 164542,
       "name": "En El Jacuzzi",
       "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265909,
+      "name": "En El Suelo",
+      "url": "https://open.spotify.com/track/2mhgTFNDHOakvlFbcXPhoc"
     },
     {
       "album": {
@@ -11122,6 +11188,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233417,
+      "name": "Euforia",
+      "url": "https://open.spotify.com/track/1g7liJ34sZhH4rP7bGmC0J"
     },
     {
       "album": {
@@ -13755,6 +13839,28 @@
     },
     {
       "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256911,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
+    },
+    {
+      "album": {
         "name": "Matando La Liga 2",
         "url": "https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe"
       },
@@ -15728,7 +15834,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -16502,6 +16608,24 @@
       "duration_ms": 125186,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250149,
+      "name": "Llora (Para Mam\u00e1)",
+      "url": "https://open.spotify.com/track/0kztjyLUak6pMWBr1cpMjA"
     },
     {
       "album": {
@@ -18852,6 +18976,24 @@
     {
       "album": {
         "name": "Medellin",
+        "url": "https://open.spotify.com/album/1s8ffqrDaNiPKp3ZOGVAcv"
+      },
+      "artists": [
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138204,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/3tXUrEg1wx5U8fZhDI12vh"
+    },
+    {
+      "album": {
+        "name": "Medellin",
         "url": "https://open.spotify.com/album/4EsPsBVvT2rPeAtaplodYi"
       },
       "artists": [
@@ -18862,7 +19004,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 138204,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/7pmpHKz8USAOw2g0dSjeXM"
@@ -24583,6 +24725,24 @@
     },
     {
       "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266447,
+      "name": "Poder Quererme",
+      "url": "https://open.spotify.com/track/6obt9grIXqoxKaRCDgVnDc"
+    },
+    {
+      "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
       },
@@ -24818,10 +24978,28 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 164377,
       "name": "PONTE PONTE",
       "url": "https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"
+    },
+    {
+      "album": {
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/6ttXe8uKkAXA5Vmioq8XJr"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165936,
+      "name": "PONTE PONTE",
+      "url": "https://open.spotify.com/track/4mkrhonuSuLGczR4PghSa1"
     },
     {
       "album": {
@@ -25745,6 +25923,24 @@
     },
     {
       "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217250,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/62vGlosaO2oZm2Mlxr0xRj"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -26458,7 +26654,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 200526,
       "name": "Resentia",
       "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
@@ -29988,7 +30184,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 150857,
       "name": "Talento",
       "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
@@ -30282,7 +30478,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
@@ -31032,7 +31228,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
@@ -31628,6 +31824,24 @@
       "duration_ms": 166168,
       "name": "TROMPETAS (feat. King Savagge & Best)",
       "url": "https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157630,
+      "name": "Tu Coraz\u00f3n (Para Pap\u00e1)",
+      "url": "https://open.spotify.com/track/36vEMdv9FiAhnJp7sgaW7Y"
     },
     {
       "album": {
@@ -34084,7 +34298,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

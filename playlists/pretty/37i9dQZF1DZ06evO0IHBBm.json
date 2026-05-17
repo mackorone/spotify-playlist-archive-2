@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31334,
+  "num_followers": 31337,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAV1A29av94IZ+YhnzSj/7Z",
+  "snapshot_id": "agZiAAAAAABcUvUBsuSqjPZG8kCOqeIq",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 358640,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+      "duration_ms": 358640,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 540720,
-      "name": "O Deus que Faz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cad\u00ea o vencedor?",
         "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 222602,
       "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
       "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 540720,
+      "name": "O Deus que Faz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
     }
   ],
   "unique_name": "This Is Damares",

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 93947,
+  "num_followers": 93992,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "esperando que vuelvas",
-        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 216594,
-      "name": "esperando que vuelvas",
-      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "AMIMA",
         "url": "https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 139971,
       "name": "AMIMA",
       "url": "https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "esperando que vuelvas",
+        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 216594,
+      "name": "esperando que vuelvas",
+      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -591,30 +591,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Day After Day (feat. Lori Perry)",
-        "url": "https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Big Sad 1900",
-          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
-        },
-        {
-          "name": "Lori Perry",
-          "url": "https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Day After Day (feat. Lori Perry)",
-      "url": "https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "I Did This To Myself",
         "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Day After Day (feat. Lori Perry)",
+        "url": "https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Lori Perry",
+          "url": "https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Day After Day (feat. Lori Perry)",
+      "url": "https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "The Old Rugged Cross (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 188251,
-      "name": "The Old Rugged Cross - Spotify Singles",
-      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "CHR\u00d6ME (feat. slayr)",
         "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 222204,
       "name": "CHR\u00d6ME (feat. slayr)",
       "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "The Old Rugged Cross (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 188251,
+      "name": "The Old Rugged Cross - Spotify Singles",
+      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SAME DIFFERENCE",
-        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "THE GOSPEL",
-      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "THE GOSPEL",
+      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Dance In The USA",
+        "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Dance In The USA",
+      "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 188652,
       "name": "MVP",
       "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Dance In The USA",
-        "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Dance In The USA",
-      "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "i think i had something once",
+        "url": "https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "i think i had something once",
+      "url": "https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "i think i had something once",
-        "url": "https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao"
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
       },
       "artists": [
         {
-          "name": "Aubory Bugg",
-          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
         }
       ],
-      "duration_ms": 219770,
-      "name": "i think i had something once",
-      "url": "https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe"
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SHAKEUP",
-        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
       },
       "artists": [
         {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 213913,
-      "name": "SHAKEUP",
-      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "tangerine!",
-        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "tangerine!",
-      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Humble'Em_PINK / Doin Too Much",
         "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 207893,
       "name": "Humble'Em_PINK",
       "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/3aV5cU7oLh6RpNpNpHD1wq"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1jZ5HUwdrcYbDjwYmw9ccP"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1159,22 +1175,6 @@
       "duration_ms": 254014,
       "name": "Always",
       "url": "https://open.spotify.com/track/12Hhc4vvZv3gC8nGxcIBwf"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/3aV5cU7oLh6RpNpNpHD1wq"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1jZ5HUwdrcYbDjwYmw9ccP"
     },
     {
       "added_at": "2026-05-01 04:00:10",

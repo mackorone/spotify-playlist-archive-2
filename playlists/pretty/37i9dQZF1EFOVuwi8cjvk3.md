@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 247 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 247 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 246 | [The Grand Design](https://open.spotify.com/track/5jKjY6Ip0iQ6TxqYtYpG6T) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2 \(Deluxe LP\)](https://open.spotify.com/album/00LVEGAf8cMPwVp4O1Lelz) | 2:41 |
 | 247 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AcRl/AAAAADq0a0qAVPJatY2oe2DIKyC`
+Snapshot ID: `AcRrnAAAAAAVoqlVoyEF5NsV/gjI6V9H`

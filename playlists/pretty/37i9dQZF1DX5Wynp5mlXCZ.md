@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: ONUKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,078 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,082 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 15 | [Королева драми](https://open.spotify.com/track/03HBlkH7tcNVnt0jsnHCmw) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Королева драми](https://open.spotify.com/album/4WdrwcSnORIjGdAtSFENtc) | 2:49 |
 | 16 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 |
 | 17 | [одна душа](https://open.spotify.com/track/6OhopvhVdaw2epZfhCSpKy) | [CHERNETSKA](https://open.spotify.com/artist/3NXDoDGrRoeOFS7UOoEYIK) | [одна душа](https://open.spotify.com/album/6kyqbqTM2bBCHNDgh3P5DU) | 2:34 |
-| 18 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
+| 18 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
 | 19 | [що в тобі такого](https://open.spotify.com/track/3ZrmyjESJ0r6wyoOQvSqtp) | [TAKAYA](https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ) | [краще бути соло](https://open.spotify.com/album/2drEnGHhpwJgwlv7rOpd5U) | 3:27 |
 | 20 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 21 | [Find a Way](https://open.spotify.com/track/2OVLsKcRfglyb5JZXlNNKu) | [Ready In LED](https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ) | [Find a Way](https://open.spotify.com/album/4cTgP2ONlekZDNuIknoCWe) | 3:42 |
-| 22 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
+| 22 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 23 | [Pasma](https://open.spotify.com/track/39mkIFlpSSZLVhXtRjWNJy) | [Anton Kukri](https://open.spotify.com/artist/6W9UHOF7DZZ63b32NvKZy6) | [Pasma](https://open.spotify.com/album/1cXnjIuoYAGhxjnbEhWE9X) | 2:43 |
 | 24 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 25 | [Пелюстки](https://open.spotify.com/track/0CFSGhvUovYFx36z9Tx6bK) | [SPIVOCHA](https://open.spotify.com/artist/1I5PwzJVh2y2AWxbPCwZkb), [Blockbaby](https://open.spotify.com/artist/4WNzMiptlfMfG17Da3TlXD) | [Пелюстки](https://open.spotify.com/album/4c2RxF71TgjPuux1tu59bE) | 2:43 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 52 | [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 |
 | 53 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
 | 54 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
-| 55 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
+| 55 | [Gorgone](https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Gorgone](https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX) | 5:02 |
 | 56 | [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 |
 | 57 | [Смак\-печаль](https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Смак\-печаль](https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k) | 2:28 |
-| 58 | [Gorgone](https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Gorgone](https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX) | 5:02 |
+| 58 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
 | 59 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 |
 | 60 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
 | 61 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 67 | [Reborn](https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:42 |
 | 68 | [take it all](https://open.spotify.com/track/1Nk0YsyiGEBFrpgtn5255k) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [take it all](https://open.spotify.com/album/3c51Ub9FOWweulJSekANCO) | 2:30 |
 | 69 | [ONE DAY](https://open.spotify.com/track/5cCoTmJkTIw7cV8qERwaXK) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [ONE DAY](https://open.spotify.com/album/6t48BSbDEPUA1hVoUFAgeH) | 3:51 |
-| 70 | [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 |
+| 70 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 |
 
 Snapshot ID: `AAAAACZ1YZQRZaEa5CgOcbHQBHllOrpr`

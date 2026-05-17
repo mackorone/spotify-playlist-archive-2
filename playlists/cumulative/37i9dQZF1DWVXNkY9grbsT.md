@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-632 songs - 2 day 3 hr 52 min
+633 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Beacon of Light](https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:12 | 2023-11-14 | 2023-12-02 |
 | [Beasts](https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Birds & Beasts](https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p) | 10:02 | 2024-06-28 | 2024-09-07 |
 | [Beautification Technologies](https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Beautification Technologies](https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu) | 4:53 | 2025-05-12 | 2025-08-13 |
-| [Become Am](https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Without Mind: Identify](https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj) | 8:48 | 2025-04-11 |  |
+| [Become Am](https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Without Mind: Identify](https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj) | 8:48 | 2025-04-11 | 2026-05-17 |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 | 2023-08-12 |
 | [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2025-01-11 |
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 | 2025-02-08 |
@@ -322,6 +322,7 @@
 | [La Hormiga](https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [La Hormiga](https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb) | 2:13 | 2025-02-21 |  |
 | [La procesión](https://open.spotify.com/track/1n0op7KqijQJosc9lhuR0U) | [Ale Hop](https://open.spotify.com/artist/1Ef3JUYNrOM5JfOo9oThPV) | [The Life of Insects](https://open.spotify.com/album/0cmW9PUBl08bvqGHJtp2NT) | 5:29 | 2021-12-26 | 2023-08-12 |
 | [Labastida](https://open.spotify.com/track/531qAb7xqH2w9cFqprUN0y) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Labastida](https://open.spotify.com/album/6HBQicsEWoTnFb1zEp9eVF) | 2:57 | 2025-06-20 |  |
+| [Laid](https://open.spotify.com/track/6nBjD7jPoOaAckGMZeZnP4) | [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [Winged in Collapse](https://open.spotify.com/album/6tzIWT9zGis2PJer68E2NR) | 4:40 | 2026-05-16 |  |
 | [Lake](https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Lake](https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H) | 3:31 | 2025-01-17 |  |
 | [let all the poisons that lurk in the mud seep out \- Actress Remix](https://open.spotify.com/track/0aZIpFZPJqM1evzPGEcRxC) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [let all the poisons that lurk in the mud seep out \(Actress Remix\)](https://open.spotify.com/album/1OsykdLbXH6KL0tAebPL1X) | 5:13 | 2021-12-26 | 2023-08-12 |
 | [Life's A Spiral](https://open.spotify.com/track/1Qq7cSy8w3WAOQdUITCC8D) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Róisín Berkeley](https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG), [Cathal Berkeley](https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 5:24 | 2025-09-04 |  |

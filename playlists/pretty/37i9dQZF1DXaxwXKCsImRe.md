@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a> en <a href="spotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,009 likes - 28 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

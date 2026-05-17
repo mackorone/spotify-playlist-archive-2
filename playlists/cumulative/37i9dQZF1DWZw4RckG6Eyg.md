@@ -4,7 +4,7 @@
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-454 songs - 1 day 1 hr 45 min
+455 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 | 2025-12-03 |  |
 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 | 2025-12-03 |  |
 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 | 2022-11-30 | 2023-11-30 |
+| [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-12-03 |  |
 | [GATA](https://open.spotify.com/track/3Y8Y9GWlUBTTEY6ydINRtx) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 2:11 | 2023-11-29 | 2024-04-19 |
 | [GATA](https://open.spotify.com/track/7bfsB9aEVuKUUZ7CTjmoGN) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SUPERNOVA](https://open.spotify.com/album/4stpoGWquK8Zb2Xq41NA39) | 2:11 | 2023-11-29 | 2024-01-21 |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-12-04 | 2025-12-04 |
@@ -288,7 +289,7 @@
 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 | 2025-12-03 |  |
 | [Not There](https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2) | 3:22 | 2022-11-30 | 2023-11-30 |
 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 | 2022-11-30 | 2023-02-02 |
-| [Not What You Thought About Growing Up](https://open.spotify.com/track/0zMfD2lLp6PG10HrDRQaNE) | [Gloomie](https://open.spotify.com/artist/08LlZZtreCrm0AQhRLpCWI) | [Not What You Thought About Growing Up](https://open.spotify.com/album/3I6xOtNlPKwpg4AZtYsayH) | 3:30 | 2025-12-03 |  |
+| [Not What You Thought About Growing Up](https://open.spotify.com/track/0zMfD2lLp6PG10HrDRQaNE) | [Gloomie](https://open.spotify.com/artist/08LlZZtreCrm0AQhRLpCWI) | [Not What You Thought About Growing Up](https://open.spotify.com/album/3I6xOtNlPKwpg4AZtYsayH) | 3:30 | 2025-12-03 | 2026-05-17 |
 | [npc](https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [I LOVE THE INTERNET](https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG) | 2:30 | 2023-11-29 | 2024-12-05 |
 | [NYC UMTs](https://open.spotify.com/track/466O2QshkvjRtjC3sjqWMC) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [French Bath](https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw) | 2:41 | 2023-11-29 | 2024-10-28 |
 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 | 2025-12-03 |  |

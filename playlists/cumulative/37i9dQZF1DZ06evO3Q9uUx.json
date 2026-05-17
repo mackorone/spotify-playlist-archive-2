@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 172974,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
@@ -3410,6 +3410,32 @@
       "duration_ms": 140875,
       "name": "Yeah (with BIA)",
       "url": "https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq"
+    },
+    {
+      "album": {
+        "name": "Young (ft. BIA & Destroy Lonely)",
+        "url": "https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168074,
+      "name": "Young (ft. BIA & Destroy Lonely)",
+      "url": "https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAACdRPfxehq7k1BXWq83NYK/",
+  "snapshot_id": "agZiAAAAAACoSoIcnwybezzeehL7ZCe2",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraphim",
-        "url": "https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM"
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5dxp9DTBCXNX1yoVd30C3M"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 160000,
-      "name": "You Make Me Feel Loved",
-      "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/0sk2PPRh0uRDSoO4z3cTfg"
     },
     {
       "added_at": null,
@@ -115,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love you more than me",
-        "url": "https://open.spotify.com/album/5dxp9DTBCXNX1yoVd30C3M"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 141081,
-      "name": "love you more than me",
-      "url": "https://open.spotify.com/track/0sk2PPRh0uRDSoO4z3cTfg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Just Wanna Feel Your Love Again",
         "url": "https://open.spotify.com/album/5hE7ypHSBAaXkG2FtF3tpw"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/2EZKAd2j1jEZrYN783MXoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/5ppyF8wHl6ceiE5ZEWUIWh"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "You Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/0QkcHeNisSRIND5lsdHxwh"
     },
     {
       "added_at": null,
@@ -195,18 +195,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Did You Touch?",
-        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+        "name": "Ostentatious (piano edit)",
+        "url": "https://open.spotify.com/album/7yqeWL0Gd9iIbzlbAWdvi7"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 208732,
-      "name": "Who Did You Touch?",
-      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+      "duration_ms": 192000,
+      "name": "Ostentatious (piano edit)",
+      "url": "https://open.spotify.com/track/4worOXgLQwsE6uFW2h2TUy"
     },
     {
       "added_at": null,
@@ -243,26 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ostentatious (piano edit)",
-        "url": "https://open.spotify.com/album/7yqeWL0Gd9iIbzlbAWdvi7"
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/3L1ds7cxGur2ccGMrnhPJD"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ostentatious (piano edit)",
-      "url": "https://open.spotify.com/track/4worOXgLQwsE6uFW2h2TUy"
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/6CTctWuXG9ZyGkV6ZcgIB2"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTRACTION / SCREAM MY NAME",
         "url": "https://open.spotify.com/album/5cmwRxgjoi3TZbgz7UGYLp"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 180000,
       "name": "DISTRACTION",
       "url": "https://open.spotify.com/track/5vI1m5V38fFdYNRWpqAHRW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/1weDKYVBXXt0RnzdtGHBCX"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/5gMizoAVFqD4Kop30HUye7"
     },
     {
       "added_at": null,
@@ -404,7 +404,7 @@
       "added_at": null,
       "album": {
         "name": "Hollow Lover",
-        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
+        "url": "https://open.spotify.com/album/7hKTlT6GObMqemap6iBa5Q"
       },
       "artists": [
         {
@@ -414,7 +414,7 @@
       ],
       "duration_ms": 187636,
       "name": "Hollow Lover",
-      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
+      "url": "https://open.spotify.com/track/4IGKuHwRCzLU72OcKVewrA"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 56000,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aeon",
         "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
       },
@@ -603,38 +619,6 @@
       "duration_ms": 110000,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 56000,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
       "duration_ms": 162000,
       "name": "I'd Do Anything For You",
       "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "We Are Still In Love",
-      "url": "https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ"
     },
     {
       "added_at": null,
@@ -719,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "We Are Still In Love",
+      "url": "https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
@@ -739,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 188000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/08Og51JvHzxAjafLDkrAH9"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/02ophTv5wMWDp0xgil59Dt"
     },
     {
       "added_at": null,
@@ -807,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
@@ -839,6 +807,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Are Getting Shorter",
         "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 334285,
       "name": "Days Are Getting Shorter",
       "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     }
   ],
   "unique_name": "This Is Montell Fish",

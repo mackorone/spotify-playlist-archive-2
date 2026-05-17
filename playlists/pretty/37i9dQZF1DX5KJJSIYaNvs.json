@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Asha Bhosle",
-  "num_followers": 103169,
+  "num_followers": 103191,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,30 @@
     {
       "added_at": "2026-05-15 04:55:47",
       "album": {
+        "name": "Koyaliya",
+        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
+      },
+      "artists": [
+        {
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
+        },
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        },
+        {
+          "name": "Pranav Barange",
+          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Koyaliya",
+      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
+    },
+    {
+      "added_at": "2026-05-15 04:55:47",
+      "album": {
         "name": "Call Me Bae (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 228631,
       "name": "Churaaiyaan - From \"Call Me Bae\"",
       "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
-    },
-    {
-      "added_at": "2026-05-15 04:55:47",
-      "album": {
-        "name": "Koyaliya",
-        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
-      },
-      "artists": [
-        {
-          "name": "Apurva Nisshad",
-          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
-        },
-        {
-          "name": "Abhishek Bonthu",
-          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
-        },
-        {
-          "name": "Pranav Barange",
-          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Koyaliya",
-      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
     },
     {
       "added_at": "2026-05-15 04:55:47",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-05-15 04:55:47",
       "album": {
+        "name": "Rooh",
+        "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
+      },
+      "artists": [
+        {
+          "name": "Dirty Jays",
+          "url": "https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft"
+        },
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "duration_ms": 215994,
+      "name": "Rooh",
+      "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
+    },
+    {
+      "added_at": "2026-05-15 04:55:47",
+      "album": {
         "name": "Sajnaa",
         "url": "https://open.spotify.com/album/7lpUjVHZ4huiSc2mjY47k6"
       },
@@ -1083,22 +1103,6 @@
       "duration_ms": 201000,
       "name": "Sajnaa",
       "url": "https://open.spotify.com/track/4aRzjWbBsjLkAezPWqvRSu"
-    },
-    {
-      "added_at": "2026-05-15 04:55:47",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN"
-      },
-      "artists": [
-        {
-          "name": "Monali Thakur",
-          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Piya/ I Wanna?",
-      "url": "https://open.spotify.com/track/1VZZTmpzNQBe1VMSaijusB"
     }
   ],
   "unique_name": "EQUAL India",

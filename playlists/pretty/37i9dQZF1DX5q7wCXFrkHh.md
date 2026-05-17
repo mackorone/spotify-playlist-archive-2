@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,524 likes - 100 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,591 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 32 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 |
 | 33 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 |
 | 34 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 |
-| 35 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
-| 36 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 |
+| 35 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 |
+| 36 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
 | 37 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
 | 38 | [I Can't Give You Anything But Love](https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:01 |
 | 39 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 61 | [Night And Day](https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [John Simmons](https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9), [Alvin Stoller](https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 6:07 |
 | 62 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 63 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
-| 64 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
-| 65 | [Blue Note Boogie](https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE) | [James P\. Johnson](https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi) | [Blue Boogie: Boogie Woogie, Stride And The Piano Blues](https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5) | 3:58 |
+| 64 | [Blue Note Boogie](https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE) | [James P\. Johnson](https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi) | [Blue Boogie: Boogie Woogie, Stride And The Piano Blues](https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5) | 3:58 |
+| 65 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
 | 66 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 7](https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG) | 3:55 |
 | 67 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
 | 68 | [Polka Dots And Moonbeams \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 97 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
 | 98 | [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 |
 | 99 | [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 |
-| 100 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
+| 100 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
 
 Snapshot ID: `AAAAAHYrMf/XwTFLetw/EsXb1wAXMxbH`

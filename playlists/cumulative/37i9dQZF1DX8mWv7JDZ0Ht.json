@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154377,
+      "name": "baby n\u00e3o v\u00e1",
+      "url": "https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh"
+    },
+    {
+      "album": {
         "name": "BabyBaby",
         "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
       },
@@ -7798,7 +7816,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 156414,
       "name": "HOJE VAI DAR PRAIA",
       "url": "https://open.spotify.com/track/1h7mI9d9Gq1IttWQPoRtwb"
@@ -11134,7 +11152,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 120000,
       "name": "N\u00e3o \u00e9 t\u00e3o ruim",
       "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
@@ -14599,6 +14617,24 @@
     },
     {
       "album": {
+        "name": "Ver\u00e3071",
+        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "Sentir Seu Calor",
+      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
+    },
+    {
+      "album": {
         "name": "Ser Eu",
         "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
       },
@@ -15128,6 +15164,32 @@
       "duration_ms": 246875,
       "name": "Sou Fera",
       "url": "https://open.spotify.com/track/0HxX5p4HIO4pULJkCRbbqX"
+    },
+    {
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198703,
+      "name": "soul brasileiro",
+      "url": "https://open.spotify.com/track/0iWJQJ8xkCNqVyCWOG6hRM"
     },
     {
       "album": {
@@ -16878,7 +16940,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-17",
       "duration_ms": 192494,
       "name": "um dia tudo acaba",
       "url": "https://open.spotify.com/track/1ER2UcRQEIxghQsAcmd9bP"

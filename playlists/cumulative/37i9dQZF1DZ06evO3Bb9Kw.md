@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 40 min
+116 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Butterfly Season \(feat\. Miranda Lambert\)](https://open.spotify.com/track/37kzuSrUdgkC3X22F0bLbw) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:32 | 2026-04-12 |  |
 | [Carousel \- Live from the 2023 ACM Awards](https://open.spotify.com/track/6xM7M3mgtr6WhrfR38wxYQ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Carousel \(Live from the 2023 ACM Awards\)](https://open.spotify.com/album/6f1cHtgOXyPgqvxYXHnP3Q) | 4:12 | 2023-10-10 | 2023-12-14 |
 | [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 | 2022-09-08 |  |
+| [Crisco](https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE) | 2:56 | 2026-05-17 |  |
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-06-30 | 2025-04-03 |
 | [Dammit Randy](https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 2:59 | 2025-04-10 | 2025-12-29 |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:22 | 2022-09-08 | 2023-12-14 |
@@ -95,7 +96,7 @@
 | [Smokin' and Drinkin' \(feat\. Little Big Town\)](https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 5:30 | 2022-09-08 | 2024-08-10 |
 | [Smokin' and Drinkin' \- Commentary](https://open.spotify.com/track/1F5XzECYlqNC38etC41rVF) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum Spotify Commentary](https://open.spotify.com/album/3KA9nD37o4VCO1UpyzVAF4) | 0:38 | 2024-06-25 | 2024-06-27 |
 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-09-08 |  |
-| [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-24 |  |
+| [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-24 | 2026-05-17 |
 | [Still That Cowboy \(feat\. Miranda Lambert\)](https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Still That Cowboy \(feat\. Miranda Lambert\)](https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq) | 3:34 | 2024-11-24 | 2025-02-17 |
 | [Still That Cowboy \(feat\. Miranda Lambert\)](https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Note To Self \(Deluxe\)](https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM) | 3:50 | 2025-02-24 | 2025-04-15 |
 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-09-08 |  |

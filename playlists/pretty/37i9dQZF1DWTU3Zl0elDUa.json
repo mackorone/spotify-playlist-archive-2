@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 571097,
+  "num_followers": 571459,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
+        "name": "I'll Be Your Friend",
+        "url": "https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI"
+      },
+      "artists": [
+        {
+          "name": "Robert Owens",
+          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+        }
+      ],
+      "duration_ms": 456911,
+      "name": "I'll Be Your Friend - Original Mix (2011 Remastered Version)",
+      "url": "https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
         "name": "Anthem (The Mafia Mix)",
         "url": "https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 289826,
       "name": "Anthem - The Mafia Mix",
       "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
-        "name": "I'll Be Your Friend",
-        "url": "https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI"
-      },
-      "artists": [
-        {
-          "name": "Robert Owens",
-          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
-        }
-      ],
-      "duration_ms": 456911,
-      "name": "I'll Be Your Friend - Original Mix (2011 Remastered Version)",
-      "url": "https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO"
     },
     {
       "added_at": "2026-05-04 16:53:23",

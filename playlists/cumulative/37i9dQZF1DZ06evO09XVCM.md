@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 31 min
+85 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC) | 3:39 | 2024-02-01 | 2026-01-31 |
 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 | 2024-02-01 | 2025-11-27 |
 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 | 2024-02-01 |  |
+| [Hey People Now](https://open.spotify.com/track/5bGfTEbYqYFf1DA1d3VpSm) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 4:43 | 2026-05-17 |  |
 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 | 2024-02-23 |  |
 | [High On Life](https://open.spotify.com/track/4goc7AKZBLAuvHU7kA9TnJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K) | 3:05 | 2024-02-01 | 2025-02-21 |
 | [High Tide or Low Tide \(feat\. Ziggy Marley\)](https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Misery's End](https://open.spotify.com/album/4CBNoIvY1WJ0ywFkeJpQMW) | 4:59 | 2024-02-01 | 2024-07-21 |
@@ -80,7 +81,7 @@
 | [Sweet Divine](https://open.spotify.com/track/1h8JLrs9O8HcbkF0jdaORZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 4:22 | 2026-05-12 |  |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Toots Hibbert](https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:18 | 2024-02-04 | 2025-11-04 |
 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 | 2024-02-01 |  |
-| [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 | 2024-06-10 |  |
+| [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 | 2024-06-10 | 2026-05-17 |
 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 | 2024-02-01 | 2026-03-03 |
 | [There's A Reward](https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Old Soul](https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um) | 3:45 | 2024-02-01 |  |
 | [This Train \(feat\. Willie Nelson\)](https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:38 | 2024-03-24 | 2026-02-23 |

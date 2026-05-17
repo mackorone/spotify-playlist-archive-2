@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Tasché en Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,090 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,153 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 33 | [Shotgun](https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Shotgun](https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F) | 3:12 |
 | 34 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
 | 35 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
-| 36 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
+| 36 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
 | 37 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
-| 38 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
-| 39 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
+| 38 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
+| 39 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 40 | [Monica](https://open.spotify.com/track/2im5SmQjuHhVcWuo28skZT) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Monica](https://open.spotify.com/album/7v4TqWVYYflWPx5sx52hjQ) | 3:12 |
 | 41 | [Sonsak In Die Vrystaat](https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Sonsak In Die Vrystaat](https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK) | 4:24 |
 | 42 | [Lei My Na Die Water](https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:41 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 71 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 |
 | 72 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
 | 73 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 |
-| 74 | [Sou Jy?](https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Sou Jy?](https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M) | 3:01 |
-| 75 | [Bitterblou](https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Bitterblou](https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC) | 3:32 |
-| 76 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 |
+| 74 | [Bitterblou](https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Bitterblou](https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC) | 3:32 |
+| 75 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 |
+| 76 | [Sou Jy?](https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Sou Jy?](https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M) | 3:01 |
 | 77 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
-| 78 | [Jagtrip](https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Jagtrip](https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6) | 3:18 |
-| 79 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
+| 78 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
+| 79 | [Jagtrip](https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Jagtrip](https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6) | 3:18 |
 | 80 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
 
 Snapshot ID: `AAAAAKdxpG3Oxmhc9g9As4n/rR6lzOhw`

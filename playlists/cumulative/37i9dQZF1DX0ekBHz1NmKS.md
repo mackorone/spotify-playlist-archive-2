@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,263 songs - 4 day 21 hr 30 min
+2,264 songs - 4 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Allt jag aldrig kunde säga](https://open.spotify.com/track/1qf2RJ7CojH9GSf6F6hZ57) | [Julia Adams](https://open.spotify.com/artist/3Cg6FMCFpcMHugD262Ynrl) | [Älska mig hel](https://open.spotify.com/album/0pGKr4g5u6w2zQeBKTCaoV) | 4:08 | 2024-05-02 | 2024-06-01 |
 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 | 2025-08-21 | 2026-01-15 |
 | [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 | 2022-11-06 |
+| [ALLT JAG VILL HA](https://open.spotify.com/track/5SQnjFE3jfSrmGMbwG16Xw) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [ALLT JAG VILL HA](https://open.spotify.com/album/3PMhwzU8vxTJkQNcPSAcai) | 2:11 | 2026-05-14 |  |
 | [Allt jag önskar](https://open.spotify.com/track/0Yzn9TgHJGeWwqrP1ll2qx) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Allt jag önskar](https://open.spotify.com/album/2MH5KMEA9YKBfUwKCOVlOL) | 3:40 | 2024-03-28 | 2024-05-03 |
 | [Allt kommer bli bra](https://open.spotify.com/track/5S2nxFYpzU2mAoIIbfN1TV) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Allt kommer bli bra](https://open.spotify.com/album/7fbol144DeALlnRNbXScrK) | 3:19 | 2024-06-13 | 2024-08-16 |
 | [Allt som jag har](https://open.spotify.com/track/0qPO2biS5faUuIiXql9I6N) | [Viktor Nordström](https://open.spotify.com/artist/6o6uQFrQob5ylTDifuX2hx) | [Allt som jag har](https://open.spotify.com/album/5KR2BBbAbkkivrRJugOsWu) | 3:23 | 2024-02-08 | 2024-02-18 |
@@ -399,7 +400,7 @@
 | [Det blir inte bättre](https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Det blir inte bättre](https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC) | 3:15 | 2024-06-06 | 2024-08-09 |
 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 | 2025-10-16 | 2026-02-13 |
 | [Det gick för fort](https://open.spotify.com/track/2IP86vuYJ7yaEEk0Z6dbI5) | [NIMT](https://open.spotify.com/artist/5lFSHgxz53iq69mFl0gJuY) | [Det gick för fort](https://open.spotify.com/album/1x1zdgftoj6RTOoRvL3ABa) | 2:34 | 2023-11-16 | 2024-02-09 |
-| [Det gör så ont](https://open.spotify.com/track/6FyKG2Pw4JPYi7jJ7Hh5gC) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Det gör så ont](https://open.spotify.com/album/4OSwNvqp1QyONZIHWb1zV4) | 2:33 | 2026-04-09 |  |
+| [Det gör så ont](https://open.spotify.com/track/6FyKG2Pw4JPYi7jJ7Hh5gC) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Det gör så ont](https://open.spotify.com/album/4OSwNvqp1QyONZIHWb1zV4) | 2:33 | 2026-04-09 | 2026-05-17 |
 | [Det här ska dom få fa\-an för \- Från filmen "Håkan Bråkan 2"](https://open.spotify.com/track/2oBc1QrxsWLSQ6rPekjb2T) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Det här ska dom få fa\-an för \(Från filmen "Håkan Bråkan 2"\)](https://open.spotify.com/album/6kW6gQlPBa53JAczZVaU8O) | 2:55 | 2024-02-08 | 2024-03-24 |
 | [Det här är hjärtat](https://open.spotify.com/track/0aIXjVMPaUKxYjRt51K1bg) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Det här är hjärtat](https://open.spotify.com/album/2DjXiYLzBitUyBRIpBJuB3) | 4:31 | 2026-04-09 | 2026-04-21 |
 | [Det kommer bli bra](https://open.spotify.com/track/5U5hlK1E0ozMOtd1cynRnH) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Paradis](https://open.spotify.com/album/5n92UT4wznUdPlFx6sw7Ir) | 2:50 | 2022-09-15 | 2022-09-30 |

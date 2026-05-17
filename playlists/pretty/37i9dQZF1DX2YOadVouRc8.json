@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 47427,
+  "num_followers": 47441,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-05-15 00:01:18",
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
-    },
-    {
-      "added_at": "2026-05-15 00:01:18",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2026-05-15 00:01:18",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "added_at": "2026-05-15 00:01:18",
@@ -871,6 +855,22 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2026-05-15 00:01:18",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-05-15 00:01:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-15 00:01:18",
       "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "What They Want?",
-      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
-    },
-    {
-      "added_at": "2026-05-15 00:01:18",
-      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/21eSLFBAixgBLOOdP1hVJO"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 144796,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/1MTKNG15TdQP6hLenlqlV5"
+    },
+    {
+      "added_at": "2026-05-15 00:01:18",
+      "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "What They Want?",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
     },
     {
       "added_at": "2026-05-15 00:01:18",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-05-15 00:01:18",
       "album": {
-        "name": "So Much Sense",
-        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 168072,
-      "name": "So Much Sense",
-      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
-    },
-    {
-      "added_at": "2026-05-15 00:01:18",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 212107,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2026-05-15 00:01:18",
+      "album": {
+        "name": "So Much Sense",
+        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 168072,
+      "name": "So Much Sense",
+      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
     },
     {
       "added_at": "2026-05-15 00:01:18",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-05-15 00:01:18",
       "album": {
+        "name": "Super Woman",
+        "url": "https://open.spotify.com/album/0Nqwx5p51hPWe2zQ3YGbKQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "Super Woman",
+      "url": "https://open.spotify.com/track/0Vf5YS7dS9xABKnfvzGf1T"
+    },
+    {
+      "added_at": "2026-05-15 00:01:18",
+      "album": {
         "name": "Must Have Been",
         "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
       },
@@ -1507,30 +1527,6 @@
       "duration_ms": 155164,
       "name": "Mukutu",
       "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
-    },
-    {
-      "added_at": "2026-05-15 00:01:18",
-      "album": {
-        "name": "By Any Minz",
-        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 192031,
-      "name": "f.u.",
-      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
     }
   ],
   "unique_name": "Afro Chill",

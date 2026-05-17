@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,539 songs - 3 day 5 hr 24 min
+1,540 songs - 3 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Adamın Dibi](https://open.spotify.com/track/204vk1sfqltmQRHDFivr7g) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Sirenler](https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf) | 4:37 | 2022-01-22 | 2022-01-25 |
 | [Aden P2](https://open.spotify.com/track/40Sala0O1VkPH2YM98xVL9) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Bir Şeytan Masalı](https://open.spotify.com/album/0YpM7NeedzcdGHPKWM2PO6) | 3:12 | 2021-10-17 | 2021-11-28 |
 | [Aden P2](https://open.spotify.com/track/5nH7scL0E9sDQjGnNiTWMm) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Aden P2](https://open.spotify.com/album/7JDEWPS8vHlkhl39DmNAdR) | 3:12 | 2021-09-02 | 2021-10-17 |
+| [Adı İntikamdı](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 | 2026-05-16 |  |
 | [Adı İntikamdı](https://open.spotify.com/track/1grkLF2HjCaj3ML8eQqd5G) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Karizma](https://open.spotify.com/album/7yPWyBHh1bPfwtiNKTa9FG) | 3:51 | 2026-05-06 | 2026-05-08 |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-28 | 2025-07-06 |
 | [Adım Yok](https://open.spotify.com/track/0WRYaEixiNLu2PI54di5DQ) | [yirmi7](https://open.spotify.com/artist/1vnJ4IgK3BOqkGQ38RqAvs) | [Adım Yok](https://open.spotify.com/album/7aeTQCdygGMVvsy7glsnjo) | 3:40 | 2022-02-12 | 2022-02-14 |
@@ -1008,7 +1009,7 @@
 | [MUFASA](https://open.spotify.com/track/1ChTWdJMMWH1OeSO4z3OBe) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 3:01 | 2023-11-25 | 2023-11-27 |
 | [Murabba](https://open.spotify.com/track/6qJXJ9OvhQ7ETQX8pb2UDm) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Amon Ra](https://open.spotify.com/album/0xOzLMmIsYJORVxFo1UcBe) | 2:33 | 2026-01-23 | 2026-05-03 |
 | [MUSALLAT](https://open.spotify.com/track/54Ke2X20pG0nmGnId5502J) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [MUSALLAT](https://open.spotify.com/album/3tmLEnWgXedaPN9uVgPoRy) | 3:12 | 2021-05-30 | 2021-05-31 |
-| [MUSTAFA](https://open.spotify.com/track/1avK8fHOtCXfTB5SJUuBCu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:08 | 2026-05-14 |  |
+| [MUSTAFA](https://open.spotify.com/track/1avK8fHOtCXfTB5SJUuBCu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:08 | 2026-05-14 | 2026-05-17 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-27 |
 | [Mümkünse](https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YBF](https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB) | 3:16 | 2024-04-06 | 2024-04-08 |
 | [Müphem](https://open.spotify.com/track/4rH2IQ3tNg5clDOnzut7RV) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 5:15 | 2023-07-29 | 2023-09-27 |
@@ -1408,7 +1409,7 @@
 | [Yalnızlığın Çaresini Bulmuşlar](https://open.spotify.com/track/3jW5r9FkxQuouF9sMSw2hb) | [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Yalnızlığın Çaresini Bulmuşlar](https://open.spotify.com/album/1MUwwfvi3oj5FxKLc6VnSO) | 3:46 | 2026-01-31 | 2026-05-06 |
 | [YAN YANA](https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [YAN YANA](https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8) | 3:34 | 2023-05-27 | 2023-06-04 |
 | [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 | 2024-05-25 |
-| [Yanarım](https://open.spotify.com/track/69dbmLAqR6BTHOvMpZ7XK3) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Sertab Erener](https://open.spotify.com/album/4hzE9JQT3m5nkgE7mIeOzl) | 3:15 | 2026-02-19 |  |
+| [Yanarım](https://open.spotify.com/track/69dbmLAqR6BTHOvMpZ7XK3) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Sertab Erener](https://open.spotify.com/album/4hzE9JQT3m5nkgE7mIeOzl) | 3:15 | 2026-02-19 | 2026-05-17 |
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 | 2026-05-15 |  |
@@ -1467,7 +1468,7 @@
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-02-06 | 2024-06-22 |
 | [Yolum Açık](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Yolum Açık](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-04-29 | 2023-05-01 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-16 |
-| [yâr](https://open.spotify.com/track/4pdrlGq6TtXXxDSiBuGri2) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [yâr](https://open.spotify.com/album/0SGDWyeUeMvJdo89tLLpdP) | 2:38 | 2026-05-09 | 2026-05-16 |
+| [yâr](https://open.spotify.com/track/4pdrlGq6TtXXxDSiBuGri2) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [yâr](https://open.spotify.com/album/0SGDWyeUeMvJdo89tLLpdP) | 2:38 | 2026-05-09 |  |
 | [Yürek](https://open.spotify.com/track/1KS8f2xRqTC3zflbPpFrcM) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz) | 4:11 | 2025-03-26 | 2025-03-30 |
 | [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2023-11-07 | 2024-08-13 |
 | [Yüzük](https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Ben Hala Rüyada](https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN) | 4:18 | 2026-04-21 |  |

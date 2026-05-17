@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-371 songs - 21 hr 26 min
+373 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
 | [Alaska](https://open.spotify.com/track/3WukgJpmcq8yXrzTF3KkQq) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Alaska](https://open.spotify.com/album/5kBzzVfbKOAgvgMKHoAT3S) | 3:16 | 2026-05-10 |  |
 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 | 2026-05-13 |  |
+| [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 | 2026-05-16 |  |
 | [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 | 2026-04-12 |  |
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 | 2026-04-16 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 | 2026-05-14 |
@@ -60,6 +61,7 @@
 | [Coca Cola](https://open.spotify.com/track/3SZmF1bX0bCw5U0rKZHq8P) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Coca Cola](https://open.spotify.com/album/6N7sdx1gFiQvvzuFdVmyMl) | 3:30 | 2025-10-30 | 2025-12-12 |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-02 | 2026-01-17 |
 | [Collectable](https://open.spotify.com/track/0qAsgNlx10l0k8Xaj4acwd) | [Håvard Øieroset](https://open.spotify.com/artist/4j1XvtR2UwrQi3DrUWfFJe) | [Clean Sheets](https://open.spotify.com/album/373bH6IhZTA6sDbW5q7nMl) | 2:25 | 2026-04-28 |  |
+| [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 | 2026-05-16 |  |
 | [Colours They Don't See](https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Colours They Don't See](https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD) | 3:19 | 2026-02-16 | 2026-04-16 |
 | [Comatose](https://open.spotify.com/track/4IxGpophDYgt0dj6nv4UfF) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Comatose](https://open.spotify.com/album/72boVn8Nvk0ZwxiGwRIHYB) | 3:37 | 2026-03-09 | 2026-04-16 |
 | [Come Find Me \(Hungry People\)](https://open.spotify.com/track/1ZrfA7actP3DPjwwuFhHwK) | [The Goth Moth](https://open.spotify.com/artist/5UQU2HW4TItA5rVp9bEXvi) | [Come Find Me \(Hungry People\)](https://open.spotify.com/album/7BJWHATbf55tIfPFDhXeHT) | 2:52 | 2026-04-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 671881,
+  "num_followers": 671858,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-05-07 23:00:35",
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T"
+      },
+      "artists": [
+        {
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+        }
+      ],
+      "duration_ms": 432941,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
+    },
+    {
+      "added_at": "2026-05-07 23:00:35",
+      "album": {
         "name": "Hyperphantasia",
         "url": "https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 250000,
       "name": "Home",
       "url": "https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3"
-    },
-    {
-      "added_at": "2026-05-07 23:00:35",
-      "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T"
-      },
-      "artists": [
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
-        }
-      ],
-      "duration_ms": 432941,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
     },
     {
       "added_at": "2026-05-07 23:00:35",
@@ -859,26 +859,22 @@
     {
       "added_at": "2026-05-07 23:00:35",
       "album": {
-        "name": "Music For Psychedelic Therapy (Excerpt)",
-        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1sdtDcHgD8ldGjXF2pgrSd"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
         },
         {
-          "name": "Ram Dass",
-          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
         }
       ],
-      "duration_ms": 502705,
-      "name": "Sit Around The Fire",
-      "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"
+      "duration_ms": 317796,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7lcnSJwHkEHIwMSdPjavqH"
     }
   ],
   "unique_name": "The Wind Down",

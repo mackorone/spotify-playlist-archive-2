@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 132172,
+  "num_followers": 132186,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agUQgAAAAAAz6z+/KDltwi/elgJA+8W3",
+  "snapshot_id": "agZiAAAAAACrwO/P6Vo0y9jRyCpdPqS3",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 222071,
       "name": "Lady Macbeth In Chains",
       "url": "https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Flint (For the Unemployed and Underpaid)",
-      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ascension",
         "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 255721,
       "name": "Video Game",
       "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
     },
     {
       "added_at": null,
