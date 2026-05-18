@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 340245,
+  "num_followers": 340532,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
-      },
-      "artists": [
-        {
-          "name": "where??",
-          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "of folded photographs",
         "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 221813,
       "name": "of folded photographs",
       "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "try to find you",
+        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 99493,
+      "name": "try to find you",
+      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "try to find you",
-        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 99493,
-      "name": "try to find you",
-      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "fly high",
-        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
-      },
-      "artists": [
-        {
-          "name": "ambit.",
-          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
-        }
-      ],
-      "duration_ms": 107056,
-      "name": "fly high",
-      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 219000,
       "name": "From a Convenient Grass",
       "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
-      },
-      "artists": [
-        {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
-        },
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
-        }
-      ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "you were never really mine.",
         "url": "https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I"
       },
@@ -1059,22 +1039,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lost in the forest",
-        "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
         },
         {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 106675,
-      "name": "lost in the forest",
-      "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1095,18 +1075,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "lost in the forest",
+        "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 106675,
+      "name": "lost in the forest",
+      "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1127,6 +1111,22 @@
       "duration_ms": 98644,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "if things were different",
+        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
+      },
+      "artists": [
+        {
+          "name": "findnothing",
+          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
+        },
+        {
+          "name": "hide waldo",
+          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
+        }
+      ],
+      "duration_ms": 98108,
+      "name": "for us",
+      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1255,30 +1279,6 @@
       "duration_ms": 200059,
       "name": "Perpetual Care",
       "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "if things were different",
-        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
-      },
-      "artists": [
-        {
-          "name": "findnothing",
-          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
-        },
-        {
-          "name": "hide waldo",
-          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
-        }
-      ],
-      "duration_ms": 98108,
-      "name": "for us",
-      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+        "name": "eclipse",
+        "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+      "duration_ms": 112615,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1515,22 +1519,34 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "eclipse",
-        "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
       "artists": [
         {
-          "name": "R\u014d\u014dh",
-          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
-        },
-        {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
         }
       ],
-      "duration_ms": 112615,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "my last days on earth",
+        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "my last days on earth",
+      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Too Much Love",
-        "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 133591,
-      "name": "Too Much Love",
-      "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "my last days on earth",
-        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+        "name": "Too Much Love",
+        "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
       },
       "artists": [
         {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
         }
       ],
-      "duration_ms": 139200,
-      "name": "my last days on earth",
-      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
+      "duration_ms": 133591,
+      "name": "Too Much Love",
+      "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Bathed in Grey",
-        "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
-      },
-      "artists": [
-        {
-          "name": "Michael FK",
-          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
-        }
-      ],
-      "duration_ms": 253090,
-      "name": "Bathed in Grey",
-      "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "lost in a memory",
         "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 168013,
       "name": "lost in a memory",
       "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Bathed in Grey",
+        "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
+      },
+      "artists": [
+        {
+          "name": "Michael FK",
+          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Bathed in Grey",
+      "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "nowhere else",
-        "url": "https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY"
+        "name": "morning after midnight",
+        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
       },
       "artists": [
         {
-          "name": "tee",
-          "url": "https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2"
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
         },
         {
-          "name": "tiired",
-          "url": "https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN"
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
         }
       ],
-      "duration_ms": 117209,
-      "name": "nowhere else",
-      "url": "https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj"
+      "duration_ms": 136054,
+      "name": "morning after midnight",
+      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     }
   ],
   "unique_name": "gloomcore",

@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-278 songs - 13 hr 35 min
+279 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Otrava](https://open.spotify.com/track/0CNabe96mGBCMn22tTCZ5v) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Otrava](https://open.spotify.com/album/5zDse55zEb8drEC7Vjc0pv) | 3:13 | 2025-11-20 | 2025-12-05 |
 | [Paradis 3](https://open.spotify.com/track/43Gt5PkBPDDzscRlWCfZps) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Paradis 3](https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj) | 3:50 | 2025-07-04 | 2025-10-10 |
 | [paradyse](https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [paradyse](https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e) | 3:31 | 2026-04-30 | 2026-05-15 |
-| [Parola](https://open.spotify.com/track/5xwfZrKbwp65LnogR0Nruc) | [Alex Bittman](https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Parola](https://open.spotify.com/album/1l3Ei1vzDOSHONg4JhTXD2) | 3:33 | 2026-03-19 |  |
+| [Parola](https://open.spotify.com/track/5xwfZrKbwp65LnogR0Nruc) | [Alex Bittman](https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Parola](https://open.spotify.com/album/1l3Ei1vzDOSHONg4JhTXD2) | 3:33 | 2026-03-19 | 2026-05-18 |
 | [PATEK](https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [PATEK](https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz) | 2:25 | 2025-01-09 | 2025-02-10 |
 | [Periplu către fericire](https://open.spotify.com/track/4E0ipjLhs2x9RSXMLDB15r) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Periplu către fericire](https://open.spotify.com/album/1ZhcfGbO7STLlijE5H22V7) | 3:28 | 2025-01-16 | 2025-01-31 |
 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 | 2024-06-27 | 2026-02-13 |
@@ -229,6 +229,7 @@
 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 | 2024-08-22 | 2024-10-18 |
 | [Soarele Răsare Din Nou](https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Soarele Răsare Din Nou](https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW) | 2:55 | 2024-08-22 | 2024-11-26 |
 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 | 2024-09-19 | 2025-06-20 |
+| [Sper Ca Esti Bine](https://open.spotify.com/track/0vgn8QtF7e4ljh7kzLhKmt) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/48upqqLLA13iRSdIjXRKjI) | 2:53 | 2026-05-14 |  |
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 | 2025-06-17 |
 | [STILL IN LUV](https://open.spotify.com/track/2o7xkPKZ3nvp1zjyhrbyoS) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [STILL IN LUV](https://open.spotify.com/album/5DU4TXi3lF6JnLBOkDHzkB) | 2:46 | 2025-05-01 | 2025-05-16 |
 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2026-05-15 |

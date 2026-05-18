@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,630,599 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,630,759 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 99 | [Endless](https://open.spotify.com/track/7KT7XvTEEb2YhIHip9J8cx) | [Russell Preston](https://open.spotify.com/artist/4NsaPckmCaT1Va19CbRqig) | [Endless](https://open.spotify.com/album/15seUjl0TJz0MI0zaQwfL1) | 2:55 |
 | 100 | [One Last Time](https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [One Last Time](https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y) | 3:06 |
 
-Snapshot ID: `AAAAAD7yq4sLUSzlpdkgLU3TFHaeNzWE`
+Snapshot ID: `AAAAAKylQMLIY4n4rUQYh4SyBoZ4HolA`

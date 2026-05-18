@@ -4,7 +4,7 @@
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 58 min
+48 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,13 +17,14 @@
 | [Don’t You Wanna Make Love](https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 4:02 | 2025-12-18 |  |
 | [Drop By My Place](https://open.spotify.com/track/71DMqKYyDkS1otrkh0vR1x) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:47 | 2025-12-18 | 2025-12-24 |
 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 | 2025-12-18 |  |
+| [Fighting In The Name Of Love](https://open.spotify.com/track/1tElwTh2KSprYI9SUIJmpM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:26 | 2026-05-18 |  |
 | [Free Fine and 21](https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:57 | 2025-12-18 |  |
 | [God Is Good](https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [God Is Good](https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z) | 4:20 | 2025-12-18 |  |
 | [Hold On a Little Longer](https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Hold On a Little Longer](https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq) | 3:21 | 2025-12-18 |  |
 | [Hot](https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:07 | 2025-12-18 |  |
 | [I Can Feel It](https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:27 | 2025-12-18 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:30 | 2025-12-18 |  |
-| [I’ve Got That Boogie Fever](https://open.spotify.com/track/4hwzwno5WzERkMSGlmjp5n) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 6:14 | 2025-12-18 |  |
+| [I’ve Got That Boogie Fever](https://open.spotify.com/track/4hwzwno5WzERkMSGlmjp5n) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 6:14 | 2025-12-18 | 2026-05-18 |
 | [La La Song](https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [La La Song](https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ) | 3:16 | 2025-12-18 |  |
 | [Let Me Love You 'Til Morning Comes](https://open.spotify.com/track/0u4VPsMn34E45M7Xnkaot9) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:53 | 2025-12-18 |  |
 | [Live for Today Not for Tomorrow](https://open.spotify.com/track/0xPyJ2heaXVlQF2725s51g) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:58 | 2026-02-24 | 2026-03-20 |

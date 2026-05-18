@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Arc (Remix)",
+        "url": "https://open.spotify.com/album/2PMh1bpOl7qUQV5wAoCvxr"
+      },
+      "artists": [
+        {
+          "name": "VULIN",
+          "url": "https://open.spotify.com/artist/6dPld4nrLbpPixYurRKbjJ"
+        },
+        {
+          "name": "Silibil Billy Boyd",
+          "url": "https://open.spotify.com/artist/1xxU17i6PFPWEOt4BDIG7M"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Arc - Remix",
+      "url": "https://open.spotify.com/track/3U6x4ygH0GUwD0P1EQEGt5"
+    },
+    {
+      "album": {
         "name": "Are You Satisfied?",
         "url": "https://open.spotify.com/album/6k0grUQD7y9UxumSaX0pp7"
       },
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "Escape",
       "url": "https://open.spotify.com/track/3V2s8iY5pq8OE5UQVwKi5B"
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 195761,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z"
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 187682,
       "name": "Forever and a Day",
       "url": "https://open.spotify.com/track/1f3ENIIFLd67DajPERsgTH"
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 263000,
       "name": "FUBAR",
       "url": "https://open.spotify.com/track/7fQYGMFmYytvX1K9HxxpyT"
@@ -2407,6 +2429,32 @@
     },
     {
       "album": {
+        "name": "Everyone Has a Story to Tell",
+        "url": "https://open.spotify.com/album/0vP2EINyIA4Lx1v3EmYKTE"
+      },
+      "artists": [
+        {
+          "name": "Silibil Billy Boyd",
+          "url": "https://open.spotify.com/artist/1xxU17i6PFPWEOt4BDIG7M"
+        },
+        {
+          "name": "VULIN",
+          "url": "https://open.spotify.com/artist/6dPld4nrLbpPixYurRKbjJ"
+        },
+        {
+          "name": "To The Wild",
+          "url": "https://open.spotify.com/artist/79YoLVxfjGDomsVrfYbaQu"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Lost Soul (Brains Redemption From California Schemin)",
+      "url": "https://open.spotify.com/track/6rIswjiUbvJFQFGUH7gEfd"
+    },
+    {
+      "album": {
         "name": "Love Is Gonna Hurt This Way Forever",
         "url": "https://open.spotify.com/album/2PzkSBLaQDT05XkR9Q04Gn"
       },
@@ -2952,7 +3000,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 245750,
       "name": "Red Party Cups",
       "url": "https://open.spotify.com/track/1nSgVxt2arPx4JDDZAEmXC"
@@ -3262,7 +3310,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 211484,
       "name": "Sinking Sands",
       "url": "https://open.spotify.com/track/0a0ZHh3vZZsLwCaRlUVVDL"
@@ -3370,7 +3418,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 137684,
       "name": "STEAL MY SLEEP.",
       "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
@@ -3576,7 +3624,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 200285,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/21GNvaS4AaXlsWAhpknOUE"
@@ -3984,7 +4032,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 208000,
       "name": "Who's Gonna Keep Me Holding On",
       "url": "https://open.spotify.com/track/1MFiB1Uy4ZKL3DnX47Hvoq"

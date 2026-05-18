@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-373 songs - 21 hr 33 min
+375 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 | 2026-03-29 |
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 | 2026-03-26 | 2026-04-21 |
+| [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 | 2026-05-17 |  |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 | 2026-05-10 |  |
 | [Forget The Serotonin High, I Much Prefer The Void Anyways](https://open.spotify.com/track/0ilKqjDIpc7fmrsYImDKBa) | [Echo Alexander](https://open.spotify.com/artist/0ghlorYK2vI8FZjkkeUEA1) | [Nightmares That Have Become Reality](https://open.spotify.com/album/4Qi0uQiaMPfPZ1hOfjpO14) | 4:41 | 2026-05-10 |  |
@@ -166,6 +167,7 @@
 | [I Heard You](https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA) | [Moonsette](https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF) | [Invisible Chameleon](https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx) | 5:15 | 2026-02-09 | 2026-03-29 |
 | [I stood for u \(Girlfriends\)](https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo) | [Zombisickle](https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By) | [I stood for u \(Girlfriends\)](https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF) | 1:41 | 2026-04-06 | 2026-05-14 |
 | [I Tried](https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS) | [MALØNE](https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540) | [Energy](https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N) | 2:10 | 2026-04-23 |  |
+| [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 | 2026-05-17 |  |
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-08 | 2026-03-29 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 | 2026-01-17 |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |

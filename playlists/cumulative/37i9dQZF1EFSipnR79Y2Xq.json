@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Medio Borracho",
+        "url": "https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165142,
+      "name": "El Mundo Rueda",
+      "url": "https://open.spotify.com/track/3BdYjVKvOR8HU1iEESeVJt"
+    },
+    {
+      "album": {
         "name": "EL PROFESOR",
         "url": "https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8"
       },
@@ -2194,6 +2212,24 @@
       "duration_ms": 197777,
       "name": "Tragos En Mi Mesa",
       "url": "https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3"
+    },
+    {
+      "album": {
+        "name": "Medio Borracho",
+        "url": "https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240869,
+      "name": "Tu Amor Como Cigarro",
+      "url": "https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w"
     },
     {
       "album": {

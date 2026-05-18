@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist\. Congrats to this year's winner DARA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,894 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,161 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 8 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:54 |
 | 9 | [Ridnym \- Eurovision Version](https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym \(Eurovision Version\)](https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn) | 2:58 |
 | 10 | [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 |
-| 11 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
+| 11 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7), [Violin Phonix](https://open.spotify.com/artist/1PjznJeNAIKEEeTkVWYUBL) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
 | 12 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
 | 13 | [Nân](https://open.spotify.com/track/40vsOMljwhHCibpToRULGo) | [Alis](https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT) | [Nân](https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo) | 3:09 |
 | 14 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 34 | [Ēnā](https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ) | [Atvara](https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0) | [Ēnā](https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K) | 2:53 |
 | 35 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |
 
-Snapshot ID: `AAAAAJQ/vGoEQ7a+cJOEUf3dVVFF1URo`
+Snapshot ID: `AAAAAGSZMkFd1kTxiA+5RkH4y7g35oIs`

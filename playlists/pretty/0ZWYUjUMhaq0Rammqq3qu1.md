@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Celebrating all that is Eurovision over 70 years, this collection spotlights 2026 participants plus winners across the decades of the beloved and spectacularly enduring song contest.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,868 likes - 108 songs - 5 hr 26 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,854 likes - 108 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 80 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 |
 | 81 | [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 |
 | 82 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 |
-| 83 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
+| 83 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7), [Violin Phonix](https://open.spotify.com/artist/1PjznJeNAIKEEeTkVWYUBL) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
 | 84 | [Alice \- ESC Version](https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Alice \(ESC Version\)](https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS) | 3:00 |
 | 85 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
 | 86 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |

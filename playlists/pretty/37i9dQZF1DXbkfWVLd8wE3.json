@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 280234,
+  "num_followers": 280372,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Beware Of Dog",
-        "url": "https://open.spotify.com/album/3StlnPpl2Q9UMfbUVjO2hu"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow",
-          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Bow Wow (That's My Name) (feat. Snoop Dogg)",
-      "url": "https://open.spotify.com/track/3RnLEACttdwU6futFsaflI"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Broken Silence",
         "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 260825,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Beware Of Dog",
+        "url": "https://open.spotify.com/album/3StlnPpl2Q9UMfbUVjO2hu"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Bow Wow (That's My Name) (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3RnLEACttdwU6futFsaflI"
     },
     {
       "added_at": "2024-10-25 23:07:14",

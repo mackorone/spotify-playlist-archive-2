@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16334,
+  "num_followers": 16335,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAABVRxJMZ/AN2TFTgfc/0MoC",
+  "snapshot_id": "agezgAAAAAAwAnBWhnffmDPmpywKYF1X",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Options (Deluxe)",
         "url": "https://open.spotify.com/album/0aixn2g2N7u3U2vburaP6G"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 200523,
       "name": "Catching Feelings (feat. J Boog) - Bimwala Remix",
       "url": "https://open.spotify.com/track/6qHOK4qaE62rAjq6pjLsHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,

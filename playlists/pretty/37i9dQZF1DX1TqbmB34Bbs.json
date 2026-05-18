@@ -1,6 +1,6 @@
 {
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: BIG Naughty(\ube45\ub098\ud2f0)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 25645,
+  "num_followers": 25647,
   "original_name": "K`illin'",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
+        "name": "Drop It (Feat. Lee Young Ji)",
+        "url": "https://open.spotify.com/album/3x9tr24YJzMIrdMALODKxX"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Drop It (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/6aqS0goA2itXCYa4Jq1wnY"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
         "name": "mp3",
         "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 157493,
       "name": "Bullshit (Feat. Kid Milli, TOMMY YANG)",
       "url": "https://open.spotify.com/track/69SJyODjpZhYDLwGJoAdox"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
-        "name": "Drop It (Feat. Lee Young Ji)",
-        "url": "https://open.spotify.com/album/3x9tr24YJzMIrdMALODKxX"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Drop It (Feat. Lee Young Ji)",
-      "url": "https://open.spotify.com/track/6aqS0goA2itXCYa4Jq1wnY"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -1291,30 +1291,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 136240,
-      "name": "Sweaty (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 252760,
       "name": "Diamonds (Feat. lIlBOI, Spray)",
       "url": "https://open.spotify.com/track/6KgkuACjbs8BCaGwwZt4Fj"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 136240,
+      "name": "Sweaty (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "CASH IN",
-        "url": "https://open.spotify.com/album/64wqgT66SxgHf5uAVaIsrg"
-      },
-      "artists": [
-        {
-          "name": "untell",
-          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
-        },
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "KAMBO",
-          "url": "https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i"
-        }
-      ],
-      "duration_ms": 177021,
-      "name": "CASH IN",
-      "url": "https://open.spotify.com/track/7HSDkaGuQUW9eHDNEhWswI"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "\"SIKE\"!",
         "url": "https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 404720,
       "name": "Turn Up! (Feat. M1NU, Veinyfl, Swervy, Layone, Young Ji Lee, Lil Nekh, D.Ark)",
       "url": "https://open.spotify.com/track/6DRXvIUvbUfa1RKQ2YUsl4"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "CASH IN",
+        "url": "https://open.spotify.com/album/64wqgT66SxgHf5uAVaIsrg"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "KAMBO",
+          "url": "https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i"
+        }
+      ],
+      "duration_ms": 177021,
+      "name": "CASH IN",
+      "url": "https://open.spotify.com/track/7HSDkaGuQUW9eHDNEhWswI"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "Came Back to Seoul",
-        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
-      },
-      "artists": [
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 155322,
-      "name": "Came Back to Seoul",
-      "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 160781,
       "name": "LAKU",
       "url": "https://open.spotify.com/track/5xgBNPHw4s99IIQ9GORN71"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "Came Back to Seoul",
+        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Came Back to Seoul",
+      "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -2515,26 +2515,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "Came Back to Seoul",
-        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
-      },
-      "artists": [
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        },
-        {
-          "name": "Rich Iggy",
-          "url": "https://open.spotify.com/artist/0NTtQahShERuGuakUaydEe"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Dogs Freestyle (feat. Rich Iggy)",
-      "url": "https://open.spotify.com/track/2YDduGdU9XSudx0pJP0MLK"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "Focused On Getting Rich",
         "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
       },
@@ -2595,6 +2575,26 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
+        "name": "Came Back to Seoul",
+        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "Rich Iggy",
+          "url": "https://open.spotify.com/artist/0NTtQahShERuGuakUaydEe"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Dogs Freestyle (feat. Rich Iggy)",
+      "url": "https://open.spotify.com/track/2YDduGdU9XSudx0pJP0MLK"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
         "name": "Dillis",
         "url": "https://open.spotify.com/album/4kZCryJSstIHyI2dvud2q3"
       },
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "HWANG JI SANG",
-        "url": "https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc"
-      },
-      "artists": [
-        {
-          "name": "HWANG JI SANG",
-          "url": "https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8"
-        }
-      ],
-      "duration_ms": 110270,
-      "name": "One Two Hook",
-      "url": "https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "DDKD",
         "url": "https://open.spotify.com/album/4oQwIsUmLQZrlWSWaMyFHU"
       },
@@ -2683,6 +2667,22 @@
       "duration_ms": 211080,
       "name": "DDKD (Feat. JUSTHIS, Dynamicduo)",
       "url": "https://open.spotify.com/track/1v48PanV5fux8FH5RYxaj4"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "HWANG JI SANG",
+        "url": "https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc"
+      },
+      "artists": [
+        {
+          "name": "HWANG JI SANG",
+          "url": "https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8"
+        }
+      ],
+      "duration_ms": 110270,
+      "name": "One Two Hook",
+      "url": "https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -2823,34 +2823,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "MultrillVerse",
-        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "XINSAYNE",
-          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
-        },
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Mckdaddy",
-          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Squeeze (feat. XINSAYNE, SINCE, Mckdaddy)",
-      "url": "https://open.spotify.com/track/4HgzbRoNhiav90w3DRfvku"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
         "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
       },
@@ -2899,6 +2871,34 @@
       "duration_ms": 316000,
       "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
       "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "MultrillVerse",
+        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Squeeze (feat. XINSAYNE, SINCE, Mckdaddy)",
+      "url": "https://open.spotify.com/track/4HgzbRoNhiav90w3DRfvku"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "Hwang Jini Freestyle",
-        "url": "https://open.spotify.com/album/0Z6mF3rb7phlga9ZLRFO4p"
-      },
-      "artists": [
-        {
-          "name": "CHIO CHICANO",
-          "url": "https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb"
-        }
-      ],
-      "duration_ms": 127999,
-      "name": "Hwang Jini Freestyle",
-      "url": "https://open.spotify.com/track/655fDPI0t52KQR1dKumUW2"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "HP",
         "url": "https://open.spotify.com/album/4vebiTkRzCqfWYW4uJyylE"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 111200,
       "name": "HAVING (Prod. Will Not Fear)",
       "url": "https://open.spotify.com/track/6BktpeDwZQDilbBg1Maoqu"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "Hwang Jini Freestyle",
+        "url": "https://open.spotify.com/album/0Z6mF3rb7phlga9ZLRFO4p"
+      },
+      "artists": [
+        {
+          "name": "CHIO CHICANO",
+          "url": "https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb"
+        }
+      ],
+      "duration_ms": 127999,
+      "name": "Hwang Jini Freestyle",
+      "url": "https://open.spotify.com/track/655fDPI0t52KQR1dKumUW2"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -3191,6 +3191,30 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
+        "name": "8282(Party) (Feat. SUPERBEE, UNEDUCATED KID)",
+        "url": "https://open.spotify.com/album/0CWYqBGKChAJge2xUYICpY"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "UNEDUCATED KID",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "8282(Party) (feat. SUPERBEE, UNEDUCATED KID)",
+      "url": "https://open.spotify.com/track/1IzuuPDzqh3dfKxilHbGYU"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
         "name": "off the wall",
         "url": "https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d"
       },
@@ -3247,30 +3271,6 @@
     {
       "added_at": "2026-05-12 09:20:27",
       "album": {
-        "name": "8282(Party) (Feat. SUPERBEE, UNEDUCATED KID)",
-        "url": "https://open.spotify.com/album/0CWYqBGKChAJge2xUYICpY"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        },
-        {
-          "name": "UNEDUCATED KID",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "8282(Party) (feat. SUPERBEE, UNEDUCATED KID)",
-      "url": "https://open.spotify.com/track/1IzuuPDzqh3dfKxilHbGYU"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -3307,6 +3307,30 @@
       "duration_ms": 177560,
       "name": "Where are you from? (feat. NECTA)",
       "url": "https://open.spotify.com/track/2GpU8WGTgYymEM3cAL0dvA"
+    },
+    {
+      "added_at": "2026-05-12 09:20:27",
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "Girls..(feat.CHANGMO,SUPERBEE)",
+      "url": "https://open.spotify.com/track/23tTmgkFLgxIqf2DtyZY83"
     },
     {
       "added_at": "2026-05-12 09:20:27",
@@ -3355,30 +3379,6 @@
       "duration_ms": 188106,
       "name": "ETA (with iiso)",
       "url": "https://open.spotify.com/track/3DRZRLXhMkJSgwN61FUvdV"
-    },
-    {
-      "added_at": "2026-05-12 09:20:27",
-      "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 170492,
-      "name": "Girls..(feat.CHANGMO,SUPERBEE)",
-      "url": "https://open.spotify.com/track/23tTmgkFLgxIqf2DtyZY83"
     },
     {
       "added_at": "2026-05-12 09:20:27",

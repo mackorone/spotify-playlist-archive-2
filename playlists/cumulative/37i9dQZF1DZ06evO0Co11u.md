@@ -4,7 +4,7 @@
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 29 min
+77 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [It's Been A Long, Long Time](https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:22 | 2025-07-20 |  |
 | [J\. C\. Holmes Blues \- Remastered 2026 in Super Stereo](https://open.spotify.com/track/6iWPCFRvy9LFtuEyBSOfUx) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg), [Fred Longshaw](https://open.spotify.com/artist/2qXPoS9fYcaEwMaeXoJElE), [Charlie Green](https://open.spotify.com/artist/1BG89coRGrEMUpZjCUILZX) | [J\. C\. Holmes Blues \(Remastered 2026 in Super Stereo\)](https://open.spotify.com/album/12ugZ2X6W7VwkkLyyN6s7c) | 3:09 | 2026-03-01 | 2026-03-29 |
 | [Kiss Of Fire](https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 3:06 | 2025-07-20 |  |
-| [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 | 2025-07-20 |  |
+| [La vie en rose \- Remastered](https://open.spotify.com/track/57sKFCABC0VPxj4ZKkcEu7) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Dream a Little Dream of Me \(Remastered\)](https://open.spotify.com/album/0LamfjFk8I6YZGC5ocJcJ7) | 3:23 | 2026-05-18 |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 | 2025-07-20 | 2026-05-18 |
 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 | 2025-07-20 |  |
 | [Love Is Here To Stay](https://open.spotify.com/track/63qs0QjDLhV22OMdAxGaMQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:57 | 2025-07-20 |  |
 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 | 2025-07-20 |  |

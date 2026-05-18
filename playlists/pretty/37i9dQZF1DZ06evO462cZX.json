@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45416,
+  "num_followers": 45426,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAB9DGDNgaN+YxJ9oEPK08Zy",
+  "snapshot_id": "agezgAAAAAA2WH7Q1anODussJ7pObvTy",
   "tracks": [
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Front To Back",
-        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Polar Bears",
-          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
-        }
-      ],
-      "duration_ms": 147323,
-      "name": "Front To Back",
-      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNDERDOGS",
         "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 209329,
       "name": "Pasame La Botella",
       "url": "https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Front To Back",
+        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Polar Bears",
+          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
+        }
+      ],
+      "duration_ms": 147323,
+      "name": "Front To Back",
+      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
     },
     {
       "added_at": null,

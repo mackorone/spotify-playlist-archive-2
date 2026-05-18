@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -2684,6 +2684,24 @@
       "duration_ms": 209653,
       "name": "Help",
       "url": "https://open.spotify.com/track/3oyoipK4mq2PJWKyuWuIOQ"
+    },
+    {
+      "album": {
+        "name": "Hey There Sunshine",
+        "url": "https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236509,
+      "name": "Hey There Sunshine",
+      "url": "https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 587071,
+  "num_followers": 587155,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,30 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
+        "name": "Isaka (6am)",
+        "url": "https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "duration_ms": 349910,
+      "name": "Isaka (6am)",
+      "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
         "name": "Mess Around (Baby Baby)",
         "url": "https://open.spotify.com/album/62tdT74i7bORfGcsCrGlBY"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
-        "name": "Isaka (6am)",
-        "url": "https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY"
-      },
-      "artists": [
-        {
-          "name": "CIZA",
-          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
-        },
-        {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
-        }
-      ],
-      "duration_ms": 349910,
-      "name": "Isaka (6am)",
-      "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
     },
     {
       "added_at": "2026-05-15 04:01:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
-        "name": "Selva Selva",
-        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 269217,
-      "name": "Selva Selva",
-      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
+        "name": "Selva Selva",
+        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 269217,
+      "name": "Selva Selva",
+      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
     },
     {
       "added_at": "2026-05-15 04:01:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
         "name": "take me (to the sunrise)",
         "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 226829,
       "name": "take me (to the sunrise)",
       "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-05-15 04:01:22",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 193425,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
-        "name": "GROOVINU",
-        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 166162,
-      "name": "GROOVINU",
-      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
     },
     {
       "added_at": "2026-05-15 04:01:22",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
+        "name": "Sound Of The Sunrise",
+        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sound Of The Sunrise",
+      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 202000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
-        "name": "Sound Of The Sunrise",
-        "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sound Of The Sunrise",
-      "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
     },
     {
       "added_at": "2026-05-15 04:01:22",
@@ -2459,6 +2459,30 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Romy Janssen",
+          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
         "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
         "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
       },
@@ -2639,6 +2663,22 @@
     {
       "added_at": "2026-05-15 04:01:22",
       "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 205864,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
+    },
+    {
+      "added_at": "2026-05-15 04:01:22",
+      "album": {
         "name": "Amazone Project",
         "url": "https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64"
       },
@@ -2663,42 +2703,6 @@
       "duration_ms": 230322,
       "name": "Raiz Brasileira",
       "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
-        "name": "I'm Here",
-        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 205864,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
-    },
-    {
-      "added_at": "2026-05-15 04:01:22",
-      "album": {
-        "name": "Forever / Paper Walls",
-        "url": "https://open.spotify.com/album/5QZAs0ZeibXc7aDf5PLw7D"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "Kuuda",
-          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
-        }
-      ],
-      "duration_ms": 281311,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
     }
   ],
   "unique_name": "Tantra",

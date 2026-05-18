@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1312764,
+  "num_followers": 1312749,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1221,30 +1221,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "Fotopaparazzi",
-        "url": "https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 140770,
-      "name": "Fotopaparazzi",
-      "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "My Own Thang EP",
@@ -1267,6 +1243,30 @@
       "duration_ms": 178153,
       "name": "My Own Thang (To The Beat)",
       "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
+    },
+    {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "Fotopaparazzi",
+        "url": "https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 140770,
+      "name": "Fotopaparazzi",
+      "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1701,24 +1701,20 @@
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2026-05-01 04:01:35",
       "album": {
-        "name": "Get Wild",
-        "url": "https://open.spotify.com/album/2iFF3fDcodBi8SW2GkK4ad"
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
         }
       ],
-      "duration_ms": 164538,
-      "name": "Get Wild",
-      "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
+      "duration_ms": 178261,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1741,36 +1737,24 @@
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
-      "added_at": "2026-05-01 04:01:35",
+      "added_at": "2026-01-30 05:00:51",
       "album": {
-        "name": "Night & Day",
-        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
+        "name": "Get Wild",
+        "url": "https://open.spotify.com/album/2iFF3fDcodBi8SW2GkK4ad"
       },
       "artists": [
         {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        }
-      ],
-      "duration_ms": 178261,
-      "name": "Night & Day",
-      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
+      "duration_ms": 164538,
+      "name": "Get Wild",
+      "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1791,6 +1775,22 @@
       "duration_ms": 198750,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1949,28 +1949,20 @@
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
-      "added_at": "2026-02-20 05:00:45",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Different Dimension",
-        "url": "https://open.spotify.com/album/0YGMuI2zgksZQc5kpMysHM"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        },
-        {
-          "name": "Kota",
-          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Different Dimension",
-      "url": "https://open.spotify.com/track/2aGfk0KIVIXzcrBoeTpD3f"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1987,22 +1979,6 @@
       "duration_ms": 154384,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2045,6 +2021,30 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Different Dimension",
+        "url": "https://open.spotify.com/album/0YGMuI2zgksZQc5kpMysHM"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Different Dimension",
+      "url": "https://open.spotify.com/track/2aGfk0KIVIXzcrBoeTpD3f"
+    },
+    {
       "added_at": "2026-02-27 05:00:47",
       "album": {
         "name": "Right Nahh",
@@ -2079,6 +2079,26 @@
       "duration_ms": 140567,
       "name": "REAL FRIENDS",
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2125,46 +2145,6 @@
       "url": "https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
-    },
-    {
-      "added_at": "2026-03-20 04:00:50",
-      "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/2hNNyaoRcuwmENRLYEoLRa"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
-        }
-      ],
-      "duration_ms": 153181,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/0T7mQq7lMpvw9VUZDaPHWW"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Circus",
@@ -2201,6 +2181,26 @@
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
+      "added_at": "2026-03-20 04:00:50",
+      "album": {
+        "name": "Don't Care",
+        "url": "https://open.spotify.com/album/2hNNyaoRcuwmENRLYEoLRa"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        }
+      ],
+      "duration_ms": 153181,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/0T7mQq7lMpvw9VUZDaPHWW"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "That's the Spot",
@@ -2221,6 +2221,26 @@
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     },
     {
+      "added_at": "2026-05-01 04:01:35",
+      "album": {
+        "name": "All I Think About",
+        "url": "https://open.spotify.com/album/5oh9IASJx7TMRiLNBwsjF5"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "All I Think About",
+      "url": "https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Make It Right",
@@ -2239,6 +2259,22 @@
       "duration_ms": 208636,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 196521,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2265,42 +2301,6 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-05-01 04:01:35",
-      "album": {
-        "name": "All I Think About",
-        "url": "https://open.spotify.com/album/5oh9IASJx7TMRiLNBwsjF5"
-      },
-      "artists": [
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        },
-        {
-          "name": "Yona",
-          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "All I Think About",
-      "url": "https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Deeper Underground",
@@ -2321,26 +2321,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BOTA (feat. MC Lan)",
-        "url": "https://open.spotify.com/album/03SZzt5XMIIiRwukZkCgxL"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BOTA (feat. MC Lan)",
-      "url": "https://open.spotify.com/track/4FaRs5JRhBCMsTLmmqcGGQ"
-    },
-    {
       "added_at": "2026-05-08 04:01:56",
       "album": {
         "name": "REAL FRIENDS",
@@ -2359,6 +2339,26 @@
       "duration_ms": 146417,
       "name": "WHEN I DANCE",
       "url": "https://open.spotify.com/track/6fL742pqRfbXtWrznr5v90"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BOTA (feat. MC Lan)",
+        "url": "https://open.spotify.com/album/03SZzt5XMIIiRwukZkCgxL"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BOTA (feat. MC Lan)",
+      "url": "https://open.spotify.com/track/4FaRs5JRhBCMsTLmmqcGGQ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2413,22 +2413,6 @@
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "ECHOES",
-        "url": "https://open.spotify.com/album/5NBCU6WU4isrmM3lXzMXT1"
-      },
-      "artists": [
-        {
-          "name": "Thomas Gold",
-          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "No Signal",
-      "url": "https://open.spotify.com/track/4DRu7STk30xCw2kABUcNYs"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Warehouse",
@@ -2443,6 +2427,22 @@
       "duration_ms": 139852,
       "name": "Warehouse",
       "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/5NBCU6WU4isrmM3lXzMXT1"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/4DRu7STk30xCw2kABUcNYs"
     }
   ],
   "unique_name": "Nasty Bits",

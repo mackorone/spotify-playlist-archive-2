@@ -431,26 +431,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Joga na Cara (Vers\u00e3o Speed)",
-        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
-        }
-      ],
-      "duration_ms": 97714,
-      "name": "Joga na Cara (Vers\u00e3o Speed)",
-      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Joga na Cara (Vers\u00e3o Speed)",
+        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Joga na Cara (Vers\u00e3o Speed)",
+      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Me Deixei Levar",
+        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
+      },
+      "artists": [
+        {
+          "name": "7Seven",
+          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
+        }
+      ],
+      "duration_ms": 96082,
+      "name": "Me Deixei Levar - Speed",
+      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Pe\u00e7a",
         "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 135418,
       "name": "Pe\u00e7a - Speed",
       "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Me Deixei Levar",
-        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
-      },
-      "artists": [
-        {
-          "name": "7Seven",
-          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
-        }
-      ],
-      "duration_ms": 96082,
-      "name": "Me Deixei Levar - Speed",
-      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
     },
     {
       "added_at": "2024-07-08 19:10:57",

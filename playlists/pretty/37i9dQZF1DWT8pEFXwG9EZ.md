@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,884 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,917 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 88 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:05 |
 | 89 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
 | 90 | [Strollin' Blues](https://open.spotify.com/track/27xTnEVDEdrApTssEUt6sk) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Touch of Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00OG2RuNBudzvhJ4XfCZcz) | 2:40 |
-| 91 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
-| 92 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
+| 91 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
+| 92 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 | 93 | [Walk To Work](https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters Inc Original Soundtrack](https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff) | 3:30 |
 | 94 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |
 | 95 | [Green Tables Blues](https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Johnny Cool \(Original Movie Soundtrack\)](https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw) | 3:18 |
 | 96 | [Tu Vuo' Fa L'Americano \- Vocal](https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc) | [Fiorello](https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q), [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 3:01 |
 | 97 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |
-| 98 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
-| 99 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
-| 100 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
+| 98 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
+| 99 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
+| 100 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
 
 Snapshot ID: `AAAAAEq90ikQpKBrgPcIsBiIK7t4HzxM`

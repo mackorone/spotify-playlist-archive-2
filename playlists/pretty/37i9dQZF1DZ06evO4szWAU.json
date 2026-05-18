@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 103419,
+  "num_followers": 103460,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAADRYRP/CWlDOqET2igPo9KS",
+  "snapshot_id": "agezgAAAAABmR6No/+iP8AER2xw/M99o",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Durando...",
-        "url": "https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ"
-      },
-      "artists": [
-        {
-          "name": "Amilcar Boscan",
-          "url": "https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 254930,
-      "name": "Los Olores Del Amor",
-      "url": "https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 227280,
       "name": "Ah-Ah / O-No",
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Durando...",
+        "url": "https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ"
+      },
+      "artists": [
+        {
+          "name": "Amilcar Boscan",
+          "url": "https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 254930,
+      "name": "Los Olores Del Amor",
+      "url": "https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado Corazon",
-        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Demasiado Corazon",
-      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -459,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
       },
       "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 388160,
-      "name": "Te Est\u00e1n Buscando",
-      "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
     },
     {
       "added_at": null,
@@ -495,6 +475,26 @@
       "duration_ms": 345600,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Te Est\u00e1n Buscando",
+      "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Baquin\u00e9 de Angelitos Negros (Remastered 2026)",
-        "url": "https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 212123,
-      "name": "Camino al Barrio - Remastered 2026",
-      "url": "https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Fight",
         "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 513320,
       "name": "Yo Puedo Vivir Del Amor",
       "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Baquin\u00e9 de Angelitos Negros (Remastered 2026)",
+        "url": "https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 212123,
+      "name": "Camino al Barrio - Remastered 2026",
+      "url": "https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 338013,
-      "name": "Juana Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 338013,
+      "name": "Juana Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
     },
     {
       "added_at": null,
@@ -975,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+        "name": "Only They Could Have Made This Album (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 337680,
-      "name": "No Me Llores M\u00e1s",
-      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+      "duration_ms": 172295,
+      "name": "Plazos Traicioneros - Remastered 2024",
+      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

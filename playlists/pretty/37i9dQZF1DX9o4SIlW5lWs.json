@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 278009,
+  "num_followers": 278060,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,22 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "El \u00daltimo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
+        "name": "No me sale",
+        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
       },
       "artists": [
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
         },
         {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 251724,
-      "name": "El \u00daltimo Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+      "duration_ms": 208506,
+      "name": "No me sale",
+      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -619,22 +615,26 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "No me sale",
-        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
+        "name": "El \u00daltimo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
       "artists": [
         {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         }
       ],
-      "duration_ms": 208506,
-      "name": "No me sale",
-      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
+      "duration_ms": 251724,
+      "name": "El \u00daltimo Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
         "name": "El amor de mi vida",
         "url": "https://open.spotify.com/album/37TWuqqDxiDoIQyjHxBz7a"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 209279,
       "name": "El amor de mi vida",
       "url": "https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Cacho Deicas",
-          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
-        }
-      ],
-      "duration_ms": 197121,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "Cosa del destino",
         "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Cacho Deicas",
+          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
+        }
+      ],
+      "duration_ms": 197121,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Muero de Fr\u00edo, La Historia",
-        "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 212405,
-      "name": "Muero de fr\u00edo, La Historia",
-      "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "Muero de Fr\u00edo, La Historia",
+        "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 212405,
+      "name": "Muero de fr\u00edo, La Historia",
+      "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
     },
     {
       "added_at": "2026-05-15 19:12:41",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-05-15 19:12:41",
       "album": {
-        "name": "Coraz\u00f3n de Madera",
-        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Coraz\u00f3n De Madera",
-      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
-    },
-    {
-      "added_at": "2026-05-15 19:12:41",
-      "album": {
         "name": "Amor, Familia y Respeto",
         "url": "https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 174158,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi"
+    },
+    {
+      "added_at": "2026-05-15 19:12:41",
+      "album": {
+        "name": "Coraz\u00f3n de Madera",
+        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Coraz\u00f3n De Madera",
+      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
     },
     {
       "added_at": "2026-05-15 19:12:41",

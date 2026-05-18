@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-569 songs - 1 day 9 hr 39 min
+570 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [High When You Hold Me](https://open.spotify.com/track/0p6GPkRsbJhDYBXJFuufIr) | [Louise Hoffsten](https://open.spotify.com/artist/5GG0pdHtmalM60Fzer1Yei) | [High When You Hold Me](https://open.spotify.com/album/132pqgouof5WFyqFKNBgYV) | 3:43 | 2025-03-27 | 2025-06-06 |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 | 2026-02-25 |  |
 | [Hit men inte längre](https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Psalmer från sjunde himlen](https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA) | 2:58 | 2025-01-16 | 2025-05-30 |
+| [Hjärnspöken](https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Hjärnspöken](https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW) | 2:50 | 2026-05-14 |  |
 | [Hold fast](https://open.spotify.com/track/476m03lRnptvnnRXxumjLs) | [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hold fast](https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW) | 4:18 | 2025-07-03 | 2026-02-20 |
 | [Home](https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Home](https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM) | 3:01 | 2024-08-15 | 2024-09-27 |
 | [Home](https://open.spotify.com/track/6U1WukseRsBks1AjTYoheT) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Home](https://open.spotify.com/album/3AGeeV372MEs83epozEEt7) | 3:01 | 2024-10-24 | 2024-12-06 |
@@ -469,7 +470,7 @@
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-29 |  |
 | [Stronger Than](https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Stronger Than](https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo) | 3:08 | 2025-11-14 |  |
 | [Störst av allt](https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR), [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Störst av allt](https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr) | 3:15 | 2025-10-23 |  |
-| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 |  |
+| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 | 2026-05-18 |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-04-02 |  |
 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 |  |

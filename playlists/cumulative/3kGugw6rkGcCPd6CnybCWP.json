@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Folded (Cover)",
+        "url": "https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq"
+      },
+      "artists": [
+        {
+          "name": "MLLN",
+          "url": "https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245981,
+      "name": "Folded - Cover",
+      "url": "https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx"
+    },
+    {
+      "album": {
         "name": "Forever Blue",
         "url": "https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V"
       },
@@ -2882,6 +2900,24 @@
       "duration_ms": 130000,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS"
+    },
+    {
+      "album": {
+        "name": "Life Hurts You Without Asking",
+        "url": "https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302927,
+      "name": "I Was Scared",
+      "url": "https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ"
     },
     {
       "album": {

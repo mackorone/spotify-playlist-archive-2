@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 RIA & Armenta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,348 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,252 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 79 | [entumido](https://open.spotify.com/track/7ngrs6wiAUia51zYKLIm4V) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [entumido](https://open.spotify.com/album/2d6928zyKOiTYFgE73kXsp) | 2:56 |
 | 80 | [Dubai](https://open.spotify.com/track/2U0sUcniWnEnHxeaiIyCPM) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Dubai](https://open.spotify.com/album/2MqZQNioC44UFCOuga63AQ) | 2:54 |
 
-Snapshot ID: `AAAAAJt0NyPcwMXrzlcp1n3NSic4XkVH`
+Snapshot ID: `AAAAAJH54REFBIjqQDIElUjwEz/uqnWx`

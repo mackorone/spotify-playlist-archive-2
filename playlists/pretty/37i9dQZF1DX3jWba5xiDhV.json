@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 400950,
+  "num_followers": 401200,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-05-08 12:43:28",
       "album": {
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+    },
+    {
+      "added_at": "2026-05-08 12:43:28",
+      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 176063,
       "name": "Baciami",
       "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
-    },
-    {
-      "added_at": "2026-05-08 12:43:28",
-      "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
     },
     {
       "added_at": "2026-05-08 12:43:28",

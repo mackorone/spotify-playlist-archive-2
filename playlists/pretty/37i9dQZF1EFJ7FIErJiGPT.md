@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 14 | [Suffer](https://open.spotify.com/track/4St0HSmeqbId4bcriS3g0R) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [We Were Young \(The Playlist\)](https://open.spotify.com/album/2uVjQvVAkLfneGroSXvJMW) | 3:29 |
 | 15 | [In the Morning](https://open.spotify.com/track/3Xp9VqusQqyWGLGSGWcBEC) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [In the Morning \(Remixes\)](https://open.spotify.com/album/5oHR3zw7gew31FjEp7iNqc) | 3:15 |
 | 16 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 |
-| 17 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
-| 18 | [Die For Me](https://open.spotify.com/track/5CgIqG6FNKnpzLt8XR7nTD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:00 |
+| 17 | [Die For Me](https://open.spotify.com/track/5CgIqG6FNKnpzLt8XR7nTD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:00 |
+| 18 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
 | 19 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 20 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 |
 | 21 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcRrnAAAAAAuJh1jujwzxbsbdS2YmjHy`
+Snapshot ID: `AcRxPAAAAACynPlPWE11Hd1w6UQDZXw3`

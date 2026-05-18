@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Siento Por Ciento \- Remix](https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Siento por Ciento \(Remix\)](https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4) | 3:27 |
 | 50 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 
-Snapshot ID: `agZiAAAAAADP75/HiJTm+toPLCd6GXj0`
+Snapshot ID: `agezgAAAAAD41xCDdydAdTrqIuGqpsTP`

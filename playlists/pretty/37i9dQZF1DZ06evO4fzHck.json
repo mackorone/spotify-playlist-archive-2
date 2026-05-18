@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 601174,
+  "num_followers": 601216,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAAVxDhlJNXc6qQxISmvOXoJ",
+  "snapshot_id": "agezgAAAAADX6atLtKCfMsUUHmn6va7+",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 304640,
-      "name": "A Strange Day",
-      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 304640,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 258346,
-      "name": "Closedown - Remastered 2010",
-      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
+      "duration_ms": 283880,
+      "name": "Last Dance - Remastered",
+      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Last Dance - Remastered",
-      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
+      "duration_ms": 258346,
+      "name": "Closedown - Remastered 2010",
+      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 159492,
+  "num_followers": 159658,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAADajpJbqWut+6T9JBCZbw6c",
+  "snapshot_id": "agezgAAAAACw3EJ+EdjbLuB948NXTz9e",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could You (Be OK)",
-        "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 197594,
-      "name": "How Could You (Be OK)",
-      "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+        "name": "How Could You (Be OK)",
+        "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+      "duration_ms": 197594,
+      "name": "How Could You (Be OK)",
+      "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 320 likes - 2,290 songs - 5 day 15 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,291 songs - 5 day 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2298,5 +2298,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2288 | [Light of the Angels](https://open.spotify.com/track/4Aa9uXRXo1WVXbRQ1nll6N) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Light of the Angels](https://open.spotify.com/album/3a3TpxB3nygVF9wcj4YyBA) | 2:14 |
 | 2289 | [My Life](https://open.spotify.com/track/22it1yLanqga1DevYiSPz8) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [Oscar Ken](https://open.spotify.com/artist/18NBt7ThpqpvlMkCMIeCA1), [Lookey](https://open.spotify.com/artist/1HXBbllMhhBO6EftHA8DtZ), [Real YUNG\-J](https://open.spotify.com/artist/0AKep9NdQTcR7rLgWxdQOE) | [My Life](https://open.spotify.com/album/7cIW5b100TSmzjzh9WHBHo) | 2:53 |
 | 2290 | [Friends](https://open.spotify.com/track/1qw1zLMAay6JWNdJQsYxzN) | [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Friends](https://open.spotify.com/album/73VF9EoEhaCk3Yl5ViqnBx) | 3:24 |
+| 2291 | [Jah Shield](https://open.spotify.com/track/7hjRlprjYBkSmi6UXgEyA9) | [DAB David Asher Band](https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA) | [Jah Shield](https://open.spotify.com/album/24Wy0QnvclD1E3WMTj0ISZ) | 5:22 |
 
-Snapshot ID: `AAAJnbanqHZh0vPYvbPmy9HHggS9JCp/`
+Snapshot ID: `AAAJnjvMhqzjJ1r0MX8990W3oyC5w00r`

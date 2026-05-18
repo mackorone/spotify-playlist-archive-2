@@ -5799,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167523,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
+    },
+    {
+      "album": {
         "name": "FIYM",
         "url": "https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc"
       },

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-685 songs - 1 day 22 hr 56 min
+686 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 | 2023-05-27 |
 | [Brighter \- Dave Summer Remix](https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Brighter \(Dave Summer Remix\)](https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl) | 3:30 | 2023-12-15 | 2024-01-28 |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-02 | 2023-06-03 |
-| [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 | 2025-02-21 |  |
+| [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 | 2025-02-21 | 2026-05-18 |
 | [Burning \(Carry You Home\)](https://open.spotify.com/track/2kI63t8OaH7dB2R9n6dkGs) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C) | [Burning \(Carry You Home\)](https://open.spotify.com/album/2KUDNUsOEO18XUwqDjV5QG) | 3:03 | 2025-10-24 | 2025-11-19 |
 | [bygones](https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [bygones](https://open.spotify.com/album/5v0F0Z4KcAM9yqkPc8fsNh) | 3:15 | 2021-08-20 | 2022-07-28 |
 | [Calling](https://open.spotify.com/track/3jvljyWk3ST8Yg4JLZO1wN) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Calling](https://open.spotify.com/album/4fF96ALIS1v38PxB1Zfc7f) | 2:53 | 2025-08-29 |  |
@@ -365,6 +365,7 @@
 | [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 | 2025-05-23 | 2026-04-22 |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
+| [Machine](https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Machine](https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio) | 2:33 | 2026-05-15 |  |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-04-09 | 2024-10-05 |
 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 | 2025-08-15 |  |
 | [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [First Love](https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP) | 3:15 | 2025-10-03 |  |

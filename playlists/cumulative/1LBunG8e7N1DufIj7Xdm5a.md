@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,386 songs - 9 day 18 hr 9 min
+4,387 songs - 9 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4018,6 +4018,7 @@
 | [Underneath the Stars](https://open.spotify.com/track/2XbdjNYS9oZid271KQVYFD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:55 | 2025-09-19 |  |
 | [Underneath the Stars \(another\)](https://open.spotify.com/track/70ia82agzMq85hRL3cU0L5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:29 | 2025-09-19 |  |
 | [UNDERTAKER](https://open.spotify.com/track/2U5yhEeF1esUG04PW5V1LF) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x), [Jeve](https://open.spotify.com/artist/2oLaoMDrS45QdcUb49wWmc) | [UNDERTAKER](https://open.spotify.com/album/0h0XSPGK92QckSEZZO9Uob) | 2:57 | 2025-06-05 |  |
+| [Unfinished Wood](https://open.spotify.com/track/21xWSXmvje5ziqyXdqZXgd) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Unfinished Wood](https://open.spotify.com/album/1YXEddINtAJcMWNkYgkQzk) | 2:56 | 2026-05-17 |  |
 | [Ungrateful](https://open.spotify.com/track/7c26Ou3plUtEL0rysjH3qd) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:38 | 2025-06-05 |  |
 | [Unita' Di Produzione](https://open.spotify.com/track/5QvEbD6tQAF74KoTy2JuSg) | [C.S.I.](https://open.spotify.com/artist/64AqIy8bl79mftwUhh6TOh) | [Tabula Rasa Elettrificata](https://open.spotify.com/album/0VQoqsqNipNqDijK9Z2X8w) | 5:34 | 2025-11-12 |  |
 | [UNO DOS TRES](https://open.spotify.com/track/4Mc5YJxzaZ7cp9blMtLGU7) | [N i G H T S](https://open.spotify.com/artist/1qkiRLdru6TQdeTX0PI1CP) | [Margarita](https://open.spotify.com/album/4YHG0Qi5K7IS8MRxrg66Hr) | 1:59 | 2025-05-16 |  |

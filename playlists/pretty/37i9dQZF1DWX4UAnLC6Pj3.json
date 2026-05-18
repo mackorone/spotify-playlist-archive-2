@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Corona del Rey \ud83d\udcf8",
-  "num_followers": 1301755,
+  "num_followers": 1301761,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Ese Loco Soy Yo",
+        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "duration_ms": 168147,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Ese Loco Soy Yo",
-        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
       "artists": [
         {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 168147,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
+      "duration_ms": 128177,
+      "name": "Coraz\u00f3n Malo",
+      "url": "https://open.spotify.com/track/7xSxAOJOA2aRkT3tZJ0QRQ"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -419,22 +435,6 @@
       "duration_ms": 215000,
       "name": "El Que Sigue De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "42 18",
-        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 128177,
-      "name": "Coraz\u00f3n Malo",
-      "url": "https://open.spotify.com/track/7xSxAOJOA2aRkT3tZJ0QRQ"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 209548,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Le Va A Doler",
-        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "Le Va A Doler",
-      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 228017,
       "name": "Aunque me duela",
       "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Le Va A Doler",
+        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "Le Va A Doler",
+      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "La M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 186021,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Chalupas y buenas",
-        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Chalupas y buenas",
-      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -791,38 +791,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Me Esta Doliendo",
-        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "Me Esta Doliendo",
-      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Pa' Todas Tengo Yo",
-        "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "Pa' Todas Tengo Yo",
-      "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
@@ -843,6 +811,38 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Pa' Todas Tengo Yo",
+        "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "Pa' Todas Tengo Yo",
+      "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Me Esta Doliendo",
+        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "El Rey Del Despecho 2.0",
         "url": "https://open.spotify.com/album/2HYCvRRXrXbNqYWZB8aWK9"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Quien De Los Dos Sera",
+        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Quien De Los Dos Sera",
+      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Lo Bonito de Sufrir",
         "url": "https://open.spotify.com/album/72Pm0wNsTgOwRsUdBLTGyZ"
       },
@@ -871,26 +887,6 @@
       "duration_ms": 193872,
       "name": "Lo Bonito de Sufrir",
       "url": "https://open.spotify.com/track/3p9v4yLOF3XWQHW6WCvwku"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -915,18 +911,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Quien De Los Dos Sera",
-        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
       "artists": [
         {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 213169,
-      "name": "Quien De Los Dos Sera",
-      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 164153,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Las Reglas Del Juego",
         "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 171886,
       "name": "Quisiera Rozar Tu Piel",
       "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 164153,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
     },
     {
       "added_at": "2026-05-08 06:00:23",

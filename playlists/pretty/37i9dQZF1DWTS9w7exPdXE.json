@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 163203,
+  "num_followers": 163269,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Vanavond (Uit M'n Bol)",
-        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Vanavond (Uit M'n Bol)",
-      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -191,6 +183,30 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Vanavond (Uit M'n Bol)",
+        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Vanavond (Uit M'n Bol)",
+      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Strijdlustig",
         "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Jouw Blik",
         "url": "https://open.spotify.com/album/1nsSemfOY3jGrPmBdWAhst"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
@@ -331,22 +315,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
-        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
       },
       "artists": [
         {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 153527,
-      "name": "Duurt Te Lang",
-      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -371,6 +351,26 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
+        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 153527,
+      "name": "Duurt Te Lang",
+      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Van Goes Tot Purmerend",
         "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 201363,
       "name": "Van Goes Tot Purmerend",
       "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -427,6 +411,22 @@
       "duration_ms": 150741,
       "name": "Nooit Meer Voorbij",
       "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Gevangenis",
-        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 164305,
-      "name": "Gevangenis",
-      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Maak Me Gek",
         "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Gevangenis",
+        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 164305,
+      "name": "Gevangenis",
+      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Jij Liet Me Vallen",
         "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 218040,
       "name": "Jij Liet Me Vallen",
       "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Zoutelande (feat. Geike)",
-        "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Zoutelande (feat. Geike)",
-      "url": "https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -667,6 +647,26 @@
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Zoutelande (feat. Geike)",
+        "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Zoutelande (feat. Geike)",
+      "url": "https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Een bom",
-        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
-      },
-      "artists": [
-        {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Een bom",
-      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Wesly Bronkhorst",
-        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
+        "name": "Een bom",
+        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
       },
       "artists": [
         {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
         }
       ],
-      "duration_ms": 201786,
-      "name": "Kom Allemaal Maar In Mijn Armen",
-      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+      "duration_ms": 204933,
+      "name": "Een bom",
+      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1155,6 +1139,22 @@
       "duration_ms": 267000,
       "name": "De Woonboot",
       "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Wesly Bronkhorst",
+        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "Kom Allemaal Maar In Mijn Armen",
+      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Helena 2.0",
         "url": "https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 200000,
       "name": "Helena 2.0",
       "url": "https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-04-08 22:00:13",

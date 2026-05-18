@@ -1,6 +1,6 @@
 {
   "description": "Instrumentals from the North Indian school of music.",
-  "num_followers": 58060,
+  "num_followers": 58066,
   "original_name": "Hindustani Instrumental",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-04-06 06:56:48",
       "album": {
+        "name": "Ethereal - Splendour of Mewar",
+        "url": "https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sharma",
+          "url": "https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf"
+        }
+      ],
+      "duration_ms": 163385,
+      "name": "Peace & Harmony",
+      "url": "https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7"
+    },
+    {
+      "added_at": "2026-04-06 06:56:48",
+      "album": {
         "name": "Zarin Daruwala",
         "url": "https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 418466,
       "name": "Raga Jansanmohini - Alap Jod Zala - Gat Vilambit Roopak Taal - Gat Drut Teentaal",
       "url": "https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN"
-    },
-    {
-      "added_at": "2026-04-06 06:56:48",
-      "album": {
-        "name": "Ethereal - Splendour of Mewar",
-        "url": "https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sharma",
-          "url": "https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf"
-        }
-      ],
-      "duration_ms": 163385,
-      "name": "Peace & Harmony",
-      "url": "https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7"
     },
     {
       "added_at": "2026-04-06 06:56:48",

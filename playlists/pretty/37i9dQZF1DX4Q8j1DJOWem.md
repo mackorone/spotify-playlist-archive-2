@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: GOODMOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,532 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,536 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 5 | [Hurry up!](https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0IF9Zm8D2hN3nnvy9RKaCm) | 2:43 |
 | 6 | [นิราศ](https://open.spotify.com/track/5aJZG8SsKhUEnrpoqGKPTQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:29 |
 | 7 | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/album/61nujf7kJaEzCitEOj0mwF) | 3:40 |
-| 8 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 8 | [pity dirty](https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:13 |
 | 9 | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/track/0GPUeoz4n9Uw6wnwHwY1JD) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/album/3KUh9eIcpGAyd3QQWJLIp4) | 5:03 |
 | 10 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
 | 11 | [โคมไฟระย้า](https://open.spotify.com/track/2ke4oJzLPO4QUfgMPUgBZQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 3:28 |
 | 12 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
-| 13 | [pity dirty](https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:13 |
+| 13 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 14 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |
 | 15 | [ตัวปัญหา \(Envy\)](https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [ตัวปัญหา \(Envy\)](https://open.spotify.com/album/0Dbn4xDX8mguqDOA2FTkGY) | 3:03 |
 | 16 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |

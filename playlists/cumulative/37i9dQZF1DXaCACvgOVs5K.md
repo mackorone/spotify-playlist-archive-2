@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-504 songs - 1 day 5 hr 49 min
+505 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 | 2022-08-26 | 2022-10-01 |
 | [Back in the Streets](https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P) | [Hotboxx](https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD), [Justin Garcia](https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x) | [Back in the Streets](https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz) | 4:58 | 2026-04-30 |  |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-04-17 | 2026-05-01 |
-| [Back to the Old School](https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Back to the Old School](https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM) | 6:11 | 2026-05-14 |  |
+| [Back to the Old School](https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Back to the Old School](https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM) | 6:11 | 2026-05-14 | 2026-05-18 |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-04-17 | 2026-05-01 |
 | [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-05-29 |  |
 | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL) | 3:05 | 2026-05-14 |  |
@@ -496,6 +496,7 @@
 | [Wild](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Wild](https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ) | 2:14 | 2024-04-19 | 2026-04-11 |
 | [Wile Out \(feat\. Surya Sen\)](https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Wile Out \(feat\. Surya Sen\)](https://open.spotify.com/album/02InIKpOal42kcD3584M5C) | 3:15 | 2024-09-26 | 2026-04-11 |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-08-26 | 2024-05-17 |
+| [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 | 2026-05-14 |  |
 | [Workout](https://open.spotify.com/track/2a68xrYa3kxdyxKQkVuaJQ) | [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Workout](https://open.spotify.com/album/69v32qBsj2wAvt9nTTypIU) | 3:00 | 2022-08-26 | 2023-04-05 |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-08-26 | 2022-11-13 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2022-08-26 | 2024-04-19 |

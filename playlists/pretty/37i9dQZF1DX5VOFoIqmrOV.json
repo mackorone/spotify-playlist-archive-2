@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 458168,
+  "num_followers": 458243,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Ninnu Kori",
+        "url": "https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Adiga Adiga",
+      "url": "https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37"
+    },
+    {
       "added_at": "2026-04-17 11:03:44",
       "album": {
         "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
@@ -395,22 +411,6 @@
       "duration_ms": 204599,
       "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
       "url": "https://open.spotify.com/track/729Mpzd9gE5p9dRehnb1WG"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Ninnu Kori",
-        "url": "https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Adiga Adiga",
-      "url": "https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37"
     },
     {
       "added_at": "2023-08-07 09:11:28",

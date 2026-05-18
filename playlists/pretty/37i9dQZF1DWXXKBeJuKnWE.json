@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Beartooth",
-  "num_followers": 492903,
+  "num_followers": 492870,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "SONG OF THE SWAMP",
-        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 198118,
-      "name": "SONG OF THE SWAMP",
-      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "King Of Terrors",
         "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "SONG OF THE SWAMP",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 198118,
+      "name": "SONG OF THE SWAMP",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -651,22 +667,6 @@
       "duration_ms": 269000,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Tracksuit",
+        "url": "https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "Tracksuit",
+      "url": "https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
       },
@@ -1255,6 +1271,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "If Not Winter",
+        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "Black swan",
+      "url": "https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "Cellophane",
         "url": "https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn"
       },
@@ -1283,38 +1315,6 @@
       "duration_ms": 235760,
       "name": "Spared From The Guillotine",
       "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "Tracksuit",
-        "url": "https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "Tracksuit",
-      "url": "https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "If Not Winter",
-        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "Black swan",
-      "url": "https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 93920,
+      "name": "Of Her",
+      "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "BLAME (feat. Corey Taylor)",
         "url": "https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+        "name": "PUT A HIT ON",
+        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
         }
       ],
-      "duration_ms": 93920,
-      "name": "Of Her",
-      "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
+      "duration_ms": 174807,
+      "name": "PUT A HIT ON",
+      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1595,22 +1611,6 @@
       "duration_ms": 222720,
       "name": "Bloodsport",
       "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "PUT A HIT ON",
-        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
-      },
-      "artists": [
-        {
-          "name": "MUTTLEE",
-          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "PUT A HIT ON",
-      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     },
     {
       "added_at": "2026-05-15 10:08:52",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,215 songs - 5 day 11 hr 4 min
+2,216 songs - 5 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [Jah Mettez Dub of Dubs](https://open.spotify.com/track/1UQY0Aj06DQxv2toN6xUTE) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Marcus Style](https://open.spotify.com/artist/1BpKQLw5m99TIJSCkgBlxP) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:39 | 2024-05-01 |  |
 | [Jah Plan](https://open.spotify.com/track/1ldVVPHztqbtxn3sv8X2nE) | [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Dub Healer](https://open.spotify.com/artist/3kXudNqFPPeiGl7xRMJWw0) | [Jah Plan](https://open.spotify.com/album/6xb863eBpp4GFzx6WXZybd) | 3:22 | 2025-07-12 |  |
 | [Jah Protection](https://open.spotify.com/track/0jixkqxiEBdi41AR1S8pmd) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn), [Jam York](https://open.spotify.com/artist/0ItZxopNpnGcO8r14vmIkS) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 5:24 | 2024-05-01 |  |
+| [Jah Shield](https://open.spotify.com/track/7hjRlprjYBkSmi6UXgEyA9) | [DAB David Asher Band](https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA) | [Jah Shield](https://open.spotify.com/album/24Wy0QnvclD1E3WMTj0ISZ) | 5:22 | 2026-05-17 |  |
 | [Jahnoy](https://open.spotify.com/track/0Z5RizITRQLGA0yjAv8KQ4) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [Dred Reggae](https://open.spotify.com/album/4Ssk6qrJeAfSylHROZavw8) | 3:50 | 2024-10-20 |  |
 | [Jahovah Dub](https://open.spotify.com/track/7IyyTDIaY0FFnb0GhkSCIP) | [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA), [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat) | [Jahovah Jireh](https://open.spotify.com/album/6ll3mKTrOqYQZ7m0FVOKGa) | 4:26 | 2024-03-25 |  |
 | [Jahovah Jireh](https://open.spotify.com/track/23A2QohjfLWupG0bReypkU) | [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA), [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat) | [Jahovah Jireh](https://open.spotify.com/album/6ll3mKTrOqYQZ7m0FVOKGa) | 3:58 | 2024-03-25 |  |

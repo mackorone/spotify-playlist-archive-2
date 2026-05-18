@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 549109,
+  "num_followers": 549203,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAAcv+Q43G+F32OZqcLum0+2",
+  "snapshot_id": "agezgAAAAAAOWJFh3+Va4m4v2M7M8+Ob",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Cuando Muere una Dama",
+      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Cuando Muere una Dama",
-      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se las Voy a Dar a Otro",
-        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 215038,
-      "name": "Se Las Voy a Dar a Otro",
-      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
+      "duration_ms": 200081,
+      "name": "Sufriendo a Solas - En Vivo",
+      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 200081,
-      "name": "Sufriendo a Solas - En Vivo",
-      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
+      "duration_ms": 215038,
+      "name": "Se Las Voy a Dar a Otro",
+      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
     },
     {
       "added_at": null,

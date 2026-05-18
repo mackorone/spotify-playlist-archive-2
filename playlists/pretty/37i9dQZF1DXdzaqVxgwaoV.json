@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145135,
+  "num_followers": 145130,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
-      },
-      "artists": [
-        {
-          "name": "Romulo Caicedo",
-          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Exitazos De Lupe Y Polo",
         "url": "https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS"
       },
@@ -631,18 +615,34 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Romulo Caicedo",
+          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Se Me Perdio La Cadenita",
-      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
+      "duration_ms": 181693,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Coleccion Grandes Figuras",
+        "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
+      },
+      "artists": [
+        {
+          "name": "El Caballero Gaucho",
+          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
+        }
+      ],
+      "duration_ms": 113133,
+      "name": "Viejo Juguete",
+      "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Coleccion Grandes Figuras",
-        "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
       "artists": [
         {
-          "name": "El Caballero Gaucho",
-          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 113133,
-      "name": "Viejo Juguete",
-      "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
+      "duration_ms": 157866,
+      "name": "Se Me Perdio La Cadenita",
+      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
     },
     {
       "added_at": "2026-02-23 16:04:48",

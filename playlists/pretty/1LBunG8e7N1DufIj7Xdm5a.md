@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,453 songs - 9 day 21 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,454 songs - 9 day 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4461,5 +4461,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4451 | [Guardian angel](https://open.spotify.com/track/1dwM6OWrnxTC9f37XLPZdn) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 |
 | 4452 | [\(Ghost track\)](https://open.spotify.com/track/4LpeXM0YGS6IRr1Lb15paF) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:55 |
 | 4453 | [Nighttrippin](https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Nighttrippin](https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8) | 3:25 |
+| 4454 | [Unfinished Wood](https://open.spotify.com/track/21xWSXmvje5ziqyXdqZXgd) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Unfinished Wood](https://open.spotify.com/album/1YXEddINtAJcMWNkYgkQzk) | 2:56 |
 
-Snapshot ID: `AAAIpCBAbDYF2gVOzjuH8SdBHHdYQtHA`
+Snapshot ID: `AAAIpRjtmZX3zbaRn/F/kpYxat9lUQb4`

@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143629,
+  "num_followers": 143645,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Altogether Unaccompanied, Vol. V",
-        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 305185,
-      "name": "Bigger Pieces",
-      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 305185,
+      "name": "Bigger Pieces",
+      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Packing Away",
-        "url": "https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj"
-      },
-      "artists": [
-        {
-          "name": "Eman Alali",
-          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
-        }
-      ],
-      "duration_ms": 266047,
-      "name": "Packing Away",
-      "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "C'est tout, c'est rien",
         "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Packing Away",
+        "url": "https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj"
+      },
+      "artists": [
+        {
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
+        }
+      ],
+      "duration_ms": 266047,
+      "name": "Packing Away",
+      "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "fin pm",
-      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "Pour d\u00e9jouer l'ennui",
         "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
         }
       ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+      "duration_ms": 191226,
+      "name": "fin pm",
+      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/4iZhagJgey7nCu9T7qtRNe"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "The Scars We Share",
         "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 238481,
       "name": "The Scars We Share",
       "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -1295,6 +1295,50 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
+        "name": "Quel tourment !",
+        "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        },
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        },
+        {
+          "name": "Ponteix",
+          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Quel tourment !",
+      "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Ariane",
+      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
         "name": "Underwater '26",
         "url": "https://open.spotify.com/album/0RPgJzim1zPIGxPohVf80a"
       },
@@ -1323,50 +1367,6 @@
       "duration_ms": 235750,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5jS4a8pDTk5rHG8eQOPSGt"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
-        "name": "Journal d'un Loup-Garou",
-        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ariane",
-      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
-        "name": "Quel tourment !",
-        "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        },
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        },
-        {
-          "name": "Ponteix",
-          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
-        }
-      ],
-      "duration_ms": 202821,
-      "name": "Quel tourment !",
-      "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
     },
     {
       "added_at": "2026-05-15 04:03:02",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
+        "name": "R\u00eave am\u00e9ricain",
+        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 217879,
+      "name": "R\u00eave am\u00e9ricain",
+      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
         "name": "Verger",
         "url": "https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "R\u00eave am\u00e9ricain",
-        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 217879,
-      "name": "R\u00eave am\u00e9ricain",
-      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "\u00c0 toi",
         "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-15 04:03:02",
       "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
-      },
-      "artists": [
-        {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
-        }
-      ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
-    },
-    {
-      "added_at": "2026-05-15 04:03:02",
-      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "added_at": "2026-05-15 04:03:02",
+      "album": {
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
     },
     {
       "added_at": "2026-05-15 04:03:02",

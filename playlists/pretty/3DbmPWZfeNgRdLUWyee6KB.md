@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,301 likes - 135 songs - 8 hr 2 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,301 likes - 136 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 133 | [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 |
 | 134 | [2 Souls](https://open.spotify.com/track/2CX2M3xjYsztZ0jN5LfL8S) | [Kanak Pandey](https://open.spotify.com/artist/2W2dbTuAZi3xnyVaQ3lRVW), [Jorji](https://open.spotify.com/artist/05mUVwDPrCAq1FgKvtG3i5) | [2 Souls](https://open.spotify.com/album/3nmkNOHhjyYlGE4cIYAY1m) | 4:16 |
 | 135 | [I'm not running your way](https://open.spotify.com/track/6kSHJIf22grZZSsIn1aRzQ) | [Kindred Morning](https://open.spotify.com/artist/69pU7Fz84uEcxa7YlcfAAC) | [I'm not running your way](https://open.spotify.com/album/0Rf9y4El4wdhgZGQqu4u1D) | 3:50 |
+| 136 | [Unknown Raste](https://open.spotify.com/track/0Odf94X6kKSYbik9dA4Jt9) | [Divyansh Rawat](https://open.spotify.com/artist/02BgNjE3QBgktWMOuWJuKO) | [Unknown Raste](https://open.spotify.com/album/7BBfkd8n788CsCZAVyCPFR) | 3:51 |
 
-Snapshot ID: `AAAUKkGRrGkW4J9xO9h7t9klAapu1a1N`
+Snapshot ID: `AAAUK5pRImsu+DXkDIFm0QETJ1OVC9eF`

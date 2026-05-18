@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Alicia Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,953 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,973 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Someday Song](https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Someday Song](https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl) | 3:16 |
 | 100 | [Let's Get Stoned](https://open.spotify.com/track/7B9wYx9jtun1jrsGeCvAQA) | [Clay Street Unit](https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb) | [Let's Get Stoned](https://open.spotify.com/album/5DHSZKoCNfSpBn3HL8hwnn) | 3:09 |
 
-Snapshot ID: `AAAAAL1Hx9qCpo9LcQe4l3NRlbyl3Mwi`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

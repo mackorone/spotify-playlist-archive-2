@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 135902,
+  "num_followers": 135908,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "El Mundo De Plan B",
         "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
       },
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Te Ves Buena",
-      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
+      "duration_ms": 212933,
+      "name": "Tu Pun Pun",
+      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -271,18 +287,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc"
       },
       "artists": [
         {
           "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+          "url": "https://open.spotify.com/artist/1GnTYLEJqZ4dVVhgw84yCs"
+        },
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Tu Pun Pun",
-      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
+      "duration_ms": 537480,
+      "name": "Robi-Rob's Boriqua Anthem",
+      "url": "https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -351,22 +371,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc"
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
       "artists": [
         {
           "name": "El General",
           "url": "https://open.spotify.com/artist/1GnTYLEJqZ4dVVhgw84yCs"
-        },
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
         }
       ],
-      "duration_ms": 537480,
-      "name": "Robi-Rob's Boriqua Anthem",
-      "url": "https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh"
+      "duration_ms": 253293,
+      "name": "Funkete",
+      "url": "https://open.spotify.com/track/0Iv0yudBc3fKHRGZXFdZ11"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Gargolas 1",
-        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
+        "name": "DJ Joe presenta: A Mover...",
+        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
       },
       "artists": [
         {
-          "name": "Alberto Style",
-          "url": "https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU"
+          "name": "Dj Gian",
+          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
         }
       ],
-      "duration_ms": 192413,
-      "name": "Unknown (Alberto Sytle / Gargolas 1)",
-      "url": "https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta"
+      "duration_ms": 194360,
+      "name": "Callate",
+      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "DJ Joe presenta: A Mover...",
-        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
+        "name": "Gargolas 1",
+        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
       },
       "artists": [
         {
-          "name": "Dj Gian",
-          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
+          "name": "Alberto Style",
+          "url": "https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU"
         }
       ],
-      "duration_ms": 194360,
-      "name": "Callate",
-      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
+      "duration_ms": 192413,
+      "name": "Unknown (Alberto Sytle / Gargolas 1)",
+      "url": "https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1263,22 +1279,6 @@
       "duration_ms": 177213,
       "name": "Donde Estan (Puerto Rico)",
       "url": "https://open.spotify.com/track/6mCQ1ykA0C9JEuMUara5hQ"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
-        }
-      ],
-      "duration_ms": 82826,
-      "name": "Interlude - Recuerdos De Antes",
-      "url": "https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

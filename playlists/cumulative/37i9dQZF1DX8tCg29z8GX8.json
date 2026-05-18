@@ -7361,6 +7361,40 @@
     },
     {
       "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/1pSQQf3TV3hMI5GPfi4tdQ"
+      },
+      "artists": [
+        {
+          "name": "RiGiid",
+          "url": "https://open.spotify.com/artist/4gnQowtoLDJEw56pczHRmL"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/0lacaYvboBoDcvGKJDIbVv"
+    },
+    {
+      "album": {
         "name": "June July + Pharasee",
         "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
       },
@@ -8130,7 +8164,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 159292,
       "name": "Lavida Loca (feat. Lasmid)",
       "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"

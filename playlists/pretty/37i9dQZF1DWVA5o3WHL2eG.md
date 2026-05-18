@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,262 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,257 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 |
 | 32 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
 | 33 | [Politschlampe](https://open.spotify.com/track/05PosjtIvZysYhJEahkp8X) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [SLAYBAE](https://open.spotify.com/album/08e6NGFmeuJKSqH3iMvunX) | 1:03 |
-| 34 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
-| 35 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |
+| 34 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |
+| 35 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
 | 36 | [LECK](https://open.spotify.com/track/0TYWngaLKfKyBHXSh7nzex) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [LECK](https://open.spotify.com/album/6Kz0fj2HdevGcNsDyjdtBQ) | 2:41 |
 | 37 | [Samowar](https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Samowar](https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A) | 2:53 |
 | 38 | [Magical Female Rage](https://open.spotify.com/track/0Egy1eNOg0VdAPfIkDuXri) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0ONATOQHPwMWxvw3iqPhkv) | 3:39 |
 | 39 | [Femi\(ni\)cide](https://open.spotify.com/track/70vKUWKhTH8l4rKyIN6kPA) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV), [Lena Stoehrfaktor](https://open.spotify.com/artist/7o0E4NxdCtMa1dsAUOg9CL) | [Femi\(ni\)cide](https://open.spotify.com/album/5FWZXDqvAQWzqIFY2xdQEc) | 2:11 |
-| 40 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
-| 41 | [Mensch](https://open.spotify.com/track/4xfW7ZUtKWyWYhfJ8Dz8BF) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [ICH BIN VIELE](https://open.spotify.com/album/0h0tVfoidcnRzBxY6IWl1Z) | 2:52 |
+| 40 | [Mensch](https://open.spotify.com/track/4xfW7ZUtKWyWYhfJ8Dz8BF) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [ICH BIN VIELE](https://open.spotify.com/album/0h0tVfoidcnRzBxY6IWl1Z) | 2:52 |
+| 41 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
 | 42 | [Heartbroken](https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Heartbroken](https://open.spotify.com/album/1b4mHMMPEM3oUgb3c0CcZJ) | 5:12 |
-| 43 | [Was in der Welt](https://open.spotify.com/track/7dQA57kfO11YkHe2AGU0Q7) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Was in der Welt](https://open.spotify.com/album/0UNWXfSyHKKkPTJMvVzriX) | 2:36 |
-| 44 | [Method Acting](https://open.spotify.com/track/1F73bZ8wBCuLrk4B9liqHr) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Method Acting](https://open.spotify.com/album/6V2lajZzq40Ch2JBr2f2x2) | 3:13 |
+| 43 | [Method Acting](https://open.spotify.com/track/1F73bZ8wBCuLrk4B9liqHr) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Method Acting](https://open.spotify.com/album/6V2lajZzq40Ch2JBr2f2x2) | 3:13 |
+| 44 | [Was in der Welt](https://open.spotify.com/track/7dQA57kfO11YkHe2AGU0Q7) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Was in der Welt](https://open.spotify.com/album/0UNWXfSyHKKkPTJMvVzriX) | 2:36 |
 | 45 | [Blödsinn](https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Blödsinn](https://open.spotify.com/album/271QvvfwnZ0k0RQDROUytQ) | 2:37 |
 | 46 | [Gehaltsvorstellung](https://open.spotify.com/track/1lan0SYHEbg2ravcltq9zs) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Gehaltsvorstellung](https://open.spotify.com/album/5uxYiyVezVSwTuQBFJu33L) | 2:26 |
 | 47 | [runaway](https://open.spotify.com/track/69wW6EfIBvGukl09GyQAoe) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [runaway](https://open.spotify.com/album/7nRRXXbWWUysqjNWWv9bFM) | 3:06 |

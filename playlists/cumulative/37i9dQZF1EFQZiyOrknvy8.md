@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 26 min
+187 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mein Adidas](https://open.spotify.com/track/6Q4qwPK4yV1SDW94uxwk8S) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:15 | 2025-01-09 | 2025-04-12 |
 | [Memories](https://open.spotify.com/track/6mx1wwYMsr9H7BEFZ3Cu49) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Memories](https://open.spotify.com/album/1iEc4h8qjfHVfY1lqLtRaH) | 2:02 | 2025-08-14 |  |
 | [Mit Mir](https://open.spotify.com/track/62dSR3b4EppSS0DhWOLKwD) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:47 | 2024-01-29 |  |
+| [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 | 2026-05-17 |  |
 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 | 2024-01-29 |  |
 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 | 2024-01-29 |  |
 | [Mädchen Mädchen \(feat\. Luci van Org\)](https://open.spotify.com/track/1yf6N9tFJ6BXZLvIXbUvw9) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw), [Luci van Org](https://open.spotify.com/artist/4MiL1KP3pARZzzmvEUSELY) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:46 | 2024-01-29 |  |

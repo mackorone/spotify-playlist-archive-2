@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Maria Beth\u00e2nia",
-  "num_followers": 1038820,
+  "num_followers": 1038684,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGF1Gp+9X6Y8Gsj2JjcBFRXDZA/m",
+  "snapshot_id": "AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle",
   "tracks": [
     {
       "added_at": "2026-05-06 11:15:56",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
+    },
+    {
+      "added_at": "2026-05-06 11:15:56",
+      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
-      },
-      "artists": [
-        {
-          "name": "Samar Tarik",
-          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
-    },
-    {
-      "added_at": "2026-05-06 11:15:56",
-      "album": {
         "name": "VERSATILE",
         "url": "https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
-        "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
-        "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
-      },
-      "artists": [
-        {
-          "name": "sica",
-          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
-        }
-      ],
-      "duration_ms": 199338,
-      "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
-      "url": "https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf"
-    },
-    {
-      "added_at": "2026-05-06 11:15:56",
-      "album": {
         "name": "I Wish You Well",
         "url": "https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 200253,
       "name": "I Wish You Well",
       "url": "https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV"
+    },
+    {
+      "added_at": "2026-05-06 11:15:56",
+      "album": {
+        "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+        "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "duration_ms": 199338,
+      "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+      "url": "https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf"
     },
     {
       "added_at": "2026-05-06 11:15:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
-        "name": "METAMORFOSI",
-        "url": "https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        }
-      ],
-      "duration_ms": 141570,
-      "name": "RUDE BOYS",
-      "url": "https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw"
-    },
-    {
-      "added_at": "2026-05-06 11:15:56",
-      "album": {
         "name": "\u00cen c\u0103utarea fericirii",
         "url": "https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 164014,
       "name": "\u00cen c\u0103utarea fericirii",
       "url": "https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr"
+    },
+    {
+      "added_at": "2026-05-06 11:15:56",
+      "album": {
+        "name": "METAMORFOSI",
+        "url": "https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "duration_ms": 141570,
+      "name": "RUDE BOYS",
+      "url": "https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw"
     },
     {
       "added_at": "2026-05-06 11:15:56",

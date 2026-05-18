@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 143178,
+  "num_followers": 143163,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "The Gift of Joy",
         "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 242786,
       "name": "My Favourite Time of Year",
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "a cozy christmas",
-        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 200222,
-      "name": "mistletoe and holly",
-      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Misteltoe",
         "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 142029,
       "name": "Misteltoe",
       "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 200222,
+      "name": "mistletoe and holly",
+      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Winter Serenade",
-        "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodman",
-          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
-        }
-      ],
-      "duration_ms": 187587,
-      "name": "Winter Serenade",
-      "url": "https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "The North Pole Express",
         "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 170000,
       "name": "The North Pole Express",
       "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Winter Serenade",
+        "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "duration_ms": 187587,
+      "name": "Winter Serenade",
+      "url": "https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Merry Christmas, Darling",
-        "url": "https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 234486,
-      "name": "Merry Christmas, Darling",
-      "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Winter Blessings",
         "url": "https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250713,
       "name": "Winter Blessings",
       "url": "https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Merry Christmas, Darling",
+        "url": "https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 234486,
+      "name": "Merry Christmas, Darling",
+      "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Christmas Is\u2026",
-        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Christmas Is",
-      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 88172,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Christmas Is\u2026",
+        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Christmas Is",
+      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "When My Heart Finds Christmas",
         "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 220760,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 235866,
       "name": "Let's Share Christmas",
       "url": "https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
     },
     {
       "added_at": "2025-12-19 14:00:54",

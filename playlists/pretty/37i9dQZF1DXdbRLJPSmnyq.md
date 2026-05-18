@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,959 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,956 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 94 | [Angelseek](https://open.spotify.com/track/1MEjwcB4LYKiCq0dsFGckD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Angelseek](https://open.spotify.com/album/1FHrSsOvsfP1YdidikH1xw) | 3:49 |
 | 95 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
 
-Snapshot ID: `AAAAAN2OxI6AN7W2TULC68WUCOxvBP0m`
+Snapshot ID: `AAAAAJzSt6n9tsVfRQkNJvNlHu0ZRcQc`

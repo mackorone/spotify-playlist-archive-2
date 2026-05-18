@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: La Fuente
 
-690 songs - 1 day 10 hr 57 min
+691 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [I LIKE IT!](https://open.spotify.com/track/35CYutcUenbFfg5UOGbWrT) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Salvyan](https://open.spotify.com/artist/0ueKhy5Vj2mxumUXB41yMf) | [I LIKE IT!](https://open.spotify.com/album/6CMF8MoL1KSMZO5L45u9Nt) | 2:21 | 2026-04-02 |  |
 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 | 2024-02-15 | 2025-04-04 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-19 | 2024-07-12 |
-| [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 | 2025-10-06 |  |
+| [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 | 2025-10-06 | 2026-05-18 |
 | [I Wanna Rave](https://open.spotify.com/track/16kkmD8adTsERblia16Uof) | [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [I Wanna Rave](https://open.spotify.com/album/3aI7CJ56jtFCY0GHmarazd) | 3:27 | 2022-12-27 | 2023-01-03 |
 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-28 | 2023-05-19 |
 | [I Want You](https://open.spotify.com/track/40jZdbxLsxIwnTBAUeduF3) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/3xmg5Nn7mGpds1VCdsUmjR) | 3:06 | 2022-04-14 | 2022-07-29 |
@@ -668,6 +668,7 @@
 | [Voyage \- Lister Remix](https://open.spotify.com/track/1hGxSbBZodpqUF65d7N95H) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eyal Barkan](https://open.spotify.com/artist/5AIFVuHCWu7uVGJVmMkROW), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Voyage](https://open.spotify.com/album/7aoYimD53ZPxaH3boCs5p1) | 3:27 | 2022-12-27 | 2023-01-03 |
 | [Vulnerable](https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Vulnerable](https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr) | 3:19 | 2023-03-09 | 2023-06-02 |
 | [Wait](https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [Wait](https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M) | 3:07 | 2026-01-12 |  |
+| [Waiting On A Miracle](https://open.spotify.com/track/5ju0vNsbRoedxPqHlf8KuM) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Waiting On A Miracle](https://open.spotify.com/album/0UY9LzWVgPIGZcYhwzSLlL) | 3:27 | 2026-05-04 |  |
 | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S) | 3:22 | 2026-04-02 |  |
 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 | 2024-11-06 | 2026-04-03 |
 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-07-06 | 2023-12-21 |

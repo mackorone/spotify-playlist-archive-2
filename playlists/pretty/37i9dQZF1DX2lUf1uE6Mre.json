@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: YUNG SAINT PAUL",
-  "num_followers": 913228,
+  "num_followers": 913130,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
-        "name": "KRISTALL",
-        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
+        "name": "Coupe",
+        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+          "name": "Coldyaa",
+          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
         }
       ],
-      "duration_ms": 164937,
-      "name": "Alors (feat. CAPO)",
-      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+      "duration_ms": 97482,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
     },
     {
       "added_at": "2026-04-30 22:02:07",
@@ -147,18 +143,22 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
-        "name": "Coupe",
-        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
+        "name": "KRISTALL",
+        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
       },
       "artists": [
         {
-          "name": "Coldyaa",
-          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
         }
       ],
-      "duration_ms": 97482,
-      "name": "Coupe",
-      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
+      "duration_ms": 164937,
+      "name": "Alors (feat. CAPO)",
+      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
     },
     {
       "added_at": "2026-04-30 22:02:07",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
-        "name": "S\u00dcDDEUTSCHER TRAUM",
-        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
-      },
-      "artists": [
-        {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
-        },
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 160527,
-      "name": "DO NOT DISTURB",
-      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
-    },
-    {
-      "added_at": "2026-04-30 22:02:07",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1123,6 +1103,42 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
+        "name": "S\u00dcDDEUTSCHER TRAUM",
+        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 160527,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
+    },
+    {
+      "added_at": "2026-04-30 22:02:07",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
+    },
+    {
+      "added_at": "2026-04-30 22:02:07",
+      "album": {
         "name": "WAS MIR NOCH BLEIBT",
         "url": "https://open.spotify.com/album/6TNySfTjnd82If8pkAAO8W"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 144994,
       "name": "HEARTBROKE EYES",
       "url": "https://open.spotify.com/track/1hZc3X0BG1U4sKONViTxbr"
-    },
-    {
-      "added_at": "2026-04-30 22:02:07",
-      "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-04-30 22:02:07",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
+    },
+    {
+      "added_at": "2026-04-30 22:02:07",
+      "album": {
         "name": "Wellness",
         "url": "https://open.spotify.com/album/0Ox4iFL2jD12fhmAjhofL7"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 85538,
       "name": "Wellness",
       "url": "https://open.spotify.com/track/1Ok8O709MCp94WXyUvRjp8"
-    },
-    {
-      "added_at": "2026-04-30 22:02:07",
-      "album": {
-        "name": "Pretty Privilege",
-        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "Pretty Privilege",
-      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
     },
     {
       "added_at": "2026-04-30 22:02:07",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-04-30 22:02:07",
       "album": {
-        "name": "Push Push",
-        "url": "https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj"
-      },
-      "artists": [
-        {
-          "name": "Soyhan",
-          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
-        }
-      ],
-      "duration_ms": 154122,
-      "name": "Push Push",
-      "url": "https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF"
-    },
-    {
-      "added_at": "2026-04-30 22:02:07",
-      "album": {
         "name": "GETRENNTE SOMMERNACHT",
         "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 161642,
       "name": "GETRENNTE SOMMERNACHT",
       "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
+    },
+    {
+      "added_at": "2026-04-30 22:02:07",
+      "album": {
+        "name": "Push Push",
+        "url": "https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj"
+      },
+      "artists": [
+        {
+          "name": "Soyhan",
+          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
+        }
+      ],
+      "duration_ms": 154122,
+      "name": "Push Push",
+      "url": "https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF"
     },
     {
       "added_at": "2026-04-30 22:02:07",

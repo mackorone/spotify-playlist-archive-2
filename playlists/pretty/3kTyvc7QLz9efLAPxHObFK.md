@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,036 songs - 6 day 12 hr 43 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,038 songs - 6 day 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3044,5 +3044,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3034 | [the journey \- full mix](https://open.spotify.com/track/74BkDpFno4igGUCywQHCVV) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [the journey](https://open.spotify.com/album/7HBEk8bwR43UUUdmGGv1Y5) | 6:43 |
 | 3035 | [Against The Grain \(Official Friction 2026 Anthem\)](https://open.spotify.com/track/2295VgApvdpO3MEmZWELYd) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Against The Grain \(Official Friction 2026 Anthem\)](https://open.spotify.com/album/5fyTGxIAj2l5tT9Pp0Firu) | 4:25 |
 | 3036 | [Waiting On A Miracle](https://open.spotify.com/track/5ju0vNsbRoedxPqHlf8KuM) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Waiting On A Miracle](https://open.spotify.com/album/0UY9LzWVgPIGZcYhwzSLlL) | 3:27 |
+| 3037 | [I Kissed A Girl](https://open.spotify.com/track/2H8A0UczzNQJayfM1MVOv9) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [JXCN](https://open.spotify.com/artist/0PHXHSHH2V1YJWTCB1AApE), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [I Kissed A Girl](https://open.spotify.com/album/65lHZEg1dmdFThVJ0Hzmkz) | 1:48 |
+| 3038 | [Disturbia](https://open.spotify.com/track/72tT3KTqCsfQ0CAjbBV3PQ) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/06EcrOtkcpABYtDP1epeKC) | 2:44 |
 
-Snapshot ID: `AAAMNdpKyks57GN75piG5tvfgh8x1s6U`
+Snapshot ID: `AAAMN6GVlMwkFJ9NKUfs8R5eXURO7qLI`

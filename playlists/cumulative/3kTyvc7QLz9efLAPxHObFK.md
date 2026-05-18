@@ -4,7 +4,7 @@
 
 > 
 
-3,043 songs - 6 day 13 hr 7 min
+3,045 songs - 6 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Dissed](https://open.spotify.com/track/0ythUESDl2CKq70h3M5YkK) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dissed](https://open.spotify.com/album/5MRLgWp4wjCZM7KUCNmJmX) | 4:03 | 2022-11-29 |  |
 | [Distorted](https://open.spotify.com/track/1xHiunYidwC1t9FWkbtygW) | [Jackro](https://open.spotify.com/artist/2DmEO1qBeq9jc3HPI7V3H5) | [Distorted](https://open.spotify.com/album/7qQV8c2wMcL9amW6nl7qSn) | 3:12 | 2024-07-26 |  |
 | [Disturbia](https://open.spotify.com/track/46kQj1YYd94k6SgEh7QdRR) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/31XmeUVGwLuxPYfa0ObiMQ) | 2:44 | 2026-05-01 |  |
+| [Disturbia](https://open.spotify.com/track/72tT3KTqCsfQ0CAjbBV3PQ) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/06EcrOtkcpABYtDP1epeKC) | 2:44 | 2026-05-18 |  |
 | [Dive High](https://open.spotify.com/track/7qPwi7OBzvtpJQ2w1xDF2b) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Refactoring Travel](https://open.spotify.com/album/4zSmaQSBXo9BPsrttSGNgI) | 3:22 | 2022-08-11 |  |
 | [Dive With Me](https://open.spotify.com/track/6WqhzAfTZmQsXhpUuJeTTx) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Dive With Me](https://open.spotify.com/album/3PiPJYgdGpZpAshiUhtv6n) | 3:15 | 2022-02-14 |  |
 | [DMT](https://open.spotify.com/track/063YSXc8E2MUCermhiW0Te) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [DMT](https://open.spotify.com/album/39qEWfBRftbceehLGfHAcC) | 2:31 | 2023-10-19 |  |
@@ -1322,6 +1323,7 @@
 | [I Hate You](https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [I Hate You](https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3) | 4:01 | 2025-08-13 |  |
 | [I Just Want To Dance](https://open.spotify.com/track/0YkMAr3ag9YRaloxCTcifq) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [I Just Want To Dance](https://open.spotify.com/album/1tKHVkOU6U92BajHvMqeSn) | 2:29 | 2024-04-19 |  |
 | [I KISSED A GIRL](https://open.spotify.com/track/2gFfuGo4w1spOiuGxyOt6p) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [I KISSED A GIRL](https://open.spotify.com/album/2adsjX5nbQ3DIqAhEHk81Z) | 3:07 | 2025-12-10 |  |
+| [I Kissed A Girl](https://open.spotify.com/track/2H8A0UczzNQJayfM1MVOv9) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [JXCN](https://open.spotify.com/artist/0PHXHSHH2V1YJWTCB1AApE), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [I Kissed A Girl](https://open.spotify.com/album/65lHZEg1dmdFThVJ0Hzmkz) | 1:48 | 2026-05-18 |  |
 | [I Know You Like It](https://open.spotify.com/track/3dIrZ1BLv4Imy9OwYQwB9C) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [System Overload](https://open.spotify.com/artist/2AlQBkucn6HkL30qRmyOmW) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 1:57 | 2022-09-09 |  |
 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 | 2023-06-26 |  |
 | [I Like It Slow](https://open.spotify.com/track/4AVt3SBXzGZwisc4zZmQmN) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [I Like It Slow](https://open.spotify.com/album/25UlyGE9bWquDK2MEABFpN) | 2:30 | 2026-03-31 |  |

@@ -6068,7 +6068,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 145500,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH"
@@ -14398,6 +14398,28 @@
       "duration_ms": 187617,
       "name": "Wait",
       "url": "https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC"
+    },
+    {
+      "album": {
+        "name": "Waiting On A Miracle",
+        "url": "https://open.spotify.com/album/0UY9LzWVgPIGZcYhwzSLlL"
+      },
+      "artists": [
+        {
+          "name": "Sunset Bros",
+          "url": "https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/5ju0vNsbRoedxPqHlf8KuM"
     },
     {
       "album": {

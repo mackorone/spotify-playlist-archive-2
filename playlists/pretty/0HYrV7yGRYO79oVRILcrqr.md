@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,819 likes - 139 songs - 8 hr 47 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,819 likes - 144 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 7 | [Inkblood](https://open.spotify.com/track/0gLy2hGy6bjg7xxYfWwU9q) | [601](https://open.spotify.com/artist/0VMujT7vOkIUh4awYns1dt), [Tribe of Ghosts](https://open.spotify.com/artist/2TUv4JbyfSrOEjy6OZxbdA) | [Inkblood](https://open.spotify.com/album/1OQKAflfZujsGfR6zE2uh5) | 5:12 |
 | 8 | [Outta Control](https://open.spotify.com/track/6CFhnrHIzYr3uYHPAx2ix9) | [Crispy Danger](https://open.spotify.com/artist/3KmwVFNqWQiSY2hVaiIB7b) | [Outta Control](https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB) | 2:51 |
 | 9 | [Halfway Down The Road](https://open.spotify.com/track/5lkJZmsHA2dTQLNUB4Otka) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Halfway Down The Road](https://open.spotify.com/album/6ZIyRpkF61BJtdLSSP7nIq) | 4:39 |
-| 10 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 |
-| 11 | [You Learn](https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [You Learn](https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW) | 4:03 |
-| 12 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 |
-| 13 | [Money](https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP) | [Aajax Dry Goods](https://open.spotify.com/artist/2k1v14nltEcG15SrMjyvsg) | [Aajax Dry Goods](https://open.spotify.com/album/60bYC4FtgrPaDyjSsGJiLA) | 2:28 |
-| 14 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 |
-| 15 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 |
+| 10 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 |
+| 11 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 |
+| 12 | [You Learn](https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [You Learn](https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW) | 4:03 |
+| 13 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 |
+| 14 | [Money](https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP) | [Aajax Dry Goods](https://open.spotify.com/artist/2k1v14nltEcG15SrMjyvsg) | [Aajax Dry Goods](https://open.spotify.com/album/60bYC4FtgrPaDyjSsGJiLA) | 2:28 |
+| 15 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 |
 | 16 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 |
 | 17 | [Il Collezionista](https://open.spotify.com/track/0iwgPOvuMNhgVKAwymVymg) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp), [Walter](https://open.spotify.com/artist/2dopOJYUmdcTqBAIf6JNfR) | [Il Collezionista & Su Di Dosso](https://open.spotify.com/album/6LCSfJ0p09qp1LvxDOYPcY) | 4:12 |
 | 18 | [Last Night](https://open.spotify.com/track/3SLOgxmU82Hn6MOAxQuem3) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Last Night](https://open.spotify.com/album/2mTKkUS3mPXZNPhoAoWtkw) | 3:21 |
@@ -147,5 +147,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 137 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 |
 | 138 | [Love](https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR) | [David McKnight](https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z) | [Love](https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN) | 2:43 |
 | 139 | [EX](https://open.spotify.com/track/2x6uxhbPVhUobfPzlEHAUK) | [TotoFuoriclasse](https://open.spotify.com/artist/3EhWMTwP7dGIl3Y6MiscVL) | [EX](https://open.spotify.com/album/3HqyGKFgZnme52jqSt2fW5) | 2:57 |
+| 140 | [Curtains Rise](https://open.spotify.com/track/3C6KjAwlfoPzTXOrHOocvo) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3) | [Curtains Rise](https://open.spotify.com/album/7kKHlsVGgT6OqcCEvDCSaV) | 4:14 |
+| 141 | [Indossa il Mistero](https://open.spotify.com/track/0yhBZQBfif2JFpBDN1QTww) | [Nisciù](https://open.spotify.com/artist/78UahJTFCpp9QBtIBBcpoM) | [Indossa il Mistero](https://open.spotify.com/album/7tnqe2i6TSEsiaxwkRZueE) | 2:07 |
+| 142 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 |
+| 143 | [Waiting On The Soul Train](https://open.spotify.com/track/0mSwj7Z0enIvU7H5GnXxYe) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 4:13 |
+| 144 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 |
 
-Snapshot ID: `AAALZfEW233kTIfh3h8PjxPTclhM0wPn`
+Snapshot ID: `AAALazODdkO7Bs2R6p2cls96cKE8q3q4`

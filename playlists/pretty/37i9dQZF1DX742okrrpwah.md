@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jul, Drake, Tayc x RnBoi et Shakira x Burna Boy au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,923 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,889 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

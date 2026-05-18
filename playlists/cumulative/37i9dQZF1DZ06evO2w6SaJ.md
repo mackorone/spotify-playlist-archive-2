@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 52 min
+51 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Black Cloud](https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 5:02 | 2024-09-17 |  |
 | [Boom Box Gang War \- Unreleased](https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:33 | 2024-09-17 |  |
 | [Born to Raise Hell](https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [J\. Angel](https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP), [DJ Am](https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:32 | 2024-09-17 |  |
-| [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2024-09-17 |  |
+| [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2024-09-17 | 2026-05-18 |
+| [Butterfly](https://open.spotify.com/track/6GQ3WTaNHMFlVmN4burGat) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:36 | 2026-05-18 |  |
 | [Butterfly \(New Anthem\)](https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s) | [Black Oxygen](https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly \(New Anthem\)](https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk) | 3:47 | 2024-09-17 |  |
 | [Butterfly 2021](https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The D4tour](https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9) | 2:40 | 2024-09-17 |  |
 | [Butterfly 2026](https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly 2026](https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9) | 2:44 | 2026-04-05 |  |

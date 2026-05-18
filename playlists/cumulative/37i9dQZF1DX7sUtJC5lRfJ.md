@@ -2,7 +2,7 @@
 
 ### [Đài Phát Hình V\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX7sUtJC5lRfJ)
 
-> Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Muộii
+> Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
 38 songs - 2 hr 21 min
 

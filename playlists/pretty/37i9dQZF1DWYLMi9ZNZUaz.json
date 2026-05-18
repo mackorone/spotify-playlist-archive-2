@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en\n",
-  "num_followers": 121774,
+  "num_followers": 121798,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2026-05-15 17:00:29",
       "album": {
-        "name": "Wrong Times",
-        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
-      },
-      "artists": [
-        {
-          "name": "Puppy",
-          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Wrong Times",
-      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
-    },
-    {
-      "added_at": "2026-05-15 17:00:29",
-      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 265954,
       "name": "V\u00f9ng An To\u00e0n",
       "url": "https://open.spotify.com/track/6Zoi4ue74UdUeYmHXItXnf"
+    },
+    {
+      "added_at": "2026-05-15 17:00:29",
+      "album": {
+        "name": "Wrong Times",
+        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Wrong Times",
+      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
     },
     {
       "added_at": "2026-05-15 17:00:29",
@@ -599,30 +599,18 @@
     {
       "added_at": "2026-05-15 17:00:29",
       "album": {
-        "name": "2GOILAYS",
-        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "MR LANH",
-          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         }
       ],
-      "duration_ms": 260252,
-      "name": "2GOILAYS",
-      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2026-05-15 17:00:29",
@@ -647,18 +635,30 @@
     {
       "added_at": "2026-05-15 17:00:29",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "2GOILAYS",
+        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "MR LANH",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
         }
       ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+      "duration_ms": 260252,
+      "name": "2GOILAYS",
+      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
     },
     {
       "added_at": "2026-05-15 17:00:29",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-05-15 17:00:29",
       "album": {
-        "name": "M\u01b0a C\u1ee9 R\u01a1i",
-        "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
-      },
-      "artists": [
-        {
-          "name": "Mr.A",
-          "url": "https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6"
-        },
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "M\u01b0a C\u1ee9 R\u01a1i",
-      "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
-    },
-    {
-      "added_at": "2026-05-15 17:00:29",
-      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -795,22 +775,6 @@
     {
       "added_at": "2026-05-15 17:00:29",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2026-05-15 17:00:29",
-      "album": {
         "name": "Ch\u1ea5m H\u1ebft",
         "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
       },
@@ -831,6 +795,42 @@
       "duration_ms": 186823,
       "name": "Ch\u1ea5m H\u1ebft",
       "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
+    },
+    {
+      "added_at": "2026-05-15 17:00:29",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2026-05-15 17:00:29",
+      "album": {
+        "name": "M\u01b0a C\u1ee9 R\u01a1i",
+        "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
+      },
+      "artists": [
+        {
+          "name": "Mr.A",
+          "url": "https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "M\u01b0a C\u1ee9 R\u01a1i",
+      "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
     },
     {
       "added_at": "2026-05-15 17:00:29",

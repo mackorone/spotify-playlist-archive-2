@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 34 likes - 11 songs - 52 min 59 sec
+[royva06](https://open.spotify.com/user/royva06) - 34 likes - 11 songs - 39 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
-| 2 | [Mansion Door](https://open.spotify.com/track/1xonPraF75wWLotZrk7MZK) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2DrXLe55foy7gptxbqq2FE) | 4:30 |
-| 3 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
-| 4 | [NRICH \(feat\. 6LACK, Eryn Allen Kane\)](https://open.spotify.com/track/0fWtHLKX2LsgOfImCyu94h) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:40 |
-| 5 | [Jeremiah](https://open.spotify.com/track/23ZnVd3Qa0kwsTJcfHVjJ0) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:03 |
-| 6 | [Little White Dove](https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:49 |
-| 7 | [Celebrate](https://open.spotify.com/track/1zlclNkERGFrCxznXOgkD3) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:46 |
-| 8 | [Having An Average Weekend](https://open.spotify.com/track/0LTm7F6XuGWNwrAvYF26N3) | [Shadowy Men On A Shadowy Planet](https://open.spotify.com/artist/5yCw7sKcajh0GkApBQh1yO) | [Savvy Show Stoppers](https://open.spotify.com/album/0obYpydB9kRvAQdPf0oKFo) | 3:55 |
-| 9 | [you were right](https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY), [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [you were right](https://open.spotify.com/album/5caVRn6usqYh4h54eDSONn) | 2:49 |
-| 10 | [Magdalene](https://open.spotify.com/track/2U47DUDrLZlws1RQqiyffo) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3LbMyG2sOSqgGwkmAvSUQn) | 2:31 |
-| 11 | [Red Headed Stranger Medley \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/1ErbRcM1K2iSkQ063wvV19) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 14:25 |
+| 1 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
+| 2 | [Steamroller \(My Baby Got Run Over By a\)](https://open.spotify.com/track/1rd4OcIAdHpY56wxpdZK72) | [The Adicts](https://open.spotify.com/artist/5f5B8Zd0xuvmcDin3oK76F) | [Viva La Revolution](https://open.spotify.com/album/3vCUtFvV23Iq3DSSvOwi2G) | 1:54 |
+| 3 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 |
+| 4 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
+| 5 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
+| 6 | [Brick Is Red](https://open.spotify.com/track/5umI2Ra11zPhee5ShYXps2) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 2:02 |
+| 7 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/1eoTdhnYkLJjaIlgYWEWzP) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [R](https://open.spotify.com/album/5p0IoFRwJBI9oTpcfXyCKH) | 3:36 |
+| 8 | [I’ll Be Your Mirror](https://open.spotify.com/track/6WhararZxL2vL7XyL3UO0N) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [I’ll Be Your Mirror](https://open.spotify.com/album/7jTCDh0kJpPvp8ZcB9vecP) | 2:27 |
+| 9 | [Where Were You](https://open.spotify.com/track/7LuRo2rdMRYOQ4G7E4EkMu) | [Mekons](https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5) | [Heaven & Hell](https://open.spotify.com/album/67A0dZ1gqgmIYdNaMP3uI5) | 2:40 |
+| 10 | [I Can't Drive 55](https://open.spotify.com/track/1MqGKtY9L5qjPi8s7gX645) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Voa](https://open.spotify.com/album/4Tegu60DeUzwWpA6vuhGxs) | 4:14 |
+| 11 | [Cruel and Thin](https://open.spotify.com/track/7v9JkdqvwrXPLuCVQNlw92) | [Sun City Girls](https://open.spotify.com/artist/4dLMZxQfpUhAJm4mYdGqkZ) | [330,003 Crossdressers from Beyond the Rig Veda](https://open.spotify.com/album/5vgkVJwmqZXSFmVvXpTaQL) | 3:39 |
 
-Snapshot ID: `AAAKnlrMw87uhf3holIF1yoqdYGckP3u`
+Snapshot ID: `AAAKtFJqqrbpFXSxzeuECoVLipcq8cWb`

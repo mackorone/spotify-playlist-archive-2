@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34627,
+  "num_followers": 34631,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
+        "name": "want YOU",
+        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "duration_ms": 154803,
+      "name": "want YOU",
+      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
-        "name": "want YOU",
-        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        }
-      ],
-      "duration_ms": 154803,
-      "name": "want YOU",
-      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
         "name": "emoji",
         "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 219813,
       "name": "emoji",
       "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
-        "name": "AFTER UPSET",
-        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "muah",
-      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 222860,
-      "name": "Hug Me",
-      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

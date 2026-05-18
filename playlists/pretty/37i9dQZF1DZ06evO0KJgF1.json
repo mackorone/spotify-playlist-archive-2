@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50756,
+  "num_followers": 50759,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAD374I64VWmOIKK0jfjKCuT",
+  "snapshot_id": "agezgAAAAABvoCbxJiyagbzdzE1ZTSx8",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/2WgUntfJ6wcxzUTHcqOQ5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 305973,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/2WgUntfJ6wcxzUTHcqOQ5M"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
+      "duration_ms": 270946,
+      "name": "The Last Beat Of My Heart",
+      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 270946,
-      "name": "The Last Beat Of My Heart",
-      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Trust In Me",
-      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
+      "duration_ms": 190253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 268133,
       "name": "Shadowtime",
       "url": "https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Trust In Me",
+      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "This Town Ain't Big Enough For Both Of Us",
-      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 342800,
       "name": "This Wheel's On Fire",
       "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "This Town Ain't Big Enough For Both Of Us",
+      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
     },
     {
       "added_at": null,

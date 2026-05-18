@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Gracie Abrams, Drake, aespa, G\-DRAGON, Zynakal, Aizat Amdan, Sekumpulan Orang Gila, Alpha, J308 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,519 likes - 115 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,506 likes - 115 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

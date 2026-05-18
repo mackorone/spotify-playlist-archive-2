@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-509 songs - 1 day 5 hr 39 min
+510 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [TEMPEST\-TOST](https://open.spotify.com/track/2EqH7eu4ZMfZg3DW8kUzSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 4:09 | 2023-11-08 |  |
 | [The Chattering Lack of Common Sense](https://open.spotify.com/track/1jFtCDktj1XTxDcu52iyeC) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [The Chattering Lack of Common Sense](https://open.spotify.com/album/4ZkEBNbrWleWPSlnw6Kxtb) | 3:34 | 2022-08-02 |  |
 | [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 | 2025-12-31 |  |
+| [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/track/2egqhRbrcdGWrv5Fc28pB4) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Gackpo Camui](https://open.spotify.com/artist/0Om98P2y6ADW6KtBNbJytM), [VY2V3](https://open.spotify.com/artist/0y7SMdM7Cj78tD0Pv4bzcA), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/album/3k0uD7aQV4Mwtl3r97WohJ) | 4:14 | 2026-05-17 |  |
 | [The Lovely Life](https://open.spotify.com/track/1QAarw72bgyVa9EJne2Iio) | [DenkiQujira](https://open.spotify.com/artist/6xUZkU9AXpZMJF4gLzUUyx) | [Dull\-Gray Metropolis](https://open.spotify.com/album/5tF2jSTk8sG2HMJSwGaP4w) | 3:15 | 2026-02-23 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-01-17 |  |
 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 | 2025-10-01 |  |

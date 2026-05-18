@@ -1222,10 +1222,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 181539,
       "name": "I Should Have Said",
       "url": "https://open.spotify.com/track/7HQlMMfcOLI35PnLr1M1D3"
+    },
+    {
+      "album": {
+        "name": "The Playbook",
+        "url": "https://open.spotify.com/album/2vUygxS5UQWrpXoCjsJWLo"
+      },
+      "artists": [
+        {
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181968,
+      "name": "I Should Have Said",
+      "url": "https://open.spotify.com/track/5cb1bZKSscHpHkKjVS6X8R"
     },
     {
       "album": {

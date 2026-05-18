@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,164 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,200 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Colombina](https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Colombina](https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0) | 2:49 |
-| 2 | [Live Your Life](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Live Your Life](https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP) | 3:20 |
-| 3 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
+| 2 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
+| 3 | [Live Your Life](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Live Your Life](https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP) | 3:20 |
 | 4 | [Céu Azul \- Vintage Culture & Santti Remix](https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Vintage Culture & Friends 2](https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA) | 4:21 |
 | 5 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
 | 6 | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk) | 3:37 |

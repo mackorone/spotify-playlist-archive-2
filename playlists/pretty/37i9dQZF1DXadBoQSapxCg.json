@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319707,
+  "num_followers": 319721,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Eu Te Entendo",
-        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 157437,
-      "name": "Eu Te Entendo",
-      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 139605,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Eu Te Entendo",
+        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Eu Te Entendo",
+      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
     },
     {
       "added_at": "2025-10-31 16:26:13",

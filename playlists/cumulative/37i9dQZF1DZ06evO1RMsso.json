@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "Fiddler On The Roof (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06ZOoSKNVRocMIxCrZnl1v"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Chaim Topol",
+          "url": "https://open.spotify.com/artist/5q9IltAhi9vdKqIGVQIasU"
+        },
+        {
+          "name": "\"Fiddler On The Roof\u201d Motion Picture Orchestra",
+          "url": "https://open.spotify.com/artist/0yultMio5TntZCl8JRRibP"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324600,
+      "name": "If I Were A Rich Man",
+      "url": "https://open.spotify.com/track/76FAfdFlazdZxS63izv3j4"
+    },
+    {
+      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },

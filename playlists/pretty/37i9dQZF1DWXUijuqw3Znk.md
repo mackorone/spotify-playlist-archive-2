@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 739 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 77 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 78 | [Ride it like](https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:57 |
 | 79 | [500000](https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 2:08 |
-| 80 | [1llusion Remix \- Bonus Track](https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 4:23 |
+| 80 | [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 |
 | 81 | [runaway \(Feat\. DON MALIK\)](https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 2:59 |
 | 82 | [OWL](https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:25 |
 | 83 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
 | 84 | [The Surface](https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:09 |
-| 85 | [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 |
+| 85 | [Reborn](https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:19 |
 | 86 | [WINNING MIND \(Feat\. Chin, LIL GIMCHI\)](https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Chin](https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [FAKE RAPPERS KILLER](https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b) | 3:23 |
 | 87 | [Superbee's Maserati](https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Superbee's Maserati](https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl) | 3:50 |
 | 88 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 |

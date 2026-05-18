@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 27541,
+  "num_followers": 27590,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "\u30d5\u30e9\u30ef\u30fc",
-        "url": "https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu"
+        "name": "Electricity (salute Remix)",
+        "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 287828,
-      "name": "\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq"
+      "duration_ms": 250675,
+      "name": "Electricity (salute Remix)",
+      "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -283,6 +287,22 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
+        "name": "\u30d5\u30e9\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 287828,
+      "name": "\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq"
+    },
+    {
+      "added_at": "2026-05-11 08:17:21",
+      "album": {
         "name": "yo,",
         "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 157611,
       "name": "Omatcha",
       "url": "https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2"
-    },
-    {
-      "added_at": "2026-05-11 08:17:21",
-      "album": {
-        "name": "Electricity (salute Remix)",
-        "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        },
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 250675,
-      "name": "Electricity (salute Remix)",
-      "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
-      },
-      "artists": [
-        {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
-    },
-    {
-      "added_at": "2026-05-11 08:17:21",
-      "album": {
         "name": "Full Train / Light on the Hill",
         "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 353124,
       "name": "Full Train",
       "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
+    },
+    {
+      "added_at": "2026-05-11 08:17:21",
+      "album": {
+        "name": "OB PKWY",
+        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
+      },
+      "artists": [
+        {
+          "name": "banvox",
+          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "OB PKWY",
+      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-05-11 08:17:21",

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 340673,
+  "num_followers": 340665,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Ride Ride Ride",
         "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
       },
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Fire To Smoke (feat. Tiffany Aris)",
-        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
       },
       "artists": [
         {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 163450,
-      "name": "Fire To Smoke (feat. Tiffany Aris)",
-      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1199,6 +1179,26 @@
       "duration_ms": 137525,
       "name": "Find U (Ready Or Not)",
       "url": "https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Fire To Smoke (feat. Tiffany Aris)",
+        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 163450,
+      "name": "Fire To Smoke (feat. Tiffany Aris)",
+      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
     }
   ],
   "unique_name": "SLAP!",

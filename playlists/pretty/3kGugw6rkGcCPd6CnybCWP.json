@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAO5uxmON6r6cfkDGOfsHulewlNVDON",
+  "snapshot_id": "AAAO6M2gxmpKwOWfHxnQS+4JjTz8eITD",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1547,6 +1547,38 @@
       "duration_ms": 154273,
       "name": "All You Fear Is All You Feel",
       "url": "https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2"
+    },
+    {
+      "added_at": "2026-05-17 19:42:53",
+      "album": {
+        "name": "Life Hurts You Without Asking",
+        "url": "https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        }
+      ],
+      "duration_ms": 302927,
+      "name": "I Was Scared",
+      "url": "https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ"
+    },
+    {
+      "added_at": "2026-05-17 19:45:25",
+      "album": {
+        "name": "Folded (Cover)",
+        "url": "https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq"
+      },
+      "artists": [
+        {
+          "name": "MLLN",
+          "url": "https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e"
+        }
+      ],
+      "duration_ms": 245981,
+      "name": "Folded - Cover",
+      "url": "https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

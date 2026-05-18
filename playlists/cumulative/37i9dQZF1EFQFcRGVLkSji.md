@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 8 hr 59 min
+192 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2025-06-01 |  |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/3AjQQWTwJGwxMrh6B5H9Af) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:25 | 2025-07-20 |  |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 | 2025-06-01 | 2025-07-21 |
-| [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC) | 3:37 | 2026-03-04 |  |
+| [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/2V8qrFqrIHHsvkfWbHfvaD) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:37 | 2026-05-17 |  |
+| [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC) | 3:37 | 2026-03-04 | 2026-05-18 |
 | [EXPLOSION!](https://open.spotify.com/track/5w5WCIXV2vfdR5gdBDDtgy) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/6PwnanHJ5C4hV9VB7vhIHb) | 1:29 | 2025-12-19 |  |
 | [EXPLOSION!](https://open.spotify.com/track/6ef0T3U0xLCCuGBqv2VVBq) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/2QewB7aov4vSgKcrYHhdZC) | 1:29 | 2025-06-01 | 2025-12-20 |
 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 | 2025-06-01 |  |
@@ -80,7 +81,8 @@
 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2025-06-01 |  |
 | [holdin' on](https://open.spotify.com/track/3E9NYr5ij1O85Ynp82qUry) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:32 | 2025-06-01 |  |
 | [HONEST](https://open.spotify.com/track/6l0mMVn53nV2steaFy2Umv) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:59 | 2025-06-01 |  |
-| [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 | 2026-04-29 |  |
+| [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/1NAzcbuB9x6jSLDLXYxi1I) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:20 | 2026-05-17 |  |
+| [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 | 2026-04-29 | 2026-05-18 |
 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 3:08 | 2025-06-01 |  |
 | [I THOUGHT THAT I NEEDED YOU](https://open.spotify.com/track/3kvR6zZ5SUEu5POE7StefC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:51 | 2026-04-25 |  |
 | [I THOUGHT THAT I NEEDED YOU](https://open.spotify.com/track/3qwfwRLci33jDtIQhArYAA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:51 | 2025-06-01 | 2026-04-26 |

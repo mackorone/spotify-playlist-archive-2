@@ -18457,6 +18457,24 @@
     },
     {
       "album": {
+        "name": "Jah Shield",
+        "url": "https://open.spotify.com/album/24Wy0QnvclD1E3WMTj0ISZ"
+      },
+      "artists": [
+        {
+          "name": "DAB David Asher Band",
+          "url": "https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA"
+        }
+      ],
+      "date_added": "2026-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322857,
+      "name": "Jah Shield",
+      "url": "https://open.spotify.com/track/7hjRlprjYBkSmi6UXgEyA9"
+    },
+    {
+      "album": {
         "name": "Dred Reggae",
         "url": "https://open.spotify.com/album/4Ssk6qrJeAfSylHROZavw8"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron! Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,176 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,179 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 32 | [Hanagasa Ondo](https://open.spotify.com/track/4X0RMkxgKiWmGYY1UrXLkS) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Hanagasa Ondo](https://open.spotify.com/album/63YP3W4F5lV4ecyBAK8jOn) | 4:24 |
 | 33 | [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 |
 | 34 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
-| 35 | [WAVE8 \(feat\. Ole\)](https://open.spotify.com/track/6uOYOzfuG7KyWcjrid3r4j) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt), [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd) | [WAVE8 \(feat\. Ole\)](https://open.spotify.com/album/4BgZVJEoDwHgqBmbKRfY7v) | 3:22 |
+| 35 | [WAVE8 \(feat\. Ole\)](https://open.spotify.com/track/6uOYOzfuG7KyWcjrid3r4j) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt), [Takeru Shibuya](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd) | [WAVE8 \(feat\. Ole\)](https://open.spotify.com/album/4BgZVJEoDwHgqBmbKRfY7v) | 3:22 |
 | 36 | [Brothers \- Beno Remix](https://open.spotify.com/track/4eMJJy7CcgwaSz8PGj01nG) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Ben Hendler](https://open.spotify.com/artist/3dCwcQ0B6yGThCdTSfSho6) | [Brothers \(Beno Edit / Remix\)](https://open.spotify.com/album/3C6zrsChN1Y6rxm0sp9jeR) | 4:36 |
 | 37 | [Suite Plusante](https://open.spotify.com/track/0brKvUrsafXYO2YObXEdkj) | [Laranja](https://open.spotify.com/artist/3voFFouSzs8jq02XKwPQMP), [Chihiro Sings](https://open.spotify.com/artist/7p0ll6CO1q1v7iJeqe3yeg) | [ARCANE FLARE](https://open.spotify.com/album/6CEissgtxGuYlFRvlCVzei) | 5:39 |
 | 38 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: huskie
 
-838 songs - 1 day 16 hr 54 min
+839 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Gaduła](https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:22 | 2024-10-04 | 2025-01-24 |
 | [GAME ON](https://open.spotify.com/track/71haRmcp17D0nrl9S0hVgq) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [GAME ON](https://open.spotify.com/album/6MqWTdKzTndBaKYvPW9aHm) | 2:37 | 2026-02-12 | 2026-02-28 |
 | [Gdy czytasz w myślach](https://open.spotify.com/track/3FvlduH528Ob6V9mFCex5Y) | [Mateusz Tomczak](https://open.spotify.com/artist/0o54rxa8ThqyrIhVrQ495r) | [Gdy czytasz w myślach](https://open.spotify.com/album/4I2hjSPGFZefG3ESM9DNjo) | 3:51 | 2025-04-03 | 2025-04-11 |
+| [Gdy zniknę](https://open.spotify.com/track/6Mj1lwqzZ3IpJpN5MtaS3W) | [Lina Silva](https://open.spotify.com/artist/0I8iyqPNVpzKurgaSReE22), [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [Gdy zniknę](https://open.spotify.com/album/3yYTCh3w97NXOv9rgXBbFm) | 3:20 | 2026-05-15 |  |
 | [gdybym miał prawko zabrałbym cb za miasto](https://open.spotify.com/track/1VPtuv5738hgfbG6qbRhaT) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [gdybym miał prawko zabrałbym cb za miasto](https://open.spotify.com/album/2gy4RMDBgfSbNv0n0xcM5b) | 2:36 | 2024-06-28 | 2024-07-27 |
 | [gdybyś istniał](https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we) | [Leo!](https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod) | [gdybyś istniał](https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E) | 2:55 | 2026-03-05 |  |
 | [Gdzie ten mąż?](https://open.spotify.com/track/395u35244oqIxioRGgBFiQ) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Gdzie ten mąż?](https://open.spotify.com/album/70oAPbmDRlDpTkD8pcaEVC) | 2:23 | 2026-02-27 | 2026-05-08 |
@@ -545,7 +546,7 @@
 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 | 2025-07-03 | 2025-08-27 |
 | [Piosenka z Portugalii](https://open.spotify.com/track/2O9i6Ye9T6CgWDATXWSyRx) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Piosenka z Portugalii](https://open.spotify.com/album/6JBx159DslaGqOkmsM7Sxn) | 2:50 | 2026-04-09 | 2026-04-24 |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-21 | 2025-12-06 |
-| [Piątki](https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Piosenki z filmów, których nie było](https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA) | 3:54 | 2026-04-23 |  |
+| [Piątki](https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Piosenki z filmów, których nie było](https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA) | 3:54 | 2026-04-23 | 2026-05-18 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-09-17 |
 | [playlista](https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-01 | 2025-08-27 |

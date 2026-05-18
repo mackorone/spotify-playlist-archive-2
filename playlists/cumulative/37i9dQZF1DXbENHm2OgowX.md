@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-222 songs - 16 hr 43 min
+223 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Memories You'll Never Feel Again](https://open.spotify.com/track/0GWtkT95L68vtFTpHTj24M) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Leaving](https://open.spotify.com/album/1ArwGTKlpkMTmCGEKbr5rB) | 5:28 | 2022-02-11 | 2022-03-11 |
 | [Million Year Summer](https://open.spotify.com/track/5NZBgRSuskQFUmTFUYgJKR) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 3:52 | 2022-02-11 | 2022-03-18 |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2023-01-09 | 2025-06-21 |
+| [morning after midnight](https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9), [Droner](https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl) | [morning after midnight](https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP) | 2:16 | 2026-05-15 |  |
 | [My Blood Still Whispers](https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 4:27 | 2022-02-11 | 2022-03-18 |
 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 | 2022-02-11 | 2023-01-10 |
 | [my last days on earth](https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF) | [undercurrent.](https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO) | [my last days on earth](https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89) | 2:19 | 2026-05-15 |  |
@@ -146,7 +147,7 @@
 | [Nocturnes & Meditations](https://open.spotify.com/track/0HZtIDdqIP8up1Zg3kG1Ou) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Nocturnes & Meditations](https://open.spotify.com/album/5NfQwn3QkXyixhFmAliqWj) | 5:46 | 2022-09-12 | 2022-11-10 |
 | [Non Fiction: I.I Sonore](https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Manchester Collective](https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ), [Jack Wyllie](https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Hugh Tieppo\-Brunt](https://open.spotify.com/artist/1uf6c7JgZGqTZgFBtnH8gK) | [Non Fiction: I\. Sonore \- Animato \- Meno Mosso](https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5) | 3:27 | 2025-11-06 |  |
 | [now i know what i mean](https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG) | [vånda](https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd), [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [now i know what i mean](https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820) | 2:01 | 2025-11-06 | 2026-05-16 |
-| [nowhere else](https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj) | [tee](https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2), [tiired](https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN) | [nowhere else](https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY) | 1:57 | 2026-05-15 |  |
+| [nowhere else](https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj) | [tee](https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2), [tiired](https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN) | [nowhere else](https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY) | 1:57 | 2026-05-15 | 2026-05-18 |
 | [of folded photographs](https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [of folded photographs](https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J) | 3:41 | 2026-03-20 |  |
 | [Of the undiscovered country \- From The Original Motion Picture "Hamnet"](https://open.spotify.com/track/5psjdB5UIHuDvfZqxjRIGb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Of the undiscovered country \(From The Original Motion Picture "Hamnet"\)](https://open.spotify.com/album/6pt0WcKOkyqZkdGz04zoY9) | 5:22 | 2025-11-06 | 2026-03-21 |
 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 | 2025-06-05 |  |

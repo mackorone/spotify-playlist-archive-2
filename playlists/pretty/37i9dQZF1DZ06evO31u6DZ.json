@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 10229,
+  "num_followers": 10231,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAD19i2f8gyg+PaKjJ1DDqUu",
+  "snapshot_id": "agezgAAAAAAw7r6nYORl4qPD1LbrEXLu",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Bloody Romance",
-      "url": "https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 214453,
       "name": "Family Tradition",
       "url": "https://open.spotify.com/track/7EkM4mRpNMQlIWTS72kAB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Bloody Romance",
+      "url": "https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "One Eight Seven",
-      "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 200986,
       "name": "Lungs Like Gallows",
       "url": "https://open.spotify.com/track/7CQIwk5PSSVSB8sdJKZYbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "One Eight Seven",
+      "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Free Fall Without A Parachute",
-      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 173698,
       "name": "Shark Attack",
       "url": "https://open.spotify.com/track/02xoVbvxVOKK8MWNe926zb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Free Fall Without A Parachute",
+      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+      "duration_ms": 245879,
+      "name": "All the Best Cowboys Have Daddy Issues",
+      "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
     },
     {
       "added_at": null,
@@ -308,9 +308,25 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Four Years",
-      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
+      "duration_ms": 129920,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
     },
     {
       "added_at": null,
@@ -324,25 +340,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 245879,
-      "name": "All the Best Cowboys Have Daddy Issues",
-      "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Bonecrusher",
-      "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
+      "duration_ms": 184306,
+      "name": "Every Day Is a Struggle",
+      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
     },
     {
       "added_at": null,
@@ -372,15 +372,15 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Garden State",
-      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
+      "duration_ms": 255466,
+      "name": "Four Years",
+      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 184306,
-      "name": "Every Day Is a Struggle",
-      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 129920,
-      "name": "Fireworks at Dawn",
-      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
+      "duration_ms": 218746,
+      "name": "Garden State",
+      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
       "duration_ms": 117714,
       "name": "The Rapture",
       "url": "https://open.spotify.com/track/0cgwlSRGMIxCB2ftqloDNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Life Is Not a Waiting Room",
+      "url": "https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tradition",
-        "url": "https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Life Is Not a Waiting Room",
-      "url": "https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Enfold You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 203773,
       "name": "Irish Eyes",
       "url": "https://open.spotify.com/track/3nR1b4NiDKObsirgxGaVqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "New Jersey Makes, The World Takes",
-      "url": "https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 224133,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
+      "duration_ms": 179466,
+      "name": "New Jersey Makes, The World Takes",
+      "url": "https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Elevator to the Gallows",
-      "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
+      "duration_ms": 212973,
+      "name": "Lifeboats",
+      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 212973,
-      "name": "Lifeboats",
-      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
+      "duration_ms": 224000,
+      "name": "Elevator to the Gallows",
+      "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
     }
   ],
   "unique_name": "This Is Senses Fail",

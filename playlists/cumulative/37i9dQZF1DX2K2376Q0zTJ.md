@@ -2,7 +2,7 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！チケット先行販売＆詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: Awich
+> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: Awich
 
 1,535 songs - 3 day 18 hr 11 min
 

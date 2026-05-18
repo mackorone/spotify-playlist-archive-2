@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 492,
+  "num_followers": 493,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAACB2BsuIk3VQ9ghtiTqBWA",
+  "snapshot_id": "agezgAAAAADBMkhSyI8lMJrPCo2PFSCu",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Middle Of The Bed",
         "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 201386,
       "name": "Middle Of The Bed",
       "url": "https://open.spotify.com/track/5QiZMUvbgre4NvduHNRqif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Girl Where He Grew Up",
-      "url": "https://open.spotify.com/track/53Osviolix5BVUSWf6qMbd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Never Broke My Heart",
         "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 175833,
       "name": "If You Never Broke My Heart",
       "url": "https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Girl Where He Grew Up",
+      "url": "https://open.spotify.com/track/53Osviolix5BVUSWf6qMbd"
     },
     {
       "added_at": null,
@@ -438,15 +438,11 @@
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 212121,
-      "name": "One and Only You (Reprise)",
-      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,
@@ -496,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -514,11 +510,15 @@
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 212121,
+      "name": "One and Only You (Reprise)",
+      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 202920,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
     },
     {
       "added_at": null,

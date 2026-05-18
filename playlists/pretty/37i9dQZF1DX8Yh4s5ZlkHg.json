@@ -1,6 +1,6 @@
 {
   "description": "Intimate, sultry, satisfying. =",
-  "num_followers": 1002884,
+  "num_followers": 1003429,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-01-20 16:43:32",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
-    },
-    {
-      "added_at": "2026-01-20 16:43:32",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -847,6 +831,26 @@
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
+    },
+    {
+      "added_at": "2026-01-20 16:43:32",
+      "album": {
+        "name": "Rinsed",
+        "url": "https://open.spotify.com/album/65RExrGwWeVp0Q9q8lv1qW"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 106805,
+      "name": "Rinsed",
+      "url": "https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d"
     }
   ],
   "unique_name": "sexy indie",

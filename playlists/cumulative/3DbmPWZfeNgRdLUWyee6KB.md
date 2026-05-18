@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,061 songs - 2 day 14 hr 8 min
+1,062 songs - 2 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [Undercurrents](https://open.spotify.com/track/4MS830aig1FAP5loRX82nU) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Undercurrents](https://open.spotify.com/album/2Lu0CjzJuQ4coG2LRxPzsC) | 3:37 | 2026-03-10 | 2026-04-12 |
 | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS) | 2:47 | 2025-11-17 | 2025-12-21 |
 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 | 2026-03-28 | 2026-05-03 |
+| [Unknown Raste](https://open.spotify.com/track/0Odf94X6kKSYbik9dA4Jt9) | [Divyansh Rawat](https://open.spotify.com/artist/02BgNjE3QBgktWMOuWJuKO) | [Unknown Raste](https://open.spotify.com/album/7BBfkd8n788CsCZAVyCPFR) | 3:51 | 2026-05-17 |  |
 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 | 2025-12-29 | 2026-02-03 |
 | [Until the End of the World](https://open.spotify.com/track/1pE14eN9lfdPeg73TcCM46) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:09 | 2025-11-14 | 2025-12-21 |
 | [untitled](https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [untitled](https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3) | 4:04 | 2026-03-09 | 2026-04-12 |

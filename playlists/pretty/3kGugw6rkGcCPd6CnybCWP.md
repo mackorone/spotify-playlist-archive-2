@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 95 songs - 5 hr 28 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 97 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 93 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 |
 | 94 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 |
 | 95 | [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 |
+| 96 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 |
+| 97 | [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 |
 
-Snapshot ID: `AAAO5uxmON6r6cfkDGOfsHulewlNVDON`
+Snapshot ID: `AAAO6M2gxmpKwOWfHxnQS+4JjTz8eITD`

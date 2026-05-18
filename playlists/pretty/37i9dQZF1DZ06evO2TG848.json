@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23837,
+  "num_followers": 23842,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAABs5ekj4I5ZbAo1DwMTBAai",
+  "snapshot_id": "agezgAAAAAA7lqEcXTIov4H6Zh4vhbGX",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         }
       ],
-      "duration_ms": 172226,
-      "name": "The Apology Song - from \"The Book of Life\" Soundtrack",
-      "url": "https://open.spotify.com/track/7nnbb77c4fLnosiTk5QpxQ"
+      "duration_ms": 104280,
+      "name": "Si Puedes Perdonar - from \"The Book of Life\" Soundtrack",
+      "url": "https://open.spotify.com/track/3SGypgzY5gC0K9ve9gfxll"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 168680,
-      "name": "Allowed to be Happy",
-      "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
+      "duration_ms": 172560,
+      "name": "The Last of Us Part II",
+      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         }
       ],
-      "duration_ms": 104280,
-      "name": "Si Puedes Perdonar - from \"The Book of Life\" Soundtrack",
-      "url": "https://open.spotify.com/track/3SGypgzY5gC0K9ve9gfxll"
+      "duration_ms": 172226,
+      "name": "The Apology Song - from \"The Book of Life\" Soundtrack",
+      "url": "https://open.spotify.com/track/7nnbb77c4fLnosiTk5QpxQ"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 172560,
-      "name": "The Last of Us Part II",
-      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
+      "duration_ms": 168680,
+      "name": "Allowed to be Happy",
+      "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 82106,
+      "name": "Riding Horses",
+      "url": "https://open.spotify.com/track/6ZtSWKRRUwuivdyZAhdQlp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -948,41 +964,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 118216,
-      "name": "A Great Man",
-      "url": "https://open.spotify.com/track/4W0RWhmF9FNSGx1cJd8ZAX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Motorcycle Diaries with additional Music",
-        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Don Markese",
-          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
-        },
-        {
-          "name": "Braulio Barrera",
-          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
-        },
-        {
-          "name": "Javier Casalla",
-          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
-        },
-        {
-          "name": "Anibal Kerpel",
-          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

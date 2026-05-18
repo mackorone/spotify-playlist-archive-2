@@ -27990,7 +27990,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 554733,
       "name": "Have You Seen This Movie (Distant Figure)",
       "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
@@ -40706,7 +40706,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 444626,
       "name": "Magic Psalm (Etude No.17)",
       "url": "https://open.spotify.com/track/0zAvcwseyr7VW1RFfAmoeP"
@@ -56135,6 +56135,32 @@
     },
     {
       "album": {
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172806,
+      "name": "Say More (with Mad Keys)",
+      "url": "https://open.spotify.com/track/6mDxeODcJLsH1xXiUlJwWa"
+    },
+    {
+      "album": {
         "name": "Say Yes",
         "url": "https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag"
       },
@@ -68990,7 +69016,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 138920,
       "name": "Trish Status",
       "url": "https://open.spotify.com/track/61KfQrwYsZuOuKteYFPYEE"

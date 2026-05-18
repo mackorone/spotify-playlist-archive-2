@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma
 
-1,142 songs - 2 day 8 hr 33 min
+1,143 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Descomplica](https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Descomplica](https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5) | 3:32 | 2026-03-20 |  |
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2023-02-14 | 2024-12-12 |
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-03-31 | 2023-07-29 |
-| [DESERTO](https://open.spotify.com/track/6hEkDtfkyMDRty3HBwQAal) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5) | [DESERTO](https://open.spotify.com/album/4pCHTiebQ0vBR6J9rxuP3h) | 2:44 | 2026-04-10 |  |
+| [DESERTO](https://open.spotify.com/track/6hEkDtfkyMDRty3HBwQAal) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5) | [DESERTO](https://open.spotify.com/album/4pCHTiebQ0vBR6J9rxuP3h) | 2:44 | 2026-04-10 | 2026-05-18 |
 | [Desfaço](https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [MELODRAMÁTICO](https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0) | 2:37 | 2023-12-15 | 2024-01-27 |
 | [Desgraça](https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:50 | 2026-04-17 |  |
 | [Desmitificar](https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:33 | 2026-02-02 | 2026-04-11 |
@@ -665,6 +665,7 @@
 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 | 2023-07-07 | 2023-09-16 |
 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 | 2020-10-20 | 2022-05-19 |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2020-10-20 | 2023-02-15 |
+| [Ninguém Morre de Amor](https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Seda de Casulo](https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ) | 2:30 | 2026-05-15 |  |
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 | 2020-10-20 | 2023-02-15 |
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/7FEwp8BavoEVE3AnxJDchc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Guidance \(feat\. Drake\)](https://open.spotify.com/album/1ypdCwJwVaUHuFTnvvQbMX) | 4:20 | 2020-10-20 | 2022-07-22 |
 | [No Idea](https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/1jAxVdQ2FFtbHu6kLNM0au) | 2:34 | 2020-10-20 | 2022-07-29 |

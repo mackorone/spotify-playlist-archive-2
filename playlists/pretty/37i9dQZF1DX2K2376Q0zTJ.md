@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！チケット先行販売＆詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: Awich
+> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: Awich
 
 [Spotify](https://open.spotify.com/user/spotify) - 18,934 likes - 50 songs - 3 hr 0 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [EMO EMO](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 2:37 |
 | 50 | [Complete silence](https://open.spotify.com/track/42OiENXw0a8mt7eizLfyee) | [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn) | [Sepia](https://open.spotify.com/album/3W7DFUMUHVlj3GMQg8tUPA) | 5:52 |
 
-Snapshot ID: `AAAAABMUrLCfw6AEwvq5xJsUjBQWVFG3`
+Snapshot ID: `AAAAAHQSbinKvkRIHSvGA4zbRuSwVfv9`

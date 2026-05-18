@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 467551,
+  "num_followers": 467538,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAD/SVDu7hx1TdqYTijFqE8W",
+  "snapshot_id": "agezgAAAAAANvSfv2QmgzKm6vODIUrU7",
   "tracks": [
     {
       "added_at": null,
@@ -1019,22 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+        "name": "Amor, Amor, Amor (feat. Wisin)",
+        "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 174708,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
+      "duration_ms": 198586,
+      "name": "Amor, Amor, Amor (feat. Wisin)",
+      "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
     },
     {
       "added_at": null,

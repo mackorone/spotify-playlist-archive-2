@@ -1,18 +1,18 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7484,
+  "num_followers": 7482,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAADjvq0C8fEyisB1J5b+4GjY",
+  "snapshot_id": "agezgAAAAAATTwC3kMzJ/TptrA8/H6Nq",
   "tracks": [
     {
       "added_at": null,
       "album": {
         "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+        "url": "https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 216733,
+      "duration_ms": 216773,
       "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+      "url": "https://open.spotify.com/track/6GQ3WTaNHMFlVmN4burGat"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "The Harvest",
+        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
+      "duration_ms": 211880,
+      "name": "Tattoo Dreams",
+      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Harvest",
-        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Tattoo Dreams",
-      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,

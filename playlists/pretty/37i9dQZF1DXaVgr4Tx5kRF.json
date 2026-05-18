@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666173,
+  "num_followers": 666183,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3ATIyi8OsM5ciO0CDd2iCs"
     },
     {
-      "added_at": "2024-09-01 15:34:53",
-      "album": {
-        "name": "Definitely Maybe (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ltq9CMOO5mfLkcDOpXYXF"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 392306,
-      "name": "Slide Away - Remastered",
-      "url": "https://open.spotify.com/track/6Uj8JjB6rrRpUwkr5cczaH"
-    },
-    {
       "added_at": "2024-03-18 22:10:08",
       "album": {
         "name": "Bandwagonesque",
@@ -583,6 +567,22 @@
       "duration_ms": 120706,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh"
+    },
+    {
+      "added_at": "2024-09-01 15:34:53",
+      "album": {
+        "name": "Definitely Maybe (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ltq9CMOO5mfLkcDOpXYXF"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/6Uj8JjB6rrRpUwkr5cczaH"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Urban Hymns",
         "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Best Of Ash (Remastered Version)",
-        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Best Of Ash (Remastered Version)",
+        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -907,18 +923,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -947,24 +963,8 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2ThnpEHmCmIHJuzAx9nQxt"
+        "name": "Ace A's + Killer B's",
+        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
       },
       "artists": [
         {
@@ -972,25 +972,9 @@
           "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Staying Out For The Summer",
-      "url": "https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+      "duration_ms": 239840,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "His 'N' Hers",
+        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
       },
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Ace A's + Killer B's",
-        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2ThnpEHmCmIHJuzAx9nQxt"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
         }
       ],
-      "duration_ms": 239840,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
+      "duration_ms": 185266,
+      "name": "Staying Out For The Summer",
+      "url": "https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu"
     }
   ],
   "unique_name": "Britpop, Etc.",

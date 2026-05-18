@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,139 likes - 48 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,151 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 46 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 | 47 | [Main Title](https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:24 |
 | 48 | [Anakin's Theme](https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 3:07 |
+| 49 | [If I Were A Rich Man](https://open.spotify.com/track/76FAfdFlazdZxS63izv3j4) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Chaim Topol](https://open.spotify.com/artist/5q9IltAhi9vdKqIGVQIasU), ["Fiddler On The Roof” Motion Picture Orchestra](https://open.spotify.com/artist/0yultMio5TntZCl8JRRibP) | [Fiddler On The Roof \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06ZOoSKNVRocMIxCrZnl1v) | 5:24 |
 
-Snapshot ID: `agZiAAAAAACwVezGH8O8wAejA6N6/cq0`
+Snapshot ID: `agezgAAAAACTFXt1Ccy6E7AulMM8Flm5`

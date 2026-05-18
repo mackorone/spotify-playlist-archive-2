@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94105,
+  "num_followers": 94110,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAAAmhajR/TRGX14umPLCmXkZ",
+  "snapshot_id": "agezgAAAAAAHXtbBkSNTPnkm/rxYvr9c",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm",
         "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
       "artists": [
         {
@@ -616,25 +600,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -659,6 +627,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 210883,
-      "name": "Midzomernacht",
-      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
+      "duration_ms": 232840,
+      "name": "Monsters Slapen Nooit",
+      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Monsters Slapen Nooit",
-      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
+      "duration_ms": 210883,
+      "name": "Midzomernacht",
+      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
     },
     {
       "added_at": null,

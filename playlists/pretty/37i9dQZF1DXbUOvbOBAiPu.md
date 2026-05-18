@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Jul, Drake, Shakira x Burna Boy, Aaron Blommaert and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,763 likes - 117 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,753 likes - 117 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

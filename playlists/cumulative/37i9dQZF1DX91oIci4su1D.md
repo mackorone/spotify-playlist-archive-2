@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,277 songs - 3 day 4 hr 24 min
+1,278 songs - 3 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [EVERLASTING](https://open.spotify.com/track/2bmCrJFHvpdfa0ydtP8zwq) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [EVERLASTING](https://open.spotify.com/album/6M9XCnuEHSh7aWdLrufkqo) | 4:08 | 2023-05-26 | 2024-05-18 |
 | [Every Other Way \- Adam Ellis Remix](https://open.spotify.com/track/4WNJB0p490ZNs3EO5IcFZA) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Adam Ellis](https://open.spotify.com/artist/5tGHR2wsaFZhRzRPRZDFds) | [Every Other Way \(Adam Ellis Remix\)](https://open.spotify.com/album/5udCLW82EKRHiUtpcmHLn3) | 4:26 | 2023-03-03 | 2024-02-17 |
 | [Every Second \- York Remix](https://open.spotify.com/track/53uE0XVCkd6lWIeDOVsYju) | [Ladybyrd](https://open.spotify.com/artist/478VYsGZy4p6EUSnijTzEv), [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Every Second \(York Remix\)](https://open.spotify.com/album/3Nz1Cin3q5PjbGbs2n3sba) | 3:52 | 2023-04-29 | 2023-05-20 |
-| [Everything Else Could Wait](https://open.spotify.com/track/311mDBEIB4IvTcUXKeUOVT) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Everything Else Could Wait](https://open.spotify.com/album/4ZfQAvaurXtnLDajcazRHE) | 4:11 | 2026-05-01 |  |
+| [Everything Else Could Wait](https://open.spotify.com/track/311mDBEIB4IvTcUXKeUOVT) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Everything Else Could Wait](https://open.spotify.com/album/4ZfQAvaurXtnLDajcazRHE) | 4:11 | 2026-05-01 | 2026-05-18 |
 | [Everything I Wanted](https://open.spotify.com/track/1wZbHTKhnHGuxAen2xwRpn) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Everything I Wanted](https://open.spotify.com/album/25awL6MI8fVp448RcXVLYn) | 2:35 | 2025-08-22 | 2025-09-20 |
 | [Everything Is Beautiful](https://open.spotify.com/track/0JrDbDm9aGvmXfBg6bFpMo) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Everything Is Beautiful](https://open.spotify.com/album/5BEY5GlvojPv8J29H6NoTs) | 5:06 | 2023-11-10 | 2023-12-09 |
 | [Everything You Want](https://open.spotify.com/track/321om129e8ZgtovAqLQ2Rj) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Sherano](https://open.spotify.com/artist/2Dxe0mR6EMgSc7f72pqKq6) | [Everything You Want](https://open.spotify.com/album/7bw4uqzPhT5aHRY8E5g6zc) | 3:14 | 2023-04-07 | 2024-02-17 |
@@ -1193,6 +1193,7 @@
 | [United in Trance](https://open.spotify.com/track/41TpNZA3eQXrLxQTncVph2) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [United in Trance](https://open.spotify.com/album/5KYV3aAydAMqVtc6iJXNf4) | 3:07 | 2025-06-06 |  |
 | [Unity](https://open.spotify.com/track/5lAWYLmP9HyE4NFKnsMwtm) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Unity](https://open.spotify.com/album/0Z4uKZqTTjsNd8u0W6WHF5) | 2:58 | 2022-04-01 | 2022-12-10 |
 | [Universal Nation \- Charlotte de Witte Rework \- Edit](https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 4:00 | 2024-01-26 |  |
+| [Universe \[Trust The Plan\]](https://open.spotify.com/track/6l5H7T7AeNHokSCMaZOfSx) | [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [MIDI Kittyy](https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4) | [Universe \[Trust The Plan\]](https://open.spotify.com/album/7omrY7XQnKCsCJgZNphVUr) | 2:16 | 2026-05-15 |  |
 | [Unkonsciousness \(UNK23 Anthem\)](https://open.spotify.com/track/5iteodYhvmxjP46YZCfjy1) | [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Unkonsciousness \(UNK23 Anthem\)](https://open.spotify.com/album/0QW37hkxcBbCI4smqQ55u8) | 4:18 | 2023-03-17 | 2024-05-18 |
 | [Unreal](https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Unreal](https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid) | 3:52 | 2023-10-27 | 2024-08-31 |
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-31 | 2023-05-20 |

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-611 songs - 1 day 16 hr 40 min
+612 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Father's Love](https://open.spotify.com/track/2cJg6TpjnYLEjz6GesuxJ1) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8) | [The Father's Love](https://open.spotify.com/album/6eoOlHJCfADSTEaegQ4jf7) | 2:50 | 2025-12-12 | 2026-01-15 |
 | [FAVOUR](https://open.spotify.com/track/0qgx6zvq7aU69Lt6iGDCvx) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [FAVOUR](https://open.spotify.com/album/4w6PorVb5s1RTpTWJWifhs) | 3:03 | 2024-10-18 | 2025-02-21 |
 | [Favoured](https://open.spotify.com/track/3MV5F5mXmSwV4SfDQtltEw) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Favoured](https://open.spotify.com/album/2DUMgEaK0BuGQ0zZ7KMl5g) | 2:50 | 2025-02-21 | 2025-05-02 |
-| [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 |  |
+| [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 | 2026-05-18 |
 | [FEELIN](https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Uno Genre](https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [FEELIN](https://open.spotify.com/album/5Uig3xMhqmo7uYb1bJI3BC) | 2:16 | 2026-05-01 |  |
 | [Feels Good](https://open.spotify.com/track/1PjcG9WVo37d7rC095xRaI) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Feels Good](https://open.spotify.com/album/6rdruiqR1RYqmURdMQFlcz) | 3:04 | 2024-11-08 | 2025-02-21 |
 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-09-27 | 2025-02-28 |
@@ -286,6 +286,7 @@
 | [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 | 2025-10-03 |
 | [IFE \- Live](https://open.spotify.com/track/2VcXj5HyOvhkXpb7aLOHPd) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [IFE \(Live\)](https://open.spotify.com/album/4wHEnJxdHitz418BobWV0a) | 7:20 | 2026-04-03 |  |
 | [Ifeoma](https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Ifeoma](https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK) | 3:31 | 2026-05-08 |  |
+| [Ifunanya](https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Ifunanya](https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs) | 5:14 | 2026-05-15 |  |
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2024-09-27 | 2025-02-28 |
 | [Ihịnèmerem](https://open.spotify.com/track/2rguu2bjwngxLIFf4olXm5) | [Yeka Onka](https://open.spotify.com/artist/1hgY12QHwLbjfLrIdDG45K) | [Ihịnèmerem](https://open.spotify.com/album/78VrJqZBVjI2CLlMEf2Ji0) | 3:26 | 2025-10-17 | 2025-11-21 |
 | [Imela](https://open.spotify.com/track/125nxvS8cjvr9Chpnno5SG) | [Lumina Worship](https://open.spotify.com/artist/2byP4FxZl421KXIUlxDgeA), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [Alicia Jay](https://open.spotify.com/artist/6crPJmpHR66WQbf7erAigJ), [ISDMUSIC](https://open.spotify.com/artist/3XcH6LY2crH77fmOHoaEjC) | [Imela](https://open.spotify.com/album/6WYnb4osumk5nbueQBHoo9) | 2:15 | 2025-10-31 | 2025-11-28 |

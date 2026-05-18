@@ -1,4 +1,4 @@
-## Playlists \(9205\)
+## Playlists \(9206\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2901,6 +2901,7 @@
 - [Hardstyle Remixes of Popular Songs](/playlists/pretty/37i9dQZF1DWWz3YvZd9NIz.md)
 - [Hardwell DJ Mix: Rebels Never Die](/playlists/pretty/37i9dQZF1DX2lrAgcmlOuE.md)
 - [Harp Lullabies](/playlists/pretty/37i9dQZF1DX2y5WZJJL4SF.md)
+- [Harry Styles \| Together, Together Setlist](/playlists/pretty/37i9dQZF1DXcWf4OkNlfxR.md)
 - [Haryanvi Workout](/playlists/pretty/37i9dQZF1DX8JRCXB7TyAC.md)
 - [Hatha Yoga](/playlists/pretty/37i9dQZF1DWZvpVE2NxPV2.md)
 - [Hats The Way I Like It: Ascot 2013](/playlists/pretty/2hirOuzhv3EK3AgEV2nKZn.md)

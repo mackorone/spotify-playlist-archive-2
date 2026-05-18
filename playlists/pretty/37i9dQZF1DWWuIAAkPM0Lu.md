@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik \(også til mor\) ❤️ @malteebert
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,419 likes - 106 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,412 likes - 106 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

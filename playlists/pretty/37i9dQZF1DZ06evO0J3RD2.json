@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 9912,
+  "num_followers": 9917,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agZiAAAAAABgaoULXYTr0cHaaZdsWErE",
+  "snapshot_id": "agezgAAAAAAG2cbx5Y/FeNkDzUG69mtq",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+        "name": "Back in My Ways",
+        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 189560,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
+      "duration_ms": 243286,
+      "name": "Back in My Ways",
+      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back in My Ways",
-        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 243286,
-      "name": "Back in My Ways",
-      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
+      "duration_ms": 189560,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
     },
     {
       "added_at": null,

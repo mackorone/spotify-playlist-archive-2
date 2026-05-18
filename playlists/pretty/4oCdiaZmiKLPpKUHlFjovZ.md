@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Asake, LUCKI &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,684 likes - 126 songs - 5 hr 49 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,678 likes - 126 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

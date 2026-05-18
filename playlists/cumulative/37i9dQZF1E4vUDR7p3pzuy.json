@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Queenadreena, JUST LIZZY and more",
+  "description": "With Evil Level Live, JUST LIZZY, Black Marine and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5hoIcBep3hJYXPJDKcrQSL"
@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0S6QApGIst9S6RgLzK0JCO"
+      },
+      "artists": [
+        {
+          "name": "My New Sound Addiction",
+          "url": "https://open.spotify.com/artist/5lENEXkVCQ8tXmWJJcya6Q"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157999,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5yzh19PF46t0wcybQvJ8lV"
+    },
+    {
+      "album": {
         "name": "Cleansed by Fire",
         "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 278936,
       "name": "Drowning Without You",
       "url": "https://open.spotify.com/track/1X7JrHjTSDPg7tm3iUtXD4"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -4114,7 +4132,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 282551,
       "name": "For Now",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -4452,6 +4470,24 @@
       "duration_ms": 199613,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5GYodvEWrQ5pbDeXAgyEN7"
+    },
+    {
+      "album": {
+        "name": "Give Me Some Slack",
+        "url": "https://open.spotify.com/album/2CoBlYRcB67EBII550sAVc"
+      },
+      "artists": [
+        {
+          "name": "Grown So Ugly",
+          "url": "https://open.spotify.com/artist/2JEVowhkZmK2ASfRZ77gcg"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293930,
+      "name": "Give Me Some Slack",
+      "url": "https://open.spotify.com/track/5w8UQPbBtV20qtXVPpbQHU"
     },
     {
       "album": {
@@ -6664,7 +6700,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
@@ -8118,7 +8154,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 222560,
       "name": "Pacific City",
       "url": "https://open.spotify.com/track/7FwdrtJQammXYwsJcr0LdQ"
@@ -8458,7 +8494,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 224396,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
@@ -9350,7 +9386,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 376000,
       "name": "September",
       "url": "https://open.spotify.com/track/1T2ty4xOFcAyV3nrmPfniv"
@@ -9390,7 +9426,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -9794,7 +9830,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -9910,7 +9946,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -10138,7 +10174,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10850,7 +10886,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -10970,7 +11006,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -11060,7 +11096,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 176535,
       "name": "The Fallen",
       "url": "https://open.spotify.com/track/39rURJHijuvFbYlZiHUNI8"
@@ -11280,6 +11316,24 @@
       "duration_ms": 263920,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/625gLSaOlAcfJ0mWt6zITJ"
+    },
+    {
+      "album": {
+        "name": "Baobab",
+        "url": "https://open.spotify.com/album/7lQ0wMvyW23oLeRkFZQ2kn"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "The One-Eyed Sun",
+      "url": "https://open.spotify.com/track/2cNVBdTZNLPTNm0aWilawx"
     },
     {
       "album": {
@@ -12030,7 +12084,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 116389,
       "name": "Toxic Kingdom",
       "url": "https://open.spotify.com/track/4O3M1FXfhxFOSesi0nSWPS"
@@ -12448,7 +12502,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -13006,7 +13060,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

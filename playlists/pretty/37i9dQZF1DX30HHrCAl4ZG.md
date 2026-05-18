@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,568 likes - 128 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,533 likes - 128 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 127 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
 | 128 | [detroit](https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Strung Out Symphony](https://open.spotify.com/album/4vkZh7v970FaGHlF16IDeW) | 3:09 |
 
-Snapshot ID: `AAAAAF8slZ7EOfeFc5uXLeMtZYdb6dC3`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

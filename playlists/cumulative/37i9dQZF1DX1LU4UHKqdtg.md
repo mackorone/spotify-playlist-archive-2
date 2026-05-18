@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NMIXX
 
-1,733 songs - 3 day 19 hr 22 min
+1,734 songs - 3 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-11-29 | 2023-03-04 |
 | [PARALLEL PARALLEL](https://open.spotify.com/track/5JeIo5GWHq8mJbnI7R5ypk) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [PARALLEL PARALLEL](https://open.spotify.com/album/4apOFp29EkxRXbDlKNxb9S) | 3:37 | 2023-01-31 | 2023-03-08 |
 | [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 | 2023-10-23 | 2024-03-08 |
+| [PARTY b4 the PARTY](https://open.spotify.com/track/78jrpGKYNsfqjEtuVUFifU) | [World Scout: The Final Piece](https://open.spotify.com/artist/0vm835pGiUfPxKi9MMKNAT) | [World Scout: The Final Piece \- Finale](https://open.spotify.com/album/3cEPCpMVJuIXrBmX7KtwM0) | 2:24 | 2026-05-17 |  |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 | 2024-03-13 |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 | 2022-12-24 |
 | [PARTY ROCK \-Japanese ver.\-](https://open.spotify.com/track/0XTb4lIFKG13EI4zzIBirT) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [PARTY ROCK \-Japanese ver.\-](https://open.spotify.com/album/7iHWU6plpiT6kokmpAVyqN) | 3:03 | 2023-11-14 | 2023-11-17 |
@@ -1583,7 +1584,7 @@
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 | 2023-10-11 |
 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-10 | 2026-05-05 |
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
-| [WE RIDE](https://open.spotify.com/track/5e4VKJM9bwEmqp7vzJGFFT) | [World Scout: The Final Piece](https://open.spotify.com/artist/0vm835pGiUfPxKi9MMKNAT) | [World Scout: The Final Piece \- Finale](https://open.spotify.com/album/3cEPCpMVJuIXrBmX7KtwM0) | 2:24 | 2026-05-15 |  |
+| [WE RIDE](https://open.spotify.com/track/5e4VKJM9bwEmqp7vzJGFFT) | [World Scout: The Final Piece](https://open.spotify.com/artist/0vm835pGiUfPxKi9MMKNAT) | [World Scout: The Final Piece \- Finale](https://open.spotify.com/album/3cEPCpMVJuIXrBmX7KtwM0) | 2:24 | 2026-05-15 | 2026-05-18 |
 | [We Still Loading \(FEAT\. Los, Rick Bridges, Northfacegawd, DJ SKY\)](https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Rick bridges](https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [DJ SKY](https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy) | [Year 1 : We Still Loading](https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1) | 4:36 | 2024-10-17 | 2024-10-24 |
 | [We're Not Alone](https://open.spotify.com/track/5A2Y2GjttBvB2u5o5cNjVO) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Weʼre Not Alone](https://open.spotify.com/album/79pspaGpJfhnlUlROnQZtO) | 4:36 | 2024-12-10 | 2025-01-27 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-04-01 |

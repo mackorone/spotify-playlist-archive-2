@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 246675,
+  "num_followers": 246713,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Soca Gold 2007",
         "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212146,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Face Beat",
         "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Rukshun",
-      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "How ah Livin",
         "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 229458,
       "name": "How ah Livin",
       "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Rukshun",
+      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
-      },
-      "artists": [
-        {
-          "name": "Certified Sampson",
-          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Soca Savage",
         "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
       },
@@ -1527,26 +1507,6 @@
       "duration_ms": 233116,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Dutty Dutty Riddim",
-        "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
-      },
-      "artists": [
-        {
-          "name": "Boogy Rankss",
-          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
-        },
-        {
-          "name": "Melick",
-          "url": "https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP"
-        }
-      ],
-      "duration_ms": 169743,
-      "name": "Take Bamboo",
-      "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1579,6 +1539,46 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Dutty Dutty Riddim",
+        "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
+      },
+      "artists": [
+        {
+          "name": "Boogy Rankss",
+          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
+        },
+        {
+          "name": "Melick",
+          "url": "https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP"
+        }
+      ],
+      "duration_ms": 169743,
+      "name": "Take Bamboo",
+      "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
+      },
+      "artists": [
+        {
+          "name": "Certified Sampson",
+          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "The Carnival Jumbies Experiment",
         "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
@@ -1595,8 +1595,8 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
       "artists": [
         {
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
         }
       ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/0WtzfApehqHSyiSlSJ6RuQ"
-      },
-      "artists": [
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Origins",
-      "url": "https://open.spotify.com/track/5YxAC8B9ZqMAar0WLH3m1F"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1683,8 +1667,24 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/0WtzfApehqHSyiSlSJ6RuQ"
+      },
+      "artists": [
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/5YxAC8B9ZqMAar0WLH3m1F"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
       },
       "artists": [
         {
@@ -1692,9 +1692,9 @@
           "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
         }
       ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-04-23 15:16:37",

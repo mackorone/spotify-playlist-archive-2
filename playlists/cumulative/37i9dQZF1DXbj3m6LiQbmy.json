@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi)",
       "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi) (feat. Willie Peyote)",
       "url": "https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ"
@@ -1936,10 +1936,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 236569,
       "name": "Dancing On This",
       "url": "https://open.spotify.com/track/1MR4lVHyfVH5jYT52hVydD"
+    },
+    {
+      "album": {
+        "name": "Circumnavigating Georgia",
+        "url": "https://open.spotify.com/album/0NifH8uAv89mMo97MnOenG"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236569,
+      "name": "Dancing On This",
+      "url": "https://open.spotify.com/track/2ohHqiZmBeSRsiWwzc8j3h"
     },
     {
       "album": {
@@ -2366,10 +2384,28 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 217815,
       "name": "Erotika",
       "url": "https://open.spotify.com/track/3JusqmHv9lLXozA5gVLiZ7"
+    },
+    {
+      "album": {
+        "name": "QALB",
+        "url": "https://open.spotify.com/album/0ta7gpy91St6rgPSbh0jFV"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217815,
+      "name": "Erotika",
+      "url": "https://open.spotify.com/track/3mMfcc51pjVtakHdzEVx13"
     },
     {
       "album": {
@@ -4309,6 +4345,32 @@
     },
     {
       "album": {
+        "name": "Kapote presents Italomania Vol. 2",
+        "url": "https://open.spotify.com/album/4KN5lYHvmm1tgI1HoPmlZm"
+      },
+      "artists": [
+        {
+          "name": "Severino Panzetta",
+          "url": "https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m"
+        },
+        {
+          "name": "Giacomo Moras",
+          "url": "https://open.spotify.com/artist/6ot5EUnczyalQ76s6l2Ryv"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247830,
+      "name": "Maledetto",
+      "url": "https://open.spotify.com/track/2XWmRrPtFUHCB5D8UBdmCO"
+    },
+    {
+      "album": {
         "name": "Maledetto",
         "url": "https://open.spotify.com/album/4jIzNSS0vpiDPAqzY5oyA2"
       },
@@ -4328,7 +4390,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 247830,
       "name": "Maledetto",
       "url": "https://open.spotify.com/track/5mWE57Day9EWDPweZFX7Qq"
@@ -4549,6 +4611,32 @@
     },
     {
       "album": {
+        "name": "QALB",
+        "url": "https://open.spotify.com/album/0ta7gpy91St6rgPSbh0jFV"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        },
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147580,
+      "name": "MNM",
+      "url": "https://open.spotify.com/track/1gUrv4vlETpM25ulRhQKJd"
+    },
+    {
+      "album": {
         "name": "MNM",
         "url": "https://open.spotify.com/album/2J0TJZJXxs4HgaHbZfDi9h"
       },
@@ -4568,7 +4656,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 147580,
       "name": "MNM",
       "url": "https://open.spotify.com/track/1ryU8bcGlofoUfnF5QQU0a"
@@ -6899,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Singles (The Album)",
+        "url": "https://open.spotify.com/album/5mPC6kvRkkD4PEFRUAf7gG"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "Te e Me",
+      "url": "https://open.spotify.com/track/5turxeWL0XCaXNeG9tlBIq"
+    },
+    {
+      "album": {
         "name": "Te e Me",
         "url": "https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ"
       },
@@ -6910,7 +7016,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 160746,
       "name": "Te e Me",
       "url": "https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA"
@@ -7934,10 +8040,28 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 221078,
       "name": "Zagara",
       "url": "https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7"
+    },
+    {
+      "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Zagara",
+      "url": "https://open.spotify.com/track/0MM1pOrZUHwzpY4zRiRCD3"
     },
     {
       "album": {

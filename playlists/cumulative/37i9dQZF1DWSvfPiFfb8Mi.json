@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Bring On Up Our Love",
       "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
@@ -5651,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "New Highs",
+        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232195,
+      "name": "New Highs",
+      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
+    },
+    {
+      "album": {
         "name": "No More Stress",
         "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
       },
@@ -5710,6 +5732,32 @@
       "duration_ms": 212096,
       "name": "Nothing Is Forever",
       "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Forever (Yuksek Remix)",
+        "url": "https://open.spotify.com/album/6M9fbOzo9coxn3qO3Qxl7E"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Kosta G",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295081,
+      "name": "Nothing Is Forever - Yuksek Remix",
+      "url": "https://open.spotify.com/track/42STKSJGBYfCJsTqlpq3XA"
     },
     {
       "album": {
@@ -7740,7 +7788,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 234000,
       "name": "Te Connais D\u00e9j\u00e0",
       "url": "https://open.spotify.com/track/5cJ1Ul9t29KaqpoRRp41ul"
@@ -8410,7 +8458,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 222909,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"

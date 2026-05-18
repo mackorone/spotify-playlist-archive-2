@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,993 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,996 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 61 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
 | 62 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 |
 | 63 | [King of Possibilities](https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [King of Possibilities](https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2) | 2:36 |
-| 64 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
-| 65 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
+| 64 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
+| 65 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
 | 66 | [The Great Caucasian God](https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Devil’s Den](https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q) | 3:50 |
 | 67 | [False Start](https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [False Start](https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG) | 3:23 |
 | 68 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:33 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 90 | [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 |
 | 91 | [A Perfect Dive](https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [A Perfect Dive](https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci) | 3:26 |
 | 92 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
-| 93 | [House of Mirrors](https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [House of Mirrors](https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU) | 3:21 |
-| 94 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 |
+| 93 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 |
+| 94 | [House of Mirrors](https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [House of Mirrors](https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU) | 3:21 |
 | 95 | [Misty Morning](https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Misty Morning](https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W) | 3:02 |
 | 96 | [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 |
 | 97 | [Vengeance and Grace](https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Vengeance and Grace](https://open.spotify.com/album/2VsiZpURytj95TTxg7MTrD) | 3:15 |
-| 98 | [Never Kissed a Cowboy](https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Never Kissed a Cowboy](https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK) | 3:04 |
-| 99 | [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 |
+| 98 | [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 |
+| 99 | [Never Kissed a Cowboy](https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Never Kissed a Cowboy](https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK) | 3:04 |
 | 100 | [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 |
 
 Snapshot ID: `AAAAAJF0x9PDB/uTGhczyp8DRa/YsD67`

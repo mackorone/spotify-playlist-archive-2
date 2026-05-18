@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Os Garotin, Shakira com Burna Boy,  Drake,  Ana Castela com PEDRO SAMPAIO,  MD Chefe com Duquesa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,285 likes - 86 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,285,083 likes - 86 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

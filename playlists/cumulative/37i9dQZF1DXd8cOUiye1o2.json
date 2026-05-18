@@ -8616,7 +8616,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-18",
       "duration_ms": 405838,
       "name": "Kinara",
       "url": "https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E"
@@ -17464,6 +17464,44 @@
       "duration_ms": 179449,
       "name": "Way You Move - Acoustic",
       "url": "https://open.spotify.com/track/1XIOjB7G0xDj9rqZ3Rw5YH"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Jungle - Title Track (From \u201cWelcome To The Jungle\u201d)",
+        "url": "https://open.spotify.com/album/4vZkdcJA96FUAibfRjcMs6"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Priya Patidar",
+          "url": "https://open.spotify.com/artist/3eWfbFuKPx1rkbQXiFMNGr"
+        },
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Sajid-Wajid",
+          "url": "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234769,
+      "name": "Welcome To The Jungle - Title Track (From \u201cWelcome To The Jungle\u201d)",
+      "url": "https://open.spotify.com/track/4aov0FizYsCGL6J4T7yBRe"
     },
     {
       "album": {

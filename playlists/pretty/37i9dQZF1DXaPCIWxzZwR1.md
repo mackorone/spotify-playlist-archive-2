@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,820 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259,772 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Stay The Night](https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Stay The Night](https://open.spotify.com/album/01ZXm2k9PdMIJE8I01gRqM) | 3:58 |
 | 100 | [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 |
 
-Snapshot ID: `AAAAAICB7pqWpnzmTkF+ec6+Lt36Kuli`
+Snapshot ID: `AAAAAFWsun9SGXKa650eVg+NTSl0AogX`
