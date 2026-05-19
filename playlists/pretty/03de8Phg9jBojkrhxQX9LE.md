@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,054 likes - 185 songs - 10 hr 12 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,052 likes - 185 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 22 | [powerANTHEM](https://open.spotify.com/track/0LHa2W53zFGGM6kJES1BoE) | [No Signal](https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [powerANTHEM / need \(u\)](https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg) | 2:25 |
 | 23 | [What You Want \- Fcukers Remix](https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want \(Fcukers Remix\)](https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC) | 3:22 |
 | 24 | [Do 2 Me](https://open.spotify.com/track/2ZhMFXbpia6DJqn2IP52IH) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Do 2 Me](https://open.spotify.com/album/29wp5C6Glq9nGUoYIDl2Fc) | 3:08 |
-| 25 | [SPECTRUM](https://open.spotify.com/track/0roUYRFNX1yMzmuHQqjcwt) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [SPECTRUM](https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N) | 4:10 |
+| 25 | [SPECTRUM](https://open.spotify.com/track/0roUYRFNX1yMzmuHQqjcwt) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [SPECTRUM](https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N) | 3:51 |
 | 26 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
 | 27 | [Need Some Fun](https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls) | [Neumonic](https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52) | [Need Some Fun](https://open.spotify.com/album/48dHXF7ZT5ndX4yzJSz8K3) | 3:13 |
 | 28 | [BURNER](https://open.spotify.com/track/3dYpLKcpiChHd8z5jHRdlb) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [BURNER](https://open.spotify.com/album/5xqMmQ9nkc6CDIVPrI56Op) | 3:00 |

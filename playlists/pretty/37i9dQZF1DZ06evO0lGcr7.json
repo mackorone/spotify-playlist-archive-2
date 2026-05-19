@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46675,
+  "num_followers": 46674,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABAG/6qSOuBo6mE9HWgIbp6",
+  "snapshot_id": "agkFAAAAAACQXOs8XwJOAZ8EjXWPQbfE",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "please don't",
-        "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 256601,
-      "name": "please don't",
-      "url": "https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 144440,
       "name": "blister in the sun",
       "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "please don't",
+        "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 256601,
+      "name": "please don't",
+      "url": "https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 172920,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
+      "duration_ms": 174362,
+      "name": "god?",
+      "url": "https://open.spotify.com/track/5cQ3nnRSERPkLefvpLX7yH"
     },
     {
       "added_at": null,

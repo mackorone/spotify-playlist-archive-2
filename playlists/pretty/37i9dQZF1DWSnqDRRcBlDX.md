@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,729 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,746 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 6 | [World of Magic \- Original Mix](https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7) | [Nika Key](https://open.spotify.com/artist/6PMYdlBji0qnyKvhAKydGv) | [World of Magic](https://open.spotify.com/album/4mXUHr646P99aa02c5o5El) | 7:22 |
 | 7 | [Back To The Oldschool](https://open.spotify.com/track/4SvPwb0RrnLNgZRyx5DNIG) | [AREA ØNE](https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK) | [Back To The Oldschool](https://open.spotify.com/album/5UMYYt14YTimv5OXbLSxTZ) | 5:10 |
 | 8 | [Waste My Time](https://open.spotify.com/track/3TI50jItmrgVCgsxe391XV) | [Dusk Records](https://open.spotify.com/artist/5hvmQoWcFYePjpth31O8qx), [ECZODIA](https://open.spotify.com/artist/3EYdIeVPZ8IXT0Uiq7h0R2) | [DUSK VA010 \(POLISHED ECHOES\)](https://open.spotify.com/album/0nwI48NY0xVtWGFwxNXS3K) | 4:48 |
-| 9 | [Falling Into Acid Dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling Into Acid Dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
+| 9 | [falling into acid dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [falling into acid dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
 | 10 | [Activate](https://open.spotify.com/track/2ol3m3QuLmRqovHv4w6KgF) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Activate](https://open.spotify.com/album/0t6BynGppLtuUWXwJStk2I) | 3:55 |
 | 11 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
 | 12 | [Frontal](https://open.spotify.com/track/2f36YfuZ6u3Oj4gEt5zsCP) | [Disguised](https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG) | [Inherit Selection 02](https://open.spotify.com/album/3spTbiNUX4U81wolf3PKuM) | 6:21 |

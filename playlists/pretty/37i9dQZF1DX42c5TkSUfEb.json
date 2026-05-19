@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 897359,
+  "num_followers": 897384,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Death of Love",
-        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 206028,
-      "name": "Death of Love",
-      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Annabelle",
-        "url": "https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL"
-      },
-      "artists": [
-        {
-          "name": "Sons of Habit",
-          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
-        }
-      ],
-      "duration_ms": 217669,
-      "name": "Annabelle",
-      "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
         "name": "only human",
         "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 214032,
       "name": "only human",
       "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
+        "name": "Annabelle",
+        "url": "https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL"
+      },
+      "artists": [
+        {
+          "name": "Sons of Habit",
+          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
+        }
+      ],
+      "duration_ms": 217669,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 158613,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
+        "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
+      },
+      "artists": [
+        {
+          "name": "Soom T",
+          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
         "name": "J'ai besoin de toi - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4uLJaDz52N7VNGjxCA6XCM"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 165743,
       "name": "J'ai besoin de toi - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3XomyFTFwlXp7pdAJOLEAP"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
-        "name": "Free as a Bird",
-        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
-      },
-      "artists": [
-        {
-          "name": "Soom T",
-          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Free as a Bird",
-      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
         "name": "Enzo Enzo",
         "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2026-05-14 22:00:20",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-05-14 22:00:20",
       "album": {
+        "name": "Paris-Madrid",
+        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Paris-Madrid",
+      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
+    },
+    {
+      "added_at": "2026-05-14 22:00:20",
+      "album": {
         "name": "Rupture (Version acoustique)",
         "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
       },
@@ -1651,22 +1671,6 @@
       "duration_ms": 150896,
       "name": "Rupture - Version acoustique",
       "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
-    },
-    {
-      "added_at": "2026-05-14 22:00:20",
-      "album": {
-        "name": "Suckerrr",
-        "url": "https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Suckerrr",
-      "url": "https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm"
     }
   ],
   "unique_name": "Au calme",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: MINGI of ATEEZ (\ubbfc\uae30(\uc5d0\uc774\ud2f0\uc988))) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: ZEROBASEONE) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 147467,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R"
@@ -6552,7 +6552,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
@@ -9148,10 +9148,28 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 158813,
       "name": "Mmchk",
       "url": "https://open.spotify.com/track/0ASTfHpDkFpD4aWqj9T5F6"
+    },
+    {
+      "album": {
+        "name": "Mmchk",
+        "url": "https://open.spotify.com/album/5YHLQZd6OjbaP5hMVts8Y7"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Mmchk",
+      "url": "https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82"
     },
     {
       "album": {
@@ -13747,6 +13765,24 @@
     },
     {
       "album": {
+        "name": "Ascend-",
+        "url": "https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl"
+    },
+    {
+      "album": {
         "name": "TOP GANG",
         "url": "https://open.spotify.com/album/506twLo58R8O15T9EgyQsp"
       },
@@ -14652,7 +14688,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 160000,
       "name": "WE WANNA GO",
       "url": "https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0"

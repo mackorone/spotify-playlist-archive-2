@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,387 songs - 9 day 18 hr 12 min
+4,389 songs - 9 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1901,6 +1901,7 @@
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
 | [Inaffondabile](https://open.spotify.com/track/0xFqxzQpAqfR8aptswwEbg) | [Kronberg](https://open.spotify.com/artist/5E8bDmNrytK8smJiycYFxC), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO), [Antonio Scarola](https://open.spotify.com/artist/5rJ3KiQdDHdC9zY665qvvt) | [Inaffondabile](https://open.spotify.com/album/6QLf25RnPCKBMGwv4wT5wi) | 4:05 | 2025-09-26 |  |
 | [Inbox folder](https://open.spotify.com/track/5u5cZwsUCcKI5u93hLO7ql) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [Inbox folder](https://open.spotify.com/album/6jho4gWOQn84V0gghWkD9P) | 4:42 | 2026-05-15 |  |
+| [Inch by Inch](https://open.spotify.com/track/1BcNf0V0vtN1s6nTEMjahi) | [Deadline/Daydreams](https://open.spotify.com/artist/4qYkrZKqZwnck4JVLMAw22) | [Inch by Inch](https://open.spotify.com/album/3hTdYAYeuM3iN5euGRa7of) | 3:07 | 2026-05-18 |  |
 | [Incipit! \- Instrumental Version](https://open.spotify.com/track/6LdsM3LBiGEgFUXoPPzeSq) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [Hard Times](https://open.spotify.com/album/4tDfAiPRA9WeZpZmXars8U) | 2:00 | 2025-05-27 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-10-15 |  |
 | [Indietro](https://open.spotify.com/track/65OBTczmZH41Y0PG5YFd0L) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:55 | 2025-06-02 |  |
@@ -2321,6 +2322,7 @@
 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-07-28 |  |
 | [MalaVida](https://open.spotify.com/track/1RoUpk97tV2mGKeGbU1Rm5) | [Post Atomic Nuclear Waste](https://open.spotify.com/artist/4GowJGrhr4lZKlPxDYOLqY) | [Il Primo Esperimento del Dott\. Stranamore](https://open.spotify.com/album/2IxDzqiMyPKfPug8YEPKGW) | 4:18 | 2025-06-01 |  |
 | [Malavoglia](https://open.spotify.com/track/1aOQQCd1pTlbhKEMBPzYLO) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 5:01 | 2025-05-28 |  |
+| [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 | 2026-05-18 |  |
 | [Malibù](https://open.spotify.com/track/5rEvsusrTe9ZE0591AwMCF) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Malibù](https://open.spotify.com/album/6ziOHNq8n9pbs0ACN77BUc) | 2:17 | 2025-06-12 |  |
 | [Mama](https://open.spotify.com/track/4vZsm31Vh9GEPE89YVGoZu) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Mama](https://open.spotify.com/album/7yWhobS7nfrdbPvM3eZUYA) | 2:33 | 2025-04-27 |  |
 | [MAMA](https://open.spotify.com/track/12UaRLmWt0HGenvNCPXPhe) | [RubeS](https://open.spotify.com/artist/3SCJNpD7pdERUpZupectF5) | [MAMA](https://open.spotify.com/album/1NBDLL9oj1IPqnko8Tktp1) | 2:43 | 2025-08-10 |  |

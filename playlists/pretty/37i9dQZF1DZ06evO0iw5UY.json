@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28160,
+  "num_followers": 28161,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABjlXhXpRtcoLRB66HwPph3",
+  "snapshot_id": "agkFAAAAAADy2zggWSZJeCWUoZZbM4xf",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Regrets (feat. Krewella)",
         "url": "https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 184000,
       "name": "No Regrets (feat. Krewella)",
       "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 240000,
       "name": "Drive Away",
       "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crying On The Dancefloor",
-        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "Crying On The Dancefloor",
-      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
     },
     {
       "added_at": null,

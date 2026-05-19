@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1691,
+  "num_followers": 1709,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "Qui je suis",
+        "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "duration_ms": 135275,
+      "name": "Le bon choix",
+      "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Qui je suis",
-        "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        }
-      ],
-      "duration_ms": 135275,
-      "name": "Le bon choix",
-      "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Le Roi de la montagne",
-        "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "Le Roi de la montagne",
-      "url": "https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Through The Storm",
         "url": "https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 153568,
       "name": "I Been",
       "url": "https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Le Roi de la montagne",
+        "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "Le Roi de la montagne",
+      "url": "https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ"
     },
     {
       "added_at": "2026-05-01 04:04:33",

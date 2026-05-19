@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 37 min
+105 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [El Sinaloense](https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [El Sinaloense](https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2) | 2:37 | 2024-01-20 | 2024-02-18 |
 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 | 2025-11-23 | 2026-01-17 |
 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 | 2023-03-10 |  |
+| [Empezar de Cero](https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [TERAPIA](https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h) | 2:41 | 2026-05-19 |  |
 | [En Peligro de Extinción](https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:37 | 2023-03-10 |  |
 | [Flores](https://open.spotify.com/track/7gn2w2Kff4d9njp2SbtMtA) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Flores](https://open.spotify.com/album/5h4a45hu6p0pFpmteYSJZw) | 2:34 | 2024-07-20 | 2024-12-25 |
 | [Fue Un Placer Conocerte](https://open.spotify.com/track/1Cp8VQqWypt4aNIDMNalhK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 15](https://open.spotify.com/album/4cCrEspWJyPhsBYK4PmQed) | 2:52 | 2025-02-02 | 2025-02-03 |
@@ -43,7 +44,7 @@
 | [Háblame de Ti](https://open.spotify.com/track/0LmqvjaR1jom4ThUPqAmgV) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:02 | 2023-03-10 |  |
 | [Invéntame](https://open.spotify.com/track/6T8R9TnadyABz3IWs0F9Zi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [MAS Norteño](https://open.spotify.com/album/2qZpfoPNjNiteXskjgTICQ) | 3:19 | 2023-03-10 | 2023-05-26 |
 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 | 2023-12-13 | 2024-09-21 |
-| [La Competencia](https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Competencia](https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY) | 3:29 | 2026-01-15 |  |
+| [La Competencia](https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Competencia](https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY) | 3:29 | 2026-01-15 | 2026-05-19 |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2023-03-10 | 2023-04-15 |
 | [La Marea](https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Marea](https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0) | 4:15 | 2024-09-30 | 2025-09-20 |
 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 | 2023-03-10 |  |

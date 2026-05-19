@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Aaron Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,290 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,302 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 7 | [Hello God \- Radio Edit](https://open.spotify.com/track/3F7OrUTHFZylP0QcVCmc9S) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Hello God \(Radio Edit\)](https://open.spotify.com/album/28JfrEJzBcctCRRPkybsJh) | 3:59 |
 | 8 | [Just You Wait](https://open.spotify.com/track/00NMDqRarf5FuOQzzmYpjK) | [Nia Allen](https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg), [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Just You Wait](https://open.spotify.com/album/600Xk7fA5TfQqOlAXzkXQg) | 3:20 |
 | 9 | [Testimony](https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Testimony](https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h) | 4:02 |
-| 10 | [We Pray](https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/0RuwuHO9xhkquxXhG5HXpM) | 6:02 |
+| 10 | [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 |
 | 11 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 | 12 | [Redeemed](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 13 | [Black Boy \(feat\. Jon Batiste\)](https://open.spotify.com/track/5uasQWigsUutS50i4cRpMz) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Black Boy \(feat\. Jon Batiste\)](https://open.spotify.com/album/5Ps4aUroz2P4lCVZyn1P4i) | 3:27 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 71998,
+  "num_followers": 72018,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164627,
-      "name": "Esa Wera",
-      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Coqueta",
-        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
       "artists": [
         {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Coqueta",
-      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
+      "duration_ms": 164627,
+      "name": "Esa Wera",
+      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -667,6 +651,22 @@
       "duration_ms": 145165,
       "name": "HOUSE OF LUX 2",
       "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "R\u00d8Z \u2013 Spotify Sessions",
-        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 293166,
-      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
-      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 194645,
       "name": "Quemando Papel",
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1267,42 +1267,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 273999,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -1323,6 +1287,26 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1367,6 +1351,26 @@
       "duration_ms": 152812,
       "name": "Lo Mueve",
       "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
         }
       ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+      "duration_ms": 273999,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Jugo de Diamantes",
-        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
-      },
-      "artists": [
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jugo de Diamantes",
-      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "EXTAPHORIC!",
         "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "Jugo de Diamantes",
+        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jugo de Diamantes",
+      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "me estoy volviendo loca",
         "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
       },
@@ -1711,22 +1691,22 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Shadows In The Night",
-        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
       "artists": [
         {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Shadows In The Night",
-      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1751,6 +1731,26 @@
       "duration_ms": 176255,
       "name": "DEO",
       "url": "https://open.spotify.com/track/5IWJfw0ve6WQaqLPisbl6k"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "Shadows In The Night",
+        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+      },
+      "artists": [
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Shadows In The Night",
+      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
     },
     {
       "added_at": "2026-05-08 06:00:48",

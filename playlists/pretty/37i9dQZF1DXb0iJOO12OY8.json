@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 210847,
+  "num_followers": 210841,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,30 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Danser p\u00e5 kanten",
-        "url": "https://open.spotify.com/album/0OZpBz1nUsrwrDydy60EaH"
+        "name": "Galopp",
+        "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
       },
       "artists": [
         {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
         }
       ],
-      "duration_ms": 129395,
-      "name": "Danser p\u00e5 kanten",
-      "url": "https://open.spotify.com/track/1j3vLGgdnSq1BNyN1EAdik"
+      "duration_ms": 165785,
+      "name": "Galopp",
+      "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -487,46 +499,34 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Galopp",
-        "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
+        "name": "Danser p\u00e5 kanten",
+        "url": "https://open.spotify.com/album/0OZpBz1nUsrwrDydy60EaH"
       },
       "artists": [
         {
-          "name": "Coucheron",
-          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
         }
       ],
-      "duration_ms": 165785,
-      "name": "Galopp",
-      "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
+      "duration_ms": 129395,
+      "name": "Danser p\u00e5 kanten",
+      "url": "https://open.spotify.com/track/1j3vLGgdnSq1BNyN1EAdik"
     },
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "La meg leve",
-        "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
+        "name": "Det L\u00f8ser Seg",
+        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
       },
       "artists": [
         {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 125091,
-      "name": "La meg leve",
-      "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
+      "duration_ms": 132727,
+      "name": "Det L\u00f8ser Seg",
+      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Det L\u00f8ser Seg",
-        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
+        "name": "La meg leve",
+        "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Det L\u00f8ser Seg",
-      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
+      "duration_ms": 125091,
+      "name": "La meg leve",
+      "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "En million",
-        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 146918,
-      "name": "En million",
-      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Se p\u00e5 meg",
         "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 143759,
       "name": "Se p\u00e5 meg",
       "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "En million",
+        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 146918,
+      "name": "En million",
+      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Gode Tider (feat. Streetboys)",
         "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 169142,
       "name": "Gode Tider (feat. Streetboys)",
       "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 129450,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 129450,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
     }
   ],
   "unique_name": "ung, dum & lovende",

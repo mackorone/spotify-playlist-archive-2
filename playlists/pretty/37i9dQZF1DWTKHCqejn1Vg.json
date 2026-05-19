@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34631,
+  "num_followers": 34636,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -899,18 +899,22 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "DRIVE ME",
-        "url": "https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl"
+        "name": "B side",
+        "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
       },
       "artists": [
         {
-          "name": "Da Yeon Baek",
-          "url": "https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 238626,
-      "name": "DRIVE ME",
-      "url": "https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA"
+      "duration_ms": 197750,
+      "name": "Flicker (Feat. Car, the garden)",
+      "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -935,22 +939,18 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "B side",
-        "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
+        "name": "DRIVE ME",
+        "url": "https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Da Yeon Baek",
+          "url": "https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l"
         }
       ],
-      "duration_ms": 197750,
-      "name": "Flicker (Feat. Car, the garden)",
-      "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
+      "duration_ms": 238626,
+      "name": "DRIVE ME",
+      "url": "https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA"
     },
     {
       "added_at": "2026-04-17 03:26:41",

@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/666qRRnjsoavoHlZACl8vL"
+      },
+      "artists": [
+        {
+          "name": "Hope Music PH",
+          "url": "https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/12HLtBgkOBj2PxKdA2740R"
+    },
+    {
+      "album": {
         "name": "Burst into Songs Ministries",
         "url": "https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY"
       },

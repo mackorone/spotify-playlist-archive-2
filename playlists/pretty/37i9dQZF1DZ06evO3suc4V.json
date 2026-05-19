@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAoRQqVfxafGv2af1oRHWwt",
+  "snapshot_id": "agkFAAAAAAAIy0Rf3NNa43IAvut7o5Sb",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 183337,
       "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
       "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "Lullabye",
-      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Moonlight EP",
         "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219648,
       "name": "Spice - EP Version",
       "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "Lullabye",
+      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
     },
     {
       "added_at": null,

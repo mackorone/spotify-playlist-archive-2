@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 251066,
       "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
       "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
@@ -2784,6 +2784,32 @@
       "duration_ms": 168411,
       "name": "Tosca, Act III: E lucevan le stelle (Cavaradossi)",
       "url": "https://open.spotify.com/track/6Quw3bb63AkRBOWpEMMnjW"
+    },
+    {
+      "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
+      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
     },
     {
       "album": {

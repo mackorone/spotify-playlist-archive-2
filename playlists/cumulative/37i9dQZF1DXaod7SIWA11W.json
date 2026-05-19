@@ -13310,10 +13310,28 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 362984,
       "name": "We Pray",
       "url": "https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS"
+    },
+    {
+      "album": {
+        "name": "More Than This (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362984,
+      "name": "We Pray",
+      "url": "https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm"
     },
     {
       "album": {

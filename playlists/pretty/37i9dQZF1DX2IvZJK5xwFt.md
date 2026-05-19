@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,247 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,280 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 6 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
 | 7 | [Sad Generation](https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Sad Generation](https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh) | 2:32 |
 | 8 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
-| 9 | [Outlaw](https://open.spotify.com/track/3y8Tr7Bv18p6cZlf1Ombpy) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Outlaw](https://open.spotify.com/album/01uAt6BlE8cXEIZcxVfd9O) | 3:35 |
-| 10 | [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 |
+| 9 | [Arrogant Boy](https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Arrogant Boy](https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F) | 3:18 |
+| 10 | [Outlaw](https://open.spotify.com/track/3y8Tr7Bv18p6cZlf1Ombpy) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Outlaw](https://open.spotify.com/album/01uAt6BlE8cXEIZcxVfd9O) | 3:35 |
 | 11 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
 | 12 | [Third Side of the Moon](https://open.spotify.com/track/6FejTj8qZ51DhKMHYSOG4K) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Third Side of the Moon](https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB) | 4:27 |
 | 13 | [Something Wicked](https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Something Wicked](https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Running Up That Hill](https://open.spotify.com/track/2jg7LvBk23JEwUNSkemL1I) | [Bobby Amaru](https://open.spotify.com/artist/34PG4GDHF9s9LxgaMKiIVk), [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Running Up That Hill](https://open.spotify.com/album/5c18gnE5jNZH4nB9IafiJ1) | 3:36 |
 | 75 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
 
-Snapshot ID: `AAAAAGjl3FYNeeDULoAc6+R7V6L23EPd`
+Snapshot ID: `AAAAAEi1hwnaBUlBpDEBHyrUwJKdYlO5`

@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9664,
+  "num_followers": 9665,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAADwf4xR+vQ0hI5dlfbI61fL",
+  "snapshot_id": "agkFAAAAAAA09e7ibMeDzrPB88WPbeOC",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo2",
-        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
         }
       ],
-      "duration_ms": 219666,
-      "name": "booboo2",
-      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
     },
     {
       "added_at": null,
@@ -107,18 +99,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+        "name": "booboo2",
+        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+      "duration_ms": 219666,
+      "name": "booboo2",
+      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
     },
     {
       "added_at": null,
@@ -330,15 +330,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
     },
     {
       "added_at": null,
@@ -410,11 +406,15 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 205306,
-      "name": "Submerge FM",
-      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+      "duration_ms": 239080,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New York 93 (Baba Stiltz Remix)",
-        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Baba Stiltz",
-          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
-        }
-      ],
-      "duration_ms": 355121,
-      "name": "New York 93 (Baba Stiltz Remix)",
-      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New York 93 (Baba Stiltz Remix)",
+        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "duration_ms": 355121,
+      "name": "New York 93 (Baba Stiltz Remix)",
+      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     }
   ],
   "unique_name": "This Is Yaeji",

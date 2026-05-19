@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234446,
+  "num_followers": 234445,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 200626,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
         "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
         "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 214549,
       "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
       "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -751,6 +735,22 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "What Are We Doing?",
-        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
-      },
-      "artists": [
-        {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
-        }
-      ],
-      "duration_ms": 193780,
-      "name": "What Are We Doing?",
-      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 146811,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "What Are We Doing?",
+        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "duration_ms": 193780,
+      "name": "What Are We Doing?",
+      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2026-05-01 00:00:22",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 206573,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 282529,
-      "name": "Everything At Once",
-      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 282529,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Play It Cool",
-        "url": "https://open.spotify.com/album/7KmuMdwcz9U4jSKgQlvgfF"
+        "name": "2much2soon",
+        "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
       "artists": [
         {
-          "name": "Sabrina Song",
-          "url": "https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        },
+        {
+          "name": "AJSF",
+          "url": "https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1"
         }
       ],
-      "duration_ms": 203739,
-      "name": "Play It Cool",
-      "url": "https://open.spotify.com/track/57j6yECXGSPdTX0AK9LVz9"
+      "duration_ms": 181920,
+      "name": "2much2soon",
+      "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

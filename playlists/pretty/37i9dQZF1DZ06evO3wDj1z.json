@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 121094,
+  "num_followers": 121115,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAIcV7pl64LRdkL+AYsxD4q",
+  "snapshot_id": "agkFAAAAAADIik0C+PB/RdjAgOfcHjv/",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
       },
       "artists": [
+        {
+          "name": "Chuy Vega",
+          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
+        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 171240,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+      "duration_ms": 127496,
+      "name": "Estrella Ca\u00edda",
+      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una P\u00e1gina M\u00e1s",
-        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
       "artists": [
-        {
-          "name": "Chuy Vega",
-          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
-        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 127496,
-      "name": "Estrella Ca\u00edda",
-      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
     },
     {
       "added_at": null,

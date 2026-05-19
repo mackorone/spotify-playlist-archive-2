@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Azzecca.
 
-828 songs - 2 day 3 hr 21 min
+831 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,7 +680,8 @@
 | [Space](https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Space](https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5) | 3:06 | 2024-05-10 | 2024-07-27 |
 | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2) | 3:14 | 2024-11-15 | 2025-03-01 |
 | [Special](https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Special](https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV) | 2:05 | 2024-06-18 | 2024-09-07 |
-| [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 | 2026-03-30 |  |
+| [Spirit Higher](https://open.spotify.com/track/1Oka1iKmhLiHvQohbQyvta) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/67nXClPyWHQ23wx8sr90EY) | 3:36 | 2026-05-16 |  |
+| [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 | 2026-03-30 | 2026-05-19 |
 | [stargirl](https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [stargirl](https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e) | 2:54 | 2024-09-20 | 2025-04-12 |
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2021-03-01 | 2023-03-08 |
 | [Start Over \- Album Edit](https://open.spotify.com/track/6NiUjNWHzjvPWLwvXQrFdU) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [Start Over](https://open.spotify.com/album/7vKiOU01DT6ZkwRaelLlOn) | 4:27 | 2021-03-01 | 2023-03-08 |
@@ -691,7 +692,8 @@
 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 | 2022-03-08 | 2024-03-02 |
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-03-01 | 2022-07-29 |
 | [Stingray Shuffle](https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO) | 2:43 | 2022-03-08 | 2022-11-13 |
-| [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 | 2025-12-05 |  |
+| [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 | 2025-12-05 | 2026-05-19 |
+| [Stitches \- Romy Remix](https://open.spotify.com/track/2WGWanDe1L2rSeVOGsryMW) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/5WOEtViyN5DopzXL7mssxs) | 4:27 | 2026-05-16 |  |
 | [Stop Now](https://open.spotify.com/track/03hwEnKfs0s3GeGrssARv7) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Stop Now](https://open.spotify.com/album/0A3lSVMnO2B94Lcbzp4209) | 4:48 | 2025-04-11 | 2025-07-26 |
 | [Stressed Out](https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act II](https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5) | 3:13 | 2025-08-29 | 2026-03-21 |
 | [Striptease](https://open.spotify.com/track/5kILHrfMHQ4eFHZqnu4yY3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:43 | 2025-01-24 | 2025-04-19 |
@@ -809,7 +811,8 @@
 | [What Have You Done For Me Lately](https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [What Have You Done For Me Lately](https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr) | 3:29 | 2025-01-07 | 2025-07-19 |
 | [What We Live For](https://open.spotify.com/track/18K9abEONMttU0sx38Phun) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3tzAwMMF99SeLuz4hND1T8) | 5:37 | 2024-04-19 | 2024-05-18 |
 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 | 2025-09-12 |  |
-| [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 | 2026-05-16 |  |
+| [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 | 2026-05-16 |  |
+| [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 | 2026-05-16 | 2026-05-19 |
 | [What's Her Name](https://open.spotify.com/track/2hUpEz45xMjCSlueWqgMjI) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0), [Dulus](https://open.spotify.com/artist/6HqASwlS6PmHBYU3avHe15) | [What's Her Name](https://open.spotify.com/album/5r5nrYJ6FGzlzX445mEvhi) | 3:39 | 2025-12-17 | 2026-02-28 |
 | [When It Comes To Love](https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf) | [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Pressure](https://open.spotify.com/album/2lGuyCKc6O3dDteX2GO5ZK) | 2:51 | 2024-08-09 | 2024-10-26 |
 | [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-05-30 | 2025-08-16 |

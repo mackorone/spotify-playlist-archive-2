@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,511 likes - 280 songs - 14 hr 58 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,522 likes - 289 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,5 +288,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 278 | [Mándame una señal](https://open.spotify.com/track/0JwvFLXmPBvhV48w0HHqav) | [Raansava](https://open.spotify.com/artist/5NBP6CnALcuAn54z3FbDn8) | [Mándame una señal](https://open.spotify.com/album/1jwvdgCJoq3c0gvqFjGBAP) | 4:39 |
 | 279 | [Lovely Day](https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Ghost Games](https://open.spotify.com/album/05C49td5PHly4WfgJEaLXI) | 4:47 |
 | 280 | [Unique](https://open.spotify.com/track/0XpAW2Oh7Kn2pvz00S60gX) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Unique](https://open.spotify.com/album/1A5F32H6jV5I9fsP0loXkt) | 2:50 |
+| 281 | [INTERTWINED!](https://open.spotify.com/track/76u0sKAResokQwCNRdoIB6) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [when the light fades.](https://open.spotify.com/album/3kTpB5X82NcCjhZNcRkc4W) | 2:04 |
+| 282 | [First Drink I Swear](https://open.spotify.com/track/2xl7DqSCDQUWK0HZyj0tVU) | [Broke&Ben](https://open.spotify.com/artist/379YaRIEFGmyUmfvhM0Ig6) | [First Drink I Swear](https://open.spotify.com/album/2SQFGBE51pIRDa49viAXBE) | 3:21 |
+| 283 | [Lying To Myself \- Acoustic Version](https://open.spotify.com/track/24BTPSIntJlEKhMSu92aZ3) | [Chris Fowler](https://open.spotify.com/artist/2rSGFU8JTjc04K6a4AVYO8), [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6) | [Lying To Myself \(Acoustic Version\)](https://open.spotify.com/album/1R0xvTmVMyyOnjn08KhWL6) | 3:02 |
+| 284 | [Hold Me Close](https://open.spotify.com/track/59zY9fFbR55VuwOyfwNfmd) | [Just Roses](https://open.spotify.com/artist/0FGpXUqlbERBpBDUJTz8YM) | [Quietly](https://open.spotify.com/album/360eeLirKKJg2Ff1YtMfvc) | 3:16 |
+| 285 | [All That I Have](https://open.spotify.com/track/5IVWw5EYhLJDWqUAi3UEiR) | [Tapany](https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS) | [All That I Have](https://open.spotify.com/album/43LR0bZ2Rjh4s6A30idSRb) | 3:24 |
+| 286 | [Forever Moon](https://open.spotify.com/track/1VUqf3K677aXzmKNCySwuh) | [Doomsday Quasar](https://open.spotify.com/artist/524YY0UnABJr1MhICsbZKP) | [Golden Sunset](https://open.spotify.com/album/41BPtA6RFyMrvPGppQld0T) | 2:54 |
+| 287 | [boom boom boom](https://open.spotify.com/track/3wT1JgeBtaXfENIREHR3lu) | [Emma Robinson](https://open.spotify.com/artist/3avcX7dlis1LCPMudElpf8) | [boom boom boom](https://open.spotify.com/album/35AlaOjsLC3XD1N7hFAkJX) | 3:25 |
+| 288 | [Jupiter](https://open.spotify.com/track/4bVQwPkcnVrh9Wf2WaV1sb) | [elefa](https://open.spotify.com/artist/6gthsilX3yi8gmE55ho116), [Anna Karenina](https://open.spotify.com/artist/3r5F06EznZ4fKrpzS99A8P) | [Man Gillar Ju Rymden](https://open.spotify.com/album/5yIlvehOAPMR0aJNnX2lvn) | 5:52 |
+| 289 | [Lone Racer](https://open.spotify.com/track/1RfF7TPXc27GfmDm6iiNvZ) | [Franc Valley](https://open.spotify.com/artist/3WQeHwNo4cv98GrwNY3v3X) | [Lone Racer](https://open.spotify.com/album/6nLgzgIXHnrhAuDwSNmGlf) | 2:25 |
 
-Snapshot ID: `AAA4VbUqn0rN9DLmFP090v8er9I7zcw3`
+Snapshot ID: `AAA4XttqYg5Gdz+1M5MLjg4AGeAA3Z+P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Juliet Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,699 likes - 160 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,723 likes - 160 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 10 | [Give Me A Bass](https://open.spotify.com/track/3Z2NqT5Wpt213PI2vKUFc5) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Give Me A Bass](https://open.spotify.com/album/6RopeFBxaLY6Phg8qcU0rz) | 4:20 |
 | 11 | [No Time To Waste](https://open.spotify.com/track/6ODBf7LcF4Z24V6u2GuLhk) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU), [JOKESONYOU](https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc) | [No Time To Waste](https://open.spotify.com/album/6gfPHFTS27l1VwMYUpoxaH) | 3:27 |
 | 12 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |
-| 13 | [Falling Into Acid Dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling Into Acid Dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
+| 13 | [falling into acid dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [falling into acid dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
 | 14 | [Concrete Professional](https://open.spotify.com/track/5N85cwnHQFppv2i5qfhebh) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Concrete Professional](https://open.spotify.com/album/2tZs1H5YkHtbXeWvUYh08x) | 2:56 |
 | 15 | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 |
 | 16 | [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 91 | [Dance Machine](https://open.spotify.com/track/7LFnn4s6e9KoDVR0Zha2nt) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Dance Machine](https://open.spotify.com/album/4hFvusvuCsLmwx8myBP351) | 2:16 |
 | 92 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
 | 93 | [Bumper](https://open.spotify.com/track/54knLWFaShaVDr6u1TtqrM) | [Hodge](https://open.spotify.com/artist/2oLMqtx0PbqCXJDXs5lRvA) | [Smoke Screen / Bumper](https://open.spotify.com/album/7nvfuF4Nfn9LekES2ljXFy) | 5:18 |
-| 94 | [The Feelin'](https://open.spotify.com/track/6X87fy5cs69x1EUxEVocQx) | [Argy \(UK\)](https://open.spotify.com/artist/1I3oulnGqrVHplhYRyJyE1), [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm) | [The Feelin'](https://open.spotify.com/album/7Du3RLL2V7DFrVQ7DMtAjl) | 4:01 |
+| 94 | [The Feelin'](https://open.spotify.com/track/6X87fy5cs69x1EUxEVocQx) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Argy X](https://open.spotify.com/artist/5rBH5L7lmMQUdsepXDfScQ) | [The Feelin'](https://open.spotify.com/album/7Du3RLL2V7DFrVQ7DMtAjl) | 4:01 |
 | 95 | [Torn Clouds](https://open.spotify.com/track/4yA3q8B64cpYT7M37RxKVu) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Torn Clouds](https://open.spotify.com/album/0N6QCUx6mnYk9fJmXavTek) | 4:01 |
 | 96 | [Soul Brothers](https://open.spotify.com/track/6mE6pqGdN5gNdtGwaRFNec) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Soul Brothers](https://open.spotify.com/album/4mCOfkeVbi9quqPMi5GQEd) | 3:29 |
 | 97 | [Nasty](https://open.spotify.com/track/4GeYXbE3YlrJNxok6MvfpS) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Nasty](https://open.spotify.com/album/6RSboQW4vMmBwJslyO9C8w) | 3:28 |

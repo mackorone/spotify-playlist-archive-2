@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 97 songs - 5 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 95 | [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 |
 | 96 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 |
 | 97 | [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 |
+| 98 | [bad boys](https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [bad boys](https://open.spotify.com/album/6NPZtpg2T9s09EQubLdFGr) | 4:09 |
 
-Snapshot ID: `AAAO6M2gxmpKwOWfHxnQS+4JjTz8eITD`
+Snapshot ID: `AAAO6dXGugUp807QuI3mnK6iLTInDJe/`

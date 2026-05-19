@@ -14792,7 +14792,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 129634,
       "name": "Dear Younger Me",
       "url": "https://open.spotify.com/track/01IpRJRofGOJ7XDB5SCN7E"
@@ -27990,7 +27990,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 554733,
       "name": "Have You Seen This Movie (Distant Figure)",
       "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
@@ -40706,7 +40706,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 444626,
       "name": "Magic Psalm (Etude No.17)",
       "url": "https://open.spotify.com/track/0zAvcwseyr7VW1RFfAmoeP"
@@ -41790,7 +41790,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 254280,
       "name": "Memory - \"The Memory Remains\" Take 18 / November 6th 1995",
       "url": "https://open.spotify.com/track/7B2RA6YiyD9sv0m2CBFzR3"
@@ -56154,7 +56154,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 172806,
       "name": "Say More (with Mad Keys)",
       "url": "https://open.spotify.com/track/6mDxeODcJLsH1xXiUlJwWa"
@@ -66788,6 +66788,28 @@
       "duration_ms": 210965,
       "name": "The Theme - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/3hFFfkl3A0aBPmKKrPbmcD"
+    },
+    {
+      "album": {
+        "name": "The Town I Loved So Well",
+        "url": "https://open.spotify.com/album/7yfvse8LXS3xkqm3JinFA3"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        },
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343828,
+      "name": "The Town I Loved So Well",
+      "url": "https://open.spotify.com/track/5RO9nhkQvlbmy9PGVEGBRR"
     },
     {
       "album": {

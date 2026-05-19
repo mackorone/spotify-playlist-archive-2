@@ -2,7 +2,7 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The Best Indie Tracks of the Moment w/ ThxSoMuch
+> The Best Indie Tracks of the Moment w/ ThxSoMch
 
 3,092 songs - 7 day 13 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🇮🇹 featuring camoufly
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,397 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,411 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 20 | [Ur Way](https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Ur Way](https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu) | 3:18 |
 | 21 | [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak) | 3:15 |
 | 22 | [Afterglow](https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Snazur EP](https://open.spotify.com/album/3uiXCFAP0jWVVNvnEZLrmV) | 2:18 |
-| 23 | [SPECTRUM](https://open.spotify.com/track/0roUYRFNX1yMzmuHQqjcwt) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [SPECTRUM](https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N) | 4:10 |
+| 23 | [SPECTRUM](https://open.spotify.com/track/0roUYRFNX1yMzmuHQqjcwt) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [SPECTRUM](https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N) | 3:51 |
 | 24 | [Original Style](https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Original Style](https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn) | 2:34 |
 | 25 | [Do It](https://open.spotify.com/track/2QVDRuSI5SWMmmQBdSAUYy) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Do It](https://open.spotify.com/album/35CJIlK6xiJeBKL5Aourb5) | 2:58 |
 | 26 | [Faded Over U](https://open.spotify.com/track/45mf9x8dUwYTOyaVxwX1xc) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [Faded Over U](https://open.spotify.com/album/1Rp1ED8zqKiUDgu3LNv5g1) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,441 songs - 21 day 12 hr 15 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,443 songs - 21 day 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6800,7 +6800,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6790 | [SEXY DANCE](https://open.spotify.com/track/4ZxtydSHCl0eZ9a9CWtOIF) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [AN INSATIABLE HIGH](https://open.spotify.com/album/0vwbjXHNUq65nNaz2Vxjmd) | 5:52 |
 | 6791 | [SWEET AGNES](https://open.spotify.com/track/7j4bFMTP32A7fmLaco0PRV) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [TAKANAKA](https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW) | 4:40 |
 | 6792 | [Comes and Goes 와리가리](https://open.spotify.com/track/7ppOWC1tLH7dryAau647oQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/3LFJXdeGkEQKNrVjaOeUpy) | 3:48 |
-| 6793 | [Swapping Socks](https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:38 |
+| 6793 | [Swapping Socks](https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:38 |
 | 6794 | [Alka Tale](https://open.spotify.com/track/1A4aC0KMMmPsR1v2RTsmhj) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 4:49 |
 | 6795 | [White Loneliness](https://open.spotify.com/track/5aDKF7SXmPTK43ywKkGxOP) | [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 2:49 |
 | 6796 | [Slowtime](https://open.spotify.com/track/3pqSUnc3Inyyw9DOCcCrOC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Taro Lover](https://open.spotify.com/album/6V5FYtARyYiYBQ1QkSTjAx) | 2:50 |
@@ -8449,5 +8449,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8439 | [Unity](https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Unity \- 10th Anniversary Compilation](https://open.spotify.com/album/2xUuNCIEvxpGwxHH4nq0Op) | 4:09 |
 | 8440 | [Monody](https://open.spotify.com/track/2PLMiHYcVixnjsG8QPiHFo) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Unity \- 10th Anniversary Compilation](https://open.spotify.com/album/2xUuNCIEvxpGwxHH4nq0Op) | 4:50 |
 | 8441 | [MAYDAY](https://open.spotify.com/track/7dvPVoZHsfkZR46CvbiKHT) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [MAYDAY](https://open.spotify.com/album/42PtdVSLGaaNJvr5hMW3EB) | 4:07 |
+| 8442 | [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 |
+| 8443 | [LONELY NIGHTS](https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [FANTASY CLUB \(International Version\)](https://open.spotify.com/album/0aW5Sks2Bix7Gy1M4VlhY0) | 3:56 |
 
-Snapshot ID: `AAALzsx6mj+7tW02rVNMNVcWVoy1HSl9`
+Snapshot ID: `AAAL0a85Z7+/hquvB6pb/SqQcpbfb0Qc`

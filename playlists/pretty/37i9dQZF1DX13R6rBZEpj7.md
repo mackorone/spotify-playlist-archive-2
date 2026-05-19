@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,688 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,732 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 50 | [Sofa Soup](https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Sofa Soup](https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs) | 2:49 |
 | 51 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 |
 | 52 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
-| 53 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
-| 54 | [Fallin](https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [TRC](https://open.spotify.com/artist/4Oc6YddDw6YWdx4wYfyd3S), [Miss Fire](https://open.spotify.com/artist/1POjThbbB3DoTwSglss08D) | [Fallin](https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA) | 3:55 |
+| 53 | [Fallin](https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [TRC](https://open.spotify.com/artist/4Oc6YddDw6YWdx4wYfyd3S), [Miss Fire](https://open.spotify.com/artist/1POjThbbB3DoTwSglss08D) | [Fallin](https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA) | 3:55 |
+| 54 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 55 | [Try & Escape](https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:08 |
 | 56 | [I'm Sorry](https://open.spotify.com/track/4Y883x1A2Bn3TecNhVV5wp) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Shide Boss](https://open.spotify.com/artist/58WvZd2YS4otyV7EOVhHQF), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I'm Sorry](https://open.spotify.com/album/1lSoqPq37MQyvFFJEY6EJZ) | 3:01 |
 | 57 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |

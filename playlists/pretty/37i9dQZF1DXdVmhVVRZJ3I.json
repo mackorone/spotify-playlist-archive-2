@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 351381,
+  "num_followers": 351466,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,30 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
+        "name": "My City (feat. Katy Tiz)",
+        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "My City (feat. Katy Tiz)",
+      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
         "name": "Doin Nottin",
         "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
@@ -579,30 +603,6 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "My City (feat. Katy Tiz)",
-        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Prophecy",
-          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
-        },
-        {
-          "name": "Katy Tiz",
-          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "My City (feat. Katy Tiz)",
-      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 125878,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
         "name": "Won't Back Down",
         "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
       },
@@ -967,26 +947,22 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "No Roots (Radio Mix)",
-        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
       },
       "artists": [
         {
-          "name": "RADI\u00d8MATIK",
-          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
         },
         {
-          "name": "Wolsh",
-          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
-        },
-        {
-          "name": "y'all",
-          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
         }
       ],
-      "duration_ms": 173145,
-      "name": "No Roots (Radio Mix)",
-      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -1015,6 +991,30 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
+        "name": "No Roots (Radio Mix)",
+        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
+      },
+      "artists": [
+        {
+          "name": "RADI\u00d8MATIK",
+          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
+        },
+        {
+          "name": "Wolsh",
+          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
+        },
+        {
+          "name": "y'all",
+          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
+        }
+      ],
+      "duration_ms": 173145,
+      "name": "No Roots (Radio Mix)",
+      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
     },
     {
       "added_at": "2026-05-04 13:53:01",

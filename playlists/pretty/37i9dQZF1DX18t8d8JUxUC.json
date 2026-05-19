@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 34513,
+  "num_followers": 34537,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 220629,
       "name": "Quiero Sentirlo Todo",
       "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
+      },
+      "artists": [
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 202090,
       "name": "Me Empiezo a Enamorar",
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "todos menos yo",
         "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 196675,
       "name": "todos menos yo",
       "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Uno De Nosotros",
-        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
-      },
-      "artists": [
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "A La Mitad (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6LURF69yHcqbtyr1OrUwko"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 199533,
       "name": "A La Mitad - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0nZhcBDyshxiuwUXbPs1Ic"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Uno De Nosotros",
+        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1447,22 +1447,6 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1495,6 +1479,22 @@
       "duration_ms": 180103,
       "name": "Ahi Estar\u00e9",
       "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Pasar\u00e1s",
-        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Pasar\u00e1s",
-      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Todo Es Falso",
         "url": "https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 216271,
       "name": "Todo Es Falso",
       "url": "https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Pasar\u00e1s",
+        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Pasar\u00e1s",
+      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
+        "name": "Tu mirar",
+        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        }
+      ],
+      "duration_ms": 162661,
+      "name": "Tu mirar",
+      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
-        "name": "Tu mirar",
-        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        }
-      ],
-      "duration_ms": 162661,
-      "name": "Tu mirar",
-      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     }
   ],
   "unique_name": "Latin Folk",

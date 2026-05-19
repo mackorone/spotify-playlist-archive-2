@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Black Marine and more",
+  "description": "With Evil Level Live, LOR3L3I, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 203000,
       "name": "ABBYNORMAL VISION",
       "url": "https://open.spotify.com/track/1zfpdmv6yKN3F1gOCEt74M"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 212973,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5hoIcBep3hJYXPJDKcrQSL"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 157999,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5yzh19PF46t0wcybQvJ8lV"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Cloak of Stars",
       "url": "https://open.spotify.com/track/4MdykEfpvTUGgAQbNv0RMO"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 198373,
       "name": "DEFAULT",
       "url": "https://open.spotify.com/track/0mflbk2yQg9wCS9SuPsUj1"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 257012,
       "name": "Fan The Flame",
       "url": "https://open.spotify.com/track/1XF6r3UxOwlpQO62d4hBIB"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 183500,
       "name": "Flying for You",
       "url": "https://open.spotify.com/track/2N5Jesnluz0nxUsXH80BKi"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 282551,
       "name": "For Now",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 293930,
       "name": "Give Me Some Slack",
       "url": "https://open.spotify.com/track/5w8UQPbBtV20qtXVPpbQHU"
@@ -5564,6 +5564,24 @@
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
+    },
+    {
+      "album": {
+        "name": "Another Fiasco",
+        "url": "https://open.spotify.com/album/7bEzRgNRfiddDKfpUL6GW8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Anderson",
+          "url": "https://open.spotify.com/artist/2jMZ2r7yZRVRwjJZ7Hhuoo"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248855,
+      "name": "If I Needed a Band",
+      "url": "https://open.spotify.com/track/0WuWYE1GGSyYFOfd6itmZf"
     },
     {
       "album": {
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
@@ -8154,7 +8172,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 222560,
       "name": "Pacific City",
       "url": "https://open.spotify.com/track/7FwdrtJQammXYwsJcr0LdQ"
@@ -9946,7 +9964,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -10174,7 +10192,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10412,7 +10430,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -10886,7 +10904,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -11006,7 +11024,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -11330,7 +11348,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 240080,
       "name": "The One-Eyed Sun",
       "url": "https://open.spotify.com/track/2cNVBdTZNLPTNm0aWilawx"
@@ -11384,7 +11402,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 290880,
       "name": "The Plaice",
       "url": "https://open.spotify.com/track/599LQwbBwyZBCyn8GdwXvF"
@@ -12673,6 +12691,24 @@
     },
     {
       "album": {
+        "name": "Wanna Be",
+        "url": "https://open.spotify.com/album/1uqWp6Pt7Cxmq3cbbTlTvZ"
+      },
+      "artists": [
+        {
+          "name": "Loud Love",
+          "url": "https://open.spotify.com/artist/4pZ8AM6dO8TromdWfA82Hw"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294558,
+      "name": "Wanna Be",
+      "url": "https://open.spotify.com/track/0ClclQzzcNytxXGK0OxFQ3"
+    },
+    {
+      "album": {
         "name": "Naked Rat Dance",
         "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
       },
@@ -12702,7 +12738,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 214250,
       "name": "Warplane",
       "url": "https://open.spotify.com/track/01sW2eYUQMlXVW8a4BtohB"
@@ -13334,7 +13370,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 223908,
       "name": "Wrong People",
       "url": "https://open.spotify.com/track/2Lb6h6dpnd0StC9lUtLn4h"

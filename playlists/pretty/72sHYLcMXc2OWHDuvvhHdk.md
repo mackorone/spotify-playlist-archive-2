@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,658 songs - 6 day 10 hr 54 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,668 songs - 6 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2666,5 +2666,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2656 | [Photo](https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom) | [Miles Squiers](https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v), [Morgan Turpin](https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4) | [Photo](https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj) | 2:26 |
 | 2657 | [Lovely Day](https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Ghost Games](https://open.spotify.com/album/05C49td5PHly4WfgJEaLXI) | 4:47 |
 | 2658 | [Nothing Stays the Same](https://open.spotify.com/track/40kkdgYKd9hYFSFAnkfGZJ) | [Silver Harbour](https://open.spotify.com/artist/49T3G8iqq5PE2lo49Lpslr) | [Nothing Stays the Same](https://open.spotify.com/album/7JgbfgQaPsYqQwxsFaojHH) | 3:42 |
+| 2659 | [PLANTED](https://open.spotify.com/track/03rmueToeDoH6Z5fyZR7PB) | [Vanessa Lee](https://open.spotify.com/artist/6rrLK4O8KCAJQvVaIuGlyN) | [PLANTED](https://open.spotify.com/album/5siyfZjicHHK7XdYPy9Hpj) | 3:40 |
+| 2660 | [Yamina](https://open.spotify.com/track/2MX150bfgDk8Xgi9JtduwH) | [Udo](https://open.spotify.com/artist/4KciVMCX2pCUJRiQRoNay6) | [Yamina](https://open.spotify.com/album/7EbYkqRXJATB2BMxHTu4Y8) | 2:56 |
+| 2661 | [Two Hearts](https://open.spotify.com/track/7dqwoYsPal0CryxyCN5IoL) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Two Hearts](https://open.spotify.com/album/0JMcv3JxCuIPFkyXZoJQQy) | 4:05 |
+| 2662 | [Perspicaz](https://open.spotify.com/track/06ARSnSxReS8ET4ZNJtbr4) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:22 |
+| 2663 | [Driving at night \- Original](https://open.spotify.com/track/3lprZOKe5LtbHEejIfUvfM) | [Jurt the Gurt](https://open.spotify.com/artist/05S1R7dGgMGfAjiYEz9eut) | [Driving at night \(Original\)](https://open.spotify.com/album/78dr2tCDSpWNaNEHoRUPrM) | 2:24 |
+| 2664 | [Jesús \(Nadie como El\)](https://open.spotify.com/track/4ugx7VHzDFn8psLNHTgNCP) | [Mathias Jones](https://open.spotify.com/artist/01262W3jumy4mQ6X3KBOXF) | [Jesús \(Nadie como El\)](https://open.spotify.com/album/4PSTvZhXf5MJBBzieIiyDQ) | 4:35 |
+| 2665 | [Ramblin' Ole Daddy](https://open.spotify.com/track/48GOwzcxKvwfHgTN6caRVd) | [Ward Hayden](https://open.spotify.com/artist/0Zl1s8XPXPIbs3WGua5VkP), [Greg Hall](https://open.spotify.com/artist/4pjfCUCYsJx0YYYzT2cOBD), [Ward Hayden & the Outliers](https://open.spotify.com/artist/5ucHWsMlG8NB9Q5vhdPCZr) | [Ramblin' Ole Daddy](https://open.spotify.com/album/5C2fV3NAOj3QJnPSBIp3u2) | 3:54 |
+| 2666 | [Feeling the Wind](https://open.spotify.com/track/3MNMzNePH7JhBtGZmSRx9u) | [Soto 75](https://open.spotify.com/artist/3GIqPJYrqJndRqHySlw8SK) | [Feeling the Wind](https://open.spotify.com/album/1QwjIBxZEfEpq8DzOQaEJA) | 3:34 |
+| 2667 | [Old Soul](https://open.spotify.com/track/110YqSakq7Hd9VFERh6MCk) | [Soto 75](https://open.spotify.com/artist/3GIqPJYrqJndRqHySlw8SK) | [Old Soul](https://open.spotify.com/album/3mggsMq2DGi0ms8vI7NvQF) | 3:34 |
+| 2668 | [Faded Signals](https://open.spotify.com/track/66Exfw5nzHGBNkPPyirDlq) | [DEZVØ](https://open.spotify.com/artist/0cj0QjBmFXWJ8mF5aWEK2y) | [Faded Signals](https://open.spotify.com/album/7nZWdiAspVNqy2OD6hjUh8) | 2:37 |
 
-Snapshot ID: `AAAK+6hxkbwnv/2eNDweOFpKfikUHE7C`
+Snapshot ID: `AAALBfqQ4YOyFD4664rpYpGTvvxhnIPi`

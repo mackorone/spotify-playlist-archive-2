@@ -12786,6 +12786,28 @@
     {
       "album": {
         "name": "Spirit Higher",
+        "url": "https://open.spotify.com/album/67nXClPyWHQ23wx8sr90EY"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "EMJIE",
+          "url": "https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216744,
+      "name": "Spirit Higher",
+      "url": "https://open.spotify.com/track/1Oka1iKmhLiHvQohbQyvta"
+    },
+    {
+      "album": {
+        "name": "Spirit Higher",
         "url": "https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9"
       },
       "artists": [
@@ -12800,7 +12822,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 216744,
       "name": "Spirit Higher",
       "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"
@@ -13002,10 +13024,32 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 267023,
       "name": "Stitches - Romy Remix",
       "url": "https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct"
+    },
+    {
+      "album": {
+        "name": "Stitches (Romy Remix)",
+        "url": "https://open.spotify.com/album/5WOEtViyN5DopzXL7mssxs"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267023,
+      "name": "Stitches - Romy Remix",
+      "url": "https://open.spotify.com/track/2WGWanDe1L2rSeVOGsryMW"
     },
     {
       "album": {
@@ -15232,7 +15276,7 @@
     {
       "album": {
         "name": "What's Done Is Done",
-        "url": "https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C"
+        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
       },
       "artists": [
         {
@@ -15243,6 +15287,24 @@
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
+    },
+    {
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2026-05-19",
       "duration_ms": 173022,
       "name": "What's Done Is Done",
       "url": "https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1"

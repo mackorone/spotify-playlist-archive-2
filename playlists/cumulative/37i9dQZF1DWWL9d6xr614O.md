@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-207 songs - 15 hr 53 min
+208 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Breathe \- Live](https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 9:23 | 2023-04-21 |  |
 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 | 2022-04-15 |  |
 | [By His Name](https://open.spotify.com/track/3WwWLtqmminHSBcuHo8ntX) | [City Music](https://open.spotify.com/artist/5F8nvMmczCCKs8ypk4akD2) | [By His Name](https://open.spotify.com/album/60GW1rHJVLGhcNSELhlItz) | 5:56 | 2024-03-19 |  |
+| [Catalyst](https://open.spotify.com/track/12HLtBgkOBj2PxKdA2740R) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [Catalyst](https://open.spotify.com/album/666qRRnjsoavoHlZACl8vL) | 4:06 | 2026-05-18 |  |
 | [Change My Heart, Oh God](https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY) | 5:24 | 2023-05-05 | 2024-04-19 |
 | [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 | 2022-04-15 |  |
 | [Chase Down](https://open.spotify.com/track/4rsoGVQYmhJZaZORJltIeJ) | [Every Nation Southside Music](https://open.spotify.com/artist/4bpX9eZzbpNTH9cOlHPTuT) | [Chase Down](https://open.spotify.com/album/6CMYqkG2dZVgepLvtl3gGI) | 3:40 | 2024-03-19 |  |

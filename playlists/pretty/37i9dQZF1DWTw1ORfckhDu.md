@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,341 likes - 50 songs - 2 hr 18 min
+[](https://open.spotify.com/user/null) - 104,344 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 43 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
 | 44 | [tää ei vaan oo sulle](https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [tää ei vaan oo sulle](https://open.spotify.com/album/768j9sCaqohBMnuDgmKc6u) | 2:25 |
 | 45 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
-| 46 | [Mr Nice Guy](https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [The Chemodan](https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby) | [Mr Nice Guy](https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX) | 2:34 |
-| 47 | [YLHÄÄL JA ALHAAL](https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [YLHÄÄL JA ALHAAL](https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb) | 2:37 |
+| 46 | [YLHÄÄL JA ALHAAL](https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [YLHÄÄL JA ALHAAL](https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb) | 2:37 |
+| 47 | [Mr Nice Guy](https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [The Chemodan](https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby) | [Mr Nice Guy](https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX) | 2:34 |
 | 48 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
 | 49 | [Hämmästyttävää \(feat\. Hukas\)](https://open.spotify.com/track/7hewnnWdbcbUWh7erWsGpK) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf) | [Hämmästyttävää / Myönnä](https://open.spotify.com/album/2SU66jDtApUFcTFNf6IZ5d) | 2:45 |
 | 50 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |

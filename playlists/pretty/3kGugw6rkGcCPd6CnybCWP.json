@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAO6M2gxmpKwOWfHxnQS+4JjTz8eITD",
+  "snapshot_id": "AAAO6dXGugUp807QuI3mnK6iLTInDJe/",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1579,6 +1579,22 @@
       "duration_ms": 245981,
       "name": "Folded - Cover",
       "url": "https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx"
+    },
+    {
+      "added_at": "2026-05-18 09:45:24",
+      "album": {
+        "name": "bad boys",
+        "url": "https://open.spotify.com/album/6NPZtpg2T9s09EQubLdFGr"
+      },
+      "artists": [
+        {
+          "name": "Parkii",
+          "url": "https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i"
+        }
+      ],
+      "duration_ms": 249065,
+      "name": "bad boys",
+      "url": "https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

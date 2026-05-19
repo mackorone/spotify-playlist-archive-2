@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Genesis Owusu
 
-638 songs - 1 day 11 hr 41 min
+639 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2024-05-31 | 2025-03-14 |
 | [Givin' It Up](https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Givin' It Up](https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR) | 3:25 | 2024-08-30 | 2024-11-14 |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-09-25 |  |
-| [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 | 2026-04-16 |  |
+| [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 | 2026-04-16 | 2026-05-19 |
 | [GO DUMB](https://open.spotify.com/track/1ghvfEhXbOQSLHEt08qX8g) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK) | [GO DUMB](https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A) | 2:52 | 2025-04-24 | 2025-09-05 |
 | [Go Lucky](https://open.spotify.com/track/6s94B0nViQoesInRpQvX9T) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Go Lucky](https://open.spotify.com/album/3sJPaCElnRIgKs5JTuyxcZ) | 3:36 | 2026-02-26 | 2026-03-06 |
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-03 | 2024-11-07 |
@@ -254,6 +254,7 @@
 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-07-24 | 2025-08-18 |
 | [House Of Cards](https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House Of Cards](https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L) | 3:26 | 2026-02-05 |  |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 |  |
+| [How to Breathe \(feat\. Matt Corby\)](https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything Every Single Day \(The Deluxe Edition\)](https://open.spotify.com/album/1sKinipNp30KnwhZTke1My) | 3:40 | 2026-05-14 |  |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-04 | 2025-05-24 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2026-02-27 |
 | [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-18 | 2025-09-26 |

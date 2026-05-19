@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068944,
+  "num_followers": 1068980,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Ain't Half Bad",
-        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ain't Half Bad",
-      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 245838,
       "name": "You Hear Georgia",
       "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Love Endeavour",
-        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
-      },
-      "artists": [
-        {
-          "name": "PAPA | PEET",
-          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
-        }
-      ],
-      "duration_ms": 275712,
-      "name": "The Love Endeavour",
-      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Joy, Joy!",
         "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181503,
       "name": "Joy, Joy!",
       "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201733,
       "name": "Saviour - Unplugged",
       "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Let's Walk",
         "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Slow Lightning (Deluxe)",
         "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
@@ -1219,34 +1235,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
       "artists": [
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
         }
       ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Days of Mellow",
-        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 154980,
-      "name": "Days of Mellow",
-      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
       "artists": [
         {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Gathering Forces",
         "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 185399,
       "name": "Gathering Forces",
       "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
-      },
-      "artists": [
-        {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-05-15 04:01:33",

@@ -1,71 +1,83 @@
 {
-  "description": "Weekly new Hardstyle releases! Cover: Devin Wild",
-  "num_followers": 291784,
+  "description": "Weekly new Hardstyle releases! Cover: Frontliner",
+  "num_followers": 291825,
   "original_name": "Hardstyle Adrenaline! 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIM0JXMtLx0nGiia3bvYhX7SSyo",
+  "snapshot_id": "AAAAAJR/s6uP9XXnNccxf2jlFMt1HU/J",
   "tracks": [
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
-        "name": "Awake Me (Official Intents Festival 2026 Anthem)",
-        "url": "https://open.spotify.com/album/45WGbyf9GBYyfe2PBq4FPx"
+        "name": "No Receta (Nexus 2026 Anthem)",
+        "url": "https://open.spotify.com/album/7xzjgg2xC3RMYPQPTWF0iO"
       },
       "artists": [
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "No Receta - Nexus 2026 Anthem",
+      "url": "https://open.spotify.com/track/5cAuw9gS7XX7ORBwjGHp1X"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "Our World",
+        "url": "https://open.spotify.com/album/21NFBoeKBfaxEQ4Y4VowGA"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "Our World",
+      "url": "https://open.spotify.com/track/07VCupXewL6sqWoNi6K3KB"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "Freestyler",
+        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         },
         {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Awake Me - Official Intents Festival 2026 Anthem",
-      "url": "https://open.spotify.com/track/75IVG3ixjUW2SiFxuOrFWi"
+      "duration_ms": 198009,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
-        "name": "HYMN 4 THE WKND",
-        "url": "https://open.spotify.com/album/3cs3oTzZwIJLyyYwbwvtWl"
+        "name": "Endless Horizon",
+        "url": "https://open.spotify.com/album/6gOmoiRB18wuLHz86YpEoi"
       },
       "artists": [
         {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 182083,
-      "name": "HYMN 4 THE WKND",
-      "url": "https://open.spotify.com/track/0X9eKIGGSHKbwOEX6aa6F6"
+      "duration_ms": 224783,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/4x6PXDNLCbWvn79ODlXK9V"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Bring The Pain",
-        "url": "https://open.spotify.com/album/76lYi8VaRD6OnOYJf5ykbT"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/5y7WINd4QQmz9DGsc34i3j"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Vecna",
         "url": "https://open.spotify.com/album/6yDguPy5gq4UxpcVHvvVyV"
@@ -93,7 +105,35 @@
       "url": "https://open.spotify.com/track/46IUBn2gVp8Vs7JQlmdeE5"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "Kings Of Reverse Bass",
+        "url": "https://open.spotify.com/album/3K4GKXczJ2PPPN7f8Jeq9z"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 143806,
+      "name": "Kings Of Reverse Bass",
+      "url": "https://open.spotify.com/track/3qi3lq67EXbBlprEgUZzS4"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Will I Ever Dare (To Lose Control)",
         "url": "https://open.spotify.com/album/7EIyBwzrtWZUVA5doGkIps"
@@ -109,27 +149,67 @@
       "url": "https://open.spotify.com/track/5MxTtUhe7umYK1FmBYU0hd"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
-        "name": "Freestyler",
-        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
+        "name": "Hear You Go",
+        "url": "https://open.spotify.com/album/4k1saLgXMkrqlKZVDVmgjo"
       },
       "artists": [
         {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
         }
       ],
-      "duration_ms": 198009,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
+      "duration_ms": 231885,
+      "name": "Hear You Go",
+      "url": "https://open.spotify.com/track/13UWPmfMEoxxId6KBwy4cI"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "ORIGINAL FLOW",
+        "url": "https://open.spotify.com/album/5CytW7gm7c6OymRmshZ92u"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        },
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "duration_ms": 184503,
+      "name": "ORIGINAL FLOW",
+      "url": "https://open.spotify.com/track/46mX200sRU5nGSxACY4w5N"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "PING PONG BATTLE",
+        "url": "https://open.spotify.com/album/6jtEygvLCrWYoc4TW66jjd"
+      },
+      "artists": [
+        {
+          "name": "Infliction",
+          "url": "https://open.spotify.com/artist/1jlSojJNNkZC35aVF5ifWa"
+        },
+        {
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
+        },
+        {
+          "name": "Hard Destiny",
+          "url": "https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR"
+        }
+      ],
+      "duration_ms": 175667,
+      "name": "PING PONG BATTLE",
+      "url": "https://open.spotify.com/track/3opYVBWYLtfDSBomdweQvt"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Night Predator",
         "url": "https://open.spotify.com/album/0jiVSb760wusE2TQSmlzf2"
@@ -173,27 +253,27 @@
       "url": "https://open.spotify.com/track/1CMmfgj8FhIxbTwTa7S6lq"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
-        "name": "STOP CRYING",
-        "url": "https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H"
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/7FtMcd2L56kJqCCfqtBkRj"
       },
       "artists": [
         {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+          "name": "Solstice",
+          "url": "https://open.spotify.com/artist/6Czf2AVSww2aOhW4M6QNHT"
         },
         {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+          "name": "Michael Jo",
+          "url": "https://open.spotify.com/artist/0jqSpIpPWIxPpAyvfExLQC"
         }
       ],
-      "duration_ms": 139687,
-      "name": "STOP CRYING",
-      "url": "https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb"
+      "duration_ms": 236230,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/7mqK02FaIVoUszPEZED0vl"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Do You Like It Hardcore",
         "url": "https://open.spotify.com/album/1lNRdQEFW4nBpPIiCVtJ0W"
@@ -213,7 +293,7 @@
       "url": "https://open.spotify.com/track/3GJE69RthZ92fcUm4SNcm8"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Drugs (Crypsis Remix)",
         "url": "https://open.spotify.com/album/1XJNDarAFSni17F0RXPm9Y"
@@ -237,7 +317,23 @@
       "url": "https://open.spotify.com/track/1dD1QOM4l14TCgi3eOV6pu"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/0Dyo873p3CoZTn253AHgjK"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/41ehlRYtDvWjgfjRfTMx2t"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Feel The Storm",
         "url": "https://open.spotify.com/album/1hvWnfpE9wKWJ7BWp2Njap"
@@ -257,7 +353,23 @@
       "url": "https://open.spotify.com/track/0WMtI0UAPAAuNGePm5HeUf"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "Fear To The Test",
+        "url": "https://open.spotify.com/album/64XNewrhoHKFBP9HINlIln"
+      },
+      "artists": [
+        {
+          "name": "Titan",
+          "url": "https://open.spotify.com/artist/0FfiqpPNuyhma9Sc4nF3U5"
+        }
+      ],
+      "duration_ms": 180765,
+      "name": "Fear To The Test",
+      "url": "https://open.spotify.com/track/5fJar9yL7wDhdF138kGjod"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Recover Me",
         "url": "https://open.spotify.com/album/13mdQtriHoFsVy1IgHZk5I"
@@ -273,7 +385,23 @@
       "url": "https://open.spotify.com/track/6d5092khWczUNH43mtsmkE"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
+      "album": {
+        "name": "The Temple",
+        "url": "https://open.spotify.com/album/0PBF4KIYCdQEnPFPo1mhjo"
+      },
+      "artists": [
+        {
+          "name": "D\u00c2VIN\u00d8",
+          "url": "https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh"
+        }
+      ],
+      "duration_ms": 232863,
+      "name": "The Temple",
+      "url": "https://open.spotify.com/track/2rPJWgHkZB6wxLblGs2H1Y"
+    },
+    {
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "DETONATE",
         "url": "https://open.spotify.com/album/6IEaed0hhlnIhk0iE52rSW"
@@ -289,7 +417,7 @@
       "url": "https://open.spotify.com/track/1IiB4vid0gY4Nu77gkG3Gy"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Bass Boom",
         "url": "https://open.spotify.com/album/5AGP901dBVxYpgD47rZKhb"
@@ -305,7 +433,7 @@
       "url": "https://open.spotify.com/track/7vuw3TtYlklZWevSVNbHGa"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Live Or Die",
         "url": "https://open.spotify.com/album/1eFdHZ0x7GJ0xWmr3GJ9ze"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/1kBu3fe2FUoAJquKlIm5nF"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Sunset Memories",
         "url": "https://open.spotify.com/album/7dZANiU0LHkPyEyj7BMaf0"
@@ -341,7 +469,7 @@
       "url": "https://open.spotify.com/track/2NSjZC8dhuU5qhwnqlenxq"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "KALASHNIVKOV",
         "url": "https://open.spotify.com/album/6gbWXJgtBD0onMEUIQXqcU"
@@ -361,7 +489,7 @@
       "url": "https://open.spotify.com/track/4rT7Qq1f54oF6wW6837F4v"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Break The Glass",
         "url": "https://open.spotify.com/album/47rG1uXi5nqGmq1EAvVu0y"
@@ -377,7 +505,7 @@
       "url": "https://open.spotify.com/track/498d8omv6wdsU8oQejxxaP"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "We Rise",
         "url": "https://open.spotify.com/album/3TYWfzG5aTCU7OVgcmZcG3"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/16vQ6lU5giquHCDdMq0FsB"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Fierro Pariente",
         "url": "https://open.spotify.com/album/4cMSKZ2i1BgWpkT3DwSWcC"
@@ -413,7 +541,7 @@
       "url": "https://open.spotify.com/track/60lpBGsV2rE8m4f4RHm6xD"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "DESTINED RIVALS (Midnight Mafia 2026 Anthem)",
         "url": "https://open.spotify.com/album/3hx4EN0dWA185jBjx1r3cA"
@@ -433,7 +561,7 @@
       "url": "https://open.spotify.com/track/0b5PNMotEnTkyckhURcohg"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "ANOTHER LIFE",
         "url": "https://open.spotify.com/album/2UULfLGwYepbkW1bRLMNo6"
@@ -453,7 +581,7 @@
       "url": "https://open.spotify.com/track/6Ycl3huROyAnlj0j8BxRpl"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Chemical High",
         "url": "https://open.spotify.com/album/5UGJnRInN5gp5cqg28y80Y"
@@ -469,7 +597,7 @@
       "url": "https://open.spotify.com/track/2Z1ONAlznd1C8gmFckbj0d"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/5wsB6aGjv4ff4JdI3dF8SS"
@@ -489,7 +617,7 @@
       "url": "https://open.spotify.com/track/123ktJvBOkjVdFvrbgVc7y"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "the journey (melodic mix)",
         "url": "https://open.spotify.com/album/2mShBYRRcAWKeSldMRSK9i"
@@ -505,7 +633,7 @@
       "url": "https://open.spotify.com/track/04YPIjKDRqCQXazxXymwep"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "GOT YOU A BASS",
         "url": "https://open.spotify.com/album/5dNHNT42H85EBgFLDzKacP"
@@ -521,7 +649,7 @@
       "url": "https://open.spotify.com/track/6NqN4l7kWWx7PLVu0SLAAR"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Are U Me",
         "url": "https://open.spotify.com/album/7396gKoq7bXZW0uXUg3gaa"
@@ -541,7 +669,7 @@
       "url": "https://open.spotify.com/track/7gbQsKu2O304w1uktHnXbd"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Move Ma Body (Kronos Remix)",
         "url": "https://open.spotify.com/album/1mdv1xlKF8hEbbvzKB0Ro8"
@@ -565,7 +693,7 @@
       "url": "https://open.spotify.com/track/1GgVlQp2KbpffDXQzbPj4d"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Red Light District",
         "url": "https://open.spotify.com/album/2eHWfWR0XAe6myGoXabKeK"
@@ -589,7 +717,7 @@
       "url": "https://open.spotify.com/track/4bjKkCjq7dke5H2nMXobVH"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "DUMB FKN MUSIC",
         "url": "https://open.spotify.com/album/4386qGuvOmWP7sG7KuDJ4S"
@@ -605,7 +733,7 @@
       "url": "https://open.spotify.com/track/3Mfr2N6uS3RifbnHPZMJdB"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Class Dismissed",
         "url": "https://open.spotify.com/album/5X4d41rEXl8m72RzJYJsn2"
@@ -633,7 +761,7 @@
       "url": "https://open.spotify.com/track/5jEwUX8CtD7he94aLaEbNj"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/1AlXh35DbMyMWys39jvK4y"
@@ -661,7 +789,7 @@
       "url": "https://open.spotify.com/track/35ZplGhBvOxmbGTDqdPcYp"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Last One Standing",
         "url": "https://open.spotify.com/album/7fgjLISYzqW6Fk8SQetztF"
@@ -681,7 +809,7 @@
       "url": "https://open.spotify.com/track/5WC4z1NQWkLlNXRFbgbBLr"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Destroy",
         "url": "https://open.spotify.com/album/3d3MpKwUBRsKCwj9T0VBO3"
@@ -697,7 +825,7 @@
       "url": "https://open.spotify.com/track/5dvxqCla2iSfWVtEJscrS2"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Never Give Up (Act of Rage Remix)",
         "url": "https://open.spotify.com/album/6mzLs4QgN1Kk1NYnbdOMQE"
@@ -717,7 +845,7 @@
       "url": "https://open.spotify.com/track/7EYjcf8oLmcT0HYRUHNyRX"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "When The World Ends",
         "url": "https://open.spotify.com/album/6ZezqgdbfIYwvwlyijtB9b"
@@ -737,7 +865,7 @@
       "url": "https://open.spotify.com/track/5GK0rO5dqv2l15cCeH3cEj"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Mind Games",
         "url": "https://open.spotify.com/album/1raRC0f0njDvuvLr9dtNX3"
@@ -757,7 +885,7 @@
       "url": "https://open.spotify.com/track/7lXHiQoPzlAdOlGkEG40Jn"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Walls Of Fever",
         "url": "https://open.spotify.com/album/01fGXdWOe1AWJUyLxCnRsT"
@@ -781,7 +909,7 @@
       "url": "https://open.spotify.com/track/197RYZU2sJ8wMmgP5zUCCP"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "THE SOUND OF THE BEAST (Kruelty Edit)",
         "url": "https://open.spotify.com/album/1nsv0z1KjWZPuw8gPQL7qB"
@@ -801,7 +929,7 @@
       "url": "https://open.spotify.com/track/7JPUwdjslVdkdx9X1EEGFr"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Renegade Master",
         "url": "https://open.spotify.com/album/69GOFplxX45nGgZfmv0YX7"
@@ -817,7 +945,7 @@
       "url": "https://open.spotify.com/track/1O14Ntpd6CE1cZ9NmNvD5x"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "We Are Fire (HARDFEST 2026 OST)",
         "url": "https://open.spotify.com/album/72HMt5LG3In0VVW0Wy6Wnw"
@@ -837,7 +965,7 @@
       "url": "https://open.spotify.com/track/2q9zKHGzH6SahCMoL7wGUa"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0CR2vqa3aADhXlL4VkIeME"
@@ -857,7 +985,7 @@
       "url": "https://open.spotify.com/track/3z4l6jsU2yLc7S0YIvyU4i"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Be As One 2026",
         "url": "https://open.spotify.com/album/5QsMfQLTz0mMiTkXJVX8ht"
@@ -877,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6Nul0V5WAECN7iFkX9ZlkG"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Papacito",
         "url": "https://open.spotify.com/album/7G5ViyhAHRxSqY1RqGemm7"
@@ -893,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5MIAFaJE1zfeLVLlhep06E"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
@@ -909,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/5MHdtQ7FHEv6nuaFjH6pSV"
@@ -925,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4aZZanqZH8ClEPzdubT52F"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Bury The Light",
         "url": "https://open.spotify.com/album/1rVg4M2WS5i6aBFNCVwyao"
@@ -945,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3QrLj4qa97I0r88TweXNSh"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/07xubqHw8D9mRrHtUappu0"
@@ -961,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6j2MGSY85BqrI2reZ3IOsk"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "The Age Of Love (Hard Remix)",
         "url": "https://open.spotify.com/album/1ES6cr7pw2ZRMd4FyjAR7W"
@@ -981,7 +1109,7 @@
       "url": "https://open.spotify.com/track/08emeyDzGaOFWkxUDymnge"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Touch The Sky",
         "url": "https://open.spotify.com/album/4HmxvGtwD5N9H494TRAeg0"
@@ -997,7 +1125,7 @@
       "url": "https://open.spotify.com/track/2eK3syfnX49rMPosxcRW18"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "You Were Never Mine",
         "url": "https://open.spotify.com/album/1qXglUZbKDmBvMH75Gk21f"
@@ -1025,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3GNeKccwYGYVz53tnjLEad"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Enter The Rawzone (Rawzone Arena 2026 Anthem)",
         "url": "https://open.spotify.com/album/3RtNBfs4L6BRst7jIBj1JR"
@@ -1045,7 +1173,7 @@
       "url": "https://open.spotify.com/track/1YMIAPZm1o63EBQ0lmfjBg"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/2JNI0cZgoAf7XqDvxsQFY6"
@@ -1065,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3n78tY1R80tFQ0mRj5gr9f"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "PUMP THE BASS",
         "url": "https://open.spotify.com/album/6XEha2remVFDDPKsE0a9li"
@@ -1081,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0imEj5KhJ38nWviTi2sD8a"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0lYUQ8HQXhCsC3ZbzyDcBb"
@@ -1101,7 +1229,7 @@
       "url": "https://open.spotify.com/track/4m1m9AYEfObUC3p2nB6Oht"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Ravers Revolution",
         "url": "https://open.spotify.com/album/0km8gzufVembWHRMzjku2j"
@@ -1125,23 +1253,7 @@
       "url": "https://open.spotify.com/track/7ACQePF9b8X2b4vIjAOxdx"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "The Devil",
-        "url": "https://open.spotify.com/album/58Lxbb3XsnXToECXjvj9Vj"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "The Devil",
-      "url": "https://open.spotify.com/track/4Ls9YfqNATdkxOuOTkpKR1"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "I GOT IT",
         "url": "https://open.spotify.com/album/3OAUgj57TnwtLMNBY9KgvR"
@@ -1161,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2Mrkb19VjBQggUjI3qDSy6"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Zy2niccqu7kZlvWX37SQW"
@@ -1181,7 +1293,7 @@
       "url": "https://open.spotify.com/track/7n5iBpHfwG0Z01NqR27FJY"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6oARPTv8T40Fke47WZN2I5"
@@ -1197,7 +1309,7 @@
       "url": "https://open.spotify.com/track/1S6dQuhOjoIDjlapTxbuyQ"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "I Like It Slow",
         "url": "https://open.spotify.com/album/25UlyGE9bWquDK2MEABFpN"
@@ -1217,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4AVt3SBXzGZwisc4zZmQmN"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Fire In Me",
         "url": "https://open.spotify.com/album/7d3zRbvb4eOEjUT625n6cc"
@@ -1233,7 +1345,7 @@
       "url": "https://open.spotify.com/track/06zFHdrqnUu0i1sDdT16p4"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0CkIGp3bzvhtfMkPw2evXw"
@@ -1261,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7yphW1BVGy6cwSYo1imUr2"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "PILLS, DRUGS AND MF KICKROLLS",
         "url": "https://open.spotify.com/album/6XTFifLTtSCGciKNfel1AF"
@@ -1281,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0fGwprPVUyI1niUQ2MwJ97"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/5DbSP7WR7NNB02GTF0tUQd"
@@ -1297,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6DO6cIyF85KXJSOjjiKv5v"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Take Me Away (Third Trip)",
         "url": "https://open.spotify.com/album/5uPVCnbPRipdGxwjyOAjP3"
@@ -1325,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6BfEVZkM5xs8VxtU3IoQul"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/7GfxFIyNMB02ki8AUwQjF9"
@@ -1345,7 +1457,7 @@
       "url": "https://open.spotify.com/track/6a9qTBBUdzmMbL89QX0Zix"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Mona Lisa (All That She Wants)",
         "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
@@ -1369,7 +1481,7 @@
       "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
         "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
@@ -1385,7 +1497,7 @@
       "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
         "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
@@ -1405,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Above It All",
         "url": "https://open.spotify.com/album/2Az7K5WL8kd8aeXjbkXDUH"
@@ -1421,7 +1533,7 @@
       "url": "https://open.spotify.com/track/0Rc76jWVVhd7P444rjIngT"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "MUSICAL BOX",
         "url": "https://open.spotify.com/album/3lLyWyTycOY7oMnaROETW5"
@@ -1437,23 +1549,7 @@
       "url": "https://open.spotify.com/track/3ZLVGZ8I8JGrZyOt7zfUyJ"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Maniac",
-        "url": "https://open.spotify.com/album/6KSptG1KXOVCSlarzAgGeE"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/3H2vFTg5ncJrgucRYTGwim"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Equipment (Demi Kanon & Jesse Jax Remix)",
         "url": "https://open.spotify.com/album/660F89PP5RW40KtTEub3zc"
@@ -1477,7 +1573,7 @@
       "url": "https://open.spotify.com/track/6YsuST4KZHJiVwopCGQZ4C"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/6FzFUrmZe5CfRU0APY23Xy"
@@ -1497,27 +1593,7 @@
       "url": "https://open.spotify.com/track/4mEHpU9HmmElypTrDlPV0t"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Darkest Hour (The Clock)",
-        "url": "https://open.spotify.com/album/4eI1N5KbjJ5j4Mfa8yZPhM"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Darkest Hour (The Clock)",
-      "url": "https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "HIT THE FLOOR",
         "url": "https://open.spotify.com/album/0W1zMynkLKO0YFXKcbMyfU"
@@ -1537,35 +1613,7 @@
       "url": "https://open.spotify.com/track/02NBOYp5wENGLYHfFibSCK"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Hypnotise",
-        "url": "https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Enveak",
-          "url": "https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS"
-        },
-        {
-          "name": "SURAYA",
-          "url": "https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3"
-        },
-        {
-          "name": "SHOWTEKNO",
-          "url": "https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "Hypnotise",
-      "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Alive (Hold Me Close)",
         "url": "https://open.spotify.com/album/6NZlnoa6bgruWJAkn3Q79Z"
@@ -1585,7 +1633,7 @@
       "url": "https://open.spotify.com/track/6ii346v9zItLbr6fYplWtm"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/7nU5KeUYLQmYrHh3iozbN2"
@@ -1601,7 +1649,7 @@
       "url": "https://open.spotify.com/track/3MIcVhuzsL3jIuHbxDZFiv"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/5ejiAbX65IOd8F9OaxW0sQ"
@@ -1617,7 +1665,7 @@
       "url": "https://open.spotify.com/track/5bjTXRVVUllsMoED5aGrzz"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Transmission",
         "url": "https://open.spotify.com/album/3Os8kbcmmgmNoBqHuMaWFe"
@@ -1633,7 +1681,7 @@
       "url": "https://open.spotify.com/track/2AKUxwrxgVjnmQ3w9BOBGA"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "We Own The Night",
         "url": "https://open.spotify.com/album/2tcOSHL656usih4vX6aA4J"
@@ -1649,7 +1697,7 @@
       "url": "https://open.spotify.com/track/46Bq8kdWBtWx3KkTGz4o90"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/6autb5THm0gCGIZrT9DU4f"
@@ -1673,7 +1721,7 @@
       "url": "https://open.spotify.com/track/5CpnAcPyOeLUZ9j6G1iq56"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Outlast",
         "url": "https://open.spotify.com/album/7hybV6kgKeP3n7VXuB0zSM"
@@ -1689,7 +1737,7 @@
       "url": "https://open.spotify.com/track/763LvMXwKPjS65yBFdwRwd"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "SHOWTIME",
         "url": "https://open.spotify.com/album/6PYXHMIZVbdzAM1JbU0Zbp"
@@ -1705,7 +1753,7 @@
       "url": "https://open.spotify.com/track/5PyCdYdgWA8oT9u4GUkm0s"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Krach Nation Army",
         "url": "https://open.spotify.com/album/3gylurW1PvAlUDvfi6uUpE"
@@ -1729,7 +1777,7 @@
       "url": "https://open.spotify.com/track/13vICiI5KLAZGYfXIafTjf"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Black Mirror",
         "url": "https://open.spotify.com/album/6b81LLUGhzzgbf0hNOpCd8"
@@ -1753,7 +1801,7 @@
       "url": "https://open.spotify.com/track/0xsn1eh2P1rtZ5pBMex2qC"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Dangerous (Hard Version)",
         "url": "https://open.spotify.com/album/67V8xgoZvwEyzm9jq6tI4i"
@@ -1773,7 +1821,7 @@
       "url": "https://open.spotify.com/track/6uqe5dpdiE4euHjTtA6gtX"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Guck Mal",
         "url": "https://open.spotify.com/album/2ymCccHyNbjtQqqkON6vWX"
@@ -1797,7 +1845,7 @@
       "url": "https://open.spotify.com/track/685LYmbPe9Wyz1OHQALvma"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/6wg7ggX4vzWjbk9NF6eKdB"
@@ -1817,7 +1865,7 @@
       "url": "https://open.spotify.com/track/7LV4DFaDIUtb7jaQXMVQJM"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/27gbmukjM90ByW50B1cwfE"
@@ -1833,7 +1881,7 @@
       "url": "https://open.spotify.com/track/6ZOOepzSP50NsQctUKMh94"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Claim The Power",
         "url": "https://open.spotify.com/album/0gwNtI7sGhMB80men3PWQ7"
@@ -1857,7 +1905,7 @@
       "url": "https://open.spotify.com/track/7q9oN9ctyO8vOzeplyHvB2"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "PLAYGROUND",
         "url": "https://open.spotify.com/album/0CHLxSWNHoXkdbjYcNa030"
@@ -1877,7 +1925,7 @@
       "url": "https://open.spotify.com/track/4FeS0dCQtFwv8GeDofVEoy"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/7tAdbKlWvlkkRIbQYUaNU1"
@@ -1901,7 +1949,7 @@
       "url": "https://open.spotify.com/track/2EU5PmkX9pyLygHBDQyYDx"
     },
     {
-      "added_at": "2026-05-11 12:12:39",
+      "added_at": "2026-05-18 09:59:30",
       "album": {
         "name": "PEDAL 2 THE METAL",
         "url": "https://open.spotify.com/album/5shffABZTe8qhdDaqIlnMO"
@@ -1923,86 +1971,6 @@
       "duration_ms": 160875,
       "name": "PEDAL 2 THE METAL",
       "url": "https://open.spotify.com/track/0zEjNiechPALv6qfJn4ywx"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Danger Zone",
-        "url": "https://open.spotify.com/album/2Gy51rSTAZVxMQw5aTllIP"
-      },
-      "artists": [
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        },
-        {
-          "name": "Kevin D'Angello",
-          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
-        }
-      ],
-      "duration_ms": 158782,
-      "name": "Danger Zone",
-      "url": "https://open.spotify.com/track/2jxLWO878eBHmF7e17f8hI"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "POP IT",
-        "url": "https://open.spotify.com/album/3kQpwzqkAYHjKZ79WPhmOw"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Project Zeitgeist",
-          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
-        }
-      ],
-      "duration_ms": 171870,
-      "name": "POP IT",
-      "url": "https://open.spotify.com/track/1HjYRl3vK5AE8Fz1L8zxNA"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Thunderdance",
-        "url": "https://open.spotify.com/album/3Lta3M9buXXYYbHLNXno1T"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        },
-        {
-          "name": "Jan Vervloet",
-          "url": "https://open.spotify.com/artist/3Wh3NNmiXQb6KzLRWiS8Ps"
-        }
-      ],
-      "duration_ms": 122322,
-      "name": "Thunderdance",
-      "url": "https://open.spotify.com/track/1om3ukQitUroGqGPafyq01"
-    },
-    {
-      "added_at": "2026-05-11 12:12:39",
-      "album": {
-        "name": "Infinite Power",
-        "url": "https://open.spotify.com/album/3lZ0Nb6fxJkHBizF94W3u2"
-      },
-      "artists": [
-        {
-          "name": "Damaxy",
-          "url": "https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx"
-        },
-        {
-          "name": "Disaster",
-          "url": "https://open.spotify.com/artist/33WBeVngRhTAZbv1Z9Z5ov"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Infinite Power",
-      "url": "https://open.spotify.com/track/1bZd6xIrzaj7H2Lj2yYYMI"
     }
   ],
   "unique_name": "Hardstyle Adrenaline! 2026",

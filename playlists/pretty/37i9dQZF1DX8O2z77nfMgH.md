@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,497 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,501 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

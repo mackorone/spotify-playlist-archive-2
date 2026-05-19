@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,411 songs - 5 day 8 hr 27 min
+2,412 songs - 5 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -980,6 +980,7 @@
 | [Hotel Room](https://open.spotify.com/track/2pxPyZopqt8UHeopkoQMql) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Hotel Room](https://open.spotify.com/album/5RTKA4rotAXJhtQ3XalzHe) | 2:59 | 2021-08-06 | 2022-03-31 |
 | [Hour 24](https://open.spotify.com/track/1KjAqIGaGNzKeN3WRzRBB6) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [Hour 24](https://open.spotify.com/album/7yLa6nQt9j15F3YyMGjAdw) | 3:02 | 2020-11-03 | 2021-01-15 |
 | [House Burn Down](https://open.spotify.com/track/48oBIuYRNSsKPigKQAQzXp) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [House Burn Down](https://open.spotify.com/album/5hoJlHBaY7391kmYXbV4zu) | 3:10 | 2021-06-04 | 2022-04-05 |
+| [Housekeeping](https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Housekeeping](https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE) | 3:25 | 2026-05-15 |  |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-01-21 | 2022-07-23 |
 | [How Does It Feel?](https://open.spotify.com/track/4y22WiXJifTcRYCZ4UoIoo) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/4UebeIXE1sooIsskUa1uBC) | 2:51 | 2023-07-07 | 2023-07-22 |
 | [How It Will End](https://open.spotify.com/track/7gpjFpTdE2irqRj2Odc80C) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [How It Will End](https://open.spotify.com/album/3M9aLFlvhhr8nPONBrsaOh) | 3:08 | 2021-03-14 | 2021-10-23 |
@@ -2097,7 +2098,7 @@
 | [Tangerine](https://open.spotify.com/track/4qzAGRJuc6vOZ7Jsf2wA5W) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Tangerine](https://open.spotify.com/album/0EU7Ds5lLkvyuxgC7jJFFJ) | 2:55 | 2020-10-20 | 2021-05-28 |
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 | 2024-05-23 |
-| [Tattoos](https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Tattoos](https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU) | 2:55 | 2026-05-15 |  |
+| [Tattoos](https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Tattoos](https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU) | 2:55 | 2026-05-15 | 2026-05-19 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-04 | 2025-08-16 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |

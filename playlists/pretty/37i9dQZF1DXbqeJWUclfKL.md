@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Hunt demons, watch anime, repeat\. REI AMI takes us on a journey through her favorite anime OP/EDs for Ani\-May 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,525 likes - 26 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,582 likes - 26 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

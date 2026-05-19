@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Jahyanai
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,920 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,934 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 10 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
 | 11 | [No Pale](https://open.spotify.com/track/3pKN61bWnMmYKw42dAJ9SZ) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK), [Umpa](https://open.spotify.com/artist/0JrChRig4ROmK0AqwZsXXq) | [No Pale](https://open.spotify.com/album/0J72SaIZuUeASP0uKlkLHJ) | 2:00 |
 | 12 | [90s](https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [90S](https://open.spotify.com/album/1lqzpBgNsPrfQLnSxcFo2Y) | 3:29 |
-| 13 | [Controlla](https://open.spotify.com/track/4z8FuVG2TuDj7TFh96krXr) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Controlla](https://open.spotify.com/album/2cGzvNYhSSP1EJdgNRivBs) | 1:47 |
+| 13 | [Controlla](https://open.spotify.com/track/4z8FuVG2TuDj7TFh96krXr) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Get Busy / Controlla](https://open.spotify.com/album/2cGzvNYhSSP1EJdgNRivBs) | 1:47 |
 | 14 | [Gwan So](https://open.spotify.com/track/6usphpoSCVuYUVSMq8sHkt) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Gwan So](https://open.spotify.com/album/0JUTmX8JSjLz3wbSrZe688) | 2:18 |
 | 15 | [Press Back](https://open.spotify.com/track/3WEOgg8eTNu4hD2OBs38ir) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Press Back](https://open.spotify.com/album/3gy49t1sOhKs2Kd6tAbJwH) | 2:48 |
 | 16 | [Big Kafrine \(WYFL Riddim Shatta\)](https://open.spotify.com/track/7v6B9EU8IxwdY8KTyEklDQ) | [Sika Rlion](https://open.spotify.com/artist/2bk4OvULWozcTHC7EMhKaA), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Big Kafrine \(WYFL Riddim Shatta\)](https://open.spotify.com/album/2HP4gLr9rHp5kJYGZjmT05) | 2:29 |

@@ -1,10 +1,10 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104341,
+  "num_followers": 104344,
   "original_name": "100 Suomi",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "AAAAAI7lb3TNWZ8G4cAv+7xjx/0Gy0kB",
   "tracks": [
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-05-14 21:17:55",
       "album": {
-        "name": "Mr Nice Guy",
-        "url": "https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX"
-      },
-      "artists": [
-        {
-          "name": "Kube",
-          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
-        },
-        {
-          "name": "The Chemodan",
-          "url": "https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby"
-        }
-      ],
-      "duration_ms": 154698,
-      "name": "Mr Nice Guy",
-      "url": "https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc"
-    },
-    {
-      "added_at": "2026-05-14 21:17:55",
-      "album": {
         "name": "YLH\u00c4\u00c4L JA ALHAAL",
         "url": "https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 157586,
       "name": "YLH\u00c4\u00c4L JA ALHAAL",
       "url": "https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo"
+    },
+    {
+      "added_at": "2026-05-14 21:17:55",
+      "album": {
+        "name": "Mr Nice Guy",
+        "url": "https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        },
+        {
+          "name": "The Chemodan",
+          "url": "https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby"
+        }
+      ],
+      "duration_ms": 154698,
+      "name": "Mr Nice Guy",
+      "url": "https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc"
     },
     {
       "added_at": "2026-05-14 21:17:55",

@@ -4,7 +4,7 @@
 
 > Becky G is having a main pop girl emergency 🆘
 
-1,697 songs - 3 day 13 hr 8 min
+1,699 songs - 3 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Bands On Me](https://open.spotify.com/track/4jqgGpOWlZvP67YJVH1UB4) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Icon Baby](https://open.spotify.com/album/4TkpauLcNunQAfg0WdsLPK) | 2:31 | 2025-03-28 | 2025-04-26 |
 | [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-13 |  |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-06-04 |
+| [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 | 2026-05-18 |  |
 | [Barbie Doll](https://open.spotify.com/track/5aKlUXjfgFUpJfWNvXH2IW) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Barbie Doll](https://open.spotify.com/album/4PHqoOCjJKy3FuFxskhDAc) | 2:05 | 2023-08-18 | 2023-10-07 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-09 | 2023-09-16 |
 | [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-17 | 2022-09-24 |
@@ -275,7 +276,7 @@
 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-05 |  |
 | [Claws](https://open.spotify.com/track/5d6c4SXZ6o41OWID6DIPq1) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:13 | 2023-06-23 | 2023-09-23 |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/3nQQifh95U988ME5zJMSyi) | 2:48 | 2022-02-15 | 2022-06-25 |
-| [Closet Disco Queen](https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Closet Disco Queen](https://open.spotify.com/album/6rqG9i4Ta02RZckj908KWM) | 3:42 | 2026-05-08 |  |
+| [Closet Disco Queen](https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Closet Disco Queen](https://open.spotify.com/album/6rqG9i4Ta02RZckj908KWM) | 3:42 | 2026-05-08 | 2026-05-19 |
 | [Closure](https://open.spotify.com/track/5H5j512kqhfK9dJT3Ko8an) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Closure](https://open.spotify.com/album/4D4QFUj6FNIkC9LVko4iwB) | 2:44 | 2024-10-04 | 2025-03-22 |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-05 | 2024-05-03 |
 | [Club Cooter: Reloaded](https://open.spotify.com/track/10yIPIi5rLXQvIUReCA2Ps) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Club Cooter: Reloaded](https://open.spotify.com/album/54Tu6IUM0MfJ2nMJ8cqu3N) | 1:49 | 2023-04-14 | 2023-06-10 |
@@ -963,7 +964,7 @@
 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-13 | 2026-05-09 |
 | [Lucky Girl](https://open.spotify.com/track/6A7A3isXbQ0oUsXJuDqCet) | [Magdalene](https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c) | [Lucky Girl](https://open.spotify.com/album/2WTwUzWveJoa9oYss4CnMj) | 3:36 | 2025-04-04 | 2025-08-05 |
 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 | 2025-11-14 | 2026-03-10 |
-| [Lucky You're A Star](https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Lucky You're A Star](https://open.spotify.com/album/68k75gFpf9NRtXcQ5AJYzH) | 3:32 | 2025-12-12 |  |
+| [Lucky You're A Star](https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Lucky You're A Star](https://open.spotify.com/album/68k75gFpf9NRtXcQ5AJYzH) | 3:32 | 2025-12-12 | 2026-05-19 |
 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 | 2025-10-03 | 2025-11-15 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-27 | 2026-02-28 |
 | [Lush Life \- Spotify Singles](https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lush Life \(Spotify Singles\)](https://open.spotify.com/album/2km7Ivx2yjw61DfjgrJ5wQ) | 3:01 | 2026-02-27 |  |
@@ -1373,6 +1374,7 @@
 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 | 2023-01-20 | 2023-03-18 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-11-29 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 | 2025-02-08 |
+| [Spray Tan](https://open.spotify.com/track/5dHvtUkW9bEYEQoiB49Cka) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [Spray Tan](https://open.spotify.com/album/6866Kcl4C6mpAhq2ykkAI4) | 2:44 | 2026-05-18 |  |
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-10 | 2024-06-22 |
 | [Spring breakers featuring kesha](https://open.spotify.com/track/6iiofFfntEWeKApZqX18WD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spring breakers featuring kesha](https://open.spotify.com/album/0qsp9ye0GPLLEdey7UAzaN) | 2:22 | 2024-10-18 | 2025-05-31 |
 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-23 | 2024-03-06 |

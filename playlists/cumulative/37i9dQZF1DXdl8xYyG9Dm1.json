@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
+  "description": "The latest straight bars and Afro-Trap. Cover:  Himra",
   "name": "Afro Bars ",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 127612,
       "name": "BABA",
       "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
@@ -1038,6 +1038,24 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "album": {
+        "name": "BARA BARA",
+        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "BARA BARA",
+      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
     },
     {
       "album": {
@@ -1566,6 +1584,28 @@
       "duration_ms": 200900,
       "name": "Charlie's Angels",
       "url": "https://open.spotify.com/track/0thXdHSRz4oipklVWo2Tsc"
+    },
+    {
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
       "album": {
@@ -4234,7 +4274,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 184347,
       "name": "JET SET",
       "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"

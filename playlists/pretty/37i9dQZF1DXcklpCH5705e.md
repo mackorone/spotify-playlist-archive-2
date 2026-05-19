@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,512 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,511 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 21 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 |
 | 22 | [你有滿意嗎](https://open.spotify.com/track/2FIxAgNJfyhAFzDwJI1jZV) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [你有滿意嗎](https://open.spotify.com/album/1VOkhMPKUgKtFRRJvRUN10) | 4:16 |
 | 23 | [獨家記憶](https://open.spotify.com/track/2hUi8pqdfRk8mIJlF3Tll4) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [獨家記憶](https://open.spotify.com/album/2qBeO3aPMMhS1U2KbRDiGM) | 3:51 |
-| 24 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 24 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 25 | [幸福在歌唱 \- 電影《陽光女子合唱團》幸福版主題曲](https://open.spotify.com/track/3VHi5bCUek6XdiDmqqrirs) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [幸福在歌唱 \(電影《陽光女子合唱團》幸福版主題曲\)](https://open.spotify.com/album/4NinJjUJ7jqP3zu2PSBovX) | 4:39 |
 | 26 | [我只怪我自己](https://open.spotify.com/track/4Kmcnuj1YZiBbuFR5wbClJ) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 3:55 |
 | 27 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 |

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,196 songs - 2 day 11 hr 46 min
+1,197 songs - 2 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 | 2025-01-30 | 2025-03-28 |
 | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y) | 2:37 | 2025-02-20 | 2025-04-25 |
 | [Ei kenenkään maa](https://open.spotify.com/track/6PANiQUSF5adKoACZMBX59) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Ei kenenkään maa](https://open.spotify.com/album/4ZdRFk9YIMNcxfG6MqNBsP) | 3:16 | 2025-02-16 | 2025-03-28 |
+| [Ei kukaan muu](https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Ei kukaan muu](https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG) | 3:16 | 2026-05-14 |  |
 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 | 2025-09-18 | 2025-11-21 |
 | [Ei me kuolla kuitenkaan](https://open.spotify.com/track/6JJOkXsbhZAWfJUIFApXIp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ei me kuolla kuitenkaan](https://open.spotify.com/album/39MJlMRGdRCQiHCqMJHibn) | 3:32 | 2025-02-27 | 2025-04-25 |
 | [Ei puhuta siit](https://open.spotify.com/track/1hED5YoiDJubVHhttGApgW) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ) | [Ei puhuta siit](https://open.spotify.com/album/1vvLaMxg2Y8xy5hWp7atOr) | 2:49 | 2025-06-26 | 2025-07-04 |
@@ -410,7 +411,7 @@
 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 | 2024-07-04 | 2024-08-30 |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-12 | 2024-11-15 |
 | [Itketään](https://open.spotify.com/track/7BUjnAO5M5fXpmTVNMinb8) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa) | [Itketään](https://open.spotify.com/album/6gcgjrAWG8rp4fVyYvus1q) | 2:39 | 2025-04-17 | 2025-04-25 |
-| [Itseni vihollinen](https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Itseni vihollinen](https://open.spotify.com/album/3ovNzQ1alSCvpfkXPn1pm5) | 3:26 | 2026-04-23 |  |
+| [Itseni vihollinen](https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Itseni vihollinen](https://open.spotify.com/album/3ovNzQ1alSCvpfkXPn1pm5) | 3:26 | 2026-04-23 | 2026-05-19 |
 | [I’m That Bitch](https://open.spotify.com/track/2kX8WvFV5XffNI73vepLxX) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [I’m That Bitch](https://open.spotify.com/album/1oSi0obZtZFP7DqHppRYeP) | 2:44 | 2025-09-18 | 2025-10-17 |
 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 | 2026-04-23 |  |
 | [Jani](https://open.spotify.com/track/2BCGcEqzfagl3Xi3Cqmciq) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [Jani](https://open.spotify.com/album/0aNf6dLncdtGmtoqDUqG12) | 2:51 | 2025-06-06 | 2025-06-20 |

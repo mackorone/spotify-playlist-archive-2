@@ -836,7 +836,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 267272,
       "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
@@ -1200,6 +1200,32 @@
       "duration_ms": 227806,
       "name": "Ishq Di Baajiyaan - Reprise (From \"Soorma\")",
       "url": "https://open.spotify.com/track/5WLidqObeZ9jdH7puCZIBn"
+    },
+    {
+      "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229239,
+      "name": "Ishq Nibhaavan De (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ"
     },
     {
       "album": {

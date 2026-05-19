@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! May ambassador: <a href="spotify:artist:5YHb2A9DThy2IFLn6z5bkA">NYVE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,161 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,157 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 55 | [Leven Lang](https://open.spotify.com/track/0bS9eVEQ2bN2i5WrnVnFFb) | [Romy Monteiro](https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY) | [Leven Lang](https://open.spotify.com/album/5i0BtoioGdq7b1ozEfclKI) | 2:36 |
 | 56 | [ASTRONAUT](https://open.spotify.com/track/4oetbQhAP3HjucQkHy106n) | [CALSEY](https://open.spotify.com/artist/3cPHdBXqtZpfGwbKjPZtKh) | [ASTRONAUT](https://open.spotify.com/album/5K2kVztw0L3RIWj3gK7XEE) | 3:12 |
 | 57 | [Get Back](https://open.spotify.com/track/2t4MbFWSRdpOto3ckcUq7T) | [Patches](https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh) | [Get Back](https://open.spotify.com/album/3M69bnbydOeZTHJfvW6uGW) | 4:29 |
-| 58 | [Bodem \(familything\)](https://open.spotify.com/track/3xNbJbChVQCpHOSFMT38rs) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8), [Panthero](https://open.spotify.com/artist/7G14Rew5hlCl6N3ZFOyoq6), [Ross Toney](https://open.spotify.com/artist/3CtGcHla0K1ITqmrdVy7je) | [Bodem \(familything\)](https://open.spotify.com/album/7cg6UaKPF89R4SE4XCRrzg) | 2:41 |
+| 58 | [Bodem \(familything\)](https://open.spotify.com/track/3xNbJbChVQCpHOSFMT38rs) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8), [Panthero](https://open.spotify.com/artist/6D0P9b0Lr70Mg52tDFozf0), [Ross Toney](https://open.spotify.com/artist/3CtGcHla0K1ITqmrdVy7je) | [Bodem \(familything\)](https://open.spotify.com/album/7cg6UaKPF89R4SE4XCRrzg) | 2:41 |
 | 59 | [Hier Met Jou](https://open.spotify.com/track/4HFfDfPBalc5yyGZ67aiG3) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Hier Met Jou](https://open.spotify.com/album/1OsiWUC1B5oGSLnRBHO15N) | 2:59 |
 | 60 | [Wish I Could Think Like You Do](https://open.spotify.com/track/3cSrXqeexuVxO5HxHE2oVr) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [Wish I Could Think Like You Do](https://open.spotify.com/album/001we0LOWxMQbLoNIuVkvc) | 2:14 |
 | 61 | [Too Much](https://open.spotify.com/track/6AQHuUJlE4EKMrhFrDJKl5) | [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi), [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Too Much](https://open.spotify.com/album/6StR9waMpxrQrqlGUHazzb) | 2:40 |

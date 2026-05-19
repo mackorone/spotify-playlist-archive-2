@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,138 songs - 3 day 1 hr 30 min
+1,139 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,6 +1141,7 @@
 | [Zion I](https://open.spotify.com/track/2noAezCPjG8U5W5hi1smLK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK) | 3:30 | 2026-05-05 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
+| [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 | 2026-05-18 |  |
 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 | 2025-12-31 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |
 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 | 2025-10-31 |  |

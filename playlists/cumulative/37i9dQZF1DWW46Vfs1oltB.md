@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Simon Dominic\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Jay Park & LNGSHOT\)
 
-1,897 songs - 4 day 5 hr 25 min
+1,899 songs - 4 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1300,6 +1300,7 @@
 | [PSB](https://open.spotify.com/track/3f0hlSShVxtbdq6SDeZlCp) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [PSB](https://open.spotify.com/album/4BrAItxyjypl5EInMN3vG8) | 2:12 | 2024-05-05 | 2024-07-31 |
 | [PSYCHO LOVE](https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [PSYCHO LOVE](https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc) | 3:10 | 2023-03-27 | 2023-06-14 |
 | [PUBLIC ENEMY \(Feat\. Roh Yun Ha, Wuuslime\)](https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [K\-FLIP](https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N) | 3:09 | 2025-01-10 | 2025-09-09 |
+| [PUBLIC ENEMY 4SHOMIX \(Feat\. DJ Wegun\)](https://open.spotify.com/track/3XDcumdbMgD411MNqqS77F) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:32 | 2026-05-18 |  |
 | [PUBLIC ENEMY REMIX \(Feat\. CHANGMO, ZICO\)](https://open.spotify.com/track/6NDEfaIJXAdCG21UHujFUp) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:09 | 2025-03-17 | 2025-08-05 |
 | [Public Figure \(feat\. Swings & Han Yo Han\)](https://open.spotify.com/track/4E4dCHkfEwh18SZqBBKkLv) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Inflection Point](https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD) | 3:12 | 2022-01-15 | 2022-06-14 |
 | [Pull Up](https://open.spotify.com/track/79MExvq75fclMHnLMLHcc1) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:28 | 2026-03-04 |  |
@@ -1835,6 +1836,7 @@
 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 | 2026-05-12 |  |
 | [YAYAYA \(Feat\. Mirani\)](https://open.spotify.com/track/6H7hpnwgn2zH1OUsJjbrPo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [TokkinnyBrown1.5](https://open.spotify.com/album/5bOKueM07L06faNzgjL3U5) | 3:18 | 2021-12-21 | 2022-07-04 |
 | [YAYO \(Feat\. Slim9lock\)](https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L) | [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Slim 9lock](https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM) | [YAYO \(Feat\. Slim 9lock\)](https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is) | 3:24 | 2023-04-07 | 2023-06-14 |
+| [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-18 |  |
 | [Yellin' \(feat\. Kid Milli\)](https://open.spotify.com/track/0deGjHATm7Hc1oJwqii1l3) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 1:53 | 2025-11-03 | 2026-03-13 |
 | [Yellow Cab](https://open.spotify.com/track/6KZ5tQzMzradTe0pxsfObz) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Yellow Cab](https://open.spotify.com/album/4jcAeu2xYvb7TRXIQB387m) | 3:25 | 2021-12-18 | 2022-07-08 |
 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 | 2022-07-04 | 2022-08-19 |

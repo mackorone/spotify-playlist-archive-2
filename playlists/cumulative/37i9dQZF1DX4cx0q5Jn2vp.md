@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-304 songs - 18 hr 5 min
+305 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/track/0tsHRP5lcvk5veXznLFKrG) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/album/7wDpvJ3PXKejpKqxoz0l7D) | 3:35 | 2022-04-04 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 | 2025-02-17 | 2025-03-22 |
 | [It Might Be You \- Theme from Everyday I Love You](https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [It Might Be You \(Theme from Everyday I Love You\)](https://open.spotify.com/album/0obyXODEHnssLgwFovpusL) | 4:12 | 2022-04-04 | 2022-07-29 |
+| [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-18 |  |
 | [Kahit Na Masungit](https://open.spotify.com/track/6e9nsiF38iCQdYmlVzUIm2) | [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kahit Na Masungit](https://open.spotify.com/album/7ItcDOx3AfoInkks1MBJE4) | 4:03 | 2022-06-27 | 2022-07-12 |
 | [Kahit Na, Kahit Pa](https://open.spotify.com/track/34fr34Y1gmWMpIjkxdTO2R) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [He's Into Her Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/67tFVTp7frUN98WP7SRcwu) | 3:40 | 2022-06-27 | 2022-09-06 |
 | [Kailan Ka Aamin](https://open.spotify.com/track/6RZMDe1W0oEqPCnzDn3qJD) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Kailan Ka Aamin](https://open.spotify.com/album/4ODOctDusqgxRCNDHzs3qf) | 3:38 | 2026-03-17 | 2026-04-08 |
@@ -289,7 +290,7 @@
 | [Una](https://open.spotify.com/track/29Yv0hgYGlPh1MgZAzngrg) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Una](https://open.spotify.com/album/0TCbPpcfSoh2K8TshIhwDS) | 4:20 | 2026-03-09 | 2026-04-08 |
 | [Unang Kilig](https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 3:37 | 2026-03-24 | 2026-04-08 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-04 | 2022-06-28 |
-| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-05-09 |  |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-05-09 | 2026-05-19 |
 | [Walang Aminan](https://open.spotify.com/track/17fq6LtVwn5AvyAkVZZL4z) | [huhsmile](https://open.spotify.com/artist/66jyWeUhy75IiWKCvAakuA) | [Walang Aminan](https://open.spotify.com/album/2vJjKU0dCcpILifHOCfTq9) | 2:34 | 2022-04-04 | 2022-06-17 |
 | [Walang Makakapigil](https://open.spotify.com/track/6oRmtR7rTj2Q1iBUznWAC6) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Walang Makakapigil](https://open.spotify.com/album/5Z0VcH5lbFKdi5YXISNa2u) | 3:09 | 2025-11-17 | 2025-12-02 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-06-27 | 2025-11-11 |

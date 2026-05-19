@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "easier to stare",
+        "url": "https://open.spotify.com/album/26va7PoLwSz0LOrEC0f0yg"
+      },
+      "artists": [
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "easier to stare",
+      "url": "https://open.spotify.com/track/2x4DdNTxdZBHs0ceMpucXN"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4BM3fZKsal4h6kgU86f1Dl"
       },
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 255852,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/1WNUi5w1tdA7GWE0iEF8iS"
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 147493,
       "name": "How Not To Be",
       "url": "https://open.spotify.com/track/3m4owbJTmJCkX0hex6w2WL"
@@ -3520,6 +3538,24 @@
       "duration_ms": 170241,
       "name": "Human",
       "url": "https://open.spotify.com/track/1ixD29DWr5eSZ1vZROT40I"
+    },
+    {
+      "album": {
+        "name": "Human Beings",
+        "url": "https://open.spotify.com/album/5V6sYT9FMHeFQQGqheyz8p"
+      },
+      "artists": [
+        {
+          "name": "Mark Wilkinson",
+          "url": "https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Human Beings",
+      "url": "https://open.spotify.com/track/107icQkNcqwZ7D8k9JNjGM"
     },
     {
       "album": {
@@ -6338,6 +6374,24 @@
       "duration_ms": 209035,
       "name": "Smokescreen (Shadow King)",
       "url": "https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/1I7eDiRLvNzAWqgMl1Wux3"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "Solitaire (for Madi)",
+      "url": "https://open.spotify.com/track/4ctqa7c5W5pUzfSWa9vAAN"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: shinyhunt\. Artwork: Emelie Trahan
+> The best new music by independent artists in the Nordics\. Cover: Emelie Trahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,590 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,592 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Pretty / Greyzone](https://open.spotify.com/track/1OwumzwpC9859CLBQBBO6L) | [MYKKE](https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX) | [Pretty / Greyzone](https://open.spotify.com/album/4Ku04bwxs2wmsSul2MbmQL) | 3:19 |
 | 50 | [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 |
 
-Snapshot ID: `AAAAAHtSI6QP+1+x9M2qG4+TsEGpX9q8`
+Snapshot ID: `AAAAADDSQEv8jQmRz/l1uNwMB223HHwX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > These are some of Cat Clyde's favourite songs by Indigenous artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,965 likes - 29 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,963 likes - 29 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 28 | [War Cry](https://open.spotify.com/track/5qCAJzQ1tqpEPd9FMKAyqv) | [Xit](https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC) | [Plight of the Redman](https://open.spotify.com/album/63Um3BFScFfIuxrsjTn1oc) | 2:46 |
 | 29 | [My Love](https://open.spotify.com/track/1pPwsE5d14EzDagRhuS68o) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/3Jmb3wYx7WLoiUGn7WIeZS) | 3:22 |
 
-Snapshot ID: `AAAAAJjUQYOuFgZiCYqMV0fjYh5bBlJg`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

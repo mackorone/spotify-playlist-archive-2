@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,981 likes - 203 songs - 11 hr 53 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,984 likes - 203 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

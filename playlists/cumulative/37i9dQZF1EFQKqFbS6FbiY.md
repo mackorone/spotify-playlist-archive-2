@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-747 songs - 1 day 12 hr 21 min
+748 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/7uWb1cCy8aSF1PKTkp7TOm) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Figurinha de Grupo \(No 12, Ao Vivo\)](https://open.spotify.com/album/2GriTzdSq98tKzbAx97jYR) | 3:06 | 2025-10-26 |  |
 | [Fim de Namoro](https://open.spotify.com/track/3G9DccUI57pY6720LShoHm) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0UAXEHz4IeBjnRJZkw1pvv) | 3:02 | 2025-06-20 |  |
 | [Fim de Namoro](https://open.spotify.com/track/7Bf4OzxpAenrTgsysQ9C8O) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0ITR7DrP86w2VHQeH2v4ew) | 3:02 | 2025-03-23 | 2025-06-12 |
-| [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 | 2023-12-30 |  |
+| [Fim de Papo](https://open.spotify.com/track/55vpkNWLlntrjbW41bpe9d) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo](https://open.spotify.com/album/2LRrg15n5UNb1ihyXpq81T) | 3:20 | 2026-05-18 |  |
+| [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 | 2023-12-30 | 2026-05-19 |
 | [Fim do Mundo](https://open.spotify.com/track/3RCyXg6e78R2V1VBgXBimx) | [Giovany Reis e Fabrício](https://open.spotify.com/artist/6HvD5gXB9Nx3Ha37KWkIjE) | [Giovany Reis e Fabrício](https://open.spotify.com/album/3LihERPbrBByRKFdMEUsnQ) | 2:49 | 2023-12-30 |  |
 | [Finge Que Me Ama](https://open.spotify.com/track/7pcYCsOg0h3BaeqKcKyrav) | [Pedro Henrique & Matheus](https://open.spotify.com/artist/6PidMi09FFXWEisGl4ctyM) | [Finge Que Me Ama \- Single](https://open.spotify.com/album/7yRpVyekS0CJ4tGfvkKvpW) | 2:47 | 2023-12-30 | 2025-07-10 |
 | [Fraca Pra Beber \- Ao Vivo](https://open.spotify.com/track/1cFPtwybrVWSR47Uk4Sq9U) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:28 | 2023-12-30 |  |

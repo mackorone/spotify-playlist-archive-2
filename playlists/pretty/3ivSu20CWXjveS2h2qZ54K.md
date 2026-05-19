@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,884 likes - 96 songs - 5 hr 22 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,886 likes - 97 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 94 | [Traitor \(Roles Reversed\)](https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1) | 3:27 |
 | 95 | [Say Something](https://open.spotify.com/track/54iOtTql1XoQ5lRKqxJcBT) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Say Something](https://open.spotify.com/album/2V1yPRxibRCm7c5DuER57K) | 4:00 |
 | 96 | [Gerbera](https://open.spotify.com/track/4loojPNoobHsqFeW4o8CPk) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Gerbera](https://open.spotify.com/album/6wgDX1Tf8dCT2GHtSXA3fN) | 7:45 |
+| 97 | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l) | 3:18 |
 
-Snapshot ID: `AADeIkAm7Ciznu5F91tR/BQ/h5LWpV4M`
+Snapshot ID: `AADeIzoysF8+CU320LfWk/poMFdU+VC2`

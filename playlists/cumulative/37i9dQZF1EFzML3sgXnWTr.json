@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "SACRO",
+        "url": "https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS"
+      },
+      "artists": [
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        },
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        },
+        {
+          "name": "DELIA",
+          "url": "https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197591,
+      "name": "AL MIO PAESE",
+      "url": "https://open.spotify.com/track/4uDzwzT9vjM6pUnhxmClxK"
+    },
+    {
+      "album": {
         "name": "ALLUCINAZIONE COLLETTIVA",
         "url": "https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se"
       },

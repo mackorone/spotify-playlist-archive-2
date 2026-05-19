@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,966 likes - 230 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,054 likes - 230 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 229 | [Turiya](https://open.spotify.com/track/5XNkokCLFOgQxFN6dFrbfW) | [Jan Garlow](https://open.spotify.com/artist/7ayyfLsqbafl12N6rdELCe) | [Turiya](https://open.spotify.com/album/30AEK7aM2p8QYCo7nmwV3T) | 2:48 |
 | 230 | [Treoir](https://open.spotify.com/track/2Nm0cNfA2WlwhtjoTuCUXz) | [Coileáinn](https://open.spotify.com/artist/5flYFtyT8qgB5GdW7SQsic) | [Treoir](https://open.spotify.com/album/5raVxtbQ5WXPwz2PibK7Y4) | 2:33 |
 
-Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`
+Snapshot ID: `AAAAAIRAmngugnvd70YBHxMFDV7ilAgF`

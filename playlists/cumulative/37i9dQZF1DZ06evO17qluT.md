@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-166 songs - 10 hr 30 min
+167 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 | 2023-09-18 | 2025-11-28 |
 | [Se eu não lembrar](https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV) | 3:57 | 2025-11-28 |  |
 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 | 2025-12-18 |  |
+| [se joga](https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 4:05 | 2026-05-19 |  |
 | [Segundo Andar](https://open.spotify.com/track/1yCRKdKQzfT0Yc8bQU35OF) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh) | 3:54 | 2023-09-18 | 2023-12-19 |
 | [Sem os Verme Pra Secar](https://open.spotify.com/track/1ONugqqe4UTv82uA2dGkMA) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 3:00 | 2024-03-26 | 2024-03-29 |
 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 | 2024-05-26 | 2025-11-20 |

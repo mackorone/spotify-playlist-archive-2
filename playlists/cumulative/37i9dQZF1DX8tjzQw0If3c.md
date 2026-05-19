@@ -2,7 +2,7 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: J308
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
 
 315 songs - 17 hr 10 min
 

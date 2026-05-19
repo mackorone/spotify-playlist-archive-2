@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132698,
+  "num_followers": 132696,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAQx0bzygVqYZVMrP2Q1W6b",
+  "snapshot_id": "agkFAAAAAADSBTHNP9FoVQxznXjR1P67",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "Aceito o Teu Chamado",
-      "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 483498,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 265032,
+      "name": "Aceito o Teu Chamado",
+      "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
     },
     {
       "added_at": null,

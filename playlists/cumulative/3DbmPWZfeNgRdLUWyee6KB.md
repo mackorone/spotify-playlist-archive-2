@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,062 songs - 2 day 14 hr 12 min
+1,065 songs - 2 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 | 2025-12-23 | 2026-01-24 |
 | [Ein Süßer Engel](https://open.spotify.com/track/2304rhSB5b5tAhhZiFvDra) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Ein Süßer Engel](https://open.spotify.com/album/2Hf27cuq6NKu1lVQwUlA4o) | 3:18 | 2026-04-21 |  |
 | [El Líder de la Resistencia](https://open.spotify.com/track/0kkhyeTVPkvivVkibJ2Y4e) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [El Líder de la Resistencia](https://open.spotify.com/album/3XclqzGpAiDblQgp2S8H5y) | 3:44 | 2026-01-02 | 2026-02-03 |
+| [Empoderiega \(Bestia Y Bella\)](https://open.spotify.com/track/5V9v5Dr2fLncmy6vg4f2rl) | [Hadas sin Alas](https://open.spotify.com/artist/7Gw4rewg7A9puzrVESmffc) | [Empoderiega \(Bestia Y Bella\)](https://open.spotify.com/album/4Q8c2R2bU3v47JiF0a6lv7) | 3:05 | 2026-05-18 |  |
 | [EN ESPERA / ART003](https://open.spotify.com/track/5RuWAYiWD1rxxK5kSXWgWf) | [Ąries](https://open.spotify.com/artist/7q8PpFvy4KQSDU0vdvRU8m) | [EN ESPERA / ART003](https://open.spotify.com/album/5m48WmmY85NOCvcvTWykjB) | 2:13 | 2026-02-16 | 2026-03-15 |
 | [En ti](https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 4:11 | 2026-03-08 | 2026-04-12 |
 | [En ti](https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [En ti](https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA) | 4:11 | 2025-11-24 | 2026-01-05 |
@@ -418,6 +419,7 @@
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 | 2026-02-28 |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
 | [In the Rain](https://open.spotify.com/track/2UxTpgqN3i6IRuJCNEnBWZ) | [Tyell](https://open.spotify.com/artist/3vn1K9sRLk08d2DV2A6Y2B) | [In the Rain](https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K) | 4:26 | 2026-02-24 | 2026-03-25 |
+| [In The Sunlight](https://open.spotify.com/track/4jYaU3mgWePgJI5zmPJZ7c) | [Orla Monelle](https://open.spotify.com/artist/2ZcTiMux6U6EaaBd8nkmWa) | [In The Sunlight](https://open.spotify.com/album/77cbNhYzqMpynHkQfC6l0v) | 2:52 | 2026-05-18 |  |
 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 | 2026-04-02 | 2026-05-03 |
 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 | 2026-03-29 | 2026-05-03 |
 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 | 2026-02-12 | 2026-03-15 |
@@ -489,6 +491,7 @@
 | [Leave Am for God](https://open.spotify.com/track/6Bgzjd17rmYVFEWFJjOBor) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Leave Am for God](https://open.spotify.com/album/0minRiEpEzErTfC28mfINM) | 3:06 | 2026-01-20 | 2026-02-20 |
 | [Leave the light on](https://open.spotify.com/track/3wwgk08vxkeSEcjMLQjjjD) | [Tim Lord](https://open.spotify.com/artist/5KJwBUKEaVvztUNDOjv53Z) | [Leave the light on](https://open.spotify.com/album/4ptK4u2Y9MdnrxiTVhPvTM) | 4:17 | 2026-03-05 | 2026-03-25 |
 | [Legacy](https://open.spotify.com/track/7jOPhjdRyBB164fW32Ue6P) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL) | [Legacy](https://open.spotify.com/album/67RNmiKtujZncgztrWJRkv) | 4:13 | 2026-05-02 |  |
+| [Legionnaire Behind The Lines](https://open.spotify.com/track/5LKPv4UUvVYEhyd5eDuQET) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Legionnaire Behind The Lines](https://open.spotify.com/album/5Sj5J7L8tdTGZUamUH2tIj) | 4:15 | 2026-05-18 |  |
 | [Leitmotiv](https://open.spotify.com/track/21xKwv5djzVaB9ztvET6y0) | [Emmett Garam](https://open.spotify.com/artist/3ja43fWPD90vfzhGkm9dLY) | [Leitmotiv](https://open.spotify.com/album/2RHneU6EMRpjjfc6VSxiKA) | 3:12 | 2026-03-13 | 2026-04-12 |
 | [Lemonade](https://open.spotify.com/track/3sXzBXksA3aulhZ9EdVqFZ) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Lemonade](https://open.spotify.com/album/5dWciLknDTztQRTFX3Ixi1) | 2:43 | 2026-03-23 | 2026-04-22 |
 | [Les livres de Marion](https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF) | [Jagas](https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk) | [Les livres de Marion](https://open.spotify.com/album/4ifJdAEsCDjmBpw8h6SNo7) | 3:56 | 2026-01-19 | 2026-02-20 |
@@ -959,7 +962,7 @@
 | [Tu Teri Baatein...](https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o) | [Kundan Agarwalla](https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW) | [Tu Teri Baatein...](https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv) | 3:06 | 2026-04-30 |  |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-02-11 | 2026-03-15 |
 | [Turquoise](https://open.spotify.com/track/2dO2mAcDNcrEMsQEZUoXMm) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Brief](https://open.spotify.com/album/7mEjaLB5Fie1yvtMSJCHK7) | 3:35 | 2026-04-08 | 2026-05-14 |
-| [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 | 2026-02-09 | 2026-04-12 |
+| [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 | 2026-02-09 |  |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 | 2026-02-20 |
 | [Twisters](https://open.spotify.com/track/5mJejnNmyuVyz4ZPRnOFVi) | [RDC Music Cove](https://open.spotify.com/artist/3Oyfp9uC2fdI4kIY1hvAeo) | [Twisters](https://open.spotify.com/album/40L0Ft7mgPOAG3fmwWQwmL) | 4:35 | 2026-03-09 | 2026-04-12 |
 | [Tüm Aşklara](https://open.spotify.com/track/6Sn4TSB7bhoCgqv8Y5xIL7) | [Engin Erg](https://open.spotify.com/artist/38iOgsod2sPlSBLdjUYcu5) | [Tüm Aşklara](https://open.spotify.com/album/44g3O3T5pC0ToiqjJVZ41V) | 3:31 | 2026-03-13 | 2026-04-12 |

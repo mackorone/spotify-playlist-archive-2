@@ -4,7 +4,7 @@
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 44 min
+40 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Hunter](https://open.spotify.com/track/0ALWJPTTsCyhMrXcYolqFO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 4:29 | 2026-05-16 |  |
 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-05-16 |  |
 | [I'm So Sorry](https://open.spotify.com/track/2IaEmjnG62sMzohKJ8D2Es) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 3:48 | 2026-05-16 |  |
-| [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 | 2026-05-16 |  |
+| [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 | 2026-05-16 | 2026-05-19 |
 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 | 2026-05-16 |  |
 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2026-05-16 |  |
 | [Living The Classics](https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:44 | 2026-05-16 |  |
@@ -40,7 +40,8 @@
 | [Titus Groan](https://open.spotify.com/track/4MD3p4I6z0kLqm85Mlyklp) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 | 2026-05-16 |  |
 | [Train on the Island](https://open.spotify.com/track/34HkzjN1ieQeiHKmq1w6cw) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 5:35 | 2026-05-16 |  |
 | [Treasure](https://open.spotify.com/track/1WHoY2uSPpewqUm80q4d68) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:11 | 2026-05-16 |  |
-| [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 | 2026-05-16 |  |
+| [Venus in the Zinnia](https://open.spotify.com/track/0l6WmPHX45TGQTKyQ3nATI) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:17 | 2026-05-19 |  |
+| [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 | 2026-05-16 | 2026-05-19 |
 | [Warm Chris](https://open.spotify.com/track/0iEt07AuGxka9WpxOdyYsP) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:46 | 2026-05-16 |  |
 | [Weight of the Planets](https://open.spotify.com/track/1l5sITewMRl7AVtep3M3XO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:43 | 2026-05-16 |  |
 | [What Am I Gonna Do?](https://open.spotify.com/track/0zjJ6PEvlySewSEuXYTWJc) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:44 | 2026-05-16 |  |

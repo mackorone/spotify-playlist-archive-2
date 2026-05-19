@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,313 likes - 112 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,307 likes - 112 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunnanvind](https://open.spotify.com/track/4lBiRh68gJguY2GInzXb6I) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sunnanvind](https://open.spotify.com/album/2fYINDjJ1eX5g4GFACpyd2) | 2:13 |
-| 2 | [Barbie](https://open.spotify.com/track/5HQRWczU0yknvThOfFfRC2) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Barbie](https://open.spotify.com/album/3qXCJqTzQdr7LqbO2oE6sP) | 1:39 |
-| 3 | [Norge skal til VM](https://open.spotify.com/track/6ne5zNCWqsD4v3J9xEcYWz) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Norge skal til VM](https://open.spotify.com/album/4zzMlmA5wu8WlyT9f1nRgI) | 2:24 |
-| 4 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
+| 1 | [Barbie](https://open.spotify.com/track/5HQRWczU0yknvThOfFfRC2) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Barbie](https://open.spotify.com/album/3qXCJqTzQdr7LqbO2oE6sP) | 1:39 |
+| 2 | [Sunnanvind](https://open.spotify.com/track/4lBiRh68gJguY2GInzXb6I) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sunnanvind](https://open.spotify.com/album/2fYINDjJ1eX5g4GFACpyd2) | 2:13 |
+| 3 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
+| 4 | [Norge skal til VM](https://open.spotify.com/track/6ne5zNCWqsD4v3J9xEcYWz) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Norge skal til VM](https://open.spotify.com/album/4zzMlmA5wu8WlyT9f1nRgI) | 2:24 |
 | 5 | [BUBBEL FANTA & ROSÉ](https://open.spotify.com/track/01lGCI1ZGJcIApubACRMiS) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BUBBEL FANTA & ROSÉ](https://open.spotify.com/album/3hShyEDLCAVLnr5e6X9odE) | 2:11 |
-| 6 | [Mr\. Junkie](https://open.spotify.com/track/0nPnZ3TziobKlxyXu44Ux4) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [S&R Party Pack](https://open.spotify.com/album/6kvJRuijAL7nqnA3McEZnk) | 2:15 |
-| 7 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
-| 8 | [Ingen annan rör mig som du](https://open.spotify.com/track/2g3JH1Ms2esXmXXPg3R7bl) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH), [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [Ingen annan rör mig som du](https://open.spotify.com/album/3MGIskQdNoxtw6wljVzlBo) | 2:05 |
-| 9 | [JIGGY](https://open.spotify.com/track/4xD69C3ikfS93BRnFI6V3s) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Y2K](https://open.spotify.com/artist/1rIHiWJNWxRES9XM09uBfm) | [JIGGY](https://open.spotify.com/album/0Khh1IS7m5yEyOGddsz7vk) | 2:29 |
-| 10 | [ALLT JAG VILL HA](https://open.spotify.com/track/5SQnjFE3jfSrmGMbwG16Xw) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [ALLT JAG VILL HA](https://open.spotify.com/album/3PMhwzU8vxTJkQNcPSAcai) | 2:11 |
-| 11 | [Hela världen sjunger](https://open.spotify.com/track/6ZzZ6u7ue64raIPTwEUbB8) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Hela världen sjunger](https://open.spotify.com/album/1KKfgJfANIUpjgxhMerRJp) | 2:59 |
-| 12 | [På en tur \(Eller hur?\)](https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [På en tur \(Eller hur?\)](https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL) | 1:49 |
+| 6 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
+| 7 | [Ingen annan rör mig som du](https://open.spotify.com/track/2g3JH1Ms2esXmXXPg3R7bl) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH), [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [Ingen annan rör mig som du](https://open.spotify.com/album/3MGIskQdNoxtw6wljVzlBo) | 2:05 |
+| 8 | [JIGGY](https://open.spotify.com/track/4xD69C3ikfS93BRnFI6V3s) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Y2K](https://open.spotify.com/artist/1rIHiWJNWxRES9XM09uBfm) | [JIGGY](https://open.spotify.com/album/0Khh1IS7m5yEyOGddsz7vk) | 2:29 |
+| 9 | [Mr\. Junkie](https://open.spotify.com/track/0nPnZ3TziobKlxyXu44Ux4) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [S&R Party Pack](https://open.spotify.com/album/6kvJRuijAL7nqnA3McEZnk) | 2:15 |
+| 10 | [På en tur \(Eller hur?\)](https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [På en tur \(Eller hur?\)](https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL) | 1:49 |
+| 11 | [ALLT JAG VILL HA](https://open.spotify.com/track/5SQnjFE3jfSrmGMbwG16Xw) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [ALLT JAG VILL HA](https://open.spotify.com/album/3PMhwzU8vxTJkQNcPSAcai) | 2:11 |
+| 12 | [Hela världen sjunger](https://open.spotify.com/track/6ZzZ6u7ue64raIPTwEUbB8) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Hela världen sjunger](https://open.spotify.com/album/1KKfgJfANIUpjgxhMerRJp) | 2:59 |
 | 13 | [Sista Pöket Med Gänget](https://open.spotify.com/track/3w3fqdQrxTOuDfDjk5ugSE) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Sista Pöket Med Gänget](https://open.spotify.com/album/4wAs2cOvlh3NClBnqNIbqd) | 3:24 |
 | 14 | [Rakt in i elden \(Mr DUNK Remix\)](https://open.spotify.com/track/7FNowpL1T7lxPVHyuvsyn2) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [Rakt in i elden \(Mr DUNK Remix\)](https://open.spotify.com/album/170ov8LL7adXSbkvV40lw3) | 2:36 |
 | 15 | [EN ÖL BLEV TILL FEM](https://open.spotify.com/track/0w38yV4brbnWp5gllJo528) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EN ÖL BLEV TILL FEM](https://open.spotify.com/album/0rlmdJ9xSwYRwyjOLBWdwH) | 1:48 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 111 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 112 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAAJ7OM7u2V2vFlS4QTwL8WDTjkZTf`
+Snapshot ID: `AAAAAGmXxc7l2tf9DT5JGThmmiIwEnPW`

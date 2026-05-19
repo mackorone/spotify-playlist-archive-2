@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Igor ",
-  "num_followers": 1984,
+  "num_followers": 1985,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Half As Cool",
-        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
-      },
-      "artists": [
-        {
-          "name": "SUUS",
-          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "Half As Cool",
-      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Retromance",
         "url": "https://open.spotify.com/album/7xH89SNP041Yxp0vJDwPla"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 161325,
       "name": "Turn You On!",
       "url": "https://open.spotify.com/track/2rkFcQhAtNFlSSezIWCWjz"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Half As Cool",
+        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
+      },
+      "artists": [
+        {
+          "name": "SUUS",
+          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
+        }
+      ],
+      "duration_ms": 163147,
+      "name": "Half As Cool",
+      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "Klemme",
+        "url": "https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "duration_ms": 136041,
+      "name": "Klemme",
+      "url": "https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "On This Lonely Day",
         "url": "https://open.spotify.com/album/3isk75FHFtqwnh1Of3XIh5"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 143061,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Klemme",
-        "url": "https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv"
-      },
-      "artists": [
-        {
-          "name": "De Plaag",
-          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
-        }
-      ],
-      "duration_ms": 136041,
-      "name": "Klemme",
-      "url": "https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Hoofd In De Wolken",
-        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
-      },
-      "artists": [
-        {
-          "name": "Mees",
-          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Hoofd In De Wolken",
-      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Snelle Planga",
         "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 307414,
       "name": "Snelle Planga",
       "url": "https://open.spotify.com/track/5lyCknaiX131J9SFbgLEGB"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Hoofd In De Wolken",
+        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
+      },
+      "artists": [
+        {
+          "name": "Mees",
+          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Hoofd In De Wolken",
+      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+      },
+      "artists": [
+        {
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+        }
+      ],
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "TWISTED",
         "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 253292,
       "name": "This Change Is Bigger Than Us",
       "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
-      },
-      "artists": [
-        {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "WAS DIT ALLES?",
-        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
-      },
-      "artists": [
-        {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "WAS DIT ALLES?",
-      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "kom is dromen",
         "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
       },
@@ -931,34 +915,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+        "name": "WAS DIT ALLES?",
+        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
       "artists": [
         {
-          "name": "Wilson A.",
-          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
         }
       ],
-      "duration_ms": 191945,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+      "duration_ms": 132681,
+      "name": "WAS DIT ALLES?",
+      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -975,6 +943,22 @@
       "duration_ms": 235789,
       "name": "ZO MOE",
       "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+      },
+      "artists": [
+        {
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "deadbeat (how long)",
-        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
       },
       "artists": [
         {
-          "name": "crashing",
-          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
         }
       ],
-      "duration_ms": 240233,
-      "name": "deadbeat (how long)",
-      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1039,6 +1023,22 @@
       "duration_ms": 310015,
       "name": "Agony",
       "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "deadbeat (how long)",
+        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
+      },
+      "artists": [
+        {
+          "name": "crashing",
+          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "deadbeat (how long)",
+      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Make A Wish",
-        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
-      },
-      "artists": [
-        {
-          "name": "SWANSLAUGHTER",
-          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
-        }
-      ],
-      "duration_ms": 114260,
-      "name": "Nothing Means Anything",
-      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Comfort on its Knees",
         "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 288952,
       "name": "Brother Please",
       "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
+      },
+      "artists": [
+        {
+          "name": "SWANSLAUGHTER",
+          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
+        }
+      ],
+      "duration_ms": 114260,
+      "name": "Nothing Means Anything",
+      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Chocolade Zeester en de Knakworst Smakende Water",
-        "url": "https://open.spotify.com/album/2ufO1kjARIxFxBVulaiG8a"
-      },
-      "artists": [
-        {
-          "name": "Combi Magnetron",
-          "url": "https://open.spotify.com/artist/0F6z6w0mYSyh0f1KVvHaw7"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Vakantie Park, Center Parks",
-      "url": "https://open.spotify.com/track/6p5OmjnqqoTqa81WVwJvJt"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Vallen",
         "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Chocolade Zeester en de Knakworst Smakende Water",
+        "url": "https://open.spotify.com/album/2ufO1kjARIxFxBVulaiG8a"
+      },
+      "artists": [
+        {
+          "name": "Combi Magnetron",
+          "url": "https://open.spotify.com/artist/0F6z6w0mYSyh0f1KVvHaw7"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Vakantie Park, Center Parks",
+      "url": "https://open.spotify.com/track/6p5OmjnqqoTqa81WVwJvJt"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "fight 'n kill",
-        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
-      },
-      "artists": [
-        {
-          "name": "Brian Murphy",
-          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
-        }
-      ],
-      "duration_ms": 114674,
-      "name": "fight 'n kill",
-      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "On Top Of The World",
         "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "fight 'n kill",
+        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
+      },
+      "artists": [
+        {
+          "name": "Brian Murphy",
+          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
+        }
+      ],
+      "duration_ms": 114674,
+      "name": "fight 'n kill",
+      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -1415,46 +1415,6 @@
       "duration_ms": 255120,
       "name": "ozempic tears",
       "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Southside II",
-        "url": "https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf"
-      },
-      "artists": [
-        {
-          "name": "Homey",
-          "url": "https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG"
-        },
-        {
-          "name": "DORTA",
-          "url": "https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO"
-        },
-        {
-          "name": "jejokaki",
-          "url": "https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Money up",
-      "url": "https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
-      },
-      "artists": [
-        {
-          "name": "Keely Westwood",
-          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Magnum Opus",
-      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1479,6 +1439,46 @@
       "duration_ms": 199285,
       "name": "CALL",
       "url": "https://open.spotify.com/track/1bsipxUMmK7w0qNC6isiVx"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
+      },
+      "artists": [
+        {
+          "name": "Keely Westwood",
+          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Magnum Opus",
+      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Southside II",
+        "url": "https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf"
+      },
+      "artists": [
+        {
+          "name": "Homey",
+          "url": "https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG"
+        },
+        {
+          "name": "DORTA",
+          "url": "https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO"
+        },
+        {
+          "name": "jejokaki",
+          "url": "https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Money up",
+      "url": "https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt"
     },
     {
       "added_at": "2026-05-15 13:17:51",

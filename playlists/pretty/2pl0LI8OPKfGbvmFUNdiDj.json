@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 840,
+  "num_followers": 842,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADqptaMBRsrWVfvf9Ps10YA44p5W/9",
+  "snapshot_id": "AAADrLpHdsCIQhhYVf5QOr2J+cS8vGmG",
   "tracks": [
     {
       "added_at": "2026-05-09 15:40:27",
@@ -1763,6 +1763,42 @@
       "duration_ms": 204365,
       "name": "Break These Chains",
       "url": "https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL"
+    },
+    {
+      "added_at": "2026-05-18 11:50:01",
+      "album": {
+        "name": "Dynamic Duo",
+        "url": "https://open.spotify.com/album/6nOGlj4jJuBtMQ20efy67X"
+      },
+      "artists": [
+        {
+          "name": "B-Twizzle",
+          "url": "https://open.spotify.com/artist/3uKNLT61D9AATiT2kWNNXd"
+        },
+        {
+          "name": "Jordi",
+          "url": "https://open.spotify.com/artist/7fCmeytT5tCbU6xmMWYrlC"
+        }
+      ],
+      "duration_ms": 290439,
+      "name": "Three Peat Freestyle",
+      "url": "https://open.spotify.com/track/57wRi8aHGFUaHLfR9H24A0"
+    },
+    {
+      "added_at": "2026-05-18 20:10:23",
+      "album": {
+        "name": "Super Nova",
+        "url": "https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq"
+      },
+      "artists": [
+        {
+          "name": "CallMeWhoElse",
+          "url": "https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Super Nova",
+      "url": "https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

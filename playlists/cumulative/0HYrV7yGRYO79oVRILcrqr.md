@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-504 songs - 1 day 7 hr 20 min
+506 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A long road](https://open.spotify.com/track/6ObvonMRMfLmq8zMrNr1JJ) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [A long road](https://open.spotify.com/album/5M65i3FVZWLclVqrIIvX9w) | 3:08 | 2026-04-08 | 2026-04-21 |
 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 | 2026-04-20 |  |
 | [A Need For Speed](https://open.spotify.com/track/7fjXIJeA3gxuZVJuGQT5Vs) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44), [Martin Engelien](https://open.spotify.com/artist/1dQhTNS8uFmj2GfDCHQ7Iq), [Ben Granfelt](https://open.spotify.com/artist/43cECndNaXkIuR3VnHss5e) | [A Need For Speed](https://open.spotify.com/album/5y32mI5YjygYOgCtHiVuGQ) | 3:30 | 2025-09-22 | 2025-12-17 |
+| [A Perfect Lie](https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [A Perfect Lie](https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc) | 3:40 | 2026-05-18 |  |
 | [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 | 2026-04-21 |
 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 | 2025-12-17 |
 | [A Wall of Amber](https://open.spotify.com/track/0zvjfyctKZS4ovfyuM3ElL) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 4:17 | 2026-04-03 | 2026-04-21 |
@@ -228,6 +229,7 @@
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-02-24 | 2026-03-18 |
 | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/track/2chbWtPLRCTU9GJhJ2rdjt) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/album/6JovZkHHw7EOlmaYv1gw8E) | 2:28 | 2025-09-22 | 2025-12-17 |
 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 | 2026-04-01 | 2026-04-21 |
+| [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 | 2026-05-18 |  |
 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 | 2025-12-16 | 2026-04-21 |
 | [Juge Intérieur](https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Juge Intérieur](https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm) | 3:18 | 2026-04-30 |  |
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |

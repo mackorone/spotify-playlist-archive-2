@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-297 songs - 18 hr 44 min
+298 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A heart in amber](https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [A heart in amber](https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf) | 3:49 | 2025-09-17 |  |
 | [A High Romance](https://open.spotify.com/track/3vmReLMuSqDLBLtMQqIVSh) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [A High Romance](https://open.spotify.com/album/68u4avv9rtgtmSXFCjpQOp) | 3:15 | 2025-09-17 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2022-11-11 | 2025-11-11 |
+| [A pequena música](https://open.spotify.com/track/4A5PStIm58qTUAhJZbGWEE) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [A pequena música](https://open.spotify.com/album/5IQVpYhoM7diLUUeqCYEPc) | 3:15 | 2026-05-08 |  |
 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 | 2022-05-13 | 2022-07-29 |
 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/5BIsNWsHDfCeU8dYexiCsQ) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [10 Anos De Toquinho Vinicius](https://open.spotify.com/album/6AP1sDqKGb05wqpDtwJt39) | 1:00 | 2022-06-28 | 2024-04-19 |
 | [Above the Clouds](https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:00 | 2023-08-24 | 2026-04-25 |
@@ -29,7 +30,7 @@
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-05-13 | 2025-04-26 |
 | [As Asas De Uma Borboleta](https://open.spotify.com/track/2BFQyNo5voPcHcSeb9XEdg) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [As Asas De Uma Borboleta](https://open.spotify.com/album/2qfq1FGinvjAJFpmmkMMJO) | 3:30 | 2025-05-09 | 2025-06-13 |
 | [As Irrational As Love](https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [As Irrational As Love](https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v) | 3:44 | 2024-01-17 |  |
-| [Astra](https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Astra](https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM) | 4:23 | 2024-11-05 |  |
+| [Astra](https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Astra](https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM) | 4:23 | 2024-11-05 | 2026-05-19 |
 | [Baubles, Bangles and Beads](https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 5:00 | 2022-05-13 |  |
 | [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 | 2022-06-28 | 2024-01-01 |
 | [Beatriz](https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ) | [The Cloud](https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9) | [Beatriz](https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW) | 3:47 | 2024-03-08 | 2025-11-11 |

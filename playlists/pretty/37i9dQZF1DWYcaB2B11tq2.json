@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 511339,
+  "num_followers": 511463,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 251429,
-      "name": "S\u00e9 fuerte",
-      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "De Vuelta al Jardin",
         "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 251429,
+      "name": "S\u00e9 fuerte",
+      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Mesias (Live)",
         "url": "https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 743333,
       "name": "Mesias - Live",
       "url": "https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 287268,
-      "name": "Eres Mi Dueno",
-      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "S\u00edgueme",
         "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 333360,
       "name": "Yo Confio",
       "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 287268,
+      "name": "Eres Mi Dueno",
+      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "ResplanDC",
+        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
+      },
+      "artists": [
+        {
+          "name": "Visi\u00f3n Juvenil",
+          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 408026,
+      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
+      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Si Tu Presencia Conmigo No Va",
         "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
       },
@@ -1491,6 +1511,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 645440,
+      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
+      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Todos Mis Mejores Amigos",
         "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
       },
@@ -1511,22 +1547,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 645440,
-      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
-      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Santo es el que Vive",
         "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 634551,
       "name": "Santo es el que Vive",
       "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "ResplanDC",
-        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
-      },
-      "artists": [
-        {
-          "name": "Visi\u00f3n Juvenil",
-          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 408026,
-      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
-      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "La Sunamita",
         "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 773909,
       "name": "La Sunamita",
       "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Ganas de Vivir",
         "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 237146,
       "name": "Ganas de Vivir",
       "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",

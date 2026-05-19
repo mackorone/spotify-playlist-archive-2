@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 16926,
+  "num_followers": 16950,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sensitive",
-        "url": "https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "japan",
         "url": "https://open.spotify.com/album/3iSywA8P9iVyMCDxAWYxaZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 174935,
       "name": "japan",
       "url": "https://open.spotify.com/track/0H7Wdgn1C7vFy4z0o2kBUZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+        "name": "S\u1ed0 KH\u00d4NG",
+        "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "14 Casper",
+          "url": "https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p"
+        },
+        {
+          "name": "Bon Nghi\u00eam",
+          "url": "https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY"
         }
       ],
-      "duration_ms": 198009,
-      "name": "zarcillos de plata",
-      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
+      "duration_ms": 300000,
+      "name": "bao ti\u1ec1n m\u1ed9t m\u1edb b\u00ecnh y\u00ean?",
+      "url": "https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "S\u1ed0 KH\u00d4NG",
-        "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
       "artists": [
         {
-          "name": "14 Casper",
-          "url": "https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p"
-        },
-        {
-          "name": "Bon Nghi\u00eam",
-          "url": "https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 300000,
-      "name": "bao ti\u1ec1n m\u1ed9t m\u1edb b\u00ecnh y\u00ean?",
-      "url": "https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT"
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
         "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 158466,
       "name": "Flight of the Crows",
       "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 179500,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2319,18 +2319,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Koszulka",
-        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
       },
       "artists": [
         {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 252226,
-      "name": "Koszulka",
-      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
       },
       "artists": [
         {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 97826,
-      "name": "EXCITED!",
-      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Ditch",
         "url": "https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 210233,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 97826,
+      "name": "EXCITED!",
+      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

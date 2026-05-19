@@ -2,9 +2,9 @@
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You have loved, you have lost, and you survived with your headphones on.
+> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
-324 songs - 21 hr 26 min
+325 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Njiwa](https://open.spotify.com/track/25JonxVTCZOIul9uyv3ff6) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Njiwa](https://open.spotify.com/album/68mKgdafZqoom8qgiRBQLa) | 4:18 | 2022-02-10 | 2022-08-18 |
 | [Njiwa](https://open.spotify.com/track/2EaPDgAYxbEkw33GX5AESW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Njiwa](https://open.spotify.com/album/6B9hBHl7Judrz0Yh32oO90) | 4:18 | 2022-02-10 | 2024-02-14 |
 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 | 2024-02-13 | 2026-02-13 |
-| [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2026-02-12 |  |
+| [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2026-02-12 | 2026-05-19 |
 | [No One Like you](https://open.spotify.com/track/1a8VtknxUYMzMwt8SVZzcl) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best Of P\-Square](https://open.spotify.com/album/0uitWrCPJsDq51dOpelNcy) | 4:30 | 2022-02-10 | 2022-11-13 |
 | [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 | 2022-02-10 | 2024-02-14 |
 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 | 2024-02-13 | 2026-02-13 |
@@ -296,6 +296,7 @@
 | [The One](https://open.spotify.com/track/3nQoMGK9Cv6ABozLip2Oil) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [The One](https://open.spotify.com/album/0InFdZUdzlI24qAMSMadqo) | 3:43 | 2024-02-13 | 2024-04-19 |
 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 | 2022-02-10 | 2026-02-13 |
 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 | 2022-02-10 | 2024-02-14 |
+| [Tonight](https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Tonight](https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms) | 3:57 | 2026-02-12 |  |
 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 | 2026-02-12 |  |
 | [Trouble Maker](https://open.spotify.com/track/7K9wl9YIk1nCnTKNE1K3ta) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:35 | 2026-02-12 |  |
 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 | 2022-02-10 | 2025-02-12 |

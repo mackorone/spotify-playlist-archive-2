@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10389,
+  "num_followers": 10391,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAC3PxMqWUG3V28coqA9a1tM",
+  "snapshot_id": "agkFAAAAAACq9UBv4GuK6bExZIRZ/WN3",
   "tracks": [
     {
       "added_at": null,
@@ -219,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Tus Ojos",
+        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 181002,
-      "name": "Nada Contigo-La Banqueta",
-      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
+      "duration_ms": 140936,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
     },
     {
       "added_at": null,
@@ -251,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tus Ojos",
-        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 140936,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
+      "duration_ms": 181002,
+      "name": "Nada Contigo-La Banqueta",
+      "url": "https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Cajita De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alejate de Mi",
         "url": "https://open.spotify.com/album/6oVHqIdCIvsp2lG77O3cRN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 178863,
       "name": "Alejate de Mi",
       "url": "https://open.spotify.com/track/0IUOHEG3OdCNDOctgDUlbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Cajita De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 211017,
-      "name": "Esta Tristeza Mia",
-      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asomate a Mi Alma",
         "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 174419,
       "name": "Te Pido y Te Ruego",
       "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 211017,
+      "name": "Esta Tristeza Mia",
+      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion, Vol. 2",
-        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Amor de Ayer",
-      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Son Pasiones",
         "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215405,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoros de Coleccion, Vol. 2",
+        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Amor de Ayer",
+      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,

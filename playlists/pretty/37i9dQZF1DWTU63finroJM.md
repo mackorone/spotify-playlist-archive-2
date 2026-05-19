@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,564 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,573 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 7 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
 | 8 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 9 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 10 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
-| 11 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
+| 10 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
+| 11 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
 | 12 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 13 | [Vekhi Jaava](https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [Vekhi Jaava](https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21) | 2:01 |
 | 14 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 20 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 |
 | 21 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
 | 22 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
-| 23 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
-| 24 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
+| 23 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
+| 24 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
 | 25 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 26 | [Cowboy Mouth](https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Cowboy Mouth](https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL) | 3:29 |
 | 27 | [夏夕夏景](https://open.spotify.com/track/5kwmL31ZEZBu4stW6WKG6W) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [夏夕夏景](https://open.spotify.com/album/3OpwHtAUbWjZuyjO4lZ0HQ) | 2:30 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 31 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
 | 32 | [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 |
 | 33 | [Pink Bape Lighter](https://open.spotify.com/track/2lbkDitLQPRbsA60vkwzMA) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/40Yge9bScgv155F1FmE68B) | 2:40 |
-| 34 | [La Movida](https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [La Movida](https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC) | 2:40 |
-| 35 | [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 |
-| 36 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
-| 37 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
+| 34 | [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 |
+| 35 | [La Movida](https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [La Movida](https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC) | 2:40 |
+| 36 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
+| 37 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
 | 38 | [Inocente na Cama \- Ao Vivo](https://open.spotify.com/track/55ND5a95XGfsTl1zM3c4BU) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:41 |
 | 39 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
 

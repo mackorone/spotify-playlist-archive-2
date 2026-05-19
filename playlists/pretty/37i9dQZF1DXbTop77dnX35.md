@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN & Sarz, Johnny Drille,  Famous Pluto,  Kunmie, Didi B, Jorja Smith and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,831 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,926 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 51 | [Faut me bouai](https://open.spotify.com/track/0ZM6zGZ3oUnhSEE41qyDaz) | [JM on the Track](https://open.spotify.com/artist/2rB3BVa7a4mvsQ3RCETMXm), [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1) | [Faut me bouai](https://open.spotify.com/album/5fWBLGuGLD35TM6KTH8Vaw) | 2:50 |
 | 52 | [TRAVAILLER](https://open.spotify.com/track/18iQA40Yy0wn88hw67KDOj) | [Joe Kingston](https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc) | [TRAVAILLER](https://open.spotify.com/album/2bWk7vZ83cnttM1cJzVvkJ) | 2:19 |
 
-Snapshot ID: `AAAAADzcSa+Z+rCCczYDb8387hm2gsfl`
+Snapshot ID: `AAAAAOvyJJ9pi1l9TPfup+wdoFfkG4jH`

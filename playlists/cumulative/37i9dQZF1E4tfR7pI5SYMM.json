@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 426000,
       "name": "Awakening The Spirit",
       "url": "https://open.spotify.com/track/1KSWFpQGDCXYzLCTjlnt8e"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4794,7 +4794,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -4870,7 +4870,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -5137,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "Feed",
+        "url": "https://open.spotify.com/album/7LnObuB8XQDT4jBCU1jTvT"
+      },
+      "artists": [
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319470,
+      "name": "LEO",
+      "url": "https://open.spotify.com/track/3nMQp2nHM7ZMosqKEc2oda"
+    },
+    {
+      "album": {
         "name": "Ekt\u00f6ristan",
         "url": "https://open.spotify.com/album/4rtXKVm2WbiY3KcG3GZW24"
       },
@@ -5260,7 +5278,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5506,7 +5524,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -6989,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Ragnarok Dawn",
+        "url": "https://open.spotify.com/album/1qNj9zcDHmjqCugnjKSn7H"
+      },
+      "artists": [
+        {
+          "name": "Myron Vex",
+          "url": "https://open.spotify.com/artist/6Jk19qB2hQ4Lrc2nEuYVls"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285687,
+      "name": "Odin's Ravens",
+      "url": "https://open.spotify.com/track/5BGSLOQI3b91Z77z14Y2Re"
+    },
+    {
+      "album": {
         "name": "Apofenia",
         "url": "https://open.spotify.com/album/54AqDEVCZNNlXSZj9RVMjj"
       },
@@ -8368,7 +8404,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -8476,7 +8512,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8548,7 +8584,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -9482,7 +9518,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -9962,7 +9998,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 218000,
       "name": "The Third Son",
       "url": "https://open.spotify.com/track/1FtBT5m5alMadSATu735BJ"
@@ -10726,7 +10762,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -10960,7 +10996,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -11794,7 +11830,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 318179,
       "name": "Your Skin on Mine",
       "url": "https://open.spotify.com/track/7xXZJZh5GJy3m0TiJpQvrw"
@@ -12084,6 +12120,24 @@
       "duration_ms": 243428,
       "name": "\u0422\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/5lpHBpxEjbM9HV4fOvRZa1"
+    },
+    {
+      "album": {
+        "name": "\u0428\u043f\u0438\u043e\u043d",
+        "url": "https://open.spotify.com/album/5dcEWEijx3dBSbqtufGIy6"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0420\u041e\u041c\u042b\u041a\u0410",
+          "url": "https://open.spotify.com/artist/1Bxw9xQEPLOjGh6y1lmHjI"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247011,
+      "name": "\u0428\u043f\u0438\u043e\u043d",
+      "url": "https://open.spotify.com/track/61vRefWDirGGrAk4YnTDFs"
     },
     {
       "album": {

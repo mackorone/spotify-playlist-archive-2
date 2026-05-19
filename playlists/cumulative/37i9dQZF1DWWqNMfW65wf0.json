@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 147158,
       "name": "Cesula",
       "url": "https://open.spotify.com/track/4B5el6QHxMK4mjiA8QDvLh"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 204000,
       "name": "Dhyana",
       "url": "https://open.spotify.com/track/3I5B7L5H1y6i8LsXBYuQvQ"
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/1ylUoet7xjKr1JRGYih4Fs"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/74CtYa2TgYQQ8YZWj88ZbU"
+    },
+    {
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/27qSG3KXFQyhIf1SWRHa8W"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 207146,
       "name": "Endless",
       "url": "https://open.spotify.com/track/3QWLpgthWnpPgfGkF08SWk"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 136488,
       "name": "Evening Stars",
       "url": "https://open.spotify.com/track/6geMaeSsCLqQfjsQ4crgje"
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 118833,
       "name": "fading focus",
       "url": "https://open.spotify.com/track/2FJpjltxybMUrtVlrf8dcQ"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 178000,
       "name": "fleeting moments",
       "url": "https://open.spotify.com/track/3UgcBjp1Rnis5JPmB5jRer"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 126312,
       "name": "Ghostlights",
       "url": "https://open.spotify.com/track/3puy4YP7nAQzsEBLbKH4Yn"
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 175665,
       "name": "Golden Horizon",
       "url": "https://open.spotify.com/track/0SlVNliuqyeuTxdd7P54Y8"
@@ -2186,10 +2204,46 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 145800,
       "name": "Hygga",
       "url": "https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e"
+    },
+    {
+      "album": {
+        "name": "i left you in a dream",
+        "url": "https://open.spotify.com/album/1anAyoGm1JUk4fDTpBGRJP"
+      },
+      "artists": [
+        {
+          "name": "Eternal Bleu",
+          "url": "https://open.spotify.com/artist/0cZLmENRNZeRma3Oc4gCeK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96562,
+      "name": "i left you in a dream",
+      "url": "https://open.spotify.com/track/0fjAws8QLDE64EF8X4ng38"
+    },
+    {
+      "album": {
+        "name": "i left you in a dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/5dGVpWY6tBxpiqoLwg2pQJ"
+      },
+      "artists": [
+        {
+          "name": "Eternal Bleu",
+          "url": "https://open.spotify.com/artist/0cZLmENRNZeRma3Oc4gCeK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117045,
+      "name": "i left you in a dream (slowed + reverb)",
+      "url": "https://open.spotify.com/track/2WBg2Lxz2XlkjWuCVvUZ6p"
     },
     {
       "album": {
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 128000,
       "name": "I lost you again",
       "url": "https://open.spotify.com/track/5Fl9kXSyKexBmduiDRpsBq"
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 179895,
       "name": "in fields",
       "url": "https://open.spotify.com/track/77Ff622n4YLziBnmnsgLel"
@@ -2337,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Inner Cycle Resonance",
+        "url": "https://open.spotify.com/album/0WkZPeK6w9ahROfZe95Kb3"
+      },
+      "artists": [
+        {
+          "name": "Still Haven",
+          "url": "https://open.spotify.com/artist/1QRxkAxxpNV9vqadac72Zy"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Inner Cycle Resonance",
+      "url": "https://open.spotify.com/track/1BnBwBAh7nTZoVThJLQINH"
+    },
+    {
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/5xtM02c0pbFQgdsEKnKLKA"
       },
@@ -2402,7 +2474,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 184500,
       "name": "Lasting Hope",
       "url": "https://open.spotify.com/track/56ug2Nq4V6Cl8qfOFueDMw"
@@ -2492,7 +2564,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 141379,
       "name": "lit",
       "url": "https://open.spotify.com/track/1vSrVWErL3uPa1pntwaJ7c"
@@ -2568,6 +2640,28 @@
       "duration_ms": 200322,
       "name": "Lunar Tides",
       "url": "https://open.spotify.com/track/66yCeBYojbYqwucauGK4lT"
+    },
+    {
+      "album": {
+        "name": "for hours : 03",
+        "url": "https://open.spotify.com/album/5vv33O3FIEwrfuPfsoVgcy"
+      },
+      "artists": [
+        {
+          "name": "soma sova",
+          "url": "https://open.spotify.com/artist/4e33tYULCAvqPho2GI0lU9"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "lux",
+      "url": "https://open.spotify.com/track/5tyEhLzUajkTFFhO16gr07"
     },
     {
       "album": {
@@ -2918,6 +3012,24 @@
       "duration_ms": 172000,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/4Ix9Eg6Lf1HbQcJU4Upc8R"
+    },
+    {
+      "album": {
+        "name": "nothing to say",
+        "url": "https://open.spotify.com/album/42HHkh4AzrUsTpPTZTCuur"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80447,
+      "name": "nothing to say",
+      "url": "https://open.spotify.com/track/20Fem5hwVq15N3UBzPrj2V"
     },
     {
       "album": {
@@ -3376,7 +3488,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 260351,
       "name": "Rainy Afternoon",
       "url": "https://open.spotify.com/track/0S0IzohIrXjqRSWqIc0TaA"
@@ -3416,7 +3528,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 296000,
       "name": "Ray",
       "url": "https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx"
@@ -3452,7 +3564,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 160000,
       "name": "Recharge",
       "url": "https://open.spotify.com/track/2TxH8MCl0oeN6NhkK1wMcH"
@@ -3488,7 +3600,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 160792,
       "name": "Rings of Reverie",
       "url": "https://open.spotify.com/track/742dDMhF2embW4rTN9mTGP"
@@ -3578,7 +3690,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 171300,
       "name": "Saster 432Hz",
       "url": "https://open.spotify.com/track/22AKOYsMNojiHdnRbQNwOM"
@@ -3704,7 +3816,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 102000,
       "name": "slow heart",
       "url": "https://open.spotify.com/track/4gpBmFwJUfXxnf0PlXgsc6"
@@ -3956,7 +4068,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 111157,
       "name": "still waiting",
       "url": "https://open.spotify.com/track/454yeJafX48nm3ml9HKOxW"
@@ -4320,7 +4432,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 148363,
       "name": "Umbrella Ghost",
       "url": "https://open.spotify.com/track/67uEnoj8joroo4CpA4SsPQ"
@@ -4356,7 +4468,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 241322,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/2ALToUxKHQurOK6Imp6QXh"
@@ -4374,7 +4486,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 177000,
       "name": "Undercurrent Glow",
       "url": "https://open.spotify.com/track/6V74U7aWXWfg02YPlXA0cF"
@@ -4410,7 +4522,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 166766,
       "name": "Unfailing",
       "url": "https://open.spotify.com/track/0f8EAWED88rseWwGCo1U3k"
@@ -4522,7 +4634,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 149490,
       "name": "visions of you",
       "url": "https://open.spotify.com/track/7MyzlbpGoB3SNS0uBHNFB5"
@@ -4720,7 +4832,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 132039,
       "name": "without you",
       "url": "https://open.spotify.com/track/4iRgI8kJxUNpNr3DbP4lZr"

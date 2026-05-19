@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Beddy Rays
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,478 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,480 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Runnin' Around](https://open.spotify.com/track/3fyEExF6CwAwbpplYAMc4m) | [Manduway](https://open.spotify.com/artist/2FTOYFXrRy9t8WdVnAeZkg) | [Runnin' Around](https://open.spotify.com/album/3wr7LfuoR0QbUNpUV0iL4r) | 3:05 |
 | 50 | [This Land \(Acknowledgement Song\)](https://open.spotify.com/track/4Qe05xyGkrKcOHMevfkRG7) | [The Ancient Bloods](https://open.spotify.com/artist/2HSZdR8rDE6VY12D25WkFS) | [Golden Veins](https://open.spotify.com/album/3Lq9qJdIcjqYPD6p8bgCap) | 3:14 |
 
-Snapshot ID: `AAAAAGtFNJy4fEOtBEe/SduDJaWZK/uy`
+Snapshot ID: `AAAAAP4Zi6TfGKiwV1KrBdHCRovo5dvi`

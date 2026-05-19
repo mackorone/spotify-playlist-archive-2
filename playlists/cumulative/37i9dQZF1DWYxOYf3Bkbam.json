@@ -790,6 +790,24 @@
     {
       "album": {
         "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/3n8yGwwcWhNOHVZkBEavfL"
+      },
+      "artists": [
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225881,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/1xFFGUWkFv3HvCG0M2qo0K"
+    },
+    {
+      "album": {
+        "name": "Cuidado Que Te Supero",
         "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
       },
       "artists": [
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 225881,
       "name": "Cuidado Que Te Supero",
       "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 139253,
       "name": "El Gato Blanco",
       "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
@@ -1524,6 +1542,24 @@
       "duration_ms": 111893,
       "name": "Granja San Antonio",
       "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
+    },
+    {
+      "album": {
+        "name": "Costera",
+        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
+      },
+      "artists": [
+        {
+          "name": "Priscila Colom",
+          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169391,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
     },
     {
       "album": {
@@ -3368,10 +3404,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 148053,
       "name": "Troja de Amor",
       "url": "https://open.spotify.com/track/4oaloCE4Y8QL1wMyaIIo8s"
+    },
+    {
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas",
+        "url": "https://open.spotify.com/album/5MHb24RCpqg5ekjMGGi2wG"
+      },
+      "artists": [
+        {
+          "name": "Santiago Ca\u00f1ete",
+          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204522,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/3eClp96lC5b2IKQZW4XMBR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳華 Hua Chen
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,494 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,496 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 5 | [一片和平](https://open.spotify.com/track/6H3wVkgiOmLeQAZuNikhzu) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [一片和平](https://open.spotify.com/album/661CX9My4EMLumynqW4ssV) | 4:18 |
 | 6 | [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 |
 | 7 | [明天](https://open.spotify.com/track/2gX14YgW7uhEOTRaiR1qbs) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [明天](https://open.spotify.com/album/6pWGMJcpfGJYHELGChUsdF) | 3:57 |
-| 8 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 8 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 9 | [給我一支舞的時間](https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [給我一支舞的時間](https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5) | 3:03 |
 | 10 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 |
 | 11 | [人類](https://open.spotify.com/track/6YZFUncWdEfCT5F87hZCsG) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [人類](https://open.spotify.com/album/58QMoy7G7MG0kGYzL9V7f6) | 3:51 |

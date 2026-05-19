@@ -4,13 +4,13 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-261 songs - 15 hr 48 min
+262 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['k Heb Je Lief](https://open.spotify.com/track/2ydITGJdX7BlxYkGTw8yhG) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/4BPRYwoZbHrIyZf82uvLnI) | 4:46 | 2023-02-10 | 2023-04-07 |
 | ['k Heb Je LIef](https://open.spotify.com/track/4XMj3lJ3leMAhhEE2yXZ4Y) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Snelle\)](https://open.spotify.com/album/45xmJIzZ6mMaOn0mPxhEml) | 4:42 | 2025-09-04 |  |
-| [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 | 2024-10-10 |  |
+| [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 | 2024-10-10 | 2026-05-19 |
 | [Aarde](https://open.spotify.com/track/5zIq36LkYHK5srZxJIYxBJ) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Aarde](https://open.spotify.com/album/5hXzMqkQRgWxQ1boyMfbL1) | 3:17 | 2023-02-10 | 2023-11-11 |
 | [Alle Tijd \- met strijkkwartet](https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Alle Tijd \(met strijkkwartet\)](https://open.spotify.com/album/598oGC430zLkUlXltaXLgq) | 3:12 | 2024-07-18 | 2025-12-05 |
 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 | 2023-02-10 | 2025-04-26 |
@@ -248,6 +248,7 @@
 | [Wat Als Later Nu Is](https://open.spotify.com/track/0jYNaO3cN6Fpkxe9VzYCUK) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [‘t Is Mooi Geweest](https://open.spotify.com/album/25TYuXkyQpV3ykpbggkGIj) | 3:38 | 2023-02-10 | 2023-12-14 |
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
 | [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 | 2023-07-21 |
+| [Wat zou 't mooi zijn](https://open.spotify.com/track/3cCX0zlD1j8ikVrNaCHPTb) | [Erikah Karst](https://open.spotify.com/artist/79jIftYrOfp49Zk9Az8ixK) | [Wat zou 't mooi zijn](https://open.spotify.com/album/1MGoFk5bx8bB5B7kJh7pwd) | 3:04 | 2026-05-18 |  |
 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 | 2026-03-19 |  |
 | [We Doen Alsof](https://open.spotify.com/track/0LJ1hlleIO9JARlO2eyo2g) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [We Doen Alsof](https://open.spotify.com/album/3gOXgH4AVBI1dpnKHoxT8x) | 4:06 | 2025-11-20 | 2026-01-15 |
 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 | 2024-07-18 | 2024-09-27 |

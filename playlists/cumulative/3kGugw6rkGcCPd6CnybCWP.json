@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "bad boys",
+        "url": "https://open.spotify.com/album/6NPZtpg2T9s09EQubLdFGr"
+      },
+      "artists": [
+        {
+          "name": "Parkii",
+          "url": "https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249065,
+      "name": "bad boys",
+      "url": "https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6"
+    },
+    {
+      "album": {
         "name": "Bad Perfume",
         "url": "https://open.spotify.com/album/6Kzv2P8X9OOHtZqgjV6iGf"
       },

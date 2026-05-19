@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,481 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,478 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 45 | [Me Dá Sua Mão](https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Me Dá Sua Mão](https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB) | 2:42 |
 | 46 | [Metflix \- Remix](https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Espera](https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu) | 2:22 |
 | 47 | [Toma Jack](https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Toma Jack](https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7) | 4:06 |
-| 48 | [O Chamado](https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Nova Era](https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT) | 3:26 |
-| 49 | [Eu Era Rico e Não Sabia](https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Matteuzin](https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc), [$CAM](https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei) | [Eu Era Rico e Não Sabia](https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ) | 2:18 |
+| 48 | [Eu Era Rico e Não Sabia](https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Matteuzin](https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc), [$CAM](https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei) | [Eu Era Rico e Não Sabia](https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ) | 2:18 |
+| 49 | [O Chamado](https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Nova Era](https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT) | 3:26 |
 | 50 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 |
 
-Snapshot ID: `agezgAAAAABBbbIASf2cGl0QTbaRTaRB`
+Snapshot ID: `agkFAAAAAACaDgSGwiBVP9AJutYRL/XL`

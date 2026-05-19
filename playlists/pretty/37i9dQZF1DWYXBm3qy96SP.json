@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Rolling Stones",
-  "num_followers": 261723,
+  "num_followers": 261706,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Reward the Scars",
-        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 215455,
-      "name": "Reward the Scars",
-      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
         "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 243996,
       "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Au Pays du Cocaine",
-      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Spring Forward",
         "url": "https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212538,
       "name": "Hanging Out To Dry",
       "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Yamato",
-        "url": "https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU"
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Yamato",
-      "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"
+      "duration_ms": 196227,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+        "name": "Yamato",
+        "url": "https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 196227,
-      "name": "Should've Known Better",
-      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
+      "duration_ms": 201000,
+      "name": "Yamato",
+      "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Bones For The Crows",
-        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 244638,
-      "name": "Bones For The Crows",
-      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Peaches!",
         "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 181253,
       "name": "p0rn0graf\u00eda",
       "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Bones For The Crows",
+        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 244638,
+      "name": "Bones For The Crows",
+      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "You Get One",
         "url": "https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 180403,
       "name": "You Get One",
       "url": "https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Ride Lonesome",
         "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 272878,
       "name": "Ride Lonesome",
       "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Hive Mind (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "Hive Mind (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 222957,
       "name": "Forever/Always",
       "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 206137,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/3QjSKOqpzIVjUbBNYLiwde"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 207313,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3WKgc30jlMOs6iJB7rOPpZ"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 206137,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Fabienk",
-        "url": "https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ"
+        "name": "speed",
+        "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
       },
       "artists": [
         {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
         }
       ],
-      "duration_ms": 391268,
-      "name": "Fabienk",
-      "url": "https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg"
+      "duration_ms": 205106,
+      "name": "mailman",
+      "url": "https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
+        "name": "Fabienk",
+        "url": "https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
-        "name": "speed",
-        "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "mailman",
-      "url": "https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "Song For Hal",
-      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Riptides",
         "url": "https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "Idols (Complete)",
-        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 279798,
-      "name": "Suburban Requiem",
-      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
+      "duration_ms": 278053,
+      "name": "Song For Hal",
+      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 279798,
+      "name": "Suburban Requiem",
+      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "2515",
-        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 241100,
-      "name": "2515",
-      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
         "name": "Punching the Flowers",
         "url": "https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu"
       },
@@ -1535,6 +1519,38 @@
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
+    {
+      "added_at": "2026-05-14 15:00:42",
+      "album": {
+        "name": "2515",
+        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 241100,
+      "name": "2515",
+      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1571,22 +1587,6 @@
       "duration_ms": 223106,
       "name": "Tremolo",
       "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
-    },
-    {
-      "added_at": "2026-05-14 15:00:42",
-      "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
     },
     {
       "added_at": "2026-05-14 15:00:42",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-05-14 15:00:42",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+        "name": "How Did I Get Here? (Extended Edition)",
+        "url": "https://open.spotify.com/album/6Cm0k3yNeqYgifY6FMmCey"
       },
       "artists": [
         {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
         }
       ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
+      "duration_ms": 170254,
+      "name": "The Observer",
+      "url": "https://open.spotify.com/track/4CZMQE6ygZXVD74FVjtziM"
     }
   ],
   "unique_name": "Rock The World",

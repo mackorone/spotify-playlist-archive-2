@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 230080,
       "name": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 159008,
       "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
       "url": "https://open.spotify.com/track/1P6d1Lduqte7ciQHuxHlZ7"
@@ -5776,6 +5776,44 @@
       "duration_ms": 261254,
       "name": "Ve Mahiya (From \"Sarzameen\")",
       "url": "https://open.spotify.com/track/1N69uoU8VYLDmNzFHKGk1i"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Jungle - Title Track (From \u201cWelcome To The Jungle\u201d)",
+        "url": "https://open.spotify.com/album/4vZkdcJA96FUAibfRjcMs6"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Priya Patidar",
+          "url": "https://open.spotify.com/artist/3eWfbFuKPx1rkbQXiFMNGr"
+        },
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Sajid-Wajid",
+          "url": "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234769,
+      "name": "Welcome To The Jungle - Title Track (From \u201cWelcome To The Jungle\u201d)",
+      "url": "https://open.spotify.com/track/4aov0FizYsCGL6J4T7yBRe"
     },
     {
       "album": {

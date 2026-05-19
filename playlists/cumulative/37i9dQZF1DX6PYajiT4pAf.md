@@ -4,7 +4,7 @@
 
 > Maluma, Shakira, Rvfv, DELLAFUENTE y el resto de novedades de la semana.
 
-5,519 songs - 11 day 18 hr 59 min
+5,520 songs - 11 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2130,6 +2130,7 @@
 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 | 2025-10-23 | 2025-10-30 |
 | [Historia](https://open.spotify.com/track/2GdrvGFLijO4hU5UYcZ9E9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L) | [Historia](https://open.spotify.com/album/0VCAFQuOQUxFr6tk5KQFfY) | 4:11 | 2026-02-26 | 2026-03-06 |
 | [Historias de mi madre](https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Historias de mi madre](https://open.spotify.com/album/0HVLItjkoFLo6rAIhdPJQU) | 4:19 | 2025-10-16 | 2025-10-24 |
+| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-18 |  |
 | [Hm Hm Hm \- Remix](https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Wesh Music](https://open.spotify.com/artist/47ssTqJe23pPbwPpQ4sYHB) | [Hm Hm Hm \(Remix\)](https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [HMM](https://open.spotify.com/track/0t2vuJNtIgqEvx07dyMZV3) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Jthyago](https://open.spotify.com/artist/1OGwUf0F69wrVxXYW3e9Nl) | [HMM](https://open.spotify.com/album/303cT7FFKkiCj0jJm1eQjd) | 3:02 | 2025-11-20 | 2025-11-28 |
 | [HOE HOE HOE](https://open.spotify.com/track/6NRps1q8bWOgZvb4XQ0blu) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [HOE HOE HOE](https://open.spotify.com/album/77he2VuqZAV7AQwgGHs8P3) | 1:31 | 2025-12-11 | 2025-12-19 |

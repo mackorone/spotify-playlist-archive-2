@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Jul, Drake, Shakira x Burna Boy, Aaron Blommaert and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,753 likes - 117 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,751 likes - 117 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 83 | [Landmine](https://open.spotify.com/track/2poYsElCgmhplyQ4UHhFIQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Landmine](https://open.spotify.com/album/2ZZipry0jKCYUf3dp3mL4v) | 2:32 |
 | 84 | [Dirty Rosie](https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Dirty Rosie](https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb) | 2:46 |
 | 85 | [Vacances](https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf) | [Mous\-K](https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Insolent](https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW) | 2:54 |
-| 86 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 86 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 87 | [Breaking The Mold](https://open.spotify.com/track/3iFReCvWK8flBrIiTPw5hG) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Carry The Light](https://open.spotify.com/album/4yXAcm3dPQhqEO0TEu9shz) | 4:15 |
 | 88 | [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 |
 | 89 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3313994,
+  "num_followers": 3313934,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 246587,
-      "name": "jar of hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 246587,
+      "name": "jar of hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "I Miss You (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 205747,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Confident (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4HLTw1RgvSZkSLAc3pU9kU"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3ioJ2eGWcONEvna37MpsiE"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 204000,
       "name": "Love You From a Distance",
       "url": "https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Confident (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4HLTw1RgvSZkSLAc3pU9kU"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3ioJ2eGWcONEvna37MpsiE"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2391,6 +2391,22 @@
       "duration_ms": 218492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5KfSsgAJGrZc3VrcPLFVMo"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2463,22 +2479,6 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/5tIJb0C5rIbiDijHl41byE"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/4lAY3liGb0uX8O8pTjZyOl"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/6L6ra9mTlyQPmh7zGw58y1"
     }
   ],
   "unique_name": "Alone Again",

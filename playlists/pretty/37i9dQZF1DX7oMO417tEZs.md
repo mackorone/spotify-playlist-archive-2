@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: j ember
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,815 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,832 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 18 | [toute ma life](https://open.spotify.com/track/0KFFURrevth6HVSyFPUrEE) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [toute ma life](https://open.spotify.com/album/0OyUYXUdXu7veuRMXDL0XI) | 2:08 |
 | 19 | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 |
 | 20 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
-| 21 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:05 |
+| 21 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
 | 22 | [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [babygirl](https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL) | 2:27 |
 | 23 | [Kind](https://open.spotify.com/track/1xDX0uHB6H96Zd7tHQHq7t) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE) | [Kind](https://open.spotify.com/album/0BipQeXhpdFJRxSSZXnd1x) | 2:19 |
 | 24 | [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 |

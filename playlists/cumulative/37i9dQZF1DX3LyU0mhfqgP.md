@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: JJ
+> Songs from LGBTQIA+ artists\. Cover: Trucha
 
 1,803 songs - 4 day 1 hr 44 min
 

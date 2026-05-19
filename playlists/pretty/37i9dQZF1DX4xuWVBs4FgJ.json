@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2033469,
+  "num_followers": 2033476,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
-      "added_at": "2026-03-20 00:00:20",
-      "album": {
-        "name": "LOVE, LOVE, LOVE",
-        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 242287,
-      "name": "LOVE, LOVE, LOVE",
-      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
-    },
-    {
       "added_at": "2026-02-23 16:34:18",
       "album": {
         "name": "Loved by You",
@@ -1135,6 +1119,22 @@
       "duration_ms": 256000,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/5bYOsPMgWyQc94vtLz92ZH"
+    },
+    {
+      "added_at": "2026-03-20 00:00:20",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
       "added_at": "2026-02-23 16:34:18",

@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 148860,
+  "num_followers": 148885,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Taste and See",
-        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        },
-        {
-          "name": "Little Praise Party",
-          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "My God Is Number One",
-      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Shine!",
         "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 144346,
       "name": "Your Love For Me",
       "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Taste and See",
+        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        },
+        {
+          "name": "Little Praise Party",
+          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "My God Is Number One",
+      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Sing: Spring Songs",
-        "url": "https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Christ The Lord Is Risen Today",
-      "url": "https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 210586,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Sing: Spring Songs",
+        "url": "https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Christ The Lord Is Risen Today",
+      "url": "https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Living Color",
-        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
-        }
-      ],
-      "duration_ms": 267042,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "That's My King",
         "url": "https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 228008,
       "name": "That's My King",
       "url": "https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Living Color",
+        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+        }
+      ],
+      "duration_ms": 267042,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "King Of Me",
-        "url": "https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz"
-      },
-      "artists": [
-        {
-          "name": "Rend Co. Kids",
-          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
-        },
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 137066,
-      "name": "King Of Me",
-      "url": "https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Kidmin Worship Vol. 6: Heartbeat Worship",
         "url": "https://open.spotify.com/album/3oDixp1uhg5GZuC7IYqNKz"
       },
@@ -507,6 +487,22 @@
       "duration_ms": 187506,
       "name": "Super Wonderful",
       "url": "https://open.spotify.com/track/2v2IinUxWv9YVXPOJjrQ0b"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Living Color",
+        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+        }
+      ],
+      "duration_ms": 238624,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -551,34 +547,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Living Color",
-        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
+        "name": "King Of Me",
+        "url": "https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz"
       },
       "artists": [
         {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
-        }
-      ],
-      "duration_ms": 238624,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Praise God: Worship Songs for Kids",
-        "url": "https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA"
-      },
-      "artists": [
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
         {
-          "name": "Sticky Kids",
-          "url": "https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 177611,
-      "name": "The Arky Arky Song",
-      "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
+      "duration_ms": 137066,
+      "name": "King Of Me",
+      "url": "https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -595,6 +579,22 @@
       "duration_ms": 161200,
       "name": "Choosing Happy - Rock Party Mix",
       "url": "https://open.spotify.com/track/4tNxEKM0IEirFNnxPQ50oA"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Praise God: Worship Songs for Kids",
+        "url": "https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA"
+      },
+      "artists": [
+        {
+          "name": "Sticky Kids",
+          "url": "https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD"
+        }
+      ],
+      "duration_ms": 177611,
+      "name": "The Arky Arky Song",
+      "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "For God So Loved the World (John 3:16)",
-        "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "For God So Loved the World (John 3:16)",
-      "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 194080,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "For God So Loved the World (John 3:16)",
+        "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "For God So Loved the World (John 3:16)",
+      "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "Kids Praise Co.",
+          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Jesus Loves Me",
         "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 94466,
       "name": "I've Got Peace Like A River",
       "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "Kids Praise Co.",
-          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "I Could Sing Of Your Love Forever Kids",
-        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
-      },
-      "artists": [
-        {
-          "name": "I Could Sing Kids Performers",
-          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 263187,
       "name": "Don't Forget (Psalm 103) - Live",
       "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever Kids",
+        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
+      },
+      "artists": [
+        {
+          "name": "I Could Sing Kids Performers",
+          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "The First Sunday Singalong",
-        "url": "https://open.spotify.com/album/3ZSxL7JnNVTWi9yyNFuTHa"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
-        }
-      ],
-      "duration_ms": 95560,
-      "name": "Heaven Is A Wonderful Place/When I Get To Heaven",
-      "url": "https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "You Amaze Me",
         "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 152554,
       "name": "Be Completely Changed",
       "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "The First Sunday Singalong",
+        "url": "https://open.spotify.com/album/3ZSxL7JnNVTWi9yyNFuTHa"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+        }
+      ],
+      "duration_ms": 95560,
+      "name": "Heaven Is A Wonderful Place/When I Get To Heaven",
+      "url": "https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n"
     },
     {
       "added_at": "2026-05-12 05:39:19",

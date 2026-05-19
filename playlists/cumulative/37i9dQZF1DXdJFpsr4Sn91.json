@@ -4029,6 +4029,28 @@
     },
     {
       "album": {
+        "name": "Ei kukaan muu",
+        "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196258,
+      "name": "Ei kukaan muu",
+      "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
+    },
+    {
+      "album": {
         "name": "Jos m\u00e4 oisin rehellinen",
         "url": "https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy"
       },
@@ -7880,7 +7902,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 206733,
       "name": "Itseni vihollinen",
       "url": "https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK"

@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 96492,
+  "num_followers": 96504,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 243804,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
+        "name": "Big Crown Vaults Vol. 2",
+        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
+      },
+      "artists": [
+        {
+          "name": "The Shacks",
+          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
+        }
+      ],
+      "duration_ms": 222670,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
         "name": "The Moment (with KOKORO)",
         "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 220800,
       "name": "The Moment (with KOKORO)",
       "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
-        "name": "Big Crown Vaults Vol. 2",
-        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
-      },
-      "artists": [
-        {
-          "name": "The Shacks",
-          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
-        }
-      ],
-      "duration_ms": 222670,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190944,
-      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
     },
     {
       "added_at": "2026-05-12 22:07:33",

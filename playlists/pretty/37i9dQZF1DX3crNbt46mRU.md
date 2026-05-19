@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Drake, Ikkimel, Gracie Abrams, Pashanim, Ed Sheeran & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,342 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,336 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

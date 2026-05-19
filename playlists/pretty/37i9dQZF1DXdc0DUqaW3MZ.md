@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,977 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,994 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 59 | [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 |
 | 60 | [Strike a Pose \(feat\. Camille Munn\)](https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Camille Munn](https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC) | [Strike a Pose \(feat\. Camille Munn\)](https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE) | 3:06 |
 | 61 | [Heatwave](https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Heatwave](https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv) | 2:34 |
-| 62 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
-| 63 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
+| 62 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
+| 63 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
 | 64 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 |
 | 65 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 | 66 | [DUN DI DUN](https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [DUN DI DUN](https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd) | 2:42 |
 | 67 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 |
 | 68 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
-| 69 | [The Choice \- Sofia Kourtesis Remix](https://open.spotify.com/track/3aL5D0PiRJlAU5uZGt9Eic) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [The Choice \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/1v5NVAGfBdlSiuDVUO6Csj) | 6:39 |
-| 70 | [We Just Got Started](https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [We Just Got Started](https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL) | 3:44 |
+| 69 | [You Want Me](https://open.spotify.com/track/4LXCHFzaMJEgEQT877CyeF) | [Leventis](https://open.spotify.com/artist/3F6z7RXCcFGOoeRoPMPAYQ), [Hari](https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU) | [You Want Me](https://open.spotify.com/album/5rs6ip4qCmXyZVvJ9cQCpr) | 3:25 |
+| 70 | [The Choice \- Sofia Kourtesis Remix](https://open.spotify.com/track/3aL5D0PiRJlAU5uZGt9Eic) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [The Choice \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/1v5NVAGfBdlSiuDVUO6Csj) | 6:39 |
 
 Snapshot ID: `AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo`

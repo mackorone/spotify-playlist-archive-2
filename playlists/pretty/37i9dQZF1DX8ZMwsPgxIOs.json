@@ -1,6 +1,6 @@
 {
   "description": "Techno is a state of mind. Cover: Juliet Fox",
-  "num_followers": 147699,
+  "num_followers": 147723,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
@@ -235,7 +235,7 @@
     {
       "added_at": "2026-05-07 23:00:28",
       "album": {
-        "name": "Falling Into Acid Dreams",
+        "name": "falling into acid dreams",
         "url": "https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu"
       },
       "artists": [
@@ -245,7 +245,7 @@
         }
       ],
       "duration_ms": 244542,
-      "name": "Falling Into Acid Dreams",
+      "name": "falling into acid dreams",
       "url": "https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ"
     },
     {
@@ -1784,12 +1784,12 @@
       },
       "artists": [
         {
-          "name": "Argy (UK)",
-          "url": "https://open.spotify.com/artist/1I3oulnGqrVHplhYRyJyE1"
-        },
-        {
           "name": "Will Rees",
           "url": "https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm"
+        },
+        {
+          "name": "Argy X",
+          "url": "https://open.spotify.com/artist/5rBH5L7lmMQUdsepXDfScQ"
         }
       ],
       "duration_ms": 241650,

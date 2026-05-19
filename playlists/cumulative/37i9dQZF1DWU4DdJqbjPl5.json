@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "album": {
         "name": "Ayra Starr",
         "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
       },
@@ -3146,6 +3168,24 @@
       "duration_ms": 220322,
       "name": "FIND A WAY",
       "url": "https://open.spotify.com/track/76uERg3iGnf13tuoRoUSxD"
+    },
+    {
+      "album": {
+        "name": "fine ting (fine $hit)",
+        "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "fine ting (fine $hit)",
+      "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
     },
     {
       "album": {
@@ -8744,7 +8784,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 137692,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
@@ -10786,7 +10826,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 185454,
       "name": "What If",
       "url": "https://open.spotify.com/track/0UVfLdHAjqb6yHWqh3mE8F"
@@ -11406,6 +11446,28 @@
       "duration_ms": 176692,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
+    },
+    {
+      "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/4FROhFm0W81XPKioDYDoFg"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238090,
+      "name": "Zion",
+      "url": "https://open.spotify.com/track/00NCm17kFsopwWhGgr78Rn"
     },
     {
       "album": {

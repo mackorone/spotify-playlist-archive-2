@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One Night Only\. Cover: Masdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,094 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,082 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

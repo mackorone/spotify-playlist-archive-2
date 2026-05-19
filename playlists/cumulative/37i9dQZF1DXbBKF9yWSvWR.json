@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Little Wide Open",
+        "url": "https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313417,
+      "name": "100,000",
+      "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
+    },
+    {
+      "album": {
         "name": "A Love For Strangers",
         "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 244055,
       "name": "1000 Ways",
       "url": "https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 203374,
       "name": "BB II",
       "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
@@ -1651,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
       },
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
@@ -3634,7 +3670,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 223853,
       "name": "Down",
       "url": "https://open.spotify.com/track/4ZEjLwcEZUOxi7VL7jl2Lr"
@@ -4590,6 +4626,24 @@
       "duration_ms": 178240,
       "name": "Flowers Grow in the Saddest Parts",
       "url": "https://open.spotify.com/track/6g3ZkK2Rkn1Nhbyf0uUCte"
+    },
+    {
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
     },
     {
       "album": {
@@ -5849,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
@@ -6293,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "I WANT IT!",
+        "url": "https://open.spotify.com/album/6OzCHlQcg09APOwdy0fFz3"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226755,
+      "name": "I WANT IT!",
+      "url": "https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM"
+    },
+    {
+      "album": {
         "name": "i was never yours",
         "url": "https://open.spotify.com/album/0FP1jrZQtA6nrvJ4HFl3Jl"
       },
@@ -6658,7 +6748,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 271247,
       "name": "In Search of Yang",
       "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
@@ -6720,6 +6810,24 @@
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "album": {
+        "name": "Nebulosity",
+        "url": "https://open.spotify.com/album/2ijQiIGCkX456WhDSgfayq"
+      },
+      "artists": [
+        {
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/33yrFLgM6BdoRbVoY2DiIo"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244464,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2qqs9KICn0IIzpIozP0tNd"
     },
     {
       "album": {
@@ -10719,6 +10827,24 @@
     },
     {
       "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
+    },
+    {
+      "album": {
         "name": "Real Love (soft version)",
         "url": "https://open.spotify.com/album/3duy8w1ktRY8AhwptiPfz0"
       },
@@ -13610,7 +13736,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 297787,
       "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
       "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
@@ -15167,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "WISH YOU WOULD",
+        "url": "https://open.spotify.com/album/2N05pWpGzHqcTztWV8YbTb"
+      },
+      "artists": [
+        {
+          "name": "stardog",
+          "url": "https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "WISH YOU WOULD",
+      "url": "https://open.spotify.com/track/7KxIlGSa3o4n41CdeCSfpI"
+    },
+    {
+      "album": {
         "name": "sweet dreams, see you tomorrow",
         "url": "https://open.spotify.com/album/2Nqz52VHOibQQeZrJKfq6G"
       },
@@ -15398,7 +15542,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 234971,
       "name": "you and forever",
       "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"

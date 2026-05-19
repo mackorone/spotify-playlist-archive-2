@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 162194,
       "name": "Analog",
       "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 188702,
       "name": "Bar\u0103 la bar\u0103",
       "url": "https://open.spotify.com/track/6mcuLPUgknZ0IMrcxypoiv"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 136875,
       "name": "Jester",
       "url": "https://open.spotify.com/track/7kcBiaUm1uPSNgUbSioyEE"
@@ -3166,6 +3166,24 @@
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
+    },
+    {
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125317,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
     },
     {
       "album": {
@@ -3524,6 +3542,24 @@
       "duration_ms": 142978,
       "name": "MAKE IT HOT",
       "url": "https://open.spotify.com/track/2c8UZZFAinUGLdvAAr8VHh"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307681,
+      "name": "Make Them Cry",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
       "album": {
@@ -4689,6 +4725,32 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -4738,6 +4800,28 @@
       "duration_ms": 160000,
       "name": "Regele - From Buzz House: The Movie 2",
       "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
+    },
+    {
+      "album": {
+        "name": "Regele pe reggaeton",
+        "url": "https://open.spotify.com/album/7lyBMi2gZkIR6eLQ1h2VKp"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122608,
+      "name": "Regele pe reggaeton",
+      "url": "https://open.spotify.com/track/6iPBnOlhX2VSN8uVG3UEbo"
     },
     {
       "album": {

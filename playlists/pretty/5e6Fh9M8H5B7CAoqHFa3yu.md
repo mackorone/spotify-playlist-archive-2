@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,291 songs - 5 day 15 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,296 songs - 5 day 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1140,7 +1140,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1130 | [Elettricità](https://open.spotify.com/track/4QRj9C8Zo3NhumTc4i7MsN) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 3:22 |
 | 1131 | [Facile preda](https://open.spotify.com/track/7dpXWCeVcgn7FasyUwefOz) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 3:10 |
 | 1132 | [Elettricità \- Extended Version](https://open.spotify.com/track/1AErVIT6UxkTdF5U1BPkOA) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 3:39 |
-| 1133 | [All in your head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 |
+| 1133 | [All In Your Head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The Borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 |
 | 1134 | [NO ME PUEDO RENDIR](https://open.spotify.com/track/48kd0xa7KPJbOrvFzlBE2e) | [JNJ](https://open.spotify.com/artist/4ff88NG2akCbGQMhpYVV0o) | [DESDE 2022](https://open.spotify.com/album/1W9m2PNsLXU3EGFeoVeaHi) | 2:19 |
 | 1135 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 |
 | 1136 | [Worst Year](https://open.spotify.com/track/6OyQzOnHeQ9cGsZls96tJE) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Retrospective](https://open.spotify.com/album/6NW8KhNDnYMHmjXFemwX16) | 4:13 |
@@ -2299,5 +2299,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2289 | [My Life](https://open.spotify.com/track/22it1yLanqga1DevYiSPz8) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [Oscar Ken](https://open.spotify.com/artist/18NBt7ThpqpvlMkCMIeCA1), [Lookey](https://open.spotify.com/artist/1HXBbllMhhBO6EftHA8DtZ), [Real YUNG\-J](https://open.spotify.com/artist/0AKep9NdQTcR7rLgWxdQOE) | [My Life](https://open.spotify.com/album/7cIW5b100TSmzjzh9WHBHo) | 2:53 |
 | 2290 | [Friends](https://open.spotify.com/track/1qw1zLMAay6JWNdJQsYxzN) | [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Friends](https://open.spotify.com/album/73VF9EoEhaCk3Yl5ViqnBx) | 3:24 |
 | 2291 | [Jah Shield](https://open.spotify.com/track/7hjRlprjYBkSmi6UXgEyA9) | [DAB David Asher Band](https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA) | [Jah Shield](https://open.spotify.com/album/24Wy0QnvclD1E3WMTj0ISZ) | 5:22 |
+| 2292 | [Cupicide](https://open.spotify.com/track/47YIjbDL4f9cepSiNE0NPL) | [Lil Mvrty](https://open.spotify.com/artist/2op9Ee1lQWYiX6PM6P0Uys) | [Cupicide](https://open.spotify.com/album/1a0h2RPVsA9u5bzp0PvMRM) | 2:20 |
+| 2293 | [Yan Kalbim](https://open.spotify.com/track/0Hyx6fJd7J5X8v4OxaEHMX) | [Mahir Gül](https://open.spotify.com/artist/1WzJtvafRduHSyy7RjI3aH) | [Sadece](https://open.spotify.com/album/026sGGKQo6VPYWBxTeyuB3) | 4:16 |
+| 2294 | [Skin](https://open.spotify.com/track/71RJZrbmp20yDxm3Qnisl0) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Skin](https://open.spotify.com/album/0pAIuEg4yg98NbX1JA9TI5) | 3:57 |
+| 2295 | [When the Locks Break](https://open.spotify.com/track/3567fY934M6ccN3LEV2k7j) | [Freddie](https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT) | [When the Locks Break](https://open.spotify.com/album/6JFZmJb1QZ23pMn437fFP9) | 3:54 |
+| 2296 | [Abc \(L Hate Jiggi\)](https://open.spotify.com/track/1XhQuONgrR2RBdXda24n69) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [NBD TOUBIEY](https://open.spotify.com/artist/30wLa6xEyDBxeRJzwyEpPu), [NBD YOUNG LORD](https://open.spotify.com/artist/5KxzPbKVTz8hYw5cMXhCaO), [NBD Boii gee](https://open.spotify.com/artist/7f2t6HujSWvN6zIEkcV7UD) | [Abc \(L Hate Jiggi\)](https://open.spotify.com/album/2IGo1ttt3RuFaSL0acGaoI) | 2:47 |
 
-Snapshot ID: `AAAJnjvMhqzjJ1r0MX8990W3oyC5w00r`
+Snapshot ID: `AAAJozx9F1m8QCiGHdqYExfHLWtTahL7`

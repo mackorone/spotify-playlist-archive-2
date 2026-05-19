@@ -4,7 +4,7 @@
 
 > we didn't have hockey being the only thing we care about in 2026 on our report card
 
-2,650 songs - 5 day 17 hr 53 min
+2,651 songs - 5 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [EASY \(English ver.\)](https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(English ver.\)](https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4) | 2:44 | 2024-02-23 | 2024-04-19 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-30 | 2025-07-26 |
 | [Eden](https://open.spotify.com/track/1ceEkD7pAsd8yI71OTVU3G) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Eden](https://open.spotify.com/album/1yV9sHDafmg6B9RcfIbwzv) | 3:07 | 2025-07-04 | 2025-08-06 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-05-18 |  |
 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 | 2025-08-08 | 2025-10-18 |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 | 2023-05-10 |
 | [Elastic Heart \- From "The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/2JHG14oKGHQN0jPdyWHcxg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:17 | 2023-12-01 | 2024-01-27 |

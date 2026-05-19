@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211110,
+  "num_followers": 211119,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAVNWfZ8twDp5vqOvHIrOHT",
+  "snapshot_id": "agkFAAAAAAAo6JoHchS1PBtJRV8D9Rcz",
   "tracks": [
     {
       "added_at": null,
@@ -843,30 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Todo Errado",
-      "url": "https://open.spotify.com/track/3Arpp0tBz6tYleQAKjZ1jX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Todo Errado",
+      "url": "https://open.spotify.com/track/3Arpp0tBz6tYleQAKjZ1jX"
     },
     {
       "added_at": null,
@@ -935,30 +935,6 @@
       "duration_ms": 138321,
       "name": "das amantes freestyle",
       "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Bia Nogueira",
-          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 250016,
-      "name": "O Cara de \u00d3culos",
-      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
     },
     {
       "added_at": null,
@@ -1011,6 +987,30 @@
       "duration_ms": 632886,
       "name": "Depois do Baile",
       "url": "https://open.spotify.com/track/0XkH47qUbNA4YGdD4WEjAA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos",
+      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
     },
     {
       "added_at": null,

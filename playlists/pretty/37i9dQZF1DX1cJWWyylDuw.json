@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 293590,
+  "num_followers": 293692,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "To Rid Myself Of Truth",
         "url": "https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Hymns in Dissonance",
         "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/2RJttoIphditrfgq3FEq3j"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Snapped Neck",
-      "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 123730,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/2RJttoIphditrfgq3FEq3j"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Snapped Neck",
+      "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "The Fear of God",
-        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "The Fear of God",
-      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 266000,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "The Fear of God",
+        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "The Fear of God",
+      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Righteous Man",
-        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 228444,
-      "name": "Righteous Man",
-      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "FEED",
         "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 206857,
       "name": "NO REVIVES",
       "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Righteous Man",
+        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 228444,
+      "name": "Righteous Man",
+      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
-      },
-      "artists": [
-        {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
-        }
-      ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Instill",
         "url": "https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 281932,
       "name": "Instill",
       "url": "https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
+      },
+      "artists": [
+        {
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
+        }
+      ],
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Altar of Flesh",
+        "url": "https://open.spotify.com/album/6SZLTPwjbOPE0LcYcNe0fF"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 220338,
+      "name": "Altar of Flesh",
+      "url": "https://open.spotify.com/track/42RXBTdsJQb6MoMx8d1itk"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Needful Things",
         "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 133113,
       "name": "Resurfacing (ft. Jacob Mathes of Orphan)",
       "url": "https://open.spotify.com/track/5hKqEbZyJmhZIcnbdzJjqA"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Altar of Flesh",
-        "url": "https://open.spotify.com/album/6SZLTPwjbOPE0LcYcNe0fF"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 220338,
-      "name": "Altar of Flesh",
-      "url": "https://open.spotify.com/track/42RXBTdsJQb6MoMx8d1itk"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "From Ruin... We Rise",
         "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 290844,
       "name": "From Ruin... We Rise",
       "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Alter of Self",
+        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 189704,
+      "name": "Alter of Self",
+      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Make It to Heaven (feat. Signs of the Swarm)",
         "url": "https://open.spotify.com/album/0JqqyIGmnrGylT8lSfxys9"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 225882,
       "name": "Make It to Heaven (feat. Signs of the Swarm)",
       "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Alter of Self",
-        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 189704,
-      "name": "Alter of Self",
-      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2079,30 +2079,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "DISSOLVING PATTERNS",
-        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
-      },
-      "artists": [
-        {
-          "name": "DeathStroke",
-          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
-        {
-          "name": "Dave Simonich",
-          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DISSOLVING PATTERNS",
-      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "BLUEPRINTS FOR IDOL GENOCIDE",
         "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
       },
@@ -2131,6 +2107,30 @@
       "duration_ms": 295714,
       "name": "Bullets in My Teeth",
       "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "DISSOLVING PATTERNS",
+        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
+      },
+      "artists": [
+        {
+          "name": "DeathStroke",
+          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        },
+        {
+          "name": "Dave Simonich",
+          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "DISSOLVING PATTERNS",
+      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2179,22 +2179,6 @@
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "My Father's Son (Redux)",
-        "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 222616,
-      "name": "My Father's Son - Redux",
-      "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2259,6 +2243,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Welcome To Shell Town",
+        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
+      },
+      "artists": [
+        {
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
+        }
+      ],
+      "duration_ms": 233927,
+      "name": "Shell Town",
+      "url": "https://open.spotify.com/track/6ujqPQVHvJ81axiza9KJRj"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "selfish",
         "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
       },
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "My Father's Son (Redux)",
+        "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 222616,
+      "name": "My Father's Son - Redux",
+      "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "HIDE FROM THE LIGHT",
         "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 198924,
       "name": "NO HOME LEFT TO FIND",
       "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Welcome To Shell Town",
-        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
-      },
-      "artists": [
-        {
-          "name": "Filth",
-          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
-        }
-      ],
-      "duration_ms": 233927,
-      "name": "Shell Town",
-      "url": "https://open.spotify.com/track/6ujqPQVHvJ81axiza9KJRj"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Circus Sapiens",
-        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
-      },
-      "artists": [
-        {
-          "name": "NECROTTED",
-          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
-        }
-      ],
-      "duration_ms": 201468,
-      "name": "Circus Sapiens",
-      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 191909,
       "name": "Dead Pacifist",
       "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Circus Sapiens",
+        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
+      },
+      "artists": [
+        {
+          "name": "NECROTTED",
+          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Circus Sapiens",
+      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
     },
     {
       "added_at": "2026-03-22 01:11:05",

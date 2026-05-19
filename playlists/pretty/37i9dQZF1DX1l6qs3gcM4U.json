@@ -1,12 +1,12 @@
 {
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anna Joyce",
-  "num_followers": 245732,
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
+  "num_followers": 245777,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLH1RvzcnsATL5Y5kbZ/pyHtAMZ",
+  "snapshot_id": "AAAAAGiTahvOdYImyZEKhY1QpxTi9SfN",
   "tracks": [
     {
       "added_at": "2026-05-14 23:00:54",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "\u00daltima L\u00e1grima",
+        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Biig Star",
+          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
+        }
+      ],
+      "duration_ms": 242608,
+      "name": "\u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "O Jeito Dela",
         "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "\u00daltima L\u00e1grima",
-        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Biig Star",
-          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
-        }
-      ],
-      "duration_ms": 242608,
-      "name": "\u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 223657,
       "name": "Passada",
       "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "Nossas Coisas (feat. Ary)",
         "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 200005,
       "name": "Nossas Coisas (feat. Ary)",
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -891,6 +891,30 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "Aurea",
+        "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Smash Midas",
+          "url": "https://open.spotify.com/artist/4Vp4kayLyCZwqJZDBsaRks"
+        }
+      ],
+      "duration_ms": 171828,
+      "name": "Tropa",
+      "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "ANCESTRALIDADE",
         "url": "https://open.spotify.com/album/4UE2JEeFF1Zj8CPVVPlAx3"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 205301,
       "name": "Otu Padaz",
       "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "Aurea",
-        "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "Smash Midas",
-          "url": "https://open.spotify.com/artist/4Vp4kayLyCZwqJZDBsaRks"
-        }
-      ],
-      "duration_ms": 171828,
-      "name": "Tropa",
-      "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 198799,
       "name": "Fica longi bo",
       "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
+        "name": "CICLOS",
+        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
         "name": "N\u00e3o Me Importa",
         "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 195417,
       "name": "N\u00e3o Me Importa",
       "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "CICLOS",
-        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
-        "name": "Alta Seguran\u00e7a",
-        "url": "https://open.spotify.com/album/6P3pnckKSDdFpyBp72HU2P"
+        "name": "Noz Cantinh",
+        "url": "https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW"
       },
       "artists": [
         {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 255189,
-      "name": "Alta Seguran\u00e7a",
-      "url": "https://open.spotify.com/track/5aWft6Pe0etzThApCGR5cI"
+      "duration_ms": 218372,
+      "name": "Noz Cantinh",
+      "url": "https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
-        "name": "Noz Cantinh",
-        "url": "https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW"
+        "name": "Alta Seguran\u00e7a",
+        "url": "https://open.spotify.com/album/6P3pnckKSDdFpyBp72HU2P"
       },
       "artists": [
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
         }
       ],
-      "duration_ms": 218372,
-      "name": "Noz Cantinh",
-      "url": "https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W"
+      "duration_ms": 255189,
+      "name": "Alta Seguran\u00e7a",
+      "url": "https://open.spotify.com/track/5aWft6Pe0etzThApCGR5cI"
     },
     {
       "added_at": "2026-05-14 23:00:54",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2026-05-14 23:00:54",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
-        "name": "Conecta",
-        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        }
-      ],
-      "duration_ms": 195364,
-      "name": "Conecta",
-      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
-    },
-    {
-      "added_at": "2026-05-14 23:00:54",
-      "album": {
         "name": "Versos & Poesias #7: Onda Passageira",
         "url": "https://open.spotify.com/album/1c5RGsct11j9rxqi6BBlxA"
       },
@@ -1399,6 +1363,42 @@
       "duration_ms": 424716,
       "name": "Versos & Poesias #7: Onda Passageira",
       "url": "https://open.spotify.com/track/4KAn1ENtf2U6bqyF5Mpoaj"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-05-14 23:00:54",
+      "album": {
+        "name": "Conecta",
+        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        }
+      ],
+      "duration_ms": 195364,
+      "name": "Conecta",
+      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
     },
     {
       "added_at": "2026-05-14 23:00:54",

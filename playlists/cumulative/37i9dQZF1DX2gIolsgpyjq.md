@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: shinyhunt\. Artwork: Emelie Trahan
+> The best new music by independent artists in the Nordics\. Cover: Emelie Trahan
 
 1,628 songs - 3 day 13 hr 36 min
 

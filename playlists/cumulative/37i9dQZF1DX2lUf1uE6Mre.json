@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 151181,
       "name": "30 mal am Tag",
       "url": "https://open.spotify.com/track/0ypQOwWWnjYx9ZOIjZXNCP"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 156297,
       "name": "Antalya",
       "url": "https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 182521,
       "name": "Aye",
       "url": "https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 125307,
       "name": "Bang",
       "url": "https://open.spotify.com/track/2v7mskZy5FYH2r993PoZIU"
@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "BRITNEY SPEARS",
+        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "BRITNEY SPEARS",
+      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
+    },
+    {
+      "album": {
         "name": "Bunker Paket",
         "url": "https://open.spotify.com/album/1i8lUPukAge4wgXuT50xb7"
       },
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 151755,
       "name": "Buscape",
       "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 158012,
       "name": "CONNECTED",
       "url": "https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 155081,
       "name": "Delale",
       "url": "https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "DRECKIGE DOLLARS",
       "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 140138,
       "name": "drop body",
       "url": "https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 163064,
       "name": "DU FEHLST",
       "url": "https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 138582,
       "name": "DVD",
       "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 135000,
       "name": "ex und so",
       "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
@@ -3244,6 +3262,24 @@
       "duration_ms": 176077,
       "name": "FABRIZIO ROMANO",
       "url": "https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd"
+    },
+    {
+      "album": {
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
+      },
+      "artists": [
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "album": {
@@ -3601,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Glastisch",
+        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171537,
+      "name": "Glastisch",
+      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
+    },
+    {
+      "album": {
         "name": "Gold & Eis",
         "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
       },
@@ -3754,7 +3808,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 94506,
       "name": "GTA WEDDING",
       "url": "https://open.spotify.com/track/4v8R49XdmetYzpDR9Oe68A"
@@ -4968,7 +5022,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 138074,
       "name": "Late Night Call",
       "url": "https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh"
@@ -5088,7 +5142,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m"
@@ -5154,7 +5208,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "LOEWE",
       "url": "https://open.spotify.com/track/346KKbkVI1LNqhRYD1TKX1"
@@ -5578,7 +5632,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 108569,
       "name": "MAYBACH TRUCK",
       "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
@@ -6316,6 +6370,24 @@
       "duration_ms": 141313,
       "name": "NaNa",
       "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
+    },
+    {
+      "album": {
+        "name": "Need it",
+        "url": "https://open.spotify.com/album/0A4zjnWfSBD2qNdpQeg8AB"
+      },
+      "artists": [
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138129,
+      "name": "Need it",
+      "url": "https://open.spotify.com/track/0mtUP661xI3ykFLYLwUipo"
     },
     {
       "album": {
@@ -7119,6 +7191,32 @@
     },
     {
       "album": {
+        "name": "Prada Sport",
+        "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        },
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205229,
+      "name": "Prada Sport",
+      "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
+    },
+    {
+      "album": {
         "name": "Pretty Privilege",
         "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
       },
@@ -7580,7 +7678,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 163946,
       "name": "Schmerz",
       "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
@@ -7606,7 +7704,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 188307,
       "name": "Scusa",
       "url": "https://open.spotify.com/track/1fcHxYGjq7l6C8ugKHgJa8"
@@ -7624,7 +7722,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 151986,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
@@ -7788,7 +7886,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 144359,
       "name": "Sie ist",
       "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
@@ -7908,7 +8006,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 150612,
       "name": "SO FRESH SO CLEAN",
       "url": "https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW"
@@ -8046,7 +8144,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 166018,
       "name": "SOMMERNACHT 2",
       "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
@@ -8296,7 +8394,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 143276,
       "name": "Summer Baby",
       "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
@@ -9276,7 +9374,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 137342,
       "name": "Von vorn",
       "url": "https://open.spotify.com/track/1HFXlVDXuU5kCVgk2EccP7"
@@ -10014,7 +10112,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 153490,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
@@ -10134,7 +10232,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 134788,
       "name": "Zemer",
       "url": "https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky"

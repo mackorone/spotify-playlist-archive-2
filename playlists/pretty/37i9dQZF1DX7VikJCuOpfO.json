@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fern\u00e1ndez \ud83d\udcf8",
-  "num_followers": 367571,
+  "num_followers": 367574,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
+        "name": "No Voy a Regresar",
+        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 195922,
+      "name": "No Voy a Regresar",
+      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
         "name": "Diente De Le\u00f3n",
         "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 219175,
       "name": "Diente De Le\u00f3n",
       "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
-        "name": "No Voy a Regresar",
-        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 195922,
-      "name": "No Voy a Regresar",
-      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Traigan Las Otras",
         "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 230806,
       "name": "Traigan Las Otras",
       "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Playa Sola",
-        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
-      },
-      "artists": [
-        {
-          "name": "Jessi Valente",
-          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Playa Sola",
+        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
+      },
+      "artists": [
+        {
+          "name": "Jessi Valente",
+          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
+        }
+      ],
+      "duration_ms": 164460,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
+        "name": "Los Amigos Asi",
+        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
+      },
+      "artists": [
+        {
+          "name": "Los Periquines de Don Ramon Torres",
+          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
+        }
+      ],
+      "duration_ms": 207830,
+      "name": "Los Amigos Asi",
+      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 146060,
       "name": "Mi M\u00e9xico Mestizo",
       "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
-        "name": "Los Amigos Asi",
-        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
-      },
-      "artists": [
-        {
-          "name": "Los Periquines de Don Ramon Torres",
-          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
-        }
-      ],
-      "duration_ms": 207830,
-      "name": "Los Amigos Asi",
-      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
     },
     {
       "added_at": "2026-04-24 06:00:58",

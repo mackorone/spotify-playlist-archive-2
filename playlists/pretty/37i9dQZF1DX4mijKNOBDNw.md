@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,179 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,182 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 32 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
 | 33 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 |
 | 34 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
-| 35 | [Femrevolución](https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt) | [Lucrecia Aguirre](https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD) | [Femrevolución](https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM) | 3:14 |
-| 36 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
+| 35 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
+| 36 | [Femrevolución](https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt) | [Lucrecia Aguirre](https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD) | [Femrevolución](https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM) | 3:14 |
 | 37 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
 | 38 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
 | 39 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |

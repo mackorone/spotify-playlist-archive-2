@@ -4,7 +4,7 @@
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-81 songs - 4 hr 0 min
+82 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 | 2023-05-05 |  |
 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 | 2023-05-05 |  |
 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 | 2023-05-05 |  |
-| [Lapponia](https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF) | [Monica Aspelund](https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh) | [100 Kaikkien aikojen iskelmää](https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn) | 2:47 | 2025-03-14 |  |
+| [Lapponia](https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF) | [Monica Aspelund](https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh) | [100 Kaikkien aikojen iskelmää](https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn) | 2:47 | 2025-03-14 | 2026-05-19 |
 | [Le chant de Mallory](https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA) | [Rachel](https://open.spotify.com/artist/6DYyXD1zYrJj8t9gzWhdii) | [Popp Songs](https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj) | 2:22 | 2025-03-14 |  |
 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 | 2023-05-05 |  |
 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 | 2023-05-05 |  |
@@ -61,6 +61,7 @@
 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 | 2023-05-05 |  |
 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 | 2025-03-14 |  |
 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 | 2023-05-05 |  |
+| [Ring A Ding Girl \(Rerecorded\)](https://open.spotify.com/track/0kqdsvUnpQmnflyNw2RVvw) | [Ronnie Carroll](https://open.spotify.com/artist/22WsdE2gbH75bDBfc3BpnB) | [Say Wonderful Things / Ring\-A\-Ding Girl \(Rerecorded Version\)](https://open.spotify.com/album/0wf4vmhoIXwg68tIdonL49) | 2:56 | 2025-03-14 |  |
 | [Save Your Kisses For Me](https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest 70's Hits Best Ever](https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc) | 3:02 | 2023-05-05 | 2026-02-28 |
 | [Save Your Kisses For Me \- Re\-Recording](https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 3:03 | 2023-05-05 |  |
 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 | 2023-05-05 |  |

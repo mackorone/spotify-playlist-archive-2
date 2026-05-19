@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 268 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 702 likes - 268 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 51 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
 | 52 | [buy me diamonds](https://open.spotify.com/track/7uki6xMVoqcnF5BnMakRuk) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:13 |
 | 53 | [Different for Us](https://open.spotify.com/track/4iDtwZRmjyXMSnmWr5U1O6) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Jordan Powers](https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:04 |
-| 54 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
-| 55 | [Soft](https://open.spotify.com/track/5a59o1acxGZ0txvNzumplU) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 2:58 |
+| 54 | [Soft](https://open.spotify.com/track/5a59o1acxGZ0txvNzumplU) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 2:58 |
+| 55 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
 | 56 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 57 | [I'm Scared I’ll Never Sleep Again](https://open.spotify.com/track/2hCVZaN1R3yS0U4LffcjEw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:49 |
 | 58 | [Everyone’s A Star!](https://open.spotify.com/track/1A1PKRd7QNAuZTVFVowK5G) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 125 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
 | 126 | [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 |
 | 127 | [Roses \(feat\. Avery Anna\)](https://open.spotify.com/track/6N2WVKMPZNoh5pLCLO5M7S) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Roses \(Versions\)](https://open.spotify.com/album/3Dt6CTMbmNOH4C6xlQLQd5) | 3:10 |
-| 128 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
-| 129 | [She’s So Pretty](https://open.spotify.com/track/4te3Z4fg2MSfdhCX183u5u) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:51 |
+| 128 | [She’s So Pretty](https://open.spotify.com/track/4te3Z4fg2MSfdhCX183u5u) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:51 |
+| 129 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
 | 130 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
 | 131 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
 | 132 | [Used To You Now](https://open.spotify.com/track/2dCTUG5y7ZMKzm2b6ILDcH) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:11 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 195 | [Party Trick](https://open.spotify.com/track/2mNURUBKcMGfLK3NfhCOOv) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/3Q7npjBOWlKQHJiIewOHsR) | 3:26 |
 | 196 | [Gemini](https://open.spotify.com/track/4U96mEgDsbzcZid2wycKma) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:35 |
 | 197 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 |
-| 198 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
-| 199 | [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 |
+| 198 | [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 |
+| 199 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
 | 200 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 |
 | 201 | [Sorry That I Miss You](https://open.spotify.com/track/1TvvEJ8uFTCZJYGjGNha3M) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:36 |
 | 202 | [Here Comes The Sun](https://open.spotify.com/track/1hTT4PtXnqmQ9UuEpCl0WA) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [PUZZLED](https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo) | 2:44 |
@@ -259,10 +259,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 249 | [Stupid Kids](https://open.spotify.com/track/2zzP8TyPLzrc3zauVDaCLM) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 2:48 |
 | 250 | [Nostalgia](https://open.spotify.com/track/3vZzVdbzeg8hbSmEKTqR2S) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Nostalgia](https://open.spotify.com/album/27VyDOinSlqrIMJLHjARWu) | 3:27 |
 | 251 | [BRIGHT LIGHTS](https://open.spotify.com/track/40SjNGa1n34Yw0ViAvM6D0) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [BRIGHT LIGHTS](https://open.spotify.com/album/0BFGBjU9udtF025t21EZUV) | 3:02 |
-| 252 | [Sting](https://open.spotify.com/track/0qrB07ZhhfBsVtx02TImSN) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Sting](https://open.spotify.com/album/3Gl32Ym4odbIuYwaoAkQQ6) | 3:37 |
-| 253 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 |
-| 254 | [Seasons](https://open.spotify.com/track/4y9jIjdtSEWAUnbjrSoOle) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [2019](https://open.spotify.com/album/0gCogRTzYsWjQjipkylR52) | 2:43 |
-| 255 | [Where Did You Go](https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA) | 2:47 |
+| 252 | [Where Did You Go](https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA) | 2:47 |
+| 253 | [Sting](https://open.spotify.com/track/0qrB07ZhhfBsVtx02TImSN) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Sting](https://open.spotify.com/album/3Gl32Ym4odbIuYwaoAkQQ6) | 3:37 |
+| 254 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 |
+| 255 | [Seasons](https://open.spotify.com/track/4y9jIjdtSEWAUnbjrSoOle) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [2019](https://open.spotify.com/album/0gCogRTzYsWjQjipkylR52) | 2:43 |
 | 256 | [Pillows](https://open.spotify.com/track/0zJKSGfEwHnfFx3Mt8kAnD) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Album I: Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:15 |
 | 257 | [Love in Hollywood](https://open.spotify.com/track/47KWeyAxS1d7DnvWR1uh2O) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Slow Down](https://open.spotify.com/album/6ug3MSygzQaQnctSyFfREw) | 3:04 |
 | 258 | [Hers](https://open.spotify.com/track/2ZUlMGnl6yzd0JVepz9w7N) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album I: Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:53 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 267 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 268 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AcRxPAAAAABHQZHlooqcMKJByHcsokgx`
+Snapshot ID: `AcR3GAAAAAD4RAi78xfwruH4uetCkf1H`

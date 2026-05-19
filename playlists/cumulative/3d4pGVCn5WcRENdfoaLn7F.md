@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-349 songs - 21 hr 5 min
+351 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-11-09 | 2025-12-06 |
 | [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 | 2026-04-28 |  |
 | [She the one](https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB) | [Revelt](https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk) | [She the one](https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz) | 3:33 | 2026-03-21 | 2026-04-15 |
+| [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-05-18 |  |
 | [SHIT](https://open.spotify.com/track/6qxZ2hn2HlvmJkQrQwo59t) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [SHIT / you only miss me when im empty](https://open.spotify.com/album/7z0iHOJ2wlWhooEOHYCptP) | 2:33 | 2025-11-12 | 2025-12-06 |
 | [Si todo sale bien](https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 2:39 | 2026-04-21 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
@@ -291,6 +292,7 @@
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2026-01-05 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-20 | 2026-01-21 |
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2025-11-04 | 2025-12-06 |
+| [The Overview](https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV) | [The Streetlights](https://open.spotify.com/artist/4wkbEfCePFwRy83imzOOuy) | [The Overview](https://open.spotify.com/album/3QF66H9EbSTbTzEFoFEqgv) | 2:45 | 2026-05-18 |  |
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-04 |  |
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2026-04-15 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-06 |

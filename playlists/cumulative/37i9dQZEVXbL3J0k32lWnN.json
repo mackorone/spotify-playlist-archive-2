@@ -3793,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "Bange For At Elske",
         "url": "https://open.spotify.com/album/5zkZTMBB7HeGJzUstN34tf"
       },
@@ -12026,7 +12044,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 214739,
       "name": "D\u00e9t Der Udenfor",
       "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
@@ -20982,7 +21000,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 277283,
       "name": "Hver dag/Lang tid siden",
       "url": "https://open.spotify.com/track/6fUqvhOewRM0pa9WmGMFOg"
@@ -25470,7 +25488,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 157097,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
@@ -28342,7 +28360,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -29012,7 +29030,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 256746,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/4cwipyLLmLtqsOhFP8EkCS"
@@ -29656,6 +29674,28 @@
       "duration_ms": 151891,
       "name": "Miami Vicer",
       "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
+    },
+    {
+      "album": {
+        "name": "Michelle",
+        "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
     },
     {
       "album": {
@@ -38816,7 +38856,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 173259,
       "name": "Skyklapper",
       "url": "https://open.spotify.com/track/6duCMFaYET6WicI5rTD9jz"
@@ -39402,7 +39442,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -47478,7 +47518,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"

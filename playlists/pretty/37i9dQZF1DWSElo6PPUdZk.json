@@ -1,12 +1,12 @@
 {
   "description": "Catch the queens of Punjabi Pop. Cover: Nimrat Khaira",
-  "num_followers": 41442,
+  "num_followers": 41447,
   "original_name": "Women of Punjabi Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxiDWwHNEYnwbzybIygYLNg1FJU",
+  "snapshot_id": "AAAAAMc8SGW4OGlxhI4dsFBA3CZMG8gT",
   "tracks": [
     {
       "added_at": "2026-05-15 11:25:34",
@@ -53,6 +53,30 @@
       "url": "https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0"
     },
     {
+      "added_at": "2026-05-18 15:09:42",
+      "album": {
+        "name": "Ishq Khumari",
+        "url": "https://open.spotify.com/album/0zGpme4YoiW8cwwj0hVumP"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        },
+        {
+          "name": "Jot Virk",
+          "url": "https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2"
+        }
+      ],
+      "duration_ms": 201606,
+      "name": "Ishq Khumari",
+      "url": "https://open.spotify.com/track/0d8V8GnN2a0QulBqYYNuaW"
+    },
+    {
       "added_at": "2026-05-15 11:25:34",
       "album": {
         "name": "Joda Natiyaan Da",
@@ -97,28 +121,28 @@
       "url": "https://open.spotify.com/track/4BsokjPAQ8iK9abTce9oCN"
     },
     {
-      "added_at": "2026-05-15 11:25:34",
+      "added_at": "2026-05-18 15:15:14",
       "album": {
-        "name": "Trigger Talk",
-        "url": "https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ"
+        "name": "5 Gede",
+        "url": "https://open.spotify.com/album/0x9tO5CkHU0tqAKVkACYjK"
       },
       "artists": [
         {
-          "name": "Raman Romana",
-          "url": "https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv"
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
         },
         {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/4CwrwTrDILSiVdik8oy2F5"
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
         },
         {
-          "name": "Rian Music",
-          "url": "https://open.spotify.com/artist/6VFus9iJ0TVxR1Sjj4uD0Y"
+          "name": "Vicky Bhullar",
+          "url": "https://open.spotify.com/artist/4VSSJraWp49T2eflzcCfjl"
         }
       ],
-      "duration_ms": 155943,
-      "name": "Trigger Talk",
-      "url": "https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB"
+      "duration_ms": 153381,
+      "name": "5 Gede",
+      "url": "https://open.spotify.com/track/2pL59oav27Ltb5ypre95qR"
     },
     {
       "added_at": "2026-05-15 11:25:34",
@@ -143,30 +167,6 @@
       "duration_ms": 163136,
       "name": "Jee Nai Lagda",
       "url": "https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E"
-    },
-    {
-      "added_at": "2026-05-15 11:25:34",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/5phcg8VzAXIuIONayNmygT"
-      },
-      "artists": [
-        {
-          "name": "Pari Pandher",
-          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
-        },
-        {
-          "name": "Nabjot",
-          "url": "https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1"
-        },
-        {
-          "name": "DONNA",
-          "url": "https://open.spotify.com/artist/5uABnMH8F1kFh5Z1iKIm0u"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc"
     },
     {
       "added_at": "2026-05-15 11:25:34",

@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 28087,
+  "num_followers": 28089,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAwLLyv/tDMEiFko/oqkEok",
+  "snapshot_id": "agkFAAAAAAC9errqtOWBlI1rY+45K4bw",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
+      "duration_ms": 179973,
+      "name": "MOVIN' ON",
+      "url": "https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Do It",
-        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 179973,
-      "name": "MOVIN' ON",
-      "url": "https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ"
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,

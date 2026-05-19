@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346472,
+  "num_followers": 346466,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Walking Each Other Home",
         "url": "https://open.spotify.com/album/66MK44Etnba6obuePImbiy"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 186374,
       "name": "Walking Each Other Home",
       "url": "https://open.spotify.com/track/0bKRWcR62BCpaUxKqumMdh"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Open Door (Live)",
-        "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 370839,
-      "name": "There Is Peace - Live",
-      "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 181119,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Open Door (Live)",
+        "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 370839,
+      "name": "There Is Peace - Live",
+      "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Es\u00e9",
-        "url": "https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 194602,
-      "name": "Es\u00e9",
-      "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Trust In God (Acoustic)",
         "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Heavenly Places",
-        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+        "name": "Es\u00e9",
+        "url": "https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH"
       },
       "artists": [
         {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 194332,
-      "name": "Heavenly Places",
-      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
+      "duration_ms": 194602,
+      "name": "Es\u00e9",
+      "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Heavenly Places",
+        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "duration_ms": 194332,
+      "name": "Heavenly Places",
+      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Orange Streetlights (Acoustic Version)",
         "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Simple Phrase",
-        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Simple Phrase",
-      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 178548,
       "name": "This Is How I Thank The Lord - Acoustic",
       "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Simple Phrase",
+        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Simple Phrase",
+      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "God Is Love",
-        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "God Is Love",
-      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Goodnight, May God Bless You",
         "url": "https://open.spotify.com/album/0e1Wtk5B9yegFcB7wcXGWd"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 155067,
       "name": "Goodnight, May God Bless You",
       "url": "https://open.spotify.com/track/1O8hBLPze5cKFvsncfd43B"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
-      },
-      "artists": [
-        {
-          "name": "Olivia Stern",
-          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 293475,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "i love You",
         "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 188463,
       "name": "i love You",
       "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "duration_ms": 293475,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Reflections \u274d \u2769 \u2769\u2769 Mi\u25d7\u281d\u280a\u2823\u2813\u271d\ufe0e\u210b\ud835\udc32\ud835\udd78n\u16cb ~ Vol.III",
-        "url": "https://open.spotify.com/album/7nDFGD0k4IRnLUKSsc8auA"
-      },
-      "artists": [
-        {
-          "name": "AMXNRADIO",
-          "url": "https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 322703,
-      "name": "on my own \u2768 \u2768 \u274d \u2769 \u2769\u2769 i can\u2019t do this",
-      "url": "https://open.spotify.com/track/3UQC9h54bUt7qdPVZwoFug"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Slow Burn (Take Your Time)",
         "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 224350,
       "name": "Ordinary Miracle",
       "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Reflections \u274d \u2769 \u2769\u2769 Mi\u25d7\u281d\u280a\u2823\u2813\u271d\ufe0e\u210b\ud835\udc32\ud835\udd78n\u16cb ~ Vol.III",
+        "url": "https://open.spotify.com/album/7nDFGD0k4IRnLUKSsc8auA"
+      },
+      "artists": [
+        {
+          "name": "AMXNRADIO",
+          "url": "https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "duration_ms": 322703,
+      "name": "on my own \u2768 \u2768 \u274d \u2769 \u2769\u2769 i can\u2019t do this",
+      "url": "https://open.spotify.com/track/3UQC9h54bUt7qdPVZwoFug"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 198774,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "interlude",
         "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
       },
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
+        "name": "MATIN: Home",
+        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
         }
       ],
-      "duration_ms": 198774,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
+      "duration_ms": 240687,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1783,22 +1799,6 @@
       "duration_ms": 174545,
       "name": "Water",
       "url": "https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "MATIN: Home",
-        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Give Me Rest",
+        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 243704,
+      "name": "Give Me Rest",
+      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "You Are Holy / Falling In Love With Jesus",
         "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
       },
@@ -1879,18 +1895,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Give Me Rest",
-        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
+        "name": "I Smile (Neo-Soul Version)",
+        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
       },
       "artists": [
         {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
         }
       ],
-      "duration_ms": 243704,
-      "name": "Give Me Rest",
-      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
+      "duration_ms": 137746,
+      "name": "I Smile - Neo-Soul Version",
+      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1907,22 +1923,6 @@
       "duration_ms": 215000,
       "name": "Praise - Acoustic",
       "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "I Smile (Neo-Soul Version)",
-        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "I Smile - Neo-Soul Version",
-      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Forever Communion",
-        "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 206479,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "El Roi",
         "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 179573,
       "name": "El Roi",
       "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Forever Communion",
+        "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 206479,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "By The Grace Of God",
-        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
-      },
-      "artists": [
-        {
-          "name": "Nick Herbert",
-          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "By The Grace Of God",
-      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "It Is Done",
         "url": "https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 157894,
       "name": "It Is Done",
       "url": "https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "By The Grace Of God",
+        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
     },
     {
       "added_at": "2026-04-17 06:49:13",

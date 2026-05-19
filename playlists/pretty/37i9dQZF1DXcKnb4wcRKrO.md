@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,365 likes - 150 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,568 likes - 150 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 20 | [Hōrōsha](https://open.spotify.com/track/3gu4pW8QMf0lGeHgXJUhdn) | [Hanmokku](https://open.spotify.com/artist/7rN6E86ENy60f3ckwV4lmT) | [Hōrōsha](https://open.spotify.com/album/3IWauMp3t0u0U4JnvHNCuj) | 2:56 |
 | 21 | [Night Shenanigans](https://open.spotify.com/track/2JguynNmRKFkrINqp9vWZS) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Night Shenanigans](https://open.spotify.com/album/0P1ukiQDo9WraIW2h7YP89) | 2:40 |
 | 22 | [Dust on the Rhodes](https://open.spotify.com/track/54l6674SZkB9eR4jyN593L) | [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm), [Lennex](https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK) | [Dust on the Rhodes](https://open.spotify.com/album/4pz3OqG0PRWgjmFvPD8yaK) | 2:02 |
-| 23 | [Sapphire](https://open.spotify.com/track/5d26dR65t03IsJpmRmehUe) | [Taepe](https://open.spotify.com/artist/0ZFUDitmNdaXCxZwfTkc8V), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq) | [Sapphire](https://open.spotify.com/album/4Lsn1m5IwGHkC4b26nnpED) | 2:42 |
+| 23 | [Sapphire](https://open.spotify.com/track/5d26dR65t03IsJpmRmehUe) | [Taepe](https://open.spotify.com/artist/0ZFUDitmNdaXCxZwfTkc8V), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Sapphire](https://open.spotify.com/album/4Lsn1m5IwGHkC4b26nnpED) | 2:42 |
 | 24 | [Night Bloom \(Remix\)](https://open.spotify.com/track/51uGn1P2KylEBDVbsWhOHg) | [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm), [Lennex](https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq), [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Night Bloom \(Remix\)](https://open.spotify.com/album/0EIMmMjyZjmn3KVNw2rRW1) | 2:18 |
 | 25 | [Digestivo](https://open.spotify.com/track/3dt6uuYGkPIuGWUTUzmEMv) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Digestivo](https://open.spotify.com/album/54VPqHzsNXUXGFUziJQRNT) | 2:22 |
 | 26 | [Grasshopper](https://open.spotify.com/track/7kNWQhpygL7bSaxgBGV6cz) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Grasshopper](https://open.spotify.com/album/4HUJjGOahs4k3rDQ5X6LrZ) | 2:44 |

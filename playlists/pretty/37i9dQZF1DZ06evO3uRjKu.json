@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75968,
+  "num_followers": 75974,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAC3nslspv2dolceGxecTOaQ",
+  "snapshot_id": "agkFAAAAAACSXs/NqaBYcoSNcmho3Lpl",
   "tracks": [
     {
       "added_at": null,
@@ -667,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
       "artists": [
+        {
+          "name": "El\u00edas Rampello",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 202801,
-      "name": "La Caca del Bandido",
-      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psic\u00f3tico",
-        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "El\u00edas Rampello",
-          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Psic\u00f3tico",
-      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+      "duration_ms": 202801,
+      "name": "La Caca del Bandido",
+      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
     },
     {
       "added_at": null,

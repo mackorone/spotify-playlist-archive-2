@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-130 songs - 8 hr 27 min
+131 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [The Whisper and the Roar](https://open.spotify.com/track/4RbpLpIQcNdmXkVUnvZRT2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [The Whisper and the Roar](https://open.spotify.com/album/2pTxHsktIXrwv30aJ8pCGd) | 6:58 | 2025-11-06 | 2025-12-08 |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-17 | 2026-02-07 |
 | [Time](https://open.spotify.com/track/17x3IQEhf9Xshdh1CEP9B3) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/42WFK8KBG1Vvj25YvuTN93) | 4:13 | 2025-07-31 |  |
+| [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-05-18 |  |
 | [TIME, A precious thing](https://open.spotify.com/track/29aBAdsMAxisxLOjDIGfE8) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [TIME, A precious thing](https://open.spotify.com/album/2CfhRG7iIcQGYLYBmTsT2X) | 3:50 | 2025-11-09 | 2025-12-08 |
 | [Transmission\_0](https://open.spotify.com/track/4JO3DqM7nvWtu2t2sb2VLP) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Transmission\_0](https://open.spotify.com/album/1evIDHQNSM5U6KJtLsfib7) | 1:53 | 2025-11-04 | 2025-12-08 |
 | [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 | 2026-05-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Etta, AHTI, ANI ja Sara Bee..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,925 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,939 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 62 | [Press Back](https://open.spotify.com/track/3WEOgg8eTNu4hD2OBs38ir) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Press Back](https://open.spotify.com/album/3gy49t1sOhKs2Kd6tAbJwH) | 2:48 |
 | 63 | [Turn Up The Bass](https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA), [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE) | 2:03 |
 | 64 | [PÄÄLLIKÖT \(feat\. Skandaali\)](https://open.spotify.com/track/7B80UKhbxH7Tl5XFL8Mxo2) | [Kimi Hendrix](https://open.spotify.com/artist/70EDugmttoaPiyYPiGJOlt), [Antisankari](https://open.spotify.com/artist/0UHimDJ0Xqjb8IPjtXwgRn), [Suomen Vahvin Mies](https://open.spotify.com/artist/3UKbhfEN99wogywptasIxl), [Skandaali](https://open.spotify.com/artist/7LL8ICMlnfeCxnXmKuGYwQ) | [PÄÄLLIKÖT \(feat\. Skandaali\)](https://open.spotify.com/album/1ejK9Nzf2Jj21ifDMp6f90) | 4:08 |
-| 65 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 65 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 66 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 67 | [Hetken aikaa](https://open.spotify.com/track/1VORkI8xngphPdzezRpZHS) | [BENE](https://open.spotify.com/artist/6tS5Kq4gUAngGsKcdwLqaa), [Jonas](https://open.spotify.com/artist/3CtogfgamUizgteA10dzgM) | [Hetken aikaa](https://open.spotify.com/album/1AuQMKlApf1TvepxIi0ghV) | 2:25 |
 | 68 | [Miljoonat tahtoo sua](https://open.spotify.com/track/0uLSHFf36s9wUKA1yRY82H) | [Pike](https://open.spotify.com/artist/1H2h61UmlEv9WejWfwJx1G) | [Miljoonat tahtoo sua](https://open.spotify.com/album/7DceHDEYvZB8OKsJ3OP31l) | 2:38 |

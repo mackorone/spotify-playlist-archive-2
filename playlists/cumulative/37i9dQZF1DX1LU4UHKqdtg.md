@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NMIXX
 
-1,734 songs - 3 day 19 hr 24 min
+1,735 songs - 3 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/track/5wc3JZS10SM1JoCv13Fr5Y) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/album/6s37gVR5yCdHFJfLbpkmBh) | 2:57 | 2024-08-29 | 2024-10-11 |
 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 | 2025-11-17 | 2026-02-27 |
 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-19 | 2025-11-18 |
-| [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/track/26ZXmnV2EoILwZxDitGBUz) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/album/5RwpaUNCs8Ak1rTWRj25Od) | 4:00 | 2026-05-04 |  |
+| [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/track/26ZXmnV2EoILwZxDitGBUz) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/album/5RwpaUNCs8Ak1rTWRj25Od) | 4:00 | 2026-05-04 | 2026-05-19 |
 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-29 | 2025-02-01 |
 | [GRAB ME](https://open.spotify.com/track/6ad1x6RTZbAINCBUqiuoAV) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: FOUND](https://open.spotify.com/album/5iuOgrQuJFL4RgUBmF5ieO) | 3:16 | 2024-01-23 | 2024-02-14 |
 | [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/track/4eCxt8h7dTYNrdsdpOJuW8) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/2rRTnXXvVLHlQfSTJbSkCw) | 3:16 | 2024-06-11 | 2024-07-31 |
@@ -945,6 +945,7 @@
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-08-30 |
 | [Motivation](https://open.spotify.com/track/6KitQ2zHcA2Iek61XosIFS) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/7BdccscF8qqsDCb6LOXzUA) | 3:01 | 2026-01-15 | 2026-04-22 |
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
+| [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-18 |  |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-24 |  |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
@@ -1509,7 +1510,7 @@
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-10-11 | 2025-01-09 |
-| [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 | 2025-11-10 |  |
+| [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 | 2025-11-10 | 2026-05-19 |
 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 | 2026-03-05 |  |
 | [Twenty](https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:08 | 2024-07-01 | 2024-08-07 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-02-25 | 2025-03-07 |

@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "RODRI MEDINA",
+        "url": "https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm"
+      },
+      "artists": [
+        {
+          "name": "Rodri Medina",
+          "url": "https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255275,
+      "name": "AMOR EN ZAMBA",
+      "url": "https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
@@ -827,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Eso Eres T\u00fa",
+        "url": "https://open.spotify.com/album/5izPHVd1rA1ApYbukWKM2L"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Herrera",
+          "url": "https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251031,
+      "name": "Eso Eres T\u00fa",
+      "url": "https://open.spotify.com/track/4L5c16rJlYxpLrpKcdFxPX"
+    },
+    {
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
@@ -838,7 +874,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 236854,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
@@ -1092,6 +1128,24 @@
       "duration_ms": 249985,
       "name": "La del Olvido",
       "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
+    },
+    {
+      "album": {
+        "name": "La Del Otro Beso",
+        "url": "https://open.spotify.com/album/4188TKduMsT76W4sTRBvkI"
+      },
+      "artists": [
+        {
+          "name": "Aixa Figueroa",
+          "url": "https://open.spotify.com/artist/4PU26gJkph0hgCe5sksIrK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "La Del Otro Beso",
+      "url": "https://open.spotify.com/track/1GDjkD6JDNH2QCji9EQEQ6"
     },
     {
       "album": {
@@ -1644,7 +1698,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
@@ -1912,7 +1966,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 212828,
       "name": "Por amarte as\u00ed",
       "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"
@@ -2222,6 +2276,24 @@
       "duration_ms": 226750,
       "name": "Si La Vieras",
       "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+    },
+    {
+      "album": {
+        "name": "Si Me Vas Abandonar",
+        "url": "https://open.spotify.com/album/0u25XHM6hopypfPU43aBcQ"
+      },
+      "artists": [
+        {
+          "name": "Changuito yute\u00f1o",
+          "url": "https://open.spotify.com/artist/3lSfNecli4niKGN03EKJLF"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Si Me Vas Abandonar",
+      "url": "https://open.spotify.com/track/4iRXk04qLPsQaaq0ufXfWp"
     },
     {
       "album": {

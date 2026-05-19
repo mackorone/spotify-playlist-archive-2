@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Tone Stith",
-  "num_followers": 1012705,
+  "num_followers": 1012668,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
-      "album": {
-        "name": "Untitled (Rise)",
-        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 196814,
-      "name": "Son Shine",
-      "url": "https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Gossip in the Grain",
@@ -1007,6 +991,22 @@
       "duration_ms": 231840,
       "name": "You Are The Best Thing",
       "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
+    },
+    {
+      "added_at": "2025-04-21 15:39:41",
+      "album": {
+        "name": "Untitled (Rise)",
+        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 196814,
+      "name": "Son Shine",
+      "url": "https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK"
     },
     {
       "added_at": "2025-04-25 07:26:24",
@@ -1189,26 +1189,6 @@
       "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
     },
     {
-      "added_at": "2026-03-20 23:51:54",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Move (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
-    },
-    {
       "added_at": "2025-06-20 04:00:56",
       "album": {
         "name": "In The Moment",
@@ -1239,6 +1219,26 @@
       "duration_ms": 177573,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
+    },
+    {
+      "added_at": "2026-03-20 23:51:54",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Move (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1349,6 +1349,26 @@
       "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
     },
     {
+      "added_at": "2025-05-16 15:23:54",
+      "album": {
+        "name": "Strawberry featuring Rae Khalil",
+        "url": "https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib"
+      },
+      "artists": [
+        {
+          "name": "Ships & Hardships",
+          "url": "https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 163291,
+      "name": "Strawberry featuring Rae Khalil",
+      "url": "https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Why Lawd?",
@@ -1371,26 +1391,6 @@
       "duration_ms": 167894,
       "name": "MoveOn",
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
-    },
-    {
-      "added_at": "2025-05-16 15:23:54",
-      "album": {
-        "name": "Strawberry featuring Rae Khalil",
-        "url": "https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib"
-      },
-      "artists": [
-        {
-          "name": "Ships & Hardships",
-          "url": "https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 163291,
-      "name": "Strawberry featuring Rae Khalil",
-      "url": "https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx"
     },
     {
       "added_at": "2024-03-08 13:51:25",

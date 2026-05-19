@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u5973\u6027\u306e\u30a8\u30f3\u30d1\u30ef\u30e1\u30f3\u30c8\u3092\u30c6\u30fc\u30de\u306b\u3001MUSIC AWARDS JAPAN WEEK\u306b\u958b\u50ac\u3055\u308c\u308b\u201dWomen In Music - EQUAL STAGE\u201d\u3092\u7279\u96c6\uff01\u8a73\u7d30\u306f<a href=\"https://www.billboard-japan.com/wim-equal/\">\u3053\u3061\u3089</a> cover: Awich",
+  "description": "\u5973\u6027\u306e\u30a8\u30f3\u30d1\u30ef\u30e1\u30f3\u30c8\u3092\u30c6\u30fc\u30de\u306b\u3001MUSIC AWARDS JAPAN WEEK\u306b\u958b\u50ac\u3055\u308c\u308b\u201dWomen In Music - EQUAL STAGE\u201d\u3092\u7279\u96c6\uff01\u8a73\u7d30\u306f<a href=\"https://www.billboard-japan.com/wim-equal/\">\u3053\u3061\u3089</a> cover: \u7f8a\u6587\u5b66",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -3344,10 +3344,28 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 352524,
       "name": "Complete silence",
       "url": "https://open.spotify.com/track/42OiENXw0a8mt7eizLfyee"
+    },
+    {
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/1NcA4ducN3BDt1ZVGvNG1Z"
+      },
+      "artists": [
+        {
+          "name": "Black Boboi",
+          "url": "https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352524,
+      "name": "Complete silence",
+      "url": "https://open.spotify.com/track/6GVyulZvKqegdvUCT578vL"
     },
     {
       "album": {
@@ -6082,7 +6100,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 253333,
       "name": "GILA GILA",
       "url": "https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X"
@@ -7382,6 +7400,24 @@
     {
       "album": {
         "name": "higher",
+        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+    },
+    {
+      "album": {
+        "name": "higher",
         "url": "https://open.spotify.com/album/0504f7x1t4XpJMWfNnQL5N"
       },
       "artists": [
@@ -7392,7 +7428,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 214733,
       "name": "higher",
       "url": "https://open.spotify.com/track/2hZGOVMoWYSFHvjRV4CEhh"
@@ -11644,10 +11680,28 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 204929,
       "name": "Mollyfantasy",
       "url": "https://open.spotify.com/track/0WYQsPBeQUSW09VOzI1MFO"
+    },
+    {
+      "album": {
+        "name": "Le Tombeau de valknee",
+        "url": "https://open.spotify.com/album/3jEd5ad9Jb1NpZQf6OHubw"
+      },
+      "artists": [
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204929,
+      "name": "Mollyfantasy",
+      "url": "https://open.spotify.com/track/6KTyaTAo4SZqaHKHiPbZx0"
     },
     {
       "album": {
@@ -17924,6 +17978,24 @@
     {
       "album": {
         "name": "Take you away",
+        "url": "https://open.spotify.com/album/6iWLnaNHcDlU0mueKXvXiS"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234784,
+      "name": "Take you away",
+      "url": "https://open.spotify.com/track/1cVNT9wSkKx246wFWQmqGu"
+    },
+    {
+      "album": {
+        "name": "Take you away",
         "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
       },
       "artists": [
@@ -17934,7 +18006,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 234784,
       "name": "Take you away",
       "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
@@ -18712,7 +18784,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 191186,
       "name": "Tokyo Calling",
       "url": "https://open.spotify.com/track/2ZVDVwltoFAwqdhCxbvdKg"
@@ -18730,7 +18802,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 191186,
       "name": "Tokyo Calling",
       "url": "https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF"
@@ -19740,6 +19812,28 @@
     {
       "album": {
         "name": "NEWME",
+        "url": "https://open.spotify.com/album/6uXiOq6uJpufALK894LWRe"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "WAKEUP feat. MFS",
+      "url": "https://open.spotify.com/track/06c30EQS9fPzQteL5BmAVA"
+    },
+    {
+      "album": {
+        "name": "NEWME",
         "url": "https://open.spotify.com/album/76u3GGHTD8Z7iqQD3QbRXz"
       },
       "artists": [
@@ -19754,7 +19848,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 178866,
       "name": "WAKEUP feat. MFS",
       "url": "https://open.spotify.com/track/7jfTj0XG4jdhVxu35BXoHA"
@@ -25800,7 +25894,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 351870,
       "name": "\u5149\u308b\u3068\u304d",
       "url": "https://open.spotify.com/track/7Aflm6F9jMApKat1tjvhxT"
@@ -26114,7 +26208,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 264520,
       "name": "\u58f0",
       "url": "https://open.spotify.com/track/0Jle4qljtCRPsg1b1YV0gJ"
@@ -28282,7 +28376,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 197590,
       "name": "\u7d19\u98db\u884c\u6a5f",
       "url": "https://open.spotify.com/track/6MWmWk4FEZBMGvYW5EMZVZ"

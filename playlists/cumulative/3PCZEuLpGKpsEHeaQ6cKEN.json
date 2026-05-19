@@ -3931,6 +3931,28 @@
     },
     {
       "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+    },
+    {
+      "album": {
         "name": "Broken Bones",
         "url": "https://open.spotify.com/album/1YwundRcMfWV3pyqDNNWcj"
       },
@@ -24759,6 +24781,28 @@
     },
     {
       "album": {
+        "name": "One Question",
+        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184019,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "album": {
         "name": "Only 1",
         "url": "https://open.spotify.com/album/2aK61xD3g5nBiZppcfuSZi"
       },
@@ -28066,6 +28110,24 @@
       "duration_ms": 185996,
       "name": "River",
       "url": "https://open.spotify.com/track/5CVfpoHb8yDLy8JOIU8AiM"
+    },
+    {
+      "album": {
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/1gVm3KpC3Mf4mvARQR36lH"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243232,
+      "name": "Road Trips",
+      "url": "https://open.spotify.com/track/4TxKU7OkwhPQXETqmKIMcx"
     },
     {
       "album": {

@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 219226,
       "name": "J'te l'dis quand m\u00eame",
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
@@ -1128,6 +1128,24 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "album": {
+        "name": "Variations Sur Le Meme T'Aime",
+        "url": "https://open.spotify.com/album/7cX5HHUqHdFK4nJqqJVtVU"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210930,
+      "name": "Tandem",
+      "url": "https://open.spotify.com/track/25OwpdcXx3Ash6MvxcjaY4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 989 likes - 104 songs - 6 hr 13 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 989 likes - 106 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 102 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
 | 103 | [Baby Face](https://open.spotify.com/track/3bRmQElmc3Pk37dcGOdlp3) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:30 |
 | 104 | [The Seam](https://open.spotify.com/track/4TlAo4IKVYjlulx8kfJee1) | [Neal Hooks](https://open.spotify.com/artist/6eZaaqFRF8cESVVjN2TlyH) | [Juliette & Clyde](https://open.spotify.com/album/52SHYtUn7d7MDfU8rHWBlD) | 3:18 |
+| 105 | [La Radio](https://open.spotify.com/track/5xM3Os39N9KSh2Q7AJ4AeI) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [La Radio](https://open.spotify.com/album/66uc9Jdwz34riwvTQrI0RG) | 2:38 |
+| 106 | [The Overview](https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV) | [The Streetlights](https://open.spotify.com/artist/4wkbEfCePFwRy83imzOOuy) | [The Overview](https://open.spotify.com/album/3QF66H9EbSTbTzEFoFEqgv) | 2:45 |
 
-Snapshot ID: `AAAGEHPewtNTxKeoAohAiFzTLDn9OFhj`
+Snapshot ID: `AAAGEjqRvv8+qNzZGDUKCHam9xtlrKsk`

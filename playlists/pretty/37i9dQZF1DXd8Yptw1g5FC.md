@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > İrem Derici ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,449 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,440 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 14 | [Zor](https://open.spotify.com/track/0tuOP51T4wijydu8Bq8aKb) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Zor](https://open.spotify.com/album/5crUqPRMe8xrEqm8nlaXRl) | 2:53 |
 | 15 | [Düştüm Bi Anda](https://open.spotify.com/track/1vcjSDZisFwtAM55fXmrGI) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Düştüm Bi Anda](https://open.spotify.com/album/1aVU6ThRUQT7m1QjRyEh0c) | 3:05 |
 | 16 | [Ah Bir Ataş Ver \- Pür Cunda Live Sessions](https://open.spotify.com/track/20l0FMdAbz4yxTCBBEPg66) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Ah Bir Ataş Ver \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/2ORUhCYWBNEZhUh56aKeNu) | 4:42 |
-| 17 | [Adı İntikamdı](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 |
+| 17 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 |
 | 18 | [BAK SEN](https://open.spotify.com/track/0TZZLhGjfwSzP193XMJtPl) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [BAK SEN](https://open.spotify.com/album/2z9QMjqXF811pI6i82d8lt) | 1:45 |
 | 19 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 20 | [Gökdelenler](https://open.spotify.com/track/0n5yvHSkreD4vLpIg4iEGs) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Gökdelenler](https://open.spotify.com/album/3MCpSFjgDE2a8BDJCSdC9t) | 3:30 |

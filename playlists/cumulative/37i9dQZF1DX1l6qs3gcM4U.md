@@ -2,7 +2,7 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Anna Joyce
+> Fall in love with the sensual sounds of Kizomba! Cover: Calema
 
 675 songs - 1 day 14 hr 49 min
 

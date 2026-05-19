@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: BIGYUKI",
-  "num_followers": 49792,
+  "num_followers": 49797,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Lims",
-        "url": "https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        },
-        {
-          "name": "Kojoe",
-          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
-        }
-      ],
-      "duration_ms": 269739,
-      "name": "The qante",
-      "url": "https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "My people",
         "url": "https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 236096,
       "name": "My people",
       "url": "https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Lims",
+        "url": "https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        },
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        }
+      ],
+      "duration_ms": 269739,
+      "name": "The qante",
+      "url": "https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC"
     },
     {
       "added_at": "2026-05-13 05:44:05",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Ooh-La-La",
-        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 238875,
-      "name": "Curumim",
-      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "\u76f8\u601d\u76f8\u611b",
         "url": "https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 269200,
       "name": "\u76f8\u601d\u76f8\u611b",
       "url": "https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Ooh-La-La",
+        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 238875,
+      "name": "Curumim",
+      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Lithium",
-        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
         "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 448633,
       "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
       "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Lithium",
+        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -623,22 +623,6 @@
       "duration_ms": 291040,
       "name": "Go around in circles",
       "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "An Airship",
-        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        }
-      ],
-      "duration_ms": 279483,
-      "name": "\u304a\u9db4",
-      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -667,6 +651,22 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "An Airship",
+        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "duration_ms": 279483,
+      "name": "\u304a\u9db4",
+      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
         "name": "Wave - S\u00f3 Dan\u00e7o Samba - Samba de Uma Nota S\u00f3",
         "url": "https://open.spotify.com/album/7vfmIP4xrni7mSiHimadQT"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2026-04-28 15:00:54",

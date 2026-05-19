@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,669,257 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,669,372 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 17 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
 | 18 | [Favela](https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Favela](https://open.spotify.com/album/0AMYBABg2SQ8hWDys7rIJq) | 3:15 |
 | 19 | [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 |
-| 20 | [Falling Into Acid Dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling Into Acid Dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
+| 20 | [falling into acid dreams](https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [falling into acid dreams](https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu) | 4:04 |
 | 21 | [Break](https://open.spotify.com/track/5MXbWODgfuPMdXqwBeb4dn) | [Devid Dega](https://open.spotify.com/artist/4joh8TLVd07bIDk68LJxte) | [Break](https://open.spotify.com/album/2vMvXw2nF5KvEHuhGY3jiw) | 3:39 |
 | 22 | [FWM](https://open.spotify.com/track/4hL1z4Bj7vfm8mVVXLj4AF) | [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [FWM](https://open.spotify.com/album/1NEP7UHGWTCZg8WVEVXgC6) | 2:54 |
 | 23 | [whatever you do](https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [whatever you do](https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY) | 3:30 |

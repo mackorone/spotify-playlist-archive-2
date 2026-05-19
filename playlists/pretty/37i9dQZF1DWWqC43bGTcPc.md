@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,993 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,019 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 9 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 |
 | 10 | [總有一顆屬於你的星球 \(Your Own Star\)](https://open.spotify.com/track/43wspxaX8tKNjkjN8A4Xl5) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [總有一顆屬於你的星球 \(Your Own Star\)](https://open.spotify.com/album/6JQOmpW6Ynq7olxMPrr0fC) | 3:59 |
 | 11 | [众里寻他千百度 \(影视剧《逐玉》爱情主题曲\)](https://open.spotify.com/track/3G3V6OgmyypuHPaLvk7ycI) | [张碧晨](https://open.spotify.com/artist/3sLXiOBtBuK2uTq2JGunuB) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:12 |
-| 12 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 12 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 13 | [不想再讓你哭](https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa) | [周祖安](https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6) | [不想再讓你哭](https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs) | 2:43 |
 | 14 | [入圍者 \(feat\. 陳忻玥\)](https://open.spotify.com/track/2vUE4Zzfm0NsMTKUQgKMEp) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [入圍者 \(feat\. 陳忻玥\)](https://open.spotify.com/album/3BBdymfqBS5DtQFkPLncgE) | 3:11 |
 | 15 | [替我照顧她](https://open.spotify.com/track/0pLEJ55q0wgUSCQ4PpWoHq) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [替我照顧她](https://open.spotify.com/album/0vxcXv12JOfdEehcHNwdau) | 3:56 |

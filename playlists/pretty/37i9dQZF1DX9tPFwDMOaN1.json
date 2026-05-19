@@ -1,15 +1,31 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: aespa)",
-  "num_followers": 6127925,
+  "description": "The new & hottest K-Pop is here! (Cover: TAEYANG)",
+  "num_followers": 6127909,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIt21C4pKU35H8axgJzitz4aI4Z",
+  "snapshot_id": "AAAAAErB2IniWGeuHFo0DzhDCRcda6oI",
   "tracks": [
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "QUINTESSENCE",
+        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 180112,
+      "name": "LIVE FAST DIE SLOW",
+      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
         "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "\ucda4 (CHOOM)",
         "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
@@ -77,7 +93,39 @@
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "Motto",
+        "url": "https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "Motto",
+        "url": "https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "ddok ddok ddok",
         "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
@@ -125,7 +173,27 @@
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+        "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 184202,
+      "name": "YEAH! YEAH!",
+      "url": "https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
@@ -141,23 +209,7 @@
       "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "GREENGREEN",
-        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -173,7 +225,39 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "GREENGREEN",
+        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "WYLD - The 1st Album",
+        "url": "https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "WYLD",
+      "url": "https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
@@ -189,7 +273,7 @@
       "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
@@ -205,7 +289,7 @@
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "We Are UNCHILD",
         "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
@@ -221,7 +305,7 @@
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
@@ -237,7 +321,7 @@
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "IT'z ME",
         "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
@@ -253,7 +337,7 @@
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
@@ -269,7 +353,7 @@
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
@@ -285,7 +369,7 @@
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -301,23 +385,7 @@
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "Ode to Love - The 1st Album",
-        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ode to Love",
-      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
@@ -333,7 +401,7 @@
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -353,7 +421,7 @@
       "url": "https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -369,23 +437,23 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+        "name": "Ascend-",
+        "url": "https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
+      "duration_ms": 147373,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL"
@@ -401,7 +469,71 @@
       "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 195409,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "GOLDEN HOUR : Part.4",
+        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "TIC TIC (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/3UKx4WJH82TdgG9xevZGzO"
@@ -421,23 +553,7 @@
       "url": "https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 195409,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs"
@@ -453,23 +569,87 @@
       "url": "https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
-        "name": "NOT CUTE ANYMORE",
-        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         }
       ],
-      "duration_ms": 131997,
-      "name": "NOT CUTE ANYMORE",
-      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+      "duration_ms": 172000,
+      "name": "UNIQUE",
+      "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "TWS 4th Mini Album 'play hard'",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "\ubcc4, \ube5b (STAY)",
+        "url": "https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\ubcc4, \ube5b (STAY)",
+      "url": "https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
+      "album": {
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
+    },
+    {
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "FLOWERING",
         "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
@@ -485,7 +665,7 @@
       "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Bubee (Korean Ver.)",
         "url": "https://open.spotify.com/album/0fAglFrU95801fwwFiZBri"
@@ -501,23 +681,7 @@
       "url": "https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "GOLDEN HOUR : Part.4",
-        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Breaking Through",
         "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
@@ -541,71 +705,7 @@
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "UNIQUE",
-        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "UNIQUE",
-      "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "TWS 4th Mini Album 'play hard'",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "\ubcc4, \ube5b (STAY)",
-        "url": "https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\ubcc4, \ube5b (STAY)",
-      "url": "https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Find You",
         "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
@@ -621,7 +721,7 @@
       "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
@@ -637,7 +737,7 @@
       "url": "https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
@@ -653,7 +753,7 @@
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "THE SIN : VANISH",
         "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
@@ -669,7 +769,7 @@
       "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -685,7 +785,7 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
         "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
@@ -701,7 +801,7 @@
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "First Love Is a Curse",
         "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
@@ -717,7 +817,7 @@
       "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Mono (Feat. skaiwater)",
         "url": "https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC"
@@ -737,7 +837,7 @@
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
     },
     {
-      "added_at": "2026-05-13 07:38:11",
+      "added_at": "2026-05-18 10:54:31",
       "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
@@ -751,106 +851,6 @@
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "REVIVE+",
-        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 194171,
-      "name": "BLACKHOLE",
-      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "seriously unserious",
-        "url": "https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm"
-      },
-      "artists": [
-        {
-          "name": "HEYOON",
-          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
-        },
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 124736,
-      "name": "swipe_feat_lou_garcia_v1.mp3",
-      "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "AFTER CRY",
-        "url": "https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 200089,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
-      },
-      "artists": [
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 170694,
-      "name": "Vanilla Days",
-      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "SKINZ 1st Mini Album [SKINZ IS SKINZ]",
-        "url": "https://open.spotify.com/album/7FxJEXRrfsX80s8E3Tf3TW"
-      },
-      "artists": [
-        {
-          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
-          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Poison Ivy",
-      "url": "https://open.spotify.com/track/4p3WTsxsKj27mMwjooeypG"
-    },
-    {
-      "added_at": "2026-05-13 07:38:11",
-      "album": {
-        "name": "Caligo Pt.2",
-        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Born Savage",
-      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

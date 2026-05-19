@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 228026,
       "name": "Relato",
       "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"

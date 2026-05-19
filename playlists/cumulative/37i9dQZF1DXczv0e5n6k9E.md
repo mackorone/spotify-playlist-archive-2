@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Arab, DJ Stephan, BeTaf Beats
 
-733 songs - 1 day 10 hr 6 min
+734 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [BLICK](https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [BLICK](https://open.spotify.com/album/7nHSZtgR01S2lAbMbhxJKQ) | 1:34 | 2024-12-05 | 2024-12-20 |
 | [BLICK \- Remix](https://open.spotify.com/track/0uAzjbolMC0qmUrg2Gxoad) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [BLICK \(Remix\)](https://open.spotify.com/album/68bkuGfJNPQgatDVC6OQ82) | 2:40 | 2024-12-12 | 2025-02-14 |
 | [Bling Blao](https://open.spotify.com/track/13p8k8bvCBi75tcVbgLmDa) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Bling Blao](https://open.spotify.com/album/1zx4y1Zc8vSzCcSPMxCkXa) | 2:29 | 2025-10-30 | 2025-12-12 |
-| [BOGOTA](https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [BOGOTA](https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh) | 1:49 | 2026-05-07 |  |
+| [BOGOTA](https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [BOGOTA](https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh) | 1:49 | 2026-05-07 | 2026-05-19 |
 | [Bonnie](https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [TOPBOY 2](https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK) | 2:38 | 2024-06-27 | 2024-12-20 |
 | [Book of ra](https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Book of ra](https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT) | 1:52 | 2024-10-03 | 2025-02-07 |
 | [BOOM](https://open.spotify.com/track/3yG5QwVZfesivke0nOWr9R) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [BOOM](https://open.spotify.com/album/6SfjX64Bpd4CpfIndf00Hn) | 1:44 | 2026-04-16 |  |
@@ -654,6 +654,7 @@
 | [TEAM](https://open.spotify.com/track/4bxzyvzPycH3tSqt0r3zIN) | [Trouf](https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [STRADA NERA](https://open.spotify.com/album/4ngzFWZYBcHAOFRMJNATBl) | 2:54 | 2025-05-15 | 2025-06-06 |
 | [TELEIA EPAFI](https://open.spotify.com/track/2NWiKEdsg3YGIpZ4fjyGVD) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [TELEIA EPAFI](https://open.spotify.com/album/1Rl7Cph3nKDpGQAgwMMW0t) | 3:16 | 2025-11-13 | 2025-12-12 |
 | [Teleia Sxesh](https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Teleia Sxesh](https://open.spotify.com/album/0J2rFWwTiGvyhtMOvnnw6z) | 2:45 | 2024-06-27 | 2024-08-02 |
+| [Tha Edina Ta Panta](https://open.spotify.com/track/5tZeRqOJp0x6ffaXdodZVp) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Tenacity](https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW) | 4:28 | 2026-05-18 |  |
 | [Tha Ta Katafero](https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Ta Lathos Paidia](https://open.spotify.com/album/2MsnFonVS6PjQaPJ0M57BQ) | 4:42 | 2025-04-17 | 2025-10-24 |
 | [Thalassa Mou](https://open.spotify.com/track/0euDiCESIRjGllKuuZ6Opy) | [Long3](https://open.spotify.com/artist/5EZmxPSk3RuSe9jda5RGxG), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Thalassa Mou](https://open.spotify.com/album/1hIU7tSjXqKmc5XrM23d45) | 3:33 | 2024-08-22 | 2024-09-27 |
 | [Thelo](https://open.spotify.com/track/6olSl5YEomNpe2xJ09pGRu) | [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Thelo](https://open.spotify.com/album/2vxkZ55p5144HfW6YnEY07) | 2:18 | 2025-12-04 | 2025-12-26 |

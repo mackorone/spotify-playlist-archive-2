@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from 🧊 Drake, Gracie Abrams,  Shania Twain, GIVĒON, STELLA LEFTY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,834 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,851 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [jajaja](https://open.spotify.com/track/4zKpCV2tAkR6sVCKwEucWe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [jajaja](https://open.spotify.com/album/3LL8fWQMzF6U8BudD4jexB) | 2:45 |
 | 43 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
 | 44 | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE) | 2:48 |
-| 45 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 45 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 46 | [Press Back](https://open.spotify.com/track/3WEOgg8eTNu4hD2OBs38ir) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Press Back](https://open.spotify.com/album/3gy49t1sOhKs2Kd6tAbJwH) | 2:48 |
 | 47 | [Shatta Vibes](https://open.spotify.com/track/76tUo47r6IMtTWSjHrlRo0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Shatta Vibes](https://open.spotify.com/album/5bhPQXDmFX2HDRFTples4j) | 2:04 |
 | 48 | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF) | 2:56 |

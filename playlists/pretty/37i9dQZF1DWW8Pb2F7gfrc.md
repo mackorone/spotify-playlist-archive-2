@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,925 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -380,7 +380,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 370 | [Chaos Calls](https://open.spotify.com/track/7x3Y4n4rKC1NP3I1iCRuwv) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:58 |
 | 371 | [Pluto Bay](https://open.spotify.com/track/6cw77FKdWDNsaNNDKUuDoU) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
 | 372 | [Once Upon The End](https://open.spotify.com/track/1t538pG42o0sZHmXyZD26t) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:44 |
-| 373 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
+| 373 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 | 374 | [Days Are Nights](https://open.spotify.com/track/0CCmBlFjeBoley1JV76fXa) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:38 |
 | 375 | [What \(I Wish\) He Said](https://open.spotify.com/track/6lvxzgNz39yLPEvCtvp0Ig) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 2:41 |
 | 376 | [Have You Ever](https://open.spotify.com/track/5BLt9DwbEkCdtHA3YSYgR2) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:52 |

@@ -643,6 +643,26 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
+        "name": "AMOR & DROGA",
+        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 211353,
+      "name": "SURFBOARD",
+      "url": "https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 241704,
       "name": "(ENAMORADA)",
       "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
-        "name": "AMOR & DROGA",
-        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 211353,
-      "name": "SURFBOARD",
-      "url": "https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj"
     },
     {
       "added_at": "2026-05-04 14:33:16",

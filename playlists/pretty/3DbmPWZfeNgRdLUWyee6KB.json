@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUK5pRImsu+DXkDIFm0QETJ1OVC9eF",
+  "snapshot_id": "AAAUM+PJGB5M/YejA8RctSjQKH/+VGaX",
   "tracks": [
     {
       "added_at": "2026-05-16 00:59:51",
@@ -27,6 +27,38 @@
       "duration_ms": 130666,
       "name": "Moonflower",
       "url": "https://open.spotify.com/track/6wAvK9FzNE8yZUd6YLJSk8"
+    },
+    {
+      "added_at": "2026-05-18 08:10:51",
+      "album": {
+        "name": "Tut mir leid",
+        "url": "https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "duration_ms": 354285,
+      "name": "Tut mir leid",
+      "url": "https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q"
+    },
+    {
+      "added_at": "2026-05-18 18:37:10",
+      "album": {
+        "name": "Empoderiega (Bestia Y Bella)",
+        "url": "https://open.spotify.com/album/4Q8c2R2bU3v47JiF0a6lv7"
+      },
+      "artists": [
+        {
+          "name": "Hadas sin Alas",
+          "url": "https://open.spotify.com/artist/7Gw4rewg7A9puzrVESmffc"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Empoderiega (Bestia Y Bella)",
+      "url": "https://open.spotify.com/track/5V9v5Dr2fLncmy6vg4f2rl"
     },
     {
       "added_at": "2026-05-11 07:47:38",
@@ -2295,6 +2327,38 @@
       "duration_ms": 231811,
       "name": "Unknown Raste",
       "url": "https://open.spotify.com/track/0Odf94X6kKSYbik9dA4Jt9"
+    },
+    {
+      "added_at": "2026-05-18 09:08:29",
+      "album": {
+        "name": "In The Sunlight",
+        "url": "https://open.spotify.com/album/77cbNhYzqMpynHkQfC6l0v"
+      },
+      "artists": [
+        {
+          "name": "Orla Monelle",
+          "url": "https://open.spotify.com/artist/2ZcTiMux6U6EaaBd8nkmWa"
+        }
+      ],
+      "duration_ms": 172204,
+      "name": "In The Sunlight",
+      "url": "https://open.spotify.com/track/4jYaU3mgWePgJI5zmPJZ7c"
+    },
+    {
+      "added_at": "2026-05-18 09:08:31",
+      "album": {
+        "name": "Legionnaire Behind The Lines",
+        "url": "https://open.spotify.com/album/5Sj5J7L8tdTGZUamUH2tIj"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Legionnaire Behind The Lines",
+      "url": "https://open.spotify.com/track/5LKPv4UUvVYEhyd5eDuQET"
     }
   ],
   "unique_name": "New Indie Music",

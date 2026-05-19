@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-71 songs - 4 hr 10 min
+72 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Spontaneous Proposal](https://open.spotify.com/track/562srU6TUkUmtKoErqvS2V) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Spontaneous Proposal](https://open.spotify.com/album/0eOIAqjggTOaAV4TpIFQhF) | 3:36 | 2025-09-13 |  |
 | [Stoicism](https://open.spotify.com/track/2ctjSYkpY02MNPb0hfwgZb) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Stoicism](https://open.spotify.com/album/3QRPjLlIkgeDzYRsXXuqDf) | 5:17 | 2026-05-06 |  |
 | [Stoned Summer](https://open.spotify.com/track/33do4mel6InOIdORZcZoa6) | [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Stoned Summer](https://open.spotify.com/album/6IcsFuDZgf7ynUo3WMlAxM) | 3:08 | 2024-07-07 |  |
+| [Sugar daddy](https://open.spotify.com/track/2nVTb5shxvXMaldfC5dVvC) | [Travelin' Man](https://open.spotify.com/artist/4A0E3SaSEKz7lgEVsxFNLK) | [Sugar daddy](https://open.spotify.com/album/6uJEmClnUqN88CbUqJfNdg) | 3:56 | 2026-05-18 |  |
 | [Super Connected](https://open.spotify.com/track/05MSe9RwBssvXVvWG3FxqX) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Super Connected](https://open.spotify.com/album/41iO1f8hkoXkwIhcGWxOLM) | 4:38 | 2025-07-03 |  |
 | [Supermexican](https://open.spotify.com/track/6eTTdPN2G1BwLzZV68iAdc) | [Travelin' Man](https://open.spotify.com/artist/4A0E3SaSEKz7lgEVsxFNLK) | [Supermexican](https://open.spotify.com/album/4ncteuFvydkGgzDDpjubDr) | 3:21 | 2026-02-21 |  |
 | [Syway](https://open.spotify.com/track/7K53axirskdqZwnOzA2uoq) | [Revisor451](https://open.spotify.com/artist/1jLZBkZfxvWd9wDucP1v25) | [Cinematics, Vol\. 3](https://open.spotify.com/album/0o3VNpEVIFvmZhgpzu9Pnl) | 1:21 | 2024-08-04 |  |
@@ -65,7 +66,7 @@
 | [Telerhythm](https://open.spotify.com/track/2dQSMsCUjkTSGebOl6iED0) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Just Floating Around](https://open.spotify.com/album/6Y2DgPHWYefamzoqy2M0pE) | 3:34 | 2025-07-07 | 2025-12-11 |
 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 | 2025-08-04 |  |
 | [The Party Must Go On](https://open.spotify.com/track/7F5EJZwssUNp4WaNDtGTDM) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [The Party Must Go On](https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza) | 3:45 | 2026-05-04 |  |
-| [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/track/2nMbuh2nlVV0DWraJ21Jhu) | [Debt Shop Boi](https://open.spotify.com/artist/4N47g08XQf481GOUHDaUl9) | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF) | 3:10 | 2025-07-13 |  |
+| [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/track/2nMbuh2nlVV0DWraJ21Jhu) | [Debt Shop Boi](https://open.spotify.com/artist/4N47g08XQf481GOUHDaUl9) | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF) | 3:10 | 2025-07-13 | 2026-05-19 |
 | [Time](https://open.spotify.com/track/4uVRMIKwDMBIH8C2ha2N70) | [juii](https://open.spotify.com/artist/7rJOU9thBiM4SmA6vSwHYw) | [Time](https://open.spotify.com/album/6tPjHey8PdjtJLBHgIMNzx) | 3:02 | 2025-02-15 | 2025-12-11 |
 | [To The Sea](https://open.spotify.com/track/6vE5CldyUzyex2SwEd9fcW) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [To The Sea](https://open.spotify.com/album/1FOplQTQ4T0YRtM33ETBxN) | 5:22 | 2024-05-20 | 2025-12-11 |
 | [Too Broke For Money](https://open.spotify.com/track/7b2Gsa6jg7gHWIj0Hnc29A) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo) | 2:03 | 2025-10-15 | 2025-12-11 |

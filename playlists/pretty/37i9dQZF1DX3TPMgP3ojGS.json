@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 478207,
+  "num_followers": 478254,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
-      },
-      "artists": [
-        {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 159000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Nokt\u00farna Variations",
         "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Ellie",
         "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 178000,
       "name": "Ellie",
       "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -775,34 +759,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
       "artists": [
         {
-          "name": "Jacques Blanc",
-          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
         }
       ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Just Stay",
-        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
-      },
-      "artists": [
-        {
-          "name": "Tristaan Wilkes",
-          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
-        }
-      ],
-      "duration_ms": 123216,
-      "name": "Just Stay",
-      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -823,6 +791,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
+      },
+      "artists": [
+        {
+          "name": "Tristaan Wilkes",
+          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
+        }
+      ],
+      "duration_ms": 123216,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 200250,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Jacques Blanc",
+          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Diaphanous",
-        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+        "name": "Morning Rain",
+        "url": "https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB"
       },
       "artists": [
         {
-          "name": "Arden Brooks",
-          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+          "name": "Isabella Morales",
+          "url": "https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Diaphanous",
-      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+      "duration_ms": 160250,
+      "name": "When you were near",
+      "url": "https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Morning Rain",
-        "url": "https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB"
+        "name": "Diaphanous",
+        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
       },
       "artists": [
         {
-          "name": "Isabella Morales",
-          "url": "https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL"
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
         }
       ],
-      "duration_ms": 160250,
-      "name": "When you were near",
-      "url": "https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh"
+      "duration_ms": 173520,
+      "name": "Diaphanous",
+      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Testimony (EP)",
         "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
       },
@@ -1059,6 +1027,22 @@
       "duration_ms": 164000,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1091,6 +1075,22 @@
       "duration_ms": 199166,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi"
+      },
+      "artists": [
+        {
+          "name": "Isaac Cassidy",
+          "url": "https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "La Belle Epoque",
+      "url": "https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 125500,
       "name": "Felt Improv No. 4",
       "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi"
-      },
-      "artists": [
-        {
-          "name": "Isaac Cassidy",
-          "url": "https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "La Belle Epoque",
-      "url": "https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1415,6 +1415,70 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Strosande",
+        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Strosande",
+      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "A Rose",
+        "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
+      },
+      "artists": [
+        {
+          "name": "Natalee Marlowe",
+          "url": "https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "A Rose",
+      "url": "https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Tone of Love",
+        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Tone of Love",
+      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Grand Canyon",
         "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
       },
@@ -1443,70 +1507,6 @@
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Strosande",
-        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
-      },
-      "artists": [
-        {
-          "name": "Alfred Janders",
-          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Strosande",
-      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "A Rose",
-        "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
-      },
-      "artists": [
-        {
-          "name": "Natalee Marlowe",
-          "url": "https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS"
-        }
-      ],
-      "duration_ms": 147810,
-      "name": "A Rose",
-      "url": "https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Tone of Love",
-        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Tone of Love",
-      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Glance Out A Casement Window",
-        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
-      },
-      "artists": [
-        {
-          "name": "Janet Redger",
-          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
-        }
-      ],
-      "duration_ms": 130164,
-      "name": "Glance Out A Casement Window",
-      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Le Recueillement",
-        "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
+        "name": "Glance Out A Casement Window",
+        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },
       "artists": [
         {
-          "name": "Abelin Lagarde",
-          "url": "https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD"
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
         }
       ],
-      "duration_ms": 147098,
-      "name": "Le Recueillement",
-      "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
+      "duration_ms": 130164,
+      "name": "Glance Out A Casement Window",
+      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1619,6 +1603,22 @@
       "duration_ms": 169285,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/29vKgz3LXrTMqbxy71p0Fr"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Le Recueillement",
+        "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
+      },
+      "artists": [
+        {
+          "name": "Abelin Lagarde",
+          "url": "https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD"
+        }
+      ],
+      "duration_ms": 147098,
+      "name": "Le Recueillement",
+      "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
     }
   ],
   "unique_name": "Coffee and Piano",

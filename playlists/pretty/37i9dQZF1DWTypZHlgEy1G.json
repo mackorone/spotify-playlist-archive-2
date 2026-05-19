@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533485,
+  "num_followers": 533480,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
-      },
-      "artists": [
-        {
-          "name": "Bourvil",
-          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "Salade de fruits",
-      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "En Vogue",
         "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 173586,
       "name": "Il est cinq heures, Paris s'\u00e9veille",
       "url": "https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
+      },
+      "artists": [
+        {
+          "name": "Bourvil",
+          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Du c\u00f4te de chez Swann",
-      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "20 chansons d'or",
         "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 247560,
       "name": "Nathalie",
       "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Du c\u00f4te de chez Swann",
+      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Frou-Frou et 29 succ\u00e8s de Berthe Sylva (Chanson fran\u00e7aise)",
         "url": "https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182266,
       "name": "Frou-Frou",
       "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Yves Montand - Les feuilles mortes",
-        "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 203382,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les 100 plus belles chansons d'Edith Piaf",
         "url": "https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 147906,
       "name": "\u00c0 quoi \u00e7a sert l'amour ?",
       "url": "https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Yves Montand - Les feuilles mortes",
+        "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 203382,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
     },
     {
       "added_at": "2024-07-25 13:22:22",

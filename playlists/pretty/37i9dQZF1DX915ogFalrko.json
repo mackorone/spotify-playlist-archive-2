@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187598,
+  "num_followers": 187606,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
         "name": "(((((ultraSOUND)))))+",
         "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 248100,
-      "name": "Bodyfeeling",
-      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 248100,
+      "name": "Bodyfeeling",
+      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
         "name": "uplifters",
         "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 212213,
       "name": "couleur menthe \u00e0 l'eau",
       "url": "https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
         "name": "Paradis bleu",
         "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
         "name": "lucius lullaby",
         "url": "https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 183013,
       "name": "weirdness",
       "url": "https://open.spotify.com/track/0Z14ueqgvLP39oCdTCDyOT"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-05-14 22:00:22",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-14 22:00:22",
       "album": {
-        "name": "La Boulangerie, Vol. 3 (La Fine \u00c9quipe & Friends)",
-        "url": "https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ"
-      },
-      "artists": [
-        {
-          "name": "Souleance",
-          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "Jazz et th\u00e9 vert",
-      "url": "https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf"
-    },
-    {
-      "added_at": "2026-05-14 22:00:22",
-      "album": {
         "name": "Goanna",
         "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 179823,
       "name": "Goanna",
       "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
+    },
+    {
+      "added_at": "2026-05-14 22:00:22",
+      "album": {
+        "name": "La Boulangerie, Vol. 3 (La Fine \u00c9quipe & Friends)",
+        "url": "https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ"
+      },
+      "artists": [
+        {
+          "name": "Souleance",
+          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "Jazz et th\u00e9 vert",
+      "url": "https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf"
     },
     {
       "added_at": "2026-05-14 22:00:22",

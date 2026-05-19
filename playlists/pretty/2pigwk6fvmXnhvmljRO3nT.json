@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALzsx6mj+7tW02rVNMNVcWVoy1HSl9",
+  "snapshot_id": "AAAL0a85Z7+/hquvB6pb/SqQcpbfb0Qc",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -121076,7 +121076,7 @@
           "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
         },
         {
-          "name": "mindfreakkk",
+          "name": "mindfreakk!",
           "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
         }
       ],
@@ -149959,6 +149959,42 @@
       "duration_ms": 247339,
       "name": "MAYDAY",
       "url": "https://open.spotify.com/track/7dvPVoZHsfkZR46CvbiKHT"
+    },
+    {
+      "added_at": "2026-05-18 00:28:16",
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "MR RECOUP",
+      "url": "https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd"
+    },
+    {
+      "added_at": "2026-05-18 03:20:48",
+      "album": {
+        "name": "FANTASY CLUB (International Version)",
+        "url": "https://open.spotify.com/album/0aW5Sks2Bix7Gy1M4VlhY0"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 236483,
+      "name": "LONELY NIGHTS",
+      "url": "https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7"
     }
   ],
   "unique_name": "Purge",

@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 783228,
+  "num_followers": 783287,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "The Punk Singer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 157333,
       "name": "Rebel Girl",
       "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
     },
     {
       "added_at": "2026-05-01 18:02:47",

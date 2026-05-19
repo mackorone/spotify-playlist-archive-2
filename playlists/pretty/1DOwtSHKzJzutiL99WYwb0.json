@@ -1,13 +1,49 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: UNCHILD",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: aespa",
   "num_followers": 758,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAIH1uEPcDGJqqbRnrT5HtZkgrCQbNv",
+  "snapshot_id": "AAAIJEde2WyvjkW0MaHrWFRty8l2JvtL",
   "tracks": [
+    {
+      "added_at": "2026-05-18 07:09:14",
+      "album": {
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
+    },
+    {
+      "added_at": "2026-05-18 07:09:25",
+      "album": {
+        "name": "Said & Done",
+        "url": "https://open.spotify.com/album/1TnfxlOrAmE8d2ThZxYNnm"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "EVERLOVE",
+      "url": "https://open.spotify.com/track/1KWKmkMB8vnB4BvJdVIQuJ"
+    },
     {
       "added_at": "2026-05-07 04:51:39",
       "album": {
@@ -1583,38 +1619,6 @@
       "duration_ms": 186720,
       "name": "\uae68\uc5b4 (Are You Alive)",
       "url": "https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W"
-    },
-    {
-      "added_at": "2025-05-30 06:10:56",
-      "album": {
-        "name": "DUH!",
-        "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
-    },
-    {
-      "added_at": "2025-05-30 06:11:10",
-      "album": {
-        "name": "KISS ROAD",
-        "url": "https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Live, Love, Laugh",
-      "url": "https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

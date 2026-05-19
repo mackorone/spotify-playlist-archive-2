@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242780,
+  "num_followers": 242778,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        },
-        {
-          "name": "Steand",
-          "url": "https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 192896,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        },
+        {
+          "name": "Steand",
+          "url": "https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"
     },
     {
       "added_at": "2024-08-01 10:59:15",

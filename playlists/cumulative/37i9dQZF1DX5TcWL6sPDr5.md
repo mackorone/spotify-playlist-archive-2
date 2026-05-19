@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Olga Myko 💚
 
-202 songs - 11 hr 0 min
+203 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [I Saw U](https://open.spotify.com/track/71tRtgpBxcvuUpNZYCKxvg) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/4f0voAxfoJoqPknHGlVfnF) | 2:17 | 2026-05-05 |  |
 | [If A Song Could Get Me You](https://open.spotify.com/track/7hUyHTbWugVMP9SyCm8gkO) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [The Chase](https://open.spotify.com/album/3yzDzLXFh12fqvp2Lx7Pg5) | 3:25 | 2026-03-05 |  |
 | [If I'm So Bad](https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [YOUNG: Part 1 & 2](https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV) | 2:17 | 2026-03-05 | 2026-03-20 |
+| [In a Dream](https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [In a Dream](https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO) | 3:16 | 2026-05-18 |  |
 | [In All Of My Tomorrows](https://open.spotify.com/track/7j8M0MdmOs2sacS1JAcP2y) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [In All Of My Tomorrows](https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg) | 3:29 | 2026-05-05 |  |
 | [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 | 2026-05-05 |  |
 | [ingen andre \(feat\. Annika\)](https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 2:48 | 2026-03-05 | 2026-03-20 |

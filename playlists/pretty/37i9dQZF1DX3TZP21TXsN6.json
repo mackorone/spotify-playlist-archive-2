@@ -1,33 +1,13 @@
 {
   "description": "Nieuw: Suilju, Adfbigga, SKEEKS, Dv, JR, Highguest en meer..",
-  "num_followers": 158972,
+  "num_followers": 158968,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHK288mWT9bLWlXFFkHfKSSSUX6L",
+  "snapshot_id": "AAAAAIopwsjIBnOM0t3N94HUM/09r+6S",
   "tracks": [
-    {
-      "added_at": "2026-05-14 22:01:46",
-      "album": {
-        "name": "STRAAT RATJE",
-        "url": "https://open.spotify.com/album/2FqymWDxldNrgQpcBFpid5"
-      },
-      "artists": [
-        {
-          "name": "Suilju",
-          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
-        },
-        {
-          "name": "Adfbigga",
-          "url": "https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "STRAAT RATJE",
-      "url": "https://open.spotify.com/track/5EaCVgDPfpN3NG9aEVzSzR"
-    },
     {
       "added_at": "2026-05-14 22:01:46",
       "album": {
@@ -63,6 +43,22 @@
     {
       "added_at": "2026-05-14 22:01:46",
       "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B"
+      },
+      "artists": [
+        {
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
+        }
+      ],
+      "duration_ms": 166555,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG"
+    },
+    {
+      "added_at": "2026-05-14 22:01:46",
+      "album": {
         "name": "Audemars Piguet",
         "url": "https://open.spotify.com/album/7tqtNw72lDnknEn5838rcc"
       },
@@ -75,6 +71,26 @@
       "duration_ms": 175536,
       "name": "Audemars Piguet",
       "url": "https://open.spotify.com/track/5gA49eaLpmPKPkWbLAp64m"
+    },
+    {
+      "added_at": "2026-05-14 22:01:46",
+      "album": {
+        "name": "STRAAT RATJE",
+        "url": "https://open.spotify.com/album/2FqymWDxldNrgQpcBFpid5"
+      },
+      "artists": [
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        },
+        {
+          "name": "Adfbigga",
+          "url": "https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "STRAAT RATJE",
+      "url": "https://open.spotify.com/track/5EaCVgDPfpN3NG9aEVzSzR"
     },
     {
       "added_at": "2026-05-14 22:01:46",
@@ -99,22 +115,6 @@
     {
       "added_at": "2026-05-14 22:01:46",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B"
-      },
-      "artists": [
-        {
-          "name": "Elliven",
-          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
-        }
-      ],
-      "duration_ms": 166555,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG"
-    },
-    {
-      "added_at": "2026-05-14 22:01:46",
-      "album": {
         "name": "Tijdsbesef",
         "url": "https://open.spotify.com/album/0knfeJEu8FayHqWu8H9j9L"
       },
@@ -127,42 +127,6 @@
       "duration_ms": 153824,
       "name": "Tijdsbesef",
       "url": "https://open.spotify.com/track/7eWWWlXpM2W1lu2PmAwdUk"
-    },
-    {
-      "added_at": "2026-05-14 22:01:46",
-      "album": {
-        "name": "Minimaal",
-        "url": "https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h"
-      },
-      "artists": [
-        {
-          "name": "Ezzie",
-          "url": "https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp"
-        }
-      ],
-      "duration_ms": 149987,
-      "name": "Minimaal",
-      "url": "https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L"
-    },
-    {
-      "added_at": "2026-05-14 22:01:46",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq"
-      },
-      "artists": [
-        {
-          "name": "Giegs",
-          "url": "https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb"
-        },
-        {
-          "name": "PJ Scoolio",
-          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y"
     },
     {
       "added_at": "2026-05-14 22:01:46",
@@ -203,6 +167,42 @@
       "duration_ms": 152000,
       "name": "PRETTY GIRLS IN ALO",
       "url": "https://open.spotify.com/track/72qPebjWOYphRXDGXWkadW"
+    },
+    {
+      "added_at": "2026-05-14 22:01:46",
+      "album": {
+        "name": "Minimaal",
+        "url": "https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h"
+      },
+      "artists": [
+        {
+          "name": "Ezzie",
+          "url": "https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp"
+        }
+      ],
+      "duration_ms": 149987,
+      "name": "Minimaal",
+      "url": "https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L"
+    },
+    {
+      "added_at": "2026-05-14 22:01:46",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq"
+      },
+      "artists": [
+        {
+          "name": "Giegs",
+          "url": "https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb"
+        },
+        {
+          "name": "PJ Scoolio",
+          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y"
     },
     {
       "added_at": "2026-05-14 22:01:46",

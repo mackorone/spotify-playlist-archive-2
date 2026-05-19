@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "bankai",
         "url": "https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc"
       },
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -4174,6 +4192,24 @@
       "duration_ms": 153347,
       "name": "Chk Chk Boom (Festival Ver.)",
       "url": "https://open.spotify.com/track/5yye6RvxPOo8YU0fYWQpNn"
+    },
+    {
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
       "album": {
@@ -18147,6 +18183,24 @@
     },
     {
       "album": {
+        "name": "Ridnym (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn"
+      },
+      "artists": [
+        {
+          "name": "Lel\u00e9ka",
+          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178824,
+      "name": "Ridnym - Eurovision Version",
+      "url": "https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU"
+    },
+    {
+      "album": {
         "name": "Rim Tim Tagi Dim",
         "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
       },
@@ -20764,7 +20818,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -22919,6 +22973,24 @@
     },
     {
       "album": {
+        "name": "Viva, Moldova!",
+        "url": "https://open.spotify.com/album/7up0HjHYKsoOCJu9Mlx8x0"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Viva, Moldova!",
+      "url": "https://open.spotify.com/track/3slA6oMqkypLVUkEjk2xfQ"
+    },
+    {
+      "album": {
         "name": "VLAGA",
         "url": "https://open.spotify.com/album/1nBZ5WULtCMe0Yz35Xkk2g"
       },
@@ -24876,7 +24948,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 199284,
       "name": "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB"
@@ -26852,7 +26924,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
@@ -27758,7 +27830,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -28436,7 +28508,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 142325,
       "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5c5PYbVqMGltm76SjqmF0o"
@@ -33272,7 +33344,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -33862,7 +33934,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -34534,6 +34606,24 @@
       "duration_ms": 192711,
       "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ"
+    },
+    {
+      "album": {
+        "name": "First Day In Therapy",
+        "url": "https://open.spotify.com/album/6MaCBws3mlJ2G1cBs43KNu"
+      },
+      "artists": [
+        {
+          "name": "Whole Lotta Swag",
+          "url": "https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b",
+      "url": "https://open.spotify.com/track/6H7KQ2kxXbaxqXvVSxFEtT"
     },
     {
       "album": {
@@ -35902,7 +35992,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -37956,7 +38046,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 201391,
       "name": "\u0441\u043b\u044c\u043e\u0437\u043a\u0430",
       "url": "https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv"
@@ -39878,7 +39968,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 185739,
       "name": "\u0422\u044c\u043e\u0442\u044f",
       "url": "https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF"
@@ -42776,7 +42866,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 154030,
       "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
       "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
@@ -42848,7 +42938,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

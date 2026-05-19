@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-681 songs - 1 day 16 hr 50 min
+682 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 | 2021-12-30 | 2024-08-23 |
 | [Seabird](https://open.spotify.com/track/0dvF4tXGoyPAfh5EzimNzT) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [Late Night Tales: Metronomy \(Sampler\)](https://open.spotify.com/album/5gPvjsUQ0gbkA8vl7OaVoL) | 3:53 | 2022-03-30 | 2022-04-17 |
 | [Seven Days in Sunny June](https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 3:57 | 2026-01-23 |  |
-| [Shameful Game \- Farhot's Edit](https://open.spotify.com/track/3sWqWXH64M5XdUQpfEapvP) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Celestial Suite Flips](https://open.spotify.com/album/1r26u9T12UZW85xojuX1ae) | 2:16 | 2026-04-27 |  |
+| [Shameful Game \- Farhot's Edit](https://open.spotify.com/track/3sWqWXH64M5XdUQpfEapvP) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Celestial Suite Flips](https://open.spotify.com/album/1r26u9T12UZW85xojuX1ae) | 2:16 | 2026-04-27 | 2026-05-19 |
 | [She Turns My Radio On](https://open.spotify.com/track/60Lr94URXKMqK6KqEgyFH8) | [Jim Ford](https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1) | [Rare Singles and Previously Unreleased Masters, Vol\. 1](https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3) | 3:20 | 2021-12-16 | 2024-11-14 |
 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 | 2022-07-26 | 2023-02-14 |
 | [Shine](https://open.spotify.com/track/4X0JEpL31G8J9CxrNRrIFG) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/2FoWPt2l084bH8Af6e1jyK) | 3:14 | 2022-03-30 | 2022-04-18 |
@@ -520,6 +520,7 @@
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-23 | 2024-12-10 |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2026-04-27 |  |
 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 | 2023-12-07 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-05-18 |  |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-05-24 |  |
 | [Sol](https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:16 | 2024-04-10 | 2025-04-30 |
 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 | 2021-12-16 | 2024-08-23 |

@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 759936,
+  "num_followers": 759885,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -563,26 +583,6 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
         "name": "Instinto (Ao Vivo)",
         "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
       },
@@ -599,22 +599,18 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/4VzsANLdIdY6117Kz21BaA"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 137272,
-      "name": "ESCADA DO PR\u00c9DIO",
-      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
+      "duration_ms": 142591,
+      "name": "Academia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2J5xoLFlAdLST47YkYtd0s"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -635,18 +631,22 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/4VzsANLdIdY6117Kz21BaA"
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
       },
       "artists": [
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 142591,
-      "name": "Academia - Ao Vivo",
-      "url": "https://open.spotify.com/track/2J5xoLFlAdLST47YkYtd0s"
+      "duration_ms": 137272,
+      "name": "ESCADA DO PR\u00c9DIO",
+      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Simplesmente Acontece",
+        "url": "https://open.spotify.com/album/5aMtI7dUanCeMCVnH24Aim"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 172488,
+      "name": "Simplesmente Acontece",
+      "url": "https://open.spotify.com/track/0caCO8a83FpYYzzYxAIoeV"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Superfantasticamente (Superfantastico)",
         "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Simplesmente Acontece",
-        "url": "https://open.spotify.com/album/5aMtI7dUanCeMCVnH24Aim"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 172488,
-      "name": "Simplesmente Acontece",
-      "url": "https://open.spotify.com/track/0caCO8a83FpYYzzYxAIoeV"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
         "name": "Mari No Barzinho (Ao Vivo No RJ)",
         "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
       },
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Cama Embrasa",
+        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Cama Embrasa",
+      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Cama Embrasa",
-        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Cama Embrasa",
-      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
     },
     {
       "added_at": "2026-05-15 13:29:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Varnah ti go](https://open.spotify.com/track/6zvwO7R26lGigFffAyFDRO) | [Yanitsa](https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR) | [Izkushenie](https://open.spotify.com/album/5Ccyh5zPTF9EXQPwTBtcou) | 3:36 |
 | 50 | [Малката, Сладката](https://open.spotify.com/track/4uibxyiAMOhxVJ17bN9lNT) | [Tereza](https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x), [Rumen Borilov](https://open.spotify.com/artist/0RU4GDjar4o0Jw6Iu9f4Yk) | [Малката, Сладката](https://open.spotify.com/album/6u5tHklXR3bh8MPMpDPINn) | 3:17 |
 
-Snapshot ID: `MZ04gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MZ6KAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-718 songs - 2 day 13 hr 35 min
+719 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [It's Darker than you Think](https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA) | 4:41 | 2022-07-13 | 2024-04-19 |
 | [Iò Pan!](https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y) | [Selvans](https://open.spotify.com/artist/2HpWGadw2hmtDMTfbfaqkj) | [Dark Italian Art](https://open.spotify.com/album/7JvLKSi8zktCdBXVM7Hhnr) | 5:45 | 2021-12-17 | 2022-01-22 |
 | [Jackals](https://open.spotify.com/track/4612PWEVn40UivH5g285sA) | [Crimson Moonlight](https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk) | [Abaddon](https://open.spotify.com/album/0Gho87N0nqxqU5aUwUoWhF) | 4:58 | 2023-12-07 | 2024-01-16 |
-| [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 | 2023-09-01 |  |
+| [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 | 2023-09-01 | 2026-05-19 |
 | [Jean Grenier](https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu) | [Kuoleman Galleria](https://open.spotify.com/artist/1qH06U3f3AMfIpmRuG2fT2) | [Jean Grenier](https://open.spotify.com/album/6gWOWQh9y1PKFsiTgTXDkP) | 4:52 | 2022-01-21 | 2022-07-16 |
 | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/track/28Au9xa6d4UQLdITiVod67) | [Finsterforst](https://open.spotify.com/artist/1Gh3UMZ0WVesXifHfziSx9) | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/album/79udUa0watAABcZjEn1wVA) | 5:31 | 2023-09-01 | 2023-09-18 |
 | [K.I.N.G](https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX) | 3:36 | 2022-07-13 |  |
@@ -385,7 +385,7 @@
 | [March to the Crater](https://open.spotify.com/track/5cKTyp5RFPALN8SbmYDGEk) | [Avhath](https://open.spotify.com/artist/18Oc9nuhdMhI1AHsciD1xu) | [Lethargy / March to the Crater](https://open.spotify.com/album/6tmF8a9xltdA3Osru96x2V) | 2:47 | 2022-03-10 | 2022-03-19 |
 | [Mask Of Red Death](https://open.spotify.com/track/5OAqpB56GZAqbbU9dHGmWj) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Necrophony](https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN) | 4:42 | 2023-08-25 | 2026-04-16 |
 | [Matter and Energy](https://open.spotify.com/track/4hdlC6vb8ZuEfdPssn41lD) | [Mesarthim](https://open.spotify.com/artist/4ZnlfGzJ64rXn81cR2OR0E) | [Vacuum Solution](https://open.spotify.com/album/3BiBB0Duax8O9UJBtibIZN) | 4:38 | 2023-06-09 | 2023-07-22 |
-| [Maze of Phobetor](https://open.spotify.com/track/7oHVHq7BF7d9INJvJ74iYv) | [Akhlys](https://open.spotify.com/artist/7swiuMho0UMNYbZqcO0dho) | [Maze of Phobetor](https://open.spotify.com/album/3nVDEuRTIuCY5CLZwajUjt) | 7:35 | 2024-06-03 | 2026-05-17 |
+| [Maze of Phobetor](https://open.spotify.com/track/7oHVHq7BF7d9INJvJ74iYv) | [Akhlys](https://open.spotify.com/artist/7swiuMho0UMNYbZqcO0dho) | [Maze of Phobetor](https://open.spotify.com/album/3nVDEuRTIuCY5CLZwajUjt) | 7:35 | 2024-06-03 |  |
 | [Me, the Dreamer](https://open.spotify.com/track/7oVdZQkRmQc7YUqb7QXi3k) | [The Great Old Ones](https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC) | [Kadath](https://open.spotify.com/album/2Ek9iZN9Tec0cJSNsdQEdf) | 10:55 | 2025-01-30 | 2025-07-05 |
 | [Mellonta Tauta](https://open.spotify.com/track/71gPwccCGNsMnsWCjKfSs1) | [Hegemon](https://open.spotify.com/artist/5KloIT5bV4mnTXMNYetENE) | [Sidereus Nuncius](https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ) | 5:46 | 2021-12-17 | 2022-05-21 |
 | [MEMORIES OF THE FUTURE](https://open.spotify.com/track/7Hcl0HhRJu9vkm74nJQ5Jc) | [Digress](https://open.spotify.com/artist/7joz4TQxQt5YUqJgZXaMO2), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [MEMORIES OF THE FUTURE](https://open.spotify.com/album/0cpMyNT6voEnwPYBHmJ8PW) | 2:37 | 2022-03-18 | 2022-07-14 |
@@ -411,7 +411,7 @@
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 | 2023-10-10 |
 | [Muuntautuja](https://open.spotify.com/track/43koxanshMLCldZrTNsi1Y) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Muuntautuja](https://open.spotify.com/album/3H3pzXw7OUrgi4ZQbwmEmQ) | 4:30 | 2024-06-03 | 2024-11-26 |
 | [Muuntautuja](https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Muuntautuja](https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd) | 4:30 | 2024-11-25 |  |
-| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
+| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 | 2026-05-19 |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
 | [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:33 | 2023-03-10 | 2024-01-28 |
 | [Nameless Rites](https://open.spotify.com/track/5VikgujdfbIJRuUAMQ2zei) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [​Disharmonium \- Nahab](https://open.spotify.com/album/2spORRGVutsk0KwxPhd3eU) | 4:55 | 2023-08-25 | 2024-11-25 |
@@ -456,6 +456,7 @@
 | [Only When I'm Breathing](https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart? \(Bonus Version\)](https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo) | 3:49 | 2023-12-15 |  |
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 | 2023-10-10 |
 | [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 | 2024-02-18 |
+| [Ortopraxia](https://open.spotify.com/track/3HSlq0Nu1sxvlMtkAiRIOk) | [Curse Upon A Prayer](https://open.spotify.com/artist/5no9Bm5hDQGhQimia4dcDv) | [The Worship: Orthoprax Satanism](https://open.spotify.com/album/538ZNL0YDVkiLtJ9Vtl19r) | 8:27 | 2025-07-04 |  |
 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2023-11-17 |  |
 | [Out of the Light](https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY) | [Schizogen](https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA) | [Out of the Light](https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM) | 5:33 | 2023-12-15 | 2025-10-08 |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 | 2024-04-19 |

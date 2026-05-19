@@ -4,7 +4,7 @@
 
 > 
 
-8,627 songs - 21 day 23 hr 35 min
+8,629 songs - 21 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3850,6 +3850,7 @@
 | [Lonely Man \- Live At Electric Lady](https://open.spotify.com/track/1ZMKLHZZqSVRKpX9MCtIol) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 1:18 | 2025-01-03 |  |
 | [Lonely Night](https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 3:38 | 2024-12-10 |  |
 | [Lonely Night \(하트다 하트여왕\)](https://open.spotify.com/track/2rms1ck3DMOEVgi5ulRZne) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 90th \(Live Version\)](https://open.spotify.com/album/5ln5pjg7Get7VF52w7cpkP) | 4:17 | 2025-01-15 |  |
+| [LONELY NIGHTS](https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [FANTASY CLUB \(International Version\)](https://open.spotify.com/album/0aW5Sks2Bix7Gy1M4VlhY0) | 3:56 | 2026-05-18 |  |
 | [Lonely Zone](https://open.spotify.com/track/5dtL2wtfZu7kLhboKWEcwl) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Angel Youth](https://open.spotify.com/album/3Zqe5icElI6gNEM9v3UpXN) | 3:57 | 2025-01-15 |  |
 | [Long After](https://open.spotify.com/track/48OlsBhOwxJ59hjUEwcdfm) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [그 후로 오랫동안...](https://open.spotify.com/album/7ILx5BPQbjlUHnwTLBeXiF) | 4:20 | 2025-01-15 |  |
 | [Long Kiss Good Bye](https://open.spotify.com/track/5SPwzvYuJCkeXmbwi3lVID) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [TOKYO GROOVE](https://open.spotify.com/album/2Xgzxq7q3Voo8BavfiwbBe) | 4:03 | 2026-03-25 |  |
@@ -4341,6 +4342,7 @@
 | [Moves Like Jagger](https://open.spotify.com/track/64QftS2rGzpynevjuCsJXW) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Skiing Workout Mix](https://open.spotify.com/album/4QT1dg8zQoHuXF2HZbWWEB) | 3:21 | 2025-01-04 |  |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-04-21 |  |
 | [MOVIN'](https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:33 | 2025-04-20 |  |
+| [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 | 2026-05-18 |  |
 | [Mr\-Ambiguous](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [HELLO](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) | 3:41 | 2025-05-08 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2025-01-03 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2025-01-03 |  |
@@ -6197,7 +6199,7 @@
 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/2CDnFIBP90FNiHhCFzoWHo) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:42 | 2025-01-15 |  |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2026-02-21 |  |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2025-03-17 |  |
-| [Swapping Socks](https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:38 | 2025-04-24 |  |
+| [Swapping Socks](https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:38 | 2025-04-24 |  |
 | [Sway to My Beat in Cosmos](https://open.spotify.com/track/2AnvQvVqWORCmgRzLR0sHe) | [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [INSIDE](https://open.spotify.com/album/0max2UoPzegnhjwv1yhyEC) | 2:45 | 2025-01-15 |  |
 | [Swear to My Bones](https://open.spotify.com/track/1Jg6vRYtSbnWzrQAf614p9) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 3:11 | 2024-12-07 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-01-04 |  |

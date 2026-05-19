@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Good songs from songwriters who draw from pop, indie, country and folk 🌟<br/>Cover: Cammy Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,931 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,930 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 496663,
+  "num_followers": 496680,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABxRD/M/jsG0rlHuAG7OhNV",
+  "snapshot_id": "agkFAAAAAAB3qdtZhGp9gIdS99LHeKcF",
   "tracks": [
     {
       "added_at": null,
@@ -160,25 +160,17 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 212658,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
+      "duration_ms": 108131,
+      "name": "Imperfections (Interlude)",
+      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
     },
     {
       "added_at": null,
@@ -244,17 +236,25 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 108131,
-      "name": "Imperfections (Interlude)",
-      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
+      "duration_ms": 212658,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
     },
     {
       "added_at": null,
@@ -647,38 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPR",
-        "url": "https://open.spotify.com/album/0rJwuwTbToEljY5tDwXR0g"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 155386,
-      "name": "MPR",
-      "url": "https://open.spotify.com/track/5uQCJp0Im4KKP3YfrOc844"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Scenario",
-      "url": "https://open.spotify.com/track/6kCXdQb0ope40wooHb8aFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
@@ -703,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/6kCXdQb0ope40wooHb8aFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MPR",
+        "url": "https://open.spotify.com/album/0rJwuwTbToEljY5tDwXR0g"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 155386,
+      "name": "MPR",
+      "url": "https://open.spotify.com/track/5uQCJp0Im4KKP3YfrOc844"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -719,6 +719,30 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Bout A Million",
+      "url": "https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp"
     },
     {
       "added_at": null,
@@ -763,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Bout A Million",
-      "url": "https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100k On A Coupe",
         "url": "https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 117093,
       "name": "100k On A Coupe",
       "url": "https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 123549,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 111699,
       "name": "Don\u2019t Know Em",
       "url": "https://open.spotify.com/track/5anxr6abawSgMj6HJTvU1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 123549,
-      "name": "Coupe",
-      "url": "https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu"
     },
     {
       "added_at": null,

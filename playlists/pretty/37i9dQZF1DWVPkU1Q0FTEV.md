@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain]
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,123 likes - 71 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,132 likes - 71 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain]
 | 13 | [The System](https://open.spotify.com/track/6OIoQDKccAq9sOME9L6wMP) | [JXJ \(UK\)](https://open.spotify.com/artist/1arXtzdKp32k7shrozUip2) | [The System](https://open.spotify.com/album/3CZoO2lrrF34f7Uk7azv3z) | 3:39 |
 | 14 | [Feel It](https://open.spotify.com/track/0XFXBopdmUq0tUmkAtDkWI) | [RØMERØ](https://open.spotify.com/artist/7zFQhqkIyT4aPmnLb4vmfD) | [Feel It](https://open.spotify.com/album/2D6cMZoYanIQrpJdobqo05) | 5:28 |
 | 15 | [Paradox](https://open.spotify.com/track/2YFy7qeijjmV8qWbBkE1L3) | [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Paradox](https://open.spotify.com/album/3ryw9Drk5KlCjBE5JW6rrT) | 3:16 |
-| 16 | [Light Up](https://open.spotify.com/track/2WFd1ReuFLklCjx8TQngO0) | [Off Axis](https://open.spotify.com/artist/3mbWWoZbXMrO8ZztCxPBPy) | [SEKTION 5](https://open.spotify.com/album/7GVJnwamyzJZ5zx4QaHISf) | 4:53 |
+| 16 | [Light Up](https://open.spotify.com/track/2WFd1ReuFLklCjx8TQngO0) | [Off Axis](https://open.spotify.com/artist/4eILo84lydtHil6BYX0YJS) | [SEKTION 5](https://open.spotify.com/album/7GVJnwamyzJZ5zx4QaHISf) | 4:53 |
 | 17 | [Track Id](https://open.spotify.com/track/6XaYw0tNtkUcXveGRSaYgi) | [Revoxx](https://open.spotify.com/artist/15K5jNZQaQRGzqodC5QxNb) | [Track Id](https://open.spotify.com/album/0m2dQhXiuks4RE00sLAHbW) | 3:55 |
 | 18 | [Kollaps \- SveTec Remix](https://open.spotify.com/track/0KSqOm96QT7MDMxVG7r62L) | [LØINAM](https://open.spotify.com/artist/2nHvPoSZ6vf8TwWLlZK8wn), [Svetec](https://open.spotify.com/artist/2IOR06B1bFw3KTm2UADPY4) | [Cyber Attack](https://open.spotify.com/album/5CFhvKUpUA7whnOIhSDT5d) | 4:59 |
 | 19 | [The Untested](https://open.spotify.com/track/3XdHBMy5yESKlg9bFv3T3S) | [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [The Untested](https://open.spotify.com/album/4L91RsocRc1K60LIx5Z4Xz) | 3:35 |

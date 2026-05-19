@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,819 likes - 144 songs - 9 hr 6 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,819 likes - 146 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 142 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 |
 | 143 | [Waiting On The Soul Train](https://open.spotify.com/track/0mSwj7Z0enIvU7H5GnXxYe) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 4:13 |
 | 144 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 |
+| 145 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 |
+| 146 | [A Perfect Lie](https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [A Perfect Lie](https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc) | 3:40 |
 
-Snapshot ID: `AAALazODdkO7Bs2R6p2cls96cKE8q3q4`
+Snapshot ID: `AAALbSPGed+ELNl7YQYXHsAwEE8M+ZSw`

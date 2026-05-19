@@ -3659,6 +3659,32 @@
     },
     {
       "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245710,
+      "name": "se joga",
+      "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
+    },
+    {
+      "album": {
         "name": "Segundo Andar",
         "url": "https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh"
       },

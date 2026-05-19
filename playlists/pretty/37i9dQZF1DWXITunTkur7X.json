@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 79171,
+  "num_followers": 79169,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Beats By Esko",
         "url": "https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 197290,
       "name": "Hey Meisje",
       "url": "https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -888,6 +888,22 @@
       },
       "artists": [
         {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Zo Stil",
+      "url": "https://open.spotify.com/track/3ZcDSojpxWjRrKGw7GjdvT"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
           "name": "Counting Crows",
           "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         },
@@ -899,22 +915,6 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 237280,
-      "name": "Zo Stil",
-      "url": "https://open.spotify.com/track/3ZcDSojpxWjRrKGw7GjdvT"
     },
     {
       "added_at": "2025-03-12 10:01:17",

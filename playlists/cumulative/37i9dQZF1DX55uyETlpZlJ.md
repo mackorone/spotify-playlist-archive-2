@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-660 songs - 1 day 13 hr 31 min
+661 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Amma \- The Kodava Song](https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa) | [Pop\-J Prajeeth](https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p), [Karan Kaverappa](https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7) | [Amma \- The Kodava Song](https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b) | 3:27 | 2024-01-22 | 2024-02-17 |
 | [Amma Endu Karedare](https://open.spotify.com/track/26I3du1XsXyCRYUoXO9xGP) | [Smitha Dinakar](https://open.spotify.com/artist/2DM1Y8LnSGXi2qtm3bPAeo) | [Amma Endu Karedare](https://open.spotify.com/album/2LOCsni19lBhB0Ib7zzLot) | 3:58 | 2024-06-28 | 2024-12-04 |
 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 | 2023-05-11 | 2024-01-23 |
-| [Amuku Dumuku](https://open.spotify.com/track/6QtloMR4ELVROfgoEG2usu) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Amuku Dumuku](https://open.spotify.com/album/4yfsH0o8Z27nhIsQ14ynmq) | 2:27 | 2025-11-20 |  |
+| [Amuku Dumuku](https://open.spotify.com/track/6QtloMR4ELVROfgoEG2usu) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Amuku Dumuku](https://open.spotify.com/album/4yfsH0o8Z27nhIsQ14ynmq) | 2:27 | 2025-11-20 | 2026-05-19 |
 | [Anarkali](https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC) | [Anarkali](https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS) | 5:07 | 2023-05-16 | 2023-12-15 |
 | [Andada Gombe](https://open.spotify.com/track/2o4IRqT61medCrMnOPOs6L) | [Ravi K](https://open.spotify.com/artist/3y8nrKofZtzjWJ3DOdueVs) | [Andada Gombe](https://open.spotify.com/album/5hp0crxPK8b6mveYwJlNdX) | 3:23 | 2026-03-10 | 2026-04-02 |
 | [Ani Ani Anisutide](https://open.spotify.com/track/4zsKK2o1risZLPP5GNmlTB) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Ani Ani Anisutide](https://open.spotify.com/album/1fjADk8xGb7geepJdEAADc) | 4:13 | 2024-03-22 | 2024-09-14 |
@@ -393,6 +393,7 @@
 | [Mugiyada Pallavi \(From "Love In October"\)](https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Manas Manu](https://open.spotify.com/artist/5yRAtgcz1OzhdI14a9Rdml), [Apsara Raghu](https://open.spotify.com/artist/3dd4sPBqGVfUnXGZ6J5YVI) | [Love In October](https://open.spotify.com/album/0yz0tqSrF2xLTiT0A23gHM) | 3:40 | 2025-11-10 | 2026-05-09 |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
 | [My Love \- Kannada](https://open.spotify.com/track/5M6VZVB1wTwgCGqAUln2CT) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Kannada\)](https://open.spotify.com/album/5SMHqxu7YwAGsIHCPDTn9k) | 4:30 | 2025-02-18 | 2025-08-29 |
+| [Mysore Scene](https://open.spotify.com/track/6dQamSMR2TDsHYoSMrZZvb) | [Irfan Qureshi](https://open.spotify.com/artist/2tdPLV4fYx001QLlXimTBf) | [Mysore Scene](https://open.spotify.com/album/3ayFDNZ1CpDTdgEa9VacSp) | 3:29 | 2026-05-18 |  |
 | [Na Driver Ni Nanna Lover](https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Malappa Halabar](https://open.spotify.com/artist/7rnqc49Vemgd04MOvFt2bu) | [Na Driver Ni Nanna Lover](https://open.spotify.com/album/1EzCYR82ygQft5ixRTBtk5) | 9:39 | 2024-08-23 | 2025-04-12 |
 | [Na Kandante](https://open.spotify.com/track/06VvdhOAfxUz4QUjODLFRW) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN) | [Na Kandante](https://open.spotify.com/album/31BGDEPy5ls39aG7dXuwif) | 1:13 | 2024-08-22 | 2025-03-12 |
 | [Na Ninne Preetisuve](https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ) | 3:40 | 2023-10-26 | 2024-02-17 |

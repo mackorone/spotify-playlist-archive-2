@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6001,
+  "num_followers": 6003,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABj477nzhe2XQvjEP2XLdh3",
+  "snapshot_id": "agkFAAAAAACq5rhQ1+cMmt7smOjqAF8r",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take It All (Live)",
-        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Jesus, Lamb Of God - Live",
-      "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 200969,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take It All (Live)",
+        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Jesus, Lamb Of God - Live",
+      "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20Minutes Spontaneous Deep Worship",
+        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1270909,
+      "name": "20Minutes Spontaneous Deep Worship",
+      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOOD and MORE",
         "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 371457,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 192000,
       "name": "Uwese",
       "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AS I AM GRATEFUL",
         "url": "https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182488,
       "name": "Joy",
       "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,

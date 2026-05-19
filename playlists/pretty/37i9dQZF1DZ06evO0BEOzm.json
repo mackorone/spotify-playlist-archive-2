@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 309607,
+  "num_followers": 309640,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAAMsmPK94S2208xc5cTFxh+",
+  "snapshot_id": "agkFAAAAAAB/3PpxtyuFM83LZpIfRGlN",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 135866,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh"
+      "duration_ms": 201006,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 201006,
-      "name": "NDA",
-      "url": "https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa"
+      "duration_ms": 135866,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh"
     },
     {
       "added_at": null,

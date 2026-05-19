@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,835 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,836 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 |
-| 2 | [I’m your girl right?](https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I’m your girl right?](https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX) | 2:49 |
-| 3 | [Puss Puss \- Girls Trip](https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:05 |
-| 4 | [Stammis](https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W) | [Stammis](https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc) | 3:46 |
-| 5 | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/track/71Dlunz5SJlgHlhyZZsf28) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/album/0TKTfQQjXDWosO8TlgXsdm) | 2:06 |
-| 6 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 |
-| 7 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 1 | [Stammis](https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W) | [Stammis](https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc) | 3:46 |
+| 2 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 3 | [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 |
+| 4 | [I’m your girl right?](https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I’m your girl right?](https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX) | 2:49 |
+| 5 | [Puss Puss \- Girls Trip](https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:05 |
+| 6 | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/track/71Dlunz5SJlgHlhyZZsf28) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/album/0TKTfQQjXDWosO8TlgXsdm) | 2:06 |
+| 7 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 |
 | 8 | [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 |
 | 9 | [Nattetid](https://open.spotify.com/track/6TwTWDHDWohzvZIzPD3uDl) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Nattetid](https://open.spotify.com/album/7Ep6dwHzuTujmAROTp0xpP) | 3:34 |
 | 10 | [Arg och frustrerad](https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Arg och frustrerad](https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn) | 3:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 119 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 120 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
 
-Snapshot ID: `AAAAAA2qzj4IEoDOsB8X+JY6D1KdzHUH`
+Snapshot ID: `AAAAAKtbtnNI4iZMEB3GofqffHDRxU3B`

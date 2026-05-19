@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Wiz Khalifa and Curren$y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,566,060 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,566,015 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 42 | [Lemon Pepper Steppers](https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 2:46 |
 | 43 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
 | 44 | [2.P.I.G.](https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:42 |
-| 45 | [Blue Marlin](https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l) | [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Blue Marlin](https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD) | 3:21 |
-| 46 | [Never Change](https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Trent Shelton](https://open.spotify.com/artist/0TFOpHVjYqotplA5rEQ48a) | [Never Change](https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl) | 4:30 |
+| 45 | [Never Change](https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Trent Shelton](https://open.spotify.com/artist/0TFOpHVjYqotplA5rEQ48a) | [Never Change](https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl) | 4:30 |
+| 46 | [Blue Marlin](https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l) | [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Blue Marlin](https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD) | 3:21 |
 | 47 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
 | 48 | [Of Blue \(with Mereba\)](https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 6:36 |
 | 49 | [P.O](https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Likkle Jordee](https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB) | [e.t.d.s\. A Mixtape by .idk.](https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF) | 2:58 |

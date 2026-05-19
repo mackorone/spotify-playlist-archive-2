@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Zoha Waseem, Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,623 likes - 95 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,687 likes - 95 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 15 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 |
 | 16 | [Sila](https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 4:08 |
 | 17 | [Departure Lane](https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 2:46 |
-| 18 | [Hairan Amanam](https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Rizwan Abbas](https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0), [Maheen Sattar](https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW) | [Hairan Amanam](https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t) | 5:09 |
+| 18 | [Hairan Amanam \(feat\. Melvin Arthur\)](https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Rizwan Abbas](https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0), [Maheen Sattar](https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW), [Melvin Arthur](https://open.spotify.com/artist/3qpVwf0Xry98xc9K3hZf00) | [Hairan Amanam \(feat\. Melvin Arthur\)](https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t) | 5:09 |
 | 19 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 | 20 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
 | 21 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |

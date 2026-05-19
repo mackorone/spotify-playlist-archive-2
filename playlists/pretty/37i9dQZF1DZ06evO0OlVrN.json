@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8189,
+  "num_followers": 8188,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAC031/+2YfLLVndL89PTipN",
+  "snapshot_id": "agkFAAAAAABDDFESjVRwPEoRopeQR6dn",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 145337,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3"
+      "duration_ms": 177826,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
+      "duration_ms": 145337,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3"
     },
     {
       "added_at": null,
@@ -671,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+        "name": "Country Roland Vs. Los Relampagos",
+        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
       "artists": [
+        {
+          "name": "Country Roland Band",
+          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Espejo",
-      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+      "duration_ms": 164115,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T"
     },
     {
       "added_at": null,
@@ -703,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Roland Vs. Los Relampagos",
-        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
       },
       "artists": [
-        {
-          "name": "Country Roland Band",
-          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 164115,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T"
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
     },
     {
       "added_at": null,

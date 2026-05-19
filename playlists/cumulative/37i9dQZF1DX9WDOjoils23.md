@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-112 songs - 13 hr 22 min
+113 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Jaach Mainu Aa Gai Gham Khaan Di](https://open.spotify.com/track/62Ckk14Mj0mBzlNoYP5ibH) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Dil Wala Dukhra](https://open.spotify.com/album/4BTUY0hbGetctoTH6N2F2G) | 3:20 | 2025-05-13 | 2025-07-04 |
 | [Jaan Kadh Layee Aa Beimana](https://open.spotify.com/track/02x9Iqu6YKsYIdqVjChg9x) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 4:25 | 2024-04-24 | 2024-07-11 |
 | [Jadon Kadi Tainu Mera Pyar Satavega](https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK) | [Gulam Ali](https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi) | [Tu Hi Mera Dil Luteya](https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ) | 7:05 | 2023-02-15 | 2025-05-14 |
+| [Jaiye Sajana \- Recreated](https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jaiye Sajana \- Recreated](https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX) | 6:47 | 2026-05-18 |  |
 | [Jhaleya](https://open.spotify.com/track/2SqzHPZJkWqeiQaTKvVHK6) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ustaad Dildar Hussian](https://open.spotify.com/artist/7Khc0BFNH1WcQfn1QfrEbN) | [She Loves Me, She Loves Me Not...](https://open.spotify.com/album/52LycdTcLfQ7fusg8XKXs9) | 6:19 | 2025-02-27 | 2025-04-09 |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 | 2023-12-18 | 2026-03-07 |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 | 2023-02-15 | 2023-09-29 |
@@ -107,7 +108,7 @@
 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 | 2023-02-15 | 2025-02-02 |
 | [Tasvi De Manke](https://open.spotify.com/track/6gOwSBSuTm1nuF884LkQuy) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Tasvi De Manke](https://open.spotify.com/album/1IWalUhl4oILgaiUDH2rYp) | 4:19 | 2025-02-01 | 2025-02-22 |
 | [Tenu Mein Pyaar Karaa \- Version 1](https://open.spotify.com/track/4m78k5BYJz2hSch5AW8KYw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 6:14 | 2023-02-15 | 2025-05-14 |
-| [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 | 2023-02-15 |  |
+| [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 | 2023-02-15 | 2026-05-19 |
 | [Terian Mithian Gallan Da](https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 15:19 | 2023-02-15 |  |
 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 | 2023-02-15 |  |
 | [Tu Na Bhuldi](https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx) | [Jelly](https://open.spotify.com/artist/1ZTo2Iu8NpzTUzrxfuTSrQ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [Dhola \(The Sweetheart\)](https://open.spotify.com/album/6i2mTMica3getExPlNOSMs) | 6:20 | 2025-08-28 |  |

@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 154804,
       "name": "17. Mai er vi s\u00e5 glad i",
       "url": "https://open.spotify.com/track/0OdiUIuHz3W2178hAdC6rt"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 51400,
       "name": "17. mai-sang (Tenk at n\u00e5 er dagen her)",
       "url": "https://open.spotify.com/track/4tPHgwk04wQcwLo2LETUj0"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 158600,
       "name": "17.mai",
       "url": "https://open.spotify.com/track/7oodjYvd9RYhRjUufF2QTW"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "5 fine fr\u00f8kner",
       "url": "https://open.spotify.com/track/49lGGqlyEnlRQfc69I8ajk"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "BankRoll",
         "url": "https://open.spotify.com/album/7H2VxY7T2qih7wlAIqCT5N"
       },
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -6328,7 +6346,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 251933,
       "name": "Bordet",
       "url": "https://open.spotify.com/track/1ydZsp49q1GrFLPdhRwBsy"
@@ -8268,7 +8286,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 231746,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 253153,
       "name": "Da einaste du sa",
       "url": "https://open.spotify.com/track/5HfhW9vSy6VTDrtAU1cpZY"
@@ -10676,7 +10694,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 161346,
       "name": "Det G\u00e5r Et Festtog Gjennom Landet!",
       "url": "https://open.spotify.com/track/06xTF6pNyBi14cHpKISeyk"
@@ -13060,7 +13078,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 186413,
       "name": "En Solskinnsdag",
       "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
@@ -14456,7 +14474,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 189440,
       "name": "Falle og sl\u00e5 seg",
       "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
@@ -16586,7 +16604,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
@@ -16904,7 +16922,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 251250,
       "name": "Gaffateip",
       "url": "https://open.spotify.com/track/4OnEoVWx7qnZse5zvwNaV4"
@@ -17032,7 +17050,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 122800,
       "name": "Gammel Jegermarsj",
       "url": "https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV"
@@ -19642,7 +19660,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 181926,
       "name": "Hele uka",
       "url": "https://open.spotify.com/track/1VyeedJ5mj76vNJMpXOaSh"
@@ -20886,7 +20904,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 140600,
       "name": "Holmenkollmarsj",
       "url": "https://open.spotify.com/track/1f5O1jq4V2pB2Xi1cXImsj"
@@ -21536,7 +21554,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -23632,7 +23650,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 203253,
       "name": "Idyll",
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
@@ -24236,7 +24254,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 213333,
       "name": "Ingen igjen",
       "url": "https://open.spotify.com/track/2DfJz0TphTEmpbn5kUJwZP"
@@ -24710,7 +24728,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "Ja, Vi Elsker Dette Landet",
       "url": "https://open.spotify.com/track/6BceIzVKILTDorOHoqTpgs"
@@ -24774,7 +24792,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 519200,
       "name": "Ja, vi elsker dette landet - alle 8 vers",
       "url": "https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE"
@@ -24810,7 +24828,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "Jag kommer",
       "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
@@ -29808,7 +29826,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 154267,
       "name": "Low Effort",
       "url": "https://open.spotify.com/track/5ImE3QcgLQ9QAMC5dJtvvy"
@@ -30416,7 +30434,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 307681,
       "name": "Make Them Cry",
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
@@ -30640,7 +30658,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -33470,7 +33488,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -34300,7 +34318,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 148653,
       "name": "Norge I R\u00f8dt Hvitt Og Bl\u00e5tt",
       "url": "https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt"
@@ -34318,7 +34336,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
@@ -36052,13 +36070,13 @@
       },
       "artists": [
         {
-          "name": "Bausa",
+          "name": "The Bausa",
           "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Overfladisk",
       "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
@@ -38970,7 +38988,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -39336,7 +39354,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 191786,
       "name": "Ring meg",
       "url": "https://open.spotify.com/track/0Gf6mZ2kMJCDVHm2afcpfl"
@@ -40996,7 +41014,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -41246,7 +41264,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 224318,
       "name": "Shanty",
       "url": "https://open.spotify.com/track/3RqaFZmL5Q7UV1NFNyXBlB"
@@ -42990,7 +43008,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -45998,7 +46016,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 225000,
       "name": "Ta ho d\u00e5",
       "url": "https://open.spotify.com/track/2CfQ5fraRqkeNPdjkws9dQ"
@@ -49204,7 +49222,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 181237,
       "name": "Trist Masochist",
       "url": "https://open.spotify.com/track/5Q1mYLz2fJAV5yFLTsOzPO"
@@ -52294,7 +52312,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
@@ -53080,7 +53098,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Wreckonize",
       "url": "https://open.spotify.com/track/76faIQoGutZKFU4KJl1XLi"

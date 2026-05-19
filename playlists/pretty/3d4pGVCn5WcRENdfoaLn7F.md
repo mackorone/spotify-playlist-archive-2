@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 666 likes - 106 songs - 6 hr 7 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 667 likes - 108 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 104 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
 | 105 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
 | 106 | [Different Doors](https://open.spotify.com/track/6xUa1e4JfZtC7OfEu4Pb8X) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk) | [Different Doors](https://open.spotify.com/album/47kTyebjcjYRNLHdE6YwDT) | 3:46 |
+| 107 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
+| 108 | [The Overview](https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV) | [The Streetlights](https://open.spotify.com/artist/4wkbEfCePFwRy83imzOOuy) | [The Overview](https://open.spotify.com/album/3QF66H9EbSTbTzEFoFEqgv) | 2:45 |
 
-Snapshot ID: `AAADcujVVw3kdy4ojc2Usraj+oHyKV3I`
+Snapshot ID: `AAADdGKCOcPkeIu1F+nHRN56EH7xa8SM`

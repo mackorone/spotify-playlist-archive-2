@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAADjOGontk7PIXFLn0HN9wLc",
+  "snapshot_id": "agkFAAAAAACeGLnEcvMAYAbjmzp9UlJ9",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 174729,
-      "name": "Things Will Matter",
-      "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+      "duration_ms": 174729,
+      "name": "Things Will Matter",
+      "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
     },
     {
       "added_at": null,

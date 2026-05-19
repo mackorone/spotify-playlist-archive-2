@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45999,
+  "num_followers": 46001,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAACDZ+mKLUVgvNOny1WRYQil",
+  "snapshot_id": "agkFAAAAAACRNcVMIJdYROk7lUNFX+22",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 161309,
       "name": "Hella",
       "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 201681,
-      "name": "Fashion Habits",
-      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
     }
   ],
   "unique_name": "This Is Ken Carson",

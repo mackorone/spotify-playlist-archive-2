@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5214,6 +5214,24 @@
       "duration_ms": 221352,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/07DiAJezwsv3sY5rinbIDE"
+    },
+    {
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
       "album": {
@@ -13550,6 +13568,24 @@
       "duration_ms": 205469,
       "name": "Don\u2019t Break My Heart",
       "url": "https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92"
+    },
+    {
+      "album": {
+        "name": "Don't Click Play",
+        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148932,
+      "name": "Don\u2019t Click Play",
+      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
     },
     {
       "album": {
@@ -38084,7 +38120,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 161133,
       "name": "Naggar",
       "url": "https://open.spotify.com/track/0yHR1QnAjAsSC8WAJIWXSS"
@@ -51508,7 +51544,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 169640,
       "name": "Stoppa t\u00edmann",
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
@@ -58720,7 +58756,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 82091,
       "name": "UPPSELT",
       "url": "https://open.spotify.com/track/00uihLH2NctLwI9T9sLdT6"

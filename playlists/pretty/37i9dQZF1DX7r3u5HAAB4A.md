@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,627 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,674 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amazing Shape \(feat\. Popcaan\)](https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:56 |
 | 2 | [Fuck and Party \(feat\. Vybz Kartel\)](https://open.spotify.com/track/36mxQSO07EQkGEshyiWPsL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:37 |
-| 3 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 3 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 4 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |
 | 5 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |
 | 6 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |

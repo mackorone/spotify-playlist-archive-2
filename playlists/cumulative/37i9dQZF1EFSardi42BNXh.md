@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-22 songs - 1 hr 7 min
+23 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [I Like \(the idea of\) You](https://open.spotify.com/track/62XsUDISgorMOl0wEyTmjF) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:48 | 2023-12-30 |  |
 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 | 2023-12-30 |  |
 | [Interlude III](https://open.spotify.com/track/2gKFOjYqtJpSsIXdRxZQfH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:49 | 2023-12-30 |  |
+| [Just Right](https://open.spotify.com/track/66dqk0qO4EXnMPINSLKf6O) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Sunshine \(Just Right\) \- Geometry Dash](https://open.spotify.com/album/74shlt8UzFHfaZsjKmyHrZ) | 3:22 | 2026-05-18 |  |
 | [Not over You](https://open.spotify.com/track/6l6VorBrQut6Ee0p19lYvG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:13 | 2023-12-30 |  |
 | [On My Own](https://open.spotify.com/track/1KzXa60i893JSwUBWJW83D) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 2:56 | 2023-12-30 |  |
 | [Prelude](https://open.spotify.com/track/2ZgFgrxaenAAcsbdO7hE5M) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 1:03 | 2023-12-30 |  |

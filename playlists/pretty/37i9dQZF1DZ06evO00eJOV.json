@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37335,
+  "num_followers": 37336,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAADU8vQum4edbpQd21GWbslt",
+  "snapshot_id": "agkFAAAAAACMTrqcfFf59hFrfPTHvSUd",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 329973,
-      "name": "Ngizilalhlela Kuwe",
-      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
+      "duration_ms": 374106,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 374106,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
+      "duration_ms": 329973,
+      "name": "Ngizilalhlela Kuwe",
+      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
+      "duration_ms": 331466,
+      "name": "Party Time - Kuya Ngokuthi Ungubani",
+      "url": "https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331466,
-      "name": "Party Time - Kuya Ngokuthi Ungubani",
-      "url": "https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw"
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black President",
-        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Stay Away (From My Man)",
-      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 275960,
       "name": "Soon And Very Soon - 99 Remix",
       "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black President",
+        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Stay Away (From My Man)",
+      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
     },
     {
       "added_at": null,

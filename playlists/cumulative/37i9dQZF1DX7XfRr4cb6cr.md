@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-424 songs - 1 day 8 hr 46 min
+425 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [hope, held](https://open.spotify.com/track/10yVevqpF94x3fpkPDtB2W) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [Logic23](https://open.spotify.com/artist/1G4qXAH4sUczCkVwrhXPr1) | [hope, held](https://open.spotify.com/album/6siX6Z19MZzFneLnK6wQHA) | 1:12 | 2026-03-13 |  |
 | [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 | 2026-03-14 |
 | [Hostages in Love](https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Crossing the Border](https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2) | 4:07 | 2023-09-01 | 2026-03-14 |
-| [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 |  |
+| [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 | 2026-05-19 |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 | 2026-05-16 |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 | 2025-07-04 |
 | [I Choose the Astronaut](https://open.spotify.com/track/7xYnHxYrn7RsNsmhnkc9sW) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [I Choose the Astronaut](https://open.spotify.com/album/3JaAjm7QZiCq678NvFgTBD) | 3:18 | 2025-05-22 |  |
@@ -232,6 +232,7 @@
 | [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2025-03-16 |
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 | 2024-04-19 |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
+| [mist in the valley](https://open.spotify.com/track/5ugtyY3F7KSvBj8iIW7mzj) | [slipdream](https://open.spotify.com/artist/4dVNhXv8UM1MVeDzswLb80) | [mist in the valley](https://open.spotify.com/album/68Ok5uf30GXoBC2oBigrcP) | 2:38 | 2026-05-15 |  |
 | [Moments In Love](https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 10:17 | 2022-01-21 | 2024-10-05 |
 | [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 | 2025-06-20 |
 | [mourning tide](https://open.spotify.com/track/1Rm49TNcNIdTshgFCyOL73) | [fade gently](https://open.spotify.com/artist/535wS1IPD0eFBFvNSfldcC), [unveil](https://open.spotify.com/artist/4StNb7iGTXQJeEX9TpRvTY) | [mourning tide](https://open.spotify.com/album/6koU8ctukYRXYNCWunfa7c) | 1:41 | 2026-03-13 |  |

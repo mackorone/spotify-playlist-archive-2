@@ -224,6 +224,24 @@
     {
       "album": {
         "name": "a softer focus",
+        "url": "https://open.spotify.com/album/3KJv1qok546bBsej16WkR4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394386,
+      "name": "discrete (the market)",
+      "url": "https://open.spotify.com/track/26SQDv0FWHNO9P2ALGwjUF"
+    },
+    {
+      "album": {
+        "name": "a softer focus",
         "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
       },
       "artists": [
@@ -234,7 +252,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 394386,
       "name": "discrete (the market)",
       "url": "https://open.spotify.com/track/6VbGoPL0B6BaR1FMjqkTdr"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 179823,
       "name": "hands",
       "url": "https://open.spotify.com/track/5MBZtPwqSBZ1p8kemi4DvB"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "ix",
       "url": "https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 96000,
       "name": "xi",
       "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"

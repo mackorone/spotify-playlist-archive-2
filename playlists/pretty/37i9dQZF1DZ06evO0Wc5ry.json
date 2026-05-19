@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 167979,
+  "num_followers": 167991,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAADArkXa0NEvI2C4j25zJdYU",
+  "snapshot_id": "agkFAAAAAAALzyd9GWzlGaG8aVaB2lHP",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Hootie Hoo",
-      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+      "duration_ms": 309866,
+      "name": "Crumblin' Erb",
+      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 309866,
-      "name": "Crumblin' Erb",
-      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
+      "duration_ms": 238906,
+      "name": "Hootie Hoo",
+      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Tia Gordon
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,200 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,203 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 19 | [Better Days](https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Better Days](https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9) | 3:10 |
 | 20 | [round, round](https://open.spotify.com/track/3udUpLCl78125UkbwtSNIE) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [round, round](https://open.spotify.com/album/2x2WXC5PAPfkB0XFsRhexd) | 2:23 |
 | 21 | [Change](https://open.spotify.com/track/1KmrL1QJABCiUNsqtfOLht) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Change](https://open.spotify.com/album/5Rgf6ssTodt5bMI85dkjP6) | 3:30 |
-| 22 | [HOME](https://open.spotify.com/track/2Ue3BelOn2jSFUdPMtvHuO) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [IF I DON'T LAUGH, I'LL CRY](https://open.spotify.com/album/6ZoVhO8U0DJTRwqsgCKVfb) | 3:16 |
+| 22 | [HOME](https://open.spotify.com/track/765aPM26j6Tkki0khCBHUF) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [IF I DON'T LAUGH, I'LL CRY](https://open.spotify.com/album/2opEwoQ8QTRw9Je2nAU9GS) | 3:16 |
 | 23 | [Alive](https://open.spotify.com/track/1Vdt5HO84vJr6hGui1rGie) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Alive](https://open.spotify.com/album/5Dj7KRmVUnjxz1MdNfgSMH) | 3:29 |
 | 24 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 25 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 30 | [promised land](https://open.spotify.com/track/1Xsk798mnogV1DcrVgdJYe) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [promised land](https://open.spotify.com/album/19CjpdahSIGd2n1h025Cvv) | 2:37 |
 | 31 | [Distance](https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Distance](https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa) | 3:14 |
 | 32 | [Fucking City](https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Fucking City](https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97) | 3:18 |
-| 33 | [Mercenary](https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY) | 2:19 |
+| 33 | [Mercenary](https://open.spotify.com/track/6S7l3Xni5W3dzSiHIxgTOl) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/1wBehycLK55zC8T02yRwNt) | 2:19 |
 | 34 | [Red Wine](https://open.spotify.com/track/4qzBHmt6mnOg1iSyEx8nkW) | [Krystyn](https://open.spotify.com/artist/0RamQJ0pgt5rLMQh93Hyiu) | [Red Wine](https://open.spotify.com/album/48aFVPIvvsorIvP58hixvl) | 2:27 |
 | 35 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 |
 | 36 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 39 | [should i give it up?](https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [should i give it up?](https://open.spotify.com/album/1uJTd7634MZTlEXlWjuE8F) | 2:25 |
 | 40 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |
 | 41 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 42 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5) | 3:32 |
+| 42 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/0TxkufmnddrYBSqPosQXT9) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/6cH1y90TDtNsZ5CAuz5Pi1) | 3:32 |
 | 43 | [hate you bad <3](https://open.spotify.com/track/52c7hLD3PGD3IqHWM7DLic) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [hate you bad <3](https://open.spotify.com/album/0wGgsPQqo7kFJlHLDd2KqX) | 3:11 |
 | 44 | [My Type](https://open.spotify.com/track/2STn48rKSuwKc5SdwpAslT) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [My Type](https://open.spotify.com/album/74RhE1JGTExeB44bXPuwXd) | 2:52 |
 | 45 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 57 | [Keep Coming Back To You](https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Keep Coming Back To You](https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT) | 3:29 |
 | 58 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 |
 | 59 | [feels like home](https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [feels like home](https://open.spotify.com/album/0zZbfPWiZz3v9UlFNFwUzl) | 2:40 |
-| 60 | [Two Shots \(Looking For Love\)](https://open.spotify.com/track/4XQ13GgSkaNfVMeKpN1Ujh) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/58JuFqlllpEEW7S9eka6uX) | 3:48 |
+| 60 | [Two Shots \(Looking For Love\)](https://open.spotify.com/track/7Cl9kmnWb80DX9B56BbkUy) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/2Gubb8LiAF6z9ld71fXZB0) | 3:48 |
 | 61 | [Y PREE](https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [Y PREE](https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv) | 2:20 |
 | 62 | [FIND OUT](https://open.spotify.com/track/7Hun7EUngoDMx591TdCDs7) | [Ashley Iman](https://open.spotify.com/artist/7EtQAZo28sS3vNwbHrOmqx) | [FIND OUT](https://open.spotify.com/album/5nroGRYiPPX8E7uAV30U7g) | 2:22 |
 | 63 | [same ole](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [kintsugi](https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0) | 2:37 |
 | 64 | [Anyone Else](https://open.spotify.com/track/6S3HW9FrOgPBGHoxhjlM5d) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Anyone Else](https://open.spotify.com/album/7bKL77s7GN3ji7S5O1w7Ue) | 4:13 |
 | 65 | [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 |
 | 66 | [Drive](https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI) | [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Drive](https://open.spotify.com/album/3yf9U0CrTtqFqWHUTjhyJZ) | 2:52 |
-| 67 | [SAFE](https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [SAFE](https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV) | 3:33 |
+| 67 | [SAFE](https://open.spotify.com/track/60qY61bI6CAVZ07y5K0ZWe) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [SAFE](https://open.spotify.com/album/3xpUTHRYmZpVoS0pM3vaeU) | 3:33 |
 | 68 | [Miss Me](https://open.spotify.com/track/2vpRUpzjDynKp8yCG7h3WZ) | [Monique Togara](https://open.spotify.com/artist/1cVMo7uvaWE2903IHOaefU) | [Miss Me](https://open.spotify.com/album/2Q4lZ6WSea4YWAV60vCYoI) | 2:04 |
 | 69 | [Officer, Pt\. 2](https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Officer, Pt\. 2](https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR) | 3:04 |
 | 70 | [always be there](https://open.spotify.com/track/2osyP0h0cLHPIStWO9rMje) | [House of EL](https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos) | [always be there](https://open.spotify.com/album/1apSUWzvlj5UMyk9VJBi9W) | 2:47 |

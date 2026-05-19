@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,493 likes - 100 songs - 4 hr 39 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,493 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 7 | [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 |
 | 8 | [Knock At The Door](https://open.spotify.com/track/7snf3SZJKO8P5xbsFugPCE) | [Bally Baby](https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z) | [Knock At The Door](https://open.spotify.com/album/4FmxUsRfZtHjWOhSb7CsiN) | 1:41 |
 | 9 | [ICEBOY](https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [ICEBOY](https://open.spotify.com/album/2TQ4TXcdmgfG4BqMfUyv2j) | 3:14 |
-| 10 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:05 |
+| 10 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
 | 11 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
 | 12 | [Not Friendly](https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Not Friendly](https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5) | 3:01 |
 | 13 | [WE ON GO](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Extended\)](https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1) | 2:48 |

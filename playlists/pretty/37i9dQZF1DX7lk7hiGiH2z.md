@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Der Frühling ist da – mit Songs für längere Tage und fröhliche Familienmomente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,391 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 39 | [Ich liebe den Frühling 😊](https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Frühling & Ostern](https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z) | 2:04 |
 | 40 | [Häschenparty](https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ) | [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Häschenparty](https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q) | 2:48 |
 | 41 | [Vogelhochzeit](https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG) | [Jasmin Wagner](https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 2:28 |
-| 42 | [Frühling!](https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:57 |
-| 43 | [Der Frühling ist da](https://open.spotify.com/track/3lKbeDF3uf0yzPUJsQS12x) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Der Frühling ist da](https://open.spotify.com/album/4whVl7IHDSs7SfTJyV8GL3) | 2:39 |
+| 42 | [Der Frühling ist da](https://open.spotify.com/track/3lKbeDF3uf0yzPUJsQS12x) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Der Frühling ist da](https://open.spotify.com/album/4whVl7IHDSs7SfTJyV8GL3) | 2:39 |
+| 43 | [Frühling!](https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:57 |
 | 44 | [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 |
 | 45 | [Ich gönn mir Eiscreme](https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:30 |
 | 46 | [Teilen](https://open.spotify.com/track/3ZOnYrn1P9oH2cAstCRfvn) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Teilen](https://open.spotify.com/album/2ACqu3M1ntR2dxghawhouU) | 2:13 |

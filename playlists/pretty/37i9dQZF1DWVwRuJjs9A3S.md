@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Sylvie´s Head
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,170 likes - 259 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,171 likes - 259 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

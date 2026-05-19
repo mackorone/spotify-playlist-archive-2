@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 168408,
+  "num_followers": 168436,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Terpatah Terluka",
-        "url": "https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB"
-      },
-      "artists": [
-        {
-          "name": "Nabila Taqiyyah",
-          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
-        }
-      ],
-      "duration_ms": 214395,
-      "name": "Terpatah Terluka",
-      "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Katakan Saja",
         "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 236202,
       "name": "Katakan Saja",
       "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Terpatah Terluka",
+        "url": "https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "duration_ms": 214395,
+      "name": "Terpatah Terluka",
+      "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -799,26 +799,6 @@
       "duration_ms": 265361,
       "name": "Bagaimana Kabarmu?",
       "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Peluk",
-        "url": "https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q"
-      },
-      "artists": [
-        {
-          "name": "Hael Husaini",
-          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
-        },
-        {
-          "name": "Nadeera",
-          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
-        }
-      ],
-      "duration_ms": 243461,
-      "name": "Peluk",
-      "url": "https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -867,6 +847,26 @@
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Peluk",
+        "url": "https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        },
+        {
+          "name": "Nadeera",
+          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+        }
+      ],
+      "duration_ms": 243461,
+      "name": "Peluk",
+      "url": "https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM"
     }
   ],
   "unique_name": "galau rabak",

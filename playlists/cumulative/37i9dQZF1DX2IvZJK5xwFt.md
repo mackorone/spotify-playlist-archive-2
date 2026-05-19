@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-1,113 songs - 2 day 20 hr 46 min
+1,114 songs - 2 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-12 | 2025-07-18 |
 | [Apocalyptic Dance](https://open.spotify.com/track/6RuaJQFqQiNUX5mFyXqTip) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Apocalyptic Dance](https://open.spotify.com/album/3kAs2fDCOyJTfqGRjFpN4s) | 4:56 | 2025-10-10 | 2025-11-08 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-24 | 2025-03-15 |
+| [Arrogant Boy](https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Arrogant Boy](https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F) | 3:18 | 2026-05-18 |  |
 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2023-08-10 | 2023-09-29 |
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 | 2025-08-08 |
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/06USX1htQD4LgOgX4FF0ix) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 3:57 | 2026-02-02 | 2026-04-04 |
@@ -641,7 +642,7 @@
 | [Nerve Flip](https://open.spotify.com/track/3cIRhs4twfgki25wLPhUqA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Nerve Flip](https://open.spotify.com/album/4k2RZA376JAZ9XOIQlyzae) | 3:06 | 2022-06-02 | 2022-06-17 |
 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 | 2023-05-25 | 2023-06-02 |
 | [NERVOUS](https://open.spotify.com/track/5eCi0WNi38vEKZeXr5kEAs) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [NERVOUS](https://open.spotify.com/album/6SfV67IBJwVEm2aJDkJ51x) | 3:25 | 2024-06-27 | 2024-09-28 |
-| [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 | 2026-02-02 |  |
+| [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 | 2026-02-02 | 2026-05-19 |
 | [Never Ever Let You Go](https://open.spotify.com/track/4yr2XZ9ujDpZXwvqDZQ8wk) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Ever Let You Go](https://open.spotify.com/album/2DhiSOvQ5VZ5HsUjMr3AuL) | 3:25 | 2025-05-09 | 2025-07-12 |
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-09-18 | 2025-09-27 |
 | [NEW LOVE](https://open.spotify.com/track/4jxLWRKAzXyV8xmUJg7fpF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [NEW LOVE](https://open.spotify.com/album/2lFihMx6pGcLNn6glKRvwM) | 3:43 | 2023-09-22 | 2023-09-29 |

@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-717 songs - 1 day 19 hr 7 min
+718 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-01-29 | 2024-04-19 |
 | [Close Your Eyes](https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF) | 5:01 | 2023-04-18 | 2023-09-16 |
 | [Cold Kisses](https://open.spotify.com/track/32YxjCCmipEEd3gWWwhSq1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Cold Kisses](https://open.spotify.com/album/2VtDSccjKdjJ48SJHNjW2q) | 2:48 | 2026-04-23 | 2026-05-08 |
+| [Coming Home](https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Coming Home](https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax) | 2:48 | 2026-05-18 |  |
 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 | 2023-12-22 |  |
 | [Copycat](https://open.spotify.com/track/6lFsUDvJi9LDxPDVJhSsI9) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl), [Entasia](https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [Final Dance](https://open.spotify.com/album/0RtZvmIjLHKD4ecdEnEGfI) | 2:43 | 2026-04-23 | 2026-05-08 |
 | [Corpo e Canção \- Festival Mix](https://open.spotify.com/track/5qTJMgKv23bfBX8ZhJc1AH) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Festival Mix\)](https://open.spotify.com/album/6IbntgVwKKjvn6bH96TBiH) | 3:23 | 2025-04-17 | 2025-08-09 |
@@ -149,7 +150,7 @@
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-03-03 |  |
 | [Diamonds on My Neck](https://open.spotify.com/track/00HVImziSu4MZSdpBgDGZz) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Antonym](https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5) | [Diamonds on My Neck](https://open.spotify.com/album/2ccgTXhav6Xs6mF7oA1j27) | 2:51 | 2026-01-22 | 2026-02-06 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 | 2025-05-23 |
-| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 |  |
+| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 | 2026-05-19 |
 | [Dikke Beat](https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Dikke Beat](https://open.spotify.com/album/5IDtEkSGRVQX358ShCkQHQ) | 5:00 | 2024-10-17 | 2025-01-07 |
 | [Dime Porque](https://open.spotify.com/track/7oLW9B5FsaTXL17gU06ilj) | [CLTX](https://open.spotify.com/artist/7uYIUwgVSEv7bomOcPROCf) | [Dime Porque](https://open.spotify.com/album/2qNTNEeijrMP9E5l00bpHI) | 3:41 | 2026-05-07 |  |
 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |

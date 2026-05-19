@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAABSHE29YHWiBfGloQCLXir",
+  "snapshot_id": "agkFAAAAAACIPbWWX7+kechM5cTM9Y92",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 450866,
-      "name": "Alpine Flight",
-      "url": "https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT"
+      "duration_ms": 399720,
+      "name": "Symphonic Industry",
+      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 257413,
-      "name": "Phantom Dancer",
-      "url": "https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm"
+      "duration_ms": 277226,
+      "name": "Century C",
+      "url": "https://open.spotify.com/track/7GIhh2VzlUmvq36pJ0fUZN"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 369173,
-      "name": "Organized Confusion",
-      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
+      "duration_ms": 450866,
+      "name": "Alpine Flight",
+      "url": "https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 277226,
-      "name": "Century C",
-      "url": "https://open.spotify.com/track/7GIhh2VzlUmvq36pJ0fUZN"
+      "duration_ms": 257413,
+      "name": "Phantom Dancer",
+      "url": "https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 399720,
-      "name": "Symphonic Industry",
-      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
+      "duration_ms": 369173,
+      "name": "Organized Confusion",
+      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
     },
     {
       "added_at": null,

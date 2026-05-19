@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Koyo",
-  "num_followers": 603180,
+  "num_followers": 603193,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -691,8 +691,8 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 213600,
       "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 189897,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 145547,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "Second Thoughts",
         "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 196608,
       "name": "The Worst Thing I've Ever Done",
       "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "duration_ms": 197627,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 222550,
       "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
       "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
-      },
-      "artists": [
-        {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
-        }
-      ],
-      "duration_ms": 197627,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "REACHING FOR THE SKY",
+        "url": "https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 235900,
+      "name": "REACHING FOR THE SKY",
+      "url": "https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "RESTORATION",
         "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
       },
@@ -1287,34 +1303,18 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5"
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
       "artists": [
         {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 193840,
-      "name": "Irreversible",
-      "url": "https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "REACHING FOR THE SKY",
-        "url": "https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 235900,
-      "name": "REACHING FOR THE SKY",
-      "url": "https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N"
+      "duration_ms": 214505,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
     },
     {
       "added_at": "2026-05-09 04:00:04",

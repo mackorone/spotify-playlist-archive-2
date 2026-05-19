@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: MINGI of ATEEZ \(민기\(에이티즈\)\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: ZEROBASEONE\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-860 songs - 1 day 22 hr 28 min
+862 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
 | [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-03 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
-| [Dinero](https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R) | [MINGI](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [FIX OFF Desire Project : ORIGIN](https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku) | 2:27 | 2026-05-11 |  |
+| [Dinero](https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R) | [MINGI](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [FIX OFF Desire Project : ORIGIN](https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku) | 2:27 | 2026-05-11 | 2026-05-19 |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
 | [Do 4 Me](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [2nd EP Album ‘Bipolar Pt.2 Prelude of Love’](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) | 3:19 | 2022-03-22 | 2022-07-23 |
 | [Do It](https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Do It](https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB) | 3:09 | 2023-11-10 | 2023-11-22 |
@@ -366,7 +366,7 @@
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
 | [Hyper Slide \(Sung by KYEHOON, DONGHWA, MINJE, KEIJU\)](https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [From KickFlip, To WeFlip](https://open.spotify.com/album/4r8i0J0WZXhzbmy9wwTAxp) | 2:45 | 2026-01-20 | 2026-02-10 |
 | [I Did It](https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [AxMxP](https://open.spotify.com/album/7CddXgLBio0ruzFJ31xmjj) | 2:56 | 2025-09-22 | 2025-09-30 |
-| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 | 2026-05-07 |
+| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 |  |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 | 2024-03-27 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2022-08-03 | 2022-08-07 |
@@ -508,7 +508,8 @@
 | [Mixtape : OH](https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7) | 3:32 | 2021-12-08 | 2022-07-29 |
 | [Mixtape : On Track](https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : On Track](https://open.spotify.com/album/71SzCgInpeGCfcmn4FbEth) | 3:27 | 2021-12-08 | 2022-07-18 |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-03 | 2022-11-25 |
-| [Mmchk](https://open.spotify.com/track/0ASTfHpDkFpD4aWqj9T5F6) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/71X6uVcs0JOlENKqx5k2dO) | 2:38 | 2026-04-27 |  |
+| [Mmchk](https://open.spotify.com/track/0ASTfHpDkFpD4aWqj9T5F6) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/71X6uVcs0JOlENKqx5k2dO) | 2:38 | 2026-04-27 | 2026-05-19 |
+| [Mmchk](https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/5YHLQZd6OjbaP5hMVts8Y7) | 2:38 | 2026-05-19 |  |
 | [MMM](https://open.spotify.com/track/256pafuFi3cF39hfB7cyY0) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 3:28 | 2022-01-13 | 2022-07-27 |
 | [Monochrome \(Color\)](https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 開花](https://open.spotify.com/album/36qrWqcSCVzubWlQzUyPtx) | 3:47 | 2022-07-27 | 2022-08-09 |
 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 |  |
@@ -761,6 +762,7 @@
 | [Told You](https://open.spotify.com/track/2qTjl3SL2jiBXu1v5eOQXw) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [We Love You](https://open.spotify.com/album/5TDEg6rdTAjVjEtqDuSmkv) | 3:19 | 2023-08-16 | 2023-08-22 |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-16 | 2022-04-01 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2025-05-15 |
+| [TOP 5](https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe) | 2:27 | 2026-05-19 |  |
 | [TOP GANG](https://open.spotify.com/track/7JDBOOf49nKbwNopK8Bbv0) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [TOP GANG](https://open.spotify.com/album/506twLo58R8O15T9EgyQsp) | 3:01 | 2022-03-22 | 2022-03-28 |
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2022-03-22 | 2022-06-06 |
 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-03-30 | 2023-04-12 |
@@ -810,7 +812,7 @@
 | [We don't stop](https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [The Fiery Priest 2 \(Original Soundtrack\) Part.2](https://open.spotify.com/album/4cUiPsVFLX87U79rXqbNjL) | 3:22 | 2025-01-02 | 2025-01-08 |
 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-08 | 2024-04-06 |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2021-12-08 | 2025-01-29 |
-| [WE WANNA GO](https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [WE WANNA GO \(Original Soundtrack from WANNA ONE GO : Back to Base\)](https://open.spotify.com/album/0prJyGW02smdoNIKjA3xst) | 2:40 | 2026-05-06 |  |
+| [WE WANNA GO](https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [WE WANNA GO \(Original Soundtrack from WANNA ONE GO : Back to Base\)](https://open.spotify.com/album/0prJyGW02smdoNIKjA3xst) | 2:40 | 2026-05-06 | 2026-05-19 |
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-21 | 2024-05-13 |
 | [What a life](https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5) | [What a life \- The 1st Mini Album](https://open.spotify.com/album/60dCcEJcX0TamOud2jS87a) | 3:23 | 2022-04-04 | 2022-04-16 |
 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 | 2024-10-25 | 2024-11-06 |

@@ -7983,7 +7983,7 @@
     },
     {
       "album": {
-        "name": "Controlla",
+        "name": "Get Busy / Controlla",
         "url": "https://open.spotify.com/album/2cGzvNYhSSP1EJdgNRivBs"
       },
       "artists": [
@@ -26266,7 +26266,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 206296,
       "name": "Pal Agua",
       "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
@@ -34696,6 +34696,28 @@
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Una A La Vez",
+      "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
     },
     {
       "album": {

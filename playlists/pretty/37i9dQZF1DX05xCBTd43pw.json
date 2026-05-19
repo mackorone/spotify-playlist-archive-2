@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37719,
+  "num_followers": 37720,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
+        "name": "Hear Me",
+        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
       "artists": [
         {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
         }
       ],
-      "duration_ms": 181002,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
+      "duration_ms": 206102,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -131,18 +131,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Hear Me",
-        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
         }
       ],
-      "duration_ms": 206102,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -175,22 +175,6 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
-        "name": "Half A Soul",
-        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 169071,
-      "name": "Half A Soul",
-      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -231,6 +215,22 @@
       "duration_ms": 154070,
       "name": "Mundo Feliz",
       "url": "https://open.spotify.com/track/1p6iZYXOelfUiGPrz602d9"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "Half A Soul",
+        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 169071,
+      "name": "Half A Soul",
+      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 169182,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -683,8 +683,8 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+        "name": "Time to Shine",
+        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 163338,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -763,8 +763,8 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Time to Shine",
-        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 163338,
-      "name": "Time to Shine",
-      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
+        "name": "the arrow",
+        "url": "https://open.spotify.com/album/5wYO5jRHCsUgzbkqj3F3Hy"
+      },
+      "artists": [
+        {
+          "name": "Mik Ivy",
+          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+        }
+      ],
+      "duration_ms": 221245,
+      "name": "the arrow",
+      "url": "https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
         "name": "[fuck it]",
         "url": "https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/0moBpPLrXkZ6tgAj26sAR1"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "the arrow",
-        "url": "https://open.spotify.com/album/5wYO5jRHCsUgzbkqj3F3Hy"
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
       },
       "artists": [
         {
-          "name": "Mik Ivy",
-          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 221245,
-      "name": "the arrow",
-      "url": "https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T"
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 173302,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
       },
       "artists": [
         {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
         }
       ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
+      "duration_ms": 173302,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1167,6 +1167,22 @@
       "duration_ms": 192157,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
       "artists": [
         {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 162929,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1335,6 +1319,22 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 199838,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-05-14 22:01:16",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-14 22:01:16",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
-    },
-    {
-      "added_at": "2026-05-14 22:01:16",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2026-05-14 22:01:16",
+      "album": {
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-05-14 22:01:16",

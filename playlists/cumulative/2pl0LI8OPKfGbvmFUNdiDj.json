@@ -6863,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Super Nova",
+        "url": "https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq"
+      },
+      "artists": [
+        {
+          "name": "CallMeWhoElse",
+          "url": "https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223399,
+      "name": "Super Nova",
+      "url": "https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0"
       },
@@ -7394,6 +7412,28 @@
       "duration_ms": 201875,
       "name": "Things Won't Be The Same",
       "url": "https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3"
+    },
+    {
+      "album": {
+        "name": "Dynamic Duo",
+        "url": "https://open.spotify.com/album/6nOGlj4jJuBtMQ20efy67X"
+      },
+      "artists": [
+        {
+          "name": "B-Twizzle",
+          "url": "https://open.spotify.com/artist/3uKNLT61D9AATiT2kWNNXd"
+        },
+        {
+          "name": "Jordi",
+          "url": "https://open.spotify.com/artist/7fCmeytT5tCbU6xmMWYrlC"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290439,
+      "name": "Three Peat Freestyle",
+      "url": "https://open.spotify.com/track/57wRi8aHGFUaHLfR9H24A0"
     },
     {
       "album": {

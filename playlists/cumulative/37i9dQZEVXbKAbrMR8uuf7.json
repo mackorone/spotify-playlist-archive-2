@@ -6656,7 +6656,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 129795,
       "name": "CLACK CLACK",
       "url": "https://open.spotify.com/track/7wD91SMkkL4bTWakqDx8fz"
@@ -10602,7 +10602,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -10868,6 +10868,36 @@
       "duration_ms": 154287,
       "name": "Digitando - Ao Vivo",
       "url": "https://open.spotify.com/track/6sQazE95jwum2l642zafzG"
+    },
+    {
+      "album": {
+        "name": "Pati Patni Aur Woh Do",
+        "url": "https://open.spotify.com/album/1kvgFlrhxiCwUg7IyDhgCP"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184230,
+      "name": "Dil Waale Chor",
+      "url": "https://open.spotify.com/track/6zYke3YEeJMXfgCTBLEYWZ"
     },
     {
       "album": {
@@ -17631,6 +17661,48 @@
     },
     {
       "album": {
+        "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/1rtU89SZooEd1wF5B3gqJg"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Ipsitaa",
+          "url": "https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159008,
+      "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/1P6d1Lduqte7ciQHuxHlZ7"
+    },
+    {
+      "album": {
         "name": "Humolandia",
         "url": "https://open.spotify.com/album/6HFsw4JO0pLzNkNmjnVtq5"
       },
@@ -20390,7 +20462,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 163018,
       "name": "LA MUJER QUE ME PARIO",
       "url": "https://open.spotify.com/track/2T96W9QC9r8zsOiha8U92I"
@@ -31248,7 +31320,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/4l9qLfwUOLpmCP8JOEanMF"
@@ -35171,6 +35243,36 @@
     },
     {
       "album": {
+        "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/0rBKrEb7X2TvALhHZXceVx"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
+    },
+    {
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -36022,7 +36124,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 122607,
       "name": "SALEN MALOS",
       "url": "https://open.spotify.com/track/7CX7Cq1iOyAR6utjjPh9De"

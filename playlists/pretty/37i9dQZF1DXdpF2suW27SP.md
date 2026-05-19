@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > ProfJam entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,369 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,360 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 68 | [Actividade](https://open.spotify.com/track/4q63amIN1eXDZrqq9dAwhU) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Actividade](https://open.spotify.com/album/34CmVFH8F1YBCwtUsmFfYt) | 3:51 |
 | 69 | [No Meu Canto](https://open.spotify.com/track/6KoYUksPfjdxUnjfnCnK9s) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [No Meu Canto](https://open.spotify.com/album/2yiphLbdrWylpihqRMlMMv) | 2:36 |
 
-Snapshot ID: `AAAAAAr3kUkBvY7uOgOMaaIIdKsFarEp`
+Snapshot ID: `AAAAAAQJz7tuviLoTirBeeeB4qKljYUa`

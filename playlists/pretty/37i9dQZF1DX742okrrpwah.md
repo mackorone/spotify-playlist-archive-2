@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jul, Drake, Tayc x RnBoi et Shakira x Burna Boy au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,889 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,878 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 46 | [Landmine](https://open.spotify.com/track/2poYsElCgmhplyQ4UHhFIQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Landmine](https://open.spotify.com/album/2ZZipry0jKCYUf3dp3mL4v) | 2:32 |
 | 47 | [Dirty Rosie](https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Dirty Rosie](https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb) | 2:46 |
 | 48 | [Vacances](https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf) | [Mous\-K](https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Insolent](https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW) | 2:54 |
-| 49 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 49 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 50 | [Isabelle](https://open.spotify.com/track/61hCrar05r0Wsy6E2BuCmq) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Isabelle](https://open.spotify.com/album/3DYHEoVTNmDJzXAH7J3HNI) | 2:40 |
 | 51 | [Breaking The Mold](https://open.spotify.com/track/3iFReCvWK8flBrIiTPw5hG) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Carry The Light](https://open.spotify.com/album/4yXAcm3dPQhqEO0TEu9shz) | 4:15 |
 | 52 | [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 |

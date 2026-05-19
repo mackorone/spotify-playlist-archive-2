@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The Best Indie Tracks of the Moment w/ ThxSoMuch
+> The Best Indie Tracks of the Moment w/ ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,585 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,584 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [La confrérie du Néant](https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb) | [Jashim](https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp) | [R3](https://open.spotify.com/album/3EcYRQfM93Vi9uAKZ1gVWy) | 2:34 |
 | 100 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
 
-Snapshot ID: `AAAAAE3qI5Z18HhYJQOWvGHtUQpGn3J3`
+Snapshot ID: `AAAAAJFXPC5aUciAvqujpgoJ/BO08A71`

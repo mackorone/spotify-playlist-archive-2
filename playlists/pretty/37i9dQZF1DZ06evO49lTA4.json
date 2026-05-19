@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 929176,
+  "num_followers": 929276,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAANXcfQ32crHmMD3vDZcXPu",
+  "snapshot_id": "agkFAAAAAAAgQbALV8VZaX7iC2fQywOY",
   "tracks": [
     {
       "added_at": null,
@@ -518,11 +518,15 @@
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 231734,
-      "name": "Wish Upon a Whiskey",
-      "url": "https://open.spotify.com/track/0HA2PyxStG4hcVsgGnsv1u"
+      "duration_ms": 218094,
+      "name": "Ever Mine - feat. Alison Krauss",
+      "url": "https://open.spotify.com/track/6kePJqmJ23YLTwf2HsLXWL"
     },
     {
       "added_at": null,
@@ -586,15 +590,11 @@
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 218094,
-      "name": "Ever Mine - feat. Alison Krauss",
-      "url": "https://open.spotify.com/track/6kePJqmJ23YLTwf2HsLXWL"
+      "duration_ms": 231734,
+      "name": "Wish Upon a Whiskey",
+      "url": "https://open.spotify.com/track/0HA2PyxStG4hcVsgGnsv1u"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Wesly Bronkhorst
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,792 likes - 106 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,793 likes - 106 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

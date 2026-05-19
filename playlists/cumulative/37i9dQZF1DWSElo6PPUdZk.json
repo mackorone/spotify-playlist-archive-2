@@ -127,6 +127,32 @@
     },
     {
       "album": {
+        "name": "5 Gede",
+        "url": "https://open.spotify.com/album/0x9tO5CkHU0tqAKVkACYjK"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        },
+        {
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
+        },
+        {
+          "name": "Vicky Bhullar",
+          "url": "https://open.spotify.com/artist/4VSSJraWp49T2eflzcCfjl"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153381,
+      "name": "5 Gede",
+      "url": "https://open.spotify.com/track/2pL59oav27Ltb5ypre95qR"
+    },
+    {
+      "album": {
         "name": "8 Parche",
         "url": "https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu"
       },
@@ -2092,6 +2118,32 @@
       "duration_ms": 189543,
       "name": "Ishq Che Kamla",
       "url": "https://open.spotify.com/track/510sx0cWU4YnFfdbgeJkS8"
+    },
+    {
+      "album": {
+        "name": "Ishq Khumari",
+        "url": "https://open.spotify.com/album/0zGpme4YoiW8cwwj0hVumP"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        },
+        {
+          "name": "Jot Virk",
+          "url": "https://open.spotify.com/artist/3PUHyeCAaOL6DNyD6ZBiS2"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201606,
+      "name": "Ishq Khumari",
+      "url": "https://open.spotify.com/track/0d8V8GnN2a0QulBqYYNuaW"
     },
     {
       "album": {
@@ -4192,7 +4244,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 163636,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc"
@@ -5894,7 +5946,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 155943,
       "name": "Trigger Talk",
       "url": "https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB"

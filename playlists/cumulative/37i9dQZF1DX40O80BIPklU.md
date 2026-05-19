@@ -2,7 +2,7 @@
 
 ### [Rap Champaña](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Charles Ans, La Loquera, BCN y Neto Peña en portada.
+> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Charles Ans, La Loquera, BCN , Movimiento Original y Neto Peña en portada.
 
 700 songs - 1 day 14 hr 23 min
 

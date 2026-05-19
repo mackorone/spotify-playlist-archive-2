@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 75119,
+  "num_followers": 75153,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAADFgYVo8YAFjEOTaVMLmtAx",
+  "snapshot_id": "agkFAAAAAABnsedikwgyymMNQDf5YJl5",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Sugah Daddy",
-      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+      "duration_ms": 358558,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 358558,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+      "duration_ms": 302840,
+      "name": "Sugah Daddy",
+      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
     },
     {
       "added_at": null,

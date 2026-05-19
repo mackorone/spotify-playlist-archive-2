@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 500220,
+  "num_followers": 500246,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,30 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Fleur froide (Donum Novae)",
-        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
         "name": "Won't Be Late (feat. Drake)",
         "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 218709,
       "name": "Won't Be Late (feat. Drake)",
       "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
+        "name": "Fleur froide (Donum Novae)",
+        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "FIYAH",
+        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "FIYAH",
+      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
         "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 184653,
       "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
       "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "FIYAH",
-        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "FIYAH",
-      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        }
-      ],
-      "duration_ms": 151498,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
         "name": "understand",
         "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        }
+      ],
+      "duration_ms": 151498,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 202111,
       "name": "Lying If I Call It Love (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Find Your Way",
-        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
-      },
-      "artists": [
-        {
-          "name": "Shamis",
-          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
-        },
-        {
-          "name": "Steve Biko.K",
-          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
-        }
-      ],
-      "duration_ms": 323495,
-      "name": "Find Your Way",
-      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
         "name": "Magic (with Amartey)",
         "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
       },
@@ -2775,6 +2755,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        }
+      ],
+      "duration_ms": 323495,
+      "name": "Find Your Way",
+      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Ayaya",
         "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
       },
@@ -2791,6 +2791,30 @@
       "duration_ms": 155783,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
+        "name": "Etema",
+        "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
+      },
+      "artists": [
+        {
+          "name": "WaxFiend",
+          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "Dave Nunes",
+          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
+        }
+      ],
+      "duration_ms": 270086,
+      "name": "Etema",
+      "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2827,30 +2851,6 @@
       "duration_ms": 200000,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Etema",
-        "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
-      },
-      "artists": [
-        {
-          "name": "WaxFiend",
-          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
-        },
-        {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
-        },
-        {
-          "name": "Dave Nunes",
-          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
-        }
-      ],
-      "duration_ms": 270086,
-      "name": "Etema",
-      "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
     },
     {
       "added_at": "2026-05-11 07:38:59",

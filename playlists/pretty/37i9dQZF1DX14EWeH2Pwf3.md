@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Shiva in cover della playlist urban più grande d'Italia, aspettando l'ultimo dei suoi concerti a Milano 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,066 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,009 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187520,
+  "num_followers": 187535,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "Tenho Tanto de Voc\u00ea em Mim",
-        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Tenho Tanto de Voc\u00ea em Mim",
-      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
         "name": "\u00c0 Margem do Amor",
         "url": "https://open.spotify.com/album/1JS0Pfj2HviObfK7sx0Xa6"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192000,
       "name": "\u00c0 Margem do Amor",
       "url": "https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
+        "name": "Tenho Tanto de Voc\u00ea em Mim",
+        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Tenho Tanto de Voc\u00ea em Mim",
+      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
     },
     {
       "added_at": "2026-05-15 14:17:47",

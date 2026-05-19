@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36625,
+  "num_followers": 36630,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABOO/5hbic/pFDGmNQHgQQr",
+  "snapshot_id": "agkFAAAAAABp5z86khOFdS4jBjKmRQyp",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "The Way a Heart Breaks",
-      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filing for Love (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 207000,
       "name": "Home",
       "url": "https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "The Way a Heart Breaks",
+      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORIGIN (Deluxe)",
-        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+        "name": "back to you",
+        "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
       },
       "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 187675,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+      "duration_ms": 169921,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "back to you",
-        "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
       "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 169921,
-      "name": "back to you",
-      "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
     },
     {
       "added_at": null,

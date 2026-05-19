@@ -16852,7 +16852,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -17530,6 +17530,40 @@
       "duration_ms": 212897,
       "name": "La Firma No da Contra",
       "url": "https://open.spotify.com/track/10SDDdFtVzQ0BeVJ2fU2DN"
+    },
+    {
+      "album": {
+        "name": "LA FISCAL",
+        "url": "https://open.spotify.com/album/4AuT6zsGv1PF0t5hUFfP7l"
+      },
+      "artists": [
+        {
+          "name": "El Capitolio",
+          "url": "https://open.spotify.com/artist/2D1rdCXH1CwEWcbi8cmYFn"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "El Kris VL",
+          "url": "https://open.spotify.com/artist/1gLUXFl3VhoLqRzUClWKzJ"
+        },
+        {
+          "name": "GABRYND",
+          "url": "https://open.spotify.com/artist/3ZNDqFu6x4qRCleOJTVxGu"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226588,
+      "name": "LA FISCAL",
+      "url": "https://open.spotify.com/track/5idHCWsulBjnlx7CuRxYjU"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1669958,
+  "num_followers": 1669950,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "thank you i guess",
+        "url": "https://open.spotify.com/album/6LsUUMkKGoxJTsYtZ3IQ5v"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 118300,
+      "name": "thank you i guess",
+      "url": "https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "thank you i guess",
-        "url": "https://open.spotify.com/album/6LsUUMkKGoxJTsYtZ3IQ5v"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 118300,
-      "name": "thank you i guess",
-      "url": "https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -655,8 +655,8 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+      "duration_ms": 162317,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -735,8 +735,8 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 162317,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -951,6 +951,38 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "One Foot Out",
+        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Sick of Staying",
         "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
       },
@@ -983,38 +1015,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "RODEO CLOWN",
-        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 153764,
-      "name": "RODEO CLOWN",
-      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "One Foot Out",
-        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "One Foot Out",
-      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "I Lit The Fire",
         "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1047,22 +1063,6 @@
       "duration_ms": 192075,
       "name": "Love Hate (feat. Thomas Day)",
       "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Macram\u00e9",
+        "url": "https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 211147,
+      "name": "Macram\u00e9 (ft. Mei Semones)",
+      "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Stupid Bitches",
         "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Macram\u00e9",
-        "url": "https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        },
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 211147,
-      "name": "Macram\u00e9 (ft. Mei Semones)",
-      "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Kiss&Tell",
-        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
-      },
-      "artists": [
-        {
-          "name": "GUINEVERE",
-          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
-        }
-      ],
-      "duration_ms": 225477,
-      "name": "Kiss&Tell",
-      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Texas Baby",
         "url": "https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+        "name": "Kiss&Tell",
+        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "GUINEVERE",
+          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
         }
       ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
+      "duration_ms": 225477,
+      "name": "Kiss&Tell",
+      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1327,6 +1311,22 @@
       "duration_ms": 176486,
       "name": "Hi My Love",
       "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Little Blue House",
+        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Little Blue House",
+      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Little Blue House",
-        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Little Blue House",
-      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "TIME",
         "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 195000,
       "name": "TIME",
       "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1551,22 +1567,6 @@
       "duration_ms": 208719,
       "name": "Clueless (feat. Aly & AJ)",
       "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "A Man Written by a Woman",
-        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "A Man Written by a Woman",
-      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Come To God",
         "url": "https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 165714,
       "name": "Games",
       "url": "https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU"
-      },
-      "artists": [
-        {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
-        }
-      ],
-      "duration_ms": 175468,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr"
     }
   ],
   "unique_name": "Indie Pop",

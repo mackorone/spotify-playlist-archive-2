@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,218 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,240 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 29 | [Il me dit que je suis belle](https://open.spotify.com/track/19faTtoozaabdpDnj1rxZy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je Te Dis Vous](https://open.spotify.com/album/69n8bkgSfdSYf8IBvSdRC8) | 5:21 |
 | 30 | [Tomber la chemise](https://open.spotify.com/track/1oYBDCV6FgdaP4cH0K1d0r) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/194N0QfvQdmsZi4eoIMuLw) | 4:23 |
 | 31 | [Allumer le feu](https://open.spotify.com/track/60VNmTr9ox1PaCIOCprfIa) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Ce que je sais](https://open.spotify.com/album/18BJ0DUikDxdmbQ5ZZ2d00) | 5:29 |
-| 32 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
-| 33 | [Maldon](https://open.spotify.com/track/5U6UvgnBRnvDG5nYt3hNxA) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Les Hits du Zouk](https://open.spotify.com/album/5Tlxo93oDOv5yUl8XG6n6A) | 3:58 |
-| 34 | [Mets de l'huile !](https://open.spotify.com/track/4r2HwSAerK0TNpqWsJeeH0) | [Regg'Lyss](https://open.spotify.com/artist/13hAr4uB2YbrodOVdKS3K4) | [Regg'Lyss..\. Mets de l'huile !](https://open.spotify.com/album/3sZdwmQdutuGMYNscf37D4) | 4:07 |
-| 35 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
-| 36 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
-| 37 | [J'envoie valser](https://open.spotify.com/track/30BWTpgeLnFCQlm7QoF9uV) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 2:52 |
-| 38 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
+| 32 | [Tandem](https://open.spotify.com/track/25OwpdcXx3Ash6MvxcjaY4) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Variations Sur Le Meme T'Aime](https://open.spotify.com/album/7cX5HHUqHdFK4nJqqJVtVU) | 3:30 |
+| 33 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
+| 34 | [Maldon](https://open.spotify.com/track/5U6UvgnBRnvDG5nYt3hNxA) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Les Hits du Zouk](https://open.spotify.com/album/5Tlxo93oDOv5yUl8XG6n6A) | 3:58 |
+| 35 | [Mets de l'huile !](https://open.spotify.com/track/4r2HwSAerK0TNpqWsJeeH0) | [Regg'Lyss](https://open.spotify.com/artist/13hAr4uB2YbrodOVdKS3K4) | [Regg'Lyss..\. Mets de l'huile !](https://open.spotify.com/album/3sZdwmQdutuGMYNscf37D4) | 4:07 |
+| 36 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 37 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
+| 38 | [J'envoie valser](https://open.spotify.com/track/30BWTpgeLnFCQlm7QoF9uV) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 2:52 |
 | 39 | [Le temps des cathédrales \- Extrait du spectacle «Notre Dame de Paris 1998» \(Live\)](https://open.spotify.com/track/4tnPvwaN0aFPgqEV86NLJK) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Live au Palais des Congrés 1998](https://open.spotify.com/album/53KJgG0STymjezO3g8kmvW) | 3:22 |
 | 40 | [Mangez\-moi ! Mangez\-moi ! \- Ragga Mix](https://open.spotify.com/track/34cT8Qvq2IYoqCQ3dlNvrW) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 3:52 |
 | 41 | [Bye Bye \- Refugee Camp Band Remix](https://open.spotify.com/track/6YLqn80B9AoFnUFUBG1JId) | [Ménélik](https://open.spotify.com/artist/3msewJ0hXf2THwcdYjGeOA) | [Je me souviens](https://open.spotify.com/album/7pdSRW28eg63tKiCyyOUFo) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Les poèmes de Michelle](https://open.spotify.com/track/7o66Lbfoq3QGkBpZpt3VCd) | [Teri Moïse](https://open.spotify.com/artist/3E0D2fyt1NbcmBP1QpKkUL) | [Teri Moïse \(Edition Deluxe\)](https://open.spotify.com/album/1Lc9O8OMMXJYcHjHpWLrIx) | 3:57 |
 | 50 | [Tellement je t'aime](https://open.spotify.com/track/4leqIALehUHLsdMSWZAdGG) | [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [L'essentiel Faudel](https://open.spotify.com/album/0Vu3IkVBDFEzkSSAYfDo60) | 4:05 |
 
-Snapshot ID: `AAAAAIs9oNcvixuJomt6t97yzcVlLdRU`
+Snapshot ID: `AAAAAFvl/23P4u1SHUNmZ3QomxAiB/cU`

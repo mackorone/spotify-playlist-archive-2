@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Devin Wild",
+  "description": "Weekly new Hardstyle releases! Cover: Frontliner",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 231750,
       "name": "Awake Me - Official Intents Festival 2026 Anthem",
       "url": "https://open.spotify.com/track/75IVG3ixjUW2SiFxuOrFWi"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 193500,
       "name": "Bring The Pain",
       "url": "https://open.spotify.com/track/5y7WINd4QQmz9DGsc34i3j"
@@ -7804,7 +7804,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 158782,
       "name": "Danger Zone",
       "url": "https://open.spotify.com/track/2jxLWO878eBHmF7e17f8hI"
@@ -7950,7 +7950,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 241600,
       "name": "Darkest Hour (The Clock)",
       "url": "https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6"
@@ -9275,6 +9275,28 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/7FtMcd2L56kJqCCfqtBkRj"
+      },
+      "artists": [
+        {
+          "name": "Solstice",
+          "url": "https://open.spotify.com/artist/6Czf2AVSww2aOhW4M6QNHT"
+        },
+        {
+          "name": "Michael Jo",
+          "url": "https://open.spotify.com/artist/0jqSpIpPWIxPpAyvfExLQC"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236230,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/7mqK02FaIVoUszPEZED0vl"
+    },
+    {
+      "album": {
         "name": "DON'T SLEEP",
         "url": "https://open.spotify.com/album/1d5RbutxubP725Rv34RP9X"
       },
@@ -10574,6 +10596,24 @@
       "duration_ms": 176516,
       "name": "Endless Highs",
       "url": "https://open.spotify.com/track/6stt1pNe85jLB3RImUpsDK"
+    },
+    {
+      "album": {
+        "name": "Endless Horizon",
+        "url": "https://open.spotify.com/album/6gOmoiRB18wuLHz86YpEoi"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224783,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/4x6PXDNLCbWvn79ODlXK9V"
     },
     {
       "album": {
@@ -11888,6 +11928,24 @@
       "duration_ms": 141000,
       "name": "FEAR OF DEATH",
       "url": "https://open.spotify.com/track/58bWMCBFO3apH75qyB4cvk"
+    },
+    {
+      "album": {
+        "name": "Fear To The Test",
+        "url": "https://open.spotify.com/album/64XNewrhoHKFBP9HINlIln"
+      },
+      "artists": [
+        {
+          "name": "Titan",
+          "url": "https://open.spotify.com/artist/0FfiqpPNuyhma9Sc4nF3U5"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180765,
+      "name": "Fear To The Test",
+      "url": "https://open.spotify.com/track/5fJar9yL7wDhdF138kGjod"
     },
     {
       "album": {
@@ -15215,6 +15273,24 @@
     },
     {
       "album": {
+        "name": "Hear You Go",
+        "url": "https://open.spotify.com/album/4k1saLgXMkrqlKZVDVmgjo"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231885,
+      "name": "Hear You Go",
+      "url": "https://open.spotify.com/track/13UWPmfMEoxxId6KBwy4cI"
+    },
+    {
+      "album": {
         "name": "Heart Attack",
         "url": "https://open.spotify.com/album/01tKzSis1CijIgCceiBBHv"
       },
@@ -16676,7 +16752,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 182083,
       "name": "HYMN 4 THE WKND",
       "url": "https://open.spotify.com/track/0X9eKIGGSHKbwOEX6aa6F6"
@@ -16706,7 +16782,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 173419,
       "name": "Hypnotise",
       "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
@@ -17854,7 +17930,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 171207,
       "name": "Infinite Power",
       "url": "https://open.spotify.com/track/1bZd6xIrzaj7H2Lj2yYYMI"
@@ -19402,6 +19478,36 @@
       "duration_ms": 210967,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7CPF9woL9CckkpmRITn4ID"
+    },
+    {
+      "album": {
+        "name": "Kings Of Reverse Bass",
+        "url": "https://open.spotify.com/album/3K4GKXczJ2PPPN7f8Jeq9z"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143806,
+      "name": "Kings Of Reverse Bass",
+      "url": "https://open.spotify.com/track/3qi3lq67EXbBlprEgUZzS4"
     },
     {
       "album": {
@@ -22410,7 +22516,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 165750,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/3H2vFTg5ncJrgucRYTGwim"
@@ -25195,6 +25301,24 @@
     },
     {
       "album": {
+        "name": "No Receta (Nexus 2026 Anthem)",
+        "url": "https://open.spotify.com/album/7xzjgg2xC3RMYPQPTWF0iO"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204770,
+      "name": "No Receta - Nexus 2026 Anthem",
+      "url": "https://open.spotify.com/track/5cAuw9gS7XX7ORBwjGHp1X"
+    },
+    {
+      "album": {
         "name": "No Resistance",
         "url": "https://open.spotify.com/album/64YdKvElIkpCQ2GAcDNZwv"
       },
@@ -25250,6 +25374,24 @@
       "duration_ms": 227991,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g"
+    },
+    {
+      "album": {
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/0Dyo873p3CoZTn253AHgjK"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/41ehlRYtDvWjgfjRfTMx2t"
     },
     {
       "album": {
@@ -26613,6 +26755,28 @@
     },
     {
       "album": {
+        "name": "ORIGINAL FLOW",
+        "url": "https://open.spotify.com/album/5CytW7gm7c6OymRmshZ92u"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        },
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184503,
+      "name": "ORIGINAL FLOW",
+      "url": "https://open.spotify.com/track/46mX200sRU5nGSxACY4w5N"
+    },
+    {
+      "album": {
         "name": "Origins Of Chaos (Genesis 2024 Anthem)",
         "url": "https://open.spotify.com/album/6t3WJP87AGF35zNQGwVdW1"
       },
@@ -26746,6 +26910,24 @@
       "duration_ms": 190515,
       "name": "Our Legacy",
       "url": "https://open.spotify.com/track/3gauZI8yKDUCDVZDrm0tOz"
+    },
+    {
+      "album": {
+        "name": "Our World",
+        "url": "https://open.spotify.com/album/21NFBoeKBfaxEQ4Y4VowGA"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187455,
+      "name": "Our World",
+      "url": "https://open.spotify.com/track/07VCupXewL6sqWoNi6K3KB"
     },
     {
       "album": {
@@ -27765,6 +27947,32 @@
     },
     {
       "album": {
+        "name": "PING PONG BATTLE",
+        "url": "https://open.spotify.com/album/6jtEygvLCrWYoc4TW66jjd"
+      },
+      "artists": [
+        {
+          "name": "Infliction",
+          "url": "https://open.spotify.com/artist/1jlSojJNNkZC35aVF5ifWa"
+        },
+        {
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
+        },
+        {
+          "name": "Hard Destiny",
+          "url": "https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175667,
+      "name": "PING PONG BATTLE",
+      "url": "https://open.spotify.com/track/3opYVBWYLtfDSBomdweQvt"
+    },
+    {
+      "album": {
         "name": "Pirates",
         "url": "https://open.spotify.com/album/4oTskP5dIwKiWXj1E9tCLM"
       },
@@ -27930,7 +28138,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 171870,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/1HjYRl3vK5AE8Fz1L8zxNA"
@@ -33766,7 +33974,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 139687,
       "name": "STOP CRYING",
       "url": "https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb"
@@ -35790,7 +35998,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 172500,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/4Ls9YfqNATdkxOuOTkpKR1"
@@ -37295,6 +37503,24 @@
     },
     {
       "album": {
+        "name": "The Temple",
+        "url": "https://open.spotify.com/album/0PBF4KIYCdQEnPFPo1mhjo"
+      },
+      "artists": [
+        {
+          "name": "D\u00c2VIN\u00d8",
+          "url": "https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232863,
+      "name": "The Temple",
+      "url": "https://open.spotify.com/track/2rPJWgHkZB6wxLblGs2H1Y"
+    },
+    {
+      "album": {
         "name": "The Tunnel",
         "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
       },
@@ -37930,7 +38156,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 122322,
       "name": "Thunderdance",
       "url": "https://open.spotify.com/track/1om3ukQitUroGqGPafyq01"

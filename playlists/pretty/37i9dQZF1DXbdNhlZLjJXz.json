@@ -1,12 +1,12 @@
 {
   "description": "She's actually kinda famous. Welcome to Slayyyter summer ",
-  "num_followers": 414686,
+  "num_followers": 414669,
   "original_name": "hot girl agenda \ud83d\udd25 \ud83d\ude92",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABE/yzrxQ3eFXa0U/Id2DqEv0cBp",
+  "snapshot_id": "AAAAAPD5cVZBHT1AK0vrNQWx+BlNl2mm",
   "tracks": [
     {
       "added_at": "2026-04-11 05:24:58",
@@ -105,6 +105,26 @@
       "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
     },
     {
+      "added_at": "2026-05-18 13:45:16",
+      "album": {
+        "name": "I look sh!t (and i\u2018m fine with it)",
+        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 143478,
+      "name": "I look sh!t (and i\u2018m fine with it)",
+      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
+    },
+    {
       "added_at": "2026-04-11 05:24:58",
       "album": {
         "name": "PINKY UP",
@@ -159,6 +179,26 @@
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
+    },
+    {
+      "added_at": "2025-12-08 16:43:03",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "added_at": "2026-02-27 05:00:50",
@@ -1199,22 +1239,6 @@
     {
       "added_at": "2025-12-08 16:43:03",
       "album": {
-        "name": "WET DREAM",
-        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
-      },
-      "artists": [
-        {
-          "name": "Snow Wife",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 150755,
-      "name": "WET DREAM",
-      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
-    },
-    {
-      "added_at": "2025-12-08 16:43:03",
-      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
@@ -1691,26 +1715,6 @@
       "duration_ms": 221280,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/578Eooad7oUyn4stovZiPg"
-    },
-    {
-      "added_at": "2025-12-08 16:43:03",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "added_at": "2025-12-08 16:43:03",

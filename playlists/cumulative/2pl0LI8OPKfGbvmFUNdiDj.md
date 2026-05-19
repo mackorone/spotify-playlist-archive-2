@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-466 songs - 1 day 2 hr 8 min
+468 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2026-04-17 |  |
 | [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 | 2026-04-19 | 2026-05-17 |
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
+| [Super Nova](https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Super Nova](https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq) | 3:43 | 2026-05-18 |  |
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 |  |
@@ -408,6 +409,7 @@
 | [these streets is yours](https://open.spotify.com/track/3smkzGO1HafouKHojAF6y9) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [these streets is yours](https://open.spotify.com/album/4qfSaW2VntxNGOS4wiDSGs) | 2:58 | 2025-11-01 | 2025-12-01 |
 | [Things We Like](https://open.spotify.com/track/7bBYzIL0ellNkQAwGlSIlF) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD), [Cas](https://open.spotify.com/artist/29BouO2qiyOpQYb0oMVEDK) | [Things We Like](https://open.spotify.com/album/2dVRwvXtYzcoaXyUEfwnJL) | 3:15 | 2025-12-30 | 2026-01-25 |
 | [Things Won't Be The Same](https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Things Won't Be The Same](https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1) | 3:21 | 2026-04-13 |  |
+| [Three Peat Freestyle](https://open.spotify.com/track/57wRi8aHGFUaHLfR9H24A0) | [B\-Twizzle](https://open.spotify.com/artist/3uKNLT61D9AATiT2kWNNXd), [Jordi](https://open.spotify.com/artist/7fCmeytT5tCbU6xmMWYrlC) | [Dynamic Duo](https://open.spotify.com/album/6nOGlj4jJuBtMQ20efy67X) | 4:50 | 2026-05-18 |  |
 | [TIME BOMB](https://open.spotify.com/track/1BYTc6VSUbcBufVJXZUemK) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [TIME BOMB](https://open.spotify.com/album/0SncarCJW3wljZ0ZH8XWPc) | 3:17 | 2025-11-30 | 2026-01-05 |
 | [Time Travel](https://open.spotify.com/track/2b4B9P1ZDm2yOWjWV78Muw) | [Mojo Flows](https://open.spotify.com/artist/3fpD5vtZUbFpcP8yhA42gZ) | [Connected Infinity](https://open.spotify.com/album/2n6W7e17boH7GYWL1RJy1N) | 2:00 | 2025-12-26 | 2026-01-15 |
 | [Time's Up](https://open.spotify.com/track/1FzfPimBs8oQwTocCZCqU8) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:35 | 2025-11-19 | 2026-01-05 |

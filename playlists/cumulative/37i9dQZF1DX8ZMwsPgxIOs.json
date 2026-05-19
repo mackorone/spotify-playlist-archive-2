@@ -3877,7 +3877,7 @@
     },
     {
       "album": {
-        "name": "Falling Into Acid Dreams",
+        "name": "falling into acid dreams",
         "url": "https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu"
       },
       "artists": [
@@ -3890,7 +3890,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244542,
-      "name": "Falling Into Acid Dreams",
+      "name": "falling into acid dreams",
       "url": "https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ"
     },
     {
@@ -11092,12 +11092,12 @@
       },
       "artists": [
         {
-          "name": "Argy (UK)",
-          "url": "https://open.spotify.com/artist/1I3oulnGqrVHplhYRyJyE1"
-        },
-        {
           "name": "Will Rees",
           "url": "https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm"
+        },
+        {
+          "name": "Argy X",
+          "url": "https://open.spotify.com/artist/5rBH5L7lmMQUdsepXDfScQ"
         }
       ],
       "date_added": "2025-07-03",

@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover:   Quamina MP
 
-651 songs - 1 day 9 hr 16 min
+652 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-15 |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2025-02-28 |
+| [Akua Broni](https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN) | [Moon Byni](https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Akua Broni](https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb) | 2:36 | 2026-05-18 |  |
 | [Akua Donkor](https://open.spotify.com/track/0Hm30HuXmfm4IwO5Vrcho6) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Akua Donkor](https://open.spotify.com/album/2Gbr6jdBQgRk2rmnBpJpvd) | 3:08 | 2026-05-01 | 2026-05-08 |
 | [Alaba](https://open.spotify.com/track/4Fz91Pk8VsyL9GIweeiDru) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Alaba](https://open.spotify.com/album/0xrC1JurZg5HadykKZrsXm) | 3:11 | 2025-08-22 | 2025-10-24 |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23184,
+  "num_followers": 23187,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2026-05-15 02:09:20",
-      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-05-15 02:09:20",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-05-15 02:09:20",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-05-15 02:09:20",
+      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
-    },
-    {
-      "added_at": "2026-05-15 02:09:20",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-05-15 02:09:20",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
-      },
-      "artists": [
-        {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
-    },
-    {
-      "added_at": "2026-05-15 02:09:20",
-      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2026-05-15 02:09:20",
+      "album": {
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
     },
     {
       "added_at": "2026-05-15 02:09:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
-    },
-    {
-      "added_at": "2026-05-15 02:09:20",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2026-05-15 02:09:20",
+      "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-05-15 02:09:20",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-05-15 02:09:20",
+      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
-    },
-    {
-      "added_at": "2026-05-15 02:09:20",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+        "name": "Gingado",
+        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
       },
       "artists": [
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         },
         {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+          "name": "DIMELLABS",
+          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
         }
       ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+      "duration_ms": 147125,
+      "name": "Gingado",
+      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
     },
     {
       "added_at": "2026-05-15 02:09:20",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2026-05-15 02:09:20",
       "album": {
-        "name": "Gingado",
-        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
       "artists": [
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         },
         {
-          "name": "DIMELLABS",
-          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
         }
       ],
-      "duration_ms": 147125,
-      "name": "Gingado",
-      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2026-05-15 02:09:20",

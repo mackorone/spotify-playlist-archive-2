@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 450834,
+  "num_followers": 450893,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Serie Fiesta",
         "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
         }
       ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -447,6 +431,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -531,18 +515,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 231106,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Pa' Gozar - Zona Rika",
         "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Banda Peque\u00f1os Musical",
         "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174146,
       "name": "La nena",
       "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Sin Salsa No Hay Para\u00edso",
-        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 281546,
-      "name": "Achilip\u00fa",
-      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Ya No Hay Beatles (2026 Remasterizada)",
         "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 168917,
       "name": "Ya No Hay Beatles - 2026 Remasterizada",
       "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Sin Salsa No Hay Para\u00edso",
+        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 281546,
+      "name": "Achilip\u00fa",
+      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 151928,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Desde la Expogan 2023",
-        "url": "https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 138332,
-      "name": "La Maquina",
-      "url": "https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 244000,
       "name": "La Colaless (En Vivo)",
       "url": "https://open.spotify.com/track/1MZqax5Y23EZZLXq2EQE6d"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Desde la Expogan 2023",
+        "url": "https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 138332,
+      "name": "La Maquina",
+      "url": "https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Mi Buen Corazon",
-        "url": "https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ"
-      },
-      "artists": [
-        {
-          "name": "Orquesta La Unica",
-          "url": "https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO"
-        }
-      ],
-      "duration_ms": 231982,
-      "name": "Mi Buen Corazon",
-      "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 172608,
       "name": "El Agua Clara - En Vivo",
       "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Mi Buen Corazon",
+        "url": "https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ"
+      },
+      "artists": [
+        {
+          "name": "Orquesta La Unica",
+          "url": "https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO"
+        }
+      ],
+      "duration_ms": 231982,
+      "name": "Mi Buen Corazon",
+      "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Cabo E",
+      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Rosal\u00eda",
         "url": "https://open.spotify.com/album/0X6c4MoWNMpAXKkjPb3pe9"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+        "name": "Vivo Pensando",
+        "url": "https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Ram\u00f3n Chaverra y Su Orquesta Salsa",
+          "url": "https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD"
         }
       ],
-      "duration_ms": 256773,
-      "name": "Cabo E",
-      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
+      "duration_ms": 297266,
+      "name": "Vivo Pensando",
+      "url": "https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1651,22 +1667,6 @@
       "duration_ms": 130666,
       "name": "pa' vailar pegaditos",
       "url": "https://open.spotify.com/track/5FU6M9qGz18iFL9ZfG6vq0"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Vivo Pensando",
-        "url": "https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Chaverra y Su Orquesta Salsa",
-          "url": "https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Vivo Pensando",
-      "url": "https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X"
     },
     {
       "added_at": "2026-03-13 19:07:31",

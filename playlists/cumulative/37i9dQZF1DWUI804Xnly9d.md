@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-631 songs - 1 day 11 hr 21 min
+632 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 | 2024-05-21 |
 | [Ishq Ki Baat](https://open.spotify.com/track/2ckptbX68hmRuRAXDmBK2y) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/1mST5bUGOaBHO8r1CQoWm0) | 1:31 | 2024-02-19 | 2024-02-27 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 | 2024-02-20 |
+| [Ishq Nibhaavan De \(From "Chand Mera Dil"\)](https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb) | 3:49 | 2026-05-18 |  |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
 | [Ja Ve Ja](https://open.spotify.com/track/1ElzcbjqvQVfMeFM7t4kfS) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Ja Ve Ja](https://open.spotify.com/album/3zN6lfX3PbBlasITyYCXpi) | 2:23 | 2024-12-11 | 2025-01-06 |
 | [Jaam \(Acoustic Version\)](https://open.spotify.com/track/3Tl2ymn1tO8xvdXhqWS0WE) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Jaam \(Acoustic Version\)](https://open.spotify.com/album/60y55TxJpnhXrBz7OxaZwh) | 4:02 | 2025-08-14 | 2025-08-30 |

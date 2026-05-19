@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,653 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,697 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 20 | [We Will Meet Again \- Remastered](https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:04 |
 | 21 | [Volga Boatman](https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Count 'Em 88](https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3) | 3:52 |
 | 22 | [Haunted Heart](https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations](https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9) | 3:25 |
-| 23 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
-| 24 | [I'm In The Mood For Love](https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Complete Savoy Master Takes](https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0) | 2:55 |
+| 23 | [I'm In The Mood For Love](https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Complete Savoy Master Takes](https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0) | 2:55 |
+| 24 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
 | 25 | [Autumn Leaves](https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 6:00 |
 | 26 | [Köln, January 24, 1975, Part II a \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
 | 27 | [You Look Good To Me](https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 4:49 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 39 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 |
 | 40 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 |
 | 41 | [Milestones](https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:32 |
-| 42 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
-| 43 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
+| 42 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
+| 43 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
 | 44 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 45 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
 | 46 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |

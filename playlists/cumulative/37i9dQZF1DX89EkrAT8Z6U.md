@@ -4,7 +4,7 @@
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-349 songs - 14 hr 38 min
+350 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [SHARINGAN](https://open.spotify.com/track/2kJUNRihWFzZYfXE9SICgT) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [SHARINGAN](https://open.spotify.com/album/3lKXOGsKDBIp1bVUKkxS9A) | 2:33 | 2022-05-25 | 2022-07-29 |
 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 | 2022-11-10 | 2025-12-31 |
 | [She Bad](https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT) | 1:45 | 2022-05-25 | 2023-01-09 |
+| [Shibuya Arc](https://open.spotify.com/track/66AnOQv0avDMhd7NMJpw9Z) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Shibuya Arc](https://open.spotify.com/album/11RvmT3WtAN9t7C0DERMkN) | 3:10 | 2024-09-18 |  |
 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 | 2023-09-15 | 2023-09-27 |
 | [SHOTGUN](https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3) | [SXULCVTCHER](https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [SHOTGUN](https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4) | 1:26 | 2023-07-13 | 2023-09-16 |
 | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/track/0X3t82GqNA6zMGKO6MSst1) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 2:16 | 2023-09-15 | 2023-09-27 |
@@ -275,7 +276,7 @@
 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 | 2022-10-07 | 2022-10-22 |
 | [Slump](https://open.spotify.com/track/0RitOSkVYKplZ53BgJd1rY) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Short Term Agreement](https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8) | 1:37 | 2023-04-25 | 2023-07-14 |
 | [Slump](https://open.spotify.com/track/7c3WeEXTZly72n38QzZdKL) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Slump](https://open.spotify.com/album/1uv38vrwfRawvt1fB77Azo) | 1:37 | 2023-03-09 | 2023-05-09 |
-| [SMOKE!](https://open.spotify.com/track/3y62I7jTOxwOtQEuBtartM) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [SMOKE!](https://open.spotify.com/album/6FIXyzPgq8e7OcMsfOCMgg) | 2:15 | 2025-02-21 |  |
+| [SMOKE!](https://open.spotify.com/track/3y62I7jTOxwOtQEuBtartM) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [SMOKE!](https://open.spotify.com/album/6FIXyzPgq8e7OcMsfOCMgg) | 2:15 | 2025-02-21 | 2026-05-19 |
 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 | 2023-05-22 |  |
 | [Sorcery Fight!](https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt) | [Breeton Boi](https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA), [Diggz Da Prophecy](https://open.spotify.com/artist/1HYQNCFOvaVxl9Zr5HvPrH), [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [FrivolousShara](https://open.spotify.com/artist/4BZbaSD54IoBseVr142kiH), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [WYT](https://open.spotify.com/artist/0zex3dTN4Mk9oTujAJnIHW) | [Sorcery Fight!](https://open.spotify.com/album/5Xoj8mbqvPBrC382GxHvf3) | 5:27 | 2022-05-25 | 2022-07-28 |
 | [Spark \(Rengoku\)](https://open.spotify.com/track/4zpFlIpvNbbNx5BbKsMsRO) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Spark \(Rengoku\)](https://open.spotify.com/album/2ypWjv7cvswBIJ4crjuHJq) | 3:01 | 2022-06-21 | 2022-06-24 |

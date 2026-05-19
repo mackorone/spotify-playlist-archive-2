@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3230,
+  "num_followers": 3234,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAACN+W93OsRd8JriANRHAD4F",
+  "snapshot_id": "agkFAAAAAAA/mLXGCCfpN9nF3E7TuiHG",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First sight",
-        "url": "https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 223000,
-      "name": "First sight",
-      "url": "https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge of the Killer Slits",
         "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 247666,
       "name": "Kill Them Wtih love",
       "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First sight",
+        "url": "https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "First sight",
+      "url": "https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk"
     },
     {
       "added_at": null,

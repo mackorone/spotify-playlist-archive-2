@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,360 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,363 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 67 | [Megcsalok veled akárkit](https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Megcsalok veled akárkit](https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6) | 2:24 |
 | 68 | [Beef](https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe) | [bongor](https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD), [Kapitány Máté](https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn) | [EXTÁZIS](https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5) | 3:04 |
 | 69 | [MARIO](https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [MARIO](https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0) | 2:20 |
-| 70 | [INTERREGNUM](https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:13 |
-| 71 | [Kapitány](https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 3:00 |
-| 72 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
+| 70 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
+| 71 | [INTERREGNUM](https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:13 |
+| 72 | [Kapitány](https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 3:00 |
 | 73 | [BOTRÁNY](https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [BOTRÁNY](https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU) | 2:26 |
 | 74 | [Feltámad a tenger](https://open.spotify.com/track/53BlzHii9uA227aRsvpsM1) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Feltámad a tenger](https://open.spotify.com/album/4KFeIghxbaCVLDT2fYHaVZ) | 3:25 |
 | 75 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |

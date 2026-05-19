@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Din\u00e1micos Jrs en portada.",
-  "num_followers": 529923,
+  "num_followers": 529959,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
+        "name": "CU\u00c1L ESTR\u00c9S?",
+        "url": "https://open.spotify.com/album/1JyDswH3YwjDLELfi2QoUu"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 147567,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
+      "duration_ms": 156600,
+      "name": "CU\u00c1L ESTR\u00c9S?",
+      "url": "https://open.spotify.com/track/1DbNzL9dW8TN0nSF0KEUHE"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -203,22 +207,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "CU\u00c1L ESTR\u00c9S?",
-        "url": "https://open.spotify.com/album/1JyDswH3YwjDLELfi2QoUu"
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
       },
       "artists": [
         {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 156600,
-      "name": "CU\u00c1L ESTR\u00c9S?",
-      "url": "https://open.spotify.com/track/1DbNzL9dW8TN0nSF0KEUHE"
+      "duration_ms": 147567,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "A Ver Como Le Hago",
-        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 161875,
-      "name": "A Ver Como Le Hago",
-      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Hoy La Vi Pasar",
-        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Hoy La Vi Pasar",
-      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Te Cura El Tiempo",
         "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 177600,
       "name": "Te Cura El Tiempo",
       "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197051,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Corridos de Encargo",
         "url": "https://open.spotify.com/album/0vxaLt1TCd1YpgQDE57Ngv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 171428,
       "name": "Canelo",
       "url": "https://open.spotify.com/track/1r80Wnya7cvclGK7XhZlKE"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Que Tonto He Sido",
-        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
-      },
-      "artists": [
-        {
-          "name": "Solido",
-          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Que Tonto He Sido",
-      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "En Vivo Vol.4",
         "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Que Tonto He Sido",
+        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
+      },
+      "artists": [
+        {
+          "name": "Solido",
+          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Que Tonto He Sido",
+      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
+        "name": "MENEAITO",
+        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "MENEAITO",
+      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
         "name": "Como Yo",
         "url": "https://open.spotify.com/album/2zBLWhPAKzYJX0iE8TX8Nv"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 175068,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/53IseA7MTbFA0Ojnptm19z"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "MENEAITO",
-        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "MENEAITO",
-      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Princesa Hermosa",
-      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Tengo Que Olvidar",
         "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 159016,
       "name": "Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Princesa Hermosa",
+      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
     },
     {
       "added_at": "2026-05-08 06:00:22",

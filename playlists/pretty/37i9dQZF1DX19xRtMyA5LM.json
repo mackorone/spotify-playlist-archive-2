@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Lijpe",
-  "num_followers": 707230,
+  "num_followers": 707209,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzJYFNADZ0zFMAZMiesfPdtj9dX",
+  "snapshot_id": "AAAAALe6LS/Mv7PAa97WxwLwLxiv0gFP",
   "tracks": [
     {
       "added_at": "2026-05-14 22:01:34",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Petje Scheef",
-        "url": "https://open.spotify.com/album/37fX327Aj5xrAlNH2o2AVs"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 140284,
-      "name": "Petje Scheef",
-      "url": "https://open.spotify.com/track/2HB7p9rZwMIX7HrtnI46dc"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "Ben je dom?",
         "url": "https://open.spotify.com/album/683rXVkEbHarFpnbjEvN7D"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 171081,
       "name": "Ben je dom?",
       "url": "https://open.spotify.com/track/6heB9e8RyXvmQpKZEs3x87"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
+        "name": "Petje Scheef",
+        "url": "https://open.spotify.com/album/37fX327Aj5xrAlNH2o2AVs"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 140284,
+      "name": "Petje Scheef",
+      "url": "https://open.spotify.com/track/2HB7p9rZwMIX7HrtnI46dc"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 177257,
+      "name": "Droom Soms",
+      "url": "https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
         "name": "OPTIMA FORMA",
         "url": "https://open.spotify.com/album/1d8RbiyXEhtcYPgnpDZF7Y"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 173091,
       "name": "OPTIMA FORMA",
       "url": "https://open.spotify.com/track/5g0ltT0GczODNj4YPfMsHP"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Rode Kaart",
-        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
-      },
-      "artists": [
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 177257,
-      "name": "Droom Soms",
-      "url": "https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "APPLE WATCH",
-        "url": "https://open.spotify.com/album/1SzU7cYlTKGhpNKFcShSeT"
-      },
-      "artists": [
-        {
-          "name": "Bartofso",
-          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
-        }
-      ],
-      "duration_ms": 150162,
-      "name": "APPLE WATCH",
-      "url": "https://open.spotify.com/track/0q3D0FlBgp7vdMErL6wt0J"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/17y8AsJLn1WAkv6MWFy6VP"
       },
@@ -271,22 +255,18 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Chain",
-        "url": "https://open.spotify.com/album/5gsJwLoXPhgngGBTYiskJM"
+        "name": "Lyca & Slammers",
+        "url": "https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf"
       },
       "artists": [
         {
-          "name": "YVES",
-          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
-        },
-        {
-          "name": "Eves Laurent",
-          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
         }
       ],
-      "duration_ms": 168571,
-      "name": "Chain",
-      "url": "https://open.spotify.com/track/3e7cxssFrV847TSd57Zca3"
+      "duration_ms": 148222,
+      "name": "Lyca & Slammers",
+      "url": "https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -335,6 +315,22 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
+        "name": "Ereronde",
+        "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Eerste Klus",
+      "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
         "name": "is Het VANDAAG?!",
         "url": "https://open.spotify.com/album/6n3XnDwE4DJCY8enGxiye9"
       },
@@ -351,18 +347,18 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Lyca & Slammers",
-        "url": "https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf"
+        "name": "APPLE WATCH",
+        "url": "https://open.spotify.com/album/1SzU7cYlTKGhpNKFcShSeT"
       },
       "artists": [
         {
-          "name": "SKEEKS",
-          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
         }
       ],
-      "duration_ms": 148222,
-      "name": "Lyca & Slammers",
-      "url": "https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv"
+      "duration_ms": 150162,
+      "name": "APPLE WATCH",
+      "url": "https://open.spotify.com/track/0q3D0FlBgp7vdMErL6wt0J"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -391,18 +387,22 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Ereronde",
-        "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
+        "name": "Chain",
+        "url": "https://open.spotify.com/album/5gsJwLoXPhgngGBTYiskJM"
       },
       "artists": [
         {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+          "name": "YVES",
+          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
         }
       ],
-      "duration_ms": 139591,
-      "name": "Eerste Klus",
-      "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
+      "duration_ms": 168571,
+      "name": "Chain",
+      "url": "https://open.spotify.com/track/3e7cxssFrV847TSd57Zca3"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -419,26 +419,6 @@
       "duration_ms": 237428,
       "name": "Emotional Damage",
       "url": "https://open.spotify.com/track/35BD5rWTlSWfH2Z9W5UVSc"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Achtervolging",
-        "url": "https://open.spotify.com/album/5HIsuwqQKlXCk0xb3qIBSi"
-      },
-      "artists": [
-        {
-          "name": "Sam J'taime",
-          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
-        },
-        {
-          "name": "FFRAGEZEICHEN",
-          "url": "https://open.spotify.com/artist/5sgF2eX98WWNADz4USyKiX"
-        }
-      ],
-      "duration_ms": 138595,
-      "name": "Achtervolging",
-      "url": "https://open.spotify.com/track/454rxkANmheTNT4VT9G6nX"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -475,34 +455,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "BNT Vol. 2",
-        "url": "https://open.spotify.com/album/6DpKMJc5eyCIDKXMazBsO5"
-      },
-      "artists": [
-        {
-          "name": "BNT",
-          "url": "https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR"
-        },
-        {
-          "name": "vendro",
-          "url": "https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F"
-        },
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
-        },
-        {
-          "name": "Ginna",
-          "url": "https://open.spotify.com/artist/4Kb23Vi9vTtWfvXkM1dEF3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "MAANDAG TOT ZONDAG",
-      "url": "https://open.spotify.com/track/2S26flvkFQAO2bz1ff3itR"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "Tajine",
         "url": "https://open.spotify.com/album/1ijLqpiQS2umGzVYAHMC0q"
       },
@@ -519,6 +471,26 @@
       "duration_ms": 185675,
       "name": "Tajine",
       "url": "https://open.spotify.com/track/0l6jdn1FFKPLVVhOhPpGBi"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
+        "name": "Achtervolging",
+        "url": "https://open.spotify.com/album/5HIsuwqQKlXCk0xb3qIBSi"
+      },
+      "artists": [
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        },
+        {
+          "name": "FFRAGEZEICHEN",
+          "url": "https://open.spotify.com/artist/5sgF2eX98WWNADz4USyKiX"
+        }
+      ],
+      "duration_ms": 138595,
+      "name": "Achtervolging",
+      "url": "https://open.spotify.com/track/454rxkANmheTNT4VT9G6nX"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -571,26 +543,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Statistiek",
-        "url": "https://open.spotify.com/album/0AMQRH4im5l2sK2hmd8zJ7"
-      },
-      "artists": [
-        {
-          "name": "Sam J'taime",
-          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
-        },
-        {
-          "name": "Kingsize",
-          "url": "https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ"
-        }
-      ],
-      "duration_ms": 146135,
-      "name": "Statistiek",
-      "url": "https://open.spotify.com/track/3fvcLv7lGZDufuABlfhclr"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "Wagyu",
         "url": "https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77"
       },
@@ -603,22 +555,6 @@
       "duration_ms": 168798,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "NIET ACTIEF",
-        "url": "https://open.spotify.com/album/64l5mqybz0fgCP7gpbz1Tb"
-      },
-      "artists": [
-        {
-          "name": "ILLIE",
-          "url": "https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "NIET ACTIEF",
-      "url": "https://open.spotify.com/track/59bj8LFNbkBP692Iyh4gV2"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -747,42 +683,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "The Biggest",
-        "url": "https://open.spotify.com/album/1p5gs3ri4razIUXp9ysuos"
-      },
-      "artists": [
-        {
-          "name": "Geechi",
-          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
-        }
-      ],
-      "duration_ms": 105806,
-      "name": "The Biggest",
-      "url": "https://open.spotify.com/track/064X2YCbMsFVEG2NO8c0ME"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Grimmige Vertoningen",
-        "url": "https://open.spotify.com/album/4TjVOpe3UxANhmgBETrKu9"
-      },
-      "artists": [
-        {
-          "name": "Elliven",
-          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
-        },
-        {
-          "name": "Philly",
-          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Grimmige Vertoningen",
-      "url": "https://open.spotify.com/track/3UH0jc4sNILaRYBC7HVEpG"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
       },
@@ -803,6 +703,26 @@
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
+        "name": "Grimmige Vertoningen",
+        "url": "https://open.spotify.com/album/4TjVOpe3UxANhmgBETrKu9"
+      },
+      "artists": [
+        {
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
+        },
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Grimmige Vertoningen",
+      "url": "https://open.spotify.com/track/3UH0jc4sNILaRYBC7HVEpG"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -843,22 +763,6 @@
       "duration_ms": 145655,
       "name": "Single Als Een Pringle",
       "url": "https://open.spotify.com/track/4ufqOm0cENMXRiv99ATSW5"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "LE MASQUE",
-        "url": "https://open.spotify.com/album/7iSBhomDNkbQ9r0bJAa2Jm"
-      },
-      "artists": [
-        {
-          "name": "Bartofso",
-          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
-        }
-      ],
-      "duration_ms": 124467,
-      "name": "NIEUWE LEVELS",
-      "url": "https://open.spotify.com/track/7j196RHBWUJengogAIhzh7"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -1023,26 +927,6 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
-        "name": "Pleidooi",
-        "url": "https://open.spotify.com/album/3WOPhI6nYWPND73HlDVzG1"
-      },
-      "artists": [
-        {
-          "name": "CC",
-          "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
-        },
-        {
-          "name": "JOJO AIR",
-          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Pleidooi",
-      "url": "https://open.spotify.com/track/64KcwgsSNUHMKuDu5Y7crj"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
         "name": "Don\u2019t Underestimate",
         "url": "https://open.spotify.com/album/7cHcMTOHyV5ymx7MFsX6Hz"
       },
@@ -1091,6 +975,30 @@
     {
       "added_at": "2026-05-14 22:01:34",
       "album": {
+        "name": "Dure Geintje",
+        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 136802,
+      "name": "Dure Geintje",
+      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
+    },
+    {
+      "added_at": "2026-05-14 22:01:34",
+      "album": {
         "name": "Stenen & Liquide",
         "url": "https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db"
       },
@@ -1103,26 +1011,6 @@
       "duration_ms": 108131,
       "name": "Stenen & Liquide",
       "url": "https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "VISION",
-        "url": "https://open.spotify.com/album/6chaqpkGyhU1lo7onzuhac"
-      },
-      "artists": [
-        {
-          "name": "Bartofso",
-          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
-        },
-        {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
-        }
-      ],
-      "duration_ms": 186260,
-      "name": "VISION",
-      "url": "https://open.spotify.com/track/39zPho7cnFZQK2SZa1Rb80"
     },
     {
       "added_at": "2026-05-14 22:01:34",
@@ -1271,70 +1159,6 @@
       "duration_ms": 161250,
       "name": "Inter Milaan",
       "url": "https://open.spotify.com/track/5Vo7eQfswRbthASFk5Y5jY"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Ondernemers & Crimi's",
-        "url": "https://open.spotify.com/album/0vGMFxKnqgMFDTHOC813HZ"
-      },
-      "artists": [
-        {
-          "name": "Ocho",
-          "url": "https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "Ondernemers & Crimi\u2019s",
-      "url": "https://open.spotify.com/track/0BWdQ98VlyOvs4J61b5c2z"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Op Een Go",
-        "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
-      },
-      "artists": [
-        {
-          "name": "Langa",
-          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
-        },
-        {
-          "name": "Bokke8",
-          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
-        },
-        {
-          "name": "GS",
-          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
-        }
-      ],
-      "duration_ms": 177346,
-      "name": "Op Een Go",
-      "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
-    },
-    {
-      "added_at": "2026-05-14 22:01:34",
-      "album": {
-        "name": "Dure Geintje",
-        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
-      },
-      "artists": [
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 136802,
-      "name": "Dure Geintje",
-      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
     },
     {
       "added_at": "2026-05-14 22:01:34",

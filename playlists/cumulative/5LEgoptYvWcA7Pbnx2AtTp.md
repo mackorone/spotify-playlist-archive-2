@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-205 songs - 11 hr 27 min
+206 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hate the Villanelle](https://open.spotify.com/track/3lFVypGtmGTyjNFxunEqme) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:52 | 2023-03-25 |  |
 | [Haunt, The Cartoon Heart](https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Haunt, The Cartoon Heart](https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e) | 3:38 | 2023-08-10 |  |
 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 | 2024-09-25 |  |
+| [Here Come The Cats](https://open.spotify.com/track/5FZvMmbaS3oTQqz3eIfhmY) | [Waitress](https://open.spotify.com/artist/3PMNpDimllMfwohuWNoCSs) | [Here Come The Cats](https://open.spotify.com/album/5rX3gZcZvBuVoBoAmcPau3) | 2:34 | 2026-05-18 |  |
 | [Hey Bulldog](https://open.spotify.com/track/4epbwW20tHuF9Q6FufAn7Y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 3:11 | 2024-10-27 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 | 2026-02-24 |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2024-09-16 |  |

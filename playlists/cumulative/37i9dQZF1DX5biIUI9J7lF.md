@@ -4,7 +4,7 @@
 
 > Opted out of strife
 
-211 songs - 10 hr 39 min
+213 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 | 2024-04-19 | 2024-04-26 |
 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 | 2025-03-31 |  |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-05-31 |  |
+| [Gratitude](https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:49 | 2026-05-18 |  |
 | [Halo](https://open.spotify.com/track/4HeEkGGS3qsLwSDuaQHH6J) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Halo](https://open.spotify.com/album/2PLtKhneqGtfzYlEln45JD) | 2:24 | 2025-04-11 |  |
 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [Lordknowz](https://open.spotify.com/artist/6EKRa2De9UHWEThLyXWzFY) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 | 2024-05-03 | 2024-06-07 |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 | 2024-05-24 |
@@ -126,7 +127,7 @@
 | [Mirror Talk](https://open.spotify.com/track/5OxFK3mOuS6mjNMWg3ZsYl) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:28 | 2024-03-15 | 2024-05-03 |
 | [Mistake](https://open.spotify.com/track/0mW1gi2M8i1IPLeWa0HBEb) | [Swagz.i](https://open.spotify.com/artist/3KxxsP70fVFsDrV5Ng1yse), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Mistake](https://open.spotify.com/album/1xh0IghftnAwFPEp9Cvvli) | 3:06 | 2024-07-19 | 2024-08-02 |
 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 | 2025-02-19 |  |
-| [Money](https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN) | [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [Money](https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ) | 2:58 | 2026-05-01 |  |
+| [Money](https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN) | [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [Money](https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ) | 2:58 | 2026-05-01 | 2026-05-19 |
 | [Money](https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Money](https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj) | 3:26 | 2025-02-19 |  |
 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2022-07-27 | 2022-08-13 |
 | [Money Bag](https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Money Bag](https://open.spotify.com/album/1DljXwHBRFBGAnKqJKOt3D) | 2:36 | 2022-07-27 | 2024-06-28 |
@@ -194,10 +195,11 @@
 | [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 |  |
 | [Some Day](https://open.spotify.com/track/7z7IvpSd8hAXZM73L8Y3Ag) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/0kwrnDyLze42o9jAVJiWSD) | 3:12 | 2024-05-24 |  |
 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 | 2024-03-29 | 2024-05-03 |
+| [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 | 2026-05-18 |  |
 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 | 2022-07-27 | 2024-08-02 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-27 | 2025-05-02 |
 | [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 |  |
-| [SUMMER BUNNY](https://open.spotify.com/track/4rVsGP9aHXWyjk1OZNmEfR) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [SUMMER BUNNY](https://open.spotify.com/album/5u2qU4l0XTxrSEYBPbhjwe) | 2:57 | 2024-07-19 |  |
+| [SUMMER BUNNY](https://open.spotify.com/track/4rVsGP9aHXWyjk1OZNmEfR) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [SUMMER BUNNY](https://open.spotify.com/album/5u2qU4l0XTxrSEYBPbhjwe) | 2:57 | 2024-07-19 | 2026-05-19 |
 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 | 2022-07-27 | 2024-05-03 |
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 |  |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2025-05-02 |

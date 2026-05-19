@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Ryan Fidelis
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,520 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,535 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 31 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 32 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
 | 33 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |
-| 34 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 |
-| 35 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
+| 34 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
+| 35 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 |
 | 36 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
 | 37 | [Ouvir Você \(Remix\)](https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Ouvir Você \(Remix\)](https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0) | 4:33 |
 | 38 | [Me Deixa Ser Pausa](https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Deixa Ser Pausa](https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0) | 2:07 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 63 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 64 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
 | 65 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 |
-| 66 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
-| 67 | [À Margem do Amor](https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n) | [Rodd](https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT) | [À Margem do Amor](https://open.spotify.com/album/1JS0Pfj2HviObfK7sx0Xa6) | 3:12 |
+| 66 | [À Margem do Amor](https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n) | [Rodd](https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT) | [À Margem do Amor](https://open.spotify.com/album/1JS0Pfj2HviObfK7sx0Xa6) | 3:12 |
+| 67 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
 | 68 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 69 | [pode me gravar :\)](https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd) | [Perigato](https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I) | [pode me gravar :\)](https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL) | 2:49 |
 | 70 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |

@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 202122,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/52Q0BDu0NZiYJZMMyLIC83"
@@ -476,6 +476,24 @@
       "duration_ms": 189371,
       "name": "Chacarera Del Sufrido",
       "url": "https://open.spotify.com/track/2de99vfNF4BxBydh5xa4af"
+    },
+    {
+      "album": {
+        "name": "Cholita",
+        "url": "https://open.spotify.com/album/70gUHAQL7yLXM9fBuTXLbD"
+      },
+      "artists": [
+        {
+          "name": "Tunay",
+          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cholita",
+      "url": "https://open.spotify.com/track/4rmeIgv5bslDzqdNydVEBF"
     },
     {
       "album": {
@@ -942,6 +960,36 @@
       "duration_ms": 258000,
       "name": "El Antigal",
       "url": "https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd"
+    },
+    {
+      "album": {
+        "name": "El Asad\u00ed",
+        "url": "https://open.spotify.com/album/2yjwionybSCrEYzvLjIp6V"
+      },
+      "artists": [
+        {
+          "name": "Guido Iacopetti",
+          "url": "https://open.spotify.com/artist/2tLYc3sQZexJX8Ml1bb1x5"
+        },
+        {
+          "name": "Santi Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7Kndv1ZWPq6yJ5UYGr5oZr"
+        },
+        {
+          "name": "Juan Barone",
+          "url": "https://open.spotify.com/artist/5AK0cSxwejfNy5XNQnNImV"
+        },
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199900,
+      "name": "El Asad\u00ed",
+      "url": "https://open.spotify.com/track/2W4fJ2fgjnBIXf6iEn6P98"
     },
     {
       "album": {
@@ -2476,7 +2524,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 208506,
       "name": "No me sale",
       "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"

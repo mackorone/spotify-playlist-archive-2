@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 130148,
       "name": "BOMB\u00d3N",
       "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
@@ -6829,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "Hasta el amanecer",
+        "url": "https://open.spotify.com/album/02YNzYeZWf1DzBBALXlfrK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177284,
+      "name": "Hasta el amanecer",
+      "url": "https://open.spotify.com/track/5If7vNORe998euLypIYeN8"
+    },
+    {
+      "album": {
         "name": "Hasta Por La Ma\u00f1ana",
         "url": "https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ"
       },
@@ -8676,7 +8694,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 119546,
       "name": "LLEVA AL SOL",
       "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
@@ -9441,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Mallorca",
+        "url": "https://open.spotify.com/album/6VN6oW1mAiA27aJRGdrejB"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5z29X1D6L7tKcBbjAmD13n"
+    },
+    {
+      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
@@ -9456,7 +9492,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
@@ -10434,6 +10470,24 @@
       "duration_ms": 150485,
       "name": "miprimeravez",
       "url": "https://open.spotify.com/track/6Dd4ZCRgGZAYioA2wv7HuS"
+    },
+    {
+      "album": {
+        "name": "mis amigos",
+        "url": "https://open.spotify.com/album/5OqeDm5vFxbKEU4DP9B9yS"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "mis amigos",
+      "url": "https://open.spotify.com/track/0OpN5ZPDa4iI7Hk10d9ptO"
     },
     {
       "album": {
@@ -11623,6 +11677,24 @@
     },
     {
       "album": {
+        "name": "nada importa tanto",
+        "url": "https://open.spotify.com/album/5QN7qOP75TeueeRP70Eo0V"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161747,
+      "name": "no te imagino lejos",
+      "url": "https://open.spotify.com/track/3ndDFI5s5eAr991FQpIlW8"
+    },
+    {
+      "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
       },
@@ -12728,7 +12800,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 189218,
       "name": "Placer de vivir",
       "url": "https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu"
@@ -13844,7 +13916,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 169250,
       "name": "Rayito de Luz",
       "url": "https://open.spotify.com/track/0fOpSLfwXneD4x3bls0Kd2"
@@ -16536,6 +16608,24 @@
       "duration_ms": 180413,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/0Mb1fm62mIKntgbZFFYpRF"
+    },
+    {
+      "album": {
+        "name": "Tu recuerdo",
+        "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
     },
     {
       "album": {

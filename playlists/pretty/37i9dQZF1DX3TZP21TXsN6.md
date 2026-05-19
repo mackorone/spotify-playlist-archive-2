@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Suilju, Adfbigga, SKEEKS, Dv, JR, Highguest en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,972 likes - 74 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,968 likes - 74 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [STRAAT RATJE](https://open.spotify.com/track/5EaCVgDPfpN3NG9aEVzSzR) | [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j), [Adfbigga](https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l) | [STRAAT RATJE](https://open.spotify.com/album/2FqymWDxldNrgQpcBFpid5) | 2:08 |
-| 2 | [Lyca & Slammers](https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Lyca & Slammers](https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf) | 2:28 |
-| 3 | [Facilite](https://open.spotify.com/track/0bBPWZ39zGtQFSakKoVZYQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Facilite](https://open.spotify.com/album/54GpPAeABO2QML3GhwNKiv) | 2:18 |
+| 1 | [Lyca & Slammers](https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Lyca & Slammers](https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf) | 2:28 |
+| 2 | [Facilite](https://open.spotify.com/track/0bBPWZ39zGtQFSakKoVZYQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Facilite](https://open.spotify.com/album/54GpPAeABO2QML3GhwNKiv) | 2:18 |
+| 3 | [Trenches](https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trenches](https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B) | 2:46 |
 | 4 | [Audemars Piguet](https://open.spotify.com/track/5gA49eaLpmPKPkWbLAp64m) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [Audemars Piguet](https://open.spotify.com/album/7tqtNw72lDnknEn5838rcc) | 2:55 |
-| 5 | [DILEMMAS](https://open.spotify.com/track/2x6l3h76dFbsdnmMyUEeHc) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [DILEMMAS](https://open.spotify.com/album/4FyejwrgubiRT6frn5Ixj8) | 1:56 |
-| 6 | [Trenches](https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trenches](https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B) | 2:46 |
+| 5 | [STRAAT RATJE](https://open.spotify.com/track/5EaCVgDPfpN3NG9aEVzSzR) | [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j), [Adfbigga](https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l) | [STRAAT RATJE](https://open.spotify.com/album/2FqymWDxldNrgQpcBFpid5) | 2:08 |
+| 6 | [DILEMMAS](https://open.spotify.com/track/2x6l3h76dFbsdnmMyUEeHc) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [DILEMMAS](https://open.spotify.com/album/4FyejwrgubiRT6frn5Ixj8) | 1:56 |
 | 7 | [Tijdsbesef](https://open.spotify.com/track/7eWWWlXpM2W1lu2PmAwdUk) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Tijdsbesef](https://open.spotify.com/album/0knfeJEu8FayHqWu8H9j9L) | 2:33 |
-| 8 | [Minimaal](https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Minimaal](https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h) | 2:29 |
-| 9 | [Oh No](https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Oh No](https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq) | 2:23 |
-| 10 | [Hustle](https://open.spotify.com/track/6qtZOCjlGGtwlZC7yMYqjJ) | [Jama MW](https://open.spotify.com/artist/6NaZ5cHB2rJbBB2NU3T9VX), [Jea](https://open.spotify.com/artist/5or8yHJVELOiVcb4FaraKJ) | [Hustle](https://open.spotify.com/album/5bI1CL3MR4ZTrxuz4eEL9D) | 2:09 |
-| 11 | [PRETTY GIRLS IN ALO](https://open.spotify.com/track/72qPebjWOYphRXDGXWkadW) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [PRETTY GIRLS IN ALO](https://open.spotify.com/album/3famfBX59NIOk1BHEGj1NW) | 2:32 |
+| 8 | [Hustle](https://open.spotify.com/track/6qtZOCjlGGtwlZC7yMYqjJ) | [Jama MW](https://open.spotify.com/artist/6NaZ5cHB2rJbBB2NU3T9VX), [Jea](https://open.spotify.com/artist/5or8yHJVELOiVcb4FaraKJ) | [Hustle](https://open.spotify.com/album/5bI1CL3MR4ZTrxuz4eEL9D) | 2:09 |
+| 9 | [PRETTY GIRLS IN ALO](https://open.spotify.com/track/72qPebjWOYphRXDGXWkadW) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [PRETTY GIRLS IN ALO](https://open.spotify.com/album/3famfBX59NIOk1BHEGj1NW) | 2:32 |
+| 10 | [Minimaal](https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Minimaal](https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h) | 2:29 |
+| 11 | [Oh No](https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Oh No](https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq) | 2:23 |
 | 12 | [Gangster Party](https://open.spotify.com/track/6A0jKYRrBmE0YcwqFtl6GS) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [Gangster Party](https://open.spotify.com/album/6Qee5bCiMlKeAx3US3vWKJ) | 2:15 |
 | 13 | [In Het Frans](https://open.spotify.com/track/1uMozq4mDofCm2uaMDGNCb) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [In Het Frans](https://open.spotify.com/album/5Unyp1XZlWq2jUWE9a1RQU) | 1:51 |
 | 14 | [No One Else](https://open.spotify.com/track/3ziNgV9biq2UMn0H5GWnoI) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2) | [No One Else](https://open.spotify.com/album/2Ma5ZgMYlT3fDw6HZ4o7lM) | 3:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 73 | [MET JOU](https://open.spotify.com/track/7F7yVvEO8QVfGKOOlhPxnV) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [domchasing](https://open.spotify.com/artist/5iHkjPYXxGnRAhjJ8ZvQi6) | [MET JOU](https://open.spotify.com/album/7oXsSaQwH5BcvOg8FbyMmp) | 2:02 |
 | 74 | [Top Of The Game](https://open.spotify.com/track/0oxgyZjxq7u6UvWsdFJ0My) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [Lonewalker](https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS), [Seja](https://open.spotify.com/artist/6bpXMLFh4ytvCSiNa63gTo) | [Whoo's In Charge?](https://open.spotify.com/album/0y416rzwhbk0jETqdSmJGA) | 3:17 |
 
-Snapshot ID: `AAAAAHK288mWT9bLWlXFFkHfKSSSUX6L`
+Snapshot ID: `AAAAAIopwsjIBnOM0t3N94HUM/09r+6S`

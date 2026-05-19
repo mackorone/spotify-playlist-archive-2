@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: DIKTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,639 likes - 93 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,641 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,890 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,893 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 20 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 21 | [BUILT LIKE TEE](https://open.spotify.com/track/4QoshbFOlPPfXhiMaG5Mxv) | [Tdarq](https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW) | [SET YOUR SIGHTS HIGHER](https://open.spotify.com/album/4FveEBVuGPSWSvqmD7xgbR) | 2:30 |
 | 22 | [AS A MAN](https://open.spotify.com/track/4O3WEaP0J6imXxijBr1wZT) | [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A MAN'S GAME](https://open.spotify.com/album/4o8SSMPIcRzpem7M2aY6F9) | 2:21 |
-| 23 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 23 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 24 | [What Kind Of Woman](https://open.spotify.com/track/20b1CGpb3dQfid2w4BEiCl) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Black & Blue](https://open.spotify.com/album/5CvYV3sF2hZXNnrb9PFaf4) | 3:06 |
 | 25 | [Whats My Name](https://open.spotify.com/track/3LZeT8JO6gGfOsjjo8AjYf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Whats My Name](https://open.spotify.com/album/6zIbKOi3iaFLqAiFKbXn0f) | 2:33 |
 | 26 | [Can’t Stop Won’t Stop II](https://open.spotify.com/track/0szsHSNuPGSAawH9kipma3) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Can’t Stop Won’t Stop II](https://open.spotify.com/album/4q40fzGX98NfZdACfdz5eZ) | 2:59 |

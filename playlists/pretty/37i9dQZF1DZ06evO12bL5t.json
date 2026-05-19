@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 143754,
+  "num_followers": 143782,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAACJzqrPK5yW9YqjwVyxp+fL",
+  "snapshot_id": "agkFAAAAAABUOEtL5czA1VeZIplGtOf4",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry For The Wait",
         "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Que Fuera",
+        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Ni Que Fuera",
+      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Ric Flair",
-      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 178368,
       "name": "HASHERO",
       "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 180256,
+      "name": "Gelatti",
+      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 180256,
-      "name": "Gelatti",
-      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 187448,
       "name": "Heisenbern",
       "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "Ric Flair",
+      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
     },
     {
       "added_at": null,

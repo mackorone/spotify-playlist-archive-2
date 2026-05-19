@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-227 songs - 6 hr 51 min
+228 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Leader Stroke \- Instrumental](https://open.spotify.com/track/670fC877bDFyFRXnVcJiAj) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vLQ6c6JqndLdiUngPhNVe) | 2:23 | 2026-03-31 |  |
 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 | 2024-01-09 | 2025-05-28 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
-| [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 |  |
+| [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 | 2026-05-19 |
 | [Love Blooms](https://open.spotify.com/track/6yOLWskuPn8rvrIT4T9aHS) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lover \(Original Score\)](https://open.spotify.com/album/2ckveWEr2jwpwwhkKVOFS1) | 2:05 | 2024-03-17 | 2024-05-16 |
 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 | 2021-11-27 |  |
 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 | 2021-11-01 |  |
@@ -161,6 +161,7 @@
 | [PS vs VT](https://open.spotify.com/track/2s9xmFKi7AHRFPaGi1t7yU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 2:25 | 2024-01-08 | 2024-06-08 |
 | [Raayan Rules](https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 0:56 | 2024-12-10 | 2025-06-06 |
 | [Raayan's Lullaby](https://open.spotify.com/track/76QBbZb1mrmGYwRKT4Tg21) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:21 | 2024-12-10 | 2025-01-17 |
+| [Raga of Revenge \(From "DC"\)](https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Raga of Revenge \(From "DC"\)](https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8) | 2:11 | 2026-05-18 |  |
 | [Rage \- Background Score](https://open.spotify.com/track/7qPxOwZn2x7wTADnISudyx) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 1:01 | 2023-01-25 | 2023-02-07 |
 | [Rage for Vengeance](https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:13 | 2024-03-17 | 2024-06-08 |
 | [Return of The Dragon](https://open.spotify.com/track/6EjOIgJEDGhkJIH0RnGG59) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 3:12 | 2025-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 90\. Photo: Céline Dion
 
-68 songs - 4 hr 50 min
+69 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [J'envoie valser](https://open.spotify.com/track/30BWTpgeLnFCQlm7QoF9uV) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 2:52 | 2023-02-28 |  |
 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 | 2025-08-08 |  |
 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 | 2023-02-28 |  |
-| [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 | 2023-02-28 |  |
+| [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 | 2023-02-28 | 2026-05-19 |
 | [Je danse le Mia](https://open.spotify.com/track/6P8YkdLMTBA7z5nhKXgyi3) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Ombre Est Lumière](https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU) | 4:27 | 2025-08-08 |  |
 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 | 2023-02-28 |  |
 | [Je sais pas jouer](https://open.spotify.com/track/5d1tSaiS9zqCEfeNn1lEqk) | [Pierpoljak](https://open.spotify.com/artist/3CRdoyoe02HlMCvt6VD7RG) | [Kingston Karma](https://open.spotify.com/album/61ibLaYRWUXsuNaCoyacBo) | 4:09 | 2023-02-28 |  |
@@ -69,6 +69,7 @@
 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 | 2023-02-28 |  |
 | [Si tu veux m'essayer](https://open.spotify.com/track/3eIdv7Lh8zzsQV5SI8ni7z) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Rester Vrai](https://open.spotify.com/album/2FGyjN6ri4SYTmunXvCnwx) | 4:02 | 2023-02-28 | 2025-08-10 |
 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/2tE58Zyy0x7jy0sn8l661c) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 | 2023-02-28 |  |
+| [Tandem](https://open.spotify.com/track/25OwpdcXx3Ash6MvxcjaY4) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Variations Sur Le Meme T'Aime](https://open.spotify.com/album/7cX5HHUqHdFK4nJqqJVtVU) | 3:30 | 2026-05-18 |  |
 | [Tellement je t'aime](https://open.spotify.com/track/4leqIALehUHLsdMSWZAdGG) | [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [L'essentiel Faudel](https://open.spotify.com/album/0Vu3IkVBDFEzkSSAYfDo60) | 4:05 | 2023-02-28 |  |
 | [Tomber la chemise](https://open.spotify.com/track/1oYBDCV6FgdaP4cH0K1d0r) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/194N0QfvQdmsZi4eoIMuLw) | 4:23 | 2023-02-28 |  |
 | [Tomber la chemise](https://open.spotify.com/track/7JGmpugbdiVWskY1S3EmTY) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:23 | 2023-02-28 | 2024-04-19 |

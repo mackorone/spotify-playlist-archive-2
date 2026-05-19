@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,913 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,916 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 45 | [Closer to the Bone](https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:32 |
 | 46 | [Eye of the Storm \(with Willie Nelson\)](https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:18 |
 | 47 | [From Here To The Moon and Back](https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jeremy Jordan](https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR) | [Joyful Noise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9) | 4:24 |
-| 48 | [Jody and the Kid](https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:08 |
-| 49 | [Best of All Possible Worlds](https://open.spotify.com/track/2Aakqasjc65Fn8AnQPpznq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:03 |
-| 50 | [Here Comes That Rainbow Again](https://open.spotify.com/track/4QQQtZpGKoPmpT158ReEoH) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Winning Hand](https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM) | 2:52 |
+| 48 | [Best of All Possible Worlds](https://open.spotify.com/track/2Aakqasjc65Fn8AnQPpznq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:03 |
+| 49 | [Jody and the Kid](https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:08 |
+| 50 | [Nobody Wins](https://open.spotify.com/track/7FpRYdpA3Qg3c0Q1ZXN905) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 4:06 |
 
-Snapshot ID: `agezgAAAAAB4x+IqHt1NkA6HOXV7KO/L`
+Snapshot ID: `agkFAAAAAAANV4VlTcKvyAC4kUcSeOA+`

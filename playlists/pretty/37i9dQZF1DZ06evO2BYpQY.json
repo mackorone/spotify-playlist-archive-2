@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81219,
+  "num_followers": 81222,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAABzac+8MT18HOgXyK1Da1Kq",
+  "snapshot_id": "agkFAAAAAADoNpM2dWxXV12iPm6v+m81",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 391200,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pale Green Ghosts",
         "url": "https://open.spotify.com/album/23jVGTd2ouvUNmoWPDkthH"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 313986,
       "name": "GMF",
       "url": "https://open.spotify.com/track/0uul4WzezEwTELfdrWuh3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 391200,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "In This Heart",
-      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "In This Heart",
+      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Made Me The Thief Of Your Heart",
         "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
       },
@@ -279,30 +279,6 @@
       "duration_ms": 381373,
       "name": "You Made Me The Thief Of Your Heart",
       "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wall - Live In Berlin",
-        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
-      },
-      "artists": [
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        },
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Mother - Live In Berlin",
-      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
     },
     {
       "added_at": null,
@@ -343,6 +319,30 @@
       "duration_ms": 150146,
       "name": "Jackie",
       "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wall - Live In Berlin",
+        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Mother - Live In Berlin",
+      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 385466,
-      "name": "Thank You for Hearing Me",
-      "url": "https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Oak",
         "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
-        {
-          "name": "Shane MacGowan",
-          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
-        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu"
+      "duration_ms": 385466,
+      "name": "Thank You for Hearing Me",
+      "url": "https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx"
     },
     {
       "added_at": null,
@@ -543,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c"
       },
       "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Fire on Babylon",
-      "url": "https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO"
+      "duration_ms": 252000,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Fire on Babylon",
+      "url": "https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -587,30 +587,6 @@
       "duration_ms": 181186,
       "name": "No Man's Woman",
       "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enemy of the Enemy (Remastered)",
-        "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
-      },
-      "artists": [
-        {
-          "name": "Asian Dub Foundation",
-          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
-        },
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "EOB",
-          "url": "https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG"
-        }
-      ],
-      "duration_ms": 295040,
-      "name": "1000 Mirrors",
-      "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
     },
     {
       "added_at": null,
@@ -643,6 +619,30 @@
       "duration_ms": 262933,
       "name": "He Moved Through the Fair",
       "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enemy of the Enemy (Remastered)",
+        "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
+      },
+      "artists": [
+        {
+          "name": "Asian Dub Foundation",
+          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "EOB",
+          "url": "https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG"
+        }
+      ],
+      "duration_ms": 295040,
+      "name": "1000 Mirrors",
+      "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
     },
     {
       "added_at": null,

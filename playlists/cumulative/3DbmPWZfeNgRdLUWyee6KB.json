@@ -4785,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Empoderiega (Bestia Y Bella)",
+        "url": "https://open.spotify.com/album/4Q8c2R2bU3v47JiF0a6lv7"
+      },
+      "artists": [
+        {
+          "name": "Hadas sin Alas",
+          "url": "https://open.spotify.com/artist/7Gw4rewg7A9puzrVESmffc"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Empoderiega (Bestia Y Bella)",
+      "url": "https://open.spotify.com/track/5V9v5Dr2fLncmy6vg4f2rl"
+    },
+    {
+      "album": {
         "name": "EN ESPERA / ART003",
         "url": "https://open.spotify.com/album/5m48WmmY85NOCvcvTWykjB"
       },
@@ -7845,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "In The Sunlight",
+        "url": "https://open.spotify.com/album/77cbNhYzqMpynHkQfC6l0v"
+      },
+      "artists": [
+        {
+          "name": "Orla Monelle",
+          "url": "https://open.spotify.com/artist/2ZcTiMux6U6EaaBd8nkmWa"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172204,
+      "name": "In The Sunlight",
+      "url": "https://open.spotify.com/track/4jYaU3mgWePgJI5zmPJZ7c"
+    },
+    {
+      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77"
       },
@@ -9200,6 +9236,24 @@
       "duration_ms": 253276,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/7jOPhjdRyBB164fW32Ue6P"
+    },
+    {
+      "album": {
+        "name": "Legionnaire Behind The Lines",
+        "url": "https://open.spotify.com/album/5Sj5J7L8tdTGZUamUH2tIj"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255214,
+      "name": "Legionnaire Behind The Lines",
+      "url": "https://open.spotify.com/track/5LKPv4UUvVYEhyd5eDuQET"
     },
     {
       "album": {
@@ -18326,7 +18380,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 354285,
       "name": "Tut mir leid",
       "url": "https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q"

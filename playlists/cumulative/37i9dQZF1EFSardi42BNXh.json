@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Sunshine (Just Right) - Geometry Dash",
+        "url": "https://open.spotify.com/album/74shlt8UzFHfaZsjKmyHrZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202455,
+      "name": "Just Right",
+      "url": "https://open.spotify.com/track/66dqk0qO4EXnMPINSLKf6O"
+    },
+    {
+      "album": {
         "name": "Halloway",
         "url": "https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc"
       },

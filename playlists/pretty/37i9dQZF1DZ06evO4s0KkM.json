@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126475,
+  "num_followers": 126482,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAACwefZHwo+l8CgxCwZSSZkI",
+  "snapshot_id": "agkFAAAAAADBow/S0HrXTchKZQwgff3J",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 207017,
       "name": "Bury the Bones",
       "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Signed and Sealed In Blood",
-        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
     },
     {
       "added_at": null,

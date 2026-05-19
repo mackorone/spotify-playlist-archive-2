@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,040 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,027 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 22 | [114 Freestyle 2](https://open.spotify.com/track/3b6a75xFVfRLTi08p3ON7F) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [BigJow](https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh) | [114 Freestyle 2](https://open.spotify.com/album/4aj0CeGEAL45SWEIfmtLge) | 2:25 |
 | 23 | [Acordado Desde Ontem](https://open.spotify.com/track/7mMbvAgxy3RQxJHP8WDXKd) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [VIDABREVE SESSIONS \(Vol.1\)](https://open.spotify.com/album/4ve3obuaTiZj0eM4IFrPZo) | 2:54 |
 | 24 | [BLUNT DE GOIABA](https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP VOL.2](https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv) | 2:05 |
-| 25 | [HORA DO KARMA REAGIR](https://open.spotify.com/track/1Wy90o0P6QcJ6PxFlvbXdo) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [João Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [HORA DO KARMA REAGIR](https://open.spotify.com/album/1ngpFiahIhE8icddv1uLR2) | 4:26 |
+| 25 | [HORA DO KARMA REAGIR](https://open.spotify.com/track/1Wy90o0P6QcJ6PxFlvbXdo) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Montê](https://open.spotify.com/artist/2QJjl1Eb2Sdiryvj5NozpP), [João Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [HORA DO KARMA REAGIR](https://open.spotify.com/album/1ngpFiahIhE8icddv1uLR2) | 4:26 |
 | 26 | [football](https://open.spotify.com/track/1h2WHNJwUJCKUkrW0l1OPq) | [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [football](https://open.spotify.com/album/6uB4JLd3yelyi3QPxPiQqq) | 2:33 |
 | 27 | [Indiferente](https://open.spotify.com/track/3JUmNcneDnSEkqgitOwJ0i) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Indiferente](https://open.spotify.com/album/2q5jwon1ku6oOdq0qzFKoP) | 3:31 |
 | 28 | [Oração do filho de Deus](https://open.spotify.com/track/54Bz8FYJ98BL3LoqxabJnr) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Oração do filho de Deus](https://open.spotify.com/album/1GQoZffG6EEBAtX3cY8OkA) | 3:30 |

@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 109714,
       "name": "BOGOTA",
       "url": "https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9"
@@ -14878,6 +14878,32 @@
       "duration_ms": 165125,
       "name": "Teleia Sxesh",
       "url": "https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z"
+    },
+    {
+      "album": {
+        "name": "Tenacity",
+        "url": "https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268736,
+      "name": "Tha Edina Ta Panta",
+      "url": "https://open.spotify.com/track/5tZeRqOJp0x6ffaXdodZVp"
     },
     {
       "album": {

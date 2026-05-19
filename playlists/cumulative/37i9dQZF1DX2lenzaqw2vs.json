@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 170805,
       "name": "444",
       "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Dossier",
+        "url": "https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
+    },
+    {
+      "album": {
         "name": "DPM (De Pxta Madre)",
         "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
@@ -3735,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "Madrugadas de nada",
+        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
+      },
+      "artists": [
+        {
+          "name": "Isle\u00f1a Antumalen",
+          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217672,
+      "name": "Madrugadas de nada",
+      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
+    },
+    {
+      "album": {
         "name": "Man's World (Empress Of Remix) [feat. Pabllo Vittar]",
         "url": "https://open.spotify.com/album/6XrUdv4rCaHrpvvQmEJaTc"
       },
@@ -4196,7 +4236,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Mucho M\u00e1s",
       "url": "https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS"
@@ -4668,7 +4708,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 168071,
       "name": "Nobody Got It",
       "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
@@ -6452,7 +6492,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 210973,
       "name": "S\u00faper Hero\u00edna",
       "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"
@@ -7254,7 +7294,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 186773,
       "name": "Y Qu\u00e9?",
       "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"

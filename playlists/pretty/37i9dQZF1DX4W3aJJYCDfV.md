@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Drake, Gracie Abrams, Jorja Smith, Tove Lo more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,911 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,903 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 71 | [Blood on the Bone](https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Blood on the Bone](https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0) | 3:45 |
 | 72 | [Stay Like This Forever](https://open.spotify.com/track/3WjKzQniNtTD6mrAf29AEc) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Stay Like This Forever](https://open.spotify.com/album/1Xo1FKKxEQPwbuNLUc7SyI) | 3:48 |
 | 73 | [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 |
-| 74 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 74 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 75 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 |
 | 76 | [Whats My Name](https://open.spotify.com/track/3LZeT8JO6gGfOsjjo8AjYf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Whats My Name](https://open.spotify.com/album/6zIbKOi3iaFLqAiFKbXn0f) | 2:33 |
 | 77 | [Icarus](https://open.spotify.com/track/0xSD5pggKDWcSL5csfDHEq) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Icarus](https://open.spotify.com/album/7CEQGmajJuRy3U0JeVy2zr) | 4:09 |

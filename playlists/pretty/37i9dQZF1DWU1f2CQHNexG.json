@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 211930,
+  "num_followers": 212028,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "The Damned Don't Cry",
-        "url": "https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt"
-      },
-      "artists": [
-        {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 251973,
       "name": "Blue Monday '88 - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "The Damned Don't Cry",
+        "url": "https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 299240,
-      "name": "Eyes Without A Face",
-      "url": "https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb"
     },
     {
       "added_at": "2024-07-09 02:45:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 840 likes - 107 songs - 5 hr 56 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 842 likes - 109 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 105 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 |
 | 106 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 |
 | 107 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 |
+| 108 | [Three Peat Freestyle](https://open.spotify.com/track/57wRi8aHGFUaHLfR9H24A0) | [B\-Twizzle](https://open.spotify.com/artist/3uKNLT61D9AATiT2kWNNXd), [Jordi](https://open.spotify.com/artist/7fCmeytT5tCbU6xmMWYrlC) | [Dynamic Duo](https://open.spotify.com/album/6nOGlj4jJuBtMQ20efy67X) | 4:50 |
+| 109 | [Super Nova](https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Super Nova](https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq) | 3:43 |
 
-Snapshot ID: `AAADqptaMBRsrWVfvf9Ps10YA44p5W/9`
+Snapshot ID: `AAADrLpHdsCIQhhYVf5QOr2J+cS8vGmG`

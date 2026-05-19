@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 60796,
+  "num_followers": 60826,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "BIPP (Autechre Mx)",
         "url": "https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Chirp",
-      "url": "https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Zero to Sixty",
         "url": "https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Chirp",
+      "url": "https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "SPECTRA x Instrumentals",
-        "url": "https://open.spotify.com/album/3mwWHFJN7BT5lYioD42Mi9"
-      },
-      "artists": [
-        {
-          "name": "Pink Skies",
-          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
-        }
-      ],
-      "duration_ms": 256570,
-      "name": "St. Tropez - Instrumental",
-      "url": "https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Dreamy Riot",
         "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 350666,
       "name": "Tech",
       "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "SPECTRA x Instrumentals",
+        "url": "https://open.spotify.com/album/3mwWHFJN7BT5lYioD42Mi9"
+      },
+      "artists": [
+        {
+          "name": "Pink Skies",
+          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
+        }
+      ],
+      "duration_ms": 256570,
+      "name": "St. Tropez - Instrumental",
+      "url": "https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 304366,
-      "name": "Sister Species",
-      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Firstsun",
         "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 283289,
-      "name": "Meridians",
-      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Thirsts",
         "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 375929,
       "name": "Morning Tremor",
       "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 283289,
+      "name": "Meridians",
+      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
       "added_at": "2025-11-07 05:00:56",

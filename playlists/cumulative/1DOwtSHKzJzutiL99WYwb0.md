@@ -2,9 +2,9 @@
 
 ### [K\-Pop Bias : KPOP ESSENTIAL](https://open.spotify.com/playlist/1DOwtSHKzJzutiL99WYwb0)
 
-> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: UNCHILD
+> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: aespa
 
-324 songs - 16 hr 41 min
+326 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-21 | 2024-07-02 |
 | [Drip N' Drop](https://open.spotify.com/track/5pCAhWYET9Ry4UIB3OmSkC) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Ourturn \- MIRAE 4th Mini Album](https://open.spotify.com/album/5s0z21LL5eMd4Xz9raKdDz) | 3:07 | 2022-10-13 | 2024-07-12 |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-04-29 | 2024-03-25 |
-| [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-30 |  |
+| [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-30 | 2026-05-19 |
 | [Easy dance](https://open.spotify.com/track/5OK4P7j0Uam3wduqsQY4I0) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Easy dance](https://open.spotify.com/album/2ZOJNv9MTdHg2C2fEM8czY) | 2:59 | 2024-08-26 | 2025-11-22 |
 | [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 | 2024-03-14 | 2025-05-31 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-10-06 | 2025-01-24 |
@@ -105,6 +105,7 @@
 | [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-08-21 | 2024-10-11 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-08-21 | 2024-10-11 |
 | [EVERGLOW](https://open.spotify.com/track/0UkBTSuLxtdZa4gy2kvMIa) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [IGNITION](https://open.spotify.com/album/5jKxRZK8aNZpTKqBF3Qr4q) | 3:25 | 2025-07-22 |  |
+| [EVERLOVE](https://open.spotify.com/track/1KWKmkMB8vnB4BvJdVIQuJ) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Said & Done](https://open.spotify.com/album/1TnfxlOrAmE8d2ThZxYNnm) | 2:34 | 2026-05-18 |  |
 | [EXTRA VIRGIN](https://open.spotify.com/track/6jl087OUMBa74HMWRNcCtK) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [CHAMELEON](https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5) | 3:22 | 2025-07-22 |  |
 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 | 2025-07-11 |  |
 | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA) | 3:07 | 2025-11-21 |  |
@@ -173,7 +174,7 @@
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-05-30 | 2026-04-14 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-21 | 2024-12-03 |
 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-12 |  |
-| [Live, Love, Laugh](https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 3:30 | 2025-05-30 |  |
+| [Live, Love, Laugh](https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 3:30 | 2025-05-30 | 2026-05-19 |
 | [Louder](https://open.spotify.com/track/6btX7akvoYxoh1zKXQHs2e) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [W SERIES ‘2TAN’\(wish ver\)](https://open.spotify.com/album/3YskOywYWBcztpX1k4SBS1) | 3:18 | 2022-06-23 | 2024-04-23 |
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-04-29 | 2024-03-25 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-08 | 2024-03-25 |
@@ -312,6 +313,7 @@
 | [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-05-30 | 2026-04-14 |
 | [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2024-01-12 | 2025-05-31 |
 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 | 2023-08-21 | 2024-10-11 |
+| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-18 |  |
 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-14 | 2025-05-31 |
 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 | 2026-05-07 |  |
 | [What's My Name](https://open.spotify.com/track/2Bc9du4VY4XIx79L4XZqug) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [MAVE: 1st EP 'What's My Name'](https://open.spotify.com/album/4WGin9vdvgxIa2dSbxUuec) | 3:28 | 2024-01-12 | 2025-05-31 |

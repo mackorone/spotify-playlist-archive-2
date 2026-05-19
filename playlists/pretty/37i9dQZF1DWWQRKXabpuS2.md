@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,158 likes - 40 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,170 likes - 39 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 37 | [كل ما حاولت](https://open.spotify.com/track/5VvGnhgCaBzRcZDGRRdQSB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما حاولت](https://open.spotify.com/album/0v25kgJ3D5upB1ryeET1VT) | 3:36 |
 | 38 | [Ahla Sodfa](https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ahla Sodfa](https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ) | 3:38 |
 | 39 | [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 |
-| 40 | [Hafida Al Tarikh](https://open.spotify.com/track/3sEvdzY8BPSDXmuhI7UHHf) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hafida Al Tarikh](https://open.spotify.com/album/3iVRECZJzjZ0W27spRlbRX) | 6:16 |
 
-Snapshot ID: `AAAAAEVH2KEPodJBzPb4VaLSsFaPzMlM`
+Snapshot ID: `AAAAAC3erwjj2kfsTCYK2tX/hWtWkAD1`

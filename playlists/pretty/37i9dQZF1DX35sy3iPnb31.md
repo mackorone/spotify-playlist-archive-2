@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 18 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 |
 | 19 | [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 |
 | 20 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
-| 21 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 |
-| 22 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 21 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 22 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 |
 | 23 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
 | 24 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 |
 | 25 | [The Call](https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [The Call](https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC) | 4:13 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 31 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
 | 32 | [Bones to Ashes, Dark to Light](https://open.spotify.com/track/69anr1rbMwtfBpOkKHP9pd) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Bones to Ashes, Dark to Light](https://open.spotify.com/album/2Az6UHRaSG1G37fJF8IaqW) | 3:29 |
 | 33 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 |
-| 34 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 |
-| 35 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 |
+| 34 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 |
+| 35 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 |
 | 36 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 | 37 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
 | 38 | [Fix This Mess](https://open.spotify.com/track/2bZVZFXbZJ26P0x5VJTIAl) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Fix This Mess](https://open.spotify.com/album/06kpT326WfFpxbh2qecbZO) | 3:33 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31913,
+  "num_followers": 31916,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agezgAAAAAB4x+IqHt1NkA6HOXV7KO/L",
+  "snapshot_id": "agkFAAAAAAANV4VlTcKvyAC4kUcSeOA+",
   "tracks": [
     {
       "added_at": null,
@@ -1347,22 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 188241,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -1379,8 +1363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Winning Hand",
-        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
       "artists": [
         {
@@ -1388,9 +1372,25 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 172693,
-      "name": "Here Comes That Rainbow Again",
-      "url": "https://open.spotify.com/track/4QQQtZpGKoPmpT158ReEoH"
+      "duration_ms": 188241,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Nobody Wins",
+      "url": "https://open.spotify.com/track/7FpRYdpA3Qg3c0Q1ZXN905"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

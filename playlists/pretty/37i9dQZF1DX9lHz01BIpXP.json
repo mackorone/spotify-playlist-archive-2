@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3429,
+  "num_followers": 3431,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "My testimony",
-        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 245764,
-      "name": "My testimony",
-      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187167,
       "name": "21",
       "url": "https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "My testimony",
+        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 245764,
+      "name": "My testimony",
+      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -387,26 +387,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Die Lewe is 'n Lied",
-        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
+        "name": "Spanga",
+        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
       },
       "artists": [
         {
-          "name": "Van Pletzen",
-          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         },
         {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
         }
       ],
-      "duration_ms": 239591,
-      "name": "Die Lewe is 'n Lied",
-      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
+      "duration_ms": 180165,
+      "name": "Spanga",
+      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -431,22 +427,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Spanga",
-        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
+        "name": "Die Lewe is 'n Lied",
+        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
       },
       "artists": [
         {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
         },
         {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Spanga",
-      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
+      "duration_ms": 239591,
+      "name": "Die Lewe is 'n Lied",
+      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -833,38 +833,6 @@
       "url": "https://open.spotify.com/track/5T9YoFqvvLDBMvjRw71WSx"
     },
     {
-      "added_at": "2025-08-07 22:00:54",
-      "album": {
-        "name": "Hulle Weet Nog Niks",
-        "url": "https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe"
-      },
-      "artists": [
-        {
-          "name": "Vaughn Valentine",
-          "url": "https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH"
-        }
-      ],
-      "duration_ms": 139070,
-      "name": "Hulle Weet Nog Niks",
-      "url": "https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
-    },
-    {
       "added_at": "2025-06-27 09:27:23",
       "album": {
         "name": "Nikes & Jordans (Original)",
@@ -883,34 +851,34 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Hie Kom Ons",
-        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
       },
       "artists": [
         {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         }
       ],
-      "duration_ms": 164927,
-      "name": "Hie Kom Ons",
-      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+      "duration_ms": 181480,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
     },
     {
-      "added_at": "2025-06-27 09:27:23",
+      "added_at": "2025-08-07 22:00:54",
       "album": {
-        "name": "Staan Uit",
-        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+        "name": "Hulle Weet Nog Niks",
+        "url": "https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe"
       },
       "artists": [
         {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+          "name": "Vaughn Valentine",
+          "url": "https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Staan Uit",
-      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+      "duration_ms": 139070,
+      "name": "Hulle Weet Nog Niks",
+      "url": "https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -935,6 +903,38 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Staan Uit",
+        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+      },
+      "artists": [
+        {
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Staan Uit",
+      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Exs Die Ou",
         "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 186723,
       "name": "Exs Die Ou",
       "url": "https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "SYS N BADDIE",
-        "url": "https://open.spotify.com/album/7AimRndL52aehc62FKMAft"
-      },
-      "artists": [
-        {
-          "name": "BARZX",
-          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
-        }
-      ],
-      "duration_ms": 127777,
-      "name": "SYS N BADDIE",
-      "url": "https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -983,6 +967,22 @@
       "duration_ms": 177812,
       "name": "Ladies From The Cape",
       "url": "https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "SYS N BADDIE",
+        "url": "https://open.spotify.com/album/7AimRndL52aehc62FKMAft"
+      },
+      "artists": [
+        {
+          "name": "BARZX",
+          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
+        }
+      ],
+      "duration_ms": 127777,
+      "name": "SYS N BADDIE",
+      "url": "https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

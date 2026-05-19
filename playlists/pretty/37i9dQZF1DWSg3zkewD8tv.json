@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 572314,
+  "num_followers": 572301,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,22 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
       },
       "artists": [
         {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
         }
       ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+      "duration_ms": 244893,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -299,22 +303,18 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
+        "name": "Divinyls",
+        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
         }
       ],
-      "duration_ms": 244893,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
+      "duration_ms": 227640,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
     },
     {
       "added_at": "2026-02-12 13:00:20",

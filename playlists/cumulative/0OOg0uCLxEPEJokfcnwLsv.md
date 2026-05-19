@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-492 songs - 1 day 6 hr 25 min
+494 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Knots](https://open.spotify.com/track/0O3G3T3lM8omVs9gYbwt9u) | [Violet Fox](https://open.spotify.com/artist/5JjEGMlCzQo4Iqmw6Dij1r) | [Knots](https://open.spotify.com/album/4gtwkXPMCaA33uZi84N40B) | 2:48 | 2026-04-15 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-23 |
 | [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 | 2026-03-27 |  |
+| [La Radio](https://open.spotify.com/track/5xM3Os39N9KSh2Q7AJ4AeI) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [La Radio](https://open.spotify.com/album/66uc9Jdwz34riwvTQrI0RG) | 2:38 | 2026-05-18 |  |
 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 | 2026-03-20 | 2026-04-20 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-11 | 2025-12-12 |
 | [Leave Me Alone](https://open.spotify.com/track/73bDmL5oyycUsoeUWoNQQv) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Cold, Drunk & Stoned](https://open.spotify.com/album/1T7O1DrMZ7QmAAN9p16YN2) | 3:55 | 2026-03-20 | 2026-04-20 |
@@ -418,6 +419,7 @@
 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 | 2026-02-10 | 2026-03-04 |
 | [The Mess & The Martyr](https://open.spotify.com/track/4neyUrx2A4XSyKLeEs0INN) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [The Mess & The Martyr](https://open.spotify.com/album/2Q6W8VUXPrbYI968Z1sdUk) | 3:57 | 2026-03-14 | 2026-04-20 |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2025-12-29 | 2026-01-29 |
+| [The Overview](https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV) | [The Streetlights](https://open.spotify.com/artist/4wkbEfCePFwRy83imzOOuy) | [The Overview](https://open.spotify.com/album/3QF66H9EbSTbTzEFoFEqgv) | 2:45 | 2026-05-18 |  |
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-04 |  |
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2025-12-25 | 2026-01-21 |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-11-22 |

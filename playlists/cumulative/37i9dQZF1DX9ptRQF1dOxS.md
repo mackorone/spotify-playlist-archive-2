@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Melanie C  💚
 
-1,990 songs - 4 day 17 hr 15 min
+1,991 songs - 4 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,7 +1594,8 @@
 | [Soul Sound](https://open.spotify.com/track/7uQXOdPhHIPfRlQ3oDcXCJ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [One Touch](https://open.spotify.com/album/5AD98s5Pm4PfDlVx9fDPa2) | 4:30 | 2025-07-01 | 2025-08-06 |
 | [Sound Of The Underground](https://open.spotify.com/track/0SKjqIViHaXWhmaKuJbMrq) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Sound Of The Underground](https://open.spotify.com/album/5lruCC2nlwy21JwWLpjrrS) | 3:41 | 2024-06-05 | 2026-04-14 |
 | [Spectre](https://open.spotify.com/track/4Cul4JAfxiyv07VOrxNA28) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Spectre](https://open.spotify.com/album/2co7woEJgPrV2FrldToKdF) | 3:47 | 2024-04-03 | 2024-05-08 |
-| [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 | 2026-04-13 |  |
+| [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 | 2026-05-01 |  |
+| [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 | 2026-04-13 | 2026-05-19 |
 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 | 2024-10-01 | 2024-11-06 |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2024-06-05 | 2024-07-03 |
 | [Spinning Sides](https://open.spotify.com/track/4azJjpjM9wzySL8Nz6aWgG) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Spinning Sides](https://open.spotify.com/album/1rs0wOw1XnxBU71oTpxP5g) | 3:57 | 2024-09-04 | 2024-10-02 |
@@ -1680,8 +1681,8 @@
 | [Teal Dreams](https://open.spotify.com/track/7GkHq1G3D1x8uUu4MyFSvl) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:14 | 2025-11-05 | 2026-02-05 |
 | [Teardrop](https://open.spotify.com/track/5dmoaMremfeDpozEQ7A2ES) | [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Teardrop](https://open.spotify.com/album/3yq6nA9NVoXG8doaBG0nCN) | 3:03 | 2026-04-13 |  |
 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 | 2024-02-07 | 2024-03-06 |
-| [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-11-30 | 2023-01-06 |
-| [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1JvFZtYtWGMHa8iWplzfId) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 3:16 | 2026-04-13 |  |
+| [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-11-30 |  |
+| [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1JvFZtYtWGMHa8iWplzfId) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 3:16 | 2026-04-13 | 2026-05-19 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2022-01-05 | 2022-02-11 |
 | [teenage dirtbag](https://open.spotify.com/track/7DMJ3MN5qwncdPUuZAtpRg) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [teenage dirtbag](https://open.spotify.com/album/1t67QpcYZ3Lrv6Lx2bXW2C) | 3:44 | 2025-01-08 | 2025-02-05 |
 | [Teenage Fantasy](https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:46 | 2025-05-07 | 2025-06-04 |

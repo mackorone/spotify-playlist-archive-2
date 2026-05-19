@@ -1,6 +1,6 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 532507,
+  "num_followers": 532505,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 243440,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+      "duration_ms": 243440,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 230693,
       "name": "Youth",
       "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
-        "name": "Pet Sounds",
-        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sexy Villain",
+      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 280878,
       "name": "Disco Yes",
       "url": "https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sexy Villain",
-      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
+        "name": "Prune, You Talk Funny",
+        "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 212701,
+      "name": "Prune, You Talk Funny",
+      "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
         "name": "EVERYTHING",
         "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 252778,
       "name": "Long Beach",
       "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
-        "name": "Prune, You Talk Funny",
-        "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 212701,
-      "name": "Prune, You Talk Funny",
-      "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
     },
     {
       "added_at": "2026-01-20 16:17:11",

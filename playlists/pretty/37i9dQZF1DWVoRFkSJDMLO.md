@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Shaggy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,725 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,736 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amazing Shape \(feat\. Popcaan\)](https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:56 |
-| 2 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 2 | [Lottery](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
 | 3 | [Morocco 3](https://open.spotify.com/track/3GC2DpTY9SGdEdtJcqxZ0x) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Morocco 3](https://open.spotify.com/album/1ItjJ3SmucQxae778Bap4M) | 2:53 |
 | 4 | [8: 15 am \- Raw](https://open.spotify.com/track/5M3KFiqRykxXiE4cBbsnAs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [8: 15 am](https://open.spotify.com/album/6Xpto60tBEvHtqa34U5euK) | 2:36 |
 | 5 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |

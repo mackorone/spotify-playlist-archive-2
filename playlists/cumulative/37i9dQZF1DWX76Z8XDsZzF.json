@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 151360,
       "name": "Angdayi (From \"Pati Patni Aur Woh Do\")",
       "url": "https://open.spotify.com/track/6aczZarZ8ql6linl6spbbt"
@@ -924,6 +924,32 @@
       "duration_ms": 205142,
       "name": "Ishq Ka Fever (From \"O' Romeo\")",
       "url": "https://open.spotify.com/track/2dvk0m6XYaZ4FTzx64HkB3"
+    },
+    {
+      "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229239,
+      "name": "Ishq Nibhaavan De (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ"
     },
     {
       "album": {

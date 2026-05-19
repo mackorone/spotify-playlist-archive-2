@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Sounds of the Borneo Rainforest",
+        "url": "https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Borneo Bridge at Night",
+      "url": "https://open.spotify.com/track/0f008RCXZcqsoCeM2uqgGr"
+    },
+    {
+      "album": {
         "name": "Relaxing Nature Sounds",
         "url": "https://open.spotify.com/album/7zVNlLfb6CSgCe5AMDhc74"
       },
@@ -2348,7 +2370,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 123079,
       "name": "Sierra Nevada Dawn after Rain",
       "url": "https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1"

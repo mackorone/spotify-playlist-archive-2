@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: DMA'S
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,602 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,601 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [All For Nothing](https://open.spotify.com/track/337Prs8OIwpMmsyO26QCPE) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [All For Nothing](https://open.spotify.com/album/0TMFxT1jkLzSuRrz9ZQ831) | 3:27 |
 | 100 | [Ratbags!](https://open.spotify.com/track/3bw1WOeyPscl722tsPEcDT) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Ratbags!](https://open.spotify.com/album/7onz2RDkaUxzvbl81ftn6s) | 2:59 |
 
-Snapshot ID: `AAAAANpzjSaFZRCivKJKbXQhlt5uSBCz`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

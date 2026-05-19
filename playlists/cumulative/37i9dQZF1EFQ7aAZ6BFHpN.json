@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 157506,
       "name": "Bess, Oh Where's My Bess",
       "url": "https://open.spotify.com/track/2hpolv9C81h76XptArOZp6"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 177133,
       "name": "Buzzard Song",
       "url": "https://open.spotify.com/track/1tKBKvIp0Nf9kMcFA8geFj"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 178706,
       "name": "Oh Lawd, I'm on My Way",
       "url": "https://open.spotify.com/track/4Hpj72WvRBn2015EZUh73X"
@@ -3461,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Oh, Bess, Oh Where Is My Bess - Porgy And Bess",
+      "url": "https://open.spotify.com/track/2oneMMjAJKhyfsQeFMxYUp"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -3472,10 +3494,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 119826,
       "name": "Oh, Doctor Jesus",
       "url": "https://open.spotify.com/track/52spbvBOV8l4lSit4YmkHs"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121360,
+      "name": "Oh, Doctor Jesus - Porgy And Bess",
+      "url": "https://open.spotify.com/track/1zPHUOrPLqH3hLLwALq1vb"
     },
     {
       "album": {
@@ -3534,6 +3578,28 @@
       "duration_ms": 244106,
       "name": "Oh, Lady, Be Good!",
       "url": "https://open.spotify.com/track/5RcRQU75YilZ0ZA4ykStg8"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Oh, Lawd, I'm On My Way - Porgy And Bess",
+      "url": "https://open.spotify.com/track/64aPdJcNoDHvKoLCrzyTKm"
     },
     {
       "album": {
@@ -5099,6 +5165,28 @@
     },
     {
       "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "The Buzzard Song - Porgy And Bess",
+      "url": "https://open.spotify.com/track/2cgXOtPb8vBJt16RQbXd2u"
+    },
+    {
+      "album": {
         "name": "The Gershwins' Porgy and Bess: New Broadway Cast Recording",
         "url": "https://open.spotify.com/album/3ZOOWaYSagUYPLUrUiHXeI"
       },
@@ -5605,6 +5693,28 @@
     },
     {
       "album": {
+        "name": "INTEGRAL ELLA FITZGERALD 1956-1957",
+        "url": "https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121040,
+      "name": "What You Want Wid Bess ? - Porgy And Bess",
+      "url": "https://open.spotify.com/track/3J3RwUNq5oCeAhIyyv2Nzu"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -5616,7 +5726,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-19",
       "duration_ms": 119666,
       "name": "What You Want Wid Bess?",
       "url": "https://open.spotify.com/track/3lo6WG0mdesJZGdRCVPF9p"

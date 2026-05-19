@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 27590,
+  "num_followers": 27639,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,22 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+        "name": "Electricity (salute Remix)",
+        "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+      "duration_ms": 250675,
+      "name": "Electricity (salute Remix)",
+      "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -235,22 +239,18 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "Electricity (salute Remix)",
-        "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        },
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
         }
       ],
-      "duration_ms": 250675,
-      "name": "Electricity (salute Remix)",
-      "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "DONGURI ZOO",
-        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 139384,
-      "name": "GORILLA",
-      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
-    },
-    {
-      "added_at": "2026-05-11 08:17:21",
-      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
+    },
+    {
+      "added_at": "2026-05-11 08:17:21",
+      "album": {
+        "name": "DONGURI ZOO",
+        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 139384,
+      "name": "GORILLA",
+      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
+        "name": "SWARMER",
+        "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
+      },
+      "artists": [
+        {
+          "name": "SYCLES",
+          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
+        }
+      ],
+      "duration_ms": 361643,
+      "name": "SWARMER",
+      "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
+    },
+    {
+      "added_at": "2026-05-11 08:17:21",
+      "album": {
         "name": "DANCING OTAKU",
         "url": "https://open.spotify.com/album/1XuDO93J7EGw4bf0kwFdya"
       },
@@ -811,18 +827,26 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "SWARMER",
-        "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
+        "name": "Attracted to you",
+        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
       },
       "artists": [
         {
-          "name": "SYCLES",
-          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        },
+        {
+          "name": "AFAMoo",
+          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
+        },
+        {
+          "name": "Lily June",
+          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
         }
       ],
-      "duration_ms": 361643,
-      "name": "SWARMER",
-      "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
+      "duration_ms": 162711,
+      "name": "Attracted to you",
+      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -859,26 +883,18 @@
     {
       "added_at": "2026-05-11 08:17:21",
       "album": {
-        "name": "Attracted to you",
-        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
+        "name": "Nulife",
+        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
       },
       "artists": [
         {
-          "name": "Uilou",
-          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
-        },
-        {
-          "name": "AFAMoo",
-          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
-        },
-        {
-          "name": "Lily June",
-          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
         }
       ],
-      "duration_ms": 162711,
-      "name": "Attracted to you",
-      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
+      "duration_ms": 236675,
+      "name": "Nulife",
+      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
     },
     {
       "added_at": "2026-05-11 08:17:21",
@@ -895,22 +911,6 @@
       "duration_ms": 221290,
       "name": "PYFPDD",
       "url": "https://open.spotify.com/track/6sJbKZbCcDvF4udMdtf9uE"
-    },
-    {
-      "added_at": "2026-05-11 08:17:21",
-      "album": {
-        "name": "Nulife",
-        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
-      },
-      "artists": [
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        }
-      ],
-      "duration_ms": 236675,
-      "name": "Nulife",
-      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
     }
   ],
   "unique_name": "Tokyo Club Beat",

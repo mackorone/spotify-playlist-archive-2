@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-375 songs - 21 hr 42 min
+376 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
 | [Back to the Start](https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Back to the Start](https://open.spotify.com/album/5PNIo39qx1mVQnluO3UM4f) | 2:23 | 2026-05-12 |  |
 | [Bad Attitude](https://open.spotify.com/track/5zM9Qohifqmxn2vzxfpx2C) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Bad Attitude](https://open.spotify.com/album/0xNPYQ8vVS3wNDEaWKY3iw) | 4:29 | 2026-02-06 | 2026-03-20 |
+| [bad boys](https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [bad boys](https://open.spotify.com/album/6NPZtpg2T9s09EQubLdFGr) | 4:09 | 2026-05-18 |  |
 | [Bad Perfume](https://open.spotify.com/track/50IJUVhqz7WhOLMV4ZDl4d) | [KC Johns](https://open.spotify.com/artist/3QoFTL03dyRNkukUWVVwfK) | [Bad Perfume](https://open.spotify.com/album/6Kzv2P8X9OOHtZqgjV6iGf) | 2:52 | 2026-04-20 |  |
 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 | 2026-03-04 | 2026-04-16 |
 | [Balance Beam](https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Balance Beam](https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL) | 2:55 | 2026-03-09 | 2026-04-16 |

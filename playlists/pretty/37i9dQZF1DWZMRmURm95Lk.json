@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 48886,
+  "num_followers": 48888,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
-      },
-      "artists": [
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "VOCE e BATTERIA",
         "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 168593,
       "name": "Pedala e batteria (feat. Jovanotti)",
       "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Teoria Del Contrario Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Teoria Del Contrario Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "NO ROCKSTAR (feat. Marte) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/7CbDLCAlOWOyNZSstF7zB9"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2507,6 +2507,26 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Poco dopo mezzanotte",
+        "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 167961,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/4tpC8UMAe1Usi93NaKaez8"
       },
@@ -2559,26 +2579,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Poco dopo mezzanotte",
-        "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 167961,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "IncrEdible Freestyle, pt. IV",
         "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
       },
@@ -2603,26 +2603,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
       },
@@ -2639,26 +2619,6 @@
       "duration_ms": 96741,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Fuori di qua! (Stories) [2022 Remastered]",
-        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2691,6 +2651,46 @@
       "duration_ms": 207474,
       "name": "L'unica amica leale",
       "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Fuori di qua! (Stories) [2022 Remastered]",
+        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2987,30 +2987,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
       },
       "artists": [
         {
-          "name": "Joelz",
-          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         },
         {
-          "name": "Dave_Zeta",
-          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
         }
       ],
-      "duration_ms": 242758,
-      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
-      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+      "duration_ms": 148334,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
     }
   ],
   "unique_name": "Radici Hip-Hop",

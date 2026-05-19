@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1790226,
+  "num_followers": 1790438,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Better Off Alone (Laidback Luke Remix)",
-        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
-      },
-      "artists": [
-        {
-          "name": "Alice DJ",
-          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
-        }
-      ],
-      "duration_ms": 215246,
-      "name": "Better Off Alone - 1999 Original Hit Radio",
-      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 171360,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Better Off Alone (Laidback Luke Remix)",
+        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
+      },
+      "artists": [
+        {
+          "name": "Alice DJ",
+          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Better Off Alone - 1999 Original Hit Radio",
+      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+      "duration_ms": 401360,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 401360,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1783,42 +1803,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1904,13 +1900,13 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 276093,
-      "name": "In The Dark (feat. Christian Burns)",
-      "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1983,18 +1979,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
         }
       ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
+      "duration_ms": 276093,
+      "name": "In The Dark (feat. Christian Burns)",
+      "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
     },
     {
       "added_at": "2024-07-12 15:40:20",

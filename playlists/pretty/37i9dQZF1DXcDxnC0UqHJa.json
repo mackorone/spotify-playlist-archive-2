@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 442753,
+  "num_followers": 442743,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Between The Bars (EP)",
-        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 243436,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Between The Bars (EP)",
+        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Live From BBC Radio 2",
         "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "I Will Follow You Into The Dark",
-        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224692,
-      "name": "I Will Follow You Into The Dark",
-      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "The Circle Game [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
+      },
+      "artists": [
+        {
+          "name": "Tom Rush",
+          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "The Circle Game - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 291423,
       "name": "Traveling Alone (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "The Circle Game [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
-      },
-      "artists": [
-        {
-          "name": "Tom Rush",
-          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "The Circle Game - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Love At The Five & Dime",
         "url": "https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 254820,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 254820,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Little Hands",
+        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Simpson",
+          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 239299,
       "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Little Hands",
-        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Simpson",
-          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "How I Long for Peace",
         "url": "https://open.spotify.com/album/5Fc5PKHmDK4OMxjgHFvToG"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Sings Kacey Musgraves",
         "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
       },
@@ -1723,6 +1723,26 @@
       "duration_ms": 217524,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Black Eyed Dog",
+        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Black Eyed Dog",
+      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1747,26 +1767,6 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Black Eyed Dog",
-        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Black Eyed Dog",
-      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/1CXp8661MLzbPIymPcBTQQ"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        },
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 157018,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0CyjVAxHSg0O6QiObCQMOf"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "In Nashville",
         "url": "https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 282586,
       "name": "Both Sides Now (feat. Natalie Prass)",
       "url": "https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/1CXp8661MLzbPIymPcBTQQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 157018,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0CyjVAxHSg0O6QiObCQMOf"
     }
   ],
   "unique_name": "Folksy Covers",
