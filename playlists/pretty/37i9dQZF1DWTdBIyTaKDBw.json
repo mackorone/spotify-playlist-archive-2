@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 27879,
+  "num_followers": 27899,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "When I Dreamt of You",
-        "url": "https://open.spotify.com/album/3kDHlVhPnYyo6qFvhWOyzr"
+        "name": "Memory Within A Dream",
+        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
       },
       "artists": [
         {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+          "name": "Ky akasha",
+          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
         }
       ],
-      "duration_ms": 155951,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/34qshfO0PEUioprn00x3YW"
+      "duration_ms": 145500,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Memory Within A Dream",
-        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
+        "name": "When I Dreamt of You",
+        "url": "https://open.spotify.com/album/3kDHlVhPnYyo6qFvhWOyzr"
       },
       "artists": [
         {
-          "name": "Ky akasha",
-          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 145500,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
+      "duration_ms": 155951,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/34qshfO0PEUioprn00x3YW"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Libyus Music Sound History 2004\uff0d2010",
-        "url": "https://open.spotify.com/album/6LpqRBVORv0OScaWKm1eV2"
-      },
-      "artists": [
-        {
-          "name": "DJ Okawari",
-          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Flower Dance",
-      "url": "https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Mirage of the Mind",
         "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 139000,
       "name": "Whispers of Eden",
       "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Libyus Music Sound History 2004\uff0d2010",
+        "url": "https://open.spotify.com/album/6LpqRBVORv0OScaWKm1eV2"
+      },
+      "artists": [
+        {
+          "name": "DJ Okawari",
+          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Flower Dance",
+      "url": "https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "One Summer's Day",
-        "url": "https://open.spotify.com/album/1k3JSH4AZU2F68cQsvkKZn"
-      },
-      "artists": [
-        {
-          "name": "Smyang Piano",
-          "url": "https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS"
-        }
-      ],
-      "duration_ms": 168168,
-      "name": "One Summer's Day",
-      "url": "https://open.spotify.com/track/5gmwxFfSGC5s3xzGj8Om0k"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 123870,
       "name": "Dandelion's Lullaby",
       "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "One Summer's Day",
+        "url": "https://open.spotify.com/album/1k3JSH4AZU2F68cQsvkKZn"
+      },
+      "artists": [
+        {
+          "name": "Smyang Piano",
+          "url": "https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS"
+        }
+      ],
+      "duration_ms": 168168,
+      "name": "One Summer's Day",
+      "url": "https://open.spotify.com/track/5gmwxFfSGC5s3xzGj8Om0k"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
+      },
+      "artists": [
+        {
+          "name": "Shao Rong",
+          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
+        }
+      ],
+      "duration_ms": 279760,
+      "name": "Wild Rose",
+      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Natsukashi",
         "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
+        "name": "Kick This",
+        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
       },
       "artists": [
         {
-          "name": "Shao Rong",
-          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
         }
       ],
-      "duration_ms": 279760,
-      "name": "Wild Rose",
-      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
+      "duration_ms": 262000,
+      "name": "Sunflower Samurai",
+      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1003,22 +1019,6 @@
       "duration_ms": 151730,
       "name": "Sunlit",
       "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Kick This",
-        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Sunflower Samurai",
-      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "NKOHA 2K18",
-        "url": "https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "Jiraiya",
-      "url": "https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 219112,
       "name": "Yu Garden",
       "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "NKOHA 2K18",
+        "url": "https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Jiraiya",
+      "url": "https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+        "name": "The Shining Kingdom",
+        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
       },
       "artists": [
         {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+      "duration_ms": 156059,
+      "name": "The Shining Kingdom",
+      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "The Shining Kingdom",
-        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
       },
       "artists": [
         {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
         }
       ],
-      "duration_ms": 156059,
-      "name": "The Shining Kingdom",
-      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
-      },
-      "artists": [
-        {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 77946,
       "name": "Gold Powder",
       "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+      },
+      "artists": [
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Torimichi",
-        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
-      },
-      "artists": [
-        {
-          "name": "Coddneck",
-          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Torimichi",
-      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Ancient Bond",
         "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 164571,
       "name": "Ancient Bond",
       "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Torimichi",
+        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
+      },
+      "artists": [
+        {
+          "name": "Coddneck",
+          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Torimichi",
+      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Death Curse",
-      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 211304,
       "name": "Song of the Samurai",
       "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Death Curse",
+      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "FANTASTIC JOURNEY",
-        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
+        "name": "Nama",
+        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
       "artists": [
         {
-          "name": "Tsunenori",
-          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
+      "duration_ms": 161020,
+      "name": "Nama",
+      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
     }
   ],
   "unique_name": "oriental lofi",

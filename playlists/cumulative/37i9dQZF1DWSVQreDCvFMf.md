@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: El Manu, ORIGIN
 
-908 songs - 2 day 8 hr 13 min
+911 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Insomnia](https://open.spotify.com/track/09JLlQH8ZeqalIPmjP3BcX) | [Harana Sessions](https://open.spotify.com/artist/2WxvqNkysK74Z4HCXsvtMb) | [Insomnia](https://open.spotify.com/album/5cfsic3zailYtWo7J7xfKP) | 4:13 | 2026-01-19 | 2026-03-07 |
 | [Internet](https://open.spotify.com/track/2LAXvVPg2vvpz9Pem8DCpm) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Internet](https://open.spotify.com/album/4azVeonW08hNKms8iIV2K6) | 3:33 | 2025-04-07 | 2025-06-21 |
 | [Ipaalam Sana](https://open.spotify.com/track/76UGTkNqk1DfNn889CORwv) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5), [Eryck Paolo Sarsale](https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n) | [Lover Boy](https://open.spotify.com/album/6LGIL15YplCmZ9EAwWZgsy) | 3:30 | 2026-04-14 |  |
-| [ipakita](https://open.spotify.com/track/0IvHzwPRXSGdz5CKUdcZq2) | [Seann Jefferson](https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv) | [ipakita](https://open.spotify.com/album/0exGrmWQrRlG1c6xzo1ABJ) | 1:29 | 2026-03-27 |  |
+| [ipakita](https://open.spotify.com/track/0IvHzwPRXSGdz5CKUdcZq2) | [Seann Jefferson](https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv) | [ipakita](https://open.spotify.com/album/0exGrmWQrRlG1c6xzo1ABJ) | 1:29 | 2026-03-27 | 2026-05-20 |
 | [Isa Dalawa Tatlo](https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isa Dalawa Tatlo](https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv) | 4:36 | 2024-08-16 | 2024-11-23 |
 | [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/track/2RBTnmRliLzyXmTapebwEH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/album/6ratSC6J0LoJZx6LegrqOE) | 2:49 | 2026-05-08 |  |
 | [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 | 2026-05-01 |  |
@@ -363,7 +363,7 @@
 | [Kamusta Ka Na](https://open.spotify.com/track/1aJmDO2fZ4049C4VBhUHb4) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560), [Kayla](https://open.spotify.com/artist/0FneqzLCMxc6iSKtPxkUzW) | [Kamusta Ka Na](https://open.spotify.com/album/0UfhB7hJ5o7p80fs063hv6) | 3:24 | 2026-01-23 | 2026-03-10 |
 | [Kandarapa](https://open.spotify.com/track/6nHOthPB3o6MCXNZ0Fa6ta) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Method Adaptor](https://open.spotify.com/album/7hsFUqyMvYNWcjMLfi1oUp) | 4:15 | 2024-11-08 | 2025-02-01 |
 | [Kanina](https://open.spotify.com/track/0xQcF4j0CgSOi1XuARlCS2) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Kanina](https://open.spotify.com/album/30sBYoJO2t3WHsNECHUaJ1) | 2:35 | 2025-11-24 | 2026-02-03 |
-| [Kanlungan](https://open.spotify.com/track/15ImifrJismAGYOU13HOxS) | [Jarea](https://open.spotify.com/artist/6jCKFAMr6K1VthVjePuMau), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Kanlungan](https://open.spotify.com/album/3OBqBNQlJPLgFdco0vXCrE) | 3:58 | 2026-03-20 |  |
+| [Kanlungan](https://open.spotify.com/track/15ImifrJismAGYOU13HOxS) | [Jarea](https://open.spotify.com/artist/6jCKFAMr6K1VthVjePuMau), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Kanlungan](https://open.spotify.com/album/3OBqBNQlJPLgFdco0vXCrE) | 3:58 | 2026-03-20 | 2026-05-20 |
 | [Kanta kay Ella](https://open.spotify.com/track/5lrjZ9je6KX3z31PBt2HX8) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Kanta kay Ella](https://open.spotify.com/album/0tyTDNen4dgk3lcmsmiiyF) | 3:24 | 2026-02-20 | 2026-04-25 |
 | [Kapag Umuulan](https://open.spotify.com/track/1EEJpwlHs0VGsdiftN3MbX) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [Kapag Umuulan](https://open.spotify.com/album/77Vm6TNKJRAubRoV9I1Vts) | 3:24 | 2025-10-03 | 2025-12-09 |
 | [Kapangyarihan \- feat\. SB19](https://open.spotify.com/track/6FFtbC1K2aNeCS376paoHN) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pebble House, Vol\. 1: Kuwaderno](https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI) | 4:29 | 2025-09-29 | 2025-11-29 |
@@ -516,6 +516,7 @@
 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-24 | 2025-04-08 |
 | [muscle memory](https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [muscle memory](https://open.spotify.com/album/15tRnZHIJ2Cv2fdZ5FgzSJ) | 3:21 | 2026-01-30 | 2026-03-21 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-02 | 2024-08-31 |
+| [my crush and i will crush the system baby](https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [my crush and i will crush the system baby](https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ) | 1:57 | 2026-05-19 |  |
 | [My Heart](https://open.spotify.com/track/2lSD0oYG2WLma3Cqp03rKt) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [My Heart](https://open.spotify.com/album/5z8hTZy5TPbruzoQJOeuah) | 4:06 | 2026-03-20 | 2026-05-15 |
 | [My Love](https://open.spotify.com/track/5XautRhQSsfwFcgEat5Drm) | [HARA](https://open.spotify.com/artist/5mhbdpnv4NGarpDqub8Soj) | [My Love](https://open.spotify.com/album/1wvcSVc6PHn2Xs3BPb63Ix) | 2:54 | 2026-02-27 | 2026-04-25 |
 | [My Shawty](https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [My Shawty](https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D) | 3:16 | 2026-02-18 | 2026-04-01 |
@@ -565,7 +566,7 @@
 | [nursorry rhyme](https://open.spotify.com/track/5z69FCfiile0Kg3matRzbv) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [nursorry rhyme](https://open.spotify.com/album/3FdoTaZG4a1WUS0v8uKlXB) | 2:36 | 2025-09-19 | 2025-11-29 |
 | [Obviously](https://open.spotify.com/track/0Grd8iSitiuFvG5TAhDTby) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Obviously](https://open.spotify.com/album/1VBf34byuDuabBMECJOG34) | 5:14 | 2025-05-30 | 2025-10-25 |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-08 | 2024-09-25 |
-| [Oh My Lover](https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw) | [Steve Badiola](https://open.spotify.com/artist/0PT7Befyt4NRBHOee7IDQV) | [Oh My Lover](https://open.spotify.com/album/4TOeizOdVcxeyCYM3Gt3x2) | 4:08 | 2026-03-20 |  |
+| [Oh My Lover](https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw) | [Steve Badiola](https://open.spotify.com/artist/0PT7Befyt4NRBHOee7IDQV) | [Oh My Lover](https://open.spotify.com/album/4TOeizOdVcxeyCYM3Gt3x2) | 4:08 | 2026-03-20 | 2026-05-20 |
 | [Oh, Ano?](https://open.spotify.com/track/3pvDXA9FjDTHWKt9riw0NE) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [1621: BEGIN](https://open.spotify.com/album/3oFCmZl4MAR3ob7XRGCa9C) | 2:41 | 2026-03-13 | 2026-05-09 |
 | [Oh, Giliw](https://open.spotify.com/track/5oV4B6QECdCASfEfElcIQA) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Oh, Giliw](https://open.spotify.com/album/7naEAFv60JMoihI6OABet9) | 4:01 | 2024-07-02 | 2024-08-31 |
 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 | 2025-02-14 | 2025-05-31 |
@@ -652,6 +653,7 @@
 | [Pilit Pinili](https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Pilit Pinili](https://open.spotify.com/album/1wrSjJ6cWnolOVptINC7As) | 2:10 | 2026-03-24 |  |
 | [Pinaglaban](https://open.spotify.com/track/4Kt8WjjUi3ot5GBAPFDB3X) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Pinaglaban](https://open.spotify.com/album/2RRER38RGdbWCmb5JWGnu4) | 3:11 | 2024-07-26 | 2024-11-09 |
 | [Pinapaasa](https://open.spotify.com/track/5O6hOrPYNaWVhDgwrSppD7) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Pinapaasa](https://open.spotify.com/album/36gDnEzTVTfwM4PU4D91Vn) | 4:27 | 2025-09-26 | 2025-11-29 |
+| [Pinay Pa Rin](https://open.spotify.com/track/4lPqbA5d6wrgMfxdAOgJPf) | [Janno Gibbs](https://open.spotify.com/artist/6ty99gP6NrhgCOkMF2ONpy) | [Pinay Pa Rin](https://open.spotify.com/album/2SJsOcWr8O3T3cipOxi9KN) | 3:33 | 2026-05-19 |  |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-04 | 2025-02-13 |
 | [Pink Skies](https://open.spotify.com/track/5dOrxKSZ3MNpDNqWxBOjET) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [Pink Skies](https://open.spotify.com/album/7p8sDTU2sdxx7NsnqkSkah) | 4:51 | 2025-09-19 | 2025-11-29 |
 | [Pipiliin](https://open.spotify.com/track/0v8aGaYwqT9nbHYwh5WLAn) | [Andrew Ramos](https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI) | [Pipiliin](https://open.spotify.com/album/4AAkac2yx3xQKDua2jHt8U) | 3:38 | 2026-04-21 |  |
@@ -763,6 +765,7 @@
 | [Slow Dancing](https://open.spotify.com/track/2t956sQxFUWupGyN4hvKu6) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Slow Dancing](https://open.spotify.com/album/5GKO400SBwZ65elrPo0sNc) | 3:40 | 2024-07-02 | 2024-08-10 |
 | [so right](https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW) | [Mark Andre](https://open.spotify.com/artist/0RNyEwdrFJsyXzfCcVOYAZ) | [so right](https://open.spotify.com/album/2PIJJpQa1suxXmEFhHpQ9W) | 3:35 | 2026-01-19 | 2026-03-07 |
 | [Sori](https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq) | [Paolo Santos](https://open.spotify.com/artist/33kC1w8s5cXEi1zyJZuqSI) | [Sori](https://open.spotify.com/album/1wiC2nEgJOw7RCT0v5G22i) | 4:46 | 2024-07-02 | 2024-09-25 |
+| [Spell It Out](https://open.spotify.com/track/0eeQJzdeppwBUhUphmH0V6) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Spell It Out](https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s) | 2:40 | 2026-05-19 |  |
 | [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 | 2026-01-30 | 2026-03-21 |
 | [Stay](https://open.spotify.com/track/1LMjDnxP6WCOPMokNDY7F0) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY: CHAPTER 1: Stay](https://open.spotify.com/album/1zfOjsCThMx5B7B7K6b4tU) | 3:17 | 2026-05-08 |  |
 | [Stay Like This Forever](https://open.spotify.com/track/7hLOJR7SkleS537YK9ZcN4) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Stay Like This Forever](https://open.spotify.com/album/1lImHUD9pdog3bTROL6qEh) | 3:34 | 2025-06-27 | 2025-10-25 |

@@ -1883,6 +1883,32 @@
     },
     {
       "album": {
+        "name": "BEAST",
+        "url": "https://open.spotify.com/album/3USL1gNsYsAQhkjPIXEMTG"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        },
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162011,
+      "name": "BEAST",
+      "url": "https://open.spotify.com/track/3765c454FgYSfcfZJ5yy0p"
+    },
+    {
+      "album": {
         "name": "Basic Beater Beast",
         "url": "https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr"
       },
@@ -9217,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/4KzqqjQwdkqQofJm1RS7is"
+      },
+      "artists": [
+        {
+          "name": "Alex Hellcat",
+          "url": "https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168444,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/4GLtHUo06IzyqC3TBTMur1"
+    },
+    {
+      "album": {
         "name": "Get Motivated",
         "url": "https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT"
       },
@@ -13797,6 +13841,32 @@
     },
     {
       "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/701CGV1BeWNVUbDKDbZHzN"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185621,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/1SCVwglsCuuJNGBj8mLqH3"
+    },
+    {
+      "album": {
         "name": "Lipstick and Gunpowder",
         "url": "https://open.spotify.com/album/5ItUHJdPISPQXD0hS4TEGL"
       },
@@ -15172,7 +15242,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 185346,
       "name": "MMA Rooky",
       "url": "https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0"
@@ -16326,7 +16396,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 144277,
       "name": "NO Saints )",
       "url": "https://open.spotify.com/track/1hnaB8g1BImSqvtFxmZp2V"
@@ -18118,7 +18188,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 196386,
       "name": "Popgymnastik",
       "url": "https://open.spotify.com/track/6A9ZCLBd1m9Lh5njCWX2io"
@@ -21403,6 +21473,24 @@
     },
     {
       "album": {
+        "name": "SOAPBOX",
+        "url": "https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164476,
+      "name": "SOAPBOX - Single Version",
+      "url": "https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko"
+    },
+    {
+      "album": {
         "name": "Hope and Rage",
         "url": "https://open.spotify.com/album/0LsGh5AEyAsV8CgTcb1bu6"
       },
@@ -21664,6 +21752,24 @@
       "duration_ms": 219681,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/6fUPGgRSAZFWWv7KaK4f6q"
+    },
+    {
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6yTBYciGZ7QsSBReCm5sJC"
+      },
+      "artists": [
+        {
+          "name": "Eternal Rest Band",
+          "url": "https://open.spotify.com/artist/4cTVqclMcvlOi4LZw0E43j"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320730,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/48cLaWRmNedvte1QZ7NEyt"
     },
     {
       "album": {
@@ -25095,6 +25201,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/5UoW5mVzZuGerQnTHHwHBM"
+      },
+      "artists": [
+        {
+          "name": "TeethOut",
+          "url": "https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160308,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5QVvYGgfmcm5YUVQl27HsG"
+    },
+    {
+      "album": {
         "name": "Too Close For Comfort",
         "url": "https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF"
       },
@@ -25506,7 +25630,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 222437,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6aQertTfs9Yp9avMVNVyvS"
@@ -26076,7 +26200,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 247816,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/5LkI0G08PkQXYp3KIIcx4N"

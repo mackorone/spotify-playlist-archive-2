@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron! Mei Semones
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: fox capture plan
 
-559 songs - 1 day 16 hr 3 min
+561 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 | 2024-06-27 | 2024-11-15 |
 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-06-27 | 2024-08-09 |
 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-06-05 | 2025-08-01 |
-| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-05-01 |  |
+| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-05-01 | 2026-05-20 |
 | [Little Ghost \- feat.Ayana](https://open.spotify.com/track/5lRvtSHfQtZAc7Z3sCVVs4) | [Takeshi Kurihara](https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK), [彩菜](https://open.spotify.com/artist/7i4sDrUnoJZK5brWXdx0HS) | [Little Ghost \(feat.Ayana\)](https://open.spotify.com/album/2l2zImOdGQ77OqhqrPVLc2) | 7:17 | 2024-07-18 | 2024-11-08 |
 | [Liyoze Line Nangakithi](https://open.spotify.com/track/5q7fC6mCFVUr6FWg3w8dhx) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Liyoze Line Nangakithi](https://open.spotify.com/album/4INvgaGXRdna2ganfmKpDW) | 4:26 | 2026-05-14 |  |
 | [looping second](https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 4:48 | 2025-11-27 |  |
@@ -346,6 +346,7 @@
 | [No Rulebook](https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [No Rulebook](https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL) | 3:53 | 2024-07-11 | 2025-01-17 |
 | [No Title](https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg) | [Jun Miyakawa](https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [The Way \(Deluxe Edition\)](https://open.spotify.com/album/1k06f2ViOox957pPj2va5h) | 6:12 | 2025-07-24 | 2025-12-12 |
 | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/track/3Iev06PYajWQzH4CMQE78z) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [NOD YORC \(feat\. James Maddren\)](https://open.spotify.com/album/5g3r747VexI56BdgzoyQi2) | 5:41 | 2025-07-10 | 2025-11-28 |
+| [Not today](https://open.spotify.com/track/1qc7OiZej7ah818tYefk1R) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Yuka Kawabata](https://open.spotify.com/artist/5EnPzvbgBpteSYgt9A3Tpr) | [Not today](https://open.spotify.com/album/4ey0qdzpCg3g6fPFAdMlNi) | 3:28 | 2026-05-19 |  |
 | [Nothing Much](https://open.spotify.com/track/3e8p14OhUmrHbugk5aSg8f) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Nothing Much](https://open.spotify.com/album/2WGQ4kDAjeqZze2a2LzFTz) | 4:46 | 2024-09-19 | 2025-02-07 |
 | [Nothing New](https://open.spotify.com/track/5lVa0Xk92kBLl1Pbg1Gf8Z) | [INSTANT ALTER](https://open.spotify.com/artist/4fKUw2uU0uGJJUe523yzIf), [Natasha Agrama](https://open.spotify.com/artist/5IPHEpzQLhUPfrqt4BatR5), [Emilio Modeste](https://open.spotify.com/artist/3nzBo4Edo33cChnzfyraEG) | [Nothing New](https://open.spotify.com/album/46FslfGTc7UaEi5sgmIjyn) | 5:21 | 2025-07-24 | 2025-10-17 |
 | [NUTHIN BUT A “G” THANG](https://open.spotify.com/track/2bnWiqPqZM80JiXz0n3hUK) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [CREAM](https://open.spotify.com/album/65GIBuA6SrrV8pfjbcgtw7) | 4:58 | 2025-09-11 | 2026-02-06 |
@@ -395,6 +396,7 @@
 | [Respond/React \- Live at Blue Note NYC](https://open.spotify.com/track/3Vo9Ovxs9Rj1t0Y7peBiiE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Respond/React \(Live at Blue Note NYC\)](https://open.spotify.com/album/3LSSQ25aSyN7JhteAY8CCF) | 5:20 | 2025-11-20 |  |
 | [Rhönrad](https://open.spotify.com/track/3RROpb7rPzDDlYsjz13zq2) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Rhönrad](https://open.spotify.com/album/3GaP8KSTInvASPICrRXXbP) | 3:48 | 2025-06-05 | 2025-07-25 |
 | [Rippling](https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:03 | 2025-04-13 | 2025-08-20 |
+| [RISING \- from "Bridge" 2026 Take](https://open.spotify.com/track/1yABUuLzlKv40eFgnRJ05e) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [RISING \(from "Bridge" 2026 Take\)](https://open.spotify.com/album/04hdHgUHb8uxoNrb4dwcAX) | 4:37 | 2026-05-19 |  |
 | [Road to Ilha Grande](https://open.spotify.com/track/6vV2uc1YEmS7IXxPauGzJa) | [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Road to Ilha Grande](https://open.spotify.com/album/71caZmzyY8y1YRvSaLQK6D) | 5:54 | 2024-06-27 | 2024-11-08 |
 | [Rock With You](https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Rock With You](https://open.spotify.com/album/3znUwosEsjcKgqoMlUMVl6) | 4:50 | 2025-04-03 | 2025-07-18 |
 | [Rules](https://open.spotify.com/track/0rUuNudQpUBVIuGjbtBvRR) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Rules](https://open.spotify.com/album/0PglSvJf10SJtN20WP1DOL) | 3:05 | 2025-08-19 | 2025-09-05 |

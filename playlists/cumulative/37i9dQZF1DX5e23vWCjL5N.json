@@ -4865,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Lettera a Tedua",
+        "url": "https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Lettera a Tedua",
+      "url": "https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM"
+    },
+    {
+      "album": {
         "name": "Levitating High \ud80c\udc79 (con Papa V, Pitta, JOJO ABOT)",
         "url": "https://open.spotify.com/album/5nEEhbdUfEjej1KVSTn7Tm"
       },

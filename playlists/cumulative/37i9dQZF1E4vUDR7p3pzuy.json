@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "ABBYNORMAL VISION",
       "url": "https://open.spotify.com/track/1zfpdmv6yKN3F1gOCEt74M"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 246842,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4rJNXbSPVNZhG7XlwAVb6u"
@@ -1200,6 +1200,24 @@
       "duration_ms": 230219,
       "name": "Beyond The Crimson Gate",
       "url": "https://open.spotify.com/track/7D4StgNTM7UVTXXZR7MqmH"
+    },
+    {
+      "album": {
+        "name": "Bite Marks",
+        "url": "https://open.spotify.com/album/4boJjFjHLbhMYZ2ECn5vQe"
+      },
+      "artists": [
+        {
+          "name": "Patriarchy",
+          "url": "https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/3wmN8ABDSwM3PlZLwPmeT9"
     },
     {
       "album": {
@@ -3346,10 +3364,28 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5NSiRmiGoxTClRM1KwpkYr"
+    },
+    {
+      "album": {
+        "name": "Dark Side of Your Love",
+        "url": "https://open.spotify.com/album/7GD4vgjflLlFQD7krTF6lR"
+      },
+      "artists": [
+        {
+          "name": "Synthetik Blonde",
+          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275078,
+      "name": "Drive All Night (Still Leave Me Breathless)",
+      "url": "https://open.spotify.com/track/2EMbZwqrhzWSkqy8gUhJ9j"
     },
     {
       "album": {
@@ -3530,7 +3566,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -3876,7 +3912,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 257012,
       "name": "Fan The Flame",
       "url": "https://open.spotify.com/track/1XF6r3UxOwlpQO62d4hBIB"
@@ -4060,6 +4096,24 @@
       "duration_ms": 236487,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/6RBRTnyS7sdZ6ZmZhONs2p"
+    },
+    {
+      "album": {
+        "name": "Flesh Machines",
+        "url": "https://open.spotify.com/album/2hKRudUy7rB2VYiVrY4XGd"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1 Cro\u00ed",
+          "url": "https://open.spotify.com/artist/2anCI3ygSVSXfGMTDWhkbx"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Flesh Machines",
+      "url": "https://open.spotify.com/track/6l0mCYE5rXZFOMuqJBZb4e"
     },
     {
       "album": {
@@ -6628,7 +6682,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -6718,7 +6772,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
@@ -8082,7 +8136,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 305393,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2rEjcfaK9qYB2JLgbTB31Y"
@@ -8949,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "Peace by Proxy",
+        "url": "https://open.spotify.com/album/7FDSNh9AJqV33muJGu6m3Z"
+      },
+      "artists": [
+        {
+          "name": "LOR3L3I",
+          "url": "https://open.spotify.com/artist/0ABXow3UwspRj8AQMohIJu"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/366gS6Gh9FnrVsYRuyv4zO"
+    },
+    {
+      "album": {
         "name": "Roseblood",
         "url": "https://open.spotify.com/album/05TdhcsPNgOpgXp9fwuCp9"
       },
@@ -9314,6 +9386,24 @@
       "duration_ms": 204500,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/2fvKCHlsP7AboO4HMRrub3"
+    },
+    {
+      "album": {
+        "name": "Scorched Earth",
+        "url": "https://open.spotify.com/album/1IxQclt2G8PucjfMzZjvBB"
+      },
+      "artists": [
+        {
+          "name": "Grave Love",
+          "url": "https://open.spotify.com/artist/03fqBuB5ogXZYwlH8xEEAQ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325500,
+      "name": "Scorched Earth",
+      "url": "https://open.spotify.com/track/0kL8AvMG3Nb2bWetOUwiV6"
     },
     {
       "album": {
@@ -10192,7 +10282,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10430,7 +10520,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -10959,6 +11049,24 @@
     },
     {
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/0xDBnRgtcgjnpsBqls0ZsF"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222388,
+      "name": "The Bubble",
+      "url": "https://open.spotify.com/track/5YVDqPKTVbqGgwXIYt0cuk"
+    },
+    {
+      "album": {
         "name": "The Crushed",
         "url": "https://open.spotify.com/album/312mngp1sH77v9ZzWc3gc4"
       },
@@ -11024,7 +11132,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -11172,6 +11280,24 @@
       "duration_ms": 255111,
       "name": "The Foreign Game",
       "url": "https://open.spotify.com/track/7xlkE92w9mj87OXHdopf0m"
+    },
+    {
+      "album": {
+        "name": "The Girl In Room 9",
+        "url": "https://open.spotify.com/album/5zpXk19unE6IduKcYOjz5c"
+      },
+      "artists": [
+        {
+          "name": "The Exceptional Mr Hyde",
+          "url": "https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199636,
+      "name": "The Girl In Room 9",
+      "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
     },
     {
       "album": {
@@ -12102,7 +12228,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 116389,
       "name": "Toxic Kingdom",
       "url": "https://open.spotify.com/track/4O3M1FXfhxFOSesi0nSWPS"
@@ -12372,7 +12498,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 175344,
       "name": "under my skin (demo)",
       "url": "https://open.spotify.com/track/3U8porrSye8OTl8aOxZMi1"

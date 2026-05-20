@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211160,
+  "num_followers": 211152,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAACkUqkhqH0okXfTm6k0VBy7",
+  "snapshot_id": "agpWgAAAAADhIHo/QBkmzCO7+77IFLqt",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3333",
-        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "3333",
-      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
       "added_at": null,

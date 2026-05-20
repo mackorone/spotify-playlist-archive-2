@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34953,
+  "num_followers": 34955,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Por el Funk",
-        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
+        "name": "La Fundaci\u00f3n",
+        "url": "https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU"
       },
       "artists": [
         {
-          "name": "Dostrescinco",
-          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+          "name": "S\u00f3",
+          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Por el Funk",
-      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
+      "duration_ms": 269644,
+      "name": "La Moto del Benja",
+      "url": "https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "La Fundaci\u00f3n",
-        "url": "https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU"
+        "name": "Por el Funk",
+        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
       },
       "artists": [
         {
-          "name": "S\u00f3",
-          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
         }
       ],
-      "duration_ms": 269644,
-      "name": "La Moto del Benja",
-      "url": "https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P"
+      "duration_ms": 225373,
+      "name": "Por el Funk",
+      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Musica Pa'l Mundo",
+        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+      },
+      "artists": [
+        {
+          "name": "De Kiruza",
+          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "Liviano Como el Viento",
+      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -799,18 +815,38 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Musica Pa'l Mundo",
-        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
       },
       "artists": [
         {
-          "name": "De Kiruza",
-          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
         }
       ],
-      "duration_ms": 293013,
-      "name": "Liviano Como el Viento",
-      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "RE$FRIADO",
+        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
+      },
+      "artists": [
+        {
+          "name": "Kiddo Toto",
+          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
+        },
+        {
+          "name": "Wirchi",
+          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Baila el Funk",
+      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -843,42 +879,6 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "RE$FRIADO",
-        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
-      },
-      "artists": [
-        {
-          "name": "Kiddo Toto",
-          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
-        },
-        {
-          "name": "Wirchi",
-          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Baila el Funk",
-      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Sobrado",
         "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 163250,
       "name": "Sobrado",
       "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 326661,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 174273,
       "name": "Foulmouth",
       "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-03-20 03:00:24",

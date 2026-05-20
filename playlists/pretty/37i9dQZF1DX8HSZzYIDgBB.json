@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Rels B en portada.",
-  "num_followers": 40392,
+  "num_followers": 40397,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
         "name": "Poco a Poco (Remix)",
         "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 177099,
       "name": "Poco a Poco - Remix",
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Isla Disco",
-        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Mayag\u00fcez",
-      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
         "name": "No me fui porque quise",
         "url": "https://open.spotify.com/album/0pbChddIjWWBWwEcI0CvB5"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 181285,
       "name": "aguafresca",
       "url": "https://open.spotify.com/track/1FxJnpAlznk2pmgrZAQdkS"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -1303,6 +1287,42 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "El Juidero",
+        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        },
+        {
+          "name": "Los Misterios",
+          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Bajito a selva",
+      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "El Juidero",
-        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        },
-        {
-          "name": "Los Misterios",
-          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Bajito a selva",
-      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "Who's there / Vida",
         "url": "https://open.spotify.com/album/2xsYK6gmc0Zirq75RI4tDm"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2026-05-08 06:00:13",

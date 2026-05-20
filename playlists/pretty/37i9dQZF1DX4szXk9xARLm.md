@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,187 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,195 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 19 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 20 | [انا وانت سوا](https://open.spotify.com/track/1f2hNkDAGoVfjH4wIY7kzJ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا وانت سوا](https://open.spotify.com/album/0l5B4ZOolT5fasPcru5Qc7) | 2:34 |
 | 21 | [Tareky](https://open.spotify.com/track/22euUY2htIxug24Wfu1hTG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/6ZcmIgkKh6COUyXudJvT1j) | 4:20 |
-| 22 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
-| 23 | [LW](https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu) | 3:21 |
+| 22 | [LW](https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu) | 3:21 |
+| 23 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
 | 24 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 25 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 26 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 37 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
 | 38 | [Qabeel](https://open.spotify.com/track/0Aq9BOAm6Qbr264MupIUh8) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Qabeel](https://open.spotify.com/album/6BNvDpII7YrU4m6bAgrUpz) | 2:56 |
 | 39 | [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 |
-| 40 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
-| 41 | [Mafish Haga Sa'ba \- Music From El Prince TV Series](https://open.spotify.com/track/3FBd67OrCib3IShiFipILU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mafish Haga Sa'ba \(Music From El Prince TV Series\)](https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj) | 5:01 |
+| 40 | [Mafish Haga Sa'ba \- Music From El Prince TV Series](https://open.spotify.com/track/3FBd67OrCib3IShiFipILU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mafish Haga Sa'ba \(Music From El Prince TV Series\)](https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj) | 5:01 |
+| 41 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
 | 42 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
 | 43 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 44 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |

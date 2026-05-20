@@ -1,12 +1,12 @@
 {
   "description": "The Best Indie Tracks of the Moment w/ ThxSoMch",
-  "num_followers": 161584,
+  "num_followers": 161581,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFXPC5aUciAvqujpgoJ/BO08A71",
+  "snapshot_id": "AAAAANeYsOxbfbW0as/C8oVsy5VT9uo7",
   "tracks": [
     {
       "added_at": "2026-05-15 17:11:21",
@@ -91,6 +91,38 @@
       "duration_ms": 207066,
       "name": "Only The Good I Keep",
       "url": "https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD"
+    },
+    {
+      "added_at": "2026-05-19 18:34:05",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2026-05-19 18:34:05",
+      "album": {
+        "name": "Harm's Way",
+        "url": "https://open.spotify.com/album/6Tx7ZrUkYF0Z4b7IxumLw8"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Cathedral City",
+      "url": "https://open.spotify.com/track/1XMKiF1uSGdIcS5uXyytq9"
     },
     {
       "added_at": "2026-05-15 17:11:21",

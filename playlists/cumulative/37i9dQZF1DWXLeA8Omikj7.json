@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 256673,
       "name": "Acrobat",
       "url": "https://open.spotify.com/track/5UEM8XAADYEki5PBqR9wbI"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 287995,
       "name": "Circle The Sun",
       "url": "https://open.spotify.com/track/0Y3JtlNwFkF4qbka3VfPK3"
@@ -4221,6 +4221,28 @@
     },
     {
       "album": {
+        "name": "Dentro La Notte, La Luce dell'Alba",
+        "url": "https://open.spotify.com/album/3BNssksmwBUhqgCZ8x4baO"
+      },
+      "artists": [
+        {
+          "name": "Jolly Mare",
+          "url": "https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO"
+        },
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395803,
+      "name": "Dentro La Notte, La Luce dell'Alba",
+      "url": "https://open.spotify.com/track/5Ydak7JgQYYVbit7p93wyF"
+    },
+    {
+      "album": {
         "name": "Departure to the Stars",
         "url": "https://open.spotify.com/album/5trnv1rf4N7HSru0G0HiA5"
       },
@@ -5140,7 +5162,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 403000,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/4C3h7xp39TFx3MOfR7z7bk"
@@ -6178,6 +6200,28 @@
       "duration_ms": 342037,
       "name": "Every Weather",
       "url": "https://open.spotify.com/track/2tenVKEpKLAVWq8xO5ivk1"
+    },
+    {
+      "album": {
+        "name": "Everything (For You)",
+        "url": "https://open.spotify.com/album/1O3tFq2s2PVpYloglREsCb"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        },
+        {
+          "name": "Tonguetied",
+          "url": "https://open.spotify.com/artist/0WQdXl2tjnmA93byaXAB0M"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293572,
+      "name": "Everything (For You)",
+      "url": "https://open.spotify.com/track/5hMmrmRehtyFsmi3dvLVpV"
     },
     {
       "album": {
@@ -11189,6 +11233,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2Hpt14C9hBXuUXe2IZRb9B"
+      },
+      "artists": [
+        {
+          "name": "Else",
+          "url": "https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/76D0QaPXfnofucHcsVCV32"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo"
       },
@@ -11218,7 +11280,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 236000,
       "name": "Love",
       "url": "https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2"
@@ -11442,7 +11504,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 288000,
       "name": "Maova",
       "url": "https://open.spotify.com/track/7rE7z8DJpCXogrfGgess34"
@@ -19635,6 +19697,24 @@
     },
     {
       "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278267,
+      "name": "The Shape Of Memory",
+      "url": "https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB"
+    },
+    {
+      "album": {
         "name": "The Shimmering",
         "url": "https://open.spotify.com/album/406awJt91WNjFqcFDxQgwN"
       },
@@ -19798,6 +19878,24 @@
       "duration_ms": 270150,
       "name": "There is Nowhere",
       "url": "https://open.spotify.com/track/5RfgXcobIzarx0SXf0GGrZ"
+    },
+    {
+      "album": {
+        "name": "There\u2019s Something Here for Us Both",
+        "url": "https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "There\u2019s Something Here for Us Both",
+      "url": "https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr"
     },
     {
       "album": {
@@ -20032,7 +20130,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 190528,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL"
@@ -21154,7 +21252,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 316410,
       "name": "volc4",
       "url": "https://open.spotify.com/track/3IExaQvA4xa2Fv61xCVuip"

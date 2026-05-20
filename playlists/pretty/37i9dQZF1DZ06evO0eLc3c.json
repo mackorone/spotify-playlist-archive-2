@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 54435,
+  "num_followers": 54438,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAB+TMCzhubsnU2XRK/DEo/",
+  "snapshot_id": "agpWgAAAAAA5ZDWYmQ7XJfjxqEescfE9",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 189733,
       "name": "Ask the Angels",
       "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 174503,
-      "name": "The Hunter Gets Captured by The Game",
-      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 174503,
+      "name": "The Hunter Gets Captured by The Game",
+      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235810,
       "name": "Farewell Reel",
       "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
-        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
-      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 196346,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
+        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
+      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
     }
   ],
   "unique_name": "This Is Patti Smith",

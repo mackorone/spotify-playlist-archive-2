@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
-  "num_followers": 584743,
+  "num_followers": 584807,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Bonded by Blood",
-      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "The Formation of Damnation",
         "url": "https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 273226,
       "name": "More Than Meets the Eye",
       "url": "https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Bonded by Blood",
+      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "The Ultra-Violence",
         "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 633600,
       "name": "The Ultra-Violence",
       "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Knee-Deep in the Dead",
-        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
+        "name": "Decade of Revival",
+        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
         }
       ],
-      "duration_ms": 267253,
-      "name": "Mad Dictator",
-      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
+      "duration_ms": 177206,
+      "name": "Space Seed",
+      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1775,8 +1775,8 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Decade of Revival",
-        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
+        "name": "Knee-Deep in the Dead",
+        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
       },
       "artists": [
         {
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Space Seed",
-      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
+      "duration_ms": 267253,
+      "name": "Mad Dictator",
+      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Downfall of Mankind",
-        "url": "https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Kill the Silence",
-      "url": "https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "The Return of Gor Gor",
-        "url": "https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ"
+        "name": "Downfall of Mankind",
+        "url": "https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj"
       },
       "artists": [
         {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 206185,
-      "name": "Tyrant King",
-      "url": "https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu"
+      "duration_ms": 209413,
+      "name": "Kill the Silence",
+      "url": "https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1947,6 +1931,22 @@
       "duration_ms": 107773,
       "name": "Bombs of Death",
       "url": "https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "The Return of Gor Gor",
+        "url": "https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "duration_ms": 206185,
+      "name": "Tyrant King",
+      "url": "https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Electrified Brain",
-        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Crank The Heat",
-      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Crisix Session # 1: American Thrash",
         "url": "https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 256880,
       "name": "World in a World",
       "url": "https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Electrified Brain",
+        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Crank The Heat",
+      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Spread the Fire",
-        "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
-      },
-      "artists": [
-        {
-          "name": "Fueled By Fire",
-          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Thrash Is Back",
-      "url": "https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Schizophrenia (Re-Recorded)",
         "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 258953,
       "name": "Nightmares Of Delirium",
       "url": "https://open.spotify.com/track/1ra04CMFjC869EOb6T6cmN"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Spread the Fire",
+        "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
+      },
+      "artists": [
+        {
+          "name": "Fueled By Fire",
+          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
+        }
+      ],
+      "duration_ms": 314786,
+      "name": "Thrash Is Back",
+      "url": "https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2307,6 +2307,38 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Diabolical",
+        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "duration_ms": 249159,
+      "name": "Diabolical",
+      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
+      },
+      "artists": [
+        {
+          "name": "Paladin",
+          "url": "https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ"
+        }
+      ],
+      "duration_ms": 341804,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
         "url": "https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI"
       },
@@ -2343,38 +2375,6 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Diabolical",
-        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 249159,
-      "name": "Diabolical",
-      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
-      },
-      "artists": [
-        {
-          "name": "Paladin",
-          "url": "https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ"
-        }
-      ],
-      "duration_ms": 341804,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Exiled To The Surface",
-        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 249531,
-      "name": "66 Exeter Street",
-      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Let the World Burn",
         "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
       },
@@ -2807,6 +2791,22 @@
       "duration_ms": 327953,
       "name": "Upon Their Cross",
       "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Exiled To The Surface",
+        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 249531,
+      "name": "66 Exeter Street",
+      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Non-Existent",
-        "url": "https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr"
-      },
-      "artists": [
-        {
-          "name": "Fueled By Fire",
-          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
-        }
-      ],
-      "duration_ms": 183208,
-      "name": "Non-Existent",
-      "url": "https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "The Affair of the Poisons",
         "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 295507,
       "name": "The Affair of the Poisons",
       "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Non-Existent",
+        "url": "https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr"
+      },
+      "artists": [
+        {
+          "name": "Fueled By Fire",
+          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
+        }
+      ],
+      "duration_ms": 183208,
+      "name": "Non-Existent",
+      "url": "https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Killer Of Killers",
-        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
-      },
-      "artists": [
-        {
-          "name": "Zig Zags",
-          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Killer Of Killers",
-      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "BATS",
         "url": "https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 300120,
       "name": "Egyptron",
       "url": "https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Killer Of Killers",
+        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
+      },
+      "artists": [
+        {
+          "name": "Zig Zags",
+          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Killer Of Killers",
+      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3023,6 +3023,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Mochado",
+        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Mochado",
+      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Brace for Impact",
         "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
       },
@@ -3051,38 +3067,6 @@
       "duration_ms": 230066,
       "name": "Our Lady of Speed",
       "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Mochado",
-        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Mochado",
-      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Origins Of Aggression",
-        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 114066,
-      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
-      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3119,6 +3103,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Origins Of Aggression",
+        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 114066,
+      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
+      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Leave Nothing Behind",
         "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
       },
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "The Force (Remastered 2011)",
-        "url": "https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 396813,
-      "name": "Metal Forces - Remastered 2011",
-      "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Maze of the Mind",
         "url": "https://open.spotify.com/album/58Mk3M4fY8aG2kFImtQTAA"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 249346,
       "name": "In Thrash We Trust",
       "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "The Force (Remastered 2011)",
+        "url": "https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 396813,
+      "name": "Metal Forces - Remastered 2011",
+      "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
     },
     {
       "added_at": "2026-02-06 16:07:07",

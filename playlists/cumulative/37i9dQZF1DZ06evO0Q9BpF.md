@@ -4,7 +4,7 @@
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-130 songs - 14 hr 0 min
+131 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/5zTXKukEkW61syADjVW9L7) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 10:45 | 2024-11-26 |  |
 | [Dios Incomparable 1.2](https://open.spotify.com/track/0bxgCc46Xl32OYnG80wrXh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Remix 1.2](https://open.spotify.com/album/0h2c6iUGc8bM4dSJjB35Bq) | 3:41 | 2024-11-26 |  |
 | [Dios Incomparable 1.2 \(feat\. Marco Barrientos\)](https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Remix 1.2](https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3) | 3:41 | 2024-03-30 | 2024-11-26 |
+| [El Hijo De Dios](https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [El Hijo De Dios](https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw) | 5:47 | 2026-05-20 |  |
 | [Encontré](https://open.spotify.com/track/00VCFAwKLG8iIrfuWPlpR2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 7:55 | 2023-04-02 | 2024-03-27 |
 | [Encontré](https://open.spotify.com/track/7sJso6WxzD0AUgyzm9SdGW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 7:55 | 2024-03-26 | 2025-11-22 |
 | [Encontré \- En Vivo](https://open.spotify.com/track/0ljoTJgoWAdgOIXtKoJcny) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 7:55 | 2025-11-22 |  |

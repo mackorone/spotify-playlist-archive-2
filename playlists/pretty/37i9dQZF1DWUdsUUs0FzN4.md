@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con Fito Silva, Cachirula y LOOJAN hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,435 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,437 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 21 | [GANGTEL](https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GANGTEL](https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW) | 2:56 |
 | 22 | [No Hay Nah](https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [No Hay Nah](https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W) | 3:08 |
 | 23 | [Uno De Eses Gatos](https://open.spotify.com/track/7yG955s3KEoDrJkx5qa3WY) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:45 |
-| 24 | [No veo bien](https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
-| 25 | [PERDIÉNDOME EN EL MOOD](https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb) | [ITALO MIXTAPE](https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG) | 2:51 |
+| 24 | [PERDIÉNDOME EN EL MOOD](https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb) | [ITALO MIXTAPE](https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG) | 2:51 |
+| 25 | [No veo bien](https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
 | 26 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
 | 27 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
 | 28 | [Loco Contigo](https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco Contigo](https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp) | 2:48 |
-| 29 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
-| 30 | [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 |
+| 29 | [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 |
+| 30 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
 | 31 | [Pupilas](https://open.spotify.com/track/2qJqelZWIDkwYbNhJeSYFg) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Pupilas](https://open.spotify.com/album/4o5oja6EsezIFPdwfZhV2e) | 3:12 |
 | 32 | [betty boop](https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [betty boop](https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt) | 2:36 |
 | 33 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 |

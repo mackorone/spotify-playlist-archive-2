@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-384 songs - 1 day 1 hr 57 min
+385 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [覚醒シン・アスカ](https://open.spotify.com/track/7CX8iF94cbuiZT9DTBqJPg) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 2](https://open.spotify.com/album/5kSfKduD6kLQ76JmOpeh24) | 1:49 | 2024-01-27 |  |
 | [遠い記憶](https://open.spotify.com/track/2OwfPv0pQUegppj9xNW79U) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [遠い記憶](https://open.spotify.com/album/33Vbs8fOIG5nAEkgxtqyJV) | 4:14 | 2022-07-27 | 2023-06-10 |
 | [遠雷 〜遠くにある明かり〜](https://open.spotify.com/track/2BY3sslLXvGBoRmlVxQGGt) | [HIGH and MIGHTY COLOR](https://open.spotify.com/artist/68vPeaQOlnY1aA3iBKCEpG) | [参](https://open.spotify.com/album/5zmnBCHxv3euQ8Hm9j974K) | 4:24 | 2024-01-11 |  |
+| [金字塔](https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [金字塔](https://open.spotify.com/album/4YlNSnSJwiqx9koO9S9l13) | 4:46 | 2026-05-19 |  |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2022-07-27 |  |
 | [閉ざされた世界](https://open.spotify.com/track/5ilBO8iKJLgxhj2eFTE1i9) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アサイラム](https://open.spotify.com/album/5Iabzqqw8kKxNuhFTG0Fap) | 4:50 | 2022-07-27 |  |
 | [静かな夜に](https://open.spotify.com/track/7sKoW5NArHgY4WoYSnQFFt) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [静かな夜に](https://open.spotify.com/album/5v9b2h2Xs8CSZUTIKDggmZ) | 4:53 | 2024-01-27 |  |

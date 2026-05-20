@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,104 songs - 2 day 9 hr 2 min
+1,105 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2024-11-08 | 2025-01-25 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2025-03-28 | 2025-05-16 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-03 | 2024-08-09 |
-| [Fan2moi](https://open.spotify.com/track/1IhZZzIVb546EIbVPNoHcw) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3lcWJJpDtDBlTMLu7kpcgd) | 3:10 | 2026-03-20 |  |
+| [Fan2moi](https://open.spotify.com/track/1IhZZzIVb546EIbVPNoHcw) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3lcWJJpDtDBlTMLu7kpcgd) | 3:10 | 2026-03-20 | 2026-05-20 |
 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-04-18 | 2025-10-11 |
 | [Fatigué \(Speed Up\)](https://open.spotify.com/track/0LzDghbtu9fGZwIuTi1YjG) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [Fatigué](https://open.spotify.com/album/2FB1K8aX5aMJulT3PIn5eC) | 2:24 | 2024-04-05 | 2024-04-19 |
 | [Fatigué \- Speed Up](https://open.spotify.com/track/1DDo206GWOkANENV5gjZdX) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [Fatigué](https://open.spotify.com/album/6ua3siioK5BmuAFMvuUdDp) | 2:24 | 2024-04-05 | 2024-06-29 |
@@ -897,6 +897,7 @@
 | [Se\-vrak](https://open.spotify.com/track/2PPbiHIoyr8yMGOfyZMR2X) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Le bruit de mon âme](https://open.spotify.com/album/3CXUsBNZx5yumUzihzq82M) | 4:14 | 2025-03-07 | 2025-06-21 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-21 | 2023-09-10 |
 | [Seklenland, Pt.1](https://open.spotify.com/track/3hOnpHlXrgxTb66TM1PYBk) | [H.LA DROGUE](https://open.spotify.com/artist/2tgTUUrbrQd6iuAjW5BQI7) | [Seklenland, Pt.1](https://open.spotify.com/album/72GEg1dVPB1LdSZEqbwG8d) | 2:41 | 2024-06-28 | 2024-07-20 |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-19 |  |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-03 | 2025-04-16 |
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-19 | 2024-02-17 |
 | [Serrure \#3](https://open.spotify.com/track/1OORbnoHMf1Iy7HVa2n521) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#3](https://open.spotify.com/album/2RajtZ8lghhX1rxA3Q6hN8) | 2:17 | 2024-01-26 | 2024-04-20 |

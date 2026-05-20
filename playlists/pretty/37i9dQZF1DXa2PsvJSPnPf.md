@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,903 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,897 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 95 | [Falling Snow in Santa Fe](https://open.spotify.com/track/5cniB9uCQHULDoYPqxGfms) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Falling Snow in Santa Fe](https://open.spotify.com/album/7COeOahgGmkCcy3riGWJLF) | 3:40 |
 | 96 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 |
 | 97 | [Picasso](https://open.spotify.com/track/61lEtBJFRuC8Ssf007KI7A) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/2eTVwNCb5MD6rESetU4t4M) | 3:41 |
-| 98 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 |
-| 99 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 |
+| 98 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 |
+| 99 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 |
 | 100 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
 
 Snapshot ID: `AAAAABLvk181JpOaPrTZI6c2Bzq217lj`

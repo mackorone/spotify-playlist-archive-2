@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 496680,
+  "num_followers": 496689,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAB3qdtZhGp9gIdS99LHeKcF",
+  "snapshot_id": "agpWgAAAAAA4uBripOLwKvk/YswkZEfB",
   "tracks": [
     {
       "added_at": null,
@@ -543,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man On The Moon III: The Chosen",
-        "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Show Out (with Skepta & Pop Smoke)",
-      "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -591,6 +567,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Man On The Moon III: The Chosen",
+        "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Show Out (with Skepta & Pop Smoke)",
+      "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 121080,
       "name": "Meet the Woo",
       "url": "https://open.spotify.com/track/7svGHGXAvXr68wgsZIlBlW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AP (Music from the film Boogie) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3MN7fVEK68cLhuN6ULtX5T"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "AP (Music from the film Boogie) (Original Soundtrack)",
-      "url": "https://open.spotify.com/track/0g7zmpC462tfLjVhdzLGcX"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 214825,
       "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
       "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AP (Music from the film Boogie) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3MN7fVEK68cLhuN6ULtX5T"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "AP (Music from the film Boogie) (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/0g7zmpC462tfLjVhdzLGcX"
     },
     {
       "added_at": null,

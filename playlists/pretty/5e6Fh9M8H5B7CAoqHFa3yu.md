@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,296 songs - 5 day 15 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,306 songs - 5 day 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1820,7 +1820,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1810 | [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 |
 | 1811 | [The Kindling Starts it All](https://open.spotify.com/track/5whyJ4wKqDjaQmxx3mg1QI) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 3:30 |
 | 1812 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 |
-| 1813 | [RIDING DINAMITE](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [RIDING DINAMITE](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 |
+| 1813 | [Riding Dinamite](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Riding Dinamite](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 |
 | 1814 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 |
 | 1815 | [Age Is Just a Number](https://open.spotify.com/track/3vfNDbSrX7YMud5J4GFYKd) | [Avishek Majumder](https://open.spotify.com/artist/5j14w561gMuuLadnPT26jo) | [Age Is Just a Number](https://open.spotify.com/album/0gIAxNxdsmmsHdKPXCdh89) | 2:59 |
 | 1816 | [Sisa Cahaya](https://open.spotify.com/track/2MvWTckCHPDDEB8LsOuqb4) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Jebah](https://open.spotify.com/album/3dJFBa3rJi3tuscBOa6QSE) | 3:45 |
@@ -2304,5 +2304,15 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2294 | [Skin](https://open.spotify.com/track/71RJZrbmp20yDxm3Qnisl0) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Skin](https://open.spotify.com/album/0pAIuEg4yg98NbX1JA9TI5) | 3:57 |
 | 2295 | [When the Locks Break](https://open.spotify.com/track/3567fY934M6ccN3LEV2k7j) | [Freddie](https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT) | [When the Locks Break](https://open.spotify.com/album/6JFZmJb1QZ23pMn437fFP9) | 3:54 |
 | 2296 | [Abc \(L Hate Jiggi\)](https://open.spotify.com/track/1XhQuONgrR2RBdXda24n69) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [NBD TOUBIEY](https://open.spotify.com/artist/30wLa6xEyDBxeRJzwyEpPu), [NBD YOUNG LORD](https://open.spotify.com/artist/5KxzPbKVTz8hYw5cMXhCaO), [NBD Boii gee](https://open.spotify.com/artist/7f2t6HujSWvN6zIEkcV7UD) | [Abc \(L Hate Jiggi\)](https://open.spotify.com/album/2IGo1ttt3RuFaSL0acGaoI) | 2:47 |
+| 2297 | [The Pendulum of Neon](https://open.spotify.com/track/2BnjZOBRRRRw3n7FPBOYSe) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 4:38 |
+| 2298 | [Be Worth You](https://open.spotify.com/track/4N1ckCu5nN4V0HoouL64RI) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Be Worth You](https://open.spotify.com/album/6btTLln5WbbTjjx364Z8e6) | 4:34 |
+| 2299 | [Losing Faith In Everything And Emptied On I\-10](https://open.spotify.com/track/1daBzwf4AtmgpsozhA558t) | [Ambergrove](https://open.spotify.com/artist/3kQKkPF715ZFIubJtoFT1V) | [Losing Faith In Everything And Emptied On I\-10](https://open.spotify.com/album/3O85EaGCoC4AA4lNoj0xne) | 3:48 |
+| 2300 | [Lost in the Glow](https://open.spotify.com/track/2icAlp0PCPb6qpAPZwFGam) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Empire of Ash](https://open.spotify.com/album/0tAo4LOCGaz1fHj5d3ZI01) | 3:32 |
+| 2301 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 |
+| 2302 | [Frío](https://open.spotify.com/track/4rbPUfo46Aa90VDk293dlu) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [Frío](https://open.spotify.com/album/4OKBpSYyczTbXn7BOfWUGZ) | 2:43 |
+| 2303 | [Pizza Chilli](https://open.spotify.com/track/5ApKuzKc6hoEYL3hBL4rkj) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Chilli](https://open.spotify.com/album/5K9urh9zUIBi3Uc8XCVdgt) | 2:29 |
+| 2304 | [Hasta el Más Allá](https://open.spotify.com/track/3gSDO1m8SzYqFImINjHrFe) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Hasta el Más Allá](https://open.spotify.com/album/2wxFNeFCKuXgmFeWUcyhnZ) | 2:53 |
+| 2305 | [Girl Like You](https://open.spotify.com/track/5IbE8DrxRrAXqqUD6izA9I) | [Knixxen Out](https://open.spotify.com/artist/6HZX9q925tlM4XUXZDxlIr) | [Girl Like You](https://open.spotify.com/album/5WVQxQdccXjIFIyGg8M5Ug) | 3:24 |
+| 2306 | [Stay 2 \(Closer\)](https://open.spotify.com/track/6gbnhvUml4osaxAfTwZ1ZQ) | [Lex Rush](https://open.spotify.com/artist/0XtrPIfMfSwzQsh1pEu345), [Becky Krill](https://open.spotify.com/artist/5nxZIgo7DavlytCT1lfCxU) | [Stay 2 \(Closer\)](https://open.spotify.com/album/1ifEU2M2ntGIsU433G7GyT) | 4:21 |
 
-Snapshot ID: `AAAJozx9F1m8QCiGHdqYExfHLWtTahL7`
+Snapshot ID: `AAAJrc1hiPYxKp97lrEou36HmzWRG5oK`

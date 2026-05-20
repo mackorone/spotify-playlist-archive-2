@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 149380,
+  "num_followers": 149393,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAA0BlhO8kaH5/1z8xtZDgyO",
+  "snapshot_id": "agpWgAAAAAD4Pl488DkTaCEc+1Dua1/5",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 174320,
+      "name": "East Of The Sun (West Of The Moon)",
+      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 174320,
-      "name": "East Of The Sun (West Of The Moon)",
-      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,

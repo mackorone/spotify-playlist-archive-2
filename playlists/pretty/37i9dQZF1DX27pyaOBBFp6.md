@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,741 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,749 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 47 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 |
 | 48 | [Het vlooiencircus](https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:52 |
 | 49 | [Swiebertje](https://open.spotify.com/track/6ffETXUkqnGug5hev2G765) | [Joop Doderer](https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW), [De Damrakkertjes](https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg) | [Televisie\-Vriendjes](https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV) | 2:39 |
-| 50 | [Blommenkinders](https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:32 |
-| 51 | [Tachtig Rode Rozen](https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi) | [Hollands Glorie](https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F) | 2:26 |
+| 50 | [Tachtig Rode Rozen](https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi) | [Hollands Glorie](https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F) | 2:26 |
+| 51 | [Blommenkinders](https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:32 |
 | 52 | [De Ploem\-Ploem Jenka](https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:01 |
 | 53 | [De Winter Was Lang](https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:17 |
 | 54 | [Kangaroe Eiland](https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [De Regenboog Serie: Cocktail Trio](https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu) | 2:26 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 57 | [Frater Venantius \- Live](https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Een Avond Met Wim Sonneveld](https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI) | 8:19 |
 | 58 | [Vanavond Om Kwart Over Zes Ben Ik Vrij](https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:29 |
 | 59 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
-| 60 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
+| 60 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
 | 61 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 |
-| 62 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
+| 62 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
 | 63 | [Mijn Dagboek](https://open.spotify.com/track/1ivPaxFyaHT8rlphPx5vO8) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:00 |
 | 64 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
 | 65 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |

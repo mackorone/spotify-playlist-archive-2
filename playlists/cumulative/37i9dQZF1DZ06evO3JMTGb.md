@@ -4,7 +4,7 @@
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-56 songs - 5 hr 10 min
+57 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 | 2026-03-19 |  |
 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 | 2026-03-19 |  |
 | [Calibrating Sense](https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 4:02 | 2026-03-19 |  |
+| [Collecting eyes](https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 8:41 | 2026-05-20 |  |
 | [Comes with sunrise](https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:19 | 2026-03-19 |  |
 | [Comes with sunset](https://open.spotify.com/track/4e157x1JCcUXwkij1ZPhEK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 1:46 | 2026-04-17 | 2026-04-29 |
 | [Connotes Beauty](https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:50 | 2026-03-19 |  |
@@ -53,7 +54,7 @@
 | [Runge](https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:54 | 2026-03-19 |  |
 | [Silver Age](https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:11 | 2026-03-19 |  |
 | [Slow Piru](https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 6:53 | 2026-03-19 |  |
-| [Stars on the ground](https://open.spotify.com/track/1HOlpttdxR7fmgEeJrcDt8) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 5:15 | 2026-03-19 |  |
+| [Stars on the ground](https://open.spotify.com/track/1HOlpttdxR7fmgEeJrcDt8) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 5:15 | 2026-03-19 | 2026-05-20 |
 | [Sudany](https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:20 | 2026-03-19 |  |
 | [Sugi](https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:52 | 2026-03-19 |  |
 | [Suosan](https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:38 | 2026-03-19 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAB/2sm7BPCuR1kBB+l7u05b",
+  "snapshot_id": "agpWgAAAAABbgtNNXhs9PMRsBpikq5qc",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Little Walter",
-        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 162800,
-      "name": "Tell Me Mama",
-      "url": "https://open.spotify.com/track/7zJ2O12mVRbZyOYbok9WrN"
+      "duration_ms": 143840,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 143840,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
+      "duration_ms": 162800,
+      "name": "Tell Me Mama",
+      "url": "https://open.spotify.com/track/7zJ2O12mVRbZyOYbok9WrN"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
@@ -667,6 +667,30 @@
       "duration_ms": 138360,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
       "added_at": null,
@@ -711,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Blue Light - Single Version",
+      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -728,25 +768,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Little Walter",
-        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Blue Light - Single Version",
-      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+      "duration_ms": 209826,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
       "added_at": null,
@@ -779,30 +803,6 @@
       "duration_ms": 188413,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
       "added_at": null,

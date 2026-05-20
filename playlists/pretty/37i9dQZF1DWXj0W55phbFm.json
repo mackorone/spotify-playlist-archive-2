@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 86652,
+  "num_followers": 86678,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 179840,
       "name": "I Lost My Gal from Memphis",
       "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1275,6 +1275,38 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "I Am a Man (with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan)",
         "url": "https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80"
       },
@@ -1303,38 +1335,6 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
-      },
-      "artists": [
-        {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1435,50 +1435,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Complete Recordings",
-        "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Ruby Braff",
-          "url": "https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA"
-        },
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 298493,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Hubsongs",
-        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        },
-        {
-          "name": "Marcus Printup",
-          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Hub Cap",
-      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1507,18 +1463,46 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
-        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
+        "name": "Hubsongs",
+        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
       },
       "artists": [
         {
-          "name": "Mugsy Spanier",
-          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
+      "duration_ms": 265200,
+      "name": "Hub Cap",
+      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Complete Recordings",
+        "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Ruby Braff",
+          "url": "https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA"
+        },
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 298493,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1543,6 +1527,22 @@
       "duration_ms": 701200,
       "name": "Lonely Woman - Live",
       "url": "https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
+        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
+      },
+      "artists": [
+        {
+          "name": "Mugsy Spanier",
+          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
     },
     {
       "added_at": "2025-09-10 12:53:12",

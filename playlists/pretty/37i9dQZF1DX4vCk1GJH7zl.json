@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney",
-  "num_followers": 155235,
+  "num_followers": 155243,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-04-24 03:03:02",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+    },
+    {
+      "added_at": "2026-04-24 03:03:02",
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 165489,
       "name": "Tudo Fica Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
-    },
-    {
-      "added_at": "2026-04-24 03:03:02",
-      "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
     },
     {
       "added_at": "2026-04-24 03:03:02",

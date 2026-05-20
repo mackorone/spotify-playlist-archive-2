@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-510 songs - 1 day 5 hr 43 min
+513 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2022-08-18 |  |
 | [Burn My Dread \-Reload\-](https://open.spotify.com/track/1NG7bEQxL6ZfRuqHb1DFm8) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:40 | 2024-04-26 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2022-08-02 |  |
+| [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/track/5KcPSo0XHlv5XbPkVJJasI) | [WAWON](https://open.spotify.com/artist/6IkW1IwGsEsf2cGljOpDK9), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/album/5K5HRfrmS47poP5sXTXyd9) | 4:14 | 2026-05-19 |  |
 | [Cantarella](https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW) | [KurousaP](https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1), [Michaon](https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh) | [Meet Your Only World](https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4) | 3:02 | 2025-12-10 |  |
 | [Can′t Slow Me Down](https://open.spotify.com/track/66wSpvsxSBGBBnHax8VB9S) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [VALORANT / Can′t Slow Me Down](https://open.spotify.com/album/0KcTPJHY7Icv9WYHXmcun1) | 2:18 | 2023-09-16 |  |
 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 | 2023-09-13 |  |
@@ -143,6 +144,7 @@
 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu) | 2:27 | 2026-02-18 |  |
 | [i'm high](https://open.spotify.com/track/4Ff2jbq4IvpGQRjrwbge4t) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [i'm high](https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03) | 4:12 | 2026-01-11 |  |
 | [If...with tears in one's eyes](https://open.spotify.com/track/3OikLDf5WAJkVinnP30Cqp) | [SHAZNA](https://open.spotify.com/artist/1qWhc5xaI8R8Mv95ZY2rY6) | [Promise Eve](https://open.spotify.com/album/1fSiPEa4ZV41tivCVUqhcD) | 3:05 | 2025-09-25 |  |
+| [ikanaide \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1VcOWKCKiWShO8Gs3YRVvP) | [sohta](https://open.spotify.com/artist/76vFRXB0jZ5BkAATnYdUEa), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [shounen syoujo no kotoba](https://open.spotify.com/album/0HMPY6yDhBHW6xJkvChcR8) | 3:12 | 2026-05-19 |  |
 | [Illuminati](https://open.spotify.com/track/5cZrqkfTckgUAONHdRiuLv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Illuminati](https://open.spotify.com/album/0ywqgmOBttYXxvJlo78vDK) | 5:10 | 2025-10-15 | 2026-02-13 |
 | [Inochi No Tabekata](https://open.spotify.com/track/0maSUktGFelOHPjTP8c1Kd) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 3:44 | 2023-01-29 |  |
 | [Instant](https://open.spotify.com/track/08hbdRyBT1P1SutVtzfnUP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:04 | 2023-11-27 |  |
@@ -382,6 +384,7 @@
 | [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 | 2025-12-10 |  |
 | [ジャンキーナイトタウンオーケストラ](https://open.spotify.com/track/3ASzfo5SRD3TioeUWJbHse) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [pandemic](https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ) | 3:33 | 2022-07-06 |  |
 | [ジンクス \(feat\. Such\)](https://open.spotify.com/track/7kR1OuHrMYjtgb5yAE9dkf) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [RuLu](https://open.spotify.com/album/38J7AksAHQ2EIIlmzuMYza) | 3:53 | 2024-01-22 |  |
+| [スキスキ絶頂症](https://open.spotify.com/track/4ob8EMtGqQYlute1An2U9X) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [Nameless](https://open.spotify.com/artist/7IrZTf8h2kmZq2p37NDs1m) | [Resonance](https://open.spotify.com/album/7DIkEiWd247bc48fvYUH0P) | 3:36 | 2026-05-19 |  |
 | [ダウナーウィッチ](https://open.spotify.com/track/2A8iKOvDG8ZCd8rgN6tPmE) | [廉](https://open.spotify.com/artist/7yDJ7xS3dASPaycSUqRy9G) | [ダウナーウィッチ](https://open.spotify.com/album/4suGRNsYYdIruxNhF2yXTP) | 3:33 | 2024-09-02 |  |
 | [ダーリン](https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 2:28 | 2023-09-26 |  |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2023-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 275 songs - 17 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 275 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 120 | [Butterfly](https://open.spotify.com/track/1u6GGWsruJvboqoje3i1P6) | [Markus Feehily](https://open.spotify.com/artist/07K9xbSzS0XLEQEdtc4X9A) | [Fire \(Deluxe\)](https://open.spotify.com/album/4abJXeBOOMY1ee6ixYoLp0) | 3:44 |
 | 121 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/0vAIQoln7IfwPthEgBHAFb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 5:36 |
 | 122 | [Judgement of the Moon and Stars \(Ludwig's Tune\)](https://open.spotify.com/track/2etltnvHWj0f9niMFTjGn6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 5:25 |
-| 123 | [Bad Dreams](https://open.spotify.com/track/4DyNkddT45mDs0gyWehMUq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:41 |
-| 124 | [Nothing Can Be Done](https://open.spotify.com/track/6kOkA8vUsHv5WhLfec62Rs) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:52 |
+| 123 | [Nothing Can Be Done](https://open.spotify.com/track/6kOkA8vUsHv5WhLfec62Rs) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:52 |
+| 124 | [Bad Dreams](https://open.spotify.com/track/4DyNkddT45mDs0gyWehMUq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:41 |
 | 125 | [Off Night Backstreet](https://open.spotify.com/track/3wkfqYfT0TtZZWAf0dBB98) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 3:20 |
 | 126 | [Be Cool](https://open.spotify.com/track/6ditxrULYjp6FIMRkUtzlE) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/6ORyb3qifB83laYG9nBEvR) | 4:12 |
 | 127 | [Two Grey Rooms](https://open.spotify.com/track/1zQjBJJ4uETsyDAoQkKaZV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 3:58 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 274 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 275 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcR28AAAAAAUyg8KlFjaID/t5nEprb1J`
+Snapshot ID: `AcR8hgAAAAB2n4toLTxBDIJGZdeTU2kZ`

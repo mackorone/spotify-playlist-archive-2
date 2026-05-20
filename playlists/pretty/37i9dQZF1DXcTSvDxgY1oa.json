@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Igor ",
-  "num_followers": 1985,
+  "num_followers": 1987,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Wie weet",
-        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Wie weet",
-      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Retromance",
         "url": "https://open.spotify.com/album/7xH89SNP041Yxp0vJDwPla"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 161325,
       "name": "Turn You On!",
       "url": "https://open.spotify.com/track/2rkFcQhAtNFlSSezIWCWjz"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Wie weet",
+        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Wie weet",
+      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "Klemme",
+        "url": "https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "duration_ms": 136041,
+      "name": "Klemme",
+      "url": "https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Himel Iepen",
         "url": "https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 267840,
       "name": "Himel Iepen",
       "url": "https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Looking At You",
-        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
-      },
-      "artists": [
-        {
-          "name": "Loeck",
-          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Looking At You",
-      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Klemme",
-        "url": "https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv"
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
       },
       "artists": [
         {
-          "name": "De Plaag",
-          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+          "name": "Loeck",
+          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
         }
       ],
-      "duration_ms": 136041,
-      "name": "Klemme",
-      "url": "https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj"
+      "duration_ms": 156666,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "leave the party . \u0741\u208a \u22b9 .",
-        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
-      },
-      "artists": [
-        {
-          "name": "Nelles",
-          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
-        }
-      ],
-      "duration_ms": 201434,
-      "name": "leave the party . \u0741\u208a \u22b9 .",
-      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "No Profit",
         "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 151111,
       "name": "No Profit",
       "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "leave the party . \u0741\u208a \u22b9 .",
+        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
+      },
+      "artists": [
+        {
+          "name": "Nelles",
+          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
+        }
+      ],
+      "duration_ms": 201434,
+      "name": "leave the party . \u0741\u208a \u22b9 .",
+      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+      },
+      "artists": [
+        {
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+        }
+      ],
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Ben Het Even Kwijt",
         "url": "https://open.spotify.com/album/2GSMZjNQviDmXUFB1z7Eh8"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 262224,
       "name": "Mad Again",
       "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
-      },
-      "artists": [
-        {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "kom is dromen",
+        "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
+      },
+      "artists": [
+        {
+          "name": "tays",
+          "url": "https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C"
+        },
+        {
+          "name": "Tommie Rose",
+          "url": "https://open.spotify.com/artist/2UFOrCQPyrY9BoomeJ8Gov"
+        }
+      ],
+      "duration_ms": 217781,
+      "name": "de franse",
+      "url": "https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Kleine Liefde",
         "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "kom is dromen",
-        "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
-      },
-      "artists": [
-        {
-          "name": "tays",
-          "url": "https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C"
-        },
-        {
-          "name": "Tommie Rose",
-          "url": "https://open.spotify.com/artist/2UFOrCQPyrY9BoomeJ8Gov"
-        }
-      ],
-      "duration_ms": 217781,
-      "name": "de franse",
-      "url": "https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "WAS DIT ALLES?",
         "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+      },
+      "artists": [
+        {
+          "name": "NEBULA",
+          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "see-through",
-        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
       },
       "artists": [
         {
-          "name": "NEBULA",
-          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
         }
       ],
-      "duration_ms": 236750,
-      "name": "see-through",
-      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1007,22 +1023,6 @@
       "duration_ms": 144000,
       "name": "fornow",
       "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1071,6 +1071,22 @@
       "duration_ms": 223000,
       "name": "The Crow Won't Cry",
       "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Wele Wele",
+        "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
+      },
+      "artists": [
+        {
+          "name": "Nyarko",
+          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Wele Wele",
+      "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1135,22 +1151,6 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Wele Wele",
-        "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
-      },
-      "artists": [
-        {
-          "name": "Nyarko",
-          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Wele Wele",
-      "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "On Top Of The World",
-        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
-      },
-      "artists": [
-        {
-          "name": "Misha Wong",
-          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "fight 'n kill",
-        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
-      },
-      "artists": [
-        {
-          "name": "Brian Murphy",
-          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
-        }
-      ],
-      "duration_ms": 114674,
-      "name": "fight 'n kill",
-      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 255120,
       "name": "ozempic tears",
       "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "On Top Of The World",
+        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
+      },
+      "artists": [
+        {
+          "name": "Misha Wong",
+          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1439,6 +1423,22 @@
       "duration_ms": 199285,
       "name": "CALL",
       "url": "https://open.spotify.com/track/1bsipxUMmK7w0qNC6isiVx"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "fight 'n kill",
+        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
+      },
+      "artists": [
+        {
+          "name": "Brian Murphy",
+          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
+        }
+      ],
+      "duration_ms": 114674,
+      "name": "fight 'n kill",
+      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
     },
     {
       "added_at": "2026-05-15 13:17:51",

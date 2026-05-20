@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Bresh in cover
 
-606 songs - 1 day 7 hr 18 min
+607 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [digiorno](https://open.spotify.com/track/4G7ZLAef0J5VbqxQ4cQwKF) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [femmina](https://open.spotify.com/album/4oH51jOoRbeLmhk6uLfIUw) | 2:46 | 2026-01-22 | 2026-02-13 |
 | [Dillo Solo Al Buio](https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dillo Solo Al Buio](https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T) | 3:45 | 2024-11-14 | 2025-04-04 |
 | [Dimenticarsi alle 7](https://open.spotify.com/track/3W1xZMEfi44Wxts9HMBJJS) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Dimenticarsi alle 7](https://open.spotify.com/album/0sj9yOnTm1M0fHr18zdNN8) | 3:34 | 2025-02-12 | 2025-04-18 |
+| [Dimmelo tu](https://open.spotify.com/track/5ZJXEdQ0i5MYGi24F7VSv2) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Dimmelo tu](https://open.spotify.com/album/4Powg4QrPhuucXUvYmurHG) | 2:49 | 2026-05-19 |  |
 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 | 2026-03-26 | 2026-04-24 |
 | [DIRE FARE BACIARE](https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [DIRE FARE BACIARE](https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE) | 3:12 | 2024-07-01 | 2024-09-06 |
 | [dirti no.](https://open.spotify.com/track/0jd2ufQEHW0OhpfE2U6MRa) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 2:55 | 2025-05-22 | 2025-06-20 |

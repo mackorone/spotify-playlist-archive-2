@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 42842,
+  "num_followers": 42854,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAACNm0wzvwUh4V7qvUKgrdhX",
+  "snapshot_id": "agpWgAAAAACALzz6q1r/46jrm56maibf",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Hypure",
-      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
+      "duration_ms": 252653,
+      "name": "Stingwray",
+      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 252653,
-      "name": "Stingwray",
-      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
+      "duration_ms": 255333,
+      "name": "Hypure",
+      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
     },
     {
       "added_at": null,

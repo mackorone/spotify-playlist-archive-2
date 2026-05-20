@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,440 likes - 162 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,442 likes - 162 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

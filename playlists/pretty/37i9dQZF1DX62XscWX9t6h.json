@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 222588,
+  "num_followers": 222636,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAOgBIqsM/lsR2ymIcRvX926UOZt7",
   "tracks": [
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
-    },
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 235000,
       "name": "Sun Colored Eyes",
       "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Elegancia Tropical",
         "url": "https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 301173,
       "name": "El Alma y el Cuerpo",
       "url": "https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -535,18 +535,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 479546,
-      "name": "Atomic Bomb",
-      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+      "duration_ms": 241157,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
         }
       ],
-      "duration_ms": 241157,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 353965,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "NO ME DABA CUENTA",
+        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Luna",
+          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
+        }
+      ],
+      "duration_ms": 209304,
+      "name": "NO ME DABA CUENTA",
+      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Tanokumbia",
         "url": "https://open.spotify.com/album/7DbNqsdFbogU9spBn4N35X"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 202060,
       "name": "Tanokumbia",
       "url": "https://open.spotify.com/track/1gkCspjXUHg8lYLXxKZXxt"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "NO ME DABA CUENTA",
-        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Luna",
-          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
-        }
-      ],
-      "duration_ms": 209304,
-      "name": "NO ME DABA CUENTA",
-      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
     },
     {
       "added_at": "2025-09-02 19:54:46",

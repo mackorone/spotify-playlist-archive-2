@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 441636,
+  "num_followers": 441683,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 119813,
       "name": "Bizarre Love Triangle - 2014 Remaster",
       "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "brb",
-        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "brb",
-      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
         "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Collar",
-        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
       "artists": [
         {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 346500,
-      "name": "Collar",
-      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -867,6 +851,22 @@
       "duration_ms": 208460,
       "name": "Un amor como los de antes",
       "url": "https://open.spotify.com/track/091cJW2tB4lqlNEX6pOsll"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Collar",
+        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Collar",
+      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
-      },
-      "artists": [
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1591,18 +1571,22 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "El final",
-        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
       "artists": [
         {
-          "name": "Verde Prato",
-          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
         }
       ],
-      "duration_ms": 198995,
-      "name": "La ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
+      "duration_ms": 229253,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+        "name": "El final",
+        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
       },
       "artists": [
         {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+          "name": "Verde Prato",
+          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
         }
       ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+      "duration_ms": 198995,
+      "name": "La ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1655,6 +1639,22 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "La herida que prefiero",
+      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
         "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
         "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
-        "name": "Lista de deseos",
-        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
-      },
-      "artists": [
-        {
-          "name": "Medianoche",
-          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Lista de deseos",
-      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
+        "name": "Lista de deseos",
+        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
       },
       "artists": [
         {
-          "name": "Calequi y Las Panteras",
-          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
         }
       ],
-      "duration_ms": 212958,
-      "name": "La herida que prefiero",
-      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
+      "duration_ms": 196666,
+      "name": "Lista de deseos",
+      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "A la muerte",
         "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 295500,
       "name": "A la muerte",
       "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2026-05-14 22:01:47",

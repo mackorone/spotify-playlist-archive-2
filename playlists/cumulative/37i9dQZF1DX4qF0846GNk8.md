@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
 
-379 songs - 23 hr 34 min
+379 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/track/1QWvSRoOK0VfHXEIyZLRG3) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [آسلك \- مسلم و حوده بندق](https://open.spotify.com/album/45nZf869o02m4pCL39AJVb) | 3:53 | 2023-07-03 | 2023-07-30 |
 | [أرض ملغمة](https://open.spotify.com/track/01YQG9N384bj5qGOnbF7mU) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk) | [أرض ملغمة](https://open.spotify.com/album/1XphBOMFsIE9YWm3Jp7if9) | 3:00 | 2026-04-07 | 2026-04-22 |
 | [أصحا يا بابا \(feat\. Shobra El General & Coolpix\)](https://open.spotify.com/track/35RPL6MADP3saclBXHRVxX) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Shobra El General](https://open.spotify.com/artist/3Ed6A8OJkO5nQqFJfhDHRN), [Coolpix](https://open.spotify.com/artist/6hKj4ZCRD7oML9Wq3Z1knr) | [الديسكو](https://open.spotify.com/album/5nHac3TcOuOd1GWBQdskzl) | 3:19 | 2025-05-20 | 2025-07-25 |
-| [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 6:31 | 2026-05-05 |  |
+| [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 4:13 | 2026-05-05 |  |
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
 | [ابو الروقان](https://open.spotify.com/track/65ImXgFhptImfTUgQ3sCd2) | [تيم الباور العالي](https://open.spotify.com/artist/5PQpoq0dsMu7EYOJ3AM1Vx), [Sadat El 3almy](https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj), [Mousa sam](https://open.spotify.com/artist/07pBadBcTQar6hgAOIUWTI) | [ابو الروقان](https://open.spotify.com/album/3OWYJwLUTwL7JyAYAV6QHR) | 2:48 | 2026-04-07 | 2026-05-06 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-28 | 2024-08-13 |

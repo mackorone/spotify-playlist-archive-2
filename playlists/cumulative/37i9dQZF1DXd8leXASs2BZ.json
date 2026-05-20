@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Andersen",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Pxrge Trxxxper",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -12279,6 +12279,32 @@
     },
     {
       "album": {
+        "name": "REVERSAL",
+        "url": "https://open.spotify.com/album/6q9SdG6siXWUslA6DV7kcJ"
+      },
+      "artists": [
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        },
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188696,
+      "name": "Hurricane (feat. Benjazzy)",
+      "url": "https://open.spotify.com/track/6c8DvzTSboFzyoweD7n5uf"
+    },
+    {
+      "album": {
         "name": "I AM LEGEND",
         "url": "https://open.spotify.com/album/0RMgH47NsvprtHSGWGFf58"
       },
@@ -13358,6 +13384,24 @@
       "duration_ms": 166870,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl"
+    },
+    {
+      "album": {
+        "name": "Never Skip Me",
+        "url": "https://open.spotify.com/album/5RebN55lkz4RkrujrBEcUg"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135719,
+      "name": "jagger freestyle",
+      "url": "https://open.spotify.com/track/5C9mZ8XdaWzigub4OfflJM"
     },
     {
       "album": {
@@ -18280,6 +18324,24 @@
       "duration_ms": 142847,
       "name": "night time friends",
       "url": "https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/16sbRI4aMvxTz3P17gyurb"
+      },
+      "artists": [
+        {
+          "name": "Plain Jay",
+          "url": "https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129438,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7gdAfRa4wPWJcNH5jvkLm8"
     },
     {
       "album": {

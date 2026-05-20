@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-298 songs - 18 hr 48 min
+299 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Meditação](https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:17 | 2022-05-13 | 2025-05-10 |
 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 | 2022-06-28 | 2023-08-25 |
 | [Mesa de Areia](https://open.spotify.com/track/4RRsV3yAc2xvTs3tG05keB) | [Café Estocolmo](https://open.spotify.com/artist/2N7hxUQfGg3pdToFhkqddd) | [Mesa de Areia](https://open.spotify.com/album/4th80A6g3R8Rd9Sp0dvxbI) | 2:18 | 2025-11-10 | 2025-12-10 |
+| [Meu Tempo](https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Meu Tempo](https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a) | 3:09 | 2026-05-08 |  |
 | [Morning Of The Carnival \- From "Black Orpheus"](https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:30 | 2022-08-17 | 2025-09-18 |
 | [My one and only](https://open.spotify.com/track/5yT0chfor6lWakOdSBcwYg) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My one and only](https://open.spotify.com/album/5amSqhspHPpgLi7zDxwDVm) | 3:21 | 2025-08-19 |  |
 | [Nana](https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Nana](https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484) | 4:33 | 2023-02-23 | 2025-11-11 |
@@ -280,7 +281,7 @@
 | [Vamos lá](https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Vamos lá](https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1) | 2:32 | 2024-08-26 |  |
 | [Vanguarda](https://open.spotify.com/track/513avTZFJnIDwjFIughYK4) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Vanguarda](https://open.spotify.com/album/2ZPNkYuaywFWEW4ccOcB9i) | 4:11 | 2025-11-10 |  |
 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-03-23 |  |
-| [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-03-15 |  |
+| [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-03-15 | 2026-05-20 |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-11-11 | 2025-11-11 |
 | [Voce Vai Ver](https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz), [Paulo Braga](https://open.spotify.com/artist/51t7MZd7LXOkPwgSfjMm56), [Helio Alves](https://open.spotify.com/artist/1qWJnFipD1h6ExuqmbgBM3), [Paulo Paulelli](https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y), [Rodrigo Ursaia](https://open.spotify.com/artist/2hgisYpRVvOO9rRllZnfpO) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:52 | 2022-05-13 | 2025-09-18 |
 | [Você E Eu](https://open.spotify.com/track/1HelEYnBkNyyd6PDSkx7sQ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Pure Bossa Nova](https://open.spotify.com/album/3XTOfPQyZpHtHRYkNWGfxn) | 1:00 | 2022-06-10 | 2024-04-22 |

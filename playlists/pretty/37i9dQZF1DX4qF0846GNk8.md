@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,684 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,981 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 6:31 |
+| 1 | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 4:13 |
 | 2 | [انا 5 استار على كوكبى](https://open.spotify.com/track/0Br3YI2wSgy62XhFQdsXzD) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [انا 5 استار على كوكبى](https://open.spotify.com/album/0l2T8bGfUDFxEmuZpg0nJo) | 4:38 |
 | 3 | [طول منا عالي طول منا ناجح](https://open.spotify.com/track/2lLBXnu9xIPx2JIsiRqon1) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [طول منا عالي طول منا ناجح](https://open.spotify.com/album/3e0vMPRmN1KM04fe3LhAI7) | 4:52 |
 | 4 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,278 songs - 3 day 4 hr 26 min
+1,279 songs - 3 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,7 +728,7 @@
 | [Mistral](https://open.spotify.com/track/3RLYXVhEX3SKr1X3UIfPtk) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Mistral](https://open.spotify.com/album/72X5aUTyjZs8Ito52US9aj) | 3:17 | 2023-08-04 | 2024-11-16 |
 | [Moment](https://open.spotify.com/track/1OhNIHWABDYC8KE7EF3YOK) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Anven](https://open.spotify.com/artist/1vViVD7zHBwKdnkLtNaZg9) | [Moment](https://open.spotify.com/album/0axXxvjQtWnKTvYfpwBFnX) | 3:11 | 2021-12-17 | 2022-05-28 |
 | [Moment In Time](https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues) | [Peter Steele](https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Moment In Time](https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8) | 3:47 | 2025-02-28 |  |
-| [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 |  |
+| [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 | 2026-05-20 |
 | [Monster](https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Monster](https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp) | 3:01 | 2025-03-07 | 2025-09-27 |
 | [Moon and Sun](https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Moon and Sun](https://open.spotify.com/album/2CbRBnlyKcMrB3OF2e0wPN) | 3:06 | 2022-04-01 | 2022-07-22 |
 | [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 | 2026-05-07 |
@@ -1201,6 +1201,7 @@
 | [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 | 2024-10-26 |
 | [Upon The Horizon](https://open.spotify.com/track/6UCpR17pbWqO88Xf7TwZq6) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Upon The Horizon](https://open.spotify.com/album/3kZS8yRn2teo9i1wrxJ1lc) | 4:08 | 2022-09-23 | 2022-11-19 |
 | [Urban Shakedown \- Bryan Kearney Remix](https://open.spotify.com/track/6Uk7rJ7HJubo1U4BjLh44v) | [Solar Factor](https://open.spotify.com/artist/2MnlwaudwiNCvyeYlZw89k), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Urban Return EP](https://open.spotify.com/album/7tS96ajHv3Dtq4VLD0kic0) | 7:09 | 2022-03-25 | 2022-04-16 |
+| [Utopia](https://open.spotify.com/track/3IHVdhBCnYEZqmMBMiJzf8) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Utopia](https://open.spotify.com/album/1MtI0jkyLCwuntLCQU1OKf) | 3:02 | 2026-05-15 |  |
 | [Velvet Morning 22](https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [25 Years, Pt\. 4](https://open.spotify.com/album/32PBafVEACtSgbTsno4e8p) | 2:58 | 2022-10-14 | 2023-06-10 |
 | [Velvet Tread](https://open.spotify.com/track/1WnpxaruwWn6wKTgLitYO1) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Velvet Tread](https://open.spotify.com/album/6z5IGDFpakZx0kMhcf7Jsi) | 4:40 | 2024-03-29 | 2024-08-31 |
 | [Venezia](https://open.spotify.com/track/6pyRBGiHG88kccAFB2K0h7) | [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Venezia](https://open.spotify.com/album/5ftpIVWM74qI2iKNdSa1ia) | 3:36 | 2024-08-09 | 2025-08-30 |

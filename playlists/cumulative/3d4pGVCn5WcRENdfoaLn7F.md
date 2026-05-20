@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-351 songs - 21 hr 11 min
+354 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 | 2026-03-14 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-03-27 | 2026-05-17 |
+| [HOLES](https://open.spotify.com/track/45j00HSKzMiIfJ4elyzxGs) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 2:44 | 2026-05-19 |  |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-06 | 2025-12-06 |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2026-03-18 | 2026-04-15 |
 | [Honest Mistake](https://open.spotify.com/track/1DEQCWDbuYFZHSW9zVMAjt) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Honest Mistake](https://open.spotify.com/album/70TvqiEcsoMkV2UjmKydz3) | 3:25 | 2025-11-04 | 2025-12-06 |
@@ -254,6 +255,7 @@
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 | 2026-01-05 |
 | [Say Hello to the Void for Me](https://open.spotify.com/track/4KxYDexsEwl7bKvCHdzuit) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [Bright Lights / Low Lives](https://open.spotify.com/album/5PN8glEtGnWKAbB1TtgQYv) | 4:04 | 2025-11-21 |  |
 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 | 2026-02-07 |  |
+| [Schön und dumm](https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Schön und dumm](https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU) | 3:52 | 2026-05-19 |  |
 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 | 2025-12-23 | 2026-01-21 |
 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-28 | 2026-02-19 |
 | [sela](https://open.spotify.com/track/6tjqn0snHDfmNcUiidheUa) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [sela](https://open.spotify.com/album/4KP0bhanb1yZNRinZkd65I) | 3:22 | 2026-01-07 | 2026-02-02 |
@@ -283,6 +285,7 @@
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-21 | 2025-12-12 |
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-03-11 | 2026-04-15 |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
+| [Surrender](https://open.spotify.com/track/5XOraQSzk88vT3orGMofDR) | [Fenix](https://open.spotify.com/artist/2VIZpeJoUKPcl9oU61pf8j) | [Finale](https://open.spotify.com/album/1VQU6mqrk0yC9UffcI6Rj5) | 3:54 | 2026-05-19 |  |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-02-16 |  |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-05-12 |  |
 | [Take Me Away](https://open.spotify.com/track/3Jzrgsy5JoxAtIMabzSmm3) | [Jess the Singing Alien](https://open.spotify.com/artist/5BWYOSAZHoy7v529BEExAq) | [Take Me Away](https://open.spotify.com/album/4KvoMVaKmmzIcBnq878TEZ) | 3:50 | 2026-01-16 | 2026-02-25 |

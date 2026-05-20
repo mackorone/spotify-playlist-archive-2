@@ -1,6 +1,6 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 36661,
+  "num_followers": 36666,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "9 Crimes",
+      "url": "https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
         "name": "In Search Of...",
         "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 209760,
       "name": "Lapdance",
       "url": "https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "9 Crimes",
-      "url": "https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im"
     },
     {
       "added_at": "2026-05-12 09:00:32",

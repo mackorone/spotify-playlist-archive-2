@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 24 | [Human](https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Human](https://open.spotify.com/album/74OCmHnI3mJUjJri4WlmIA) | 2:26 |
 | 25 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 |
 | 26 | [Changed My Mind](https://open.spotify.com/track/4CFlDepqivJp9ECpBZOv0s) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:05 |
-| 27 | [Sleep](https://open.spotify.com/track/4PkMVAihnrYVRMiFZd7m3y) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Teenage Fever](https://open.spotify.com/album/3G0TPBSln1Bc2NWV4uuNr2) | 2:50 |
-| 28 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 27 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 28 | [Sleep](https://open.spotify.com/track/4PkMVAihnrYVRMiFZd7m3y) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Teenage Fever](https://open.spotify.com/album/3G0TPBSln1Bc2NWV4uuNr2) | 2:50 |
 | 29 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 |
 | 30 | [Blackout](https://open.spotify.com/track/5sP4Ia6MxZeMzJclka2DFE) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 2:45 |
 | 31 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcR3GAAAAAA9KfMKADht2wlhJCZwrUlD`
+Snapshot ID: `AcR8fAAAAABw31EVpYEL9ViAL2zQF+0o`

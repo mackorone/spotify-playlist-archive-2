@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 149593,
+  "num_followers": 149604,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "Pra Descobrir",
+        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Pra Descobrir",
+      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 244566,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
-        "name": "Pra Descobrir",
-        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Pra Descobrir",
-      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "Nas Chagas",
         "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 252745,
       "name": "DESMANCHOU",
       "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
-        "name": "For\u00e7a",
-        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
       "added_at": "2026-04-24 19:01:02",

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 842,
+  "num_followers": 861,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADrLpHdsCIQhhYVf5QOr2J+cS8vGmG",
+  "snapshot_id": "AAADtb2HrddZgtz9+CcqVuafNChMF6Kr",
   "tracks": [
     {
       "added_at": "2026-05-09 15:40:27",
@@ -1799,6 +1799,150 @@
       "duration_ms": 223399,
       "name": "Super Nova",
       "url": "https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4"
+    },
+    {
+      "added_at": "2026-05-19 02:48:21",
+      "album": {
+        "name": "L'ultimo Etero Del Mondo",
+        "url": "https://open.spotify.com/album/2mIOljo5sT5gwmHmbsjMvQ"
+      },
+      "artists": [
+        {
+          "name": "Costa Calcinara",
+          "url": "https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1"
+        }
+      ],
+      "duration_ms": 198221,
+      "name": "L'ultimo Etero Del Mondo",
+      "url": "https://open.spotify.com/track/0PnJzlsh1tKHDgd5pQw8pC"
+    },
+    {
+      "added_at": "2026-05-19 14:33:20",
+      "album": {
+        "name": "Special Request Tape",
+        "url": "https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ"
+      },
+      "artists": [
+        {
+          "name": "Kool Breed",
+          "url": "https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "Special Request",
+      "url": "https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb"
+    },
+    {
+      "added_at": "2026-05-19 14:39:39",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO"
+    },
+    {
+      "added_at": "2026-05-19 14:41:36",
+      "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/42ShDpZIKnaYM5QTXHlXfT"
+      },
+      "artists": [
+        {
+          "name": "N\u00a3GRA",
+          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
+        }
+      ],
+      "duration_ms": 157473,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/356jvxIwxF7GCnqZg3xS5n"
+    },
+    {
+      "added_at": "2026-05-19 14:42:54",
+      "album": {
+        "name": "Happy Lonely",
+        "url": "https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E"
+      },
+      "artists": [
+        {
+          "name": "Becky Crosby",
+          "url": "https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Happy Lonely",
+      "url": "https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n"
+    },
+    {
+      "added_at": "2026-05-19 14:46:26",
+      "album": {
+        "name": "Spacing Out",
+        "url": "https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd"
+      },
+      "artists": [
+        {
+          "name": "JTL",
+          "url": "https://open.spotify.com/artist/6DZYmpRaYs36tOF2w4RRrN"
+        }
+      ],
+      "duration_ms": 166509,
+      "name": "Spacing Out",
+      "url": "https://open.spotify.com/track/77fhoJzb7s4oSw7zIrZNyz"
+    },
+    {
+      "added_at": "2026-05-19 14:47:24",
+      "album": {
+        "name": "Is This Faith",
+        "url": "https://open.spotify.com/album/3Rv0xhrxY4Sb2BsoPfY50z"
+      },
+      "artists": [
+        {
+          "name": "Sara Hecht",
+          "url": "https://open.spotify.com/artist/5SdcJmxoUet8wPz869kAi8"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Is This Faith",
+      "url": "https://open.spotify.com/track/0zrPGScONhWVuM4YIiyKGV"
+    },
+    {
+      "added_at": "2026-05-19 14:50:15",
+      "album": {
+        "name": "Spell On Me",
+        "url": "https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr"
+      },
+      "artists": [
+        {
+          "name": "Visiion",
+          "url": "https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC"
+        }
+      ],
+      "duration_ms": 113799,
+      "name": "Spell On Me",
+      "url": "https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr"
+    },
+    {
+      "added_at": "2026-05-19 16:47:35",
+      "album": {
+        "name": "L'ASCENSORE",
+        "url": "https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "L'ASCENSORE",
+      "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

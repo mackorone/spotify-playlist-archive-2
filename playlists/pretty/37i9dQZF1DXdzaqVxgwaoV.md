@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,126 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,120 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 23 | [Mujeres y Despecho](https://open.spotify.com/track/6qF6Nq12QRlFMjS2mP4ziN) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mujeres y Despecho](https://open.spotify.com/album/0jxQqR3kCi0WXbUElGHM4Z) | 3:00 |
 | 24 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
 | 25 | [Que Hablen de Mí](https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Usted Señor](https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz) | 2:47 |
-| 26 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
-| 27 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 |
+| 26 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 |
+| 27 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
 | 28 | [Me Voy para Olvidarte](https://open.spotify.com/track/6XZvZmCuUsWtQDGXJDxy2f) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:35 |
 | 29 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
 | 30 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 |
-| 31 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
-| 32 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
+| 31 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
+| 32 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
 | 33 | [El Camionero](https://open.spotify.com/track/2EfWBfYDonXIXrQWXwYA5O) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:17 |
 | 34 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 |
 | 35 | [Tu Hora Pasó](https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:04 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 38 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
 | 39 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 40 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
-| 41 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
-| 42 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 41 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 42 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 43 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
 | 44 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
 | 45 | [Era un Domingo](https://open.spotify.com/track/6kO9XmOlD4VI3WSrqgbq6W) | [Los Alegres Cordillera](https://open.spotify.com/artist/4ZlDiExFa7Zjiu9Y65V608) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 3:05 |

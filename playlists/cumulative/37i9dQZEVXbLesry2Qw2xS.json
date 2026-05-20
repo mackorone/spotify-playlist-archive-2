@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189176,
       "name": "100 roosi",
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
@@ -13504,7 +13504,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -13634,7 +13634,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180686,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf"
@@ -18248,7 +18248,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -23424,7 +23424,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 199354,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/1xTFpnwtAB56vb8KqySM1d"
@@ -24368,7 +24368,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 179999,
       "name": "JALLA",
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
@@ -28530,6 +28530,24 @@
       "duration_ms": 159133,
       "name": "letter to my brudda",
       "url": "https://open.spotify.com/track/5P1z8XwsCStb74emERTx9v"
+    },
+    {
+      "album": {
+        "name": "Letters From Before",
+        "url": "https://open.spotify.com/album/48M5DhWGr9SxntTRtD8PTz"
+      },
+      "artists": [
+        {
+          "name": "Will Percs",
+          "url": "https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255652,
+      "name": "Letters From Before",
+      "url": "https://open.spotify.com/track/1P9JFFR5JcKq3g4ZsOch5V"
     },
     {
       "album": {
@@ -52403,6 +52421,24 @@
     },
     {
       "album": {
+        "name": "This Is a Broadcast",
+        "url": "https://open.spotify.com/album/1lAu6hTpwDdJTNEGawyigD"
+      },
+      "artists": [
+        {
+          "name": "Midnight Wanderers",
+          "url": "https://open.spotify.com/artist/15PfRz7TFI38geNu8jynM5"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "This Is a Broadcast",
+      "url": "https://open.spotify.com/track/6BsXfgyqInoVcErTR6bBIx"
+    },
+    {
+      "album": {
         "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
       },
@@ -57806,7 +57842,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 222580,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
@@ -58646,7 +58682,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 169247,
       "name": "Ya Ya Ya",
       "url": "https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr"

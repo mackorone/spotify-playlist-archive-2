@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,384 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,385 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
 | 50 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
 
-Snapshot ID: `agkFAAAAAAAVr25wTV0+LbRmnsG1PX0L`
+Snapshot ID: `agpWgAAAAAAxUrYQwv37oy9rivZc89Bb`

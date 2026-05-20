@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 302766,
+  "num_followers": 302771,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "What Does Your Soul Look Like",
-        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
-      },
-      "artists": [
-        {
-          "name": "Wayside",
-          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
-        }
-      ],
-      "duration_ms": 204499,
-      "name": "Parallax Error",
-      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Times Like These",
         "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 209976,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "What Does Your Soul Look Like",
+        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "duration_ms": 204499,
+      "name": "Parallax Error",
+      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Pedals",
-        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Wring It Out",
-      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Pedals",
+        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
+      },
+      "artists": [
+        {
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Wring It Out",
+      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
-      },
-      "artists": [
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
-        }
-      ],
-      "duration_ms": 224838,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176805,
       "name": "Cave In",
       "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "duration_ms": 224838,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
     },
     {
       "added_at": "2024-12-03 09:27:47",

@@ -142,7 +142,7 @@
 | [Dong Dong](https://open.spotify.com/track/1fzRinte8afs4twwkhFAmF) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Dong Dong](https://open.spotify.com/album/2svUzAWqaFHVBmweXn32I6) | 4:46 | 2022-06-02 | 2022-07-26 |
 | [Down On The Road](https://open.spotify.com/track/7dfPcDPQI7b4yCSORNxsin) | [the JUMPS](https://open.spotify.com/artist/3zbk89SP4P4OrSeHco25aO) | [Rebel Banquet](https://open.spotify.com/album/2LI6uhz4YtjNqMibrnYApf) | 2:56 | 2022-11-01 | 2022-11-16 |
 | [DOWN TO HELL](https://open.spotify.com/track/4qauhp8obl2RNnBNZ61BdW) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 2:51 | 2022-05-12 | 2022-07-29 |
-| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 | 2026-05-18 |
+| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 |  |
 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 | 2025-10-14 | 2026-04-01 |
 | [Dry Out](https://open.spotify.com/track/6HYp1dflTcMfpQRqp1bTcg) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Dry Out](https://open.spotify.com/album/4dXey12mX4is6Lq8PNCfoe) | 3:11 | 2022-05-19 | 2022-07-09 |
 | [Echoes](https://open.spotify.com/track/6Uyg688fHWz8kJKYGF6qBQ) | [Castaway](https://open.spotify.com/artist/2hxbs29SIzDIKSPzGsIgir) | [With Future Behind](https://open.spotify.com/album/7nWMrzNZ9APVAzVrIrYQMw) | 2:39 | 2022-05-31 | 2022-07-26 |
@@ -901,7 +901,7 @@
 | [音楽準備室](https://open.spotify.com/track/1q4dR0mGkAR90ete8WcEBL) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [sad](https://open.spotify.com/album/4r01rFmeeE8eEWhgR0xmOg) | 3:35 | 2024-05-30 | 2024-07-31 |
 | [順風満帆](https://open.spotify.com/track/7cYSocFWsJWv5RS0myvg0L) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [順風満帆](https://open.spotify.com/album/3dHI35BTNzrvNAfmZyznmA) | 2:53 | 2024-11-05 | 2025-03-08 |
 | [風](https://open.spotify.com/track/66sB2NQk0hhkNbcQYm9V3F) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [風](https://open.spotify.com/album/2td75lpVPiRtzpCBNHrWCe) | 2:01 | 2025-05-20 | 2025-07-23 |
-| [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 | 2026-04-21 |  |
+| [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 | 2026-04-21 | 2026-05-20 |
 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 | 2025-09-23 | 2026-02-25 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

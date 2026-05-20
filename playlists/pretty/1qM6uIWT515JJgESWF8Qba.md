@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 439 likes - 50 songs - 3 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 445 likes - 52 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 48 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 |
 | 49 | [90 Seconds for Panic](https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG) | [CIRCUS](https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9) | [A Kiss Before Dying](https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ) | 4:34 |
 | 50 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 |
+| 51 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
+| 52 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
 
-Snapshot ID: `AAABvpEU96u/rPbzXx+ESpjd1Cbk3FoO`
+Snapshot ID: `AAABwDE8n0ENvHIpF6uYVpVebHPJiLzx`

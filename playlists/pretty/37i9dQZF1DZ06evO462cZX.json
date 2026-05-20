@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45426,
+  "num_followers": 45433,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAApDX6XV6uASCAh6gb2z8MX",
+  "snapshot_id": "agpWgAAAAAD0hDswo/HCWdPTBxZTTsYr",
   "tracks": [
     {
       "added_at": null,
@@ -222,19 +222,11 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Montez de Durango",
-          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh"
         }
       ],
-      "duration_ms": 195733,
-      "name": "BOTAS CON BASS",
-      "url": "https://open.spotify.com/track/1GRmevIWg03dJEC8UYZ7uM"
+      "duration_ms": 147310,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN"
     },
     {
       "added_at": null,
@@ -267,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bandera (Remix)",
-        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 160664,
-      "name": "La Bandera (Remix)",
-      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pica",
         "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
       },
@@ -311,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bandera (Remix)",
+        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 160664,
+      "name": "La Bandera (Remix)",
+      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTAS & RAVE",
         "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
       },
@@ -318,11 +310,19 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh"
         }
       ],
-      "duration_ms": 147310,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN"
+      "duration_ms": 195733,
+      "name": "BOTAS CON BASS",
+      "url": "https://open.spotify.com/track/1GRmevIWg03dJEC8UYZ7uM"
     },
     {
       "added_at": null,
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
       "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 206228,
-      "name": "Rise and Shine",
-      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
       "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+      "duration_ms": 206228,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
     },
     {
       "added_at": null,

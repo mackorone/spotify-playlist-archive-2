@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132664,
+  "num_followers": 132668,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-05-14 21:17:44",
-      "album": {
         "name": "Vitun Inee",
         "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178047,
       "name": "Vitun Inee",
       "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
+    },
+    {
+      "added_at": "2026-05-14 21:17:44",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
+        "name": "FATHER (I Will Never Confess)",
+        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "FATHER (I Will Never Confess)",
+      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
+    },
+    {
+      "added_at": "2026-05-14 21:17:44",
+      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 174044,
       "name": "Rakkaudenkipee",
       "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-05-14 21:17:44",
-      "album": {
-        "name": "FATHER (I Will Never Confess)",
-        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "FATHER (I Will Never Confess)",
-      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+    },
+    {
+      "added_at": "2026-05-14 21:17:44",
+      "album": {
         "name": "Ei voi (feat. Luwa.Mp4)",
         "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
-    },
-    {
-      "added_at": "2026-05-14 21:17:44",
-      "album": {
         "name": "Mun vuoro luovuttaa",
         "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 160714,
       "name": "Mun vuoro luovuttaa",
       "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
+    },
+    {
+      "added_at": "2026-05-14 21:17:44",
+      "album": {
+        "name": "Adam & Steve",
+        "url": "https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 170379,
+      "name": "Adam & Steve",
+      "url": "https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
-        "name": "Adam & Steve",
-        "url": "https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA"
+        "name": "Solmui",
+        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
       },
       "artists": [
         {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Adam & Steve",
-      "url": "https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB"
+      "duration_ms": 198409,
+      "name": "Solmui",
+      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
-        "name": "Solmui",
-        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
+        "name": "T\u00e4\u00e4l m\u00e4 oon",
+        "url": "https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk"
       },
       "artists": [
         {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
         }
       ],
-      "duration_ms": 198409,
-      "name": "Solmui",
-      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+      "duration_ms": 148152,
+      "name": "T\u00e4\u00e4l m\u00e4 oon",
+      "url": "https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -1003,22 +1019,6 @@
       "duration_ms": 199469,
       "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
-    },
-    {
-      "added_at": "2026-05-14 21:17:44",
-      "album": {
-        "name": "T\u00e4\u00e4l m\u00e4 oon",
-        "url": "https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk"
-      },
-      "artists": [
-        {
-          "name": "jambo",
-          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
-        }
-      ],
-      "duration_ms": 148152,
-      "name": "T\u00e4\u00e4l m\u00e4 oon",
-      "url": "https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4"
     },
     {
       "added_at": "2026-05-14 21:17:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-14 21:17:44",
       "album": {
-        "name": "Sitke\u00e4 sissi",
-        "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
-      },
-      "artists": [
-        {
-          "name": "Suvi Ter\u00e4sniska",
-          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
-        }
-      ],
-      "duration_ms": 181234,
-      "name": "Sitke\u00e4 sissi",
-      "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
-    },
-    {
-      "added_at": "2026-05-14 21:17:44",
-      "album": {
         "name": "\u00c4l\u00e4 sano sua rumaksi",
         "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 153135,
       "name": "\u00c4l\u00e4 sano sua rumaksi",
       "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
+    },
+    {
+      "added_at": "2026-05-14 21:17:44",
+      "album": {
+        "name": "Sitke\u00e4 sissi",
+        "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "duration_ms": 181234,
+      "name": "Sitke\u00e4 sissi",
+      "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
     },
     {
       "added_at": "2026-05-14 21:17:44",

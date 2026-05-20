@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 722832,
+  "num_followers": 722868,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAACwHO1WGxRYbJSK7nuKL7CQ",
+  "snapshot_id": "agpWgAAAAABOSpsVFJ7/M/lEzIKAq6Y1",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
           "name": "Aerosmith",
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 262993,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/6w6Uga7PRc63IMJAuVDdLj"
+      "duration_ms": 333662,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
       },
       "artists": [
         {
           "name": "Aerosmith",
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 333662,
-      "name": "Train Kept a Rollin'",
-      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
+      "duration_ms": 262993,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/6w6Uga7PRc63IMJAuVDdLj"
     },
     {
       "added_at": null,

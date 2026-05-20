@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: YUNG SAINT PAUL",
-  "num_followers": 913086,
+  "num_followers": 913052,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,30 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
+        "name": "Prada Sport",
+        "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        },
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Prada Sport",
+      "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
         "name": "Coupe",
         "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
       },
@@ -199,30 +223,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "Prada Sport",
-        "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        },
-        {
-          "name": "AK AUSSERKONTROLLE",
-          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
-        },
-        {
-          "name": "Selim61",
-          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Prada Sport",
-      "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "DRINNE",
         "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
       },
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
         "name": "ZEITPUNKT",
         "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 181624,
       "name": "ZEITPUNKT",
       "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "R\u00fccken an R\u00fccken",
         "url": "https://open.spotify.com/album/0BtBbLSEmjK6y1oCWWyt4I"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 170170,
       "name": "R\u00fccken an R\u00fccken",
       "url": "https://open.spotify.com/track/1zgreHbTAlr6nbV5GMQJ5b"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -515,22 +515,18 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "Lamborghini",
-        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
+        "name": "BRITNEY SPEARS",
+        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
       },
       "artists": [
         {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        },
-        {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
         }
       ],
-      "duration_ms": 156340,
-      "name": "Lamborghini",
-      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
+      "duration_ms": 169384,
+      "name": "BRITNEY SPEARS",
+      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -551,6 +547,26 @@
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -591,22 +607,6 @@
       "duration_ms": 161146,
       "name": "Show",
       "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
-        "name": "BRITNEY SPEARS",
-        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "BRITNEY SPEARS",
-      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 141866,
       "name": "FUXWAVE",
       "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 145652,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 160527,
       "name": "DO NOT DISTURB",
       "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "Viele Jahre",
-        "url": "https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF"
-      },
-      "artists": [
-        {
-          "name": "SIL3A",
-          "url": "https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U"
-        },
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Viele Jahre",
-      "url": "https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "TURN ME UP",
         "url": "https://open.spotify.com/album/5MqYUz0wVNfzrfHdinE3bo"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 143000,
       "name": "TURN ME UP",
       "url": "https://open.spotify.com/track/3r8VSI9LDM04rYpx45dYvz"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "Viele Jahre",
+        "url": "https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF"
+      },
+      "artists": [
+        {
+          "name": "SIL3A",
+          "url": "https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Viele Jahre",
+      "url": "https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
+        "name": "ME GUSTA",
+        "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
         "name": "Madd Ting",
         "url": "https://open.spotify.com/album/5aFNds41L7xe2SJO9XkM5I"
       },
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "ME GUSTA",
-        "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
-        },
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "Plug",
         "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "Uff Yaa",
-        "url": "https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 107546,
-      "name": "Uff Yaa",
-      "url": "https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
         "name": "DON'T JUDGE",
         "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 108386,
       "name": "DON'T JUDGE",
       "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
+        "name": "Uff Yaa",
+        "url": "https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 107546,
+      "name": "Uff Yaa",
+      "url": "https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
       },
       "artists": [
         {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
         }
       ],
-      "duration_ms": 139803,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 139803,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
+    },
+    {
+      "added_at": "2026-05-18 12:59:05",
+      "album": {
         "name": "CLICK F\u00dcR CLICK",
         "url": "https://open.spotify.com/album/3bYSQQAOuX8I4e3ldSqJcc"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 173222,
       "name": "Ana Arabiya",
       "url": "https://open.spotify.com/track/33q5s0rwEJChcuIPN5s7RM"
-    },
-    {
-      "added_at": "2026-05-18 12:59:05",
-      "album": {
-        "name": "V.T.Z.R.",
-        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
-      },
-      "artists": [
-        {
-          "name": "Azu",
-          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-05-18 12:59:05",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2026-05-18 12:59:05",
       "album": {
-        "name": "GLOBALPLAYER",
-        "url": "https://open.spotify.com/album/0xWcT4LMS16Dk4hiZJSbXV"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2jQgajFlj5okka8zk86aK8"
       },
       "artists": [
         {
-          "name": "Atay",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
         }
       ],
-      "duration_ms": 151500,
-      "name": "LOEWE",
-      "url": "https://open.spotify.com/track/346KKbkVI1LNqhRYD1TKX1"
+      "duration_ms": 144253,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK"
     }
   ],
   "unique_name": "Shisha Club",

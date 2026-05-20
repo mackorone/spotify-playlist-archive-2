@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,691 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,711 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 92 | [Stoney End](https://open.spotify.com/track/0Wy0oCdhHxm2wxTDWUfOic) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Time And Love: The Essential Masters](https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP) | 2:43 |
 | 93 | [I Shall Be Released \- Remastered 2000](https://open.spotify.com/track/1IoRkyadylakMOukD7uN67) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 3:12 |
 | 94 | [Evergreen](https://open.spotify.com/track/0j3GgpDSr6ROmp49hcocNR) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Memories](https://open.spotify.com/album/3VrSsM3HH8cubywpIFj4Gr) | 3:04 |
-| 95 | [Long Haired Lady \- Remastered 2012](https://open.spotify.com/track/6WLcfx5k7piKZWUm1SwFco) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 6:05 |
+| 95 | [Long Haired Lady \- Remastered 2012](https://open.spotify.com/track/6WLcfx5k7piKZWUm1SwFco) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [RAM \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 6:05 |
 | 96 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 |
 | 97 | [Gamble](https://open.spotify.com/track/4qBFhjcAsLFizQOccMOuzK) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 4:14 |
 | 98 | [Never Letting Go](https://open.spotify.com/track/71fy2m4JJnqXMMWZHs3W8v) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,234 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,278 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 68 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
 | 69 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
 | 70 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
-| 71 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
-| 72 | [Hope](https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Hope](https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb) | 4:03 |
-| 73 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Julie Benson](https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ) | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC) | 3:04 |
-| 74 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
+| 71 | [Hope](https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Hope](https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb) | 4:03 |
+| 72 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
+| 73 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
+| 74 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Julie Benson](https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ) | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC) | 3:04 |
 | 75 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 |
 | 76 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 |
 | 77 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 89 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 90 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
 | 91 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 92 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 93 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 92 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 93 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 94 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 |
 | 95 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 | 96 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |

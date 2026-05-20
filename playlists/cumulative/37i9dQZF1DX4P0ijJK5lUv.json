@@ -1167,36 +1167,6 @@
     },
     {
       "album": {
-        "name": "Christmas Carols",
-        "url": "https://open.spotify.com/album/4vV9vdFYBPxdsLH3gIRquP"
-      },
-      "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
-        {
-          "name": "Peter J. Wilhousky",
-          "url": "https://open.spotify.com/artist/5iA5RZI1NApzshkyUEUnaa"
-        },
-        {
-          "name": "Sverre Valen",
-          "url": "https://open.spotify.com/artist/7eqcRi0K3ONDRUXzzmfFsc"
-        },
-        {
-          "name": "Valens Solistensemble",
-          "url": "https://open.spotify.com/artist/2dfcbTU2zPhHzuqcEPfpjI"
-        }
-      ],
-      "date_added": "2024-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 109746,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/1O5omHbTTDt7hULN6PhLC4"
-    },
-    {
-      "album": {
         "name": "Christmas with The Westminster Choir",
         "url": "https://open.spotify.com/album/2ELYsBTEhoUNSJGSChxwoh"
       },
@@ -1246,6 +1216,36 @@
       "duration_ms": 293146,
       "name": "Carol of the Bells (arr. piano)",
       "url": "https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/4vV9vdFYBPxdsLH3gIRquP"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "Peter J. Wilhousky",
+          "url": "https://open.spotify.com/artist/5iA5RZI1NApzshkyUEUnaa"
+        },
+        {
+          "name": "Sverre Valen",
+          "url": "https://open.spotify.com/artist/7eqcRi0K3ONDRUXzzmfFsc"
+        },
+        {
+          "name": "Valens Solistensemble",
+          "url": "https://open.spotify.com/artist/2dfcbTU2zPhHzuqcEPfpjI"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109746,
+      "name": "Carol of the Bells (Arr. Wilhousky for Vocal Ensemble)",
+      "url": "https://open.spotify.com/track/1O5omHbTTDt7hULN6PhLC4"
     },
     {
       "album": {
@@ -2324,20 +2324,20 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Ian Hare",
-          "url": "https://open.spotify.com/artist/1EzwcfuxpwfMTbHzpGxmtw"
-        },
-        {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
           "name": "Sir David Willcocks",
           "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
         },
         {
+          "name": "Ian Hare",
+          "url": "https://open.spotify.com/artist/1EzwcfuxpwfMTbHzpGxmtw"
+        },
+        {
           "name": "The Philip Jones Brass Ensemble",
           "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
         }
       ],
       "date_added": "2024-12-16",

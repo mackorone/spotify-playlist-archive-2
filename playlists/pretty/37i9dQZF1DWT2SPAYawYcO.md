@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from: Drake, Genesis Owusu, The Avalanches, Spacey Jane, Gracie Abrams, GIVÉON, Vacations + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,154 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,141 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 63 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
 | 64 | [C U Dance](https://open.spotify.com/track/2eNtzJKL2r9OPXM6qmzZHj) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [C U Dance](https://open.spotify.com/album/6i6QsH2SzVuTHSXjzvHnzR) | 2:22 |
 | 65 | [Crisco](https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE) | 2:56 |
-| 66 | [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/5fI86ifuIke8GRGHNc897R) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 |
+| 66 | [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 |
 | 67 | [If This Is It](https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [If This Is It](https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm) | 4:03 |
 | 68 | [passport stamps](https://open.spotify.com/track/7i8SxkobNnHzSYb7Hnc4VA) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [passport stamps](https://open.spotify.com/album/1rOqnRs7iAE0PH6IM0mNKp) | 2:40 |
 | 69 | [time never mattered](https://open.spotify.com/track/1QJa4TJaKNtVUu8UzXct9d) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [time never mattered](https://open.spotify.com/album/7yo1PpWYPp0nm86SrLOuD7) | 4:53 |

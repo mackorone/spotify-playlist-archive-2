@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300 likes - 171 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 171 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 32 | [Adelaide](https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:02 |
 | 33 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 | 34 | [Little Bit](https://open.spotify.com/track/1CCtxXoJGt2EnTuVufRTxT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Little Bit](https://open.spotify.com/album/4CKqbCxNCPt0hnGdvqDeex) | 2:43 |
-| 35 | [The Hard Way](https://open.spotify.com/track/6jTKmVRVOLrlKrrziwkOal) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:42 |
-| 36 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 35 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 36 | [The Hard Way](https://open.spotify.com/track/6jTKmVRVOLrlKrrziwkOal) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:42 |
 | 37 | [I Don’t \(with DVBBS\)](https://open.spotify.com/track/1J9ekSUHGCaWKBdmeEWPJZ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [I Don’t \(with DVBBS\)](https://open.spotify.com/album/1HFjksWr1gBV4FyYwzrbM8) | 2:54 |
 | 38 | [Dressed Up In White](https://open.spotify.com/track/4jTOmNZQc8qk3FG5GIjpgv) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 3:23 |
 | 39 | [Getaway Car](https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:04 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 95 | [Runaway](https://open.spotify.com/track/0CB8732A7tDEkVsq3o4JT8) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [CRS](https://open.spotify.com/artist/6JmOuvz89uKCAPa5eIF7N5) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:29 |
 | 96 | [Fire](https://open.spotify.com/track/7qmbcwvnyfUldBJQsuF0ZV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:25 |
 | 97 | [Tonight I Can't Say No](https://open.spotify.com/track/5IGnTCrguYRCEOcDU7Cd8m) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 3:29 |
-| 98 | [Gentleman](https://open.spotify.com/track/5NRc6DohCDMHBCrg6ItGFz) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/5Mp6dxzFDVOxzQFCQgkHK6) | 2:48 |
-| 99 | [Yeah](https://open.spotify.com/track/7H4VU04Xw54HtErX68kymy) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:37 |
-| 100 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 98 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 99 | [Gentleman](https://open.spotify.com/track/5NRc6DohCDMHBCrg6ItGFz) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/5Mp6dxzFDVOxzQFCQgkHK6) | 2:48 |
+| 100 | [Yeah](https://open.spotify.com/track/7H4VU04Xw54HtErX68kymy) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:37 |
 | 101 | [Wildheart](https://open.spotify.com/track/73ZgfWXgthO6suB2xM5wac) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:46 |
 | 102 | [Lose My Mind](https://open.spotify.com/track/6KfBu4i8fZr8lUDO8Ij21F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Lose My Mind](https://open.spotify.com/album/1bSmaHKIa6Q53BSMRXT7zy) | 3:29 |
 | 103 | [Fuckin Amazing \(feat\. Cal\)](https://open.spotify.com/track/2eNLKFGQvLXkWW1Fnwnegt) | [Kap Slap](https://open.spotify.com/artist/1yRxS3CXYM7s6amlkEmozI), [Cal](https://open.spotify.com/artist/0hsokEgVmrRVMeirBtwr9p) | [Fuckin Amazing \(feat\. Cal\)](https://open.spotify.com/album/3fSxf3JM0SMi1HS6NnF4zX) | 3:24 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 170 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 171 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcR3GAAAAAAmst3edtC9F5Lv77R0myB+`
+Snapshot ID: `AcR8fAAAAAD9spRhFOPlj2Y2gcYWfvGb`

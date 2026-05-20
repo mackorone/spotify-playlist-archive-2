@@ -1,12 +1,12 @@
 {
   "description": "Becky G is having a main pop girl emergency \ud83c\udd98",
-  "num_followers": 227744,
+  "num_followers": 227782,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALLo2m64AYyovmULBmAd7s7r1sH1",
+  "snapshot_id": "AAAAADiVOpdxyja7vYRo9pRHsfvEtZCT",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:54",
@@ -107,6 +107,22 @@
       "duration_ms": 216400,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+    },
+    {
+      "added_at": "2026-05-19 16:45:59",
+      "album": {
+        "name": "You Oughta Know",
+        "url": "https://open.spotify.com/album/2O6vpPMDKkiwkyGuH0LgaZ"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY"
     },
     {
       "added_at": "2026-04-17 04:01:28",
@@ -1663,22 +1679,6 @@
       "duration_ms": 188533,
       "name": "Afterbody",
       "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
-    },
-    {
-      "added_at": "2025-10-24 04:21:35",
-      "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu"
     }
   ],
   "unique_name": "OBSESSED",

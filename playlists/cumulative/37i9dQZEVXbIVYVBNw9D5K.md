@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,543 songs - 3 day 5 hr 39 min
+1,545 songs - 3 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [1 NUMARA](https://open.spotify.com/track/0gFkmTPcODRGAkziK65hGu) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:35 | 2023-11-25 | 2023-11-27 |
 | [1 YIL](https://open.spotify.com/track/3z6fGBTwoYVq3l8QSRXWFl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:51 | 2025-01-18 | 2025-02-03 |
 | [10 NUMARA](https://open.spotify.com/track/6GDpxEOvaXS0nbqSrFtDAQ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [10 NUMARA](https://open.spotify.com/album/6wtGyjOP42EhS1G29OIJFN) | 1:58 | 2021-10-17 | 2022-06-23 |
-| [10 NUMARA II](https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:03 | 2026-05-13 |  |
+| [10 NUMARA II](https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:03 | 2026-05-13 | 2026-05-20 |
 | [10\. Yıl Marşı](https://open.spotify.com/track/3clZuUiF7kpYwHqqPp1ODb) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [3.5](https://open.spotify.com/album/1fE2VYsu8xK4VbumRKM0Lv) | 3:49 | 2023-10-30 | 2023-11-01 |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-11 | 2023-03-13 |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2022-11-19 | 2023-06-18 |
@@ -170,6 +170,7 @@
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-11 | 2025-09-24 |
 | [Aşk Şarkısı \- Live](https://open.spotify.com/track/7E3YAVF3A7Shm7w2p3Np1Z) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Ayda](https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b) | [Aşk Şarkısı \(Live\)](https://open.spotify.com/album/6ScilctPqH09aFRBeIhA1I) | 3:53 | 2022-09-08 | 2023-01-16 |
+| [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 | 2026-05-19 |  |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
 | [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 | 2026-05-12 |
@@ -325,6 +326,7 @@
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |
 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 | 2025-06-04 | 2025-06-26 |
 | [Bu Yüzden](https://open.spotify.com/track/4EstSHM71cWOVCvIG4pTVB) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Bekliyorum, Öyleyse Yoksun](https://open.spotify.com/album/3qCFtgdLIDnmPldKDWbhXL) | 4:21 | 2021-05-10 | 2021-05-19 |
+| [Bu Yüzden](https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Aşk Kadın Ruhundan Anlamıyor](https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa) | 3:25 | 2026-05-19 |  |
 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 | 2021-07-04 | 2022-03-01 |
 | [Bulamazdım](https://open.spotify.com/track/7Cj6NfRguxo57WTRjtKfV7) | [Faruk Sabanci](https://open.spotify.com/artist/7nPbrzSt1apQM9rY5DVqQZ), [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Bulamazdım](https://open.spotify.com/album/0YsZjSFLSY1fj2P4evAcZY) | 2:45 | 2021-05-16 | 2021-06-27 |
 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 | 2025-04-26 | 2025-06-08 |
@@ -1535,7 +1537,7 @@
 | [Üzülmedim Ki](https://open.spotify.com/track/2Bek0nEQZqOpceXn640Eov) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 2:34 | 2026-04-30 | 2026-05-09 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3ktq4HfC4fop2PgAmU6qtC) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:34 | 2026-04-25 | 2026-05-01 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-23 | 2026-04-26 |
-| [Üzülmedin mi?](https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 5:03 | 2026-05-18 |  |
+| [Üzülmedin mi?](https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 5:03 | 2026-05-18 | 2026-05-20 |
 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 | 2021-03-27\* | 2021-08-22 |
 | [Şahane](https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Şahane](https://open.spotify.com/album/04qJEkzjcJ3jSucaskYDSv) | 1:51 | 2022-09-03 | 2022-09-11 |
 | [Şalteri Kapattım](https://open.spotify.com/track/1PqVXQrffEeYMgcnrAs4Gb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Şalteri Kapattım](https://open.spotify.com/album/37TgJm4FBxXemuA2A44Ztg) | 1:46 | 2024-01-13 | 2024-01-28 |

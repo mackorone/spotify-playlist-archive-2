@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 290355,
+  "num_followers": 290387,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAC/UyLP/Mnf35CTFxLiJ4R8",
+  "snapshot_id": "agpWgAAAAAASefsVk5tp7XAxhJh6hMEY",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,26 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Of Earth & Wires",
+        "url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 122200,
+      "name": "Keep Away (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6wpZpVB1xZCOJBKFo9WSPX"
     },
     {
       "added_at": null,

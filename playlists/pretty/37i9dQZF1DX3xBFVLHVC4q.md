@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,916 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,919 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 4 | [僕らの旅は終わらない](https://open.spotify.com/track/1cTFVsmOJSR78Y6Q4hEpyN) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [永久hours](https://open.spotify.com/album/5cDCiZlnue2BBwYQR01iyY) | 3:48 |
 | 5 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
 | 6 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
-| 7 | [SELF CONTROL!! \- 第8話挿入歌\(フルサイズ\)](https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
+| 7 | [SELF CONTROL!!\[第8話挿入歌\(フルサイズ\)\]](https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
 | 8 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 |
 | 9 | [青空Jumping Heart](https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [青空Jumping Heart](https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ) | 4:44 |
 | 10 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 4:07 |

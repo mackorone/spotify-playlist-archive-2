@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 19.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 20.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -706,6 +706,24 @@
       "duration_ms": 134643,
       "name": "Andere Niveau",
       "url": "https://open.spotify.com/track/3XonaIpRmNAxmbjZgTTvSy"
+    },
+    {
+      "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/3EKbjMsA0ERiC7skPiFGEn"
+      },
+      "artists": [
+        {
+          "name": "MDB",
+          "url": "https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262675,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj"
     },
     {
       "album": {
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 165799,
       "name": "BOMBA",
       "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
@@ -1728,6 +1746,24 @@
       "duration_ms": 183788,
       "name": "BORN SPINNER",
       "url": "https://open.spotify.com/track/5BoNupK3QFtVHB5Eru61HB"
+    },
+    {
+      "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261266,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
     },
     {
       "album": {
@@ -2002,6 +2038,28 @@
       "duration_ms": 119235,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "album": {
+        "name": "CASA CUBA",
+        "url": "https://open.spotify.com/album/096CyB48X0XXSzlY3DzWtM"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "CASA CUBA",
+      "url": "https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U"
     },
     {
       "album": {
@@ -2412,7 +2470,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 135000,
       "name": "CRASHOUT FREESTYLE",
       "url": "https://open.spotify.com/track/4wbXc63MjufLUCXLnIW8B5"
@@ -2466,7 +2524,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
@@ -3058,6 +3116,28 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
+        "name": "Du oder Ich",
+        "url": "https://open.spotify.com/album/6XCcw9kWeRnmMTxpQE7cdm"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171036,
+      "name": "Du oder Ich",
+      "url": "https://open.spotify.com/track/1ItgEv0lUM5ttKKvMPftVL"
     },
     {
       "album": {
@@ -4229,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
+    },
+    {
+      "album": {
         "name": "Gold & Eis",
         "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
       },
@@ -4350,7 +4448,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 175790,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
@@ -5492,7 +5590,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
@@ -5642,7 +5740,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
@@ -5930,7 +6028,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189853,
       "name": "LET ME BE",
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
@@ -6634,7 +6732,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/7fLzbEOBOae9lUnOwr7Tse"
@@ -6758,7 +6856,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
@@ -6856,6 +6954,32 @@
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
+      },
+      "artists": [
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Aditotoro",
+          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
+        },
+        {
+          "name": "Paul Frege",
+          "url": "https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182968,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {
       "album": {
@@ -7012,7 +7136,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -7092,7 +7216,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -7252,7 +7376,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 151346,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/72mTkKFJYy497k5cJhqVwi"
@@ -7652,7 +7776,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/5Ue1gLApNgWJmUsQ1z2Ptt"
@@ -8542,7 +8666,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 182797,
       "name": "SAB\u00cdA QUE NO",
       "url": "https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt"
@@ -8850,7 +8974,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -9284,7 +9408,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 206720,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
@@ -10493,6 +10617,28 @@
     },
     {
       "album": {
+        "name": "Tourbillon",
+        "url": "https://open.spotify.com/album/1zauumJNIILfS8EFrpzHkL"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163748,
+      "name": "Tourbillon",
+      "url": "https://open.spotify.com/track/5dkMbMK1KCJ7u3xStiGl3Q"
+    },
+    {
+      "album": {
         "name": "TOX",
         "url": "https://open.spotify.com/album/5IJQaWQroX7ZQWuGMeWOsE"
       },
@@ -10682,7 +10828,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -10967,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
+    },
+    {
+      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -11062,7 +11226,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 169736,
       "name": "Wach",
       "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"

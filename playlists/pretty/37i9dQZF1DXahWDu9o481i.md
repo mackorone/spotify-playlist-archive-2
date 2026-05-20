@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Momo Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,114 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,294 likes - 66 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 20 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
 | 21 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 22 | [GTKY](https://open.spotify.com/track/3uS7PGMubHFbgxyS8cfqkL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:32 |
-| 23 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |
-| 24 | [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [babygirl](https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL) | 2:27 |
+| 23 | [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [babygirl](https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL) | 2:27 |
+| 24 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |
 | 25 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
 | 26 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
 | 27 | [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 47 | [THE GOSPEL](https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 3:12 |
 | 48 | [No Trick \(feat\. Trim\)](https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [No Trick \(feat\. Trim\)](https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec) | 2:03 |
 | 49 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
-| 50 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 |
-| 51 | [Dance In The USA](https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dance In The USA](https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg) | 2:59 |
+| 50 | [Dance In The USA](https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dance In The USA](https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg) | 2:59 |
+| 51 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 |
 | 52 | [MVP](https://open.spotify.com/track/1L7324QK3osE201YXxrrrl) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:08 |
 | 53 | [100 Years](https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [100 Years](https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw) | 3:54 |
 | 54 | [If You](https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [If You](https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM) | 3:20 |

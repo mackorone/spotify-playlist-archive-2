@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Cover: Randy Travis
 
-[Topsify](https://open.spotify.com/user/topsify) - 58,029 likes - 129 songs - 7 hr 32 min
+[Topsify](https://open.spotify.com/user/topsify) - 58,028 likes - 129 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 158559,
       "name": "Badtrip",
       "url": "https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI"
@@ -4136,6 +4136,32 @@
       "duration_ms": 198375,
       "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
       "url": "https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q"
+    },
+    {
+      "album": {
+        "name": "M\u1eaft B\u00e3o",
+        "url": "https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7"
+      },
+      "artists": [
+        {
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+        },
+        {
+          "name": "Long N\u00f3n L\u00e1",
+          "url": "https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Nghi\u00eam",
+          "url": "https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259402,
+      "name": "M\u1eaft B\u00e3o",
+      "url": "https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK"
     },
     {
       "album": {

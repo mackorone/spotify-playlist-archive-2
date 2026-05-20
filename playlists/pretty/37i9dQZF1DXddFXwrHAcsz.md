@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,822 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,837 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 44 | [Een Beetje Geld Voor Een Beetje Liefde](https://open.spotify.com/track/5Qp9zzVMWSLfrPokMUa8Px) | [Angelique](https://open.spotify.com/artist/5Wc9qBtVXUCDU44qtXDymm) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:03 |
 | 45 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
 | 46 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 |
-| 47 | [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 |
+| 47 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 |
 | 48 | [Niemand Laat Zijn Eigen Kind Alleen](https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 3:08 |
 | 49 | [Open Einde](https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:51 |
 | 50 | [Binnen Zonder Kloppen](https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Zullen We Dansen \- Het Beste Van De Dijk 1981 \- 2006](https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3) | 4:45 |
 | 51 | [Hilversum 3](https://open.spotify.com/track/1Aw2QYdH6zcG3tVHStPL4C) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Het Beste Van De Evergreen Top 1000](https://open.spotify.com/album/1I5RfVCzWQV8RbpaShEhr6) | 3:54 |
-| 52 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 |
+| 52 | [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 |
 | 53 | [Joke Stop Toch Met Koken](https://open.spotify.com/track/7DL2hb41CIMNyCsA51euTZ) | [De Leidse Sleutelgaten](https://open.spotify.com/artist/0EzfzcSiRKGHXSJIQFECEN) | [De Beste Carnaval Hits Ooit](https://open.spotify.com/album/4xKGHN5JhHuaKsEN77g25r) | 2:45 |
 | 54 | [Even Aan Mijn Moeder Vragen](https://open.spotify.com/track/1PAbS4i2Kezbb5V34nvR1c) | [Bloem](https://open.spotify.com/artist/4Q7PRWyZrpaEWFd8I0gdtB) | [Het Beste Uit 5 Jaar Het Foute Uur](https://open.spotify.com/album/0ds8asjvMISV1gqWlvmTUC) | 2:56 |
 | 55 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |

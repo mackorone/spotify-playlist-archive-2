@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 168436,
+  "num_followers": 168484,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Kata",
-        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 220083,
-      "name": "Kata",
-      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Musnah",
         "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
       },
@@ -851,22 +835,34 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Peluk",
-        "url": "https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q"
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
       "artists": [
         {
-          "name": "Hael Husaini",
-          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
-        },
-        {
-          "name": "Nadeera",
-          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 243461,
-      "name": "Peluk",
-      "url": "https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM"
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Janji",
+        "url": "https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "duration_ms": 201014,
+      "name": "Janji",
+      "url": "https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU"
     }
   ],
   "unique_name": "galau rabak",

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 108841,
+  "num_followers": 108853,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+        "name": "Vakantie",
+        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
+      "duration_ms": 165077,
+      "name": "Vakantie (with Jonna Fraser)",
+      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -435,22 +435,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vakantie",
-        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
       },
       "artists": [
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
           "name": "Jonna Fraser",
           "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 165077,
-      "name": "Vakantie (with Jonna Fraser)",
-      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1xLKeedt8cHRVokrzSPA1f"
+      },
+      "artists": [
+        {
+          "name": "Latifah",
+          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+        }
+      ],
+      "duration_ms": 182193,
+      "name": "Avec Me",
+      "url": "https://open.spotify.com/track/0aKgCvKsrq5ELNSG3UiST7"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "We Don't Stop",
         "url": "https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 149027,
       "name": "Vervloekt",
       "url": "https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1xLKeedt8cHRVokrzSPA1f"
-      },
-      "artists": [
-        {
-          "name": "Latifah",
-          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
-        }
-      ],
-      "duration_ms": 182193,
-      "name": "Avec Me",
-      "url": "https://open.spotify.com/track/0aKgCvKsrq5ELNSG3UiST7"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Francis",
         "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 185834,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/1nYj5Hv2ON80QokibDMvOE"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Lekker He",
+        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 145681,
+      "name": "Lekker He",
+      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 243024,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Lekker He",
-        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
-      },
-      "artists": [
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        }
-      ],
-      "duration_ms": 145681,
-      "name": "Lekker He",
-      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
     },
     {
       "added_at": "2024-07-19 06:38:33",

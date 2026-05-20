@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Kvi Baba, KREVA",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u5b87\u591a\u7530\u30d2\u30ab\u30eb",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 145385,
       "name": "Fright",
       "url": "https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO"
@@ -6758,6 +6758,24 @@
       "duration_ms": 203546,
       "name": "Hare Hare",
       "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
+    },
+    {
+      "album": {
+        "name": "Haru Ni Mau",
+        "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238180,
+      "name": "Haru Ni Mau",
+      "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
     },
     {
       "album": {
@@ -9694,6 +9712,28 @@
       "duration_ms": 185802,
       "name": "Love & Happiness (Let\u2019s Be a Santa)",
       "url": "https://open.spotify.com/track/3o8hTgDk7AIJimvGzWVkgu"
+    },
+    {
+      "album": {
+        "name": "LOVE BEAT",
+        "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        },
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "LOVE BEAT",
+      "url": "https://open.spotify.com/track/0RthaAjblef55kS5EoipNJ"
     },
     {
       "album": {
@@ -21992,7 +22032,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 185825,
       "name": "\u30a2\u30c9\u30ec\u30ca",
       "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
@@ -22920,6 +22960,24 @@
       "duration_ms": 227178,
       "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
       "url": "https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251548,
+      "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
     },
     {
       "album": {
@@ -24850,6 +24908,24 @@
       "duration_ms": 251537,
       "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
       "url": "https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a9\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/4kMhGt65ZN0u4txAT81zKu"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "\u30d5\u30a9\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/4SR6nzYh5GFBA9l2q2kMau"
     },
     {
       "album": {
@@ -28446,7 +28522,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 237573,
       "name": "\u5c11\u306a\u3044\u4ef2\u9593",
       "url": "https://open.spotify.com/track/0KPuhYZXMetlpA0jO1uyTF"
@@ -31658,7 +31734,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 208226,
       "name": "\u79c1\u306e\u6b4c",
       "url": "https://open.spotify.com/track/3QUCS59HrDVuLdGdkA69Ip"
@@ -32062,7 +32138,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 188982,
       "name": "\u7dba\u7f85",
       "url": "https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw"
@@ -33178,6 +33254,24 @@
       "duration_ms": 208796,
       "name": "\u91d1\u525b\u529b\u58eb\u50cf",
       "url": "https://open.spotify.com/track/3y9ImuUtxOU6ZlAkbB5SRc"
+    },
+    {
+      "album": {
+        "name": "\u91d1\u5b57\u5854",
+        "url": "https://open.spotify.com/album/4YlNSnSJwiqx9koO9S9l13"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286417,
+      "name": "\u91d1\u5b57\u5854",
+      "url": "https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4"
     },
     {
       "album": {

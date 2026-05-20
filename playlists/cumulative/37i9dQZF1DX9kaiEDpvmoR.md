@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-570 songs - 1 day 9 hr 41 min
+571 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,7 @@
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-29 |  |
 | [Stronger Than](https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Stronger Than](https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo) | 3:08 | 2025-11-14 |  |
 | [Störst av allt](https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR), [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Störst av allt](https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr) | 3:15 | 2025-10-23 |  |
-| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 |  |
+| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 | 2026-05-20 |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-04-02 |  |
 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 |  |
@@ -497,6 +497,7 @@
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 | 2026-02-13 |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-13 | 2026-02-13 |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/3YJI8hB34sSwXLgGJsaNrE) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Linda Pritchard](https://open.spotify.com/artist/2L7B2HrdRDDHC4VMeVdoEK) | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/album/13aWkvowQdGgjQhZQZnstd) | 3:04 | 2025-12-11 | 2026-01-02 |
+| [Tiden](https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Tiden](https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc) | 4:02 | 2026-05-14 |  |
 | [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 | 2024-10-05 |
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 | 2026-02-13 |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |

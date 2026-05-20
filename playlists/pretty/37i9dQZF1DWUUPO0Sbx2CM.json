@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 235945,
+  "num_followers": 235980,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "playlist",
-        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
-      },
-      "artists": [
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        }
-      ],
-      "duration_ms": 164850,
-      "name": "playlist",
-      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "NO SKIPS / GOOD OLD DAYS",
         "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "duration_ms": 164850,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -875,18 +875,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "COMFORTER",
-        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/3t6wKAzOy4XqQWj5cyrfXd"
       },
       "artists": [
         {
-          "name": "IMRHAN",
-          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+          "name": "HAGEN",
+          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
+        },
+        {
+          "name": "CARISSA M.",
+          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
         }
       ],
-      "duration_ms": 215600,
-      "name": "COMFORTER",
-      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
+      "duration_ms": 227692,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/1PQvp6fkppOHj8EgAB3vHy"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -907,22 +911,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/3t6wKAzOy4XqQWj5cyrfXd"
+        "name": "COMFORTER",
+        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
       },
       "artists": [
         {
-          "name": "HAGEN",
-          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
-        },
-        {
-          "name": "CARISSA M.",
-          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
         }
       ],
-      "duration_ms": 227692,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/1PQvp6fkppOHj8EgAB3vHy"
+      "duration_ms": 215600,
+      "name": "COMFORTER",
+      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 156384,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1119,22 +1135,6 @@
       "duration_ms": 118615,
       "name": "BLESS ME",
       "url": "https://open.spotify.com/track/4StSX1ppHrrqOBT2FqcDPs"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Closer Than You Think",
-        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 156384,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Calling My Name",
-        "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
-      },
-      "artists": [
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Calling My Name",
-      "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Heavenly (Ethan C. Davis Remix)",
         "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 222000,
       "name": "Heavenly - Ethan C. Davis Remix",
       "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Calling My Name",
+        "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Calling My Name",
+      "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "CRESCERE (BLVRS Remix)",
-        "url": "https://open.spotify.com/album/1fZWSo1d5rYsIEcAEpZCmi"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        },
-        {
-          "name": "BLVRS",
-          "url": "https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD"
-        }
-      ],
-      "duration_ms": 156245,
-      "name": "CRESCERE - BLVRS Remix",
-      "url": "https://open.spotify.com/track/5Sdci9F4857qfhfEcSLL3o"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Your Love Never Fails",
         "url": "https://open.spotify.com/album/3JjSVPr5nvJhIfQj6TF5TY"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 319226,
       "name": "Come What May",
       "url": "https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "CRESCERE (BLVRS Remix)",
+        "url": "https://open.spotify.com/album/1fZWSo1d5rYsIEcAEpZCmi"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        },
+        {
+          "name": "BLVRS",
+          "url": "https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD"
+        }
+      ],
+      "duration_ms": 156245,
+      "name": "CRESCERE - BLVRS Remix",
+      "url": "https://open.spotify.com/track/5Sdci9F4857qfhfEcSLL3o"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Start Right Now",
-        "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "Start Right Now",
-      "url": "https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "For the Beauty of the Earth",
         "url": "https://open.spotify.com/album/2mdPjnmOTECU1KlRLk3Rsz"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 332991,
       "name": "For the Beauty of the Earth",
       "url": "https://open.spotify.com/track/0qi5pBHXka7TjyURP6gQMf"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Start Right Now",
+        "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "Start Right Now",
+      "url": "https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM"
     },
     {
       "added_at": "2026-04-25 05:41:41",

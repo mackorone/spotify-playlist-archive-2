@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-468 songs - 1 day 2 hr 16 min
+477 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 | 2025-12-26 | 2026-01-25 |
 | [Halftime](https://open.spotify.com/track/01zUhHXnsvqEKaUbwubELW) | [Victoria Ibek](https://open.spotify.com/artist/49Y9JM0W6cbP1dxGZ7z5SS) | [Halftime](https://open.spotify.com/album/1tmgOOS0quA3LwKb9j5zwk) | 3:05 | 2026-03-09 |  |
 | [Hallelujah](https://open.spotify.com/track/4NqOMrht9seUtUw54kap5Q) | [Highlyfe Earl](https://open.spotify.com/artist/36SIhWxeax5jHjWP3pQjNa), [1 OF A KAI](https://open.spotify.com/artist/0tsDsJLHoOIU3AhDosfPrQ), [JAY SUAVE](https://open.spotify.com/artist/30GrLG3wzbjqrVyocoxcWp) | [HELLBOYZ](https://open.spotify.com/album/4RisMx8FZ4ik57GZtKfWwE) | 3:23 | 2026-03-09 |  |
+| [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 | 2026-05-19 |  |
 | [Happy Pills](https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Happy Pills](https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7) | 3:01 | 2026-02-16 | 2026-05-17 |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
@@ -215,6 +216,7 @@
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |
+| [Is This Faith](https://open.spotify.com/track/0zrPGScONhWVuM4YIiyKGV) | [Sara Hecht](https://open.spotify.com/artist/5SdcJmxoUet8wPz869kAi8) | [Is This Faith](https://open.spotify.com/album/3Rv0xhrxY4Sb2BsoPfY50z) | 3:11 | 2026-05-19 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-03-28 | 2026-05-17 |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/53xso5Bn6tTx1hwMKu5ia0) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4yc260le0YppXs9MOv48Wh) | 4:15 | 2026-02-20 | 2026-05-17 |
 | [It's Cool](https://open.spotify.com/track/33gvSmXDDYTWGn3Y25GW0x) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [St.Arnaud](https://open.spotify.com/album/2YdWz8Pzqj2f8jNS3EjIVV) | 4:23 | 2026-04-29 |  |
@@ -228,6 +230,8 @@
 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2025-12-30 | 2026-01-25 |
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 | 2026-01-05 |
 | [Kissing Strangers!](https://open.spotify.com/track/1PUtLs4AITjN1eHjz28G2j) | [Eryka Gray](https://open.spotify.com/artist/3oZefojpA0igBXqOGJ5QFU) | [Kissing Strangers!](https://open.spotify.com/album/4O2JMoZxhhFJ4pUu1laJbB) | 3:21 | 2026-04-10 |  |
+| [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 | 2026-05-19 |  |
+| [L'ultimo Etero Del Mondo](https://open.spotify.com/track/0PnJzlsh1tKHDgd5pQw8pC) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [L'ultimo Etero Del Mondo](https://open.spotify.com/album/2mIOljo5sT5gwmHmbsjMvQ) | 3:18 | 2026-05-19 |  |
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-02-08 | 2026-03-03 |
 | [LA CORREA](https://open.spotify.com/track/6crvVYcGro1Ewukvm98AL0) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [HALLOWEEN](https://open.spotify.com/album/2q0gSWqA5rgVqAnXVTTAwj) | 2:18 | 2025-11-01 | 2025-12-01 |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 |  |
@@ -275,6 +279,7 @@
 | [Mario Kart at Amy's Apartment](https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Emoticon](https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9) | 3:37 | 2026-04-21 |  |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 | 2026-01-15 |
 | [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 | 2026-01-01 | 2026-01-25 |
+| [Me](https://open.spotify.com/track/356jvxIwxF7GCnqZg3xS5n) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Me](https://open.spotify.com/album/42ShDpZIKnaYM5QTXHlXfT) | 2:37 | 2026-05-19 |  |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 | 2026-01-15 |
 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2026-04-06 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 | 2026-01-15 |
@@ -371,6 +376,9 @@
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-05-13 |  |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |
+| [Spacing Out](https://open.spotify.com/track/77fhoJzb7s4oSw7zIrZNyz) | [JTL](https://open.spotify.com/artist/6DZYmpRaYs36tOF2w4RRrN) | [Spacing Out](https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd) | 2:46 | 2026-05-19 |  |
+| [Special Request](https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb) | [Kool Breed](https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28) | [Special Request Tape](https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ) | 4:24 | 2026-05-19 |  |
+| [Spell On Me](https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr) | [Visiion](https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC) | [Spell On Me](https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr) | 1:53 | 2026-05-19 |  |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-11-30 | 2026-01-05 |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-11-17 | 2026-01-05 |
 | [Stereo Romance](https://open.spotify.com/track/1V9vDOFT9l98U0hYW0zq2B) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Stereo Romance](https://open.spotify.com/album/4aj1EEu1FouN8DkCQixHLH) | 4:00 | 2025-11-24 | 2026-01-05 |
@@ -457,6 +465,7 @@
 | [With Me or Not](https://open.spotify.com/track/4HEA6mMR5amsP0cs0zMff3) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [With Me or Not](https://open.spotify.com/album/0SHyYqd5du5q3RPXchBD6l) | 2:55 | 2026-01-13 | 2026-02-21 |
 | [WITHOUT A RUSH](https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [WITHOUT A RUSH](https://open.spotify.com/album/3mlm8T34g8ulynQ4JPbnok) | 4:24 | 2026-04-27 |  |
 | [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 | 2026-03-01 |  |
+| [Witness](https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Witness](https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8) | 2:20 | 2026-05-19 |  |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-03 | 2025-12-01 |
 | [WORK](https://open.spotify.com/track/1oq5IzU37F61XVioGL0DC4) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [WORK](https://open.spotify.com/album/25RS5VNu5tyuusZN8stDpE) | 5:03 | 2025-11-08 | 2025-12-01 |
 | [Would You Even Care](https://open.spotify.com/track/1Kj5ue4WKfvkN2OdvRhhQ0) | [CuLP \- Copper Legion Privateers](https://open.spotify.com/artist/6YYAH4jmUPm0Tplnr5ETYF) | [Would You Even Care](https://open.spotify.com/album/5jpoea7gLlGq65YO5vHsO2) | 2:46 | 2025-11-08 | 2025-12-01 |

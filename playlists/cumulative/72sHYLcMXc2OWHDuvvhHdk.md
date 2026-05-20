@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,374 songs - 5 day 18 hr 31 min
+2,378 songs - 5 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [I'll Have You](https://open.spotify.com/track/3c23HDgsYaSKsl59K8GVV1) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [A Mile in My Shoes](https://open.spotify.com/album/6eHqmKfsE4pQfkLHbP3dFd) | 3:54 | 2024-05-28 |  |
 | [I'll make you happy](https://open.spotify.com/track/0uTQfKXfrhU79zJcnlXxoi) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [OK](https://open.spotify.com/album/54S0EDXsgQNBfVMksulH0o) | 2:37 | 2025-09-03 |  |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-04-02 |  |
+| [I'll Wait for You](https://open.spotify.com/track/7dJpYIhEMCtdSoVaB4aVPw) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 3:20 | 2026-05-19 |  |
 | [I'm a Sinner](https://open.spotify.com/track/70SgTps6vsC85adVwjDYLY) | [Not In Your Circle](https://open.spotify.com/artist/2WezzihuXlpltgixB7wLEO) | [I'm a Sinner](https://open.spotify.com/album/5fvwBZ86vqXIHc6MNXxZH2) | 3:18 | 2024-07-21 |  |
 | [I'm Alright](https://open.spotify.com/track/2LGYKaO9ApU4UjAnIGSS0G) | [déjàvu](https://open.spotify.com/artist/3hzOYxQs9WRjl1sY85rwxZ) | [I'm Alright](https://open.spotify.com/album/6Y12zVhSAdIpgy14QImSPz) | 3:44 | 2024-05-21 |  |
 | [I'm Alright](https://open.spotify.com/track/1YjtCQ5CdbNpvLSuB5Rrtn) | [Shanins Music](https://open.spotify.com/artist/1pOJH5YtCt3a70RwOckpJd) | [I'm Alright](https://open.spotify.com/album/2j3AfJ3Mpaf8Cu5mBim62F) | 3:53 | 2025-05-30 |  |
@@ -1061,6 +1062,7 @@
 | [Just Like Always \- Live Session, Los Angeles, CA, 2020](https://open.spotify.com/track/3ZieIVHQFI5g3UPQeDD4uC) | [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa), [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Jam in the Van \- Manuel The Band \(Live Session, Los Angeles, CA, 2020\)](https://open.spotify.com/album/6jGddgljOMFN5H5YuFwZ7D) | 3:35 | 2024-04-25 |  |
 | [Just You & I](https://open.spotify.com/track/2YIn9YGp0vzigIJIe2D1jk) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw) | [Just You & I](https://open.spotify.com/album/2Hj5WGXa7CvcZc8h8forGs) | 3:22 | 2024-08-23 |  |
 | [Jwala \(Byala\)](https://open.spotify.com/track/1RpjhDYO2SKw2DLGzYp9zk) | [Kay\-T Direct](https://open.spotify.com/artist/4G9VW4yGWDnjSTLIHTv0C0) | [Jwala \(Byala\)](https://open.spotify.com/album/3qQnh5w3QSjkev1kte93s1) | 7:21 | 2025-11-06 |  |
+| [Já Senti Essa Sensação \- Releitura](https://open.spotify.com/track/1fwHdyvQejz1eoyJkf4FpE) | [Steban Retriever](https://open.spotify.com/artist/0tIrRXFXv4u7vqMFPmYhCn) | [Já Senti Essa Sensação \(Releitura\)](https://open.spotify.com/album/6zzADLhQix98s0wTP7iz6V) | 2:24 | 2026-05-19 |  |
 | [Kamunguluze](https://open.spotify.com/track/60BGq71tFxWYKDFNTZzckE) | [Achi](https://open.spotify.com/artist/0OybxmB4xrcfUhXV7RlCn4) | [Kamunguluze](https://open.spotify.com/album/2ZoKfrh51IeiAoV8hXU0c0) | 3:49 | 2025-07-21 |  |
 | [Kansas Tornado](https://open.spotify.com/track/577VH4uHIShw1SFuSw4M7I) | [Eagleman Band](https://open.spotify.com/artist/2Ib0Pp6JhSWt9DQqHntKBk) | [Kansas Tornado](https://open.spotify.com/album/63Z7pbrSI5LjKU6YuwBT76) | 3:27 | 2025-10-14 |  |
 | [Kara Dut](https://open.spotify.com/track/7w729ogTt2Tim4jhWIlEBl) | [Deniz Elver](https://open.spotify.com/artist/2TGf96h8rVqCjWFzB0AzP0) | [Bugünden Yarına Mesaj](https://open.spotify.com/album/3c5aTf0M2t5rcHVV4Cj7JS) | 3:36 | 2025-11-04 |  |
@@ -1641,6 +1643,7 @@
 | [Resurrection](https://open.spotify.com/track/4GuwZMznTvCpt8VTu0TZrR) | [Shots Fired](https://open.spotify.com/artist/0fenMm1qjckngHbRSkYQVW) | [Resurrection](https://open.spotify.com/album/2UCpDFJ5B8p7ydSIERWc2s) | 6:38 | 2025-07-29 |  |
 | [Ride](https://open.spotify.com/track/6uhm5vBL0VD72iHyW6o0vb) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Ride](https://open.spotify.com/album/5FSAhcHOcE4KKbNWO48ime) | 3:22 | 2026-03-17 |  |
 | [Ride](https://open.spotify.com/track/3TPCO4QHr8uNfIkT4Z4JmI) | [Mr.Tac](https://open.spotify.com/artist/5t3ljcFCQwtUQ3zixhqNN9) | [Ride](https://open.spotify.com/album/2zMAc2h0GVg3zsCF0CS97g) | 2:39 | 2025-04-12 |  |
+| [Ride On](https://open.spotify.com/track/3cOxGsyNbpVkdzVuR1CTSI) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [Walk Right Through](https://open.spotify.com/album/0hoQQdQJLWjowjSpoivAD0) | 2:35 | 2026-05-19 |  |
 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 | 2025-09-29 |  |
 | [Ride with Me](https://open.spotify.com/track/4n4WP31bILHTZH7LLC9mEh) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA), [Andrea Döppert](https://open.spotify.com/artist/5MQYZtavscleIiWCraPbqq), [Dominik Göpf](https://open.spotify.com/artist/6CI52JBT217Z9PETNBE6FU), [Florian Döppert](https://open.spotify.com/artist/6XiAqQIEjUavVqcIc9UfJG), [Frank Schulz](https://open.spotify.com/artist/3kG3jtfCbnlu9AbvKjcxHt), [Ute Brätschkus](https://open.spotify.com/artist/2hDS6OGVQcSPhUuwa9wsik) | [Ride with Me](https://open.spotify.com/album/5LLcdy4okP4HhRuPjhLwTd) | 4:33 | 2024-08-01 |  |
 | [Rien qu'un instant](https://open.spotify.com/track/7BV2211XKKIdTV7J1poNp1) | [Just in Case](https://open.spotify.com/artist/3nABlcJN2WbvrQlwE5yZpV) | [Rien qu'un instant](https://open.spotify.com/album/3gTbqejbvcchiukapSvMxg) | 2:45 | 2024-12-17 |  |
@@ -1770,6 +1773,7 @@
 | [Siulí](https://open.spotify.com/track/6RDLRJDYjJwkrpWWXM4qVY) | [Gèls](https://open.spotify.com/artist/0t3gsSSYwcMQWwXNVcwjJn), [Daniel Lumbreras](https://open.spotify.com/artist/15XwWdemFcl58ystIc2MSr) | [Siulí](https://open.spotify.com/album/6zJfTynOEo7tGStKqfduv3) | 5:04 | 2025-08-09 |  |
 | [Six Feet Under](https://open.spotify.com/track/1jCk3RblPgtMX8mV1lP0l5) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [Six Feet Under](https://open.spotify.com/album/2w91lbBdxIhfu4R0szS0hS) | 3:24 | 2024-07-10 |  |
 | [Skin Of My Teeth](https://open.spotify.com/track/3RBJtc6HRbfXs8ttPUkOYs) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Skin Of My Teeth](https://open.spotify.com/album/22fCnpOX8FF7cZZo5u0fvN) | 2:53 | 2025-10-01 |  |
+| [Skipping A Beat](https://open.spotify.com/track/2mv78B46AnG3r9N1CDmX8a) | [HenkeTooRaw](https://open.spotify.com/artist/7xwwPjEquHEn8u1qdpoLlt), [Morrey Banks](https://open.spotify.com/artist/07pdzdybqjsFTPZAURI82d) | [Skipping A Beat](https://open.spotify.com/album/1qnsDhwOjGffXfTIXj5PmM) | 3:50 | 2026-05-19 |  |
 | [Sky Gypsy](https://open.spotify.com/track/2z9H0C75wH8zgtE0dGp7bP) | [The Isolated Brigade](https://open.spotify.com/artist/5Vfw80Y9XrYIHlRhYULwZu) | [Sky Gypsy](https://open.spotify.com/album/6j0tkcuqnOv2TtAZzUkJWn) | 3:06 | 2025-06-29 |  |
 | [Sky Walk](https://open.spotify.com/track/4psXIfjKbe70StXQjPNT5x) | [OYAMANGA](https://open.spotify.com/artist/53UFmIUCPAKCfwUfF0PGdW) | [Light Music](https://open.spotify.com/album/0SyMsR4U0e1eEpo8OShttR) | 4:08 | 2024-07-28 |  |
 | [Skyline](https://open.spotify.com/track/7rIxA2bjTOmDBK5Yanw6gI) | [Polished Chrome](https://open.spotify.com/artist/7s1GGIE5N1Dbxv8flm9NoH) | [Skyline](https://open.spotify.com/album/5fvOwEwfzN8SAeLZU8EPou) | 3:37 | 2024-05-10 |  |

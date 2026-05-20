@@ -2,7 +2,7 @@
 
 ### [Disney Guitar](https://open.spotify.com/playlist/37i9dQZF1DXb5f7x9TU60w)
 
-> Sit back and relax by listening to guitar renditions of your favorite Disney songs.
+> Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
 137 songs - 6 hr 48 min
 

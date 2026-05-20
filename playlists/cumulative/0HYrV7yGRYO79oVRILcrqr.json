@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Bingo",
+        "url": "https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1"
+      },
+      "artists": [
+        {
+          "name": "Neofors",
+          "url": "https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Cheese Is Illegal",
+      "url": "https://open.spotify.com/track/5mSj7KV5jbZlZXuoHtMfV6"
+    },
+    {
+      "album": {
         "name": "Chillin on the breakdown lane",
         "url": "https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq"
       },
@@ -1754,6 +1772,28 @@
       "duration_ms": 273646,
       "name": "Coven's Flame",
       "url": "https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk"
+    },
+    {
+      "album": {
+        "name": "Crave Me",
+        "url": "https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151149,
+      "name": "Crave Me",
+      "url": "https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER"
     },
     {
       "album": {
@@ -6360,6 +6400,24 @@
       "duration_ms": 138999,
       "name": "Promise of salvation",
       "url": "https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm"
+    },
+    {
+      "album": {
+        "name": "Beyond Rock 'n Roll",
+        "url": "https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg"
+      },
+      "artists": [
+        {
+          "name": "Lynn & the RattleShakes",
+          "url": "https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246772,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92"
     },
     {
       "album": {

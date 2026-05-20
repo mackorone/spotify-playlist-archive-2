@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with more than a billion streams on Spotify\. Cover: Shawn Mendes
+> Celebrating all the songs with more than a billion streams on Spotify\. Cover: The Cardigans
 
 1,336 songs - 3 day 9 hr 35 min
 

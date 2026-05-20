@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[](https://open.spotify.com/user/null) - 104,344 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,343 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 36 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
 | 37 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
 | 38 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
-| 39 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
-| 40 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
+| 39 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
+| 40 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
 | 41 | [Päätä Päätä Päätä](https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE) | [Lakko](https://open.spotify.com/artist/48wDYb8J9emrtnfRJvYEdZ), [Herba](https://open.spotify.com/artist/4ifckgu18HJ94DG43ys4Ae) | [Päätä Päätä Päätä](https://open.spotify.com/album/35hMM1YOcRj7pLrx5FcUEq) | 3:13 |
 | 42 | [Riehuu rikkoo rakastaa](https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Riehuu rikkoo rakastaa](https://open.spotify.com/album/7qZf1JEx0DXwvZzHZtpqVR) | 2:55 |
 | 43 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 45 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
 | 46 | [YLHÄÄL JA ALHAAL](https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [YLHÄÄL JA ALHAAL](https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb) | 2:37 |
 | 47 | [Mr Nice Guy](https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [The Chemodan](https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby) | [Mr Nice Guy](https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX) | 2:34 |
-| 48 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
-| 49 | [Hämmästyttävää \(feat\. Hukas\)](https://open.spotify.com/track/7hewnnWdbcbUWh7erWsGpK) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf) | [Hämmästyttävää / Myönnä](https://open.spotify.com/album/2SU66jDtApUFcTFNf6IZ5d) | 2:45 |
+| 48 | [Hämmästyttävää \(feat\. Hukas\)](https://open.spotify.com/track/7hewnnWdbcbUWh7erWsGpK) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf) | [Hämmästyttävää / Myönnä](https://open.spotify.com/album/2SU66jDtApUFcTFNf6IZ5d) | 2:45 |
+| 49 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
 | 50 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
 
 Snapshot ID: `AAAAAI7lb3TNWZ8G4cAv+7xjx/0Gy0kB`

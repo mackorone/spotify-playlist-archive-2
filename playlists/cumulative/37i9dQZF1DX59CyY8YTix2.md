@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: NELKE
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Conton Candy
 
-2,039 songs - 5 day 6 hr 16 min
+2,041 songs - 5 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,7 +1369,7 @@
 | [ハルノイデア](https://open.spotify.com/track/5taXM8Qw7JsuRGEHrYqadB) | [the blue hour](https://open.spotify.com/artist/7n1YSR5QaTKJ1kOQZuWCpP) | [annulus](https://open.spotify.com/album/1MGtkzzZQy6RDyjJkjAYAS) | 4:07 | 2022-06-07 | 2022-06-13 |
 | [ハートにティーン](https://open.spotify.com/track/06pArvncZpFTtja75xD8pG) | [Lady Flash](https://open.spotify.com/artist/0qCQsJMletua7H8PGqrZbR) | [どこにもいけないドア](https://open.spotify.com/album/7zzjaKRuiTXhlLKS1miIz9) | 3:06 | 2023-01-10 | 2023-01-25 |
 | [ハートのSEASON](https://open.spotify.com/track/4ECsu2hg43OGpgafFRuIhe) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [Voice of Angel](https://open.spotify.com/album/4bxxHa7fJ7HWKbNFcUPgZK) | 3:34 | 2022-06-16 | 2022-06-24 |
-| [バイバイ](https://open.spotify.com/track/6Zr594BQu3tXv7YDbWrm8v) | [上に１回動かす。](https://open.spotify.com/artist/7BTx2ud4rJHzgG5ybPDACE) | [バイバイ](https://open.spotify.com/album/3RkDbgiFPtBB7LpTcSMzIg) | 4:16 | 2026-03-31 |  |
+| [バイバイ](https://open.spotify.com/track/6Zr594BQu3tXv7YDbWrm8v) | [上に１回動かす。](https://open.spotify.com/artist/7BTx2ud4rJHzgG5ybPDACE) | [バイバイ](https://open.spotify.com/album/3RkDbgiFPtBB7LpTcSMzIg) | 4:16 | 2026-03-31 | 2026-05-20 |
 | [バイバイヒーロー](https://open.spotify.com/track/5tMptuJ28ZseN6KFoFh8aW) | [こぶたのぶうぶうず](https://open.spotify.com/artist/6jx0JWfjAeXKGfx6MlTpgN) | [バイバイヒーロー](https://open.spotify.com/album/4emP64hdDOk51X15gCZWbK) | 4:56 | 2023-10-19 | 2023-11-08 |
 | [バク](https://open.spotify.com/track/0pPbHXnXkJbcE6Bhn4nFeS) | [komsume](https://open.spotify.com/artist/7AQrLTNwPQzoRHmZ5IRpbo) | [バク](https://open.spotify.com/album/3YNUL1TXxOWCQuDvZKBo0c) | 2:39 | 2023-10-24 | 2023-11-01 |
 | [バジリコ](https://open.spotify.com/track/2zwqBVbPizLtqsNNUqY8QW) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [バジリコ](https://open.spotify.com/album/6mU8UJD5EGdn2lVmFzdYI4) | 3:08 | 2023-06-06 | 2023-06-14 |
@@ -1498,6 +1498,7 @@
 | [リンカーネーション](https://open.spotify.com/track/4u1aJqeQ9hTJ24VpUrqPtg) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [リンカーネーション](https://open.spotify.com/album/7HfdgMA80IFSNZCmKjWGKN) | 4:25 | 2022-06-21 | 2022-06-23 |
 | [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 | 2024-12-11 |
 | [ルージュの伝言](https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:18 | 2023-10-31 | 2023-11-19 |
+| [レイニーデイ](https://open.spotify.com/track/6p2SSslWSnBBBb5KKMcGBS) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [すっぴん](https://open.spotify.com/album/69P6UC5SGDAsDD9t91hpYv) | 4:47 | 2026-05-19 |  |
 | [レザーのシューズ](https://open.spotify.com/track/0lVlLse1bOuFy3Ja1hsTW0) | [The Dahlia](https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n) | [BUZZY KIDS](https://open.spotify.com/album/6DiKSsRk8mSUmtYQx9Fswj) | 2:51 | 2024-09-03 | 2024-09-25 |
 | [レリトラ](https://open.spotify.com/track/5UZzUJcGrE0l4HVQ60G2NB) | [Ellipsick](https://open.spotify.com/artist/1jtFbKwxW3ZKJV5zvhWmiW) | [レリトラ](https://open.spotify.com/album/1vVB8OoGrJdfHXpfNmlmBl) | 3:12 | 2023-11-28 | 2023-12-06 |
 | [ロストガール](https://open.spotify.com/track/3dzbYWQxMQ4uB81wkdOqT0) | [Tsuru](https://open.spotify.com/artist/5qlAFhKHt8dw8mUtoOXing) | [ロストガール](https://open.spotify.com/album/0blhhXxgitz4YuXVYPdoC2) | 3:17 | 2022-06-07 | 2022-06-14 |
@@ -1688,7 +1689,7 @@
 | [心底心中したい](https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [心底心中したい](https://open.spotify.com/album/5G1Mtrtfoil5HJTpF9EPb2) | 2:43 | 2026-01-20 | 2026-02-11 |
 | [心音](https://open.spotify.com/track/6c0WDgIpbryz2p0ZaT8ZQe) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [心音](https://open.spotify.com/album/540ycM7XsviYGoE8jmoIHg) | 4:54 | 2022-08-30 | 2022-09-01 |
 | [心願成就](https://open.spotify.com/track/6udt06khOXgsBIlsRb1wsD) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [心願成就](https://open.spotify.com/album/2FUsgAIhuvXysj9RhPgsWF) | 4:03 | 2022-05-31 | 2022-07-25 |
-| [思い出は海風のように](https://open.spotify.com/track/6NlCSGmTQScS3KLIP9tnGu) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [思い出は海風のように](https://open.spotify.com/album/5W5ASmG12Qq41EOLqzuk54) | 4:34 | 2026-04-21 |  |
+| [思い出は海風のように](https://open.spotify.com/track/6NlCSGmTQScS3KLIP9tnGu) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [思い出は海風のように](https://open.spotify.com/album/5W5ASmG12Qq41EOLqzuk54) | 4:34 | 2026-04-21 | 2026-05-20 |
 | [怪獣が出た！](https://open.spotify.com/track/3ueyGnZ231NbgGPbXhA5B0) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [ジュブナイルのあとがき](https://open.spotify.com/album/4ZWeelfg3C51uYEVNrRWx1) | 4:06 | 2024-07-30 | 2024-08-07 |
 | [恋](https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [恋](https://open.spotify.com/album/3urBw8VQwQN1N6v97kcAvQ) | 3:23 | 2025-03-04 | 2025-04-19 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2022-11-15 | 2023-06-01 |
@@ -1886,6 +1887,7 @@
 | [知らんぺったんゴリラ](https://open.spotify.com/track/5x6qXYhjiEyLQzwKEQIAlJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [知らんぺったんゴリラ](https://open.spotify.com/album/3578skEb0Nqt2WkKallFy1) | 2:15 | 2022-06-27 | 2022-06-29 |
 | [短夜](https://open.spotify.com/track/695UYi9xznehyoGT5gFsRm) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [マジックアワー](https://open.spotify.com/album/75tFu7oGlpDQsGz9qjNX13) | 3:47 | 2025-07-22 | 2025-09-09 |
 | [短編小説](https://open.spotify.com/track/0POqNxQicVUy2vLw66iRl9) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [短編小説](https://open.spotify.com/album/5aHLMgXq2qk9JwOZtJpgAS) | 4:03 | 2024-01-23 | 2024-01-25 |
+| [社会の左](https://open.spotify.com/track/4PGcKMEkq12yHVjn5IS46i) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [社会の左](https://open.spotify.com/album/7wBHzWSSePbWM4ABHjA6Pu) | 3:04 | 2026-05-19 |  |
 | [社会の窓](https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [社会の窓](https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV) | 2:46 | 2024-08-27 | 2025-06-20 |
 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 | 2022-11-08 | 2022-12-14 |
 | [祝祭](https://open.spotify.com/track/0ZZr9fEVZktY5p3uYa9Q1g) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [意地](https://open.spotify.com/album/0DplxxtXVyi6xLp8y4k46k) | 3:36 | 2024-10-15 | 2024-10-23 |

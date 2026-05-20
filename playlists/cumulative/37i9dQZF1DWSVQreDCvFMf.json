@@ -6130,7 +6130,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 89343,
       "name": "ipakita",
       "url": "https://open.spotify.com/track/0IvHzwPRXSGdz5CKUdcZq2"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 238058,
       "name": "Kanlungan",
       "url": "https://open.spotify.com/track/15ImifrJismAGYOU13HOxS"
@@ -9577,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "my crush and i will crush the system baby",
+        "url": "https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117176,
+      "name": "my crush and i will crush the system baby",
+      "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
+    },
+    {
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/5z8hTZy5TPbruzoQJOeuah"
       },
@@ -10498,7 +10516,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 248205,
       "name": "Oh My Lover",
       "url": "https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw"
@@ -12118,6 +12136,24 @@
       "duration_ms": 267896,
       "name": "Pinapaasa",
       "url": "https://open.spotify.com/track/5O6hOrPYNaWVhDgwrSppD7"
+    },
+    {
+      "album": {
+        "name": "Pinay Pa Rin",
+        "url": "https://open.spotify.com/album/2SJsOcWr8O3T3cipOxi9KN"
+      },
+      "artists": [
+        {
+          "name": "Janno Gibbs",
+          "url": "https://open.spotify.com/artist/6ty99gP6NrhgCOkMF2ONpy"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Pinay Pa Rin",
+      "url": "https://open.spotify.com/track/4lPqbA5d6wrgMfxdAOgJPf"
     },
     {
       "album": {
@@ -14180,6 +14216,24 @@
       "duration_ms": 286500,
       "name": "Sori",
       "url": "https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq"
+    },
+    {
+      "album": {
+        "name": "Spell It Out",
+        "url": "https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s"
+      },
+      "artists": [
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160334,
+      "name": "Spell It Out",
+      "url": "https://open.spotify.com/track/0eeQJzdeppwBUhUphmH0V6"
     },
     {
       "album": {

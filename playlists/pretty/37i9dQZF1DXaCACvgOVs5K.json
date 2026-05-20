@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 877202,
+  "num_followers": 877636,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
+        "name": "One Question",
+        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 184019,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
         "name": "The One (feat. Jocelyn Brown)",
         "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 207272,
       "name": "Ain't With That (Late Night Callin')",
       "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "One Question",
-        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 184019,
-      "name": "One Question",
-      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Gets Like That (Jamie Jones Remix)",
-        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Gets Like That - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Gets Like That (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Gets Like That - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -927,18 +927,30 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/2IBPM3ympEL7o5vkWYEJfv"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "ESSENTIA",
+          "url": "https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k"
         }
       ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
+      "duration_ms": 187500,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -959,6 +971,22 @@
       "duration_ms": 190078,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1055,50 +1083,6 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "La La Land",
-        "url": "https://open.spotify.com/album/2IBPM3ympEL7o5vkWYEJfv"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "ESSENTIA",
-          "url": "https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "La La Land",
-      "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
         "name": "TAKE YOU HOME",
         "url": "https://open.spotify.com/album/4AhV8Gy8ltM8UBO7nFJCmQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 246455,
       "name": "TAKE YOU HOME",
       "url": "https://open.spotify.com/track/5OgVrx9nCaokXlgyHPIyIl"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1167,74 +1167,6 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 137682,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "That's a Vibe",
-        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
-      },
-      "artists": [
-        {
-          "name": "Ossie",
-          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
-        }
-      ],
-      "duration_ms": 272681,
-      "name": "Are U Still Smiling?",
-      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -1271,18 +1203,70 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "That's a Vibe",
+        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+      },
+      "artists": [
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        }
+      ],
+      "duration_ms": 272681,
+      "name": "Are U Still Smiling?",
+      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 128780,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Hotter",
-        "url": "https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Hotter",
-      "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1363,6 +1343,26 @@
       "duration_ms": 225250,
       "name": "Bad Habit - Cl\u00fcb De Combat Remix",
       "url": "https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Hotter",
+        "url": "https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Hotter",
+      "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 320597,
       "name": "Pans Of Death",
       "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
+        "name": "The Shiver",
+        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        },
-        {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 192272,
-      "name": "People Like Us",
-      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
+      "duration_ms": 167677,
+      "name": "The Shiver",
+      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "The Shiver",
-        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
         }
       ],
-      "duration_ms": 167677,
-      "name": "The Shiver",
-      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
+      "duration_ms": 192272,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/45L7KpQYCXZRtHQsj0OYXo"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Sweat It Out",
-        "url": "https://open.spotify.com/album/664MLChYil6XVJSQZ1K2qr"
-      },
-      "artists": [
-        {
-          "name": "ALEXANDER RYA",
-          "url": "https://open.spotify.com/artist/3wvx6caa5hMf36Ori5nXsY"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Sweat It Out",
-      "url": "https://open.spotify.com/track/4nyzWJpxvJkl6I8KEXwbTf"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/1F17plZRxOhvYgt18ZcrnJ"
+        "name": "Sweat It Out",
+        "url": "https://open.spotify.com/album/664MLChYil6XVJSQZ1K2qr"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "ALEXANDER RYA",
+          "url": "https://open.spotify.com/artist/3wvx6caa5hMf36Ori5nXsY"
         }
       ],
-      "duration_ms": 191638,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5afZm32oXtSeL8azZ0IJdo"
+      "duration_ms": 161250,
+      "name": "Sweat It Out",
+      "url": "https://open.spotify.com/track/4nyzWJpxvJkl6I8KEXwbTf"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/1F17plZRxOhvYgt18ZcrnJ"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 191638,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5afZm32oXtSeL8azZ0IJdo"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 201508,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Lil Freaky",
-        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
         }
       ],
-      "duration_ms": 210234,
-      "name": "Lil Freaky",
-      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+        "name": "Lil Freaky",
+        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 186776,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+      "duration_ms": 210234,
+      "name": "Lil Freaky",
+      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Get High With You",
-        "url": "https://open.spotify.com/album/1Vaw330SIGSmYBF9VbN5v2"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 186623,
-      "name": "Get High With You",
-      "url": "https://open.spotify.com/track/3BLbMyKaxcKraFkIv1lY91"
-    },
-    {
-      "added_at": "2026-05-14 23:00:38",
-      "album": {
         "name": "Yes Bby",
         "url": "https://open.spotify.com/album/2gifJ3lYQNUkNoa52gZqmJ"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 225000,
       "name": "Yes Bby",
       "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"
+    },
+    {
+      "added_at": "2026-05-14 23:00:38",
+      "album": {
+        "name": "Get High With You",
+        "url": "https://open.spotify.com/album/1Vaw330SIGSmYBF9VbN5v2"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 186623,
+      "name": "Get High With You",
+      "url": "https://open.spotify.com/track/3BLbMyKaxcKraFkIv1lY91"
     },
     {
       "added_at": "2026-05-14 23:00:38",
@@ -1979,22 +1979,18 @@
     {
       "added_at": "2026-05-14 23:00:38",
       "album": {
-        "name": "Back to the Old School",
-        "url": "https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM"
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 371321,
-      "name": "Back to the Old School",
-      "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     }
   ],
   "unique_name": "Ibiza 2026",

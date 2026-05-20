@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
+    },
+    {
+      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
@@ -2164,6 +2182,24 @@
     {
       "album": {
         "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208890,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+    },
+    {
+      "album": {
+        "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
       "artists": [
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 208927,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/5BEf4JOghSSfTBVMlGVPoR"
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 169855,
       "name": "Nada Que Ver",
       "url": "https://open.spotify.com/track/0hoXjJHVEngfgyeTHUXRFs"

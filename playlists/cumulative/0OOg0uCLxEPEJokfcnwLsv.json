@@ -5347,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO"
+      },
+      "artists": [
+        {
+          "name": "Eton Mess",
+          "url": "https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185478,
+      "name": "Painted",
+      "url": "https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY"
+    },
+    {
+      "album": {
         "name": "Pale Face",
         "url": "https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5"
       },
@@ -7083,6 +7101,24 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150924,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA"
+    },
+    {
+      "album": {
         "name": "Take It All",
         "url": "https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP"
       },
@@ -8752,6 +8788,24 @@
       "duration_ms": 188387,
       "name": "XOXO (Ex oh, Ex ow!)",
       "url": "https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4"
+    },
+    {
+      "album": {
+        "name": "Bored of Peace",
+        "url": "https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160771,
+      "name": "Yelling Fire in a Crowded Madhouse",
+      "url": "https://open.spotify.com/track/0pJLjKWA6ySGwtaLdJnblm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16758,
+  "num_followers": 16763,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAABi2aqIZVWU9pYM6cLfF0jj",
+  "snapshot_id": "agpWgAAAAACVUuZOxlDNJTPFJ41v7jdg",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 216586,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 216586,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rollin' and Tumblin'",
+        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 208110,
+      "name": "Rollin\u2019 and Tumblin\u2019",
+      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Gonna Let Nobody Turn Me 'Round",
         "url": "https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL"
       },
@@ -719,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
+        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
       "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
+      "duration_ms": 229525,
+      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
     },
     {
       "added_at": null,
@@ -755,30 +779,6 @@
       "duration_ms": 219961,
       "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
       "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 341454,
+  "num_followers": 341527,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAB4aQk/OG6aRhq5rYY3mAL/",
+  "snapshot_id": "agpWgAAAAAAuJABawZvXNBIzF8idwWKT",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not 4 Sale",
         "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
     },
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AKON'S BEAUTIFUL DAY",
-        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
       "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 157278,
-      "name": "AKON'S BEAUTIFUL DAY",
-      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+        "name": "AKON'S BEAUTIFUL DAY",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
       },
       "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Hold My Hand (with Akon)",
-      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
+      "duration_ms": 157278,
+      "name": "AKON'S BEAUTIFUL DAY",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
     },
     {
       "added_at": null,

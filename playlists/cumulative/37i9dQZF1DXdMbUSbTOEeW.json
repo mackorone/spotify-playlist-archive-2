@@ -280,7 +280,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 178780,
       "name": "Aayi Nai",
       "url": "https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 385488,
       "name": "Mere Naseeb Mein",
       "url": "https://open.spotify.com/track/40fF8sFCRAu2l3fvqfpDJm"
@@ -6469,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "RUMOUR HAS IT",
+        "url": "https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "WANG",
+      "url": "https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF"
+    },
+    {
+      "album": {
         "name": "We Are The People (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
         "url": "https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt"
       },
@@ -6728,6 +6750,36 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/5cCGsxOMz9EZhYDSCG3HNj"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162371,
+      "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"
     },
     {
       "album": {

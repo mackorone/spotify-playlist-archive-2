@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21730,
+  "num_followers": 21731,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -395,8 +395,8 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "HAHAHA",
-        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
+        "name": "Insya Allah",
+        "url": "https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 193959,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
+      "duration_ms": 203557,
+      "name": "Insya Allah",
+      "url": "https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl"
     },
     {
       "added_at": "2025-09-26 09:30:14",
@@ -475,8 +475,8 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Insya Allah",
-        "url": "https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg"
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 203557,
-      "name": "Insya Allah",
-      "url": "https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl"
+      "duration_ms": 193959,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
     },
     {
       "added_at": "2025-09-26 09:30:14",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "duration_ms": 262848,
+      "name": "Broken Symphony",
+      "url": "https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
         "name": "Simpul Tak Berdaya",
         "url": "https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 231954,
       "name": "Simpul",
       "url": "https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Kalem Aya Urang",
-        "url": "https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3"
-      },
-      "artists": [
-        {
-          "name": "Melly Goeslaw",
-          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
-        }
-      ],
-      "duration_ms": 168330,
-      "name": "Kalem Aya Urang",
-      "url": "https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs"
     }
   ],
   "unique_name": "Bekasi Jauh, Semangat! ",

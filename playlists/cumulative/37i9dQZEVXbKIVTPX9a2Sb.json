@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 176032,
       "name": "31",
       "url": "https://open.spotify.com/track/1Gix5ydCHyeExbBvbmI7WH"
@@ -11084,11 +11084,15 @@
         {
           "name": "Separ",
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "prodbyslope",
+          "url": "https://open.spotify.com/artist/62NBGaVbCkGqCi5LVwfOia"
         }
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 174719,
       "name": "DIG ON(A)",
       "url": "https://open.spotify.com/track/4b3t7CiUqEuHkpvFIX7JmJ"
@@ -13112,7 +13116,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -23532,7 +23536,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 163626,
       "name": "KENPACHI&YACHIRU",
       "url": "https://open.spotify.com/track/30rrpjqTLxgNVcyC3YqXLX"
@@ -23572,6 +23576,24 @@
       "duration_ms": 163626,
       "name": "KENPACHI&YACHIRU",
       "url": "https://open.spotify.com/track/57IfGroEKkBZQGoymMSxJK"
+    },
+    {
+      "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/119vGN06mULe4nDFonOOML"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "KENPACHI&YACHIRU",
+      "url": "https://open.spotify.com/track/6QRyVEroDCbxGnFsnEgJl5"
     },
     {
       "album": {
@@ -31744,7 +31766,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -34804,7 +34826,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -36404,7 +36426,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 174117,
       "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
@@ -39340,7 +39362,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189088,
       "name": "RAYMAN",
       "url": "https://open.spotify.com/track/41AP7naWhEeGUzficbWMqd"
@@ -47648,7 +47670,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

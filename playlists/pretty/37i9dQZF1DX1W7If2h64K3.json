@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 58346,
+  "num_followers": 58361,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -519,30 +519,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Dichterliebe & Kerner-Lieder",
-        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
-      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Dichterliebe & Kerner-Lieder",
+        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -635,8 +635,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+        "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
+        "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
       },
       "artists": [
         {
@@ -644,17 +644,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
         },
         {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
         }
       ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+      "duration_ms": 90000,
+      "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
+      "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -683,8 +683,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
-        "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
       "artists": [
         {
@@ -692,17 +692,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
         },
         {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
-      "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -723,34 +723,6 @@
       "duration_ms": 439213,
       "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
       "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Complete Works for Piano Trio",
-        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        },
-        {
-          "name": "Christian Tetzlaff",
-          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
-        },
-        {
-          "name": "Tanja Tetzlaff",
-          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
-        }
-      ],
-      "duration_ms": 478546,
-      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
-      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -783,6 +755,26 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Ll\u0177r Williams",
+          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -811,26 +803,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Ll\u0177r Williams",
-          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
         "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
       },
@@ -851,6 +823,34 @@
       "duration_ms": 484560,
       "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
       "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Complete Works for Piano Trio",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        },
+        {
+          "name": "Tanja Tetzlaff",
+          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
+        }
+      ],
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
-        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
-      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 48106,
       "name": "Kinderszenen, Op. 15: No. 5, Gl\u00fcckes genug",
       "url": "https://open.spotify.com/track/5qQqJuT1RPEthmfp3amYWW"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
+      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
     },
     {
       "added_at": "2025-12-15 12:40:07",

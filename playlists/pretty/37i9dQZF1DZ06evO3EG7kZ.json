@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51684,
+  "num_followers": 51691,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADywzkTP81hz7kchFGM+/7r",
+  "snapshot_id": "agpWgAAAAAA4siC2a3wj+mjPz/t0r+hB",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 105820,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
+      "duration_ms": 79483,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 79483,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
+      "duration_ms": 105820,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
     },
     {
       "added_at": null,

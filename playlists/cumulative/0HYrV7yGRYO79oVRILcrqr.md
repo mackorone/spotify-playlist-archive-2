@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-506 songs - 1 day 7 hr 29 min
+509 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Caught in the Stillness](https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Caught in the Stillness](https://open.spotify.com/album/0UQ0WNh2D6S0InS8ETa4v7) | 3:26 | 2026-03-01 | 2026-03-18 |
 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 | 2026-03-15 |  |
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 | 2026-03-18 |
+| [Cheese Is Illegal](https://open.spotify.com/track/5mSj7KV5jbZlZXuoHtMfV6) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 3:20 | 2026-05-19 |  |
 | [Chillin’ on the breakdown lane](https://open.spotify.com/track/3zxaF7GYPsMnGk65APHrn2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Chillin on the breakdown lane](https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq) | 3:56 | 2026-01-07 | 2026-03-18 |
 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 | 2026-04-30 |  |
 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 |  |
@@ -102,6 +103,7 @@
 | [Country All Across This Land](https://open.spotify.com/track/59iFCv1jLN9r4V4educife) | [Cam Pierce](https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR) | [The Horseshoe](https://open.spotify.com/album/71Pi2kd6ItAuwcaaEsj4ec) | 3:27 | 2025-09-01 |  |
 | [COUNTRY ON ME](https://open.spotify.com/track/0j0JXColubcMwPRQhdm5c2) | [The 508](https://open.spotify.com/artist/7aQxyxGdTVk0NvKqtyjMxB), [akaMahaj](https://open.spotify.com/artist/7rVsc3VNUC6LSpFC9fBdLa) | [COUNTRY ON ME](https://open.spotify.com/album/5DhQ7sKwjxqaWFffYJOT8h) | 4:44 | 2026-03-16 | 2026-04-21 |
 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 | 2025-12-17 |
+| [Crave Me](https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Crave Me](https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK) | 2:31 | 2026-05-19 |  |
 | [Crimini e violenza](https://open.spotify.com/track/3mVOjo2V6Q9MepH5niV1JP) | [Gli Intrusi](https://open.spotify.com/artist/6GlgcfcuxlQVKi1OYnISWG) | [Crimini e violenza](https://open.spotify.com/album/7LCpxBa1j7WiBrC9DIaDMQ) | 4:13 | 2026-04-27 |  |
 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2025-09-28 | 2025-12-17 |
 | [Crush!](https://open.spotify.com/track/41Lzk8mCq71gZPnbLiK81X) | [Marcus Dufray](https://open.spotify.com/artist/3N76PbL6PF7qP3BlH44Svq) | [Crush!](https://open.spotify.com/album/2yEKvtGlCDheDMXPRuAJTr) | 4:39 | 2025-11-09 | 2025-12-17 |
@@ -353,6 +355,7 @@
 | [Princesa de Noche](https://open.spotify.com/track/7MIANoT9Z4Fen2OVxkUPHB) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Princesa de Noche](https://open.spotify.com/album/1gc6uSi9f5jisAR41OGf5Y) | 4:06 | 2025-12-26 | 2026-03-18 |
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 | 2025-12-17 |
+| [Promised Land](https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92) | [Lynn & the RattleShakes](https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig) | [Beyond Rock 'n Roll](https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg) | 4:06 | 2026-05-19 |  |
 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 | 2026-05-17 |  |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 |  |

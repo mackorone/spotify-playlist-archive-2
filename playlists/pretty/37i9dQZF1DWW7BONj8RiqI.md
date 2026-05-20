@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,749 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,779 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 14 | [Last Train](https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Last Train](https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5) | 3:37 |
 | 15 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
 | 16 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
-| 17 | [Encore](https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Encore](https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l) | 4:17 |
-| 18 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
-| 19 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
+| 17 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
+| 18 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
+| 19 | [Encore](https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Encore](https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l) | 4:17 |
 | 20 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
 | 21 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
 | 22 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 75 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
 | 76 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
 | 77 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 |
-| 78 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
-| 79 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
+| 78 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
+| 79 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
 | 80 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 81 | [Rukshun](https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 2:37 |
 | 82 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
-| 83 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
-| 84 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
+| 83 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
+| 84 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 85 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
 | 86 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
 | 87 | [Rock It](https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA) | [Baron](https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p), [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [The KVG](https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2) | [Rock It](https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP) | 2:44 |

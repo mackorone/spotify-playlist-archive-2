@@ -4,7 +4,7 @@
 
 > The Best Indie Tracks of the Moment w/ ThxSoMch
 
-3,092 songs - 7 day 13 hr 44 min
+3,093 songs - 7 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-04 | 2025-05-31 |
 | [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2022-12-16 | 2023-01-21 |
 | [Catching Feelings](https://open.spotify.com/track/2bzFtWh7zNgVCcNGSvsq0U) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Catching Feelings](https://open.spotify.com/album/7L1xzoqD5rKHvS6OdNv3ET) | 3:16 | 2022-12-09 | 2023-03-18 |
+| [Cathedral City](https://open.spotify.com/track/1XMKiF1uSGdIcS5uXyytq9) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6Tx7ZrUkYF0Z4b7IxumLw8) | 3:27 | 2026-05-19 |  |
 | [Caught Up](https://open.spotify.com/track/2RK6RstDU16oSlDyNkCjTj) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Caught Up](https://open.spotify.com/album/3YNJ3hUSZmzN03g0ImFlX3) | 3:23 | 2022-02-11 | 2022-02-26 |
 | [CD Wallet](https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr) | 3:11 | 2024-02-09 | 2024-03-02 |
 | [CD\-R \(unerthed\)](https://open.spotify.com/track/198XF5XB1Jd8fEUDkmlOI6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CD\-R \(unerthed\)](https://open.spotify.com/album/6LNZOeVIL4P3wPrXrZdrHm) | 2:54 | 2025-08-22 | 2025-09-26 |
@@ -795,7 +796,7 @@
 | [Echo Park](https://open.spotify.com/track/0oKMYyW7lQE1KQWCDyNobd) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Echo Park](https://open.spotify.com/album/3tlE6Sz6txgBWAy32hzc8N) | 3:30 | 2022-09-16 | 2022-10-22 |
 | [Echo Party](https://open.spotify.com/track/1uVuiGjIrOxDSlHie1oftn) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [No Rules Sandy](https://open.spotify.com/album/6rl4rzZxECegl9PdYG0hfk) | 4:15 | 2022-08-12 | 2022-09-03 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-03 | 2023-03-18 |
-| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-02-02 | 2024-06-01 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-02-02 |  |
 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-17 |  |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-11-29 | 2025-03-29 |
 | [elephant cage](https://open.spotify.com/track/2jIS2x5DswnvyYFG0sCPDs) | [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [gingerbread](https://open.spotify.com/album/6R8mQxgW07SnFMDsWTfhSo) | 2:29 | 2025-12-26 | 2026-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers\. Cover: Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,316 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,351 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 3 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
 | 4 | [Mooie Blauwe Ogen \- Mooie Blauwe Ogen](https://open.spotify.com/track/3ucTSekSf8now7HhfvoWda) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:21 |
 | 5 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 |
-| 6 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
-| 7 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 6 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 7 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 | 8 | [Engelbewaarder](https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4) | 3:16 |
 | 9 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 | 10 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 39 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
 | 40 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
 | 41 | [Zwevend naar 't geluk](https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 3:38 |
-| 42 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
-| 43 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
+| 42 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
+| 43 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
 | 44 | [Zijn Het Je Ogen](https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [Het Leven Gaat Door](https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW) | 3:20 |
 | 45 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 46 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863315,
+  "num_followers": 863323,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Figurinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 206001,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Evoluiu",
         "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 210386,
       "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Figurinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
-      },
-      "artists": [
-        {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
-        },
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
-        }
-      ],
-      "duration_ms": 206001,
-      "name": "Figurinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Parada Louca",
-        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Parada Louca",
-      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Parada Louca",
+        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Parada Louca",
+      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Amor da Despedida",
         "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 169773,
       "name": "Amor da Despedida",
       "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
-        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "Domingo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "VIBE (Ao Vivo)",
         "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 177805,
       "name": "A Fila Anda - Ao Vivo",
       "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
+        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 176123,
+      "name": "Domingo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 139528,
-      "name": "Vamo Tomar Uma",
-      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Zeca Pagodinho Naturalmente",
         "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 275466,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 139528,
+      "name": "Vamo Tomar Uma",
+      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
-        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 189005,
       "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
+        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Em Sintonia (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        }
+      ],
+      "duration_ms": 173856,
+      "name": "Saudade do Caramba - Ao Vivo",
+      "url": "https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Duetos (Ao Vivo)",
         "url": "https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 176426,
       "name": "Aquele 1% - Ao Vivo",
       "url": "https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Em Sintonia (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        }
-      ],
-      "duration_ms": 173856,
-      "name": "Saudade do Caramba - Ao Vivo",
-      "url": "https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv"
     },
     {
       "added_at": "2024-07-09 12:43:17",

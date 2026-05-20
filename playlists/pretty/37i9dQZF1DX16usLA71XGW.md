@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Ava Peace
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,297 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,308 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 49 | [Ntatoboa](https://open.spotify.com/track/71drzL1qpGHCctFj1EFJ1w) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Ntatoboa](https://open.spotify.com/album/7bBH8FtqTy2kh0tntqCRjK) | 3:49 |
 | 50 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 |
 
-Snapshot ID: `AAAAAG7spB8Nbo4ruXm93+jyrNUHeh5I`
+Snapshot ID: `AAAAABm4uEEKLtBqmKW8HeVxp4Rh/Z5j`

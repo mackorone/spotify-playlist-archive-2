@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 50950,
+  "num_followers": 50956,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Nixon en la Playa",
-        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "La Ni\u00f1a Cu\u00e1ntica",
-      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Onda tropical (Cumbia Version)",
         "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 204000,
       "name": "Onda tropical - Cumbia Version",
       "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Nixon en la Playa",
+        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "La Ni\u00f1a Cu\u00e1ntica",
+      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mar Iguana",
         "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 197821,
       "name": "Mar Iguana",
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Dios",
-        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 193955,
-      "name": "Dios",
-      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mujer Luna",
         "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 211560,
       "name": "Mujer Luna",
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Dios",
+        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 193955,
+      "name": "Dios",
+      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Que Tumba",
         "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 196421,
       "name": "Que Tumba",
       "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Paso Palante",
         "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 245831,
       "name": "Paso Palante",
       "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Sonaja y Tambor",
         "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 237080,
       "name": "Sonaja y Tambor",
       "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Qu\u00e9malo",
-        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Qu\u00e9malo",
-      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "El Vacile Del T\u00edo",
         "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Qu\u00e9malo",
+        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Qu\u00e9malo",
+      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
     },
     {
       "added_at": "2025-05-19 17:05:09",

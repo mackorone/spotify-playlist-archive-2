@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-494 songs - 1 day 6 hr 30 min
+497 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 | 2026-03-21 | 2026-04-20 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |
 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 | 2026-03-11 | 2026-04-20 |
+| [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-05-19 |  |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 | 2026-02-23 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-04 | 2025-11-22 |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2026-04-13 | 2026-05-08 |
@@ -399,6 +400,7 @@
 | [Sun Shines Down](https://open.spotify.com/track/1LL9j1yd94svPseLWDKc8P) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sun Shines Down](https://open.spotify.com/album/4N92uYwtSzNA2P09jRqdpZ) | 3:52 | 2026-02-14 | 2026-03-22 |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 | 2026-02-18 |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-04-06 |  |
+| [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 | 2026-05-19 |  |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-19 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-12 | 2026-04-20 |
@@ -491,6 +493,7 @@
 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 | 2026-05-17 |
 | [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 | 2026-03-28 |  |
 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-03-27 | 2026-04-20 |
+| [Yelling Fire in a Crowded Madhouse](https://open.spotify.com/track/0pJLjKWA6ySGwtaLdJnblm) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:40 | 2026-05-19 |  |
 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 | 2026-01-17 | 2026-02-18 |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-19 | 2026-04-20 |

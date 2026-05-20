@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "2 Hard 4 The Radio",
       "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/5t1LPk2QiG9O7JdL0oAsou"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7880,6 +7880,24 @@
       "duration_ms": 166440,
       "name": "Big Boy",
       "url": "https://open.spotify.com/track/3lviRnxqGTGtOZu90fvqgw"
+    },
+    {
+      "album": {
+        "name": "Big Boy Fever",
+        "url": "https://open.spotify.com/album/40uk0ZB1VdzbYVunGBBARB"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Big Boy Fever",
+      "url": "https://open.spotify.com/track/5LNmbnohhzbRN2Xpl6rITv"
     },
     {
       "album": {
@@ -11100,7 +11118,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -15014,7 +15032,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -18586,7 +18604,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180686,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf"
@@ -22260,6 +22278,24 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "album": {
+        "name": "Gentle Tales from the Hotel Oblivion",
+        "url": "https://open.spotify.com/album/6qElSn67257w5xzcJ5yAcQ"
+      },
+      "artists": [
+        {
+          "name": "Bene Fau",
+          "url": "https://open.spotify.com/artist/3Jjz6J7m5Ig4dqfoxVLJcC"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "Fragile Flower",
+      "url": "https://open.spotify.com/track/22P0fj22onpMJ31bn3SvLM"
     },
     {
       "album": {
@@ -27156,7 +27192,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 207200,
       "name": "I Am Home - (Paris Mix)",
       "url": "https://open.spotify.com/track/0DtsVOi71MOLAsJDXT4428"
@@ -33408,7 +33444,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
@@ -35780,7 +35816,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 152319,
       "name": "magique",
       "url": "https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D"
@@ -36314,7 +36350,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -38000,7 +38036,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180517,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
@@ -39532,7 +39568,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 178893,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
@@ -45492,7 +45528,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 175121,
       "name": "Per sempre s\u00ec",
       "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
@@ -46254,7 +46290,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 195678,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
@@ -49378,7 +49414,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -53024,7 +53060,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 186791,
       "name": "Sick - Remix",
       "url": "https://open.spotify.com/track/6rhwlGxy75AO3lj7KbY2TQ"
@@ -53274,6 +53310,42 @@
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
+    },
+    {
+      "album": {
+        "name": "Six",
+        "url": "https://open.spotify.com/album/17m46THRHJv54F3LbQOJno"
+      },
+      "artists": [
+        {
+          "name": "phvrien",
+          "url": "https://open.spotify.com/artist/11NoHvRzceQmq2azsczjz2"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362945,
+      "name": "Six",
+      "url": "https://open.spotify.com/track/0io1SY6EbQQ7eIYdA4Zawd"
+    },
+    {
+      "album": {
+        "name": "Six",
+        "url": "https://open.spotify.com/album/17m46THRHJv54F3LbQOJno"
+      },
+      "artists": [
+        {
+          "name": "phvrien",
+          "url": "https://open.spotify.com/artist/11NoHvRzceQmq2azsczjz2"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300952,
+      "name": "Six - Pitched Down",
+      "url": "https://open.spotify.com/track/6fwgFs4ZGkbEwN1m7Rcq5V"
     },
     {
       "album": {
@@ -53710,7 +53782,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -55474,6 +55546,24 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/232bVc1IyK2klEdZ4IecyO"
+      },
+      "artists": [
+        {
+          "name": "DJ AlexUnderbridge",
+          "url": "https://open.spotify.com/artist/74NW2eaL3kaWDivMcg3GLL"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318440,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/6BaSkqQjEtGWfOsh1xIVjE"
     },
     {
       "album": {
@@ -57412,7 +57502,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 235216,
       "name": "Talk To Me About",
       "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"

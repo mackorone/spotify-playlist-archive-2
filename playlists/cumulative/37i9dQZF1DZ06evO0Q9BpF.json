@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "El Hijo De Dios",
+        "url": "https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347128,
+      "name": "El Hijo De Dios",
+      "url": "https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F"
+    },
+    {
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },

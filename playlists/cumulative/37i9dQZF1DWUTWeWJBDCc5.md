@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUTWeWJBDCc5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTWeWJBDCc5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTWeWJBDCc5)
 
-### [Editor's Picks Korea: 5월의 노래](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
+### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 뮤직 에디터가 선정한 5월의 노래를 만나보세요.
+> 스포티파이 뮤직 에디터가 선정한 노래를 만나보세요.
 
-190 songs - 10 hr 19 min
+191 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bricks n’ Mortar Shop \(SKRR GANG\)](https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:14 | 2026-04-21 |  |
 | [BRUISE](https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [The 3rd Digital Single BRUISE](https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI) | 3:17 | 2026-02-04 | 2026-03-04 |
 | [BURNING UP](https://open.spotify.com/track/6QQy6TLGFosP96SREaVaYD) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/0UoDQIsOArpbwoVplHKrvy) | 2:49 | 2025-12-04 | 2026-02-05 |
-| [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 | 2026-04-06 | 2026-04-30 |
+| [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 | 2026-04-06 |  |
 | [CAN I SIP 담배](https://open.spotify.com/track/12mcwm60QZRzTOCPv40AT8) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [pullup to busan 4 morE hypEr summEr it’s gonna bE a fuckin moviE](https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy) | 2:17 | 2025-12-04 | 2026-02-05 |
 | [Can’t Sleep](https://open.spotify.com/track/6b7Nlyue6H7kzGMI4MdlS0) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Someone I Know](https://open.spotify.com/album/0BXG5clEkwgQD8nCrbXs04) | 3:58 | 2025-12-04 | 2026-02-05 |
 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 | 2025-12-04 | 2026-02-05 |
@@ -65,7 +65,7 @@
 | [Don't Moshpit \(Feat\. 로한\)](https://open.spotify.com/track/27cZV7pEm5ady6g4t4hXhW) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [Paradise Syndrome](https://open.spotify.com/album/0f6pyI8vYiJpRz3dmX0O3y) | 3:01 | 2026-02-04 | 2026-03-04 |
 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 | 2026-03-03 | 2026-04-30 |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-03-03 | 2026-04-30 |
-| [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-04-06 | 2026-04-30 |
+| [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-04-06 |  |
 | [Endangered Love](https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 3:40 | 2025-12-04 | 2026-02-05 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-12-04 | 2026-02-05 |
 | [ENERGY](https://open.spotify.com/track/3K6yAlZxPch65Xz69S2C8N) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:00 | 2026-04-21 | 2026-04-30 |
@@ -135,6 +135,7 @@
 | [MUSEUM](https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:14 | 2026-03-24 | 2026-04-30 |
 | [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 | 2025-12-04 | 2026-02-05 |
 | [My Body](https://open.spotify.com/track/2AdYT7oPiAASC46qF43dia) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:23 | 2026-03-24 | 2026-04-30 |
+| [NAIL \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [NAIL](https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4) | 2:42 | 2026-05-20 |  |
 | [Never Let Go](https://open.spotify.com/track/37xebnhvUyM8VyyDDeo65d) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:13 | 2026-02-04 | 2026-03-04 |
 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-03-03 | 2026-04-30 |
 | [No Break \(Feat\. Dynamicduo\)](https://open.spotify.com/track/7ptvAVljlaWLh8jzF4fzjd) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:16 | 2026-02-04 | 2026-03-04 |

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60114,
+  "num_followers": 60121,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA+hVQAZBX1eLwYrN7X7cF639+gCnua",
+  "snapshot_id": "AAA+ksjjeqFkCfFULPIHnVq1lEH8s/L9",
   "tracks": [
     {
       "added_at": "2026-05-16 11:12:00",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
+        "name": "Prizes",
+        "url": "https://open.spotify.com/album/2PaFuNBv0489I7aIAZsmVF"
+      },
+      "artists": [
+        {
+          "name": "Narium",
+          "url": "https://open.spotify.com/artist/43Dld7k1tGjzf1geWdpRv1"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Prizes",
+      "url": "https://open.spotify.com/track/4OUCxF0ZTcvcUrPLbw7Jli"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "Worth Your Love",
+        "url": "https://open.spotify.com/album/1nFAaELE63GxVxzs3oPiCK"
+      },
+      "artists": [
+        {
+          "name": "LST",
+          "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
+        }
+      ],
+      "duration_ms": 252012,
+      "name": "Worth Your Love",
+      "url": "https://open.spotify.com/track/5Hqp7pCh8BnTGWpxLv3ONr"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
         "name": "Bunny on the Run",
         "url": "https://open.spotify.com/album/51jFYSLnlUwkr7ALqiK6Dj"
       },
@@ -2031,26 +2063,6 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "American Apparel",
-        "url": "https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        },
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 136397,
-      "name": "American Apparel",
-      "url": "https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
         "name": "Dayside",
         "url": "https://open.spotify.com/album/2Dw6VkY7xOVH6pEIOOb86w"
       },
@@ -2111,6 +2123,26 @@
       "duration_ms": 169002,
       "name": "In The Summer Rain",
       "url": "https://open.spotify.com/track/35S31pjPJ22B59kUhEnnXU"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "American Apparel",
+        "url": "https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        },
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 136397,
+      "name": "American Apparel",
+      "url": "https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -2663,6 +2695,22 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
+        "name": "Letters of Your Name",
+        "url": "https://open.spotify.com/album/1s1N1S9ogft0RYs69aJMN2"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ungerleider",
+          "url": "https://open.spotify.com/artist/0gWUlc0yGrgfEwLjd8HXtV"
+        }
+      ],
+      "duration_ms": 201638,
+      "name": "Letters of Your Name",
+      "url": "https://open.spotify.com/track/7vSI1piJIL0jTlIWmtVjoT"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
         "name": "Fire & Ice / Teeth Pastes",
         "url": "https://open.spotify.com/album/23sME79kEXCSl8iPnvZ2Sw"
       },
@@ -2679,6 +2727,22 @@
       "duration_ms": 211539,
       "name": "Fire & Ice (feat. Wedding Guest)",
       "url": "https://open.spotify.com/track/1sk2n8WgG2qsdD7bhCCemn"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "A Perfect Distance From The Sun, Pt. 2",
+        "url": "https://open.spotify.com/album/5jUhAYoYSb1GSoXSrA07H1"
+      },
+      "artists": [
+        {
+          "name": "Devin Matthew Wilson",
+          "url": "https://open.spotify.com/artist/0YShubpddjv1a8AEFnA2Dq"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "El Gigante",
+      "url": "https://open.spotify.com/track/34KjAKxpBhZfmXigkoKlG5"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -2779,50 +2843,18 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "Prizes",
-        "url": "https://open.spotify.com/album/2PaFuNBv0489I7aIAZsmVF"
+        "name": "Still I Can",
+        "url": "https://open.spotify.com/album/5hqr20mEn8isJnBMyrIZVA"
       },
       "artists": [
         {
-          "name": "Narium",
-          "url": "https://open.spotify.com/artist/43Dld7k1tGjzf1geWdpRv1"
+          "name": "Abstraxion",
+          "url": "https://open.spotify.com/artist/42Rm3uPICrqZINjvxC2grb"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Prizes",
-      "url": "https://open.spotify.com/track/4OUCxF0ZTcvcUrPLbw7Jli"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Worth Your Love",
-        "url": "https://open.spotify.com/album/1nFAaELE63GxVxzs3oPiCK"
-      },
-      "artists": [
-        {
-          "name": "LST",
-          "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
-        }
-      ],
-      "duration_ms": 252012,
-      "name": "Worth Your Love",
-      "url": "https://open.spotify.com/track/5Hqp7pCh8BnTGWpxLv3ONr"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Hoping/Fading",
-        "url": "https://open.spotify.com/album/4jj9xExzUorTX1gYZhbEbM"
-      },
-      "artists": [
-        {
-          "name": "Robin Kenny",
-          "url": "https://open.spotify.com/artist/3PN26R9mkbh4aIcGWYVP3I"
-        }
-      ],
-      "duration_ms": 321708,
-      "name": "Hoping/Fading",
-      "url": "https://open.spotify.com/track/5lH5GkTMIzL5D6COWPeHLv"
+      "duration_ms": 213351,
+      "name": "Still I Can",
+      "url": "https://open.spotify.com/track/197hxhyU4Sxcc3dvCbS0HP"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -2855,6 +2887,22 @@
       "duration_ms": 402642,
       "name": "raining here, too",
       "url": "https://open.spotify.com/track/7kbKyUXpXykTZsRct9O3ZB"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "Hoping/Fading",
+        "url": "https://open.spotify.com/album/4jj9xExzUorTX1gYZhbEbM"
+      },
+      "artists": [
+        {
+          "name": "Robin Kenny",
+          "url": "https://open.spotify.com/artist/3PN26R9mkbh4aIcGWYVP3I"
+        }
+      ],
+      "duration_ms": 321708,
+      "name": "Hoping/Fading",
+      "url": "https://open.spotify.com/track/5lH5GkTMIzL5D6COWPeHLv"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -2903,38 +2951,6 @@
       "duration_ms": 90628,
       "name": "A New Way to Mania",
       "url": "https://open.spotify.com/track/33qc8w8hD1iW3Bl9tYIw1c"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Still I Can",
-        "url": "https://open.spotify.com/album/5hqr20mEn8isJnBMyrIZVA"
-      },
-      "artists": [
-        {
-          "name": "Abstraxion",
-          "url": "https://open.spotify.com/artist/42Rm3uPICrqZINjvxC2grb"
-        }
-      ],
-      "duration_ms": 213351,
-      "name": "Still I Can",
-      "url": "https://open.spotify.com/track/197hxhyU4Sxcc3dvCbS0HP"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Letters of Your Name",
-        "url": "https://open.spotify.com/album/1s1N1S9ogft0RYs69aJMN2"
-      },
-      "artists": [
-        {
-          "name": "Jacob Ungerleider",
-          "url": "https://open.spotify.com/artist/0gWUlc0yGrgfEwLjd8HXtV"
-        }
-      ],
-      "duration_ms": 201638,
-      "name": "Letters of Your Name",
-      "url": "https://open.spotify.com/track/7vSI1piJIL0jTlIWmtVjoT"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -3115,22 +3131,6 @@
       "duration_ms": 258168,
       "name": "Battlebots",
       "url": "https://open.spotify.com/track/3S816BsTQcxbGwySd9DpEc"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "A Perfect Distance From The Sun, Pt. 2",
-        "url": "https://open.spotify.com/album/5jUhAYoYSb1GSoXSrA07H1"
-      },
-      "artists": [
-        {
-          "name": "Devin Matthew Wilson",
-          "url": "https://open.spotify.com/artist/0YShubpddjv1a8AEFnA2Dq"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "El Gigante",
-      "url": "https://open.spotify.com/track/34KjAKxpBhZfmXigkoKlG5"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -5503,22 +5503,6 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
-        "name": "338",
-        "url": "https://open.spotify.com/album/4Wky4HmfpvXZChN1yl3efM"
-      },
-      "artists": [
-        {
-          "name": "Orbit 17",
-          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
-        }
-      ],
-      "duration_ms": 210872,
-      "name": "338",
-      "url": "https://open.spotify.com/track/6hjawpnwAiibqJ1m3CLKAP"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
         "name": "Babycake",
         "url": "https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3"
       },
@@ -5531,6 +5515,22 @@
       "duration_ms": 148465,
       "name": "Babycake",
       "url": "https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
+        "name": "338",
+        "url": "https://open.spotify.com/album/4Wky4HmfpvXZChN1yl3efM"
+      },
+      "artists": [
+        {
+          "name": "Orbit 17",
+          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
+        }
+      ],
+      "duration_ms": 210872,
+      "name": "338",
+      "url": "https://open.spotify.com/track/6hjawpnwAiibqJ1m3CLKAP"
     },
     {
       "added_at": "2026-05-09 22:50:25",

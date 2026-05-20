@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: James Hype
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,651 likes - 83 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,688 likes - 83 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

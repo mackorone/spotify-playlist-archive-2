@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-134 songs - 8 hr 40 min
+135 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [I Want It All \- Remastered 2011](https://open.spotify.com/track/4DtB1PJsbl4KAb2rZVNCUL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 4:02 | 2025-03-27 | 2026-05-11 |
 | [I Want It All \- Single Version](https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 4:01 | 2023-02-11 |  |
 | [I Want It All \- Single Version](https://open.spotify.com/track/1MX6kqZ8FOht5UnQuPl6Jj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/7kiDOzNkoKCEgqGZrpPrej) | 4:02 | 2022-09-17 | 2023-02-12 |
+| [I Want To Break Free](https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:43 | 2026-05-20 |  |
 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/7h2yhVxcZOGyQdOwD4Hu8J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:18 | 2025-03-27 | 2026-05-11 |
-| [I Want To Break Free \- Single Remix](https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:18 | 2022-09-17 |  |
+| [I Want To Break Free \- Single Remix](https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:18 | 2022-09-17 | 2026-05-20 |
 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/1CKo7tzWiPzIGXc28DrABh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 4:49 | 2025-03-27 | 2026-05-11 |
 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 | 2022-09-17 |  |
 | [I'm Going Slightly Mad \- Remastered 2011](https://open.spotify.com/track/1pHVfiNHMMZYquR35fTZdM) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:22 | 2022-09-17 | 2022-10-24 |

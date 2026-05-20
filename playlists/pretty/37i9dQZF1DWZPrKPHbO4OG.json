@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 37483,
+  "num_followers": 37499,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-03-18 08:55:51",
       "album": {
+        "name": "Chandramukhi",
+        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Chandra (Featuring. Shreya Ghoshal)",
+      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
+    },
+    {
+      "added_at": "2026-03-18 08:55:51",
+      "album": {
         "name": "Punyachi Maina",
         "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 238864,
       "name": "Meri Madhubala",
       "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2026-03-18 08:55:51",
-      "album": {
-        "name": "Chandramukhi",
-        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Chandra (Featuring. Shreya Ghoshal)",
-      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
     },
     {
       "added_at": "2026-03-18 08:55:51",

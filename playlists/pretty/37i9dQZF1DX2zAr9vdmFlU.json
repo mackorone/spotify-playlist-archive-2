@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437638,
+  "num_followers": 437667,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Catalina",
-        "url": "https://open.spotify.com/album/35l4EIrb4K76NjH2lI3K2x"
-      },
-      "artists": [
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "Catalina",
-      "url": "https://open.spotify.com/track/4ULCOafYh99FL7iMMEF9cc"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/35l4EIrb4K76NjH2lI3K2x"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/4ULCOafYh99FL7iMMEF9cc"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
-      },
-      "artists": [
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 225109,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Legados Bachata",
         "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 246000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 225109,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "La del bar",
+        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+      },
+      "artists": [
+        {
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "La del bar",
+      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "La del bar",
-        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
-      },
-      "artists": [
-        {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "La del bar",
-      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Otros Aires",
+        "url": "https://open.spotify.com/album/5NyB7MRoZ81kGJz7uRpHmd"
+      },
+      "artists": [
+        {
+          "name": "Otros Aires",
+          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/4lPt2Wyz2u92f6BC8gb93O"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Game On",
         "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
       },
@@ -1771,38 +1787,18 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Harissa",
-        "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
+        "name": "M\u00fasica Sin Tiempo",
+        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
       },
       "artists": [
         {
-          "name": "AvenREC",
-          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 183702,
-      "name": "No S\u00e9 Que Hacer",
-      "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Nova Bis - Paulinho da Viola",
-        "url": "https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
+      "duration_ms": 284020,
+      "name": "M\u00fasica Sin Tiempo",
+      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
     }
   ],
   "unique_name": "Latin Dinner",

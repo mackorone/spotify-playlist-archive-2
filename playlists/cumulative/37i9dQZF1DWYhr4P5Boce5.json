@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Back To My Love",
+        "url": "https://open.spotify.com/album/6uHmgHCWmAHy5vgMOOnXOd"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191401,
+      "name": "Back To My Love",
+      "url": "https://open.spotify.com/track/55ZFMluoPJOILQ7jHeKvmD"
+    },
+    {
+      "album": {
         "name": "Band of Gold // Summer Sessions",
         "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
       },
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
@@ -1240,6 +1258,28 @@
       "duration_ms": 197846,
       "name": "Dear No One",
       "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
+    },
+    {
+      "album": {
+        "name": "Divine Romance (Wedding Version)",
+        "url": "https://open.spotify.com/album/4iu7mcCQ3SehrMlDJlBOML"
+      },
+      "artists": [
+        {
+          "name": "Brian Nhira",
+          "url": "https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324782,
+      "name": "Divine Romance - Wedding Version",
+      "url": "https://open.spotify.com/track/4Yt5PN919kn34LcG7G1fLU"
     },
     {
       "album": {
@@ -2985,6 +3025,32 @@
     },
     {
       "album": {
+        "name": "LEFT HAND",
+        "url": "https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217634,
+      "name": "LEFT HAND (feat. Terrian)",
+      "url": "https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5"
+    },
+    {
+      "album": {
         "name": "What a Heart Is Beating For",
         "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
       },
@@ -3936,7 +4002,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 185062,
       "name": "On This Special Day (Wedding Song)",
       "url": "https://open.spotify.com/track/1mwVdUrh672eGb7rxnxgfm"
@@ -5167,6 +5233,24 @@
     },
     {
       "album": {
+        "name": "nine things & true love",
+        "url": "https://open.spotify.com/album/0fsCenVJIamz57SgY5b17z"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179285,
+      "name": "true love",
+      "url": "https://open.spotify.com/track/53NBKYQU6gkojWBCYmJcfT"
+    },
+    {
+      "album": {
         "name": "Try Love",
         "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
       },
@@ -5272,7 +5356,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 151530,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
@@ -5334,7 +5418,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"

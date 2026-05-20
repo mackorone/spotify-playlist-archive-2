@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "One Night Only. Cover: Masdo",
-  "name": "On Tour Singapore: Masdo",
+  "description": "One Night Only. Cover: Laufey",
+  "name": "On Tour Singapore: Laufey",
   "tracks": [
     {
       "album": {
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 199826,
       "name": "Begini Jadinya",
       "url": "https://open.spotify.com/track/3QfLXIafs14HeRtkPwswPq"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 200917,
       "name": "Bercanda Di Malam Indah",
       "url": "https://open.spotify.com/track/4YGaMbwf90fPRM8poz0vB1"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 223235,
       "name": "Berduka-Lara",
       "url": "https://open.spotify.com/track/0CCtyxmEcpIQaNwPqWHgAW"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 233319,
       "name": "Bunga",
       "url": "https://open.spotify.com/track/7C2yPt4ItFJ6uu1ACJ5eVs"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/2DG20cnHcJch4H9pbL9w7r"
+    },
+    {
+      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -3554,6 +3572,24 @@
       "duration_ms": 278400,
       "name": "Clara (the night is dark)",
       "url": "https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
     },
     {
       "album": {
@@ -3992,6 +4028,24 @@
       "duration_ms": 183466,
       "name": "Crying",
       "url": "https://open.spotify.com/track/2EcUNCoMNUqqF6v81loNNk"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "Cuckoo Ballet - Interlude",
+      "url": "https://open.spotify.com/track/1AoLEGCko16VHdYsG2POwH"
     },
     {
       "album": {
@@ -4478,7 +4532,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 191226,
       "name": "Dewi Puspita",
       "url": "https://open.spotify.com/track/43nq3FgevhEHUUU2ZqAk97"
@@ -4536,7 +4590,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 198320,
       "name": "Dia",
       "url": "https://open.spotify.com/track/5D9p7VmCNgjBBXsWswLrsY"
@@ -4702,7 +4756,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 211544,
       "name": "Dinda",
       "url": "https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w"
@@ -4720,7 +4774,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 206805,
       "name": "Dinda (Versi Akustik)",
       "url": "https://open.spotify.com/track/2LcBjF1JMn2HPsLJJrxzYr"
@@ -5092,7 +5146,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
@@ -5844,7 +5898,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
@@ -6492,7 +6546,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 241080,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
@@ -6640,6 +6694,24 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "album": {
@@ -7074,7 +7146,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -9288,7 +9360,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 160117,
       "name": "Inilah JalanNya",
       "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
@@ -9544,7 +9616,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 196573,
       "name": "Janji Manis",
       "url": "https://open.spotify.com/track/31ECplyzYRmbQihescMh6N"
@@ -9562,7 +9634,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 193994,
       "name": "Janji Manis (Versi Akustik)",
       "url": "https://open.spotify.com/track/4w3ZBVBBfCIcBkpbXIPlWR"
@@ -9920,7 +9992,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 193586,
       "name": "Kasih & Sayang",
       "url": "https://open.spotify.com/track/61jy6dPYKQfay4P5gEBnjm"
@@ -9956,7 +10028,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 148676,
       "name": "Kecundang",
       "url": "https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2"
@@ -10730,7 +10802,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Let You Break My Heart Again",
       "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
@@ -10766,7 +10838,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 262680,
       "name": "Letter To My 13 Year Old Self",
       "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
@@ -11235,6 +11307,24 @@
     },
     {
       "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
+    },
+    {
+      "album": {
         "name": "Lover \u6e38\u620f (feat. \u8521\u6069\u96e8)",
         "url": "https://open.spotify.com/album/3TICiZ8ItvmR2LVSl38nbV"
       },
@@ -11348,6 +11438,24 @@
       "duration_ms": 177529,
       "name": "mad",
       "url": "https://open.spotify.com/track/5y5r0EqHTGhkNEBhWIGVCS"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "album": {
@@ -11506,7 +11614,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 194177,
       "name": "Malam Pesta Rock N Roll",
       "url": "https://open.spotify.com/track/4QDrOKXOyPV6Id2jtbAEgr"
@@ -12168,7 +12276,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 193074,
       "name": "Miss Flower Learns To Twist",
       "url": "https://open.spotify.com/track/6yF1FtOL23RnIDWNuJBzbi"
@@ -12461,6 +12569,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/6Qz3tsqLqEwH1Fha5giani"
+    },
+    {
+      "album": {
         "name": "My Answer",
         "url": "https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8"
       },
@@ -12606,7 +12732,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 198093,
       "name": "Nearly Near You",
       "url": "https://open.spotify.com/track/6QvtmOvCNP9DmNdQUrBaxR"
@@ -13984,7 +14110,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 200277,
       "name": "Perih Jerih",
       "url": "https://open.spotify.com/track/5FU11jfMr0J7tr2LJkb1S7"
@@ -14364,7 +14490,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -14386,7 +14512,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 234154,
       "name": "Pujaanku (feat. Aisyah Aziz)",
       "url": "https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg"
@@ -14642,7 +14768,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 240523,
       "name": "Ratu Hati",
       "url": "https://open.spotify.com/track/2KWVdn0dRgWs03KuGnVQzM"
@@ -15169,6 +15295,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/2AD9ENIeGBDjNNqzynaoiK"
+    },
+    {
+      "album": {
         "name": "sabotage",
         "url": "https://open.spotify.com/album/0HqvuYGEe1eStpbGsniM65"
       },
@@ -15562,6 +15706,24 @@
       "duration_ms": 224693,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1NhPKVLsHhFUHIOZ32QnS2"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Seems Like Old Times",
+      "url": "https://open.spotify.com/track/3Ci1aN2eXmaPEwdaTe968z"
     },
     {
       "album": {
@@ -16131,6 +16293,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "album": {
         "name": "Rover - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
       },
@@ -16348,6 +16528,24 @@
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl"
+    },
+    {
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
     },
     {
       "album": {
@@ -17598,7 +17796,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 201613,
       "name": "Teruna & Dara",
       "url": "https://open.spotify.com/track/2bFG83r5DHB6lJ008JLgaU"
@@ -18487,6 +18685,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
+    },
+    {
+      "album": {
         "name": "TOP FORM",
         "url": "https://open.spotify.com/album/61D7L69sZpM1AYgdqTNB0x"
       },
@@ -18574,6 +18790,24 @@
       "duration_ms": 169146,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH"
+    },
+    {
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
       "album": {
@@ -19022,7 +19256,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -19762,7 +19996,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 177493,
       "name": "While You Were Sleeping",
       "url": "https://open.spotify.com/track/753iehfOnYSmjVfjx20znR"

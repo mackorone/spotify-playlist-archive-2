@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,360 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,398 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 16 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
 | 17 | [Ak 47 \- From "Hero Naam Yaad Rakhi"](https://open.spotify.com/track/1sPu6Tfpdk5nksIKixMTJ6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 3:10 |
 | 18 | [Patiala Peg](https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Patiala Peg](https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m) | 3:08 |
-| 19 | [Raat Di Gedi](https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Raat Di Gedi](https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ) | 3:18 |
-| 20 | [5 Taara](https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [5 Taara](https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn) | 2:58 |
-| 21 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
+| 19 | [5 Taara](https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [5 Taara](https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn) | 2:58 |
+| 20 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
+| 21 | [Raat Di Gedi](https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Raat Di Gedi](https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ) | 3:18 |
 | 22 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
 | 23 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
 | 24 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 47 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 |
 | 48 | [Daytona](https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 |
 | 49 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
-| 50 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 |
+| 50 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 |
 
 Snapshot ID: `AAAAAH4aM0lTf0Qu/JYrFvxWvX9tKv5p`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Kemmler
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,466 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,474 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 3 | [ZÉNITH](https://open.spotify.com/track/62BnSCmNcTZRXlWuEHllG8) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa) | [ZÉNITH](https://open.spotify.com/album/3iUwzx9RU5uR7lLmTmEWhz) | 5:06 |
 | 4 | [Civilisé, Pt\. III](https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Civilisé, Pt\. III](https://open.spotify.com/album/4O12LgQbABuaxgrj0HUHze) | 3:10 |
 | 5 | [99PROBLEMS](https://open.spotify.com/track/7A0S4M94TZ3Mk7HQbHb3JE) | [Sullykzr](https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW) | [99PROBLEMS](https://open.spotify.com/album/2VqTBQbkGweuAcF3plNujF) | 2:48 |
-| 6 | [Le Déluge](https://open.spotify.com/track/4ykCrN6StkWboJdGelDZB9) | [Ul'team Atom](https://open.spotify.com/artist/5Ob7h4rayQncR9oPFp56hz), [L'uzine](https://open.spotify.com/artist/7BeihcnNgK5Md6ORbMEqwf), [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [Grödash](https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu), [Templar](https://open.spotify.com/artist/04fzYkCptltCeyBAjpQ5fd), [Fik's Niavo](https://open.spotify.com/artist/1VDrL37bOiywI6db78fLAo) | [Le Déluge](https://open.spotify.com/album/0o2oObjHzo7LyAmuFVCZGA) | 6:39 |
+| 6 | [Le Déluge](https://open.spotify.com/track/4ykCrN6StkWboJdGelDZB9) | [Ul'team Atom](https://open.spotify.com/artist/5Ob7h4rayQncR9oPFp56hz), [L'uzine](https://open.spotify.com/artist/7BeihcnNgK5Md6ORbMEqwf), [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [Grödash](https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu), [Templar](https://open.spotify.com/artist/04fzYkCptltCeyBAjpQ5fd), [Fik's Niavo](https://open.spotify.com/artist/1VDrL37bOiywI6db78fLAo), [Stab Beatmaker](https://open.spotify.com/artist/6ONXvdKxE4MbwqgxYwdUIo) | [Le Déluge](https://open.spotify.com/album/0o2oObjHzo7LyAmuFVCZGA) | 6:39 |
 | 7 | [La où ils ne vivent pas](https://open.spotify.com/track/3kwMLmLzbHYja01IeFs8ad) | [Mehdi Miklo](https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB), [Relo](https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf) | [La où ils ne vivent pas](https://open.spotify.com/album/3eDUW1lOz3UBv2Jbtsd9m7) | 2:49 |
 | 8 | [KALASH IRANIEN](https://open.spotify.com/track/5docFUb4mHKubzp818riIX) | [Zek](https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr) | [GRAND LUXXXE Vol.1](https://open.spotify.com/album/1dspNidPL5QYIZ5Awbt4bw) | 3:04 |
 | 9 | [si seulement](https://open.spotify.com/track/3c7oBQRnzj0RmOpnJtzjZR) | [nash](https://open.spotify.com/artist/3yoDs6sqTCOYJXa8T7LGmb) | [si seulement](https://open.spotify.com/album/26h8d1yrM8gIefySp2NEew) | 3:04 |

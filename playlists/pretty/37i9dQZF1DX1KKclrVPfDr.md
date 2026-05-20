@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 40 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
 | 41 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |
 | 42 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
-| 43 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
-| 44 | [Najariya Lag Jaihen](https://open.spotify.com/track/6JlkX8qubfCB7ekW5rPZum) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 7:06 |
-| 45 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
+| 43 | [Najariya Lag Jaihen](https://open.spotify.com/track/6JlkX8qubfCB7ekW5rPZum) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 7:06 |
+| 44 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
+| 45 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |
 | 46 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 |
-| 47 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
-| 48 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
-| 49 | [Samdhi Ho Gaile Nachniyaan](https://open.spotify.com/track/2X0dl5IqzEhhaLxosSjhBi) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 4:45 |
-| 50 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |
+| 47 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
+| 48 | [Samdhi Ho Gaile Nachniyaan](https://open.spotify.com/track/2X0dl5IqzEhhaLxosSjhBi) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 4:45 |
+| 49 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
+| 50 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
 
 Snapshot ID: `AAAAAKblijZycje191rzdDhgC/c/S9xC`

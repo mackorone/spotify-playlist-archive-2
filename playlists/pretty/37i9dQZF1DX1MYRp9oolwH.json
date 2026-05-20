@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
-  "num_followers": 170459,
+  "description": "Bringing out the best of latest love tracks\nCover : Ramani Kalyanam",
+  "num_followers": 170467,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfpdcS2wyg+K7uTQSIFifPp6RYt",
+  "snapshot_id": "AAAAAPkdns36Jsevxt1oaW8Muy3BDont",
   "tracks": [
+    {
+      "added_at": "2026-05-19 07:56:58",
+      "album": {
+        "name": "Kallolam (From \"Ramani Kalyanam\")",
+        "url": "https://open.spotify.com/album/133vtLlwBqEMxjId30iayl"
+      },
+      "artists": [
+        {
+          "name": "Sooraj S. Kurup",
+          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Kallolam (From \"Ramani Kalyanam\")",
+      "url": "https://open.spotify.com/track/0AX9anrs3Jh16pJcpYICBE"
+    },
     {
       "added_at": "2026-05-13 13:03:42",
       "album": {
@@ -55,34 +79,6 @@
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Telugu)\")",
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
-    },
-    {
-      "added_at": "2026-03-03 06:33:29",
-      "album": {
-        "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
-        "url": "https://open.spotify.com/album/6l8wEEgbJ0VYfkMhEL999z"
-      },
-      "artists": [
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        },
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        }
-      ],
-      "duration_ms": 79234,
-      "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
-      "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
     },
     {
       "added_at": "2026-05-15 12:30:06",

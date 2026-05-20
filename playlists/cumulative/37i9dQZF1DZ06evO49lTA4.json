@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213062,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/0FbHgeM1v8PpQLMZSumGL9"
+    },
+    {
+      "album": {
         "name": "Back in the Saddle",
         "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 231734,
       "name": "Wish Upon a Whiskey",
       "url": "https://open.spotify.com/track/0HA2PyxStG4hcVsgGnsv1u"

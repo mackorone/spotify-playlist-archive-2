@@ -4,12 +4,12 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-260 songs - 12 hr 59 min
+261 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 hands \- Don Diablo remix](https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 hands \(Don Diablo remix\)](https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM) | 3:08 | 2025-07-18 | 2026-04-04 |
-| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2025-07-18 |  |
+| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2025-07-18 | 2026-05-20 |
 | [227kg](https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [227kg](https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l) | 3:48 | 2026-01-26 | 2026-01-28 |
 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2026-01-26 |  |
 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 | 2025-10-10 | 2026-04-25 |
@@ -268,5 +268,6 @@
 | [Words](https://open.spotify.com/track/33J3hEIqCG8h5gF1aO0RNW) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Words](https://open.spotify.com/album/6krAOSRDqEqEqJsicgVwCP) | 2:25 | 2026-01-26 | 2026-01-28 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2025-07-18 |  |
 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2026-01-26 | 2026-01-28 |
+| [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF) | 2:56 | 2026-05-19 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

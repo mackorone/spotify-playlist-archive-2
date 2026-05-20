@@ -1,6 +1,6 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 438306,
+  "num_followers": 438440,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
         "name": "SEXOLANDIA",
         "url": "https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 197830,
       "name": "BEIBY - Remix",
       "url": "https://open.spotify.com/track/0HjV1R5MaVfJ5q1N1LzaHG"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6"
     },
     {
       "added_at": "2025-02-21 06:00:14",

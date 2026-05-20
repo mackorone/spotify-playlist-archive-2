@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Dimmelo tu",
+        "url": "https://open.spotify.com/album/4Powg4QrPhuucXUvYmurHG"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Dimmelo tu",
+      "url": "https://open.spotify.com/track/5ZJXEdQ0i5MYGi24F7VSv2"
+    },
+    {
+      "album": {
         "name": "DIMMI CHE MI VUOI",
         "url": "https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3"
       },

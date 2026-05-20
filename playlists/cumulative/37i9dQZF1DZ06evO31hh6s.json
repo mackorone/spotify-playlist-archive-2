@@ -58,7 +58,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 277706,
       "name": "13 Goin' On 30",
       "url": "https://open.spotify.com/track/67CrJ4YmYTbmsMtNi6dqVh"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 288338,
       "name": "Attempted Suicide",
       "url": "https://open.spotify.com/track/2xo0kr1FqAXZIyeTfLwJnx"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 213002,
       "name": "Comraderie",
       "url": "https://open.spotify.com/track/0GFcXILH9vqMJ0sBFeOTsS"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 218077,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1wHB2sC7wd5PLlr5FYetrs"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 266280,
       "name": "She Don't Luv Me",
       "url": "https://open.spotify.com/track/6VAYnWpScqgdRWJqtVRbH9"
@@ -4243,6 +4243,32 @@
     },
     {
       "album": {
+        "name": "Sleep Depravation",
+        "url": "https://open.spotify.com/album/0fQEl3wx5iNr9OcXDT304q"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Eyed Jones",
+          "url": "https://open.spotify.com/artist/2Wb4LmUlc22hyEKUvtXMDU"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242798,
+      "name": "The Life (feat. Young Noble, Boldy James)",
+      "url": "https://open.spotify.com/track/3H5kWJTkBpkQzXmYrvZRvD"
+    },
+    {
+      "album": {
         "name": "3rd Eye View",
         "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
       },
@@ -4390,7 +4416,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 162563,
       "name": "Thug Poetry",
       "url": "https://open.spotify.com/track/4NJIRGhw8hE9iRWRGjK3qi"
@@ -4522,7 +4548,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 301581,
       "name": "UMotherfuckerU",
       "url": "https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c"

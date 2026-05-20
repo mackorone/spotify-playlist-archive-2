@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Andersen
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Pxrge Trxxxper
 
-1,526 songs - 2 day 22 hr 17 min
+1,529 songs - 2 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Human \(feat\. DNE\)](https://open.spotify.com/track/0HgfKPVLFuX5iLFyyrjRfV) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [DNE](https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3) | [Prrrrrrrr](https://open.spotify.com/album/0Kw8bEQVW7wdvdwYdVHBkz) | 3:39 | 2025-07-01 | 2025-11-19 |
 | [HUMAN MADE \(feat\. Issei Uno Fifth\)](https://open.spotify.com/track/0iesMcPCH4QwaHmhp9rtdA) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [HUMAN MADE \(feat\. Issei Uno Fifth\)](https://open.spotify.com/album/0kkhcKNauZvdnmTjGFREZF) | 2:17 | 2026-02-10 | 2026-03-25 |
 | [HUNTER](https://open.spotify.com/track/1PpuN05OkZlIxGTiDKjJRk) | [ARBOL](https://open.spotify.com/artist/6nW56AqHklbNiesEKLA6nz) | [HUNTER](https://open.spotify.com/album/7fLcHKbnGdTw6yaqYclhF0) | 1:57 | 2026-01-27 | 2026-03-04 |
+| [Hurricane \(feat\. Benjazzy\)](https://open.spotify.com/track/6c8DvzTSboFzyoweD7n5uf) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [REVERSAL](https://open.spotify.com/album/6q9SdG6siXWUslA6DV7kcJ) | 3:08 | 2026-05-19 |  |
 | [I AM LEGEND](https://open.spotify.com/track/7Gpgu2wkotVlH5ViKZ5U0v) | [関谷拳四郎](https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL) | [I AM LEGEND](https://open.spotify.com/album/0RMgH47NsvprtHSGWGFf58) | 2:39 | 2024-08-28 | 2024-11-06 |
 | [I came up 2](https://open.spotify.com/track/6nqrYfXM9MqYiQiRKxxZKn) | [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW), [ADD CREATIVE](https://open.spotify.com/artist/3EjD0KF3TlTpo6VNZEaPn1) | [I came up 2](https://open.spotify.com/album/7FF52HYebWRFwdA2J9wq2E) | 2:54 | 2024-08-28 | 2024-11-13 |
 | [i can see \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/1GxMB4D5WYWa9QHpMYaYZP) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Kiannacore 4](https://open.spotify.com/album/2wbW3i4q0SWGd1rCDV2nHn) | 2:09 | 2026-03-24 | 2026-04-29 |
@@ -642,6 +643,7 @@
 | [itudate](https://open.spotify.com/track/6ziBFslpNtwIDPi7mJPb6n) | [NiX](https://open.spotify.com/artist/5i3TaU0pa4Ig3BF9QcVRce), [ME$MAN](https://open.spotify.com/artist/1mgGB6wHO4StH165v3bWvf) | [itudate](https://open.spotify.com/album/4dgPBQfCubFct9jd9wXOvR) | 3:06 | 2024-04-16 | 2024-04-19 |
 | [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 | 2024-01-27 |
 | [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 | 2024-01-25 | 2024-02-23 |
+| [jagger freestyle](https://open.spotify.com/track/5C9mZ8XdaWzigub4OfflJM) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Never Skip Me](https://open.spotify.com/album/5RebN55lkz4RkrujrBEcUg) | 2:15 | 2026-05-19 |  |
 | [JAPUSSY](https://open.spotify.com/track/2zyWXS2odDoSo0Sz5GjSWe) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [JAPUSSY](https://open.spotify.com/album/2ONK4KGHq76t6kQrLoWhyh) | 3:07 | 2025-11-25 | 2025-12-24 |
 | [Jasmine](https://open.spotify.com/track/6oJiU3QSn2N4ANBe6nSma6) | [Blue Bass](https://open.spotify.com/artist/7GuK48y1BPwYrXwHEaiIOn), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Blue Heart](https://open.spotify.com/album/4w3kM9ic64mWaOF76psksp) | 2:09 | 2025-07-22 | 2025-10-15 |
 | [JASON](https://open.spotify.com/track/0Z1QwAiYkCnNsnTa214NU7) | [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [JASON](https://open.spotify.com/album/4Rr2Xjh1Qq5JnoTbMtivAZ) | 2:28 | 2024-05-01 | 2024-07-31 |
@@ -883,6 +885,7 @@
 | [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 | 2025-05-18 | 2025-08-13 |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
 | [night time friends](https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [night time friends](https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP) | 2:22 | 2025-04-22 | 2025-08-13 |
+| [Nightmare](https://open.spotify.com/track/7gdAfRa4wPWJcNH5jvkLm8) | [Plain Jay](https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V) | [Nightmare](https://open.spotify.com/album/16sbRI4aMvxTz3P17gyurb) | 2:09 | 2026-05-19 |  |
 | [nightmare](https://open.spotify.com/track/2cVb8UcVdZ8MH1XJ0gmenj) | [SZK](https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy) | [Nerd core tape 1](https://open.spotify.com/album/2TCWVcQd281RjWgkl8fVZN) | 1:59 | 2025-11-25 | 2026-02-11 |
 | [Nightmare](https://open.spotify.com/track/2rXdHhhMR5KsW3pqwvl8nO) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [In the Midst](https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA) | 3:21 | 2024-08-07 | 2024-08-09 |
 | [NIKO NIKO](https://open.spotify.com/track/5n2Jx8KPW46z8QXuOMsSmc) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [NIKO NIKO](https://open.spotify.com/album/2tBce5VO1mscRvf2dqpFaq) | 2:28 | 2025-12-16 | 2026-03-25 |

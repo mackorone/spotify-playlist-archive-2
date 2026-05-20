@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP?si=s1Y1Q3UpTmCGpZ4\_FEcWWA">EKENE</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq?si=qsabJeBQQQ6QCEii38\_8SQ">Dumama</a>\. Artwork: Isu Kim.
 
 1,468 songs - 3 day 1 hr 18 min
 

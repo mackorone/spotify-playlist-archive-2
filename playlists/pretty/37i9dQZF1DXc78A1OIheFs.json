@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19357,
+  "num_followers": 19358,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Sam Bruno",
+          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
         "name": "Suckerpunch",
         "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 152603,
       "name": "Holding Your Hand",
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "GO!",
-        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "Sam Bruno",
-          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Knocking At Your Door",
-        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 154243,
-      "name": "Knocking At Your Door",
-      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "Make Way For The Sun",
         "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Knocking At Your Door",
+        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 154243,
+      "name": "Knocking At Your Door",
+      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
     },
     {
       "added_at": "2026-04-26 02:24:50",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38033,
+  "num_followers": 38037,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADTKfC0q2MwbyJ7Me6SSVpw",
+  "snapshot_id": "agpWgAAAAADkYXnrdvb8jjJa5f79oXpG",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 337803,
       "name": "A Face Adorada de Jesus",
       "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 300419,
+      "name": "Deus Velar\u00e1 por Ti",
+      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 300419,
-      "name": "Deus Velar\u00e1 por Ti",
-      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "De Valor em Valor",
+      "url": "https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -835,6 +851,22 @@
       "duration_ms": 237586,
       "name": "Ele Tem Poder",
       "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 227509,
+      "name": "Campe\u00f5es da Luz",
+      "url": "https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL"
     },
     {
       "added_at": null,
@@ -864,41 +896,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 268933,
-      "name": "De Valor em Valor",
-      "url": "https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 227509,
-      "name": "Campe\u00f5es da Luz",
-      "url": "https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Deus Responde",
-      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
+      "duration_ms": 198762,
+      "name": "H\u00e1 Poder no Sangue de Jesus",
+      "url": "https://open.spotify.com/track/4NSTdRyk65cJJLKQL75Zqz"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 198762,
-      "name": "H\u00e1 Poder no Sangue de Jesus",
-      "url": "https://open.spotify.com/track/4NSTdRyk65cJJLKQL75Zqz"
+      "duration_ms": 272973,
+      "name": "Deus Responde",
+      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
     },
     {
       "added_at": null,

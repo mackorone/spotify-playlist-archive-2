@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 49020,
+  "num_followers": 49078,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAlJgmFn4NZDXJQymc7zec4",
+  "snapshot_id": "agpWgAAAAAC6XjxbJMVItwBt1M1wprKM",
   "tracks": [
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Flakky",
-      "url": "https://open.spotify.com/track/4Gb95LGEj1gX2sGGTw002k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
         "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Flakky",
+      "url": "https://open.spotify.com/track/4Gb95LGEj1gX2sGGTw002k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
       },
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
+      "duration_ms": 164675,
+      "name": "NSNV",
+      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
       "artists": [
         {
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 164675,
-      "name": "NSNV",
-      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
+      "duration_ms": 160052,
+      "name": "Bank Of America",
+      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 143505,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/419bdMkIYCMrQ9MHvT60JV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Bank Of America",
-      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-29 songs - 1 hr 40 min
+30 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [人生いろいろ](https://open.spotify.com/track/5hIBNRNYo7zVcXNgbO4kCD) | [Chiyoko Shimakura](https://open.spotify.com/artist/53cuVCnpOQkB0gnNcoS3SC) | [浜口庫之助作品集を唄う](https://open.spotify.com/album/14B4MJcVtitpXxJmvwUAOZ) | 3:54 | 2026-03-29 |  |
 | [休日の歌（Viva La Vida）](https://open.spotify.com/track/4zi98A17mgNez5yqdL1rEl) | [DELiGHTED MINT](https://open.spotify.com/artist/0wJhg4uHETZjVz2aa7oyd6) | [THE BEST HITS](https://open.spotify.com/album/3YPC7lTaic1gL4KyLdf7Tf) | 3:47 | 2026-03-29 |  |
 | [呪い](https://open.spotify.com/track/2ZvHVDjTYwRGnSAkQC0vCb) | [Hako Yamazaki](https://open.spotify.com/artist/271VKuMFfkvkOARw07aM3H) | [ハコのお箱](https://open.spotify.com/album/12Obk8FrTQWIwiYSeY7OcS) | 3:55 | 2026-03-29 |  |
+| [走れ正直者](https://open.spotify.com/track/4L4qXzyhsZkpWVGcQhYMTZ) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [HIDEKI SINGLES Vol.2](https://open.spotify.com/album/2G7KkuSanb5D4C9lw41k2p) | 3:07 | 2026-05-19 |  |
 | [針切じいさんのロケン・ロール（アルバム・ヴァージョン）](https://open.spotify.com/track/5ibwrjHRdx2S10nWRkJ5xo) | [Hitoshi Ueki](https://open.spotify.com/artist/3lCV3HQeGAYQZJwOrmWTel) | [植木等的音楽](https://open.spotify.com/album/1FFltK5u8DIuJqxPnjLFHf) | 3:11 | 2026-03-29 |  |
 
 \*This playlist was first scraped on 2026-03-30. Prior content cannot be recovered.

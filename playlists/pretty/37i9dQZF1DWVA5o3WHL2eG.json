@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49257,
+  "num_followers": 49246,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -235,42 +235,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "isy",
-        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
-      },
-      "artists": [
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 150199,
-      "name": "isy",
-      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Kein Ponyhof",
-        "url": "https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid"
-      },
-      "artists": [
-        {
-          "name": "Mariybu",
-          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
-        }
-      ],
-      "duration_ms": 125647,
-      "name": "Kein Ponyhof",
-      "url": "https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "HMDL",
         "url": "https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K"
       },
@@ -291,6 +255,42 @@
       "duration_ms": 118938,
       "name": "HMDL",
       "url": "https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Kein Ponyhof",
+        "url": "https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid"
+      },
+      "artists": [
+        {
+          "name": "Mariybu",
+          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+        }
+      ],
+      "duration_ms": 125647,
+      "name": "Kein Ponyhof",
+      "url": "https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "LECK",
+        "url": "https://open.spotify.com/album/6Kz0fj2HdevGcNsDyjdtBQ"
+      },
+      "artists": [
+        {
+          "name": "pixxi",
+          "url": "https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "LECK",
+      "url": "https://open.spotify.com/track/0TYWngaLKfKyBHXSh7nzex"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Ch\u00e2teau Brute",
         "url": "https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 164136,
       "name": "Ch\u00e2teau Brute",
       "url": "https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "LECK",
-        "url": "https://open.spotify.com/album/6Kz0fj2HdevGcNsDyjdtBQ"
-      },
-      "artists": [
-        {
-          "name": "pixxi",
-          "url": "https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "LECK",
-      "url": "https://open.spotify.com/track/0TYWngaLKfKyBHXSh7nzex"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Bl\u00f6dsinn",
+        "url": "https://open.spotify.com/album/271QvvfwnZ0k0RQDROUytQ"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Bl\u00f6dsinn",
+      "url": "https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Method Acting",
         "url": "https://open.spotify.com/album/6V2lajZzq40Ch2JBr2f2x2"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 312727,
       "name": "Heartbroken",
       "url": "https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Bl\u00f6dsinn",
-        "url": "https://open.spotify.com/album/271QvvfwnZ0k0RQDROUytQ"
-      },
-      "artists": [
-        {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
-        },
-        {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
-        }
-      ],
-      "duration_ms": 157232,
-      "name": "Bl\u00f6dsinn",
-      "url": "https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf"
     },
     {
       "added_at": "2026-05-05 22:00:31",

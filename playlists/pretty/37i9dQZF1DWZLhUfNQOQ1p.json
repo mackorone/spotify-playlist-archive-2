@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251623,
+  "num_followers": 251628,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 172965,
       "name": "I Did You Wrong",
       "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
-        "name": "L.I.F.E",
-        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 449093,
-      "name": "L.I.F.E",
-      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 214921,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         }
       ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "If You",
-        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
       "artists": [
         {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 200348,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
         }
       ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 219208,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     }
   ],
   "unique_name": "Aperitivo Time",

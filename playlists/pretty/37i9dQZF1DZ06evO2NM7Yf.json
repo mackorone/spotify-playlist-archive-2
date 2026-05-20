@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAABAaJpEXLcnVF5/sJ3WuJJp",
+  "snapshot_id": "agpWgAAAAABmTUYXjy2zLjbrFuE2v9ZU",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Not to Love",
         "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 139666,
       "name": "Cool 4 U",
       "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     },
     {
       "added_at": null,

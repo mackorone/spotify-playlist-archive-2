@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAL0a85Z7+/hquvB6pb/SqQcpbfb0Qc",
+  "snapshot_id": "AAAL1R5E62JbxZdqEafpqRvrBbkUCV3y",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -42968,22 +42968,6 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 199440,
-      "name": "U Don't Know",
-      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
-    },
-    {
-      "added_at": "2025-01-03 01:21:34",
-      "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
       "duration_ms": 223240,
       "name": "Heart Of The City (Ain't No Love)",
       "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
@@ -43103,22 +43087,6 @@
       "duration_ms": 288226,
       "name": "This Can't Be Life",
       "url": "https://open.spotify.com/track/4UPyqSVCf0ukiBbi0MvLDW"
-    },
-    {
-      "added_at": "2025-01-03 01:21:34",
-      "album": {
-        "name": "In My Lifetime, Vol.1",
-        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC"
     },
     {
       "added_at": "2025-01-03 01:21:34",
@@ -149995,6 +149963,38 @@
       "duration_ms": 236483,
       "name": "LONELY NIGHTS",
       "url": "https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7"
+    },
+    {
+      "added_at": "2026-05-19 07:37:57",
+      "album": {
+        "name": "MORE MORE JUMP\uff01 SEKAI ALBUM Vol.1",
+        "url": "https://open.spotify.com/album/00fT0wiS5WgGx9Q8O3koaz"
+      },
+      "artists": [
+        {
+          "name": "MORE MORE JUMP!",
+          "url": "https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "\u604b\u611b\u88c1\u5224 (feat. \u82b1\u91cc\u307f\u306e\u308a&\u6843\u4e95\u611b\u8389&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/59y5HeIYw7yU6BdKzjrZzX"
+    },
+    {
+      "added_at": "2026-05-19 07:38:14",
+      "album": {
+        "name": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30bb\u30ab\u30a4 \u30ab\u30e9\u30d5\u30eb\u30b9\u30c6\u30fc\u30b8\uff01 feat. \u521d\u97f3\u30df\u30af \u30a2\u30ca\u30b6\u30fc\u30dc\u30fc\u30ab\u30eb\u30a2\u30eb\u30d0\u30e0 MORE MORE JUMP\uff01",
+        "url": "https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u91cc\u307f\u306e\u308a",
+          "url": "https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "\u604b\u611b\u88c1\u5224",
+      "url": "https://open.spotify.com/track/22TCGj2RUe9GuXmufUYA4U"
     }
   ],
   "unique_name": "Purge",

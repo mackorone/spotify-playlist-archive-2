@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,027 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,025 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 6 | [drive by](https://open.spotify.com/track/289f3fB3mR8R2ExKicf4TR) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Um Menino Bom](https://open.spotify.com/album/5z2lnD5GH411EpZjeiF1JE) | 2:45 |
 | 7 | [SABOR CEREJA](https://open.spotify.com/track/5XpDjay2yMsNif4aqw7Vhs) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [LYONS PROD.](https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr) | [DE VOLTA A ESSÊNCIA](https://open.spotify.com/album/5EOeiIdMnCeTFFEaRbUwWT) | 2:33 |
 | 8 | [Blindado](https://open.spotify.com/track/4Hcw0S0bFvUvSjHldNlmMr) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Delua Og](https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd) | [Blindado & Garoa](https://open.spotify.com/album/0c4hIHNoKSEcelgCKXw1Ci) | 2:06 |
-| 9 | [Direções](https://open.spotify.com/track/1oE7B66KQ0quiuVSlkYNhN) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Direções](https://open.spotify.com/album/3ZfxRxvlBmtoayBHUrnVGT) | 2:42 |
+| 9 | [Direções](https://open.spotify.com/track/1oE7B66KQ0quiuVSlkYNhN) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [Direções](https://open.spotify.com/album/3ZfxRxvlBmtoayBHUrnVGT) | 2:42 |
 | 10 | [VILA MENCK, OSASCO](https://open.spotify.com/track/3IZxVLDlrt6Dj3VLxtKVtF) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [VILA MENCK, OSASCO](https://open.spotify.com/album/7xjTzzT6LBHYpdy4VmnAav) | 2:08 |
 | 11 | [Estrela Pop](https://open.spotify.com/track/6O14xWxgMLVVYDqFAn8gFU) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Trak](https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Estrela Pop](https://open.spotify.com/album/4OGBEMctUk5L2NVx0VvDvC) | 3:06 |
 | 12 | [Estrela Cadente](https://open.spotify.com/track/4EZsYcSGb2O1L1VABzcU7H) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Estrela Cadente](https://open.spotify.com/album/2rFpqlqRY3VJMmrSQxpkzd) | 2:42 |

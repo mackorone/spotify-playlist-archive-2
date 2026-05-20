@@ -1,13 +1,33 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: R2D. Artwork: Isu Kim",
-  "num_followers": 13438,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Bloodymarry. Artwork: Isu Kim",
+  "num_followers": 13440,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIV9TAuKPIFykXRTByC9a0Dxygp2",
+  "snapshot_id": "AAAAABl9mwhi5bUahu9HyfW3UM3HkZW/",
   "tracks": [
+    {
+      "added_at": "2026-04-22 07:50:52",
+      "album": {
+        "name": "DAH A2AL 7AGA 3ANDI",
+        "url": "https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb"
+      },
+      "artists": [
+        {
+          "name": "Bloodymarry",
+          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
+        },
+        {
+          "name": "ZozRealStar",
+          "url": "https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Mashy Fe Tare2",
+      "url": "https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9"
+    },
     {
       "added_at": "2026-04-14 14:34:43",
       "album": {
@@ -307,26 +327,6 @@
       "duration_ms": 139384,
       "name": "5 shai",
       "url": "https://open.spotify.com/track/3Ppc8kj5WDH71xVNKl1u30"
-    },
-    {
-      "added_at": "2026-04-22 07:50:52",
-      "album": {
-        "name": "DAH A2AL 7AGA 3ANDI",
-        "url": "https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb"
-      },
-      "artists": [
-        {
-          "name": "Bloodymarry",
-          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
-        },
-        {
-          "name": "ZozRealStar",
-          "url": "https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Mashy Fe Tare2",
-      "url": "https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9"
     },
     {
       "added_at": "2026-05-05 21:00:18",

@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2203805,
+  "num_followers": 2204330,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 172200,
       "name": "Be My Baby Tonight",
       "url": "https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Here In The Real World",
         "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 185373,
       "name": "Chasin' That Neon Rainbow",
       "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
-      },
-      "artists": [
-        {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "The Keeper Of The Stars",
-      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Thinkin' Problem",
         "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 181133,
       "name": "Thinkin' Problem",
       "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "The Keeper Of The Stars",
+      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Dream Walkin'",
-      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Dream Walkin'",
+      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "I Love the Way You Love Me",
-      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "I Love the Way You Love Me",
+      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "When Fallen Angels Fly",
         "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 169933,
       "name": "I Try to Think About Elvis",
       "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Tattoos & Scars",
-        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Hillbilly Shoes",
-      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "What Mattered Most",
         "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 221426,
       "name": "What Mattered Most",
       "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Tattoos & Scars",
+        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Hillbilly Shoes",
+      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",

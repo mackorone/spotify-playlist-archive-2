@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3949,
+  "num_followers": 3951,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Flou",
-        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
-      },
-      "artists": [
-        {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
-        }
-      ],
-      "duration_ms": 141998,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "ECHO ECHO",
         "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 153230,
       "name": "La patte",
       "url": "https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Flou",
+        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 141998,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Roots (Extended)",
-        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
-        }
-      ],
-      "duration_ms": 176899,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 212618,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Roots (Extended)",
+        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+        }
+      ],
+      "duration_ms": 176899,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",

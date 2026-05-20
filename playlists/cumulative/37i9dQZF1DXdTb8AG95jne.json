@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: DORI) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Balming Tiger) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 209774,
       "name": "a plumber",
       "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
@@ -1070,6 +1070,24 @@
       "duration_ms": 210536,
       "name": "addiction",
       "url": "https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck"
+    },
+    {
+      "album": {
+        "name": "After the Curtain",
+        "url": "https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "After the Curtain",
+      "url": "https://open.spotify.com/track/1qMNSTLsr12MLhUq0s6oZX"
     },
     {
       "album": {
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 138333,
       "name": "Clover",
       "url": "https://open.spotify.com/track/0GoQRMxV6mAkpWRAkCWi46"
@@ -3670,6 +3688,24 @@
       "duration_ms": 152204,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5"
+    },
+    {
+      "album": {
+        "name": "Gaze",
+        "url": "https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj"
+      },
+      "artists": [
+        {
+          "name": "Park Chan Young",
+          "url": "https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Come to me",
+      "url": "https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j"
     },
     {
       "album": {
@@ -4696,7 +4732,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 164572,
       "name": "Do You Need My Love?",
       "url": "https://open.spotify.com/track/1qwCzGkeb2m67yrtWXXtbY"
@@ -5339,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e"
+    },
+    {
+      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -5882,7 +5936,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 207376,
       "name": "every!",
       "url": "https://open.spotify.com/track/7zUjMWNCguvdc3UTwysjSF"
@@ -8579,6 +8633,24 @@
     },
     {
       "album": {
+        "name": "heaven and hell",
+        "url": "https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268388,
+      "name": "heaven and hell",
+      "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"
+    },
+    {
+      "album": {
         "name": "Heavy Going",
         "url": "https://open.spotify.com/album/0YFFUQOr36O0gobK7vyuQd"
       },
@@ -11103,6 +11175,24 @@
     },
     {
       "album": {
+        "name": "Gongbu",
+        "url": "https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230482,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C"
+    },
+    {
+      "album": {
         "name": "In the box",
         "url": "https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb"
       },
@@ -12950,6 +13040,24 @@
       "duration_ms": 205000,
       "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
       "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
+    },
+    {
+      "album": {
+        "name": "May, be",
+        "url": "https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "May, be",
+      "url": "https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl"
     },
     {
       "album": {
@@ -21816,7 +21924,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 222000,
       "name": "undefined",
       "url": "https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl"
@@ -21960,7 +22068,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 171006,
       "name": "Unhappy Ending",
       "url": "https://open.spotify.com/track/2Y3yV7ILRKPwJeO3ebbGNm"
@@ -23470,7 +23578,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189970,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE"
@@ -23676,6 +23784,28 @@
       "duration_ms": 167000,
       "name": "Worry Monster",
       "url": "https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT"
+    },
+    {
+      "album": {
+        "name": "Would you?",
+        "url": "https://open.spotify.com/album/5cRbXO3l10xT8eiiSmrWgL"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        },
+        {
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Would you?",
+      "url": "https://open.spotify.com/track/6jWfqmdlDf0aVIW8vT9E0C"
     },
     {
       "album": {

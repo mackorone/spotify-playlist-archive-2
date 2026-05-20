@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 180148,
       "name": "Ada Bommale - From \"Vaazha 2\"",
       "url": "https://open.spotify.com/track/6QQmefVNuQNJ0U7vD6Rto9"
@@ -7294,7 +7294,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -10119,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "Diggya Nai",
+        "url": "https://open.spotify.com/album/0Lp9MMB0tDD4PFheACR3OK"
+      },
+      "artists": [
+        {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138895,
+      "name": "Diggya Nai",
+      "url": "https://open.spotify.com/track/1D4wkRVMcjEyQW60cJf4rM"
+    },
+    {
+      "album": {
         "name": "DIGIDAM",
         "url": "https://open.spotify.com/album/3dxVz4MSdeMYIVmICt3Qqk"
       },
@@ -11112,7 +11130,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -24040,7 +24058,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -24650,7 +24668,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 323712,
       "name": "Make Them Remember",
       "url": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"

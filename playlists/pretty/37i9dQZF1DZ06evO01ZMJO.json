@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 25695,
+  "num_followers": 25712,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAC9kqA0AoxaKL+hWMGMckKG",
+  "snapshot_id": "agpWgAAAAACJgDYv+3ePV9KHHMpQ1Y3D",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/5UqxdIOij5LRc15mdauC07"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/1apqmtB0RRQuF7YMgNd5aF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Komen Terug",
-        "url": "https://open.spotify.com/album/5UqxdIOij5LRc15mdauC07"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 274377,
-      "name": "We Komen Terug",
-      "url": "https://open.spotify.com/track/1apqmtB0RRQuF7YMgNd5aF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zing Met Me Mee (Outsiders Remix)",
         "url": "https://open.spotify.com/album/5KaBtnKJkQ388ggiNgDBLA"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 236129,
       "name": "Zing Met Me Mee - Outsiders Remix",
       "url": "https://open.spotify.com/track/01JUWoazQfT78YAzhh1eqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hatsikidee",
-        "url": "https://open.spotify.com/album/1P3mcocWTPhsr54xKLsTg1"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        }
-      ],
-      "duration_ms": 175371,
-      "name": "Hatsikidee",
-      "url": "https://open.spotify.com/track/6Nl6jXoGdVZQMsC8jGiK9B"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 184823,
       "name": "Cocaina (feat. Emy Perez)",
       "url": "https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hatsikidee",
+        "url": "https://open.spotify.com/album/1P3mcocWTPhsr54xKLsTg1"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        }
+      ],
+      "duration_ms": 175371,
+      "name": "Hatsikidee",
+      "url": "https://open.spotify.com/track/6Nl6jXoGdVZQMsC8jGiK9B"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pullover (feat. J.D.A.)",
-        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "J.D.A.",
-          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "Pullover (feat. J.D.A.)",
-      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thunderbolt (Outsiders Remix)",
         "url": "https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 147023,
       "name": "Thunderbolt (Outsiders Remix)",
       "url": "https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pullover (feat. J.D.A.)",
+        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "J.D.A.",
+          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "Pullover (feat. J.D.A.)",
+      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebls 4 Life",
         "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 211519,
       "name": "Rebls 4 Life",
       "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
     },
     {
       "added_at": null,

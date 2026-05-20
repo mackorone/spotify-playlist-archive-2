@@ -191,22 +191,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Bungalow",
-        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "The Boy Who Cried Wolf",
         "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 228480,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "rainbow",
-        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 202835,
-      "name": "rainbow",
-      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Here's Your Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 164669,
       "name": "Here's Your Perfect - Acoustic",
       "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "rainbow",
+        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "rainbow",
+      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
         "name": "You Can't Make Old Friends",
         "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 242680,
       "name": "You Can't Make Old Friends - Duet with Dolly Parton",
       "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Whiskey Sour",
         "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Give Me Everything",
         "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 192542,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
-        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "dinner in bed",
         "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 197855,
       "name": "dinner in bed",
       "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
+        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/327yl27iCBZAr48CauikQb"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
         }
       ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+      "duration_ms": 184915,
+      "name": "For You - Acoustic",
+      "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

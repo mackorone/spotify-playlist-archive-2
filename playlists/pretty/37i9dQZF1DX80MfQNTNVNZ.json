@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 216629,
+  "num_followers": 216646,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAg8MKIcs4bjRicq4uaB61jRepg9",
+  "snapshot_id": "AAAAANiFLQvpX/A4KN9PovYg1AVa4BSn",
   "tracks": [
     {
       "added_at": "2026-05-12 11:53:56",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-05-12 11:53:56",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
-    },
-    {
-      "added_at": "2026-05-12 11:53:56",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 192936,
       "name": "FourSixty - Feat. Aaron Taylor",
       "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
+    },
+    {
+      "added_at": "2026-05-12 11:53:56",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
     },
     {
       "added_at": "2026-05-12 11:53:56",
@@ -1071,18 +1071,30 @@
     {
       "added_at": "2026-05-12 11:53:56",
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     }
   ],
   "unique_name": "aloe",

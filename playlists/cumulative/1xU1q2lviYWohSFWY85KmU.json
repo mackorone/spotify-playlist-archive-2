@@ -460,7 +460,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 197837,
       "name": "Feel. Move. (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0dwOLtDNdBSXlCJwA3aI28"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 208563,
       "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/01RfcnlgOJRqPANze1CPji"
@@ -6907,6 +6907,32 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30d3\u30eb\u30c9\u30fb\u30a2\u30f3\u30bb\u30e0",
+        "url": "https://open.spotify.com/album/55Ecgg7qdePsWNF5oz6DfX"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
+          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180036,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30d3\u30eb\u30c9\u30fb\u30a2\u30f3\u30bb\u30e0 (Version 2.0) (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/52AOguyn6vCNg9rVBMD2RP"
+    },
+    {
+      "album": {
         "name": "\u4e00\u5104\u5e74\u604b\u3057\u3066\u308b",
         "url": "https://open.spotify.com/album/5DdGkMRvdtWvYTR1sROBJg"
       },
@@ -7546,6 +7572,28 @@
       "duration_ms": 267826,
       "name": "\u5618\u3082\u672c\u5f53\u3082\u541b\u3060\u304b\u3089 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4J0ho54JZfwv2VUZREbGAm"
+    },
+    {
+      "album": {
+        "name": "\u565b\u307f\u3064\u3051\u3088",
+        "url": "https://open.spotify.com/album/0q4g5QzdhZwU26ZzDHaX3S"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30a2\u30f3\u30fb\u30ad\u30ce",
+          "url": "https://open.spotify.com/artist/6rLC4Qo8xgDTC759EkUqMv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196418,
+      "name": "\u565b\u307f\u3064\u3051\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3aItN6IKiO2KRV3VHkuxMU"
     },
     {
       "album": {
@@ -8853,6 +8901,28 @@
     },
     {
       "album": {
+        "name": "\u6b8b\u97ff - Afterglow",
+        "url": "https://open.spotify.com/album/0AjzF3af0VVyXxjHFI2cwn"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30b5\u30ad\u30b5\u30ae\u30ea",
+          "url": "https://open.spotify.com/artist/1CTIBUkKBJ4K2PHibN8ouP"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188651,
+      "name": "\u6b8b\u97ff - Afterglow (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7Fz7dt7eXKvgIuODyD7ooq"
+    },
+    {
+      "album": {
         "name": "\u6b8b\u97ff\u306e\u8033\u9cf4\u308a",
         "url": "https://open.spotify.com/album/29YMw091IEcJddbxXzRBHu"
       },
@@ -9116,7 +9186,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 183652,
       "name": "\u7279\u5225\u6551\u6e08\u59d4\u54e1\u4f1a (feat. \u521d\u97f3\u30df\u30af&GUMI&IA&v4 flower&\u53ef\u4e0d&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/4vvUB1Rfz8eHR1ORQ6NH4k"
@@ -9252,6 +9322,24 @@
       "duration_ms": 159722,
       "name": "\u75c5\u3093\u6c17\u30a3\u4e0d\u5b89\u671f\u30a3BABY (feat. \u77e5\u58f0)",
       "url": "https://open.spotify.com/track/7fBjI6EJbx94rtXXRPmV9k"
+    },
+    {
+      "album": {
+        "name": "Asreality",
+        "url": "https://open.spotify.com/album/3ENSFgtMc1iSHxkyKZHWr1"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u3044\u304b",
+          "url": "https://open.spotify.com/artist/6fUQHzr8CMhyBI7fzCNd9q"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191386,
+      "name": "\u75c5\u7684\u30d4\u30e5\u30fc\u30d0\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7kKKFlPLdeVZ5uR8SvVywo"
     },
     {
       "album": {
@@ -9486,7 +9574,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 226813,
       "name": "\u7aef\u4e00\u554f\u76ee (feat. VY1)",
       "url": "https://open.spotify.com/track/5K92W2HVBFNubdjUooWWZp"
@@ -9530,7 +9618,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 197727,
       "name": "\u7d42\u8eab\u604b\u7528\u5951\u7d04 (feat. \u590f\u8272\u82b1\u68a8)",
       "url": "https://open.spotify.com/track/7vhadKFT93jLjc7Dji1VGU"
@@ -9768,6 +9856,24 @@
       "duration_ms": 140270,
       "name": "\u88cf\u590f\u5b9f\u9a13",
       "url": "https://open.spotify.com/track/05jYY5DINgjUL5jAgjXhX4"
+    },
+    {
+      "album": {
+        "name": "\u892a\u305b\u308b\u30bb\u30eb\u30d5\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/5vgaxQlCBoueJ1PXhyzqQp"
+      },
+      "artists": [
+        {
+          "name": "Iceky",
+          "url": "https://open.spotify.com/artist/4yoOBZyo3WV1krCzNzAWuT"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210565,
+      "name": "\u892a\u305b\u308b\u30bb\u30eb\u30d5\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/0LnNPQnP7giYQIbTLOx6iB"
     },
     {
       "album": {

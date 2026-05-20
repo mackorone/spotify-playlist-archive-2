@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 237779,
+  "num_followers": 237812,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAbSiVuk5tJYsVhmItsP6JD",
+  "snapshot_id": "agpWgAAAAABWdHI6HHu09A6dix9W3w1k",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Los Buchones de Culiacan",
+          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Los Buchones de Culiacan",
-          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte",
-      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 197358,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 154383,
       "name": "Estilo SL",
       "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 197358,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
-        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 149263,
       "name": "La Manda Incumplida",
       "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
+        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Corrido Del Invalido",
-      "url": "https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 126563,
       "name": "Siempre Que Me Emborracho",
       "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Corrido Del Invalido",
+      "url": "https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 176613,
       "name": "Fiesta En La Playa",
       "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,

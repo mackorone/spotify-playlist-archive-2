@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1540521,
+  "num_followers": 1540689,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,30 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/0mRAOZAX50yiKFMXA1LNnP"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 165744,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/5NZqHX364zHsyiKf1Lo4BZ"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "OG Raver",
         "url": "https://open.spotify.com/album/6sTm1dxK93wQK2LP2PaCXB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 173070,
       "name": "OG Raver",
       "url": "https://open.spotify.com/track/022updRO7JlJd8CczURSqU"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 217161,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 190600,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 217161,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "FTS (Sub Zero Project Rework)",
+        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 203862,
+      "name": "FTS - Sub Zero Project Rework",
+      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Save The Day",
         "url": "https://open.spotify.com/album/5RVFxweBwqpvWgReuNp82Q"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "FTS (Sub Zero Project Rework)",
-        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 203862,
-      "name": "FTS - Sub Zero Project Rework",
-      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "Captain Jack (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 184596,
       "name": "Captain Jack (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Never Coming Down",
-        "url": "https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 183889,
-      "name": "Never Coming Down",
-      "url": "https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1435,6 +1419,22 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2155,38 +2155,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
@@ -2211,42 +2179,34 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
         }
       ],
-      "duration_ms": 195537,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2275,6 +2235,46 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "duration_ms": 195537,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Never Surrender",
         "url": "https://open.spotify.com/album/0b0G6oXqDgy5NQDxvuHh5B"
       },
@@ -2291,22 +2291,6 @@
       "duration_ms": 159978,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/5WUi83oaFYgo7Y54mLlt5J"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2343,6 +2327,22 @@
       "duration_ms": 179612,
       "name": "The Tunnel",
       "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2499,22 +2499,18 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Beyond Boundaries (Reverze Anthem 2026)",
-        "url": "https://open.spotify.com/album/2JWkYTFN9RNpXIiZydEnPT"
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
       "artists": [
         {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
         }
       ],
-      "duration_ms": 278250,
-      "name": "Beyond Boundaries - Reverze Anthem 2026",
-      "url": "https://open.spotify.com/track/7gGqr9ke15lX4eNLiRGZfU"
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2543,18 +2539,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+        "name": "Beyond Boundaries (Reverze Anthem 2026)",
+        "url": "https://open.spotify.com/album/2JWkYTFN9RNpXIiZydEnPT"
       },
       "artists": [
         {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+      "duration_ms": 278250,
+      "name": "Beyond Boundaries - Reverze Anthem 2026",
+      "url": "https://open.spotify.com/track/7gGqr9ke15lX4eNLiRGZfU"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2751,6 +2751,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
       },
@@ -2771,22 +2787,6 @@
       "duration_ms": 227254,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2883,26 +2883,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "DOOMSDAY 4EVER",
-        "url": "https://open.spotify.com/album/0ANjZsI5VG8bkQ3TazrcsC"
-      },
-      "artists": [
-        {
-          "name": "Riot Shift",
-          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
-        },
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "DOOMSDAY 4EVER",
-      "url": "https://open.spotify.com/track/2poNhB4WFLrgRwL5tNsDm4"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2919,6 +2899,26 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "DOOMSDAY 4EVER",
+        "url": "https://open.spotify.com/album/0ANjZsI5VG8bkQ3TazrcsC"
+      },
+      "artists": [
+        {
+          "name": "Riot Shift",
+          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
+        },
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "DOOMSDAY 4EVER",
+      "url": "https://open.spotify.com/track/2poNhB4WFLrgRwL5tNsDm4"
     },
     {
       "added_at": "2026-05-18 09:51:31",

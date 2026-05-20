@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-12-04",
-  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c 5\uc6d4\uc758 \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "name": "Editor's Picks Korea: 5\uc6d4\uc758 \ub178\ub798",
+  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "name": "Editor's Picks Korea: \uc5d0\ub514\ud130\uc758 \ucde8\ud5a5",
   "tracks": [
     {
       "album": {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 138098,
       "name": "BUSHWICK",
       "url": "https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -2472,6 +2472,28 @@
       "duration_ms": 203506,
       "name": "My Body",
       "url": "https://open.spotify.com/track/2AdYT7oPiAASC46qF43dia"
+    },
+    {
+      "album": {
+        "name": "NAIL",
+        "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "NAIL (feat. Lolo Zoua\u00ef)",
+      "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 473650,
+  "num_followers": 473755,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADysXKKWdZfNMIQQiYBsmtZ",
+  "snapshot_id": "agpWgAAAAADtLMsj90VSFXDNL4w0yfDh",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 223572,
+      "name": "KEEPER (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 144660,
       "name": "Flame",
       "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 223572,
-      "name": "KEEPER (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
     },
     {
       "added_at": null,

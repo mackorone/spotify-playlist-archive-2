@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 188852,
       "name": "Aben\u00e7oado",
       "url": "https://open.spotify.com/track/2hd4gRebmcGg4Tf5akivTg"
@@ -2750,6 +2750,32 @@
       "duration_ms": 203215,
       "name": "Devolva a Minha Igrejinha",
       "url": "https://open.spotify.com/track/6KU6BTFgbLzjLjHwPbzES3"
+    },
+    {
+      "album": {
+        "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e"
+      },
+      "artists": [
+        {
+          "name": "Calmar\u00e1",
+          "url": "https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355265,
+      "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq"
     },
     {
       "album": {
@@ -7357,6 +7383,28 @@
     },
     {
       "album": {
+        "name": "OBRIGADO",
+        "url": "https://open.spotify.com/album/6P6MWdgb7kQzPUokuMq2LS"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "OBRIGADO",
+      "url": "https://open.spotify.com/track/0hTmbYgoJNreWPSj78qcv6"
+    },
+    {
+      "album": {
         "name": "Oferto Eu",
         "url": "https://open.spotify.com/album/4fm0OHbYMX1w2hWCWPpi61"
       },
@@ -10534,7 +10582,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 250000,
       "name": "Trindade Ac\u00fastico 1",
       "url": "https://open.spotify.com/track/5s4nzKjZMJqchuZypeLuuE"

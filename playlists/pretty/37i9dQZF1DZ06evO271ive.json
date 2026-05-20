@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30355,
+  "num_followers": 30366,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAABFtt6DpgPTl1tkICwy8pWf",
+  "snapshot_id": "agpWgAAAAACsmjtbMrNI42LNVftSHQaF",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -79,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABIBTI",
-        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
       },
       "artists": [
         {
@@ -92,9 +112,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 188877,
-      "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
+      "duration_ms": 202466,
+      "name": "Cheetah Print (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
     },
     {
       "added_at": null,
@@ -115,26 +135,6 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAID OF HONOUR",
-        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Cheetah Print (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLUT ME OUT (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 203858,
-      "name": "SLUT ME OUT (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 164002,
       "name": "Sexyy Love Money",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLUT ME OUT (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 203858,
+      "name": "SLUT ME OUT (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
       "added_at": null,
@@ -934,15 +934,11 @@
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "DJ Holiday",
-          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
         }
       ],
-      "duration_ms": 181117,
-      "name": "Her Her Her (feat. DJ Holiday)",
-      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
+      "duration_ms": 143423,
+      "name": "Richer Than Alla My Opps",
+      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
     },
     {
       "added_at": null,
@@ -1014,11 +1010,15 @@
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "DJ Holiday",
+          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
         }
       ],
-      "duration_ms": 143423,
-      "name": "Richer Than Alla My Opps",
-      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
+      "duration_ms": 181117,
+      "name": "Her Her Her (feat. DJ Holiday)",
+      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
     }
   ],
   "unique_name": "This Is Sexyy Red",

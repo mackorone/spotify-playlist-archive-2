@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 87145,
+  "num_followers": 87153,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAA4/WvKCYCiL/uOospkPFgh",
+  "snapshot_id": "agpWgAAAAAAgoU2PO8rVgdO0hgJbBUvt",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 220416,
-      "name": "Silence in the Snow",
-      "url": "https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3"
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
+      "duration_ms": 220416,
+      "name": "Silence in the Snow",
+      "url": "https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3"
     },
     {
       "added_at": null,

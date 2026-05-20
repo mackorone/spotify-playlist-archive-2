@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 537210,
+  "num_followers": 537244,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Brickyard Road",
-        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant",
-          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
-        }
-      ],
-      "duration_ms": 400933,
-      "name": "Brickyard Road - l",
-      "url": "https://open.spotify.com/track/7G0hwJmqqFJmaM2h1HxRZZ"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Get Right With The Man",
         "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 165320,
       "name": "Takin' Up Space",
       "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Brickyard Road",
+        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        }
+      ],
+      "duration_ms": 400933,
+      "name": "Brickyard Road - l",
+      "url": "https://open.spotify.com/track/7G0hwJmqqFJmaM2h1HxRZZ"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1110,11 +1110,15 @@
         {
           "name": "The Dickey Betts Band",
           "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+        },
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+      "duration_ms": 298266,
+      "name": "Time To Roll",
+      "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1194,15 +1198,11 @@
         {
           "name": "The Dickey Betts Band",
           "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
-        },
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 298266,
-      "name": "Time To Roll",
-      "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Southern Delight/Barefoot Jerry",
         "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 279266,
       "name": "Castle Rock",
       "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+      },
+      "artists": [
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Searchin' for a Rainbow",
-      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
+      "duration_ms": 375600,
+      "name": "Take the Highway",
+      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 375600,
-      "name": "Take the Highway",
-      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
+      "duration_ms": 185840,
+      "name": "Searchin' for a Rainbow",
+      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     }
   ],
   "unique_name": "Southern Rock",

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,722 songs - 3 day 16 hr 14 min
+1,723 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 | 2024-11-23 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 | 2025-01-10 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-23 |
+| [DNA](https://open.spotify.com/track/1IuAF9VgDcQpjD39NH3UQl) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [DNA](https://open.spotify.com/album/39mNWhSKd2QwX1yYsIEQtb) | 2:45 | 2026-05-19 |  |
 | [Do It For Love](https://open.spotify.com/track/1gepEl8sp9BHMGiwLBMNeR) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Do It For Love](https://open.spotify.com/album/4iEd1xGjteZK1UgoOVlAcj) | 3:07 | 2024-06-27 | 2024-08-02 |
 | [Do You Hate Me Now](https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Do You Hate Me Now](https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s) | 3:27 | 2025-11-06 | 2026-01-30 |
 | [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-12 | 2025-07-25 |

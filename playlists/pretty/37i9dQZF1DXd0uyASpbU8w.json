@@ -1,6 +1,6 @@
 {
   "description": "New music from Drake, Babalwa M, Jorja Smith, EeQue, GIV\u0112ON and more.",
-  "num_followers": 178873,
+  "num_followers": 178893,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -1342,6 +1342,10 @@
         {
           "name": "Zalma",
           "url": "https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT"
+        },
+        {
+          "name": "Floro",
+          "url": "https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq"
         }
       ],
       "duration_ms": 276756,

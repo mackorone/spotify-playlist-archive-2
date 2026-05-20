@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAACfvj2iJztsizT8oy5kY/TE",
+  "snapshot_id": "agpWgAAAAAC86Q4bRkD4rMHst2tIE3u1",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "Three Way Love",
+        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 219615,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+      "duration_ms": 149606,
+      "name": "Three Way Love",
+      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Way Love",
-        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 149606,
-      "name": "Three Way Love",
-      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+      "duration_ms": 219615,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
     },
     {
       "added_at": null,
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 313721,
-      "name": "Universal Girl",
-      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
+      "duration_ms": 208678,
+      "name": "Things Ain't Always Been This Good",
+      "url": "https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT"
     },
     {
       "added_at": null,
@@ -451,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 211490,
-      "name": "You've Been So Good to Me",
-      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Property",
         "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
@@ -476,9 +444,25 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 232521,
-      "name": "Thank You for Sticking Around",
-      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 313721,
+      "name": "Universal Girl",
+      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 232521,
+      "name": "Thank You for Sticking Around",
+      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On a Little Longer",
         "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Revibe",
-        "url": "https://open.spotify.com/album/0Ae4jrAHXyNKxD91BY4ZW4"
+        "name": "Rare Sweet & Soul 12",
+        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
       },
       "artists": [
-        {
-          "name": "Claudio Souza Mattos",
-          "url": "https://open.spotify.com/artist/4iw9h6vEM5MdeIhu3ziMDp"
-        },
         {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 293623,
-      "name": "Private Revibe",
-      "url": "https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb"
+      "duration_ms": 249506,
+      "name": "This feeling's rated extra",
+      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
     },
     {
       "added_at": null,
@@ -591,34 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rare Sweet & Soul 12",
-        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
+        "name": "Private Revibe",
+        "url": "https://open.spotify.com/album/0Ae4jrAHXyNKxD91BY4ZW4"
       },
       "artists": [
+        {
+          "name": "Claudio Souza Mattos",
+          "url": "https://open.spotify.com/artist/4iw9h6vEM5MdeIhu3ziMDp"
+        },
         {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 249506,
-      "name": "This feeling's rated extra",
-      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dubbin on the Dancefloor, Vol. 1 (House Dubs & Deep Tracks)",
-        "url": "https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Release Soul - Long Island Mix",
-      "url": "https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx"
+      "duration_ms": 293623,
+      "name": "Private Revibe",
+      "url": "https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 144503,
       "name": "You Times Me Plus Love",
       "url": "https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dubbin on the Dancefloor, Vol. 1 (House Dubs & Deep Tracks)",
+        "url": "https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Release Soul - Long Island Mix",
+      "url": "https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx"
     },
     {
       "added_at": null,

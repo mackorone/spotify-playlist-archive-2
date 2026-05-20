@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 133 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 133 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 49 | [Stay \(feat\. Victoria Monét\)](https://open.spotify.com/track/424TDSrqQaZqxqzMkaJhDP) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 3:49 |
 | 50 | [DIE FOR MINE \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/1lmFfD9vxW9uIn7ylQD4ee) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/3cmWnX51JZRnlS7Wij1VmG) | 4:48 |
 | 51 | [Interlude: Oasis](https://open.spotify.com/track/1T9vJo1IkbhopAo9nojNkM) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/4Ak9980f17f2WqNsopebAA) | 2:07 |
-| 52 | [Tiny Apartment](https://open.spotify.com/track/5kS0dkXPwey7btVmBFYlYE) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:40 |
-| 53 | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/track/6DZtyR7Pk6LyHve2AD19Zv) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 3:22 |
+| 52 | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/track/6DZtyR7Pk6LyHve2AD19Zv) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 3:22 |
+| 53 | [Tiny Apartment](https://open.spotify.com/track/5kS0dkXPwey7btVmBFYlYE) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:40 |
 | 54 | [Waterfalls](https://open.spotify.com/track/1Sx5FQ2YCfSamun0xtUr9c) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 1:44 |
 | 55 | [Voices](https://open.spotify.com/track/04wTNwEKUnDua5eCPX4EvA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:36 |
 | 56 | [Cold World](https://open.spotify.com/track/6KMXWoweTosGskZPIBsEdt) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:06 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 112 | [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 |
 | 113 | [Nobody](https://open.spotify.com/track/4uz5wCY6QbWDjb9aOoi23p) | [Jawan](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [Nobody](https://open.spotify.com/album/7Fk9iVazl3kbtgTLpIiDRS) | 2:47 |
 | 114 | [Calm Like Kim](https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X) | [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Calm Like Kim](https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO) | 2:22 |
-| 115 | [Lust or Love](https://open.spotify.com/track/2omlrmLwyZOvUTghaI4QsR) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:12 |
-| 116 | [You Better Know \(feat\. Skilla Baby\)](https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Beautiful Tragedy](https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb) | 3:13 |
+| 115 | [You Better Know \(feat\. Skilla Baby\)](https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Beautiful Tragedy](https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb) | 3:13 |
+| 116 | [Lust or Love](https://open.spotify.com/track/2omlrmLwyZOvUTghaI4QsR) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:12 |
 | 117 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 |
 | 118 | [Double Life](https://open.spotify.com/track/2Sg48T1SK3MwDtBlfQFV9q) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire \(Season 6, I Am Who I Am\) \[Music from the TV Series\]](https://open.spotify.com/album/500UKt3WeIJoOihhYLcozj) | 1:59 |
 | 119 | [Clap For Me](https://open.spotify.com/track/0F6mXWicsDyhFUn4xRX9Yx) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Will A Fool](https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB) | [Still Too Deep](https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr) | 2:41 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 132 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 133 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AcR23AAAAABCtWNFDynYR3AJR3rk5FPX`
+Snapshot ID: `AcR8fAAAAABd0kam5oHVP3juqAYn46zo`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,902 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,900 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 |
-| 2 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/27lTfDEF9QvwM5Cek5tJ5z), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
+| 2 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/4zvd6C2B4NUXCWrr3652Bf), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
 | 3 | [Black Sage](https://open.spotify.com/track/3yGEqQ4yeo2pIHP93pf2vV) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Black Sage](https://open.spotify.com/album/1zp3RHhnnu3lZcxCG31or9) | 4:53 |
 | 4 | [Coming On Strong](https://open.spotify.com/track/3zprTOVWC5hNMu6XqzonYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Coming On Strong](https://open.spotify.com/album/7vx4p5LHIfncpxeGEcnrun) | 3:08 |
 | 5 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 19 | [Fake Lover](https://open.spotify.com/track/4nPEk5QD14UBQEHEcb8C3t) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Fake Lover](https://open.spotify.com/album/0lLl86ArS3OJ4D8p8tR0wR) | 2:10 |
 | 20 | [PUSH PIN](https://open.spotify.com/track/42HAEL264uHwYLbQV5Y9Io) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [PUSH PIN](https://open.spotify.com/album/4OWcPaOG3bxKOIOmOywInK) | 3:09 |
 | 21 | [Soft Cover](https://open.spotify.com/track/4mOw9VUFVoDaY8TNdDUYgs) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Soft Cover](https://open.spotify.com/album/57CBXdrPtKXcQq73xYOf7H) | 4:22 |
-| 22 | [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/5fI86ifuIke8GRGHNc897R) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 |
+| 22 | [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 |
 | 23 | [Through The Heather](https://open.spotify.com/track/3GRGLRoEf6fWvGa8cbu0ol) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Through the Heather](https://open.spotify.com/album/4QcBOVnetEqT4tIlVien96) | 3:21 |
 | 24 | [Berlin Felt Like France](https://open.spotify.com/track/6VHfL89DYvf2u6nXfQVle4) | [Seasoul](https://open.spotify.com/artist/3Nqa6f1nJMRQYDd0JQdgh3) | [Berlin Felt Like France](https://open.spotify.com/album/72j6JG5W7Izgr6zfbKCfFX) | 4:12 |
 | 25 | [Catching Sunlight](https://open.spotify.com/track/44yIg3ZXkbWWoZHQooaciQ) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave), [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Catching Sunlight](https://open.spotify.com/album/2yo3X1eLmITUg1dDkmxFKt) | 2:48 |

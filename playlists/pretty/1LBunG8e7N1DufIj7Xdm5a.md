@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,456 songs - 9 day 21 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,462 songs - 9 day 22 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4464,5 +4464,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4454 | [Unfinished Wood](https://open.spotify.com/track/21xWSXmvje5ziqyXdqZXgd) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Unfinished Wood](https://open.spotify.com/album/1YXEddINtAJcMWNkYgkQzk) | 2:56 |
 | 4455 | [Inch by Inch](https://open.spotify.com/track/1BcNf0V0vtN1s6nTEMjahi) | [Deadline/Daydreams](https://open.spotify.com/artist/4qYkrZKqZwnck4JVLMAw22) | [Inch by Inch](https://open.spotify.com/album/3hTdYAYeuM3iN5euGRa7of) | 3:07 |
 | 4456 | [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 |
+| 4457 | [Let's Go](https://open.spotify.com/track/5GuocXu1iB2pIipx6UKrrr) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Let's Go](https://open.spotify.com/album/2224uV3uN96Tp9QATYxmUs) | 3:35 |
+| 4458 | [demora](https://open.spotify.com/track/4ZVuc0qIQy0o9xWMsrfK7Y) | [Last Bølt Ceremony](https://open.spotify.com/artist/2IajsdZ6Wn4GXBo2f6CDtd) | [demora](https://open.spotify.com/album/2jUjdGJuBub7mQNXRVWcCD) | 6:03 |
+| 4459 | [Stoning Glass Temples](https://open.spotify.com/track/3erGCvVFjZK0TNwb8NGruZ) | [MAUL](https://open.spotify.com/artist/4fg9ukckfeMoTQsXmiQZi0) | [Stoning Glass Temples](https://open.spotify.com/album/4GH8KxhYCVLBMjtUkLK8Yy) | 3:08 |
+| 4460 | [Mellow](https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [DC3 Productions LLC](https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:58 |
+| 4461 | [Anna](https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp) | [Roan Grevel](https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627) | [Anna](https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs) | 4:30 |
+| 4462 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 |
 
-Snapshot ID: `AAAIp8zkN3J4siM0Sot1Ybcj8onQ6wfB`
+Snapshot ID: `AAAIr8monxLE0vyUgUT+g2Fw7z6HZ0LK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890 likes - 137 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 137 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 16 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 |
 | 17 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 |
 | 18 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:26 |
-| 19 | [Stay With Me](https://open.spotify.com/track/64a4Zjj4vVTLVfVboFNXIZ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Seventies Collection](https://open.spotify.com/album/2YKnYeoibLqjjnhzcOiAe6) | 4:40 |
-| 20 | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/track/0fMPPMAd8Zo5dF6ADmHfgi) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/album/0555yBTrInIBZIOeqRujAG) | 3:17 |
+| 19 | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/track/0fMPPMAd8Zo5dF6ADmHfgi) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/album/0555yBTrInIBZIOeqRujAG) | 3:17 |
+| 20 | [Stay With Me](https://open.spotify.com/track/64a4Zjj4vVTLVfVboFNXIZ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Seventies Collection](https://open.spotify.com/album/2YKnYeoibLqjjnhzcOiAe6) | 4:40 |
 | 21 | [Magic](https://open.spotify.com/track/6KFhu3gk0whUnGCeOjkL8A) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:39 |
 | 22 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
 | 23 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 136 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 137 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AcR3GAAAAACrBEyqB87AG53G8oki8vY9`
+Snapshot ID: `AcR8fAAAAAC4gHJsTU1QazJmXFQr/X+B`

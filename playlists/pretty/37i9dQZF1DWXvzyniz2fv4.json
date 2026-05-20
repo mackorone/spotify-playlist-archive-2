@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158725,
+  "num_followers": 158721,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Garotas s\u00e3o Confusas (Deluxe)",
         "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 139780,
       "name": "A Festa",
       "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "OBRA PRIMA",
-        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
-      },
-      "artists": [
-        {
-          "name": "MC Gustavinho",
-          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
-        }
-      ],
-      "duration_ms": 169855,
-      "name": "OBRA PRIMA",
-      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2026-04-20 14:17:08",

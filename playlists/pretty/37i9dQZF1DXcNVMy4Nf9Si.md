@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNVMy4Nf9Si.md) - [plain]
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,684 likes - 98 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,683 likes - 98 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

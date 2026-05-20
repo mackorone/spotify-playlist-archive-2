@@ -2101,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "ALABUKUN",
+        "url": "https://open.spotify.com/album/7wVcJ0X6t8tlAW4GinN8nc"
+      },
+      "artists": [
+        {
+          "name": "Big Smart",
+          "url": "https://open.spotify.com/artist/6g8gm81rvUz82cGB3Ry1tn"
+        },
+        {
+          "name": "Mac D",
+          "url": "https://open.spotify.com/artist/7ByGPpySyWmKxbqTPFMyx5"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168528,
+      "name": "ALABUKUN",
+      "url": "https://open.spotify.com/track/4vt5kKW4BA7DcHpvLvMuKG"
+    },
+    {
+      "album": {
         "name": "Alakori",
         "url": "https://open.spotify.com/album/0eCh31ey9bjWfr38W8DNAh"
       },
@@ -4306,7 +4328,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -4394,7 +4416,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -6186,6 +6208,24 @@
       "duration_ms": 324963,
       "name": "Be\u00f0urinn",
       "url": "https://open.spotify.com/track/0WXPSbJj6yfqHBmaRTesMS"
+    },
+    {
+      "album": {
+        "name": "Big Boy Fever",
+        "url": "https://open.spotify.com/album/40uk0ZB1VdzbYVunGBBARB"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Big Boy Fever",
+      "url": "https://open.spotify.com/track/5LNmbnohhzbRN2Xpl6rITv"
     },
     {
       "album": {
@@ -13582,7 +13622,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 148932,
       "name": "Don\u2019t Click Play",
       "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
@@ -21744,7 +21784,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -21762,7 +21802,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -23288,6 +23328,24 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/0KMxueoFlcppq9NqHhA4iV"
+      },
+      "artists": [
+        {
+          "name": "Debra Can",
+          "url": "https://open.spotify.com/artist/4cn6dYe0BiHSUU0zd9BYhc"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/26aKKjFnNaFcibeQXkzrIE"
     },
     {
       "album": {
@@ -34008,7 +34066,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -34738,7 +34796,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 301950,
       "name": "Make Them Pay",
       "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
@@ -38945,6 +39003,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/21vNAtLqNzZAL7au8IlVeL"
+      },
+      "artists": [
+        {
+          "name": "Flyboi Rich",
+          "url": "https://open.spotify.com/artist/6J8NNGxsIeLTIAd8yW4izf"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182256,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3jXLfDgKj2uAtXIbWCYe3V"
+    },
+    {
+      "album": {
         "name": "Love Without Regrets, Pt. 1",
         "url": "https://open.spotify.com/album/6vf3qzQXNAG8AnDUr4aBE7"
       },
@@ -40528,7 +40604,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "On My Fingertips",
       "url": "https://open.spotify.com/track/23Ou0ryYsEVgfb7eNor2sd"
@@ -49142,7 +49218,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -53568,7 +53644,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -55680,6 +55756,24 @@
       "duration_ms": 86709,
       "name": "THIS A MUST",
       "url": "https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm"
+    },
+    {
+      "album": {
+        "name": "This Is a Broadcast",
+        "url": "https://open.spotify.com/album/1lAu6hTpwDdJTNEGawyigD"
+      },
+      "artists": [
+        {
+          "name": "Midnight Wanderers",
+          "url": "https://open.spotify.com/artist/15PfRz7TFI38geNu8jynM5"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "This Is a Broadcast",
+      "url": "https://open.spotify.com/track/6BsXfgyqInoVcErTR6bBIx"
     },
     {
       "album": {
@@ -60207,6 +60301,24 @@
     },
     {
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/4UExvJkLFekHYrwg2YI3Mc"
+      },
+      "artists": [
+        {
+          "name": "Stefano Cilio",
+          "url": "https://open.spotify.com/artist/47xoaIx5kSY8Cn607qXt4N"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168456,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5QyXOQg3UVlvAg8h5SUwlK"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -60372,6 +60484,24 @@
       "duration_ms": 188833,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh"
+    },
+    {
+      "album": {
+        "name": "want me",
+        "url": "https://open.spotify.com/album/3zt6K5HcZta2cdi4U58y7A"
+      },
+      "artists": [
+        {
+          "name": "rl",
+          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128590,
+      "name": "want me",
+      "url": "https://open.spotify.com/track/5oXHDFaeIDknth8RDmKZlz"
     },
     {
       "album": {
@@ -65720,7 +65850,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

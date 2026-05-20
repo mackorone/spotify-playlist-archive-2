@@ -32,7 +32,7 @@
       },
       "artists": [
         {
-          "name": "Kalli",
+          "name": "KALLI",
           "url": "https://open.spotify.com/artist/0VItUwSmAQ1d05ktT1S2gp"
         },
         {
@@ -122,6 +122,10 @@
         {
           "name": "Brimir",
           "url": "https://open.spotify.com/artist/7utwEYwXla5Vmzx8nWDZiN"
+        },
+        {
+          "name": "\u00deorbj\u00f6rg Eva Magn\u00fasd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3fWAkS5BdvadtJVY6ctmWT"
         }
       ],
       "duration_ms": 229400,
@@ -415,18 +419,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/2Myp53WxhQq9JTWNEFNyCn"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -499,18 +503,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Loco X Volver",
-        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 235714,
-      "name": "Tu recuerdo",
-      "url": "https://open.spotify.com/track/2Myp53WxhQq9JTWNEFNyCn"
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -755,22 +759,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Housekeeping",
-        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 205841,
-      "name": "Housekeeping",
-      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "Zone (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/5HBTCoQOw75m5huue8nkBl"
       },
@@ -787,6 +775,22 @@
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/0opSDloCLZOuKbO968zLH5"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -859,22 +863,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 161100,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "bad dreams",
         "url": "https://open.spotify.com/album/36hV9Uho0HrvjWSqFzhkZM"
       },
@@ -891,6 +879,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 161100,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "By The Morning",
         "url": "https://open.spotify.com/album/1U4vtDDY1W5gWlXrR3Kqb0"
       },
@@ -903,6 +907,22 @@
       "duration_ms": 221306,
       "name": "By The Morning",
       "url": "https://open.spotify.com/track/4jmjDqFRMlJS07J3k2B7Ht"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/5KcIqpIPttDEcLQPtUSHlX"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 168925,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/0KVliQo0okhhMh6QJlGeow"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -927,22 +947,6 @@
       "duration_ms": 127179,
       "name": "Into The Stars",
       "url": "https://open.spotify.com/track/4j9zVmqL3sF0WD3X05Qlnj"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/5KcIqpIPttDEcLQPtUSHlX"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 168925,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/0KVliQo0okhhMh6QJlGeow"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -979,22 +983,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/1aOjmbw2XLnlhCAATYm97g"
-      },
-      "artists": [
-        {
-          "name": "Love Stenmarck",
-          "url": "https://open.spotify.com/artist/3tOz9LCUfLcFAgKjknAQYz"
-        }
-      ],
-      "duration_ms": 156889,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/4qXxxqFqp0zAcFInBtLc53"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/46Ls51XYktqeGtDxlcSWXg"
       },
@@ -1007,6 +995,22 @@
       "duration_ms": 218500,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0PbEIXoDzlr7xNak4auLLt"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/1aOjmbw2XLnlhCAATYm97g"
+      },
+      "artists": [
+        {
+          "name": "Love Stenmarck",
+          "url": "https://open.spotify.com/artist/3tOz9LCUfLcFAgKjknAQYz"
+        }
+      ],
+      "duration_ms": 156889,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/4qXxxqFqp0zAcFInBtLc53"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1027,18 +1031,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "A Stitch For Grand Affairs",
-        "url": "https://open.spotify.com/album/6ubOLIFlBEM0aEDpOtEG4M"
+        "name": "at least this far",
+        "url": "https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke"
       },
       "artists": [
         {
-          "name": "The Court",
-          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
         }
       ],
-      "duration_ms": 163764,
-      "name": "That's On Us",
-      "url": "https://open.spotify.com/track/1IXX8TqpobMqFLgrCKcnd6"
+      "duration_ms": 166243,
+      "name": "at least this far",
+      "url": "https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1059,18 +1063,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "at least this far",
-        "url": "https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke"
+        "name": "A Stitch For Grand Affairs",
+        "url": "https://open.spotify.com/album/6ubOLIFlBEM0aEDpOtEG4M"
       },
       "artists": [
         {
-          "name": "lucca",
-          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
         }
       ],
-      "duration_ms": 166243,
-      "name": "at least this far",
-      "url": "https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr"
+      "duration_ms": 163764,
+      "name": "That's On Us",
+      "url": "https://open.spotify.com/track/1IXX8TqpobMqFLgrCKcnd6"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1143,22 +1147,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/1hhFrssdeQT69sB1PgeMj7"
-      },
-      "artists": [
-        {
-          "name": "KURT.",
-          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
-        }
-      ],
-      "duration_ms": 156679,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/4WWdR0ZGzMvODXiuUYYR1J"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "I'd love to be a star, but I'm tired as fuck",
         "url": "https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi"
       },
@@ -1171,6 +1159,22 @@
       "duration_ms": 215454,
       "name": "I'd love to be a star",
       "url": "https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/1hhFrssdeQT69sB1PgeMj7"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 156679,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/4WWdR0ZGzMvODXiuUYYR1J"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Klar, Parat, Skolestart 3",
-        "url": "https://open.spotify.com/album/2sbLQVIWi2vpmZHdeto4sb"
+        "name": "WID4L",
+        "url": "https://open.spotify.com/album/2NfVwzBj9pDp8yihdX0JuB"
       },
       "artists": [
         {
-          "name": "Ramasjang",
-          "url": "https://open.spotify.com/artist/55KsM8lOlVwOS1LWkIzuax"
-        },
-        {
-          "name": "Stig Rossen",
-          "url": "https://open.spotify.com/artist/2z8iTQwzBF1lbIN2oUkdIP"
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
         }
       ],
-      "duration_ms": 149059,
-      "name": "Gode Gamle Dage",
-      "url": "https://open.spotify.com/track/1qXjgFkh7LjxllyIX48ipf"
+      "duration_ms": 171077,
+      "name": "Only Lovers",
+      "url": "https://open.spotify.com/track/3ysZCkPgy9c6rjHj3uHxVI"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "Klar, Parat, Skolestart 3",
+        "url": "https://open.spotify.com/album/2sbLQVIWi2vpmZHdeto4sb"
+      },
+      "artists": [
+        {
+          "name": "Ramasjang",
+          "url": "https://open.spotify.com/artist/55KsM8lOlVwOS1LWkIzuax"
+        },
+        {
+          "name": "Stig Rossen",
+          "url": "https://open.spotify.com/artist/2z8iTQwzBF1lbIN2oUkdIP"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Gode Gamle Dage",
+      "url": "https://open.spotify.com/track/1qXjgFkh7LjxllyIX48ipf"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "busy me",
         "url": "https://open.spotify.com/album/4RcqjYT1yfWUYaUmNgyv9l"
       },
@@ -1275,18 +1295,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "WID4L",
-        "url": "https://open.spotify.com/album/2NfVwzBj9pDp8yihdX0JuB"
+        "name": "Burgundy Red (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1aXl5vf86gZfXXJ2ECvXfL"
       },
       "artists": [
         {
-          "name": "Ellen Benediktson",
-          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
         }
       ],
-      "duration_ms": 171077,
-      "name": "Only Lovers",
-      "url": "https://open.spotify.com/track/3ysZCkPgy9c6rjHj3uHxVI"
+      "duration_ms": 183529,
+      "name": "Was It Really My Fault?",
+      "url": "https://open.spotify.com/track/3zLUOO73jntGW6XRgQqzP6"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1311,22 +1331,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Love Has No Age",
-        "url": "https://open.spotify.com/album/11XndTP4R5I1K4Umm2DrTw"
-      },
-      "artists": [
-        {
-          "name": "Vilma Crow",
-          "url": "https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww"
-        }
-      ],
-      "duration_ms": 330082,
-      "name": "Love Has No Age",
-      "url": "https://open.spotify.com/track/7ltmZex7ECQMHGlm2gYc2Y"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "Everything Is A Lie",
         "url": "https://open.spotify.com/album/35wlLxK5i9plY3sWDofMlM"
       },
@@ -1343,34 +1347,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Burgundy Red (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1aXl5vf86gZfXXJ2ECvXfL"
+        "name": "Love Has No Age",
+        "url": "https://open.spotify.com/album/11XndTP4R5I1K4Umm2DrTw"
       },
       "artists": [
         {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+          "name": "Vilma Crow",
+          "url": "https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Was It Really My Fault?",
-      "url": "https://open.spotify.com/track/3zLUOO73jntGW6XRgQqzP6"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/63nlqkeOZci7tYcx6NR0h3"
-      },
-      "artists": [
-        {
-          "name": "Jeji",
-          "url": "https://open.spotify.com/artist/5gz7LxDkvxW1ccvT5E3Q2v"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4Psf081nAgQoRsOtfQP1bh"
+      "duration_ms": 330082,
+      "name": "Love Has No Age",
+      "url": "https://open.spotify.com/track/7ltmZex7ECQMHGlm2gYc2Y"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1387,6 +1375,22 @@
       "duration_ms": 399155,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/2WRq0WKHLGNJOjK8x0ury0"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/63nlqkeOZci7tYcx6NR0h3"
+      },
+      "artists": [
+        {
+          "name": "Jeji",
+          "url": "https://open.spotify.com/artist/5gz7LxDkvxW1ccvT5E3Q2v"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4Psf081nAgQoRsOtfQP1bh"
     },
     {
       "added_at": "2026-05-15 00:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,896 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,988 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 74 | [Paths](https://open.spotify.com/track/1fR3dT23kscB6N9Y2xmcYB) | [TeenStreet Worship](https://open.spotify.com/artist/5QLXWYkK6YKyhnQYriMp4k), [Mylie Miller](https://open.spotify.com/artist/5uCAG3YYqydkmVcX1sCLND) | [Paths](https://open.spotify.com/album/5QYE1t8NMJwWaAJyWY8ylB) | 4:18 |
 | 75 | [For Granted](https://open.spotify.com/track/5RHO05RLmRxDF9Be9uELES) | [Jonathan Diaz](https://open.spotify.com/artist/2SSd3iKn7O8FpQjeTkCP3n) | [For Granted](https://open.spotify.com/album/5ouOpijcU29skV7Mxw0kFO) | 3:06 |
 
-Snapshot ID: `AAAAAPEi0NfmUJHTtdd5sfQW6Ln3KkZ8`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

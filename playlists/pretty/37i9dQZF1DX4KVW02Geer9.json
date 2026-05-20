@@ -1,13 +1,49 @@
 {
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: aron! Mei Semones",
-  "num_followers": 65179,
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: fox capture plan",
+  "num_followers": 65180,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADodQ/s/fR1/jCjoZwVYdq7RmXcF",
+  "snapshot_id": "AAAAALf9pbKDbJGArA4pBYHm83fgFM/0",
   "tracks": [
+    {
+      "added_at": "2026-05-19 15:00:25",
+      "album": {
+        "name": "RISING (from \"Bridge\" 2026 Take)",
+        "url": "https://open.spotify.com/album/04hdHgUHb8uxoNrb4dwcAX"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 277068,
+      "name": "RISING - from \"Bridge\" 2026 Take",
+      "url": "https://open.spotify.com/track/1yABUuLzlKv40eFgnRJ05e"
+    },
+    {
+      "added_at": "2026-05-14 15:00:31",
+      "album": {
+        "name": "Liyoze Line Nangakithi",
+        "url": "https://open.spotify.com/album/4INvgaGXRdna2ganfmKpDW"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Liyoze Line Nangakithi",
+      "url": "https://open.spotify.com/track/5q7fC6mCFVUr6FWg3w8dhx"
+    },
     {
       "added_at": "2026-05-07 16:19:57",
       "album": {
@@ -29,60 +65,40 @@
       "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
     },
     {
-      "added_at": "2026-05-12 15:00:29",
+      "added_at": "2026-05-01 03:34:54",
       "album": {
-        "name": "John Connor",
-        "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
       "artists": [
         {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 339006,
-      "name": "In a Spiral",
-      "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
-    },
-    {
-      "added_at": "2026-05-14 15:00:31",
-      "album": {
-        "name": "JO\u0178A",
-        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         },
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Femi Koleoso",
+          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
         }
       ],
-      "duration_ms": 291726,
-      "name": "MASTERPIECE",
-      "url": "https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y"
+      "duration_ms": 197122,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
     },
     {
-      "added_at": "2026-05-14 15:00:31",
+      "added_at": "2026-05-01 03:34:54",
       "album": {
-        "name": "Liyoze Line Nangakithi",
-        "url": "https://open.spotify.com/album/4INvgaGXRdna2ganfmKpDW"
+        "name": "iii",
+        "url": "https://open.spotify.com/album/2lxf14F3bTB8ngyyMXTukD"
       },
       "artists": [
         {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        },
-        {
-          "name": "Shabaka Hutchings",
-          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
         }
       ],
-      "duration_ms": 266333,
-      "name": "Liyoze Line Nangakithi",
-      "url": "https://open.spotify.com/track/5q7fC6mCFVUr6FWg3w8dhx"
+      "duration_ms": 275633,
+      "name": "iii",
+      "url": "https://open.spotify.com/track/00HzLDjV2mRnBkBXDef4j2"
     },
     {
       "added_at": "2026-05-12 15:00:29",
@@ -117,40 +133,20 @@
       "url": "https://open.spotify.com/track/4lKQi60Oe2wnJk8Qrn1QHE"
     },
     {
-      "added_at": "2026-05-01 03:34:54",
+      "added_at": "2026-05-12 15:00:29",
       "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/2lxf14F3bTB8ngyyMXTukD"
+        "name": "John Connor",
+        "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
       },
       "artists": [
         {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
         }
       ],
-      "duration_ms": 275633,
-      "name": "iii",
-      "url": "https://open.spotify.com/track/00HzLDjV2mRnBkBXDef4j2"
-    },
-    {
-      "added_at": "2026-05-01 03:34:54",
-      "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Femi Koleoso",
-          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
-        }
-      ],
-      "duration_ms": 197122,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+      "duration_ms": 339006,
+      "name": "In a Spiral",
+      "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
     },
     {
       "added_at": "2026-05-01 03:34:54",
@@ -319,22 +315,6 @@
     {
       "added_at": "2026-05-01 03:34:54",
       "album": {
-        "name": "Lithium",
-        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
-    },
-    {
-      "added_at": "2026-05-01 03:34:54",
-      "album": {
         "name": "Heavy Rain",
         "url": "https://open.spotify.com/album/4gZ5KL4UCTrsXF6xAIo7x4"
       },
@@ -363,6 +343,46 @@
       "duration_ms": 198985,
       "name": "Foolsong",
       "url": "https://open.spotify.com/track/78vBRjXSmbJDGvnGsRGuuu"
+    },
+    {
+      "added_at": "2026-05-19 15:00:25",
+      "album": {
+        "name": "Not today",
+        "url": "https://open.spotify.com/album/4ey0qdzpCg3g6fPFAdMlNi"
+      },
+      "artists": [
+        {
+          "name": "ZIW",
+          "url": "https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa"
+        },
+        {
+          "name": "Yuka Kawabata",
+          "url": "https://open.spotify.com/artist/5EnPzvbgBpteSYgt9A3Tpr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Not today",
+      "url": "https://open.spotify.com/track/1qc7OiZej7ah818tYefk1R"
+    },
+    {
+      "added_at": "2026-05-14 15:00:31",
+      "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 291726,
+      "name": "MASTERPIECE",
+      "url": "https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y"
     },
     {
       "added_at": "2026-05-01 03:34:54",

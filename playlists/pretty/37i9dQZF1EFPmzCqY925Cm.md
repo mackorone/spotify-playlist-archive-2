@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 38 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 |
 | 39 | [I DON'T WANNA KNOW](https://open.spotify.com/track/7C7ibGvwEFkVM64FD9Mwaf) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [I DON'T WANNA KNOW](https://open.spotify.com/album/4oHo81OEn1yuv0V5hbNQXE) | 2:01 |
 | 40 | [Where Am I?](https://open.spotify.com/track/5A3NEMVcI9sAp7BSuaEeWU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 1:07 |
-| 41 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
-| 42 | [Bassline](https://open.spotify.com/track/28nwKIQncsvccHV6Feds0C) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:52 |
+| 41 | [Bassline](https://open.spotify.com/track/28nwKIQncsvccHV6Feds0C) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:52 |
+| 42 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
 | 43 | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/track/0hMeQ9IyDymEw6xRG0YWfU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/album/0RFPb4HKWwFhbzW9pLHmLX) | 2:43 |
 | 44 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
 | 45 | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/track/5gkxFPflbWN4rfKXDE7p9V) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/album/3MCnPLixvb2nq5eejWumll) | 2:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 64 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 65 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcR3GAAAAABxH9zihPpeb70vTa5g1PBT`
+Snapshot ID: `AcR8fAAAAADHmiux/08G2NaaeJMKyFXW`

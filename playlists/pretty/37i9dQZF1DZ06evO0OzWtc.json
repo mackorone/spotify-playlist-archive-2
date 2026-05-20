@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADLei2Iy03mo0utCUda/hoy",
+  "snapshot_id": "agpWgAAAAABiu3rRYAKRB5rxXmlktlBI",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RZR Rojo",
         "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 112981,
       "name": "RZR Rojo",
       "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
     },
     {
       "added_at": null,
@@ -843,6 +843,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sue\u00f1os de la Clika",
         "url": "https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 128138,
       "name": "Sue\u00f1os de la Clika",
       "url": "https://open.spotify.com/track/5cI2CcuDA9ZOpXgg30eBIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,

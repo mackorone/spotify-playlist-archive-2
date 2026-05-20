@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 208813,
+  "num_followers": 208840,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "The House with a View",
-        "url": "https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX"
-      },
-      "artists": [
-        {
-          "name": "Goldb\u00e6k",
-          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "The House with a View",
-      "url": "https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "The House with a View",
+        "url": "https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "The House with a View",
+      "url": "https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK"
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P"
+      "duration_ms": 163124,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK"
     },
     {
       "added_at": "2025-12-23 11:35:17",

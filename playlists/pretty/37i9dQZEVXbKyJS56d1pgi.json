@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Portugal.",
-  "num_followers": 222752,
+  "num_followers": 222766,
   "original_name": "Top 50 - Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZ6KAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZ/ZKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "94",
         "url": "https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy"
@@ -29,7 +29,55 @@
       "url": "https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200830,
+      "name": "National Treasures",
+      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "V\u00cdCIOS",
+        "url": "https://open.spotify.com/album/1tPqE6P02oOnJIDcVFXKY8"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "duration_ms": 160993,
+      "name": "SOU GRANDE NO AMOR",
+      "url": "https://open.spotify.com/track/4bDhxq6aHiBNpKUwub7Fb9"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -49,7 +97,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B"
@@ -81,23 +129,23 @@
       "url": "https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -113,119 +161,7 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "S\u00f3 Se Estraga uma Casa",
-        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
-      },
-      "artists": [
-        {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
-        }
-      ],
-      "duration_ms": 160625,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/4WUChWgQYcObDAFZTzehns"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Carn\u00edvoro",
-        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Carn\u00edvoro",
-      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
-        "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "DJ GORDINHO DA VF",
-          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
-        }
-      ],
-      "duration_ms": 217845,
-      "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
-      "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "JETSKI",
-        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "JETSKI",
-      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200830,
-      "name": "National Treasures",
-      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "Di\u00e1rio de um Cafajeste",
         "url": "https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA"
@@ -261,7 +197,63 @@
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+        "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "DJ GORDINHO DA VF",
+          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        }
+      ],
+      "duration_ms": 217845,
+      "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+      "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Carn\u00edvoro",
+        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro",
+      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -277,7 +269,23 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 160625,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/4WUChWgQYcObDAFZTzehns"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "Reliquia do 2T",
         "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
@@ -313,79 +321,7 @@
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "\u00daltima Dan\u00e7a",
-        "url": "https://open.spotify.com/album/5SFdJagxex7pu7jQiUt1hH"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        },
-        {
-          "name": "Lucas Maia",
-          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "\u00daltima Dan\u00e7a",
-      "url": "https://open.spotify.com/track/5mKzzTh3y4KsGpDT9h8EmS"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Amo Minha Favela",
-        "url": "https://open.spotify.com/album/0gQOFivOUvP08YHVZqX4mi"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 119538,
-      "name": "Amo Minha Favela",
-      "url": "https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "V\u00cdCIOS",
-        "url": "https://open.spotify.com/album/1tPqE6P02oOnJIDcVFXKY8"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        }
-      ],
-      "duration_ms": 160993,
-      "name": "SOU GRANDE NO AMOR",
-      "url": "https://open.spotify.com/track/4bDhxq6aHiBNpKUwub7Fb9"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -396,12 +332,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+      "duration_ms": 222580,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -421,39 +357,79 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "Carta de Alforria",
-        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
+        "name": "\u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/5SFdJagxex7pu7jQiUt1hH"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "Lucas Maia",
+          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
         }
       ],
-      "duration_ms": 188593,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD"
+      "duration_ms": 161500,
+      "name": "\u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5mKzzTh3y4KsGpDT9h8EmS"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 222580,
-      "name": "Whisper My Name",
-      "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "V\u00cdCIOS",
+        "url": "https://open.spotify.com/album/1tPqE6P02oOnJIDcVFXKY8"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "duration_ms": 154799,
+      "name": "V\u00cdCIOS",
+      "url": "https://open.spotify.com/track/0O69DKNBLFK8n3or2uYnMh"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Amo Minha Favela",
+        "url": "https://open.spotify.com/album/0gQOFivOUvP08YHVZqX4mi"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 119538,
+      "name": "Amo Minha Favela",
+      "url": "https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -469,59 +445,31 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "JETSKI",
+        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 307681,
-      "name": "Make Them Cry",
-      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
         }
       ],
-      "duration_ms": 126800,
-      "name": "Talvez voc\u00ea precise de mim",
-      "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
+      "duration_ms": 148645,
+      "name": "JETSKI",
+      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -545,7 +493,7 @@
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/0jTTydIhEi4RM75zIYblMS"
@@ -561,11 +509,27 @@
         }
       ],
       "duration_ms": 194582,
-      "name": "PENSAR EM TI",
+      "name": "PENSAR EM TI (feat. Plutonio)",
       "url": "https://open.spotify.com/track/5WWtmQM2ECCgHTaKx590Wz"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Carta de Alforria",
+        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 188593,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -576,12 +540,32 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+      "duration_ms": 307681,
+      "name": "Make Them Cry",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 126800,
+      "name": "Talvez voc\u00ea precise de mim",
+      "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -597,119 +581,7 @@
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 189217,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "S\u00f3 Se Estraga uma Casa",
-        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
-      },
-      "artists": [
-        {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Casar \u00c9 pra Esquecer",
-      "url": "https://open.spotify.com/track/2vXoKaCmszk4v7BBltBh5j"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "2 Hard 4 The Radio",
-      "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/0jTTydIhEi4RM75zIYblMS"
@@ -725,39 +597,103 @@
       "url": "https://open.spotify.com/track/0XA08uwn2SSl9Uzj07kkNd"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "2 Hard 4 The Radio",
+      "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -773,7 +709,155 @@
       "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 189217,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Casar \u00c9 pra Esquecer",
+      "url": "https://open.spotify.com/track/2vXoKaCmszk4v7BBltBh5j"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 301950,
+      "name": "Make Them Pay",
+      "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Devia Ir",
+        "url": "https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 293748,
+      "name": "Devia Ir",
+      "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Bola Uma Vela (Trava Chip)",
+        "url": "https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Bola Uma Vela (Trava Chip)",
+      "url": "https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -793,39 +877,7 @@
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "SEQU\u00caNCIAS #1",
         "url": "https://open.spotify.com/album/55dQeTyxDtzrixKmRhhG02"
@@ -857,111 +909,35 @@
       "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
-        "name": "Bola Uma Vela (Trava Chip)",
-        "url": "https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre"
+        "name": "Se Saudade Sentir (Se Prepara 3)",
+        "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
       },
       "artists": [
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         },
         {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "Bola Uma Vela (Trava Chip)",
-      "url": "https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 301950,
-      "name": "Make Them Pay",
-      "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Devia Ir",
-        "url": "https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 293748,
-      "name": "Devia Ir",
-      "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "Reservado",
-        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         },
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 263767,
-      "name": "\u00c1lcool & Prazer",
-      "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"
-    },
-    {
-      "added_at": "2026-05-18 14:03:01",
-      "album": {
-        "name": "V\u00cdCIOS",
-        "url": "https://open.spotify.com/album/1tPqE6P02oOnJIDcVFXKY8"
-      },
-      "artists": [
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
         {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
         }
       ],
-      "duration_ms": 154799,
-      "name": "V\u00cdCIOS",
-      "url": "https://open.spotify.com/track/0O69DKNBLFK8n3or2uYnMh"
+      "duration_ms": 197533,
+      "name": "Se Saudade Sentir (Se Prepara 3)",
+      "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
     },
     {
-      "added_at": "2026-05-18 14:03:01",
+      "added_at": "2026-05-19 13:54:34",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -975,6 +951,22 @@
       "duration_ms": 248285,
       "name": "Make Them Know",
       "url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
+    },
+    {
+      "added_at": "2026-05-19 13:54:34",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     }
   ],
   "unique_name": "Top 50 - Portugal",

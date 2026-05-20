@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,581 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,591 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 30 | [Corner](https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Corner](https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4) | 2:16 |
 | 31 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
 | 32 | [Cascade \- Mixed](https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Winter Mix Vol.2](https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66) | 1:16 |
-| 33 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
-| 34 | [Game Face](https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Game Face](https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW) | 2:53 |
+| 33 | [Game Face](https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Game Face](https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW) | 2:53 |
+| 34 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
 | 35 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 36 | [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 |
 | 37 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |

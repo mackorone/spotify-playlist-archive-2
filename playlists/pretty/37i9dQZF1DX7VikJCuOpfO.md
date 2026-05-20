@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernández 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,574 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,584 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 28 | [El Hombre Que Yo Amo](https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Hombre Que Yo Amo](https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF) | 3:55 |
 | 29 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 30 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
-| 31 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
-| 32 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |
+| 31 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |
+| 32 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
 | 33 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 34 | [Amarte A La Medida](https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Amarte A La Medida](https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4) | 3:16 |
 | 35 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 |
 | 36 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 | 37 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
-| 38 | [Qué Manera De Perder](https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa), [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Qué Manera De Perder](https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ) | 2:35 |
-| 39 | [No Me Amenaces \(En Vivo\)](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
+| 38 | [No Me Amenaces \(En Vivo\)](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
+| 39 | [Qué Manera De Perder](https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa), [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Qué Manera De Perder](https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ) | 2:35 |
 | 40 | [Cuando Llegue el Día](https://open.spotify.com/track/5O60WjoCD5egvktd0FK283) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Cuando Llegue el Día](https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC) | 3:58 |
 | 41 | [Bailando De A Cartón](https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Bailando De A Cartón](https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi) | 3:24 |
 | 42 | [Caballero](https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt) | [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [Caballero](https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj) | 3:47 |

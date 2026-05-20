@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-505 songs - 1 day 5 hr 53 min
+506 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 | 2022-08-26 | 2022-10-01 |
 | [Back in the Streets](https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P) | [Hotboxx](https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD), [Justin Garcia](https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x) | [Back in the Streets](https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz) | 4:58 | 2026-04-30 |  |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-04-17 | 2026-05-01 |
-| [Back to the Old School](https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Back to the Old School](https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM) | 6:11 | 2026-05-14 |  |
+| [Back to the Old School](https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Back to the Old School](https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM) | 6:11 | 2026-05-14 | 2026-05-20 |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-04-17 | 2026-05-01 |
 | [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-05-29 |  |
 | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL) | 3:05 | 2026-05-14 |  |
@@ -222,6 +222,7 @@
 | [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 | 2024-06-14 | 2024-07-16 |
 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 | 2026-04-30 |  |
 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 | 2026-04-10 |  |
+| [Insane](https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Insane](https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp) | 3:44 | 2026-05-14 |  |
 | [Insomnia 2021 \- Epic Edit](https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia 2021](https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX) | 4:48 | 2022-08-26 | 2024-07-19 |
 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 | 2022-08-26 | 2023-03-06 |
 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 | 2025-04-17 | 2025-10-11 |

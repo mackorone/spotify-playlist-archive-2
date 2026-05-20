@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Vidusan Kaneswaran
 
-785 songs - 1 day 20 hr 29 min
+786 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Devaloka Sundari](https://open.spotify.com/track/4MOeRGLM4SePdzJNJaRBTA) | [Siri Xander](https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR) | [Devaloka Sundari](https://open.spotify.com/album/7zttMIDy66doKweYdLyTbS) | 2:31 | 2026-04-09 |  |
 | [Dhevatha](https://open.spotify.com/track/7DXBxg1QQzSikozXg6217O) | [Gjaani](https://open.spotify.com/artist/0JBuxzuvpv4ZCARjBnfH2h), [Johan Anthony](https://open.spotify.com/artist/4FN63ChZl1waQ6KIcm08d3), [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63) | [Dhevatha](https://open.spotify.com/album/0qcpQqQ9Sa8PDjWsmS6RFJ) | 3:45 | 2025-01-24 | 2025-04-19 |
 | [Dhinam Dhinam](https://open.spotify.com/track/6bAoPoRDEqOz2EuE66bMAw) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Manikandan S](https://open.spotify.com/artist/7FymYeriuyyljczk45DPqb) | [Dhinam Dhinam](https://open.spotify.com/album/6GsLL65Ls2xdEodgTVN79Y) | 3:40 | 2024-12-16 | 2025-02-18 |
+| [Dhooram](https://open.spotify.com/track/6dvDX6DXNkpxjrCjRqXFf6) | [Titus Thana Raj](https://open.spotify.com/artist/5CPRKZxu3v1ZPvPs37sPcP) | [Dhooram](https://open.spotify.com/album/7708MtKrvfKMNX9tATDTzm) | 2:32 | 2026-05-19 |  |
 | [Dhwani](https://open.spotify.com/track/05qCw3TgWoH6jg4GlzxLp0) | [Midhun Suresh](https://open.spotify.com/artist/24nhDe8XrRTh7NuSjLDJLL), [Megha Salila](https://open.spotify.com/artist/7nTES2cUKX4jdUOXxSs1YZ), [Aadhi](https://open.spotify.com/artist/62LkuWN34h9wWrFQaAvO74) | [Dhwani](https://open.spotify.com/album/6WdSRbZrPptJCQfHmGyX2j) | 3:15 | 2025-10-23 | 2026-03-10 |
 | [Dinner Kuthu](https://open.spotify.com/track/49S1Y0cmxDUQsIxYauAqfT) | [Reguvin](https://open.spotify.com/artist/0TmlNikhbYpazLXghCt2RB), [Edwin Thomas](https://open.spotify.com/artist/45aLszOZq8PVo7cFN8Fiau), [Jude Niranjan](https://open.spotify.com/artist/0EZXOWnVL9wfbIAkIzG4cF), [Ragav Krishnan](https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q) | [Dinner Kuthu](https://open.spotify.com/album/3Uk3Zxpxn1ddbg5HvgRHxG) | 3:39 | 2025-10-22 | 2026-03-06 |
 | [Distant Hearts](https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Ramprasad Nachimuthu](https://open.spotify.com/artist/2tr1ozwY6ZXc0PqfEa2XrE) | [Distant Hearts](https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr) | 3:53 | 2024-08-26 | 2024-12-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: plusamari",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: ashnymph",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1715,6 +1715,42 @@
     },
     {
       "album": {
+        "name": "Adultery",
+        "url": "https://open.spotify.com/album/32N0EPwXxW39UlItZbqS0X"
+      },
+      "artists": [
+        {
+          "name": "Viji",
+          "url": "https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Adultery",
+      "url": "https://open.spotify.com/track/7mVTZvLnpAghsNZ0wgfdfy"
+    },
+    {
+      "album": {
+        "name": "afloat",
+        "url": "https://open.spotify.com/album/2rFm1HSG04k4eZiknCcDep"
+      },
+      "artists": [
+        {
+          "name": "Jack Patchett",
+          "url": "https://open.spotify.com/artist/1jxl5bUGSeYcwV7U0MAXv5"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279219,
+      "name": "afloat",
+      "url": "https://open.spotify.com/track/25YQR6lLv8i89lbNEhu63B"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2Rv29DiIEjX54L0u4Oco42"
       },
@@ -2072,7 +2108,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 252824,
       "name": "All Day",
       "url": "https://open.spotify.com/track/6gxmJyDO8NlP96bFU4nYPe"
@@ -11098,7 +11134,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 182261,
       "name": "Codamol",
       "url": "https://open.spotify.com/track/4RbyglPSBn7EiQDgWoIezL"
@@ -14558,7 +14594,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 264960,
       "name": "Detached",
       "url": "https://open.spotify.com/track/4mdKdoSBGmeL5zm2D4AtiU"
@@ -29776,7 +29812,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 219260,
       "name": "If I Could, I Would Try Again",
       "url": "https://open.spotify.com/track/4S8i56ybCTUu0myPHzligZ"
@@ -35703,6 +35739,24 @@
     },
     {
       "album": {
+        "name": "LOSE",
+        "url": "https://open.spotify.com/album/4RvO4r8YlvtiETs1ItWLMR"
+      },
+      "artists": [
+        {
+          "name": "Tnillz",
+          "url": "https://open.spotify.com/artist/7yTJnhcEGPii2kwJKQfr9B"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171532,
+      "name": "LOSE",
+      "url": "https://open.spotify.com/track/3dkueOeWHwJB1synRUG6xX"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/516WG6pdMHVHWXS3FreDTC"
       },
@@ -39475,6 +39529,24 @@
     },
     {
       "album": {
+        "name": "Morning Television",
+        "url": "https://open.spotify.com/album/7i2c0ZZAyERuCDyCIrT0Sz"
+      },
+      "artists": [
+        {
+          "name": "Luca Firth",
+          "url": "https://open.spotify.com/artist/5iazk3nlNiKD3Rw2eL9gX6"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302200,
+      "name": "Morning Television",
+      "url": "https://open.spotify.com/track/7z0xnoFezUPFYJi2xwAXpT"
+    },
+    {
+      "album": {
         "name": "Mortal",
         "url": "https://open.spotify.com/album/3gssWQUJnAj3quQrQMZjt2"
       },
@@ -41151,6 +41223,24 @@
     },
     {
       "album": {
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/3Xk3CQHmAsfm2rOYS3eoFV"
+      },
+      "artists": [
+        {
+          "name": "Becca Colley",
+          "url": "https://open.spotify.com/artist/2szzkDyO1rxW7tODJddSmI"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304571,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/2vGGbTZwyd4OQ2NlD5tCO1"
+    },
+    {
+      "album": {
         "name": "Night & Day",
         "url": "https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0"
       },
@@ -41630,7 +41720,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 217074,
       "name": "No More",
       "url": "https://open.spotify.com/track/5Y1AzdsSQ1bdKWJ0TncFLx"
@@ -45940,7 +46030,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 202788,
       "name": "pieces",
       "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
@@ -60320,6 +60410,24 @@
       "duration_ms": 202857,
       "name": "Top One",
       "url": "https://open.spotify.com/track/4t2HqhJdYy86TKq00KDY13"
+    },
+    {
+      "album": {
+        "name": "Touch EP",
+        "url": "https://open.spotify.com/album/5yWJxTRorCNCfxfXWXZHCS"
+      },
+      "artists": [
+        {
+          "name": "Mark Broom",
+          "url": "https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294306,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/7BKcJ3ZDeQl9Dm6dFfNskw"
     },
     {
       "album": {

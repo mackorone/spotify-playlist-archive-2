@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62960,
+  "num_followers": 62965,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
         "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 359773,
       "name": "The Bible of The \u201cEden\u201d",
       "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
-      },
-      "artists": [
-        {
-          "name": "PIKAPIKA",
-          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "\u77ac\u304dSign\u2606",
-      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 200280,
       "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+      },
+      "artists": [
+        {
+          "name": "PIKAPIKA",
+          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "\u77ac\u304dSign\u2606",
+      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Switch",
+        "url": "https://open.spotify.com/album/6njWkigxSwfHCCXG2LQfoE"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30eb\u30bf\u30fc\u30c9/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001 \u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
+          "url": "https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Twilight Pentagram",
+      "url": "https://open.spotify.com/track/1K4XDD80jwOEowopRcrZ9z"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 268000,
       "name": "Grateful allegiance",
       "url": "https://open.spotify.com/track/1k30Wm1kuCz97Jy7Iu7AnD"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
-      },
-      "artists": [
-        {
-          "name": "\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)",
-          "url": "https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Ironic Blue",
-      "url": "https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-893 songs - 2 day 15 hr 3 min
+895 songs - 2 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,7 @@
 | [Météw Byen](https://open.spotify.com/track/7Ei31Z09xAuNQHOw7Vlk4w) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [Météw Byen](https://open.spotify.com/album/1BI6PFcuX5kvWFlvhc3DGL) | 4:06 | 2021-10-06 | 2022-04-19 |
 | [Música Huanca](https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Música Huanca](https://open.spotify.com/album/1jEJCXRSZAmsnDwMcIfHGP) | 1:56 | 2021-10-06 | 2022-04-18 |
 | [Nadie](https://open.spotify.com/track/2XoNKg4B4K3dt04S6fnZc6) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E), [JO BISSA](https://open.spotify.com/artist/1NU9e1MfhFQWRZIuvpoMSj) | [Nadie](https://open.spotify.com/album/5K0CcRXYR7rntpAsxIEMZ8) | 4:14 | 2022-04-22 | 2022-05-25 |
-| [Nadoman](https://open.spotify.com/track/2knt63jdoXdMm4uu9tmNOi) | [Basajan](https://open.spotify.com/artist/6wQTlnlFSVvQjVrMjri1Bb) | [Nadoman](https://open.spotify.com/album/6ApJ0P7eQdth3uJK2erXJB) | 4:14 | 2026-02-13 |  |
+| [Nadoman](https://open.spotify.com/track/2knt63jdoXdMm4uu9tmNOi) | [Basajan](https://open.spotify.com/artist/6wQTlnlFSVvQjVrMjri1Bb) | [Nadoman](https://open.spotify.com/album/6ApJ0P7eQdth3uJK2erXJB) | 4:14 | 2026-02-13 | 2026-05-20 |
 | [Namida](https://open.spotify.com/track/7rho0mYRpmum5Zu85nwpUd) | [Meister Lampe](https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i) | [Namida](https://open.spotify.com/album/3Vci1JMzgMIdq7BdDhfEvs) | 2:30 | 2022-08-31 | 2022-10-02 |
 | [Napoli Visionaria](https://open.spotify.com/track/2rwE6iIEa9Qid2DEoX3UEb) | [Bassolino](https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx) | [Napoli Visionaria](https://open.spotify.com/album/5uPIzBMtWr7kYqzBF6qqeP) | 4:52 | 2024-02-15 | 2024-03-08 |
 | [Navegar](https://open.spotify.com/track/1OOB9dxNw4DrFrisrW4aX8) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Navegar](https://open.spotify.com/album/0STSPqCUQ5R3j5q9hO38Na) | 4:09 | 2021-10-06 | 2022-07-29 |
@@ -676,6 +676,7 @@
 | [Samarin Bolga](https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0) | [Uppers Chapter 2](https://open.spotify.com/artist/7vgsluTYoqjWOYriW3PeRX), [Kill Emil](https://open.spotify.com/artist/3y9hQYlwNKqhdybIJTFzTr) | [Afro Edits](https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C) | 4:08 | 2021-10-06 |  |
 | [Sankofa Song](https://open.spotify.com/track/5KaSo0t3rbcmgd7gDIvlpK) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:25 | 2021-10-06 | 2022-06-02 |
 | [Santa Maria De Feira](https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Cripple Crow](https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5) | 4:35 | 2025-03-07 | 2025-04-09 |
+| [Sao Pao](https://open.spotify.com/track/7l6IQxGJmHblnJgzlfYRRe) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Sao Pao](https://open.spotify.com/album/5N0RxNzxA6Ix3WwSqlmfGj) | 3:10 | 2026-05-19 |  |
 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 | 2023-02-02 | 2025-04-30 |
 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 | 2025-04-25 |  |
 | [Say the Word](https://open.spotify.com/track/3ki2cRGh2tviyJHM2Ygdq5) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/2GqM2KPg3egBeZk1bFEvlg) | 3:27 | 2021-10-06 | 2022-04-21 |
@@ -697,8 +698,9 @@
 | [Shēnzhou V.](https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 6:08 | 2022-03-04 |  |
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\) \(feat\. Sir Frank Karikari\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-10-06 | 2022-07-23 |
 | [Sifat Manusia](https://open.spotify.com/track/0BUxDnHTI6mGmGw82U1G4l) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Sifat Manusia / Mang Becak](https://open.spotify.com/album/0qkb2Lded5ImCpSRBc5u4c) | 5:30 | 2025-02-21 | 2025-06-07 |
+| [Signora](https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Nuda Proprietà](https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn) | 3:10 | 2026-05-19 |  |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-06 | 2022-07-05 |
-| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 |  |
+| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 | 2026-05-20 |
 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 | 2025-04-25 |
 | [Simé Love](https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Simé Love](https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I) | 3:30 | 2021-10-06 | 2024-06-27 |
 | [Sin Cleopatra](https://open.spotify.com/track/0WlXIfNiJsjoHMOAaLdIfm) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [Nadir](https://open.spotify.com/album/33DHhoyznooKJxCel0INHU) | 5:21 | 2022-02-09 | 2022-05-13 |

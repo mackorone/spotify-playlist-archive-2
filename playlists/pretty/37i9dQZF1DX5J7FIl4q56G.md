@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,222 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,249 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [Reflection](https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Reflection](https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg) | 3:43 |
 | 12 | [Twenty Seventy\-Three](https://open.spotify.com/track/5HjwMW1cRJmC1GezhXaqqp) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [Nevermore](https://open.spotify.com/album/0EO0FmjgcutSjcwpCVgLj6) | 3:16 |
 | 13 | [STONE COLD ANGER](https://open.spotify.com/track/08NruqpNPKXRtwQ81CU8Cw) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [STONE COLD ANGER](https://open.spotify.com/album/6ay5Pb6KCXyTQ0ijISsSO8) | 3:28 |
-| 14 | [Rebel Kids](https://open.spotify.com/track/1szn2OMziB1WiyoexQto7n) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf), [Freddy R\. Cricien Jr.](https://open.spotify.com/artist/68cujMHEJZWm52qpPLfLyI), [Michael Justian](https://open.spotify.com/artist/2dnvqDnVMKEZNbRkRnrjCR), [Michael Gurnari](https://open.spotify.com/artist/2D0nSN1vJ4Mzg2JhsbNSfL), [Andrew Baylis](https://open.spotify.com/artist/4Za6HvgWPOX6MAjmSEIY58), [Paul Thomas Delaney](https://open.spotify.com/artist/41kQp4WYT9UcPRMXrOxNPl) | [Rebel Kids](https://open.spotify.com/album/7rF6tlDfntv1e46K3OrNgG) | 3:17 |
+| 14 | [Rebel Kids](https://open.spotify.com/track/1szn2OMziB1WiyoexQto7n) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Rebel Kids](https://open.spotify.com/album/7rF6tlDfntv1e46K3OrNgG) | 3:17 |
 | 15 | [Killer Khan](https://open.spotify.com/track/1NPKtArV3Jdm0jhUZdTYyc) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [Gozu VI](https://open.spotify.com/album/0yWabmaT6RcawJg1V5AldN) | 4:41 |
 | 16 | [Moon Light Hysteria](https://open.spotify.com/track/45LsxOpou4NQVIpH6QHQaS) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [Moon Light Hysteria](https://open.spotify.com/album/4EohNpYlWXyjCIHVWRWji1) | 3:58 |
 | 17 | [The Fall](https://open.spotify.com/track/5p7NhzpkI5SE7qvowa6LmN) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Apocalypse](https://open.spotify.com/album/36lllLGzprBD2m3dfpQWip) | 4:31 |

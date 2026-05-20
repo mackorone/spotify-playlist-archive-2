@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Zoha Waseem, Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,687 likes - 95 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,749 likes - 95 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 94 | [Piya Ghar Aaya \- Remix](https://open.spotify.com/track/55EcrWG7HgMQgm3tfM4FTs) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Piya Ghar Aaya \(Remix\)](https://open.spotify.com/album/1IzHolkRH2R3sJXkPi7cqT) | 3:55 |
 | 95 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
 
-Snapshot ID: `AAAAAHBmCZhKFtvYa/t1KfYndJ/J9pMR`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

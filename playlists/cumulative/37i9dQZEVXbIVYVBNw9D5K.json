@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 123750,
       "name": "10 NUMARA II",
       "url": "https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N"
@@ -3154,6 +3154,24 @@
       "duration_ms": 233515,
       "name": "A\u015fk \u015eark\u0131s\u0131 - Live",
       "url": "https://open.spotify.com/track/7E3YAVF3A7Shm7w2p3Np1Z"
+    },
+    {
+      "album": {
+        "name": "M\u00fcnezzeh",
+        "url": "https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179934,
+      "name": "A\u015fk\u0131n Ertesi",
+      "url": "https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA"
     },
     {
       "album": {
@@ -6176,6 +6194,24 @@
       "duration_ms": 261510,
       "name": "Bu Y\u00fczden",
       "url": "https://open.spotify.com/track/4EstSHM71cWOVCvIG4pTVB"
+    },
+    {
+      "album": {
+        "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+        "url": "https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "Bu Y\u00fczden",
+      "url": "https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX"
     },
     {
       "album": {
@@ -30086,7 +30122,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 303858,
       "name": "\u00dcz\u00fclmedin mi?",
       "url": "https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9"

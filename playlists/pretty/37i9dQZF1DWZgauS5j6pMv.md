@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,390 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,422 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IRL \(Feat\. Cory Wong\)](https://open.spotify.com/track/4ikBUaKuFx8OFWNUsqfXii) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [IRL \(Feat\. Cory Wong\)](https://open.spotify.com/album/4RBYOBELMu6VowgpJ8OK03) | 3:31 |
-| 2 | [Come Back 4 Real Love](https://open.spotify.com/track/52k63jGk5MTmNwnaLqY8x8) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Ebba Åsman](https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O), [Jessica Pina](https://open.spotify.com/artist/04EJnspkz18wjkvzC0qZWP) | [Black Butterfly](https://open.spotify.com/album/1GkzK7mBYbn0meWabTAJkG) | 3:35 |
+| 2 | [Come Back 4 Real Love](https://open.spotify.com/track/52k63jGk5MTmNwnaLqY8x8) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Ebba Åsman](https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O), [Jéssica Pina](https://open.spotify.com/artist/7sC66Y5TrR344ZOugvadXc) | [Black Butterfly](https://open.spotify.com/album/1GkzK7mBYbn0meWabTAJkG) | 3:35 |
 | 3 | [Love Resuscitation](https://open.spotify.com/track/5qxTM3ouqr6mY4Ym1BS4dN) | [fuseo](https://open.spotify.com/artist/3EZXLhrrovkLwDCaIKczLW), [Jon Klaasen](https://open.spotify.com/artist/3V3pZ3KWwGaHnuEgl8BUV4), [heavytones](https://open.spotify.com/artist/6mZjidOcc7ROFL6ywkQmI5) | [Love Resuscitation](https://open.spotify.com/album/3lLcvxRvoNgFAX5ikwzzmM) | 3:12 |
 | 4 | [Writing On The Wall](https://open.spotify.com/track/5fO61R5NP6MENpsvADXQ1K) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Transcendentalism I](https://open.spotify.com/album/5sIV04LlLJ7PlwmS7EZw5F) | 3:29 |
 | 5 | [One More Hit](https://open.spotify.com/track/72aGI2Ou1FxGFRUEaLzoFQ) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [One More Hit](https://open.spotify.com/album/4Xvfd1guvTrWHj1vKaa5v8) | 2:55 |

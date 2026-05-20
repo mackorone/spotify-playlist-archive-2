@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143540,
+  "num_followers": 143542,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
         "name": "Mesera",
         "url": "https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 163018,
       "name": "Mesera",
       "url": "https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
         "name": "Tiempo Al Tiempo (feat. Goyo)",
         "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
         "name": "SQD Quilla",
         "url": "https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw"
       },
@@ -1771,30 +1771,6 @@
       "duration_ms": 121043,
       "name": "SQD Quilla",
       "url": "https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
-        "name": "COMO VOS | THIS IS CURREN",
-        "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
-      },
-      "artists": [
-        {
-          "name": "Curren",
-          "url": "https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG"
-        },
-        {
-          "name": "Slay Fox",
-          "url": "https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j"
-        },
-        {
-          "name": "Davie Reel",
-          "url": "https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "COMO VOS | THIS IS CURREN",
-      "url": "https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1819,6 +1795,30 @@
       "duration_ms": 217142,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
+        "name": "COMO VOS | THIS IS CURREN",
+        "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
+      },
+      "artists": [
+        {
+          "name": "Curren",
+          "url": "https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG"
+        },
+        {
+          "name": "Slay Fox",
+          "url": "https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j"
+        },
+        {
+          "name": "Davie Reel",
+          "url": "https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "COMO VOS | THIS IS CURREN",
+      "url": "https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr"
     },
     {
       "added_at": "2026-05-13 15:09:57",

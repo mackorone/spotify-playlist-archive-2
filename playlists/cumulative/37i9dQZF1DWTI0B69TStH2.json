@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:35TNTrLhxCXmfO4wL4IWUa\">Pola</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:2H7QeqEBPdqQlJndh3s4sv\">Runia</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 186674,
       "name": "baza",
       "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
@@ -14106,7 +14106,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 126857,
       "name": "Dom?",
       "url": "https://open.spotify.com/track/1JwCMzTsv4nBfjXn19ZtA6"
@@ -16564,6 +16564,28 @@
       "duration_ms": 189492,
       "name": "Echo",
       "url": "https://open.spotify.com/track/1E5OsnNT6NujuPn71PhIOh"
+    },
+    {
+      "album": {
+        "name": "Przyp\u0142yw",
+        "url": "https://open.spotify.com/album/2OOm9vMPuKewf2WJkq9xWD"
+      },
+      "artists": [
+        {
+          "name": "Ola Budzy\u0144ska",
+          "url": "https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6"
+        },
+        {
+          "name": "Karol Miernik",
+          "url": "https://open.spotify.com/artist/38gZ9wWdwWfsjE46GwI5v2"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3G1eupiw1Qr6pePMeGeA7N"
     },
     {
       "album": {
@@ -50791,6 +50813,24 @@
     },
     {
       "album": {
+        "name": "Podr\u00f3\u017cy",
+        "url": "https://open.spotify.com/album/1hkpSnRkKNpHiKV2FTwrHR"
+      },
+      "artists": [
+        {
+          "name": "Tw\u00f3jSamuel",
+          "url": "https://open.spotify.com/artist/3geIvmq6KlhGzEWFR8MoZ9"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247304,
+      "name": "Podr\u00f3\u017cy",
+      "url": "https://open.spotify.com/track/4XwOMhf7ciKX0EiQDS9bHA"
+    },
+    {
+      "album": {
         "name": "Podst\u0119p",
         "url": "https://open.spotify.com/album/1sjV0fVYxLq67SdiRx6xXi"
       },
@@ -67673,6 +67713,24 @@
     },
     {
       "album": {
+        "name": "Tw\u00f3j j\u0119zyk",
+        "url": "https://open.spotify.com/album/2J2BAP03TFz1O6D5eBA4D7"
+      },
+      "artists": [
+        {
+          "name": "Runia",
+          "url": "https://open.spotify.com/artist/2H7QeqEBPdqQlJndh3s4sv"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204251,
+      "name": "Tw\u00f3j j\u0119zyk",
+      "url": "https://open.spotify.com/track/0vgGnvRsKclHJhhBdEeAdN"
+    },
+    {
+      "album": {
         "name": "Tw\u00f3j Stary",
         "url": "https://open.spotify.com/album/6bR3xIX1e4K0rTeKYHeofX"
       },
@@ -69886,7 +69944,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 149915,
       "name": "w chmurze",
       "url": "https://open.spotify.com/track/2ylg0ylvQvnvSiDfcxwvi6"

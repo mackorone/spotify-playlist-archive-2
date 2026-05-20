@@ -2,7 +2,7 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Travis Green & Forward City
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Forward City & Travis Greene
 
 793 songs - 2 day 19 hr 21 min
 
@@ -24,7 +24,7 @@
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-15 | 2025-03-08 |
 | [Ain't No Need Of Crying](https://open.spotify.com/track/01Eh9td5WOYyOsyPd6ONW7) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tribute To A Legend: Rance Allen, Chapter One](https://open.spotify.com/album/1isKOLWcjCC9JdHaeI8Sxo) | 5:11 | 2023-03-31 | 2024-03-23 |
 | [Alive In You](https://open.spotify.com/track/449AmoK7bviAqLSfhXiRlz) | [Forest City Worship](https://open.spotify.com/artist/62ljNQ8SnPR741I6DWY8II), [Carrington Gaines](https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ), [Amanda Guillory](https://open.spotify.com/artist/2d7VYJdhv7eYubqMO7A7eC) | [Alive In You](https://open.spotify.com/album/2Uz9FoyAn5fQWb035ndZvp) | 6:32 | 2024-04-05 | 2024-04-27 |
-| [All](https://open.spotify.com/track/6xemNUN2wxRHxu5zN2d68Z) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [All](https://open.spotify.com/album/3BcTk2Iqm01sOoKoNXuhO3) | 3:06 | 2025-11-07 |  |
+| [All](https://open.spotify.com/track/6xemNUN2wxRHxu5zN2d68Z) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [All](https://open.spotify.com/album/3BcTk2Iqm01sOoKoNXuhO3) | 3:06 | 2025-11-07 | 2026-05-20 |
 | [All I Need \- Live](https://open.spotify.com/track/4v1kWCbf642osv9iuo3Rt6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0) | 8:06 | 2022-02-18 | 2022-06-11 |
 | [All in Your Hands](https://open.spotify.com/track/4u841f1ewKUqDUWdjIoeSf) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [All in Your Hands](https://open.spotify.com/album/5jntu2u3T6W0fvlB7SMto2) | 4:35 | 2022-03-04 | 2022-05-07 |
 | [All Of My Help \- Live](https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Breakthrough: The Exodus \(Live\)](https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ) | 8:38 | 2022-07-01 | 2023-06-24 |

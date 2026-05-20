@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,327 likes - 288 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,330 likes - 288 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 197 | [Wasn't It You](https://open.spotify.com/track/10Kc9dCFGsDpJtD6AXh2GM) | [The Action](https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36) | [Keep On Holding On](https://open.spotify.com/album/4YseHyxnLXpZ0W2MKB8yM0) | 2:52 |
 | 198 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 |
 | 199 | [The Best Is Yet To Come](https://open.spotify.com/track/253M8uBw3zHgAdUccLt4lR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:30 |
-| 200 | [Right Girl \(Original Mix\)](https://open.spotify.com/track/4FMH5UNRlTMY7lyinF6hz3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Right Girl](https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp) | 2:24 |
-| 201 | [You're Just What I Was Looking For Today](https://open.spotify.com/track/7Cv0mask9BAzdrdpyRsT1l) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Spare Parts](https://open.spotify.com/album/3kKjyQSagLmDnPn93mWBsC) | 3:50 |
+| 200 | [You're Just What I Was Looking For Today](https://open.spotify.com/track/7Cv0mask9BAzdrdpyRsT1l) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Spare Parts](https://open.spotify.com/album/3kKjyQSagLmDnPn93mWBsC) | 3:50 |
+| 201 | [Right Girl \(Original Mix\)](https://open.spotify.com/track/4FMH5UNRlTMY7lyinF6hz3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Right Girl](https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp) | 2:24 |
 | 202 | [It's Gonna Work Out Fine](https://open.spotify.com/track/7sr2ilrecqRw1zNffkZTqI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:53 |
 | 203 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 |
 | 204 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 287 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 288 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcR28AAAAAA+0opCRDk1xv0UNqZNchcN`
+Snapshot ID: `AcR8kAAAAAAqMbJQ9oUThXFxangMsUUq`

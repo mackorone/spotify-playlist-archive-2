@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,668 songs - 6 day 11 hr 27 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,674 songs - 6 day 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2676,5 +2676,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2666 | [Feeling the Wind](https://open.spotify.com/track/3MNMzNePH7JhBtGZmSRx9u) | [Soto 75](https://open.spotify.com/artist/3GIqPJYrqJndRqHySlw8SK) | [Feeling the Wind](https://open.spotify.com/album/1QwjIBxZEfEpq8DzOQaEJA) | 3:34 |
 | 2667 | [Old Soul](https://open.spotify.com/track/110YqSakq7Hd9VFERh6MCk) | [Soto 75](https://open.spotify.com/artist/3GIqPJYrqJndRqHySlw8SK) | [Old Soul](https://open.spotify.com/album/3mggsMq2DGi0ms8vI7NvQF) | 3:34 |
 | 2668 | [Faded Signals](https://open.spotify.com/track/66Exfw5nzHGBNkPPyirDlq) | [DEZVØ](https://open.spotify.com/artist/0cj0QjBmFXWJ8mF5aWEK2y) | [Faded Signals](https://open.spotify.com/album/7nZWdiAspVNqy2OD6hjUh8) | 2:37 |
+| 2669 | [Já Senti Essa Sensação \- Releitura](https://open.spotify.com/track/1fwHdyvQejz1eoyJkf4FpE) | [Steban Retriever](https://open.spotify.com/artist/0tIrRXFXv4u7vqMFPmYhCn) | [Já Senti Essa Sensação \(Releitura\)](https://open.spotify.com/album/6zzADLhQix98s0wTP7iz6V) | 2:24 |
+| 2670 | [Skipping A Beat](https://open.spotify.com/track/2mv78B46AnG3r9N1CDmX8a) | [HenkeTooRaw](https://open.spotify.com/artist/7xwwPjEquHEn8u1qdpoLlt), [Morrey Banks](https://open.spotify.com/artist/07pdzdybqjsFTPZAURI82d) | [Skipping A Beat](https://open.spotify.com/album/1qnsDhwOjGffXfTIXj5PmM) | 3:50 |
+| 2671 | [Debaixo do Céu](https://open.spotify.com/track/4cM2d7RQFTjYOYzbIt55yP) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb) | [Céu de Caju](https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W) | 3:45 |
+| 2672 | [Slow Day](https://open.spotify.com/track/4Mj5RC9pHkTUByduocvkiQ) | [Tempr](https://open.spotify.com/artist/5MMqbQjXAMn6ihkmmDwWOm) | [Slow Day](https://open.spotify.com/album/07rmaPoBopDMWCOJWwlKRt) | 3:24 |
+| 2673 | [I'll Wait for You](https://open.spotify.com/track/7dJpYIhEMCtdSoVaB4aVPw) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 3:20 |
+| 2674 | [Ride On](https://open.spotify.com/track/3cOxGsyNbpVkdzVuR1CTSI) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [Walk Right Through](https://open.spotify.com/album/0hoQQdQJLWjowjSpoivAD0) | 2:35 |
 
-Snapshot ID: `AAALBfqQ4YOyFD4664rpYpGTvvxhnIPi`
+Snapshot ID: `AAALC6KjtbNl8amgeBkBH0cHD7uPNOeq`

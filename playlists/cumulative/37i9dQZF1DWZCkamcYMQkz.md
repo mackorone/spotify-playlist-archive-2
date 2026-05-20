@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-199 songs - 13 hr 31 min
+200 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Beyond the Sea](https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Beyond the Sea](https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB) | 2:55 | 2024-09-27 |  |
 | [Blue Minor](https://open.spotify.com/track/6OBefdKL1eJNlHjfEfqVzf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Blue Minor](https://open.spotify.com/album/4v9oX1D9zVNwbf5xHXCmXZ) | 4:32 | 2025-03-28 | 2025-07-12 |
 | [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-16 | 2023-04-14 |
-| [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 |  |
+| [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 | 2026-05-20 |
 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 | 2022-06-28 | 2024-03-07 |
 | [C'est si bon](https://open.spotify.com/track/3YrbJ9Y7SU0AIYFjYnXzIp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:07 | 2022-05-25 | 2022-07-29 |
 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 | 2021-12-16 |  |
@@ -115,6 +115,7 @@
 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 | 2022-09-01 | 2023-02-08 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2021-12-16 |  |
 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 | 2021-12-16 |  |
+| [Lips Can Lie](https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Lips Can Lie](https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM) | 3:49 | 2026-05-15 |  |
 | [Little Lucy](https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q) | [Jakob Manz](https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP) | [Groove Connection](https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub) | 3:53 | 2023-06-20 | 2024-04-19 |
 | [Little Lulu](https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 3:51 | 2021-12-16 | 2026-02-21 |
 | [Loads of Love](https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Loads of Love](https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb) | 2:42 | 2026-02-20 |  |

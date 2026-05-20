@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Asha Bhosle",
-  "num_followers": 103234,
+  "num_followers": 103246,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,30 @@
     {
       "added_at": "2026-05-18 07:32:12",
       "album": {
+        "name": "Inaam (Ft. Badshah)",
+        "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Ansh Chahal",
+          "url": "https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Inaam (Ft. Badshah)",
+      "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
+    },
+    {
+      "added_at": "2026-05-18 07:32:12",
+      "album": {
         "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/3ZuPJdRCHLLmqr2y6qrqKC"
       },
@@ -127,30 +151,6 @@
       "duration_ms": 250040,
       "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
-    },
-    {
-      "added_at": "2026-05-18 07:32:12",
-      "album": {
-        "name": "Inaam (Ft. Badshah)",
-        "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Ansh Chahal",
-          "url": "https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Inaam (Ft. Badshah)",
-      "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
     },
     {
       "added_at": "2026-05-18 07:32:12",
@@ -223,30 +223,6 @@
     {
       "added_at": "2026-05-18 07:32:12",
       "album": {
-        "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-        "url": "https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-      "url": "https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2"
-    },
-    {
-      "added_at": "2026-05-18 07:32:12",
-      "album": {
         "name": "Finding Her (Female Version)",
         "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 206735,
       "name": "Finding Her (Female Version) (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
+    },
+    {
+      "added_at": "2026-05-18 07:32:12",
+      "album": {
+        "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2"
     },
     {
       "added_at": "2026-05-18 07:32:12",
@@ -1039,18 +1039,26 @@
     {
       "added_at": "2026-05-18 07:32:12",
       "album": {
-        "name": "Fasaana",
-        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
       },
       "artists": [
         {
-          "name": "Kuhu Gracia",
-          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Fasaana",
-      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
     },
     {
       "added_at": "2026-05-18 07:32:12",
@@ -1075,6 +1083,22 @@
     {
       "added_at": "2026-05-18 07:32:12",
       "album": {
+        "name": "Fasaana",
+        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
+      },
+      "artists": [
+        {
+          "name": "Kuhu Gracia",
+          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Fasaana",
+      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
+    },
+    {
+      "added_at": "2026-05-18 07:32:12",
+      "album": {
         "name": "TERMINAL 2",
         "url": "https://open.spotify.com/album/7cHBjPv8ndxvqB3coYrPx5"
       },
@@ -1091,22 +1115,6 @@
       "duration_ms": 192000,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/33VAfRjgStvGDJAo7mFNsw"
-    },
-    {
-      "added_at": "2026-05-18 07:32:12",
-      "album": {
-        "name": "Want Me Now",
-        "url": "https://open.spotify.com/album/3NGHVxHZhA1wHEOfW5ZE3L"
-      },
-      "artists": [
-        {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq"
-        }
-      ],
-      "duration_ms": 113250,
-      "name": "Want Me Now",
-      "url": "https://open.spotify.com/track/3gMBt5IhScRORLg2XKNFyU"
     }
   ],
   "unique_name": "EQUAL India",

@@ -2489,6 +2489,32 @@
     },
     {
       "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
+    },
+    {
+      "album": {
         "name": "Channa",
         "url": "https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx"
       },
@@ -15208,7 +15234,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 113250,
       "name": "Want Me Now",
       "url": "https://open.spotify.com/track/3gMBt5IhScRORLg2XKNFyU"

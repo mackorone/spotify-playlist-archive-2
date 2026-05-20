@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3234,
+  "num_followers": 3235,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAA/mLXGCCfpN9nF3E7TuiHG",
+  "snapshot_id": "agpWgAAAAADagCld45Cecc9J2/FRBg+n",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 55293,
-      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+      "duration_ms": 167093,
+      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
+      "duration_ms": 55293,
+      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First sight",
         "url": "https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223000,
       "name": "First sight",
       "url": "https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
     },
     {
       "added_at": null,

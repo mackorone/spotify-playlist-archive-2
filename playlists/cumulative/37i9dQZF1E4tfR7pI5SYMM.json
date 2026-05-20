@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, MIK's Reaction, Jon Drake and more",
+  "description": "With Jon Drake, Dystopian X Vision, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 291866,
       "name": "A Solitary Future",
       "url": "https://open.spotify.com/track/0ShB8rlcQF9yL01mUmAuLx"
+    },
+    {
+      "album": {
+        "name": "OLP30 Live",
+        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298602,
+      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
+      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
     },
     {
       "album": {
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -3427,6 +3445,24 @@
     },
     {
       "album": {
+        "name": "Krieg ist Kacke",
+        "url": "https://open.spotify.com/album/4jd9RMKXVl2QiAw0AHj8Nx"
+      },
+      "artists": [
+        {
+          "name": "Mutti und Vati",
+          "url": "https://open.spotify.com/artist/1R8TnUXoYW4S6pRYiy1dP8"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330737,
+      "name": "Flieg Vogel flieg",
+      "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
+    },
+    {
+      "album": {
         "name": "Forever Autumn",
         "url": "https://open.spotify.com/album/2r3mu2CN35V0ZruG7ASBEf"
       },
@@ -3586,7 +3622,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 138070,
       "name": "F\u00f6rnedringen",
       "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
@@ -3658,7 +3694,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -3712,7 +3748,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4610,7 +4646,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4794,7 +4830,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 319470,
       "name": "LEO",
       "url": "https://open.spotify.com/track/3nMQp2nHM7ZMosqKEc2oda"
@@ -5524,7 +5560,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -5596,7 +5632,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 357118,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/7h4Oi7QL4NSyD35ziTMcdD"
@@ -5910,7 +5946,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -6138,7 +6174,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -6635,6 +6671,24 @@
     },
     {
       "album": {
+        "name": "Nighttrippin",
+        "url": "https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8"
+      },
+      "artists": [
+        {
+          "name": "Dance Commander",
+          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Nighttrippin",
+      "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
+    },
+    {
+      "album": {
         "name": "No One's Embrace",
         "url": "https://open.spotify.com/album/7EW3MKKRJ9MZEhI0p6DjOp"
       },
@@ -7018,7 +7072,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 285687,
       "name": "Odin's Ravens",
       "url": "https://open.spotify.com/track/5BGSLOQI3b91Z77z14Y2Re"
@@ -7090,7 +7144,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 304336,
       "name": "Only Ash and Bones Remain",
       "url": "https://open.spotify.com/track/1Y8yynZorrHu39AjqJnEtX"
@@ -7436,7 +7490,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -8238,7 +8292,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -8404,7 +8458,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -8512,7 +8566,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8908,7 +8962,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -9118,6 +9172,24 @@
       "duration_ms": 233600,
       "name": "Sunswept",
       "url": "https://open.spotify.com/track/3ycubEbm00kreSdRc14BCi"
+    },
+    {
+      "album": {
+        "name": "Kindly Plotting For Riot",
+        "url": "https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe"
+      },
+      "artists": [
+        {
+          "name": "30 DENARI",
+          "url": "https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Survive Alone",
+      "url": "https://open.spotify.com/track/7LAKv3IuixfjiLXFDZysPJ"
     },
     {
       "album": {
@@ -9507,6 +9579,24 @@
     },
     {
       "album": {
+        "name": "LASH",
+        "url": "https://open.spotify.com/album/4a6pl2D85gPgXdzSktI9AN"
+      },
+      "artists": [
+        {
+          "name": "Dead Lights",
+          "url": "https://open.spotify.com/artist/5POkjbRYBWVsN4lDMFGFfM"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219873,
+      "name": "The Dream Membrane",
+      "url": "https://open.spotify.com/track/277FhswBeevKWr67iFVM9w"
+    },
+    {
+      "album": {
         "name": "Haneke Twins",
         "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
       },
@@ -9518,7 +9608,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -9590,7 +9680,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -9806,7 +9896,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -10320,7 +10410,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -10996,7 +11086,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -11884,7 +11974,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"
@@ -12134,7 +12224,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 247011,
       "name": "\u0428\u043f\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/61vRefWDirGGrAk4YnTDFs"

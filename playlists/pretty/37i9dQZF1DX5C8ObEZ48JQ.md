@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP?si=s1Y1Q3UpTmCGpZ4\_FEcWWA">EKENE</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq?si=qsabJeBQQQ6QCEii38\_8SQ">Dumama</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,736 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,743 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lullaby](https://open.spotify.com/track/7EpPewP2fk80hvZRH2kqrj) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Lullaby](https://open.spotify.com/album/11JgVD3EIl2yZ9CX9X7zMc) | 2:29 |
-| 2 | [Eating The Other](https://open.spotify.com/track/2ZU1XgkWZN7jkWuI3VPvZd) | [Dumama](https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq) | [Eating The Other](https://open.spotify.com/album/1SWXgPN8VWX2krsNYsErMm) | 6:54 |
-| 3 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
-| 4 | [Let Me Be](https://open.spotify.com/track/2osGCDZFpwhoBEvOaEwL9I) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 3:00 |
+| 1 | [Eating The Other](https://open.spotify.com/track/2ZU1XgkWZN7jkWuI3VPvZd) | [Dumama](https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq) | [Eating The Other](https://open.spotify.com/album/1SWXgPN8VWX2krsNYsErMm) | 6:54 |
+| 2 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
+| 3 | [Let Me Be](https://open.spotify.com/track/2osGCDZFpwhoBEvOaEwL9I) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 3:00 |
+| 4 | [Lullaby](https://open.spotify.com/track/7EpPewP2fk80hvZRH2kqrj) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Lullaby](https://open.spotify.com/album/11JgVD3EIl2yZ9CX9X7zMc) | 2:29 |
 | 5 | [Mediocre Man](https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Mediocre Man](https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn) | 3:05 |
 | 6 | [Another Day](https://open.spotify.com/track/3dItjGInuTViNOUEDZSdmu) | [SEHB](https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp) | [Another Day](https://open.spotify.com/album/0iQNsB8GQ7b96Za3lvqZsU) | 3:28 |
 | 7 | [SHAKE'A](https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [SHAKE'A](https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [tears water my garden](https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7) | [nostalgiclegend](https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx), [OrahDae](https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7) | [tears water my garden](https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6) | 3:03 |
 | 50 | [Why Does This Always Happen To Me?](https://open.spotify.com/track/5b7gY6VlwwLJgvoOWZQ4r5) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Why Does This Always Happen To Me?](https://open.spotify.com/album/27CLq3H4drGhcHx8Pk5D5R) | 3:13 |
 
-Snapshot ID: `AAAAAGavUJ4C2JAqSdUyoTWL8J0SH/T4`
+Snapshot ID: `AAAAAInn1u+RihRqKccirUMaUsJV3UsH`

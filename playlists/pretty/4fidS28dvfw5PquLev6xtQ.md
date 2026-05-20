@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain](/playlists/plain/4fidS28dvfw5PquLev6xtQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4fidS28dvfw5PquLev6xtQ)
 
-### [RYM Top 100 Songs \(updated "bi"weekly\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
+### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
 > My favorite things are better than cash ruling everything around me 🙃
 
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 | 98 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 |
 | 99 | [My Favorite Things](https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things](https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP) | 13:44 |
 
-Snapshot ID: `AAAD1r59qE7TX+4JrS2Z/vjuM7zebKmc`
+Snapshot ID: `AAAD12Z9Yk3jKqlTggAZTJudxQhxXI3t`

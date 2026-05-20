@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,811 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,842 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 25 | [O Baile Funk Vai Rolar](https://open.spotify.com/track/5azpkIu0g2mQH5cP8PxUH5) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [O Baile Funk Vai Rolar](https://open.spotify.com/album/6geaweh3N4vW8M2h9URrlS) | 2:47 |
 | 26 | [Dance, Dance, Dance](https://open.spotify.com/track/4MX4AmbGwHeHIIlX1ysJ6X) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Don Pixote](https://open.spotify.com/artist/4SihecP0Ar3ekh29FLZ4w1), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:27 |
 | 27 | [As Dores Do Mundo](https://open.spotify.com/track/6xXU23b32Z0L5HSZhBuYl0) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Na Rua, Na Chuva, Na Fazenda](https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld) | 3:43 |
-| 28 | [Depois do Amor](https://open.spotify.com/track/1DLitp0tvUDULj1Xvji3G8) | [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Depois do Amor](https://open.spotify.com/album/3b5sEZLSfgUoHNLYm6Z78S) | 3:22 |
+| 28 | [Depois do Amor](https://open.spotify.com/track/1DLitp0tvUDULj1Xvji3G8) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ) | [Depois do Amor](https://open.spotify.com/album/3b5sEZLSfgUoHNLYm6Z78S) | 3:22 |
 | 29 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 30 | [Banho de Folhas \- Ao vivo](https://open.spotify.com/track/69E6OySGJuNR0TuWKIHY3S) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'água \(Ao vivo\)](https://open.spotify.com/album/6kzIGJqI6cwDiWcegkFpDo) | 5:53 |
 | 31 | [violão amarelo](https://open.spotify.com/track/04A6kvfVw3hJimApxX6hhr) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Brenno
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,900 likes - 98 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,903 likes - 98 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

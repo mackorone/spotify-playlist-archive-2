@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,188 songs - 2 day 21 hr 54 min
+1,188 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-08-26 | 2026-02-19 |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-04-03 | 2022-04-07 |
 | [Khalik Ma'aya](https://open.spotify.com/track/6YYjo0Q9iYlG3KrUOPr1kt) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [El Lilady \(Tonight\)](https://open.spotify.com/album/1SrxERIZgdOVo4kSGt6pTp) | 3:52 | 2025-05-31 | 2025-07-01 |
-| [Khalina Zekra](https://open.spotify.com/track/5iqwTdNpHSMEj8KkkCBllY) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Kol Deea Shakhseya](https://open.spotify.com/album/1WMzdqwfrhScm5z0cVUwPF) | 4:15 | 2026-04-26 | 2026-05-19 |
+| [Khalina Zekra](https://open.spotify.com/track/5iqwTdNpHSMEj8KkkCBllY) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Kol Deea Shakhseya](https://open.spotify.com/album/1WMzdqwfrhScm5z0cVUwPF) | 4:15 | 2026-04-26 |  |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-17 | 2023-04-27 |
 | [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-04 | 2025-11-17 |
 | [Khesert El Sha3b](https://open.spotify.com/track/6vplrth0uDitCDNU3oCgcV) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Khesert El Sha3b](https://open.spotify.com/album/2yrMIQTroHYlQBE6zgS9Z8) | 2:04 | 2025-06-02 | 2025-06-06 |
@@ -842,7 +842,7 @@
 | [أسياد الصوت](https://open.spotify.com/track/42nkGZLFa7PF2Hut7f7sxk) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [LZHYMR](https://open.spotify.com/artist/4aHCSxGzduK4MFZMSUGlRx) | [أسياد الصوت](https://open.spotify.com/album/3h1DFpGPLaZkfXsiqEVDsi) | 3:08 | 2021-04-13 | 2022-04-06 |
 | [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 | 2024-11-28 | 2024-12-19 |
 | [أنا بابا](https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أنا بابا](https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS) | 3:10 | 2024-10-18 | 2024-11-13 |
-| [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 6:31 | 2026-05-01 |  |
+| [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 4:13 | 2026-05-01 |  |
 | [أهلاً أهلاً بالعيد أهلاً \- زين العيد](https://open.spotify.com/track/5c9KpHTSSNvgZ0qmv6Adfq) | [zain Group](https://open.spotify.com/artist/5OKgVV12vyuhLuC9x07CmI) | [أهلاً أهلاً بالعيد أهلاً \- زين العيد](https://open.spotify.com/album/2loXikM2St8958Vsm62HN1) | 2:15 | 2025-03-31 | 2025-04-03 |
 | [أوغاد \(مع هادي معمر\)](https://open.spotify.com/track/5nXY1YDaKgvsxS4sUWB2kk) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 2:22 | 2026-04-10 | 2026-04-17 |
 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 | 2025-08-12 | 2026-05-13 |
@@ -1166,7 +1166,7 @@
 | [هو ده بقى!!؟](https://open.spotify.com/track/5cz3es7rW97wnOtljlR9oW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [لينا معاد](https://open.spotify.com/album/2SrT4l1oKOO8dVqnucekaa) | 3:16 | 2025-08-05 | 2025-09-11 |
 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-13 | 2026-04-03 |
 | [و افتكرت](https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ناويها](https://open.spotify.com/album/1I8Klnu5XE2py8zIsz842u) | 4:13 | 2023-10-10 |  |
-| [وأخيراً](https://open.spotify.com/track/7AO6kqczRPDNo413Vru343) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [وأخيراً](https://open.spotify.com/album/5Fz2kCmYaHsPSmWfbfBye5) | 3:05 | 2026-03-11 |  |
+| [وأخيراً](https://open.spotify.com/track/7AO6kqczRPDNo413Vru343) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [وأخيراً](https://open.spotify.com/album/5Fz2kCmYaHsPSmWfbfBye5) | 3:05 | 2026-03-11 | 2026-05-20 |
 | [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 | 2022-06-09 |
 | [واحد وعشرين](https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/4tBtjfCFQGr1K87yACxkJZ) | 3:51 | 2021-03-27\* | 2022-04-06 |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-19 | 2022-07-23 |

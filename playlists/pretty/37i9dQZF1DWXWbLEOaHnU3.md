@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,819 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,862 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 65 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 |
 | 66 | [Sun & Moon \- Blastoyz Remix](https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Sun & Moon \(Blastoyz Remix\)](https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG) | 3:31 |
 | 67 | [Echoes of Euphoria](https://open.spotify.com/track/4FsdFmFeaG94AMfUBuotrU) | [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Echoes of Euphoria](https://open.spotify.com/album/2ua5it6odgz5gpHn3YokMF) | 5:02 |
-| 68 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 |
-| 69 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
+| 68 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
+| 69 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 |
 | 70 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 71 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
 | 72 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |

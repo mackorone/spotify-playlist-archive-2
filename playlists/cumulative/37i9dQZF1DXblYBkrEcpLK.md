@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-846 songs - 2 day 7 hr 41 min
+848 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 | 2025-11-19 | 2026-02-06 |
 | [Destiny Sky](https://open.spotify.com/track/6ZrUo8yKzHwTxFnL1ujuEr) | [若井 友希](https://open.spotify.com/artist/73JD6yDn5gO4yjoeAOmbwV) | [Destiny Sky](https://open.spotify.com/album/5n5KwJPFtcQVdzErwkuiMZ) | 5:13 | 2022-06-12 | 2022-06-15 |
 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 | 2023-07-05 |
+| [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 | 2026-05-19 |  |
 | [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 | 2025-08-05 | 2025-11-20 |
 | [Divine](https://open.spotify.com/track/0s8CYpuo2FueLQoUAnbZtG) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/6RsmJNSYE7r6RIzDZOTDMq) | 3:16 | 2025-08-21 | 2025-11-20 |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-09 | 2022-07-29 |
@@ -186,7 +187,7 @@
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-04 |
 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 | 2023-04-13 | 2023-06-09 |
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
-| [innocent starter \-MUSEUM STYLE\-](https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 5:09 | 2026-01-20 |  |
+| [innocent starter \-MUSEUM STYLE\-](https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 5:09 | 2026-01-20 | 2026-05-20 |
 | [Intaglio](https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE) | 4:32 | 2023-10-17 | 2023-11-11 |
 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 | 2023-11-07 | 2024-01-19 |
 | [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 | 2024-04-14 |
@@ -433,6 +434,7 @@
 | [With a Wish](https://open.spotify.com/track/1HmfIpFrfILvJLYJKGBH8z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/7Ewp3pc0xqGmdTCQDz5Aeq) | 3:50 | 2025-03-11 | 2025-03-19 |
 | [with me](https://open.spotify.com/track/5YVoKdp1k9loRXBDz07ftR) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [with me](https://open.spotify.com/album/3kECOWXvCjb8uR8vqukYls) | 3:48 | 2024-04-16 | 2024-05-29 |
 | [YAMAZAKURA](https://open.spotify.com/track/16sWvf8J80qCiiBUKpBLIN) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [サイダーのように言葉が湧き上がる オリジナル・サウンドトラック](https://open.spotify.com/album/6pxDZTN1fMAzDOb0VEJ5s8) | 4:51 | 2022-07-07 | 2022-07-23 |
+| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-19 |  |
 | [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-08-03 | 2024-08-23 |
 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 | 2025-07-22 | 2026-02-25 |
 | [YOU YOU YOU](https://open.spotify.com/track/2TCyzMmyiyTRCFywT93KmT) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [EVERYBODY! EVERYBODY! / YOU YOU YOU](https://open.spotify.com/album/6iKqixctHE9MFc0JZFlUNt) | 3:55 | 2022-06-14 | 2022-06-17 |
@@ -848,7 +850,7 @@
 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-07-04 |  |
 | [顔](https://open.spotify.com/track/0ZYgJq7TgMBm7Gp96A2nz0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [顔](https://open.spotify.com/album/4Y7Rhsbf0nroRenj7KWuV0) | 4:02 | 2025-04-22 | 2025-05-01 |
 | [風に吹かれて](https://open.spotify.com/track/6vjeETfOkmZ5jAGvPVXtMt) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/5vBoYEzniKotKOMLabgCYK) | 4:31 | 2022-06-14 | 2022-07-26 |
-| [風のゆくえ \- from CrosSing](https://open.spotify.com/track/4Ed4O9ETPQOCU9kD7gkZFT) | [名塚佳織](https://open.spotify.com/artist/7DNrt1OR5Dv7YNcpDmn5fD) | [風のゆくえ \- from CrosSing](https://open.spotify.com/album/0elDQ19Kzj8mWzx5fQmfML) | 4:29 | 2026-02-24 |  |
+| [風のゆくえ \- from CrosSing](https://open.spotify.com/track/4Ed4O9ETPQOCU9kD7gkZFT) | [名塚佳織](https://open.spotify.com/artist/7DNrt1OR5Dv7YNcpDmn5fD) | [風のゆくえ \- from CrosSing](https://open.spotify.com/album/0elDQ19Kzj8mWzx5fQmfML) | 4:29 | 2026-02-24 | 2026-05-20 |
 | [風の音さえ聞こえない](https://open.spotify.com/track/32yZPsVMeF0KuuN07lWRKf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [風の音さえ聞こえない](https://open.spotify.com/album/08bbBD2AhdlytDaIxH3seZ) | 3:40 | 2022-06-14 | 2022-06-19 |
 | [風見鶏を見つけて](https://open.spotify.com/track/1D6gC3w9QMdYOXu2B9g2oE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/17ULC3MIHmbLWuOjcbTb1p) | 5:07 | 2022-06-14 | 2022-07-27 |
 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 | 2022-06-09 | 2024-03-01 |

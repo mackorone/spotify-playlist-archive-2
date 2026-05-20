@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 130891,
+  "num_followers": 130886,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Layup IV",
-        "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
-      },
-      "artists": [
-        {
-          "name": "Layup",
-          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
-        }
-      ],
-      "duration_ms": 201817,
-      "name": "Every Mile",
-      "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "I Don't Know What You See In Me",
+        "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "I Don't Know What You See In Me",
+      "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Move to San Francisco",
         "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "I Don't Know What You See In Me",
-        "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
+        "name": "Layup IV",
+        "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
       },
       "artists": [
         {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+          "name": "Layup",
+          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
         }
       ],
-      "duration_ms": 219360,
-      "name": "I Don't Know What You See In Me",
-      "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+      "duration_ms": 201817,
+      "name": "Every Mile",
+      "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Prisoners",
-        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Prisoners",
-      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Sinking Feeling",
         "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 213042,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Prisoners",
+        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Prisoners",
+      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
     },
     {
       "added_at": "2024-07-12 23:20:36",

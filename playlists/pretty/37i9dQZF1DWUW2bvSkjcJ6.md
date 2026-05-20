@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Drake, Ikkimel, Pashanim, Gracie Abrams, Ed Sheeran & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,742 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,703 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 64 | [red bikini](https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [red bikini](https://open.spotify.com/album/0gHXJ2q3TX31arXhf31vbh) | 3:36 |
 | 65 | [naiv](https://open.spotify.com/track/3C51CA0oPVN4wDzug0aiBY) | [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [naiv](https://open.spotify.com/album/6ocTkLFtl8TmxHfDAncmZw) | 3:02 |
 | 66 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 |
-| 67 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/27lTfDEF9QvwM5Cek5tJ5z), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
+| 67 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/4zvd6C2B4NUXCWrr3652Bf), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
 | 68 | [FIND GOD \(feat\. Dominic Fike\)](https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [BULLDAWG](https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH) | 3:59 |
 | 69 | [Bank sprengen](https://open.spotify.com/track/1XMLCylxy2VlrMs6c9dmzM) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Bank sprengen](https://open.spotify.com/album/46dIjxSePuYseAsODeYdfx) | 2:22 |
 | 70 | [Dirty Rosie](https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Dirty Rosie](https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb) | 2:46 |

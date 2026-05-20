@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Dabzee
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,142 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,198 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
 | 2 | [ZILL](https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Shafi Kollam](https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [ZILL](https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM) | 4:07 |
-| 3 | [The War Cry](https://open.spotify.com/track/48jW3xdddYmgBZrBM4k2cR) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Priya Prakash Varrier](https://open.spotify.com/artist/3Xg1HLBhINYDvbQVd41zyw), [Dopameen3](https://open.spotify.com/artist/6r69OmJo9qu8PYlrtFcJFn) | [Pallichattambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01UrMORJHZ5AUvPSdwNXhM) | 4:25 |
+| 3 | [The War Cry](https://open.spotify.com/track/48jW3xdddYmgBZrBM4k2cR) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Priya Prakash Varrier](https://open.spotify.com/artist/3Xg1HLBhINYDvbQVd41zyw), [Dopameen3](https://open.spotify.com/artist/6r69OmJo9qu8PYlrtFcJFn), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Pallichattambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01UrMORJHZ5AUvPSdwNXhM) | 4:25 |
 | 4 | [SHERIYA](https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [SHERIYA](https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6) | 3:11 |
 | 5 | [ACHARRR](https://open.spotify.com/track/1uiDfjsOTO82esSBL9AzZy) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [ACHARRR](https://open.spotify.com/album/5K9mRcqym23uorkAoXX6t8) | 2:25 |
 | 6 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 |

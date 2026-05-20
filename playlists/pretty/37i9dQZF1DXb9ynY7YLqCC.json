@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 186365,
+  "num_followers": 186374,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
+        "name": "No Me Dejes Caer",
+        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 258540,
+      "name": "No Me Dejes Caer",
+      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 218755,
       "name": "Certezas de cart\u00f3n",
       "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
-        "name": "No Me Dejes Caer",
-        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 258540,
-      "name": "No Me Dejes Caer",
-      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
     },
     {
       "added_at": "2026-04-24 03:01:11",

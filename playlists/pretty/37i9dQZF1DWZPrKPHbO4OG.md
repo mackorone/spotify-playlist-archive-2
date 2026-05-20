@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,483 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,499 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 28 | [Mi Naadkhula](https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Vishal Phale](https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo), [Pratibha Joshi](https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx) | [Mi Naadkhula](https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l) | 4:19 |
 | 29 | [Aaichya Gavat](https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Kavita Raam](https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS), [Mugdha Karhade](https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b) | [Girlz](https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd) | 3:36 |
 | 30 | [Malhar](https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Virat](https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra) | 4:09 |
-| 31 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
-| 32 | [Meri Madhubala](https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9) | 3:58 |
-| 33 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 |
+| 31 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 |
+| 32 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
+| 33 | [Meri Madhubala](https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9) | 3:58 |
 | 34 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 |
 | 35 | [Mast Challay Amcha](https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Marathi Dance Hits](https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA) | 4:56 |
 | 36 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP) | 3:46 |

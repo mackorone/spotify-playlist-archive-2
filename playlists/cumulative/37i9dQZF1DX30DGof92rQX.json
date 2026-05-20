@@ -7323,6 +7323,28 @@
     },
     {
       "album": {
+        "name": "PaTamma Tamma",
+        "url": "https://open.spotify.com/album/5BmOt5MRgI3EWdvscJa9t7"
+      },
+      "artists": [
+        {
+          "name": "Zahoor",
+          "url": "https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "PaTamma Tamma",
+      "url": "https://open.spotify.com/track/5u1SUbHNPKIMzNdseDugiv"
+    },
+    {
+      "album": {
         "name": "Patch Up",
         "url": "https://open.spotify.com/album/1eiBE6tnHzGEDa8n0STObk"
       },

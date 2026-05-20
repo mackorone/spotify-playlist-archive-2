@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Smerz on the cover 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,371 likes - 156 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,351 likes - 156 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

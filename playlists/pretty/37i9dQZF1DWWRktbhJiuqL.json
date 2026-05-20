@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2034513,
+  "num_followers": 2034541,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 334906,
-      "name": "I Am the Highway",
-      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 334906,
+      "name": "I Am the Highway",
+      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -843,22 +859,6 @@
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Cherry Pie",
-        "url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Black Pistol Fire",
         "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "FISSION",
-        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 213924,
-      "name": "HURT",
-      "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
+      "duration_ms": 191813,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1327,6 +1311,22 @@
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "FISSION",
+        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "Man in the Box",
-      "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 284426,
+      "name": "Man in the Box",
+      "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1659,6 +1643,22 @@
       "duration_ms": 221240,
       "name": "20th Century Boy",
       "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Classic Eric Clapton",
-        "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/6hDegaGv8VwBoMhGqoPfxR"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "the garden",
         "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Classic Eric Clapton",
+        "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/6hDegaGv8VwBoMhGqoPfxR"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Superblood Wolfmoon",
+        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Superblood Wolfmoon",
+      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 225466,
       "name": "Just What the Doctor Ordered",
       "url": "https://open.spotify.com/track/6uufS093628MRruPbXiW5g"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Superblood Wolfmoon",
-        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Superblood Wolfmoon",
-      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Your Master",
-        "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Your Master",
-      "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Mercy Mercy",
         "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Your Master",
+        "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Your Master",
+      "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
     },
     {
       "added_at": "2026-02-20 05:00:51",

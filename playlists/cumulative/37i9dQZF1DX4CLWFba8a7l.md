@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Genesis Owusu
 
-639 songs - 1 day 11 hr 45 min
+640 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-04-17 | 2025-05-02 |
 | [BALCONY](https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof) | 3:25 | 2025-04-24 | 2025-05-09 |
 | [Bangalang](https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Bangalang](https://open.spotify.com/album/30C5X5Vvltbe6Wt1DAawEi) | 2:45 | 2025-06-05 | 2025-09-05 |
+| [Be The Diva](https://open.spotify.com/track/6UEDJiYCKVUMShsBISSmck) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Good On Paper](https://open.spotify.com/album/2o7SMccQvGDVsn5B09GSOq) | 3:07 | 2026-05-14 |  |
 | [Beautiful Eyes](https://open.spotify.com/track/3x03whGmxdeKQ9InXtQbsR) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:49 | 2025-04-08 | 2025-04-18 |
 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 | 2025-09-04 |  |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 | 2025-05-30 |
@@ -415,7 +416,7 @@
 | [Outdone](https://open.spotify.com/track/24CtTaRliBIACacaUxHIwO) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/7cAXOEbTaUQTwTDoKk1ACY) | 3:35 | 2026-01-15 | 2026-01-23 |
 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 |  |
 | [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 | 2026-02-05 | 2026-03-14 |
-| [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 |  |
+| [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 | 2026-05-20 |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 | 2025-01-24 |
 | [Parallel Desire](https://open.spotify.com/track/6WMEkLBTvj1nFWO62YtW8B) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Parallel Desire](https://open.spotify.com/album/18s8juzVIHkxMQ48wgwHG0) | 2:40 | 2025-09-25 | 2025-10-03 |

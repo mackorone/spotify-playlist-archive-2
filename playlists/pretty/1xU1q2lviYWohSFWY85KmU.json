@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHUwEsieCShXbgvFVaXYPOEZS6gL6A",
+  "snapshot_id": "AAAHYmWyOiCZo8zK5IFKCfWBB02/8eCV",
   "tracks": [
+    {
+      "added_at": "2026-05-19 07:12:58",
+      "album": {
+        "name": "Asreality",
+        "url": "https://open.spotify.com/album/3ENSFgtMc1iSHxkyKZHWr1"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u3044\u304b",
+          "url": "https://open.spotify.com/artist/6fUQHzr8CMhyBI7fzCNd9q"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "\u75c5\u7684\u30d4\u30e5\u30fc\u30d0\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7kKKFlPLdeVZ5uR8SvVywo"
+    },
+    {
+      "added_at": "2026-05-19 07:13:13",
+      "album": {
+        "name": "\u6b8b\u97ff - Afterglow",
+        "url": "https://open.spotify.com/album/0AjzF3af0VVyXxjHFI2cwn"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30b5\u30ad\u30b5\u30ae\u30ea",
+          "url": "https://open.spotify.com/artist/1CTIBUkKBJ4K2PHibN8ouP"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 188651,
+      "name": "\u6b8b\u97ff - Afterglow (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7Fz7dt7eXKvgIuODyD7ooq"
+    },
+    {
+      "added_at": "2026-05-19 07:13:25",
+      "album": {
+        "name": "\u565b\u307f\u3064\u3051\u3088",
+        "url": "https://open.spotify.com/album/0q4g5QzdhZwU26ZzDHaX3S"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30a2\u30f3\u30fb\u30ad\u30ce",
+          "url": "https://open.spotify.com/artist/6rLC4Qo8xgDTC759EkUqMv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 196418,
+      "name": "\u565b\u307f\u3064\u3051\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3aItN6IKiO2KRV3VHkuxMU"
+    },
+    {
+      "added_at": "2026-05-19 07:13:38",
+      "album": {
+        "name": "\u892a\u305b\u308b\u30bb\u30eb\u30d5\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/5vgaxQlCBoueJ1PXhyzqQp"
+      },
+      "artists": [
+        {
+          "name": "Iceky",
+          "url": "https://open.spotify.com/artist/4yoOBZyo3WV1krCzNzAWuT"
+        }
+      ],
+      "duration_ms": 210565,
+      "name": "\u892a\u305b\u308b\u30bb\u30eb\u30d5\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/0LnNPQnP7giYQIbTLOx6iB"
+    },
+    {
+      "added_at": "2026-05-19 07:13:49",
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30d3\u30eb\u30c9\u30fb\u30a2\u30f3\u30bb\u30e0",
+        "url": "https://open.spotify.com/album/55Ecgg7qdePsWNF5oz6DfX"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
+          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 180036,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30d3\u30eb\u30c9\u30fb\u30a2\u30f3\u30bb\u30e0 (Version 2.0) (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/52AOguyn6vCNg9rVBMD2RP"
+    },
     {
       "added_at": "2026-05-12 07:41:13",
       "album": {
@@ -731,126 +827,6 @@
       "duration_ms": 154621,
       "name": "\u5e7b\u60f3\u3058\u3083\u3093\uff01\uff01\uff01\uff01 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5Q3LJLWI9CRg8kkNy3mLSF"
-    },
-    {
-      "added_at": "2026-03-03 08:06:23",
-      "album": {
-        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/23fpOlEQVNLeM6jRvfDpqW"
-      },
-      "artists": [
-        {
-          "name": "Omoi",
-          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 208563,
-      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/01RfcnlgOJRqPANze1CPji"
-    },
-    {
-      "added_at": "2026-03-03 08:06:37",
-      "album": {
-        "name": "\u7279\u5225\u6551\u6e08\u59d4\u54e1\u4f1a",
-        "url": "https://open.spotify.com/album/0SzXXVJqmwvRwT8YHxzVEU"
-      },
-      "artists": [
-        {
-          "name": "32ki",
-          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "GUMI",
-          "url": "https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu"
-        },
-        {
-          "name": "IA",
-          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
-        },
-        {
-          "name": "v4 flower",
-          "url": "https://open.spotify.com/artist/00cIZbjCgo4DfJzJoaZRT6"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "\u7279\u5225\u6551\u6e08\u59d4\u54e1\u4f1a (feat. \u521d\u97f3\u30df\u30af&GUMI&IA&v4 flower&\u53ef\u4e0d&\u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/4vvUB1Rfz8eHR1ORQ6NH4k"
-    },
-    {
-      "added_at": "2026-03-03 08:06:54",
-      "album": {
-        "name": "\u7d42\u8eab\u604b\u7528\u5951\u7d04",
-        "url": "https://open.spotify.com/album/3y6KrN8w9xtDaSA9fmneST"
-      },
-      "artists": [
-        {
-          "name": "\u3081\u308d\u304f\u308b",
-          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
-        },
-        {
-          "name": "\u590f\u8272\u82b1\u68a8",
-          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "\u7d42\u8eab\u604b\u7528\u5951\u7d04 (feat. \u590f\u8272\u82b1\u68a8)",
-      "url": "https://open.spotify.com/track/7vhadKFT93jLjc7Dji1VGU"
-    },
-    {
-      "added_at": "2026-03-03 08:07:07",
-      "album": {
-        "name": "\u8996\u70b9A",
-        "url": "https://open.spotify.com/album/4fHjEZexMrzsSDsUOizL3U"
-      },
-      "artists": [
-        {
-          "name": "ANGL",
-          "url": "https://open.spotify.com/artist/0wDmtrP2ghvcWacHrPXYup"
-        },
-        {
-          "name": "VY1",
-          "url": "https://open.spotify.com/artist/5UOqnBIgjKd4LYbAtLA3Vv"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "\u7aef\u4e00\u554f\u76ee (feat. VY1)",
-      "url": "https://open.spotify.com/track/5K92W2HVBFNubdjUooWWZp"
-    },
-    {
-      "added_at": "2026-03-03 08:07:18",
-      "album": {
-        "name": "Feel. Move.",
-        "url": "https://open.spotify.com/album/4wvxeRBpTKGZ8V7qXbywU7"
-      },
-      "artists": [
-        {
-          "name": "Hitoshizuku and Yama",
-          "url": "https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "Feel. Move. (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0dwOLtDNdBSXlCJwA3aI28"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

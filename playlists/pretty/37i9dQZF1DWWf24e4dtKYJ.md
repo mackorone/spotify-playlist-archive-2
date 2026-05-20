@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWf24e4dtKYJ.md) - [plain]
 
 > Local scenes\. Global stages\. 20 years of rock without borders\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,693 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

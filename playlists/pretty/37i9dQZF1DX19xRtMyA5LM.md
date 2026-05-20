@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Lijpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,209 likes - 60 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,184 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 23 | [Niet Loyaal](https://open.spotify.com/track/3S3DzF5XnUVWAm3Jz3ZHoN) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:12 |
 | 24 | [Tajine](https://open.spotify.com/track/0l6jdn1FFKPLVVhOhPpGBi) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Tajine](https://open.spotify.com/album/1ijLqpiQS2umGzVYAHMC0q) | 3:05 |
 | 25 | [Achtervolging](https://open.spotify.com/track/454rxkANmheTNT4VT9G6nX) | [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh), [FFRAGEZEICHEN](https://open.spotify.com/artist/5sgF2eX98WWNADz4USyKiX) | [Achtervolging](https://open.spotify.com/album/5HIsuwqQKlXCk0xb3qIBSi) | 2:18 |
-| 26 | [CHASEN](https://open.spotify.com/track/3Q8tei7pICbgs48Flr6FtB) | [BNT](https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [Ginna](https://open.spotify.com/artist/4Kb23Vi9vTtWfvXkM1dEF3) | [BNT Vol\. 2](https://open.spotify.com/album/6DpKMJc5eyCIDKXMazBsO5) | 2:31 |
+| 26 | [CHASEN](https://open.spotify.com/track/3Q8tei7pICbgs48Flr6FtB) | [BNT](https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [GINNA](https://open.spotify.com/artist/4Kb23Vi9vTtWfvXkM1dEF3) | [BNT Vol\. 2](https://open.spotify.com/album/6DpKMJc5eyCIDKXMazBsO5) | 2:31 |
 | 27 | [Klaar zijn](https://open.spotify.com/track/310UJmsoMZDpWU8N423m4o) | [Momi](https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY) | [Klaar zijn](https://open.spotify.com/album/1qaRRnKZgqBVLTXiMbsNZH) | 1:58 |
 | 28 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 |
 | 29 | [Rennen op Nikes](https://open.spotify.com/track/5YbVM3iiKMkTEEjNceOz8I) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rennen op Nikes](https://open.spotify.com/album/2VGz9VEVizwT9DkIoXRBf1) | 2:47 |

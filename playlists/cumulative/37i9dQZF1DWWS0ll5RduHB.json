@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Asa No Uta",
+        "url": "https://open.spotify.com/album/1pRAOb82BQgt7Peve8YSen"
+      },
+      "artists": [
+        {
+          "name": "Kanae",
+          "url": "https://open.spotify.com/artist/3QE2AefsoyvHTdUxGMv5pq"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Asa No Uta",
+      "url": "https://open.spotify.com/track/1wbnJ1AQ3xDXdk3nM9VpOd"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 197655,
       "name": "Be By You",
       "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "If I Leave",
       "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 211147,
       "name": "Macram\u00e9 (ft. Mei Semones)",
       "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 192173,
       "name": "Say My Name In Your Sleep",
       "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
@@ -2615,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+    },
+    {
+      "album": {
         "name": "THRIFTED",
         "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
       },
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 211920,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV"

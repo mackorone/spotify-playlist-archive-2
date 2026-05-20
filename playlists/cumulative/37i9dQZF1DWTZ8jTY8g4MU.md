@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-287 songs - 19 hr 7 min
+289 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [ذبلت أوراقه](https://open.spotify.com/track/6iHq7qqQxFpMfjjEOKtxKi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ذبلت أوراقه](https://open.spotify.com/album/1XECmAKz1cFsbG3KWo2LCt) | 2:44 | 2024-01-04 | 2024-05-10 |
 | [ذكرى الحبايب](https://open.spotify.com/track/4s86DmuxJRlElb2kyZQ0Eb) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT), [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [ذكرى الحبايب](https://open.spotify.com/album/4Tl6WJkogbCqBDni5pQTrn) | 3:36 | 2024-12-19 |  |
 | [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-03-30 | 2022-06-14 |
+| [راعي الفعايل ابن مهدي](https://open.spotify.com/track/4o8jIwzgERQYRsVDqvztx2) | [ماجد الرسلاني](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [راعي الفعايل ابن مهدي](https://open.spotify.com/album/5Gykzonmn1BlLJorGRCy44) | 6:30 | 2026-05-19 |  |
 | [رسمتك شوق](https://open.spotify.com/track/5NuraWHyjehvJ0wZ44rwso) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [رسمتك شوق](https://open.spotify.com/album/13PHAcqsDiVKOQOFN3Ng8S) | 4:34 | 2024-09-20 | 2024-11-16 |
 | [رفرفي للعز](https://open.spotify.com/track/094Jh514FSCaW4RKKVr7KI) | [خالد المري](https://open.spotify.com/artist/7tB81yvQ3iMnxGUEjwIDqX) | [رفرفي للعز](https://open.spotify.com/album/5aqiFOhJPsmM3A60ZZJGhm) | 4:17 | 2024-12-19 |  |
 | [ركبوني فوق طياره](https://open.spotify.com/track/4DLRpoNORbVCoJDyHAAkQN) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/4z82K4NZ8c5UcZQ2Y3Izyv) | 5:14 | 2022-08-31 | 2023-06-03 |
@@ -231,6 +232,7 @@
 | [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-02-05 | 2025-09-26 |
 | [مامنك اثنين](https://open.spotify.com/track/35EGTBHsIEIfGhxLyAriZy) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [مامنك اثنين](https://open.spotify.com/album/0IhhAgrgoiOeSHDJwokJzZ) | 3:43 | 2022-08-31 | 2024-04-11 |
 | [مامنك اثنين](https://open.spotify.com/track/0upDZETLFHS16pqa9KMZ6d) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6), [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [مامنك اثنين](https://open.spotify.com/album/4c55MWVBBlqljEwmvJyNNh) | 3:43 | 2022-07-19 | 2022-11-02 |
+| [مانقدر نبوح](https://open.spotify.com/track/4lqYMgfnINSFz6mid5kgTs) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مانقدر نبوح](https://open.spotify.com/album/5kaN1xMJ0WfCSLinw66hL9) | 4:25 | 2026-05-19 |  |
 | [ماني مصدقها](https://open.spotify.com/track/0fIKhy4BBJJ5flq3GwySkD) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماني مصدقها](https://open.spotify.com/album/5dP4DRjie6bVwsxXyqeQw5) | 4:35 | 2023-02-22 | 2023-09-02 |
 | [متعبين الركايب](https://open.spotify.com/track/2I0leXJQCLy2JHx1Vg8x6o) | [ناجي بن باصم](https://open.spotify.com/artist/3QoDkgQ6jQvy610IiOqPiR) | [متعبين الركايب](https://open.spotify.com/album/1jgNWCf5Mdxgv33B8SzJPw) | 4:09 | 2024-12-19 | 2026-05-11 |
 | [مركب هوانا](https://open.spotify.com/track/3s8CTencXxfmKex6E5SU2S) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مركب هوانا](https://open.spotify.com/album/4ZdqBiuajEZTUzbb6yEezB) | 4:44 | 2023-02-22 | 2023-05-11 |

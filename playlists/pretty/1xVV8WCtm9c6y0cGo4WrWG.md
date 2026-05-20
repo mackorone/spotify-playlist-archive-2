@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Casper TNG, 100Bandplan, A Boogie Wit da Hoodie
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,920 likes - 105 songs - 5 hr 13 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,919 likes - 105 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

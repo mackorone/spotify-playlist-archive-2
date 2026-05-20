@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  ",
-  "num_followers": 263592,
+  "num_followers": 263612,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,26 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
       },
       "artists": [
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "Ozedikus",
+          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "BoiGizmo",
+          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
         }
       ],
-      "duration_ms": 184203,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+      "duration_ms": 160000,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -575,26 +579,22 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
-        "name": "Ifeoma",
-        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
       },
       "artists": [
         {
-          "name": "Ozedikus",
-          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         },
         {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "BoiGizmo",
-          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Ifeoma",
-      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -799,6 +799,30 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2026-05-18 13:42:50",
+      "album": {
         "name": "Solace II",
         "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-05-18 13:42:50",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
+    },
+    {
+      "added_at": "2026-05-18 13:42:50",
+      "album": {
         "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
-    },
-    {
-      "added_at": "2026-05-18 13:42:50",
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-05-18 13:42:50",
-      "album": {
         "name": "MENU",
         "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 159183,
       "name": "MENU",
       "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
+    },
+    {
+      "added_at": "2026-05-18 13:42:50",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
+        "name": "Babcock",
+        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 143476,
+      "name": "Babcock",
+      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2026-05-18 13:42:50",
+      "album": {
         "name": "Get 2 Know",
         "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 178488,
       "name": "Get 2 Know",
       "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
-    },
-    {
-      "added_at": "2026-05-18 13:42:50",
-      "album": {
-        "name": "Babcock",
-        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 143476,
-      "name": "Babcock",
-      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
     },
     {
       "added_at": "2026-05-18 13:42:50",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-05-18 13:42:50",
       "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-18 13:42:50",
-      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
+    },
+    {
+      "added_at": "2026-05-18 13:42:50",
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": "2026-05-18 13:42:50",

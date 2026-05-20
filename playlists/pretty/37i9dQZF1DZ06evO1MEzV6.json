@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 124291,
+  "num_followers": 124306,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAD6NYidN1um5EPJ0e9/Tw1R",
+  "snapshot_id": "agpWgAAAAACHsSX8rOVerojTsA2a9Ok3",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 90928,
-      "name": "Back To Mars",
-      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 260024,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+      "duration_ms": 90928,
+      "name": "Back To Mars",
+      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
     },
     {
       "added_at": null,

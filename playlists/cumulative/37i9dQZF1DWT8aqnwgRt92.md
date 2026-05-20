@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,617 songs - 6 day 17 hr 39 min
+2,619 songs - 6 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [101 bells ring](https://open.spotify.com/track/1MKPkdxASJbPI77vJs4bIx) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [101 bells ring](https://open.spotify.com/album/4f5tOPurCI3HKGOBHbe0Yt) | 5:47 | 2023-10-03 | 2023-11-01 |
 | [1日は25時間。](https://open.spotify.com/track/2mWkRziSA8Mp9QOMC5OZmh) | [ツルシマアンナ](https://open.spotify.com/artist/66Tqv3DqPeLRlTDHzzNa63) | [1日は25時間。](https://open.spotify.com/album/42PDpS84WQde4z0TsXcm2X) | 3:55 | 2024-04-23 | 2024-05-10 |
 | [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 | 2024-07-16 | 2024-10-12 |
-| [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-12 |  |
+| [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-12 | 2026-05-20 |
 | [29\(にく\)](https://open.spotify.com/track/6vI6cAqZfD3XcB8T5E1WyK) | [キン肉マン\(CV:宮野真守\)](https://open.spotify.com/artist/3I6whk43X7dyZF07WcUzb5) | [29\(にく\)](https://open.spotify.com/album/48ZGb0JuVajiyhWKbMnA6c) | 3:22 | 2025-01-14 | 2025-01-21 |
 | [6:00 PM](https://open.spotify.com/track/7J8wGaU7qGf8cHVzPV7mkr) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [6:00 PM](https://open.spotify.com/album/6kR9pzhzANLqJR5KQIWJMQ) | 3:41 | 2025-03-25 | 2025-04-09 |
 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-17 |
@@ -970,7 +970,7 @@
 | [Perfect World!!](https://open.spotify.com/track/0sPg8OXjci08r3DpXH763U) | [PathTLive](https://open.spotify.com/artist/5vKv9YNyQoWhxIhYFsRF8Y) | [Perfect World!!](https://open.spotify.com/album/4KzmdvoNIWaixDdspBndkf) | 3:31 | 2023-10-03 | 2023-10-11 |
 | [Performer](https://open.spotify.com/track/49zR9JtOWS2XfPxEIwjZVa) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Performer](https://open.spotify.com/album/64PVMNrQQbg9juLQGEM7lu) | 2:49 | 2025-07-08 | 2025-09-17 |
 | [PERSONAL \(ED Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/2EopAWJR4qdSHbpAspdQ5P) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [PERSONAL](https://open.spotify.com/album/5CsVRUgb6wdd38OjA2YlzB) | 4:35 | 2026-01-15 | 2026-04-08 |
-| [Petals](https://open.spotify.com/track/1OslJG115ssBaUScyGVopF) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [Petals](https://open.spotify.com/album/4MPJBkBa0Ewh17yWjOLC9D) | 2:52 | 2026-04-07 |  |
+| [Petals](https://open.spotify.com/track/1OslJG115ssBaUScyGVopF) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [Petals \(feat\. 夏背\)](https://open.spotify.com/album/4MPJBkBa0Ewh17yWjOLC9D) | 2:52 | 2026-04-07 |  |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2023-09-26 | 2023-11-08 |
 | [pineapple tart](https://open.spotify.com/track/180rOAutEwHBPg760j7Kp3) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [pineapple tart](https://open.spotify.com/album/2ZSXZ3uQq96tFQW1lwRB0z) | 3:49 | 2025-04-01 | 2025-06-13 |
 | [PIZZA SUSHI planet walking](https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [PIZZA SUSHI planet walking](https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj) | 3:16 | 2023-05-09 | 2023-05-24 |
@@ -1491,6 +1491,7 @@
 | [Zettai Shousan!](https://open.spotify.com/track/1CYvQ8BQ3KC0uMoQSs74X5) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Zettai Shousan!](https://open.spotify.com/album/1G0lYQIIInsL7ujicfyW5F) | 3:44 | 2025-10-07 | 2026-01-15 |
 | [Zinnia](https://open.spotify.com/track/1yHcyNZMzLW6aRG9jMTJ52) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Zinnia](https://open.spotify.com/album/5UfVCGfL5jwPGGviRbwOv4) | 4:20 | 2025-01-07 | 2025-02-19 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-05 | 2024-01-07 |
+| [Zutto Ichibanni Shitene](https://open.spotify.com/track/1zPs9OnsajiSqtFVy1SyRN) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Zutto Ichibanni Shitene](https://open.spotify.com/album/7y38Camf4Rn7MFSVgWPUp5) | 3:33 | 2026-05-19 |  |
 | [¬Ersterbend](https://open.spotify.com/track/0bqe1cbGYGZdWkemrgOga4) | [LIN](https://open.spotify.com/artist/1PuX2taoSLY49RupICu7ez) | [¬Ersterbend](https://open.spotify.com/album/29n15osHTbjUvPtm0eZNjO) | 1:31 | 2026-01-15 | 2026-01-21 |
 | [étoile](https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/756umARKInXvcyVNY1fq4p) | 3:26 | 2026-03-17 | 2026-04-08 |
 | [‘S/’ The Way](https://open.spotify.com/track/6O36bjXdeg0e1wv51Qp1kw) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [‘S/’ The Way / Sophie](https://open.spotify.com/album/7guLNW06MIzbSYiSys292K) | 3:47 | 2025-12-09 | 2026-01-15 |
@@ -2086,7 +2087,7 @@
 | [不器用に 君のとなり](https://open.spotify.com/track/47uYk5wuKW62xryZzDXe8Q) | [前島亜美](https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP) | [不器用に 君のとなり](https://open.spotify.com/album/76nH5Qt0QlJOf5unTc8pBZ) | 3:49 | 2025-10-09 | 2025-12-10 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
 | [世界を射抜いて](https://open.spotify.com/track/3doh9ovpudSkasN8mW0mnz) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [世界を射抜いて](https://open.spotify.com/album/7wAz3uZOdusfHucBgWNASD) | 3:42 | 2024-04-16 | 2024-07-06 |
-| [並走ヒーロー](https://open.spotify.com/track/5IiM1YrwCBwzzemrIRDbpp) | [星希成奏](https://open.spotify.com/artist/26eyEUSuqkIyZudf3FbjO0) | [並走ヒーロー](https://open.spotify.com/album/2j5URPPMirDYjJthjCou5q) | 3:24 | 2026-04-03 |  |
+| [並走ヒーロー](https://open.spotify.com/track/5IiM1YrwCBwzzemrIRDbpp) | [星希成奏](https://open.spotify.com/artist/26eyEUSuqkIyZudf3FbjO0) | [並走ヒーロー](https://open.spotify.com/album/2j5URPPMirDYjJthjCou5q) | 3:24 | 2026-04-03 | 2026-05-20 |
 | [主人公になる物語](https://open.spotify.com/track/6McneonVvucRzApcKpuUNV) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [HARETTER](https://open.spotify.com/album/0fuM1w34GMErgwn3QJDY9U) | 3:44 | 2024-07-30 | 2024-08-07 |
 | [予感の途中](https://open.spotify.com/track/0HAfRRN1u1JZvW5fmut8AG) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [予感の途中](https://open.spotify.com/album/6FLL59vWywBMSWfikpJN30) | 3:57 | 2026-03-03 | 2026-04-03 |
 | [予感の途中 \- TV size ver.](https://open.spotify.com/track/2816IEfXG3LJyOSAlLPGsQ) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [予感の途中 \(TV size ver.\)](https://open.spotify.com/album/6CcycCFbv1JemfAlqBDPRc) | 1:32 | 2026-01-15 | 2026-02-04 |
@@ -2495,7 +2496,7 @@
 | [花咲み](https://open.spotify.com/track/0iL43uP0m7L7sxNR98b8nv) | [シルフィエット\(CV:茅野愛衣\)](https://open.spotify.com/artist/5qwOxDQBdp2fnlw7vME5EV) | [花咲み](https://open.spotify.com/album/6sRuu9wQIxxmBkcCVJM9rW) | 5:09 | 2023-09-26 | 2023-10-11 |
 | [花束](https://open.spotify.com/track/0yeRdpJL8SKE8tVtcbcXTK) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [花束](https://open.spotify.com/album/7ARh89xNsJbeBipVHiiUiR) | 3:46 | 2023-10-07 | 2023-10-25 |
 | [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-03-13 | 2025-04-11 |
-| [花筏](https://open.spotify.com/track/4sOEqXnPqljVuqAw55fiRM) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [花筏](https://open.spotify.com/album/5KxfpjH0ufAHcyNwKJqSb4) | 3:18 | 2026-04-18 |  |
+| [花筏](https://open.spotify.com/track/4sOEqXnPqljVuqAw55fiRM) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [花筏 \(feat\. 夏背\)](https://open.spotify.com/album/5KxfpjH0ufAHcyNwKJqSb4) | 3:18 | 2026-04-18 |  |
 | [芽吹くとき](https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [芽吹くとき](https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d) | 3:39 | 2026-04-12 |  |
 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 | 2026-02-03 | 2026-04-17 |
 | [荒野に咲けよ冒険者たち](https://open.spotify.com/track/6faYZlk7mbntB2tlfM47rZ) | [串田アキラ](https://open.spotify.com/artist/4jtNGQ3vlJ9yHRkQkuhrA3) | [荒野に咲けよ冒険者たち](https://open.spotify.com/album/6o4tklQtH1E57QXSWqYVuf) | 3:32 | 2024-07-03 | 2024-07-17 |
@@ -2559,6 +2560,7 @@
 | [遥か彼方](https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [遥か彼方](https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT) | 4:02 | 2023-06-13 | 2023-06-28 |
 | [部屋とガラクタと私](https://open.spotify.com/track/7agOQwYZK5SYmzsbbOuBWK) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [部屋とガラクタと私](https://open.spotify.com/album/1G4WRoKBf3vj49N0cHyEIQ) | 3:28 | 2026-04-14 |  |
 | [金剛石ヒューマン](https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [金剛石ヒューマン](https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM) | 4:09 | 2023-06-13 | 2023-06-15 |
+| [金字塔](https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [金字塔](https://open.spotify.com/album/4YlNSnSJwiqx9koO9S9l13) | 4:46 | 2026-05-19 |  |
 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 | 2023-07-13 | 2023-10-04 |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-02 | 2022-12-07 |
 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 | 2022-10-18 | 2022-11-30 |

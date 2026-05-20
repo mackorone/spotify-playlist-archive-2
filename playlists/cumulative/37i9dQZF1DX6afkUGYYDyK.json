@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "All I Can Say",
+        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
+      },
+      "artists": [
+        {
+          "name": "MK Green",
+          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
+    },
+    {
+      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 188180,
       "name": "Always So Good - Single Version",
       "url": "https://open.spotify.com/track/3kbtag4mVjtbbHyziEPzex"
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 391636,
       "name": "Always Thank You",
       "url": "https://open.spotify.com/track/11lIYYbMiKHwMuNaFIED6p"
@@ -324,6 +342,28 @@
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
+    },
+    {
+      "album": {
+        "name": "Because Of God (feat. Tenth Avenue North)",
+        "url": "https://open.spotify.com/album/5ShCSS4EhBuMPicMN0YZVs"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Because Of God - feat. Tenth Avenue North",
+      "url": "https://open.spotify.com/track/73sCmgmVQdGGRAnyFmcVtP"
     },
     {
       "album": {
@@ -694,7 +734,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 312586,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2E671HNXR5AfhnbhEhX9u6"
@@ -784,7 +824,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
@@ -936,7 +976,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 353769,
       "name": "Give Thanks to God",
       "url": "https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O"
@@ -980,6 +1020,24 @@
       "duration_ms": 237146,
       "name": "Give Thanks To The Lord (Forever) - Live",
       "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
+    },
+    {
+      "album": {
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
     },
     {
       "album": {
@@ -1028,7 +1086,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 225712,
       "name": "Good To Give Thanks (Psalm 92)",
       "url": "https://open.spotify.com/track/3485EBtPNPrdT6AiBRmnAF"
@@ -1173,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3imwjxNBk9xLjMPfXpEsh6"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/78yDIkJuxgsnI8Q8QZS7X5"
+    },
+    {
+      "album": {
         "name": "Songs 4 Worship Gospel - God Is In the House",
         "url": "https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ"
       },
@@ -1184,10 +1260,32 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 389920,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/5eh5evi4KTG3lCse4cMcod"
+      },
+      "artists": [
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        },
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179987,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2JBhGHLxi1AEFNhTttc8l2"
     },
     {
       "album": {
@@ -1202,10 +1300,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 256226,
       "name": "Grateful Heart",
       "url": "https://open.spotify.com/track/2o7aZHDBPxZtQO8EqRl7lJ"
+    },
+    {
+      "album": {
+        "name": "Grateful Heart (Thank You Jesus)",
+        "url": "https://open.spotify.com/album/5b5IWEUgP8P5ms1EIOhDOM"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Grateful Heart (Thank You Jesus)",
+      "url": "https://open.spotify.com/track/6anIiEM3wvqooQbWqUTyzp"
     },
     {
       "album": {
@@ -1970,7 +2086,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 233470,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue"
@@ -2591,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "Yes, We Believe (Live)",
+        "url": "https://open.spotify.com/album/2ep9ouSatrcBrwtb2XYbl6"
+      },
+      "artists": [
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378434,
+      "name": "Stand In Awe - Live",
+      "url": "https://open.spotify.com/track/5LVVufavpKNI6AjvTnU8XR"
+    },
+    {
+      "album": {
         "name": "Steadfast Love (Live)",
         "url": "https://open.spotify.com/album/5kuVApIeXUgvb3RFaQZ51p"
       },
@@ -2697,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/6h98A5KHmYsGsL4S52GeMo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229649,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/0AnnD87PGRDF7RnLAmZvkN"
+    },
+    {
+      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
       },
@@ -2730,6 +2886,54 @@
       "duration_ms": 142151,
       "name": "Thank God!",
       "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
+    },
+    {
+      "album": {
+        "name": "House Of Worship",
+        "url": "https://open.spotify.com/album/05xxkIx9f2zacGCUQ3x79C"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Jami Garcia",
+          "url": "https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/0aUdDweqwGWSk5qHN7O4av"
+    },
+    {
+      "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
+      },
+      "artists": [
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Noah Hinshaw",
+          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
     },
     {
       "album": {
@@ -2852,7 +3056,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 217626,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5xXjFLdqsj0Jnb7GXduA99"
@@ -2895,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417177,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
+    },
+    {
+      "album": {
         "name": "Kingdom Come - The Soundtrack",
         "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
@@ -2928,6 +3154,32 @@
       "duration_ms": 231848,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/0ldSyj9TMo9nrfz4xYoDvs"
+      },
+      "artists": [
+        {
+          "name": "RMC Worship",
+          "url": "https://open.spotify.com/artist/7o5QzjcZvDSIXTZ94p7wPu"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        },
+        {
+          "name": "Billy DiMirra",
+          "url": "https://open.spotify.com/artist/4fpWQv7fnc8KZOCQfB81nN"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346682,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1Wj32fZIMMp1RM7DhvIWrF"
     },
     {
       "album": {
@@ -3044,7 +3296,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 511900,
       "name": "Thank You - Live",
       "url": "https://open.spotify.com/track/0LAqiyd9TaU0mpTH7VMvYl"
@@ -3080,7 +3332,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 206358,
       "name": "Thank You - Radio Version",
       "url": "https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra"
@@ -3098,7 +3350,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 141012,
       "name": "Thank You - Under The Redbud Tree",
       "url": "https://open.spotify.com/track/7qTemqyelEeZJaDsjylosZ"
@@ -3171,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Thank You Isn't Enough",
+        "url": "https://open.spotify.com/album/0iN5UvjZ7yBilr9o7tZA4s"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        },
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186814,
+      "name": "Thank You Isn't Enough",
+      "url": "https://open.spotify.com/track/77772WZUj2IYuZAgH5Ufuy"
+    },
+    {
+      "album": {
         "name": "THANK YOU JESUS",
         "url": "https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO"
       },
@@ -3226,6 +3504,28 @@
       "duration_ms": 562626,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
+    },
+    {
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297244,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw"
     },
     {
       "album": {
@@ -3328,7 +3628,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
@@ -3494,7 +3794,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 152973,
       "name": "Thankful (7.6.19)",
       "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
@@ -3516,7 +3816,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
@@ -3694,6 +3994,24 @@
       "duration_ms": 186709,
       "name": "That Thank You Song!",
       "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
+    },
+    {
+      "album": {
+        "name": "That's How I Know",
+        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219836,
+      "name": "That's How I Know",
+      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
     },
     {
       "album": {
@@ -3944,6 +4262,24 @@
       "duration_ms": 230973,
       "name": "Tracks In the Snow",
       "url": "https://open.spotify.com/track/5KsZSksgeYi3RxIoAAcy5l"
+    },
+    {
+      "album": {
+        "name": "We Are Thankful",
+        "url": "https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267223,
+      "name": "We Are Thankful",
+      "url": "https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp"
     },
     {
       "album": {

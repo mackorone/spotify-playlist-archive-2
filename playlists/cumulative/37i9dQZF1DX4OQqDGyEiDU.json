@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
+  "description": "Explore the current wave of VOCALOID culture. Cover: TAK",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 139200,
       "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY (Vocaloid ver.)",
       "url": "https://open.spotify.com/track/3yCKJlbaX60oX6K4mgurgz"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 141882,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
@@ -4638,7 +4638,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 172727,
       "name": "\u3044\u3044\u56fd\u5922\u6c17\u5206",
       "url": "https://open.spotify.com/track/4BSFFzyd7OS6PPaHchaFOu"
@@ -5302,6 +5302,32 @@
       "duration_ms": 167875,
       "name": "\u3072\u3085\uff5e\u3069\u308d\u3069\u308d (feat. \u521d\u97f3\u30df\u30af&MEIKO)",
       "url": "https://open.spotify.com/track/1JQ4r5WyaSzOFGHR40RwPY"
+    },
+    {
+      "album": {
+        "name": "\u3074\u3087\u3093 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/0qdqu8KdsYn1CvFBm6C5SV"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "\u3074\u3087\u3093 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6C5vczX72UCRL68CBuCOpm"
     },
     {
       "album": {
@@ -11302,7 +11328,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 190472,
       "name": "\u5929\u4e0a\u5929\u4e0b\u552f\u6211\u72ecSong",
       "url": "https://open.spotify.com/track/34uez9IrlrJjvSSOQ4qDpx"
@@ -12211,6 +12237,28 @@
     },
     {
       "album": {
+        "name": "\u6b4c\u59eb\u5931\u683c (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/7w7auyndk2x59jSxDxaUjm"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200408,
+      "name": "\u6b4c\u59eb\u5931\u683c (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2jTagQJVj27PYCCwuUoCUD"
+    },
+    {
+      "album": {
         "name": "\u6551\u6e08\u4e16\u754c",
         "url": "https://open.spotify.com/album/1onXEvibvFkGKJmTrf4rKl"
       },
@@ -12548,7 +12596,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 154421,
       "name": "\u6df7\u6c8c\u30d6\u30ae",
       "url": "https://open.spotify.com/track/5zc1HxKqQjGf9j46p1JM5P"

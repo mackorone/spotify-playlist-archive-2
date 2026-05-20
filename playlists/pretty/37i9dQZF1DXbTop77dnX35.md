@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN & Sarz, Johnny Drille,  Famous Pluto,  Kunmie, Didi B, Jorja Smith and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,926 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,008 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 42 | [This Side of Love](https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI) | [Celeste Ojatula](https://open.spotify.com/artist/1FNzBwz8L9wGtZU1GkIAT4), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [This Side of Love](https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO) | 2:18 |
 | 43 | [SOCIAL MEDIA](https://open.spotify.com/track/3xkLQPCNEwT1yPmYk8e11L) | [manny monie](https://open.spotify.com/artist/6fGWGRDmXdqCS1ypjKgoFX), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [SOCIAL MEDIA/TROUBLE](https://open.spotify.com/album/0sEz4zJZP36ohfrm5GHvEr) | 3:18 |
 | 44 | [Gorilla](https://open.spotify.com/track/4aVaZe9w1fWrGERmJKPzsk) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [Gorilla](https://open.spotify.com/album/4a0B0u4XNJ80uqh3k7lmKf) | 4:09 |
-| 45 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 |
+| 45 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT), [Floro](https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 |
 | 46 | [Confess](https://open.spotify.com/track/2dvwf5xd6cgDXlemTi7VHl) | [Mage the Producer](https://open.spotify.com/artist/2sAErjecghuJsdRataXRQN), [Kurry](https://open.spotify.com/artist/2rlFUrk9ZiY5yAQqAIWxNh) | [Confess](https://open.spotify.com/album/6IzICwtRanRvizUxRESGMS) | 2:17 |
 | 47 | [Konibaje](https://open.spotify.com/track/5FwKfjhqrzvnaQCu38UFvp) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Konibaje](https://open.spotify.com/album/4ThwM068Vr2N4Kl1SaO73u) | 2:53 |
 | 48 | [Blood Don't Make Family](https://open.spotify.com/track/6H6Maog5CLKlUix8TKGipZ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:51 |

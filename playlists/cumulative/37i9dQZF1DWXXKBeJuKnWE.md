@@ -4,14 +4,14 @@
 
 > The home for heavy music\. Cover: Beartooth
 
-741 songs - 1 day 20 hr 28 min
+742 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-01 | 2025-09-12 |
 | [\(i\)](https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [\(i\)](https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn) | 3:03 | 2023-10-05 | 2024-05-24 |
 | [\(Re\)\-Extract](https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [\(Re\)\-Extract](https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI) | 3:02 | 2024-09-20 | 2025-09-12 |
-| [\(sic\) \- Ulrich Wild Mix](https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(25th Anniversary Edition\)](https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO) | 3:27 | 2025-09-05 |  |
+| [\(sic\) \- Ulrich Wild Mix](https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(25th Anniversary Edition\)](https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO) | 3:27 | 2025-09-05 | 2026-05-20 |
 | [...hospice](https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [...hospice](https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf) | 4:13 | 2026-04-30 |  |
 | [1x1](https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [1x1](https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts) | 3:56 | 2026-03-13 |  |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-11 | 2025-09-12 |
@@ -546,6 +546,7 @@
 | [Saviour II](https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Saviour II](https://open.spotify.com/album/6ehXKNVHjv2GYuhhy7ecwG) | 3:20 | 2022-11-10 | 2023-07-26 |
 | [Say My Name](https://open.spotify.com/track/6w7Jb4kTmOPkoewZgk40gY) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Say My Name](https://open.spotify.com/album/5NZD1UjdYp9kGGGz6GdT2z) | 4:08 | 2025-03-26 | 2025-09-12 |
 | [Scapegoat](https://open.spotify.com/track/31RMzF3l0IK5KZH4hImxZP) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Scapegoat](https://open.spotify.com/album/3dbGY2s8ae7FtnjRxpkmlU) | 3:35 | 2024-02-16 | 2024-05-24 |
+| [Scatterbrain](https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Scatterbrain](https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p) | 3:14 | 2026-05-15 |  |
 | [Scissors](https://open.spotify.com/track/0jIXZaSMj34eUHgMJcWxvk) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Scissors](https://open.spotify.com/album/5JaPTF6lQBgfvhPb7zjYo2) | 4:39 | 2023-07-25 | 2023-08-25 |
 | [Scream](https://open.spotify.com/track/1Ar6ZDBwSNYGlSxAiT7xYH) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Prototype](https://open.spotify.com/album/3aEYmTTLwf0viUwQXVLKps) | 3:31 | 2023-07-25 | 2024-01-12 |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-03-25 |

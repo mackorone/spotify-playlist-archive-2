@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-90 songs - 6 hr 23 min
+91 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [虚空の迷宮](https://open.spotify.com/track/7w7BTGHrb0TOJDJtkBS3SL) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/5BjhOyL2SL0DfQIAfKV41f) | 4:18 | 2022-04-10 |  |
 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 | 2022-05-27 |  |
 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 | 2022-04-10 |  |
+| [走れ正直者](https://open.spotify.com/track/4L4qXzyhsZkpWVGcQhYMTZ) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [HIDEKI SINGLES Vol.2](https://open.spotify.com/album/2G7KkuSanb5D4C9lw41k2p) | 3:07 | 2026-05-19 |  |
 | [輝きは君の中に](https://open.spotify.com/track/04uMxC39AD3awh5DoNdyP5) | [Yume Suzuki](https://open.spotify.com/artist/3DafdgrWjaJJ9pHUtnKUvt) | [決定盤「NINKU\-忍空\-」アニメ主題歌&キャラソン大全集\(+BGM集\)](https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx) | 4:39 | 2022-04-10 |  |
 | [通学路](https://open.spotify.com/track/3bWtmS6HYTudK8w9BSDsfw) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/4gYecLNP2SMcZ8ObXyryeS) | 4:05 | 2022-05-27 | 2024-04-19 |
 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 989,
+  "num_followers": 998,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGEjqRvv8+qNzZGDUKCHam9xtlrKsk",
+  "snapshot_id": "AAAGFcNKtyeOxh1pm6TaWNj28Omcs9Fe",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1711,6 +1711,54 @@
       "duration_ms": 165665,
       "name": "The Overview",
       "url": "https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV"
+    },
+    {
+      "added_at": "2026-05-19 19:36:32",
+      "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO"
+      },
+      "artists": [
+        {
+          "name": "Eton Mess",
+          "url": "https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd"
+        }
+      ],
+      "duration_ms": 185478,
+      "name": "Painted",
+      "url": "https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY"
+    },
+    {
+      "added_at": "2026-05-19 19:56:31",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "duration_ms": 150924,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA"
+    },
+    {
+      "added_at": "2026-05-19 19:56:43",
+      "album": {
+        "name": "Bored of Peace",
+        "url": "https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 160771,
+      "name": "Yelling Fire in a Crowded Madhouse",
+      "url": "https://open.spotify.com/track/0pJLjKWA6ySGwtaLdJnblm"
     }
   ],
   "unique_name": "Unsigned Rock",

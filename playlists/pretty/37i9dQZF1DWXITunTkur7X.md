@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,169 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,177 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 10 | [Ik Neem Je Mee](https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:37 |
 | 11 | [Mooie Dag](https://open.spotify.com/track/14ZZR92YmYIIVhOi6h0MOg) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Mooie Dag](https://open.spotify.com/album/6XhBAJWwashrKpKMVpZt8Y) | 2:25 |
 | 12 | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL) | 3:34 |
-| 13 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
-| 14 | [Samen Voor Altijd](https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE), [Day Ewbank](https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1), [John Ewbank](https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
+| 13 | [Samen Voor Altijd](https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE), [Day Ewbank](https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1), [John Ewbank](https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
+| 14 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 15 | [Bagagedrager](https://open.spotify.com/track/3v0ouAltce6AySBTYBP3pk) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:41 |
 | 16 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 |
 | 17 | [Leef Nu Het Kan](https://open.spotify.com/track/7sMx7mu0VxhEcrfATmLok6) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Leef \(Deluxe Edition\)](https://open.spotify.com/album/5f2Lv9px7pmFzABGxLsxEJ) | 3:01 |

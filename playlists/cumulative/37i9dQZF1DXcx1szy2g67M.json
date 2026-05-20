@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "20 Seconds",
+        "url": "https://open.spotify.com/album/5OEqnCAK2oapLxlCVSZDDX"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hillen",
+          "url": "https://open.spotify.com/artist/3SOAaZR7eaIsYlAEDliSS4"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157556,
+      "name": "20 Seconds",
+      "url": "https://open.spotify.com/track/26LQZvz3LIOkJzxha3Kgyi"
+    },
+    {
+      "album": {
         "name": "90s Kid",
         "url": "https://open.spotify.com/album/1THYYuaXwWyZsdgybQ6bCD"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 223985,
       "name": "Call You Home",
       "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 154160,
       "name": "Catch A Rainbow",
       "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
@@ -3380,6 +3398,28 @@
       "duration_ms": 183175,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/1ZIUsMNYZGXzrwDE2bUD6M"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -4834,7 +4874,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 192666,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
@@ -12537,6 +12577,24 @@
     },
     {
       "album": {
+        "name": "Press Back",
+        "url": "https://open.spotify.com/album/3gy49t1sOhKs2Kd6tAbJwH"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Press Back",
+      "url": "https://open.spotify.com/track/3WEOgg8eTNu4hD2OBs38ir"
+    },
+    {
+      "album": {
         "name": "PRETTY GIRLS",
         "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
       },
@@ -12848,6 +12906,28 @@
       "duration_ms": 174585,
       "name": "Rely On Me",
       "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "album": {
@@ -16192,6 +16272,24 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
+        "name": "Tu recuerdo",
+        "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
     },
     {
       "album": {

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Azzecca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,199 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,196 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [make your move](https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [make your move](https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV) | 3:41 |
 | 2 | [Girls first](https://open.spotify.com/track/4m6NR1LOz8wo6OmAHcgCwc) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Girls first](https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6) | 4:18 |
-| 3 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
+| 3 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
 | 4 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
 | 5 | [Bad Love](https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Bad Love](https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB) | 2:43 |
 | 6 | [It's You \- underscores' "It’s U" Remix](https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [It's You \(underscores' "It’s U" Remix\)](https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX) | 3:31 |
-| 7 | [Spirit Higher](https://open.spotify.com/track/1Oka1iKmhLiHvQohbQyvta) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/67nXClPyWHQ23wx8sr90EY) | 3:36 |
+| 7 | [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 |
 | 8 | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Ellie Maxwell](https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4) | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS) | 2:56 |
 | 9 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
 | 10 | [takeme2](https://open.spotify.com/track/5lF0OMA2GNEDe1OVuaM0tb) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [takeme2](https://open.spotify.com/album/0WIRi1STaiGqv2vxF35y32) | 3:35 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 79 | [Sexistential \- Arca’s Take](https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Sexistential \(Arca’s Take\)](https://open.spotify.com/album/0CghpJDNKhaaPU9Pw20Og6) | 3:44 |
 | 80 | [Bakk2thafuture](https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn) | [Ms\. Mada](https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K) | [Bakk2thafuture](https://open.spotify.com/album/3ZQh0QFIhMuc6i1DEYWIzH) | 2:59 |
 | 81 | [Keep Dancing](https://open.spotify.com/track/4Q0RxLgLm5JDLLU43TmM6P) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Keep Dancing](https://open.spotify.com/album/57hZVGjBBoCxeVZUzGqnav) | 2:25 |
-| 82 | [Stitches \- Romy Remix](https://open.spotify.com/track/2WGWanDe1L2rSeVOGsryMW) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/5WOEtViyN5DopzXL7mssxs) | 4:27 |
+| 82 | [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 |
 | 83 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
 | 84 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 |
 | 85 | [Dale Duro](https://open.spotify.com/track/7LnEMKpabO0Ju8PEUD4vNu) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Dale Duro](https://open.spotify.com/album/7L5xGuL7Qd65NL8kCXqifB) | 2:47 |

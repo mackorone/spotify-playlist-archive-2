@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,719 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,723 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 37 | [UNMASK](https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY) | [クリス\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5), [ファントム\[ガイ\(CV:日野聡\)\]](https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 5:02 |
 | 38 | [Living The Dream](https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag) | [七尾太一\(CV:濱健人\)](https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1) | [A3! Blooming AUTUMN EP](https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb) | 4:47 |
 | 39 | [Real Luck](https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795) | [茅ヶ崎至\(CV:浅沼晋太郎\)](https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE) | [A3! SUNNY SPRING EP](https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e) | 3:32 |
-| 40 | [はじまりはカルテット](https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx) | [西園寺エニス\[シトロン\(CV:五十嵐雅\)\]](https://open.spotify.com/artist/5vTwSfY85PsdBXfG1Q1C5h), [向井庸太\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/7KbPsLxrEvnOvnkQfsUwdH) | [A3! BRIGHT SPRING EP](https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm) | 3:54 |
+| 40 | [エモーション](https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 2:50 |
 | 41 | [The Contract](https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI) | [ルキフェル&マルク](https://open.spotify.com/artist/4uH0qemDJMBCm8XBC0h5fq), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt), [七尾太一\(CV:濱健人\)](https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 3:40 |
-| 42 | [エモーション](https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 2:50 |
+| 42 | [はじまりはカルテット](https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx) | [西園寺エニス\[シトロン\(CV:五十嵐雅\)\]](https://open.spotify.com/artist/5vTwSfY85PsdBXfG1Q1C5h), [向井庸太\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/7KbPsLxrEvnOvnkQfsUwdH) | [A3! BRIGHT SPRING EP](https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm) | 3:54 |
 | 43 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 |
 | 44 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 |
 | 45 | [月虹上のアリア](https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm) | [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 47 | [餓鬼扱い](https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm) | [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:17 |
 | 48 | [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 |
 | 49 | [Precious to us～僕らの季節～](https://open.spotify.com/track/3LTVj1RAbdXMX7FkXC8Joo) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt), [冬組](https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah), [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp), [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo), [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn), [高遠丞\(CV:佐藤拓也\)](https://open.spotify.com/artist/3gYjY17THD6OTumZ38dwQr), [ガイ\(CV:日野聡\)](https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 5:12 |
-| 50 | [僕らの絆](https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU) | [ロミオ\[佐久間咲也\(CV:酒井広大\)\]](https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ), [ジュリアス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX) | [A3! First SPRING EP](https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M) | 5:03 |
+| 50 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |
 
 Snapshot ID: `AAAAAGVRZ8ZPBKd4Iqn8bttCmr5i62QY`

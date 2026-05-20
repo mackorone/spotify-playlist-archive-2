@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 486 songs - 1 day 3 hr 54 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 489 songs - 1 day 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -494,5 +494,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 484 | [Cubibibibism](https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K) | [Cubibibibism](https://open.spotify.com/album/2dWB8ZDmHav9YpD0snjXDW) | 3:23 |
 | 485 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 | 486 | [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/track/2egqhRbrcdGWrv5Fc28pB4) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Gackpo Camui](https://open.spotify.com/artist/0Om98P2y6ADW6KtBNbJytM), [VY2V3](https://open.spotify.com/artist/0y7SMdM7Cj78tD0Pv4bzcA), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/album/3k0uD7aQV4Mwtl3r97WohJ) | 4:14 |
+| 487 | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/track/5KcPSo0XHlv5XbPkVJJasI) | [WAWON](https://open.spotify.com/artist/6IkW1IwGsEsf2cGljOpDK9), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/album/5K5HRfrmS47poP5sXTXyd9) | 4:14 |
+| 488 | [ikanaide \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1VcOWKCKiWShO8Gs3YRVvP) | [sohta](https://open.spotify.com/artist/76vFRXB0jZ5BkAATnYdUEa), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [shounen syoujo no kotoba](https://open.spotify.com/album/0HMPY6yDhBHW6xJkvChcR8) | 3:12 |
+| 489 | [スキスキ絶頂症](https://open.spotify.com/track/4ob8EMtGqQYlute1An2U9X) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [Nameless](https://open.spotify.com/artist/7IrZTf8h2kmZq2p37NDs1m) | [Resonance](https://open.spotify.com/album/7DIkEiWd247bc48fvYUH0P) | 3:36 |
 
-Snapshot ID: `AAAKLnb1OARzB83NC+YERQ6PwwyG7YYp`
+Snapshot ID: `AAAKMbv10gsLwtmaUN5z8p9cKwqNQ16V`

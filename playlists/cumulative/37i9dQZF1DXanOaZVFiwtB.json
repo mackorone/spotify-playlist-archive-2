@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "HIDEKI SINGLES Vol.2",
+        "url": "https://open.spotify.com/album/2G7KkuSanb5D4C9lw41k2p"
+      },
+      "artists": [
+        {
+          "name": "Hideki Saijo",
+          "url": "https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "\u8d70\u308c\u6b63\u76f4\u8005",
+      "url": "https://open.spotify.com/track/4L4qXzyhsZkpWVGcQhYMTZ"
+    },
+    {
+      "album": {
         "name": "\u6c7a\u5b9a\u76e4\u300cNINKU-\u5fcd\u7a7a-\u300d\u30a2\u30cb\u30e1\u4e3b\u984c\u6b4c&\u30ad\u30e3\u30e9\u30bd\u30f3\u5927\u5168\u96c6(+BGM\u96c6)",
         "url": "https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx"
       },

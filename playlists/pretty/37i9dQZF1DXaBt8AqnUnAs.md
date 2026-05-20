@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,267 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,280 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 11 | [SÓ EU E VOCÊ](https://open.spotify.com/track/2F45pA2YqnAbEjm1uDECEn) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [SÓ EU E VOCÊ](https://open.spotify.com/album/6hnUsxEEZPnUFV2Uw5G67t) | 2:27 |
 | 12 | [Ligar Pra Você](https://open.spotify.com/track/6cxlDhSVE4fbxanvcS9yaT) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:27 |
 | 13 | [Juro Não É Drama \- Remix](https://open.spotify.com/track/3ac23PZ5PqrwKgPMkD4FuO) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [Modder Aka.](https://open.spotify.com/artist/6tMYoBuQNa41Bn0zoPbD2l), [Theuzz011](https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp), [JMB](https://open.spotify.com/artist/3S00c09nAIpRQ0XUWewXup) | [Juro Não É Drama \(Remix\)](https://open.spotify.com/album/2IBDisWQgXHwc1gi8Hunbe) | 3:12 |
-| 14 | [Caso Sério](https://open.spotify.com/track/3yE6sItwsQz577DsPGOZK7) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Navi](https://open.spotify.com/artist/4sWPRNB4UkznRHKOuft1VE) | [Caso Sério](https://open.spotify.com/album/6z22ZHr2KeAaJCkh3aGCic) | 2:35 |
+| 14 | [Caso Sério](https://open.spotify.com/track/3yE6sItwsQz577DsPGOZK7) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Naví](https://open.spotify.com/artist/5gShCe5FCbzaRhZM4ruXdU) | [Caso Sério](https://open.spotify.com/album/6z22ZHr2KeAaJCkh3aGCic) | 2:35 |
 | 15 | [não soube te amar](https://open.spotify.com/track/6sq6mUsqDDnwFx0mp93FNc) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [m0sca](https://open.spotify.com/artist/5tz3X5iQ6EJFPDmzPrh9jd) | [não soube te amar](https://open.spotify.com/album/0JWC4Z5YjNGFjtGdae1zQT) | 3:30 |
 | 16 | [Final da pista \(velocista\)](https://open.spotify.com/track/2l5LpboUXhBhlevTbhTEOz) | [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Final da pista \(velocista\)](https://open.spotify.com/album/3z5kSH46TdeheCqCvNk3mv) | 3:05 |
 | 17 | [Do Que é Feito o Amor?](https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Crisálida](https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe) | 3:43 |

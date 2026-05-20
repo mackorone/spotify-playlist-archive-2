@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11801,
+  "num_followers": 11799,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -875,30 +875,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Wo\u0142anie",
-        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Ajron",
-          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
-        },
-        {
-          "name": "Eldo",
-          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
-        }
-      ],
-      "duration_ms": 192814,
-      "name": "Wo\u0142anie",
-      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "FREE WIFI",
         "url": "https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 223783,
       "name": "Ewa Farna",
       "url": "https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Wo\u0142anie",
+        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Ajron",
+          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
+        },
+        {
+          "name": "Eldo",
+          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
+        }
+      ],
+      "duration_ms": 192814,
+      "name": "Wo\u0142anie",
+      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Samiec beta",
-        "url": "https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37"
-      },
-      "artists": [
-        {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
-        },
-        {
-          "name": "S\u0142o\u0144",
-          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "Samiec beta",
-      "url": "https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Reszty Nie Trzeba",
         "url": "https://open.spotify.com/album/6wwmbJkCTg8PabC4BtmqX5"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Samiec beta",
+        "url": "https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37"
+      },
+      "artists": [
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "Samiec beta",
+      "url": "https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "RAPUJ KURWO (BEDOES DISS)",
         "url": "https://open.spotify.com/album/6cdw3VdG2rPjpRx7VNcy9R"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 178723,
       "name": "RAPUJ KURWO (BEDOES DISS)",
       "url": "https://open.spotify.com/track/0vXFqNThA5L4SPGvdda9xq"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "Kwiatek HAZE",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 200354,
+      "name": "DAW",
+      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1347,22 +1367,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
+        "name": "Wytrych",
+        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
       },
       "artists": [
         {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "W.E.N.A.",
+          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
         },
         {
-          "name": "Kwiatek HAZE",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+          "name": "Amatowsky",
+          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
         }
       ],
-      "duration_ms": 200354,
-      "name": "DAW",
-      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
+      "duration_ms": 175413,
+      "name": "K-R-\u00d3-L",
+      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1391,30 +1415,6 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Wytrych",
-        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
-      },
-      "artists": [
-        {
-          "name": "W.E.N.A.",
-          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
-        },
-        {
-          "name": "Amatowsky",
-          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "K-R-\u00d3-L",
-      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1727,42 +1727,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Linie Papilarne EP",
-        "url": "https://open.spotify.com/album/3OnsMRDEMC9NozRizT4Pez"
-      },
-      "artists": [
-        {
-          "name": "Pelson",
-          "url": "https://open.spotify.com/artist/7KEnuKnjw3c9XH7em1lqIT"
-        },
-        {
-          "name": "Vienio",
-          "url": "https://open.spotify.com/artist/7wFpB8b5ALTKo9IwK3Y5Tq"
-        },
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        },
-        {
-          "name": "Wilku WDZ",
-          "url": "https://open.spotify.com/artist/2W0PvL5xnsP59i2dgTkRF2"
-        },
-        {
-          "name": "Mayor",
-          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
-        }
-      ],
-      "duration_ms": 181023,
-      "name": "Co robimy?",
-      "url": "https://open.spotify.com/track/1HGTwaV1NQhdsu7lRpYlai"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "pid\u017cyn",
         "url": "https://open.spotify.com/album/3O8pJYogTnr6CpDNiem00f"
       },
@@ -1799,6 +1763,42 @@
       "duration_ms": 217496,
       "name": "Ej!",
       "url": "https://open.spotify.com/track/3OOAJSRpxGvqh2jSEx7SOK"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Linie Papilarne EP",
+        "url": "https://open.spotify.com/album/3OnsMRDEMC9NozRizT4Pez"
+      },
+      "artists": [
+        {
+          "name": "Pelson",
+          "url": "https://open.spotify.com/artist/7KEnuKnjw3c9XH7em1lqIT"
+        },
+        {
+          "name": "Vienio",
+          "url": "https://open.spotify.com/artist/7wFpB8b5ALTKo9IwK3Y5Tq"
+        },
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        },
+        {
+          "name": "Wilku WDZ",
+          "url": "https://open.spotify.com/artist/2W0PvL5xnsP59i2dgTkRF2"
+        },
+        {
+          "name": "Mayor",
+          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+        }
+      ],
+      "duration_ms": 181023,
+      "name": "Co robimy?",
+      "url": "https://open.spotify.com/track/1HGTwaV1NQhdsu7lRpYlai"
     },
     {
       "added_at": "2026-04-09 22:12:46",

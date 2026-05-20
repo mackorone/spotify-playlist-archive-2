@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: BNXN and Sarz
 
-1,017 songs - 2 day 4 hr 5 min
+1,018 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Ka Lekeke \(feat\. Dj Motee, L4desh & Turnupkiid\)](https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Massive95k](https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1), [Dj Motee](https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p), [L4desh](https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF), [Turnupkiid](https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe) | [Ka Lekeke \(feat\. Dj Motee, L4desh & Turnupkiid\)](https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP) | 5:47 | 2024-01-26 | 2024-04-19 |
 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 | 2024-01-26 | 2024-06-01 |
 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-01 | 2026-05-09 |
+| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-05-19 |  |
 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 | 2024-01-26 | 2024-06-01 |
 | [Karma](https://open.spotify.com/track/2rgMNmqpwU6rm8B2FRfUjj) | [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Karma](https://open.spotify.com/album/61hiVnsN8LZacnPiEMD8gL) | 2:45 | 2021-09-10 | 2022-06-19 |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-21 | 2024-01-26 |
@@ -836,7 +837,7 @@
 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM) | 2:47 | 2021-09-10 | 2023-05-15 |
 | [Simple Things \[Feat\. Tory Lanez & Rema\]](https://open.spotify.com/track/5SMKa6EVTFltVoZlNcKMYM) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Simple Things \[Feat\. Tory Lanez & Rema\]](https://open.spotify.com/album/42epDPc7PKuwg4Z0ddv6KE) | 3:34 | 2021-09-10 | 2022-07-21 |
 | [Sing](https://open.spotify.com/track/043ReIW24TJJQTfbytcwfC) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Sing](https://open.spotify.com/album/4AW0IOKt1aSBIXgYnAsLvH) | 2:34 | 2021-09-10 | 2022-06-26 |
-| [Siren](https://open.spotify.com/track/1LkzZiQNavLnLKUy4T41AF) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [Siren](https://open.spotify.com/album/2hERpr8bZ0b6uxL3eBOUqK) | 2:48 | 2026-03-27 |  |
+| [Siren](https://open.spotify.com/track/1LkzZiQNavLnLKUy4T41AF) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [Siren](https://open.spotify.com/album/2hERpr8bZ0b6uxL3eBOUqK) | 2:48 | 2026-03-27 | 2026-05-20 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-05 | 2024-01-26 |
 | [Situation](https://open.spotify.com/track/4hTOd5RMnefcxm4Rvbxj5F) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [If Only Love Was Enough](https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT) | 4:16 | 2025-06-13 | 2025-06-21 |
 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 | 2025-09-26 | 2025-11-22 |

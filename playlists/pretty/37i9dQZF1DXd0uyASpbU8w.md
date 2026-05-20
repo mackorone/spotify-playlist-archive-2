@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Drake, Babalwa M, Jorja Smith, EeQue, GIVĒON and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,873 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,893 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 58 | [Kwelizayo](https://open.spotify.com/track/0JzSpLO1UY4dbnQgPfkInF) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV) | [Kwelizayo](https://open.spotify.com/album/2F6KeBykpIySOSUBS2eQEh) | 5:31 |
 | 59 | [Ndlela](https://open.spotify.com/track/4TUWVeFpv0eQAoH7p4vS1J) | [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF), [Rory Diamondz](https://open.spotify.com/artist/1zausrphS5RJx0N7NNLaOb), [DJ Veek](https://open.spotify.com/artist/3sDsuIwH3ClfSh6aMgEC7o) | [Ndlela](https://open.spotify.com/album/1b0kCrbAHbaIIAUS75CpSK) | 6:07 |
 | 60 | [Imnandi Lento](https://open.spotify.com/track/2Vd6db4x41tcWFonFewHnJ) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [NDLOH JNR](https://open.spotify.com/artist/07qmWpquMuwt2mykmu9yGR), [VMB](https://open.spotify.com/artist/77OvM6TLQkh5ZNpuaBDXZV) | [Imnandi Lento](https://open.spotify.com/album/1EjbtvQnMSKt2rr5S6gOfl) | 5:45 |
-| 61 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 |
+| 61 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT), [Floro](https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 |
 | 62 | [Dominic](https://open.spotify.com/track/70Ay3kHaAxyN3ngQuXrMUH) | [Manu Grace](https://open.spotify.com/artist/5nP15sKJZKuxXPS4Xsp3cu) | [Dominic](https://open.spotify.com/album/5AEFTgwPpZsxpVa2a5C5zW) | 2:38 |
 | 63 | [Ungana \(Stereo Version\)](https://open.spotify.com/track/5zqfjfoWfWilrmzvYhEtnU) | [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml), [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW) | [Ungana \(Stereo Version\)](https://open.spotify.com/album/1kXzD9RNidIV4807grdCt2) | 4:47 |
 | 64 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |

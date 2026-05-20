@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 842 likes - 109 songs - 6 hr 4 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 861 likes - 118 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,14 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 107 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 |
 | 108 | [Three Peat Freestyle](https://open.spotify.com/track/57wRi8aHGFUaHLfR9H24A0) | [B\-Twizzle](https://open.spotify.com/artist/3uKNLT61D9AATiT2kWNNXd), [Jordi](https://open.spotify.com/artist/7fCmeytT5tCbU6xmMWYrlC) | [Dynamic Duo](https://open.spotify.com/album/6nOGlj4jJuBtMQ20efy67X) | 4:50 |
 | 109 | [Super Nova](https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Super Nova](https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq) | 3:43 |
+| 110 | [L'ultimo Etero Del Mondo](https://open.spotify.com/track/0PnJzlsh1tKHDgd5pQw8pC) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [L'ultimo Etero Del Mondo](https://open.spotify.com/album/2mIOljo5sT5gwmHmbsjMvQ) | 3:18 |
+| 111 | [Special Request](https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb) | [Kool Breed](https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28) | [Special Request Tape](https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ) | 4:24 |
+| 112 | [Witness](https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Witness](https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8) | 2:20 |
+| 113 | [Me](https://open.spotify.com/track/356jvxIwxF7GCnqZg3xS5n) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Me](https://open.spotify.com/album/42ShDpZIKnaYM5QTXHlXfT) | 2:37 |
+| 114 | [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 |
+| 115 | [Spacing Out](https://open.spotify.com/track/77fhoJzb7s4oSw7zIrZNyz) | [JTL](https://open.spotify.com/artist/6DZYmpRaYs36tOF2w4RRrN) | [Spacing Out](https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd) | 2:46 |
+| 116 | [Is This Faith](https://open.spotify.com/track/0zrPGScONhWVuM4YIiyKGV) | [Sara Hecht](https://open.spotify.com/artist/5SdcJmxoUet8wPz869kAi8) | [Is This Faith](https://open.spotify.com/album/3Rv0xhrxY4Sb2BsoPfY50z) | 3:11 |
+| 117 | [Spell On Me](https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr) | [Visiion](https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC) | [Spell On Me](https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr) | 1:53 |
+| 118 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 |
 
-Snapshot ID: `AAADrLpHdsCIQhhYVf5QOr2J+cS8vGmG`
+Snapshot ID: `AAADtb2HrddZgtz9+CcqVuafNChMF6Kr`

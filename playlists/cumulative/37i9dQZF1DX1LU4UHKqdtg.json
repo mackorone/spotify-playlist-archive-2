@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "ATE!",
+        "url": "https://open.spotify.com/album/2U2VHhdK5gBotkJSbEJlPd"
+      },
+      "artists": [
+        {
+          "name": "GPP",
+          "url": "https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "ATE!",
+      "url": "https://open.spotify.com/track/0HdBNESSes41LPcJ6gfuty"
+    },
+    {
+      "album": {
         "name": "ATHLETIC GIRL",
         "url": "https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ"
       },
@@ -8678,7 +8696,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 128133,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"
@@ -10680,7 +10698,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -16208,6 +16226,24 @@
       "duration_ms": 162013,
       "name": "Lovers or Enemies",
       "url": "https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH"
+    },
+    {
+      "album": {
+        "name": "LUCID DREAM",
+        "url": "https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "LUCID DREAM",
+      "url": "https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos"
     },
     {
       "album": {
@@ -25372,6 +25408,24 @@
       "duration_ms": 183546,
       "name": "STYLE",
       "url": "https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3"
+    },
+    {
+      "album": {
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
     },
     {
       "album": {

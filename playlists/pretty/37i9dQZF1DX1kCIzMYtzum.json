@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 512094,
+  "num_followers": 512517,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2026-05-15 04:01:53",
       "album": {
-        "name": "The Final Countdown 2025",
-        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "The Final Countdown 2025",
-      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
-    },
-    {
-      "added_at": "2026-05-15 04:01:53",
-      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -1303,6 +1279,30 @@
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+    },
+    {
+      "added_at": "2026-05-15 04:01:53",
+      "album": {
+        "name": "The Final Countdown 2025",
+        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "The Final Countdown 2025",
+      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
     },
     {
       "added_at": "2026-05-15 04:01:53",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-05-15 04:01:53",
       "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2026-05-15 04:01:53",
+      "album": {
         "name": "Like A Child",
         "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 183181,
       "name": "Like A Child",
       "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
-    },
-    {
-      "added_at": "2026-05-15 04:01:53",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2026-05-15 04:01:53",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-05-15 04:01:53",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/6FIcuaZe4x4NU6JHrSIA1l"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        }
-      ],
-      "duration_ms": 198778,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4jN4p76dTKFs7MTvpgeMBA"
-    },
-    {
-      "added_at": "2026-05-15 04:01:53",
-      "album": {
         "name": "Flames (feat. Bandit)",
         "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 179746,
       "name": "Flames (feat. Bandit)",
       "url": "https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo"
+    },
+    {
+      "added_at": "2026-05-15 04:01:53",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/6FIcuaZe4x4NU6JHrSIA1l"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 198778,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4jN4p76dTKFs7MTvpgeMBA"
     },
     {
       "added_at": "2026-05-15 04:01:53",
@@ -1931,46 +1931,6 @@
     {
       "added_at": "2026-05-15 04:01:53",
       "album": {
-        "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
-        "url": "https://open.spotify.com/album/1gcqQomUJz8hb8iXDZDApE"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
-        },
-        {
-          "name": "Dicosis",
-          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
-      "url": "https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh"
-    },
-    {
-      "added_at": "2026-05-15 04:01:53",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 160888,
-      "name": "Destination Calabria",
-      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
-    },
-    {
-      "added_at": "2026-05-15 04:01:53",
-      "album": {
         "name": "All My Life (feat. John Martin)",
         "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
       },
@@ -1991,6 +1951,46 @@
       "duration_ms": 172941,
       "name": "All My Life (feat. John Martin)",
       "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-15 04:01:53",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Destination Calabria",
+      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2026-05-15 04:01:53",
+      "album": {
+        "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+        "url": "https://open.spotify.com/album/1gcqQomUJz8hb8iXDZDApE"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Dicosis",
+          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
+      "url": "https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh"
     },
     {
       "added_at": "2026-05-15 04:01:53",

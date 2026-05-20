@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Of Earth & Wires",
+        "url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122200,
+      "name": "Keep Away (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6wpZpVB1xZCOJBKFo9WSPX"
+    },
+    {
+      "album": {
         "name": "Bon Iver, Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },

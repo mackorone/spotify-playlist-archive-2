@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,873 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,954 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
 | 60 | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0) | [Cheb Iyad](https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ) | 6:02 |
 
-Snapshot ID: `AAAAAKJKxYBX8E3/j8EHAv9RrpOxwI/H`
+Snapshot ID: `AAAAAB5pSlUq3B3q2GuUYuNEp/7K4ADy`

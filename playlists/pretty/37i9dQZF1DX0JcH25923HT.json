@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 590430,
+  "num_followers": 590554,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "No Quiere Amor (feat. Farruko)",
+        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "No Quiere Amor (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "S.U.N.O",
         "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
       },
@@ -907,22 +927,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "No Quiere Amor (feat. Farruko)",
-        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
       "artists": [
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 268560,
-      "name": "No Quiere Amor (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -963,42 +999,6 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Me Llueven",
-        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
-      },
-      "artists": [
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165994,
-      "name": "Me Llueven",
-      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Me Llueven",
+        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
+      },
+      "artists": [
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165994,
+      "name": "Me Llueven",
+      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Trap Tumbado",
-        "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Dime Pa Que",
-      "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
         "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 142703,
       "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
       "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Trap Tumbado",
+        "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Dime Pa Que",
+      "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "My Blood Remix (feat. Julianno Sosa)",
         "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 252212,
       "name": "My Blood Remix (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     },
     {
       "added_at": "2024-03-08 16:14:30",

@@ -4,7 +4,7 @@
 
 > It's giving vibes\. Cover: Dammie & FJ
 
-333 songs - 15 hr 18 min
+334 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Ayo Amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ayo Amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 | 2025-12-18 | 2026-03-27 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-07-17 | 2025-08-05 |
 | [Babyboo](https://open.spotify.com/track/7Mxbp0DtUpTetgfBVmWr1j) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:14 | 2025-08-07 | 2026-03-20 |
-| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 |  |
+| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 | 2026-05-20 |
 | [Back Outside](https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Back Outside](https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ) | 3:31 | 2026-04-23 |  |
 | [bad fkn habits](https://open.spotify.com/track/61tCmoJNiTJgaXj1UOc2Va) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:31 | 2026-01-08 | 2026-03-27 |
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-07-17 | 2025-12-19 |
@@ -174,6 +174,7 @@
 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 | 2025-10-30 | 2026-02-13 |
 | [Low](https://open.spotify.com/track/4M5SBrPQQrSImtg1PCxEe0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [CiCi \(Deluxe\)](https://open.spotify.com/album/6Ty7FKJeL2TyYDccUl9JyC) | 3:30 | 2025-08-28 | 2026-01-31 |
 | [Maakt Niet Uit](https://open.spotify.com/track/6sohUthl8KzZa1eifBUH47) | [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Maakt Niet Uit](https://open.spotify.com/album/7KV9GlA3vEoWT4SrV9FZgi) | 2:18 | 2026-01-29 | 2026-04-17 |
+| [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 | 2026-05-19 |  |
 | [Make U Mine](https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Make U Mine](https://open.spotify.com/album/2ofvnah4cdhDkIQvDgBEgz) | 2:13 | 2025-07-17 | 2026-01-23 |
 | [Mami Van Pa](https://open.spotify.com/track/4R4ixRPFzRYxGaoIBKcnpL) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mami Van Pa](https://open.spotify.com/album/7KEF8jbzsWCDPWVp0YqxvV) | 2:56 | 2026-04-23 |  |
 | [Manipulatie](https://open.spotify.com/track/6zV4NmnsRaXyhYzsQEwAGA) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Ais](https://open.spotify.com/artist/5ITcpkjwtPSftZ1CzGTMFm), [Ds19](https://open.spotify.com/artist/5xxoHs0vedMntAhEaMLt4e) | [Manipulatie](https://open.spotify.com/album/2FkemzTo3lHamOALV14vPk) | 2:10 | 2025-07-17 | 2025-09-05 |

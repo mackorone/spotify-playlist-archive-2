@@ -4,7 +4,7 @@
 
 > Becky G is having a main pop girl emergency 🆘
 
-1,699 songs - 3 day 13 hr 14 min
+1,700 songs - 3 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,7 +935,7 @@
 | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/track/1uFtzVRVimqjrC8kmy12YI) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/album/0y6005o869Rsc1xmlO4xgW) | 2:55 | 2022-09-02 | 2022-12-24 |
 | [Lose My Head](https://open.spotify.com/track/3riBSHN6260LlPcv7kJg9N) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Lose My Head](https://open.spotify.com/album/3Xj0l8b1CgdaCcmRRxtb3z) | 2:50 | 2022-12-23 | 2023-01-28 |
 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 | 2023-01-27 | 2023-03-12 |
-| [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 | 2025-10-24 |  |
+| [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 | 2025-10-24 | 2026-05-20 |
 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 | 2025-08-08 | 2025-10-18 |
 | [Losing Streak](https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Losing Streak](https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV) | 3:38 | 2026-03-06 | 2026-04-18 |
 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 | 2023-12-08 | 2024-03-30 |
@@ -1688,6 +1688,7 @@
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-02 | 2023-01-28 |
 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 | 2023-06-02 | 2023-09-23 |
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-01-27 | 2023-04-15 |
+| [You Oughta Know](https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY) | [Cherry Bomb](https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM) | [You Oughta Know](https://open.spotify.com/album/2O6vpPMDKkiwkyGuH0LgaZ) | 3:48 | 2026-05-19 |  |
 | [YOU OWE ME MONEY!](https://open.spotify.com/track/55kGZxgYTaDNfUdoWYjJQi) | [Pixl Girl](https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp) | [YOU OWE ME MONEY!](https://open.spotify.com/album/6SqaYbJPYVDX7MW9hmG8gI) | 1:31 | 2025-08-15 | 2026-03-14 |
 | [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 | 2024-04-23 |
 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 | 2025-05-02 | 2025-05-31 |

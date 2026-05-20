@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:0XqMXRWagj3oufGzaSBCqk">najma</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:0rsJAd56r0f6UjOYw2VSEM">Chiaré</a> in cover.
 
-2,164 songs - 4 day 11 hr 40 min
+2,168 songs - 4 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [ANTARTICO](https://open.spotify.com/track/3SthJHKo6Fa5xAOLEF4d2J) | [DEIRA](https://open.spotify.com/artist/3Yl7FIwJkTtOxC6kuunqjz) | [ANTARTICO](https://open.spotify.com/album/6aXYKXYyymLzKm8tye2WPa) | 2:48 | 2024-05-23 | 2024-06-19 |
 | [Anti\-Fomo](https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [Anti\-Fomo](https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA) | 2:56 | 2023-08-29 | 2023-10-04 |
 | [Apatia](https://open.spotify.com/track/0ITpTWRwcK6WvTQn8C2TZk) | [Distemah](https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK) | [Apatia](https://open.spotify.com/album/1DMTh6TGoVCJyGxdd2VTiB) | 3:44 | 2024-07-18 | 2024-08-22 |
+| [Apatica](https://open.spotify.com/track/0vndaiSk8V27NbQOlpGDQq) | [Cheriach Re](https://open.spotify.com/artist/3yjm3idXzzNrdQyfaVPtQz) | [Apatica](https://open.spotify.com/album/0QKwLwyTbHToE8vguMfWAK) | 2:14 | 2026-05-19 |  |
 | [APNEA](https://open.spotify.com/track/07BUJz0fmgLnaDfk4WtYPf) | [FOGG](https://open.spotify.com/artist/3XJWtrpDcoofN56hKaNRCH) | [APNEA](https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p) | 4:48 | 2023-04-04 | 2023-04-27 |
 | [APOLLO 11](https://open.spotify.com/track/5dJcZ79cBBq016PNOtAPz6) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [APOLLO 11](https://open.spotify.com/album/7Cw7BLWPn3o2XRhUTsWhqq) | 3:03 | 2022-05-05 | 2022-05-20 |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-05-23 | 2024-06-19 |
@@ -398,6 +399,7 @@
 | [Ci salverà](https://open.spotify.com/track/0W9cmVYfiy1CGLuo2cgJ7Q) | [Amore Audio](https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT) | [Ci salverà](https://open.spotify.com/album/2EDHe94vOQp9zIzlWtJgXS) | 3:26 | 2025-11-18 | 2025-12-10 |
 | [ci sono anch'io](https://open.spotify.com/track/3vaJKoqZhrzXKakku9mLlG) | [Dale](https://open.spotify.com/artist/7ldxWvmHhkRb9VUV3D2dMv) | [ci sono anch'io](https://open.spotify.com/album/2696jVbzYukZXG85xwsDds) | 2:57 | 2023-05-02 | 2023-05-31 |
 | [Ci vorresti tu](https://open.spotify.com/track/4iiaXM20CxgP3VRnqBLk4c) | [MALTO](https://open.spotify.com/artist/2GDjDJDeryXhMiZDDslMlc) | [Ci vorresti tu](https://open.spotify.com/album/17SxLS2yNxzZXjKdD8C0GX) | 3:40 | 2025-04-09 | 2025-04-30 |
+| [Ciao, come stai?](https://open.spotify.com/track/4QENVrAOnK8FtCGfyEOBT5) | [Naeev](https://open.spotify.com/artist/1cxHKVZfKdKwMlSOoQ0U27) | [Ciao, come stai?](https://open.spotify.com/album/03v4HXPHABMv2kwXbg0lQ7) | 2:19 | 2026-05-19 |  |
 | [CICATRICI](https://open.spotify.com/track/79HIUVZnx0qNdGmMAAUeaI) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [CICATRICI](https://open.spotify.com/album/02ziDaOuOlbV4TZpLdTXFc) | 2:32 | 2023-01-19 | 2023-03-18 |
 | [Cicatrici](https://open.spotify.com/track/64I9Xh3k38tYTsrE9Lzyvt) | [Narbe](https://open.spotify.com/artist/7BzJ0cJGQvl5sSCzG20aXO) | [Cicatrici](https://open.spotify.com/album/0RMNGDgB0CUv7BtEogzApB) | 1:43 | 2023-03-14 | 2023-04-19 |
 | [Cicatrici](https://open.spotify.com/track/1i96SWXRNE5pTkyfkCeR0w) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Cicatrici](https://open.spotify.com/album/1Ql5u8c69pjlsX3HdOvIDH) | 3:00 | 2023-03-02 | 2023-04-05 |
@@ -1341,6 +1343,7 @@
 | [Non sono come noi](https://open.spotify.com/track/6jQPRjzdHIRU8lWGtZyWUe) | [MA7DI](https://open.spotify.com/artist/4qHOnCnQ7cKuAIstfD7ATj), [Millie Rich](https://open.spotify.com/artist/3orJhaOxtWG0kWwimG3lvN) | [FIGLI DI IMMIGRATI](https://open.spotify.com/album/7LIsQC8EIvKR0Od0qRc6kW) | 3:14 | 2025-05-20 | 2025-06-11 |
 | [Non sono lacrime](https://open.spotify.com/track/09FtCkciOruXZwJmOaxwFy) | [Johana](https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91) | [Non sono lacrime](https://open.spotify.com/album/3Gs5X4GfiLyKLw21RgZ7fX) | 2:44 | 2024-04-23 | 2024-05-24 |
 | [Non Sono Tua](https://open.spotify.com/track/33W9RRg8PeHtCoVejgbqgV) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [Il Primo Grande Disco Di Lumiero](https://open.spotify.com/album/6ZBNyxUBIziv95eWeOKXB0) | 3:34 | 2025-12-09 | 2026-02-11 |
+| [non sto andando da nessuna parte](https://open.spotify.com/track/4zkZy0r72BlBOR1tZWC9qz) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [non sto andando da nessuna parte](https://open.spotify.com/album/6zkzMxGBYWUxAojez4gRSU) | 2:15 | 2026-05-19 |  |
 | [Non ti credo](https://open.spotify.com/track/0fzky2CPINj0Y3QiTMGUqs) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Non ti credo](https://open.spotify.com/album/0fPKyI7zy1RO4VU5jZ64EX) | 2:20 | 2023-11-21 | 2024-01-25 |
 | [Non ti scusare \(Anna\)](https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Non ti scusare \(Anna\)](https://open.spotify.com/album/4Wf4LUGWsaEgREyJGDOo78) | 3:01 | 2024-05-23 | 2024-06-19 |
 | [NON TORNO + INDIETRO](https://open.spotify.com/track/7KGLXBqsrWV8BSENQSHmau) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [NON TORNO + INDIETRO](https://open.spotify.com/album/3U138Lx2pacyQfOlib1Rvc) | 2:15 | 2022-02-17 | 2022-03-04 |
@@ -1667,6 +1670,7 @@
 | [Run Like Hell](https://open.spotify.com/track/1uftj5jWJ9VcQrARuwLgi0) | [Lake Jack](https://open.spotify.com/artist/6ElX5JTkE4WR52zJr671u0) | [Run Like Hell](https://open.spotify.com/album/3KvGUoDBvHkzJAelYYm8Ij) | 3:11 | 2025-09-02 | 2025-10-15 |
 | [runner up](https://open.spotify.com/track/7Kq5ubHPe7i9JJltpWGBgZ) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [runner up](https://open.spotify.com/album/3pwuQ9iQs6XbWQYFUrHjPT) | 3:35 | 2024-04-23 | 2024-05-24 |
 | [Running In Circles](https://open.spotify.com/track/3eE4zRkF25y8Toq5NfjDja) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Running in Circles](https://open.spotify.com/album/7IpMkLAG29hyfMl3V0i0GP) | 5:56 | 2023-03-02 | 2023-04-05 |
+| [R£seller](https://open.spotify.com/track/2zZzisbyzA6tX8lMQusxZu) | [R£d](https://open.spotify.com/artist/4hZ6NhyyFrGR6TAnEROtVs) | [R£seller](https://open.spotify.com/album/5C7d57E7y1Y6tXaRXs9k7B) | 2:38 | 2026-05-19 |  |
 | [Sabbia](https://open.spotify.com/track/5IdOZxQkxd1imOkBv4ih8p) | [Emily](https://open.spotify.com/artist/0RrJkAKe89C2DUyuSYQOvV), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [Inciampo](https://open.spotify.com/album/5ZjfPef53WYRIsDot6dC7F) | 2:50 | 2023-02-24 | 2023-03-18 |
 | [Sabbie Mobili](https://open.spotify.com/track/3likyMOTU38plDlDhGCN66) | [Casbury](https://open.spotify.com/artist/668PcUzgiF9xgYqVCgPLnJ) | [Sabbie Mobili](https://open.spotify.com/album/4yWnZRHF5k5IkpAPYIVpmN) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Sahara](https://open.spotify.com/track/1P0wERGdvEK6Uwp4US7FuG) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Sahara](https://open.spotify.com/album/6Dorir6vx6aW2wBwWwpjfC) | 2:49 | 2023-06-20 | 2023-07-19 |

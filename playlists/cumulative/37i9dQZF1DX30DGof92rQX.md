@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Elijah Solo, JBinternational
 
-507 songs - 1 day 3 hr 6 min
+508 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Par Ab Jo Aayegi Tu](https://open.spotify.com/track/3prYPP4uglTuaWLgUw1MS9) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Par Ab Jo Aayegi Tu](https://open.spotify.com/album/4PCjIrIbuZ2bGQ4Gi5s6cl) | 3:04 | 2025-05-30 | 2025-10-18 |
 | [Party Song](https://open.spotify.com/track/0F7QKYQWrTzTpRWOknXy46) | [Khalai Makhluuq](https://open.spotify.com/artist/1IQGNV55nwEhLmOnBR8wuq) | [Party Song](https://open.spotify.com/album/5mAuh8TQHmVT2ZTzZmw6vq) | 2:55 | 2025-12-26 | 2026-02-21 |
 | [Parwana](https://open.spotify.com/track/4DT11MSdPyGrsW4l0aYRrU) | [Fawad Khan](https://open.spotify.com/artist/1ld2SwZbg3LL8AtlrSfsNW), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd), [Hasil Qureshi](https://open.spotify.com/artist/4BYR61OAuphdyuPb6A9gEi) | [Parwana](https://open.spotify.com/album/21UsC6L87HGyqEWlUGJIdZ) | 3:56 | 2025-08-01 | 2025-09-10 |
+| [PaTamma Tamma](https://open.spotify.com/track/5u1SUbHNPKIMzNdseDugiv) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [PaTamma Tamma](https://open.spotify.com/album/5BmOt5MRgI3EWdvscJa9t7) | 3:14 | 2026-05-19 |  |
 | [Patch Up](https://open.spotify.com/track/3OnUlf3h3P77h9J8PXFkRI) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ), [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53), [Rehan Abbas](https://open.spotify.com/artist/2woE4q088jN9nv6jyQN71c) | [Patch Up](https://open.spotify.com/album/1eiBE6tnHzGEDa8n0STObk) | 4:02 | 2025-09-09 | 2025-11-21 |
 | [Peeran](https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Peeran](https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L) | 4:14 | 2025-01-17 | 2025-06-06 |
 | [Phool](https://open.spotify.com/track/1qozC68W4RGi9wxy14QpMl) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Phool](https://open.spotify.com/album/7MKEDm3eM6UxmgL09Vyo2Y) | 3:45 | 2025-05-26 | 2025-10-18 |

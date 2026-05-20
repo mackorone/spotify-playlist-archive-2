@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,919 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,941 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 19 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
 | 20 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
 | 21 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
-| 22 | [All Of Me](https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:22 |
-| 23 | ['S Wonderful](https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:55 |
+| 22 | ['S Wonderful](https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:55 |
+| 23 | [All Of Me](https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:22 |
 | 24 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 |
 | 25 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
 | 26 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 81 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 | 82 | [Call Me Irresponsible](https://open.spotify.com/track/73sTJPWNYh2OZJdz41N4VR) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now/Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/00guJqBHUMK4qJ6ZFEFggL) | 2:04 |
 | 83 | [Is a Good Man Real?](https://open.spotify.com/track/0vmB1QXTJjDLABXelWgAm1) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Is a Good Man Real?](https://open.spotify.com/album/05I8drdmcQu1PNVkINs8V9) | 4:13 |
-| 84 | [Nice Work If You Can Get It \- 2012 Remastered Version](https://open.spotify.com/track/18EA8YnCLzdv8tncaFEr3A) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:08 |
-| 85 | [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 |
-| 86 | [Jive At Six](https://open.spotify.com/track/1uaHEXxrsFLORmjEDrMNFU) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/5rdcvADmhNCer3a6JC76Sa) | 4:15 |
-| 87 | [Lulu's Back in Town \- 2012 Remastered Version](https://open.spotify.com/track/4ONhNhDkeO9QGUe9MOK0kL) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:05 |
+| 84 | [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 |
+| 85 | [Jive At Six](https://open.spotify.com/track/1uaHEXxrsFLORmjEDrMNFU) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/5rdcvADmhNCer3a6JC76Sa) | 4:15 |
+| 86 | [Lulu's Back in Town \- 2012 Remastered Version](https://open.spotify.com/track/4ONhNhDkeO9QGUe9MOK0kL) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:05 |
+| 87 | [Nice Work If You Can Get It \- 2012 Remastered Version](https://open.spotify.com/track/18EA8YnCLzdv8tncaFEr3A) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:08 |
 
 Snapshot ID: `AAAAAIrFTt6Ul/AiF6FeZ9VUgFYVjGgc`

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,389 songs - 9 day 18 hr 18 min
+4,395 songs - 9 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [ANGEL & DEMON](https://open.spotify.com/track/3pIaj56RifnnWS14Lft6XV) | [IRONMICH](https://open.spotify.com/artist/3gKMnHwmuwaNLzmbAGvt7O) | [ANGEL & DEMON](https://open.spotify.com/album/0x6JTimZnPKRUjFL37PyCm) | 1:46 | 2025-06-20 |  |
 | [Angels Only Pick Sunflowers](https://open.spotify.com/track/5wn1mUP4JIQLLjm2HNZ5Fc) | [End Credits](https://open.spotify.com/artist/6oLfpsrrNYAlkCIhB6Qafs) | [Angels Only Pick Sunflowers](https://open.spotify.com/album/4jJ5ssQOVXd4RndCi140kA) | 3:37 | 2025-07-12 |  |
 | [Anger Strike](https://open.spotify.com/track/6mhbQ0i36khByCU3o3IVsA) | [Cannonball](https://open.spotify.com/artist/1xVztnwVO4I97Y9dEBR7Ao) | [Anger Strike](https://open.spotify.com/album/1vjJ3x9glDLsEp6djbMnvl) | 4:18 | 2025-02-27 |  |
+| [Anna](https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp) | [Roan Grevel](https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627) | [Anna](https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs) | 4:30 | 2026-05-19 |  |
 | [ANOMALIST](https://open.spotify.com/track/66ut1Lnn0vhd7YSxlBSc59) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [ANOMALIST](https://open.spotify.com/album/5kfN2PHjnOH32ZrJU5WCUq) | 2:52 | 2025-07-03 |  |
 | [Anora](https://open.spotify.com/track/6aatZDd10jSN8blwLBURlE) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [Anora](https://open.spotify.com/album/02SAuWHkTaO6onlJx2JO5x) | 2:41 | 2025-07-28 |  |
 | [Another Earth](https://open.spotify.com/track/6UZgVKwEHllCXJ6IR0d62d) | [Orrin](https://open.spotify.com/artist/57MSCk9ocHFyzO9phFgPt0) | [Another Earth](https://open.spotify.com/album/5fucSXGpUS2zYlqRlXkWig) | 2:12 | 2025-05-16 |  |
@@ -935,6 +936,7 @@
 | [Delulu](https://open.spotify.com/track/7JXLbnNoTbWRMxrry6WEqJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:11 | 2025-08-28 |  |
 | [Dembow Identity](https://open.spotify.com/track/2jMHMd99ACS8pEaxdeRPTb) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:32 | 2026-04-13 |  |
 | [Dembow Identity \(fomo mode\)](https://open.spotify.com/track/6WAdPlqleGI0Q16GJikh5N) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:16 | 2026-04-13 |  |
+| [demora](https://open.spotify.com/track/4ZVuc0qIQy0o9xWMsrfK7Y) | [Last Bølt Ceremony](https://open.spotify.com/artist/2IajsdZ6Wn4GXBo2f6CDtd) | [demora](https://open.spotify.com/album/2jUjdGJuBub7mQNXRVWcCD) | 6:03 | 2026-05-19 |  |
 | [Dendy](https://open.spotify.com/track/0tKRl4N2mAtvfRZ5Q1adsO) | [CORPORATION 89](https://open.spotify.com/artist/3mIIbHBmhpLhasfYyyYNM7) | [Dendy](https://open.spotify.com/album/5YJSoK1avIQXP1ypP1oAaH) | 3:18 | 2025-06-05 |  |
 | [Dentro a due vite](https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Dentro a due vite](https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83) | 3:08 | 2026-01-04 |  |
 | [DENTRO DI TE](https://open.spotify.com/track/5Ty4yEu6X6L4nmDlkpXtWI) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [DENTRO DI TE](https://open.spotify.com/album/6ZPq9PvhPZlvTky4sAABkw) | 3:42 | 2025-06-01 |  |
@@ -1394,6 +1396,7 @@
 | [Far Away](https://open.spotify.com/track/6Z3Xxm2BGsVDCMZLdccXyL) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Akorlee](https://open.spotify.com/artist/0hOXhNIdpN54uJYShinc3v) | [Far Away](https://open.spotify.com/album/5uwd1qBXnEFnCi5Oas6ZAM) | 3:04 | 2025-06-04 |  |
 | [Far Done \(with You\)](https://open.spotify.com/track/4zLIRnSMiSOGgwTYeJ5Lre) | [Jenny Alson](https://open.spotify.com/artist/5DZQRa3zLtTRlEv2hfTDDR) | [Far Done \(with You\)](https://open.spotify.com/album/3FFNLjnBU8JTQp3SkROS61) | 2:42 | 2025-10-14 |  |
 | [Fare niente](https://open.spotify.com/track/4PylYBWQ5yF5JVV2kSNSnn) | [LATLETA](https://open.spotify.com/artist/2dupSU3huHKivDrB6cDYW9) | [Fare niente](https://open.spotify.com/album/0QfDkSXX4jAYMz54b31zcV) | 3:51 | 2025-07-30 |  |
+| [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-05-19 |  |
 | [Fast Forward Love](https://open.spotify.com/track/1F4BbwO3J3fEUwAgmkA3qk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 4:02 | 2025-09-20 |  |
 | [Fast Forward to Now](https://open.spotify.com/track/78queUMBh8BQmXy8JGLRy9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 3:33 | 2025-09-19 |  |
 | [Fast, Loud & Viral](https://open.spotify.com/track/5S6TylgCybSDqPovTC7g63) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 2:22 | 2025-09-19 |  |
@@ -2149,6 +2152,7 @@
 | [Let's Get Loud \(another\)](https://open.spotify.com/track/1AaMPmrIBNV7IVEXKPSJbm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Party Punk](https://open.spotify.com/album/1coJEWj1ziaeqRssS4E2Kf) | 2:41 | 2025-09-19 |  |
 | [Let's Get Loud 2](https://open.spotify.com/track/6arvKgJyCOLTfnl7VpibOl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Party Punk](https://open.spotify.com/album/1coJEWj1ziaeqRssS4E2Kf) | 2:26 | 2025-09-19 |  |
 | [Let's Get Loud 2 \(another\)](https://open.spotify.com/track/5vvUGm9Q56wL9HCDLSlZxG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Party Punk](https://open.spotify.com/album/1coJEWj1ziaeqRssS4E2Kf) | 2:12 | 2025-09-19 |  |
+| [Let's Go](https://open.spotify.com/track/5GuocXu1iB2pIipx6UKrrr) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Let's Go](https://open.spotify.com/album/2224uV3uN96Tp9QATYxmUs) | 3:35 | 2026-05-19 |  |
 | [Let's Go!!](https://open.spotify.com/track/1zSAUMt5jxtIV1oDnUJbY2) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!!](https://open.spotify.com/album/1MbOwUa67e4zVOawifDOIA) | 3:51 | 2025-09-26 |  |
 | [Let's Go!! \(Remixed\)](https://open.spotify.com/track/71kpTEDnwgzm772US3Uttc) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!! \(Remixed\)](https://open.spotify.com/album/6zZqCdv769t9CvE2qAcgw0) | 2:54 | 2025-09-26 |  |
 | [Lettera al mare](https://open.spotify.com/track/5KyqzgQeQR9MaVIGcAysM4) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Lettera al mare](https://open.spotify.com/album/5jPR1c8XTQBjYXv2A5zga1) | 2:32 | 2025-06-28 |  |
@@ -2360,6 +2364,7 @@
 | [Me gustas a capela](https://open.spotify.com/track/3u0YSPKFiAazFCpk5bgTLs) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56) | [Rozando el suelo](https://open.spotify.com/album/2QHWOyGuzxsRNu6kwb1zea) | 3:33 | 2025-06-13 |  |
 | [Medusa in Fractal \- Radio Edit](https://open.spotify.com/track/5TCBnKiwraSZO6mtm9akQ7) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Orquesta del Living](https://open.spotify.com/artist/1TL57HrpRSi2cCEBhErl18) | [Al Planeta sin el Mundo \(Radio Edit\)](https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi) | 4:47 | 2025-09-25 |  |
 | [Megaloner](https://open.spotify.com/track/09tK0uxKhPE7HWNz27bYNY) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Halo On The Inside](https://open.spotify.com/album/1a5FMhDC5UFBhkirhJD72b) | 4:14 | 2025-12-04 |  |
+| [Mellow](https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [DC3 Productions LLC](https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:58 | 2026-05-19 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
 | [Mennem Kell Bébi](https://open.spotify.com/track/1KQbyZBSdVgSesQ173OcHj) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Mennem Kell Bébi](https://open.spotify.com/album/5ne2yEwe11OSOohOPTxCII) | 2:29 | 2025-06-04 |  |
@@ -3592,6 +3597,7 @@
 | [Still with you](https://open.spotify.com/track/02Q3WXt6U1wWojhvkgUpzB) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Still with you](https://open.spotify.com/album/72ltBH7CK5WNr8N4qL3ldO) | 3:59 | 2026-02-27 |  |
 | [Sto bene](https://open.spotify.com/track/19E8ChjGPz0ndKJMKIC4G2) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Sto bene](https://open.spotify.com/album/3N7sL4sTcMEnoSfTvNrIot) | 3:44 | 2025-06-06 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-21 |  |
+| [Stoning Glass Temples](https://open.spotify.com/track/3erGCvVFjZK0TNwb8NGruZ) | [MAUL](https://open.spotify.com/artist/4fg9ukckfeMoTQsXmiQZi0) | [Stoning Glass Temples](https://open.spotify.com/album/4GH8KxhYCVLBMjtUkLK8Yy) | 3:08 | 2026-05-19 |  |
 | [Stop Me](https://open.spotify.com/track/4CuXQ9mercSGlJj0n7yOfw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Stop Me](https://open.spotify.com/album/2KEXeYDi8pDJIPSDxR61b6) | 3:38 | 2025-06-05 |  |
 | [Stop What You're doing](https://open.spotify.com/track/5mcRtAZ9gOwLf2CkINf5NS) | [Patrick DeVille](https://open.spotify.com/artist/4viUY1EItvZqlpcFk8BDpy) | [Stop What You're doing](https://open.spotify.com/album/0vlImhxJOVAkfi2Z9tAIRM) | 2:30 | 2025-08-19 |  |
 | [Stories](https://open.spotify.com/track/4dbT44ru3cBCaZF3xmRHwy) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:42 | 2026-04-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
+  "description": "Bringing out the best of latest love tracks\nCover : Ramani Kalyanam",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 79234,
       "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
       "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
@@ -3676,6 +3676,32 @@
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
       "url": "https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb"
+    },
+    {
+      "album": {
+        "name": "Kallolam (From \"Ramani Kalyanam\")",
+        "url": "https://open.spotify.com/album/133vtLlwBqEMxjId30iayl"
+      },
+      "artists": [
+        {
+          "name": "Sooraj S. Kurup",
+          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Kallolam (From \"Ramani Kalyanam\")",
+      "url": "https://open.spotify.com/track/0AX9anrs3Jh16pJcpYICBE"
     },
     {
       "album": {

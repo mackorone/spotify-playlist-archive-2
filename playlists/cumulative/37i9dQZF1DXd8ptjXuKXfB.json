@@ -953,6 +953,40 @@
     },
     {
       "album": {
+        "name": "Bad Boyz",
+        "url": "https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Bad Boyz",
+      "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
+    },
+    {
+      "album": {
         "name": "baj",
         "url": "https://open.spotify.com/album/52jOvLR42wfcJw6nBJvy8y"
       },
@@ -2058,7 +2092,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 155750,
       "name": "CSEREPAD",
       "url": "https://open.spotify.com/track/3Mie7Yrg5XVRC7RLqEjL6M"
@@ -2280,6 +2314,24 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "album": {
+        "name": "Diagram",
+        "url": "https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203452,
+      "name": "Diagram",
+      "url": "https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0"
     },
     {
       "album": {
@@ -4047,6 +4099,28 @@
     },
     {
       "album": {
+        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k (deluxe)",
+        "url": "https://open.spotify.com/album/2G71qimkwmmv7ZYQ1szWOQ"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248201,
+      "name": "hamupip\u0151ke",
+      "url": "https://open.spotify.com/track/1T8FpKsW8aH6wiV8SjNXQx"
+    },
+    {
+      "album": {
         "name": "A b\u00fas barista ballad\u00e1i",
         "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
       },
@@ -4910,7 +4984,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 196235,
       "name": "J\u00e1ratlan",
       "url": "https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW"
@@ -5324,6 +5398,32 @@
       "duration_ms": 177791,
       "name": "KETT\u0150/KETT\u0150",
       "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
+    },
+    {
+      "album": {
+        "name": "KIK EZEK (Bruno)",
+        "url": "https://open.spotify.com/album/0QYLwzHmEQbT5DRJRZuBIU"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134775,
+      "name": "KIK EZEK - Bruno",
+      "url": "https://open.spotify.com/track/6bm5nVasvTr8WfnixC1Ecw"
     },
     {
       "album": {
@@ -7298,7 +7398,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 126315,
       "name": "NINTENDO - Bruno",
       "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
@@ -9846,7 +9946,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 154062,
       "name": "Sz\u00e9p Szavak",
       "url": "https://open.spotify.com/track/4wh8J6tjQlb4hMjDcs3zU8"
@@ -10092,7 +10192,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 168676,
       "name": "Tamburello",
       "url": "https://open.spotify.com/track/5MHF35bYJ4K9C01e9GwAq5"
@@ -11192,6 +11292,24 @@
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
+    },
+    {
+      "album": {
+        "name": "VRUMM",
+        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146581,
+      "name": "VRUMM",
+      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
     },
     {
       "album": {

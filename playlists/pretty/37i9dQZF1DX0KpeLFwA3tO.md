@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Held.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,479 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,480 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAVES OF FIRE](https://open.spotify.com/track/62suCfrMdxkGEg5sLnMg4A) | [Held.](https://open.spotify.com/artist/3ZOzZEPo5kM5QZlfdF6vgm) | [GREY](https://open.spotify.com/album/5mK510MU59pOQFk1OLLol8) | 2:57 |
 | 2 | [No God](https://open.spotify.com/track/1McpAvcwxctyBOqPulTmSQ) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [No God](https://open.spotify.com/album/0jRTea6wJN0q140LwWQPt5) | 2:45 |
 | 3 | [Not Bad for New Jersey](https://open.spotify.com/track/5Kszd0UjX0FESgdqQuJw3f) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Not Bad for New Jersey](https://open.spotify.com/album/19tKO12szYbQAPSm8AJjbU) | 3:35 |
-| 4 | [Rebel Kids](https://open.spotify.com/track/1szn2OMziB1WiyoexQto7n) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf), [Freddy R\. Cricien Jr.](https://open.spotify.com/artist/68cujMHEJZWm52qpPLfLyI), [Michael Justian](https://open.spotify.com/artist/2dnvqDnVMKEZNbRkRnrjCR), [Michael Gurnari](https://open.spotify.com/artist/2D0nSN1vJ4Mzg2JhsbNSfL), [Andrew Baylis](https://open.spotify.com/artist/4Za6HvgWPOX6MAjmSEIY58), [Paul Thomas Delaney](https://open.spotify.com/artist/41kQp4WYT9UcPRMXrOxNPl) | [Rebel Kids](https://open.spotify.com/album/7rF6tlDfntv1e46K3OrNgG) | 3:17 |
+| 4 | [Rebel Kids](https://open.spotify.com/track/1szn2OMziB1WiyoexQto7n) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Rebel Kids](https://open.spotify.com/album/7rF6tlDfntv1e46K3OrNgG) | 3:17 |
 | 5 | [Scatter The Ashes](https://open.spotify.com/track/2B6uPzQpYdJSCvst6Q4tZO) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Scatter The Ashes](https://open.spotify.com/album/6bMpqOuyZEJxweTRYydpp7) | 3:02 |
 | 6 | [Show the World What's Underneath](https://open.spotify.com/track/2nSSMiwJbGgTdNjQwrVkCA) | [Super Sometimes](https://open.spotify.com/artist/4zB8iT4joBTjD6VES4cLbF) | [Show The World What's Underneath](https://open.spotify.com/album/3gF2W44vFNZZFn5s8nqidn) | 2:38 |
 | 7 | [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 |

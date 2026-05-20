@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > we didn't have hockey being the only thing we care about in 2026 on our report card
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,162 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,305 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 79 | [When Did You Get So Hot?](https://open.spotify.com/track/2h6ipaJ4usnWA8WwkSrnVI) | [Mckayla Twiggs](https://open.spotify.com/artist/6cAwTZhJ1jlCrTlNGKzvAt) | [WHAT A GIRL WANTS](https://open.spotify.com/album/0MuH1exx9t8ViZW33b7Sui) | 2:57 |
 | 80 | [Math](https://open.spotify.com/track/5y40k1yP3pUMg69hVEQk0P) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Math](https://open.spotify.com/album/0uczKgTbXTaV7PUSZWMgqO) | 2:48 |
 | 81 | [Make It Out](https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1) | [Trueblood](https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG) | [Make It Out](https://open.spotify.com/album/3YW0I40pqUzTXGwcRA28aR) | 2:17 |
-| 82 | [Carrie Bradshaw](https://open.spotify.com/track/12njcAm61Bfni5axb4dEXs) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Carrie Bradshaw](https://open.spotify.com/album/6BrxaBUiVM4nPp5K6pEHsC) | 2:54 |
+| 82 | [Carrie Bradshaw](https://open.spotify.com/track/12njcAm61Bfni5axb4dEXs) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Carrie Bradshaw](https://open.spotify.com/album/6BrxaBUiVM4nPp5K6pEHsC) | 2:52 |
 | 83 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 84 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
 | 85 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |

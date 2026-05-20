@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -252,7 +270,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -354,6 +372,24 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
       "album": {
@@ -614,7 +650,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -1088,6 +1124,24 @@
       "duration_ms": 178824,
       "name": "Ridnym",
       "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
+    },
+    {
+      "album": {
+        "name": "Ridnym (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn"
+      },
+      "artists": [
+        {
+          "name": "Lel\u00e9ka",
+          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178824,
+      "name": "Ridnym - Eurovision Version",
+      "url": "https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU"
     },
     {
       "album": {
@@ -3176,7 +3230,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 204285,
       "name": "\u0421\u0438\u043b\u044c\u043d\u043e \u0421\u0438\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU"

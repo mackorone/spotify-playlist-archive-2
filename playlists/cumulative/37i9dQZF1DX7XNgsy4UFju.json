@@ -8281,6 +8281,24 @@
     },
     {
       "album": {
+        "name": "Harm's Way",
+        "url": "https://open.spotify.com/album/6Tx7ZrUkYF0Z4b7IxumLw8"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Cathedral City",
+      "url": "https://open.spotify.com/track/1XMKiF1uSGdIcS5uXyytq9"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/3YNJ3hUSZmzN03g0ImFlX3"
       },
@@ -14582,7 +14600,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"

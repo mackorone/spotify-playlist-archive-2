@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Margo Mann",
+  "description": "The best new music by independent artists and labels. Cover: lil ket, Sidney Phillips",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -15984,7 +15984,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 154059,
       "name": "Cross",
       "url": "https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z"
@@ -26495,6 +26495,24 @@
     },
     {
       "album": {
+        "name": "Forever Baby",
+        "url": "https://open.spotify.com/album/4lWzRPgCxxm2rAOiAusXLJ"
+      },
+      "artists": [
+        {
+          "name": "WILS*RISH",
+          "url": "https://open.spotify.com/artist/5cK541UGPFSPZ8TjsVDU2h"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252481,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/5s6nrEJAu6LOpaCDj6GYM1"
+    },
+    {
+      "album": {
         "name": "FOREVER YOUNG",
         "url": "https://open.spotify.com/album/071m6oeTPWcNrwZhDnCDVG"
       },
@@ -27044,7 +27062,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 176948,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/2TXibOmVCLisjCv68adacY"
@@ -46135,6 +46153,24 @@
     },
     {
       "album": {
+        "name": "Mythology of the Girls",
+        "url": "https://open.spotify.com/album/1i2DCvt05dwUj58EKBeK1N"
+      },
+      "artists": [
+        {
+          "name": "Just Janie",
+          "url": "https://open.spotify.com/artist/31PqvQpFzvCQdmVABjU2kF"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/1AeeCmex30ZqBNXj7IKSXN"
+    },
+    {
+      "album": {
         "name": "Marlborough's Gold",
         "url": "https://open.spotify.com/album/0v31kn9oQZ0ptSmom9jLkR"
       },
@@ -46558,7 +46594,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 129888,
       "name": "Me, Again",
       "url": "https://open.spotify.com/track/4l7WcYFzV0aJoSOfJZMmeT"
@@ -52010,7 +52046,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 181000,
       "name": "Nosedive",
       "url": "https://open.spotify.com/track/4vMjD5jFLXG4zguzmqvLfG"
@@ -59602,6 +59638,32 @@
       "duration_ms": 229200,
       "name": "Raincloud",
       "url": "https://open.spotify.com/track/3JZsMLgx5SFiJDZ9x7rmEZ"
+    },
+    {
+      "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/1e69rlMBqD7VkiQVrvbn5U"
+      },
+      "artists": [
+        {
+          "name": "David Grey",
+          "url": "https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC"
+        },
+        {
+          "name": "Sidney Phillips",
+          "url": "https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T"
+        },
+        {
+          "name": "lil ket",
+          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113388,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/4GsiP7CtrpFuq5KBcTBg4Y"
     },
     {
       "album": {
@@ -68716,6 +68778,24 @@
       "duration_ms": 205529,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0KtiONnwQ1jQtLnHaXBSku"
+    },
+    {
+      "album": {
+        "name": "State Line",
+        "url": "https://open.spotify.com/album/5eRmlfV4OwZong7QS2YY2a"
+      },
+      "artists": [
+        {
+          "name": "Grace de Vos",
+          "url": "https://open.spotify.com/artist/79pwEjVrNvLSElOBlFYXaz"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215683,
+      "name": "State Line",
+      "url": "https://open.spotify.com/track/5Nmcqs6F2oItBsCnrbZ8Mb"
     },
     {
       "album": {

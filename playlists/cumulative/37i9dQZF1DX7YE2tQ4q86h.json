@@ -17670,7 +17670,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 181806,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu"
@@ -32030,6 +32030,24 @@
       "duration_ms": 148920,
       "name": "You Only Love Me",
       "url": "https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2"
+    },
+    {
+      "album": {
+        "name": "You Oughta Know",
+        "url": "https://open.spotify.com/album/2O6vpPMDKkiwkyGuH0LgaZ"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: j ember
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,832 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,846 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New York](https://open.spotify.com/track/5MtUBa98qC4ukSfCCjOnX9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [New York](https://open.spotify.com/album/4CURxfHkhPWvf8MOQYrsDq) | 2:35 |
-| 2 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
-| 3 | [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 |
-| 4 | [When You Had It All](https://open.spotify.com/track/2zmLiqywhWDH17FR2T9NXA) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [When You Had It All](https://open.spotify.com/album/35jiodhbSf3z6lSZedKgs5) | 3:47 |
+| 1 | [When You Had It All](https://open.spotify.com/track/2zmLiqywhWDH17FR2T9NXA) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [When You Had It All](https://open.spotify.com/album/35jiodhbSf3z6lSZedKgs5) | 3:47 |
+| 2 | [New York](https://open.spotify.com/track/5MtUBa98qC4ukSfCCjOnX9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [New York](https://open.spotify.com/album/4CURxfHkhPWvf8MOQYrsDq) | 2:35 |
+| 3 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 4 | [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 |
 | 5 | [CHANGE MY LIFE](https://open.spotify.com/track/1t1Pll5MMbxVu3unEy1pQy) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [CHANGE MY LIFE](https://open.spotify.com/album/0K7c9selPcIc31lxQ2jPtt) | 1:03 |
 | 6 | [stone scultped heart](https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [stone scultped heart](https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX) | 2:56 |
 | 7 | [Tiroteo](https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Tiroteo](https://open.spotify.com/album/0mNAQrOqBedUsrgonzxGmp) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 74 | [Alone](https://open.spotify.com/track/5yCrlVb3ardMNQzDkXARC8) | [Ephraim](https://open.spotify.com/artist/4h91MGrcFJmPphqyo17Rh6) | [Alone](https://open.spotify.com/album/4jJbffKcrNxEqpruOmOKcJ) | 3:07 |
 | 75 | [Solitude](https://open.spotify.com/track/7MKXZKmaIGqfF6L2SX5yXY) | [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Solitude](https://open.spotify.com/album/6B8ZgH3YfLU0FqC8MjQDVO) | 2:37 |
 
-Snapshot ID: `AAAAAAmmQ3s/sUOyMTsqUDeMmGg0JLma`
+Snapshot ID: `AAAAACqIofMjCcvuuHajCz1EbQU6amro`

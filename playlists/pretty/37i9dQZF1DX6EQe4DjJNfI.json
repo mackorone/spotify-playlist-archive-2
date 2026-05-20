@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187535,
+  "num_followers": 187560,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 254791,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
+        "name": "Se For Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
+      },
+      "artists": [
+        {
+          "name": "GAEL",
+          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
+        },
+        {
+          "name": "EVY",
+          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Se For Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1291,22 +1311,6 @@
     {
       "added_at": "2026-05-15 14:17:47",
       "album": {
-        "name": "\u00c0 Margem do Amor",
-        "url": "https://open.spotify.com/album/1JS0Pfj2HviObfK7sx0Xa6"
-      },
-      "artists": [
-        {
-          "name": "Rodd",
-          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u00c0 Margem do Amor",
-      "url": "https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
         "name": "Tenho Tanto de Voc\u00ea em Mim",
         "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
       },
@@ -1319,6 +1323,22 @@
       "duration_ms": 168053,
       "name": "Tenho Tanto de Voc\u00ea em Mim",
       "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
+    },
+    {
+      "added_at": "2026-05-15 14:17:47",
+      "album": {
+        "name": "\u00c0 Margem do Amor",
+        "url": "https://open.spotify.com/album/1JS0Pfj2HviObfK7sx0Xa6"
+      },
+      "artists": [
+        {
+          "name": "Rodd",
+          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u00c0 Margem do Amor",
+      "url": "https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n"
     },
     {
       "added_at": "2026-05-15 14:17:47",
@@ -1359,26 +1379,6 @@
       "duration_ms": 169384,
       "name": "pode me gravar :)",
       "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
-    },
-    {
-      "added_at": "2026-05-15 14:17:47",
-      "album": {
-        "name": "Se For Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
-      },
-      "artists": [
-        {
-          "name": "GAEL",
-          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
-        },
-        {
-          "name": "EVY",
-          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Se For Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
     },
     {
       "added_at": "2026-05-15 14:17:47",

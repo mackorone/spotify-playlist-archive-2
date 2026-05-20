@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Celebrating 40 years of Born in the USA\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,486 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,541 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 91 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 |
 | 92 | [Lonesome Loser \- Remastered 2010](https://open.spotify.com/track/3OZ40egQbNWeTe0BnR2QKa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [First Under The Wire \(Remastered 2010\)](https://open.spotify.com/album/6vCT1BZLicHHNWc0McAWb2) | 3:57 |
 | 93 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 94 | [Monkberry Moon Delight \- Remastered 2012](https://open.spotify.com/track/7afDukwRRDs0rmg3leQ8ti) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 5:24 |
+| 94 | [Monkberry Moon Delight \- Remastered 2012](https://open.spotify.com/track/7afDukwRRDs0rmg3leQ8ti) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [RAM \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 5:24 |
 | 95 | [Long Way Home](https://open.spotify.com/track/0XaOUPgRpgSQkDZwh6bnZR) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Orphans](https://open.spotify.com/album/0eJrLBHOQdQ6zDHCsDLOwm) | 3:10 |
 | 96 | [Statesboro Blues](https://open.spotify.com/track/3NMUSNds2Xuiim7lXiu8s7) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Fillmore Concerts](https://open.spotify.com/album/6yFLnehFuHxBUcjPuYfgDm) | 4:17 |
 | 97 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:18 |

@@ -2,7 +2,7 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: The Paradise
+> Trending songs from Tollywood! <br/>Cover: Peddi
 
 336 songs - 22 hr 17 min
 

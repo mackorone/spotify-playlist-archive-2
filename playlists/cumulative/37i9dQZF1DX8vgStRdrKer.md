@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-779 songs - 2 day 19 hr 7 min
+780 songs - 2 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Amazing](https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Debbiie](https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9) | [Amazing](https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO) | 2:56 | 2025-07-04 | 2025-08-03 |
 | [Amazing Grace](https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Amazing Grace](https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb) | 2:56 | 2024-02-02 | 2025-05-09 |
 | [Amazing Grace](https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Amazing Grace](https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5) | 2:13 | 2025-01-31 | 2025-03-14 |
+| [Amazing Grace](https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Amazing Grace](https://open.spotify.com/album/2nMsv9V69rHdbNINLJuPWw) | 9:10 | 2026-05-15 |  |
 | [Amen](https://open.spotify.com/track/00B3DY0rP36nNeUOLXK9ib) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Amen](https://open.spotify.com/album/3aw2pwC0ISCLLNiXDhULFe) | 3:14 | 2024-08-09 | 2025-05-30 |
 | [Amen](https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [NUZ VOJ](https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O), [Jumbo](https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN) | [Indumiso yaseStezi](https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd) | 5:19 | 2024-03-08 | 2024-04-05 |
 | [Amen](https://open.spotify.com/track/75dIEH8IaXunPeoGYAmQCh) | [Verchi](https://open.spotify.com/artist/1UWuKmI4QNLBfPTJeVVqU2) | [Amen](https://open.spotify.com/album/5u6XdPQwyi1PXG5Vb4XTRT) | 2:40 | 2024-05-03 | 2025-06-20 |
@@ -223,7 +224,7 @@
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2023-09-15 | 2024-03-16 |
 | [Firm Foundation medley](https://open.spotify.com/track/1aQqYxStJRbtFJZ9wW4o7j) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Firm Foundation medley](https://open.spotify.com/album/4ADefa2fOOyFY7Imu0scBQ) | 10:25 | 2024-11-29 | 2025-06-20 |
 | [Flow](https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Flow](https://open.spotify.com/album/0hdkyEne6WIVmQRKXtQ0Kc) | 2:29 | 2024-11-01 | 2024-11-26 |
-| [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 | 2025-07-25 |  |
+| [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 | 2025-07-25 | 2026-05-20 |
 | [FOLLOW FOREVER](https://open.spotify.com/track/6UUZGmsJ3MWJ2wT49eIvPH) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [FOLLOW FOREVER](https://open.spotify.com/album/5wCDBz912y4QcstCd1ljYr) | 9:44 | 2025-10-03 | 2025-10-29 |
 | [Follow the Lamb](https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Follow the Lamb](https://open.spotify.com/album/0rvQFF3rxjydtHBZJWEBhn) | 5:24 | 2025-08-15 | 2026-04-07 |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2023-12-01 | 2024-03-16 |

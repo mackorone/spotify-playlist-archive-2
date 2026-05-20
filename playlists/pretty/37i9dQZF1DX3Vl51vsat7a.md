@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,771 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,770 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
-| 2 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/27lTfDEF9QvwM5Cek5tJ5z), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
+| 2 | [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/4zvd6C2B4NUXCWrr3652Bf), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 |
 | 3 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 4 | [dein buhmann !!!](https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:12 |
 | 5 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 |

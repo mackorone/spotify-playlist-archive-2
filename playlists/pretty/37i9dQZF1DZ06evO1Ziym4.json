@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1577254,
+  "num_followers": 1577362,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADRt7n1NytRAzBdc/JyoK5T",
+  "snapshot_id": "agpWgAAAAABtgnBNyX1Ocr2JU+6OR/SV",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perhaps",
-        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 228406,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 286346,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/2iFkNf2prxUIIGEOEK7yd1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G N' R Lies",
-        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Mama Kin - Live Version",
-      "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 400693,
       "name": "There Was A Time",
       "url": "https://open.spotify.com/track/2PrmCyoClC4ulLJR42z74O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Mama Kin - Live Version",
+      "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Nice Boys - Live",
-      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 374186,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Nice Boys - Live",
+      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
     },
     {
       "added_at": null,

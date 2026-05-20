@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma",
-  "num_followers": 361722,
+  "num_followers": 361707,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,34 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Oitava Maravilha",
+        "url": "https://open.spotify.com/album/5FwTt373ypJJDubbvjkgtz"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/78F05Jcd631ZvTrXWiPRsD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "Fred Aquino",
+          "url": "https://open.spotify.com/artist/1lKCJoxjG5zCdbHLSW0t2N"
+        },
+        {
+          "name": "DZ",
+          "url": "https://open.spotify.com/artist/4Bw466mKxL1kYMjPVsUI2v"
+        }
+      ],
+      "duration_ms": 160433,
+      "name": "Oitava Maravilha",
+      "url": "https://open.spotify.com/track/6V4BwX49ZsEzuDhtZ4bSVx"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Sexta-feira",
         "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
       },
@@ -483,34 +511,6 @@
       "duration_ms": 152232,
       "name": "Os Mo\u00e7os da R\u00e1dio",
       "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Oitava Maravilha",
-        "url": "https://open.spotify.com/album/5FwTt373ypJJDubbvjkgtz"
-      },
-      "artists": [
-        {
-          "name": "Romeo",
-          "url": "https://open.spotify.com/artist/78F05Jcd631ZvTrXWiPRsD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        },
-        {
-          "name": "Fred Aquino",
-          "url": "https://open.spotify.com/artist/1lKCJoxjG5zCdbHLSW0t2N"
-        },
-        {
-          "name": "DZ",
-          "url": "https://open.spotify.com/artist/4Bw466mKxL1kYMjPVsUI2v"
-        }
-      ],
-      "duration_ms": 160433,
-      "name": "Oitava Maravilha",
-      "url": "https://open.spotify.com/track/6V4BwX49ZsEzuDhtZ4bSVx"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Descomplica",
         "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 212500,
       "name": "Descomplica",
       "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "Balelo",
         "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 170234,
       "name": "Balelo",
       "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "Ver\u00e3071",
+        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Sentir Seu Calor",
+      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -779,18 +795,18 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Ver\u00e3071",
-        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
       "artists": [
         {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Sentir Seu Calor",
-      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -807,22 +823,6 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Ressaca da Saudade",
+        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
+      },
+      "artists": [
+        {
+          "name": "Aram\u00e0",
+          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
+        },
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 172395,
+      "name": "Ressaca da Saudade",
+      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Me Deixa Partir",
         "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
-      },
-      "artists": [
-        {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Quero Sim, Quero N\u00e3o",
-        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
-      },
-      "artists": [
-        {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Quero Sim, Quero N\u00e3o",
-      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "Quero Sim, Quero N\u00e3o",
+        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
+      },
+      "artists": [
+        {
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 138282,
+      "name": "Quero Sim, Quero N\u00e3o",
+      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Baunilha",
+        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "duration_ms": 189054,
+      "name": "Baunilha",
+      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Aventura",
         "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Baunilha",
-        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
-      },
-      "artists": [
-        {
-          "name": "Sofia Oliveira",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Baunilha",
-      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Sem foto, sem v\u00eddeo",
         "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
     },
     {
       "added_at": "2026-05-15 03:00:45",

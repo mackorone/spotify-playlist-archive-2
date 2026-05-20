@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,810 likes - 50 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,836 likes - 50 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 9 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
 | 10 | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/track/4vWoTjRTSwVBhfp5kbDAXg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Natalie Di Luccio](https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/album/2D4YarggnCqBeCRLHVcjW3) | 1:26 |
 | 11 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
-| 12 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
+| 12 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
 | 13 | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/track/2dbxZs7mhMcynrX3xsBuGH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/album/77tqNdJTnM5ilKPJ4V8GeI) | 3:22 |
 | 14 | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/track/5XPrRgrHIWUxxRa6fH2Z7Y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Harsha Darivemula](https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk) | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/album/6GaUSu3Nt2OSXNyoXGiamF) | 1:53 |
 | 15 | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg) | 2:42 |
-| 16 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
+| 16 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
 | 17 | [Sita Ramam Theme \(Telugu\)](https://open.spotify.com/track/1YxoeF51bofo4ODO9XQkTV) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:34 |
 | 18 | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43) | 1:57 |
 | 19 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Theme Of Gharshana](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
 | 50 | [Leader Instrumental](https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Leader](https://open.spotify.com/album/6QcYjqogMZV4b1SIBAGdMk) | 3:24 |
 
-Snapshot ID: `AAAAAK2gwR0CJoAF3weFQUerOKo6QGgm`
+Snapshot ID: `AAAAABn7CyftFtN8hJSdkcwxL2APr7nr`

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 다린\(Darin\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\(Park Chan Young\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-678 songs - 1 day 15 hr 49 min
+679 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Color of the day](https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [Poems 25](https://open.spotify.com/album/33nIFtG0RQDBdXjsQ9X73G) | 3:30 | 2025-04-10 | 2025-05-15 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 | 2024-08-31 |
+| [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 |  |
 | [Come With Me](https://open.spotify.com/track/61TR2Po5oS5cd5G0EUZ15n) | [INTHEPACK](https://open.spotify.com/artist/2jJa2tYxYmNtGYlxOqI0Il) | [Come With Me](https://open.spotify.com/album/5YV0DJWurTmtcKASwb6WH2) | 3:31 | 2022-03-31 | 2022-04-19 |
 | [Confession](https://open.spotify.com/track/1eOYrl4zBoeluCngkJRSmi) | [YeoDongSaeng](https://open.spotify.com/artist/7qwYeaMsqrO3TFFHvwhEtg) | [Confession](https://open.spotify.com/album/0uJ4HZnqJCiWNaHgA23ZQh) | 3:53 | 2022-03-31 | 2022-04-07 |
 | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/track/5cVbfYMOBF7Ktdisoa9wxV) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/album/2GVbStXkCtIeOhQ1zfjpWw) | 4:12 | 2022-03-31 | 2022-04-21 |
@@ -140,7 +141,7 @@
 | [Drunken](https://open.spotify.com/track/3GcEMGUEQrlqmaU05X0Mdh) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 5:25 | 2022-04-12 | 2022-04-18 |
 | [Early summer](https://open.spotify.com/track/3VOwTYieX61YALed6ovW5j) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg), [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Early summer \(zitten X 406 project\)](https://open.spotify.com/album/3Jfki2vkoeylcAoics5Ejp) | 4:58 | 2021-12-10 | 2022-07-17 |
 | [Easy](https://open.spotify.com/track/54WyhCKBQAgubhuobEliX2) | [SUZANNE](https://open.spotify.com/artist/0NMJPa0Btok67TyE8Vxngc) | [The Lonely Witch \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/2tQiJLbffDCBzNZWluNqNA) | 3:40 | 2022-03-31 | 2022-04-18 |
-| [Echo](https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Echo](https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ) | 3:11 | 2026-05-15 |  |
+| [Echo](https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Echo](https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ) | 3:11 | 2026-05-15 | 2026-05-20 |
 | [Eiffel Tower effect](https://open.spotify.com/track/5dZNgQob4V5O1MPMahNKqB) | [Today's hot song](https://open.spotify.com/artist/11qpyBQPfAaKnNQY43Mj0O) | [Eiffel Tower effect](https://open.spotify.com/album/5Ee0f9SUslVEGLld3PqIO0) | 3:14 | 2022-03-31 | 2022-04-20 |
 | [EMPTY ROAD](https://open.spotify.com/track/22ujj7oolbVcxbkXE1wZiQ) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg) | 3:29 | 2022-01-13 | 2022-05-21 |
 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 | 2026-01-26 | 2026-03-27 |

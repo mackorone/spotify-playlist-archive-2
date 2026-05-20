@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Maya, Rol3ert",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: kurayamisaka",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 145994,
       "name": "BLUESTAR",
       "url": "https://open.spotify.com/track/4wp04eO5zhWCmrUazWVg4k"
@@ -7899,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/24fwTJLvM5fboqkGlRD1qD"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3pidjOxueMURQLniVgVyYV"
+    },
+    {
+      "album": {
         "name": "FUGITIVE",
         "url": "https://open.spotify.com/album/0tRDfwMq4Nw3NGqVlhbW0j"
       },
@@ -10935,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "Never Skip Me",
+        "url": "https://open.spotify.com/album/5RebN55lkz4RkrujrBEcUg"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135719,
+      "name": "jagger freestyle",
+      "url": "https://open.spotify.com/track/5C9mZ8XdaWzigub4OfflJM"
+    },
+    {
+      "album": {
         "name": "Jamlady",
         "url": "https://open.spotify.com/album/7EJv21wZ5OMjiGhYqwzqdT"
       },
@@ -13642,7 +13678,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 238250,
       "name": "metro",
       "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
@@ -13682,7 +13718,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 185060,
       "name": "MICHAEL KORS (feat. Sad Kid Yaz)",
       "url": "https://open.spotify.com/track/3D6j8lWfYdw91qnzebntk8"
@@ -18547,6 +18583,24 @@
     },
     {
       "album": {
+        "name": "sagittarius",
+        "url": "https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270893,
+      "name": "sagittarius",
+      "url": "https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1"
+    },
+    {
+      "album": {
         "name": "Saiai No Yukue.",
         "url": "https://open.spotify.com/album/7boDE5vcCHaPqBcibwH8f2"
       },
@@ -22518,7 +22572,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 170333,
       "name": "toma",
       "url": "https://open.spotify.com/track/7I4PZXn7wL83PcgolDq1o9"
@@ -26112,7 +26166,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 202881,
       "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
@@ -27788,7 +27842,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 173250,
       "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u"
@@ -39593,6 +39647,24 @@
     },
     {
       "album": {
+        "name": "\u771f\u590f\u306e\u30d1\u30f3\u30af\u30ea\u30a2\u30b9",
+        "url": "https://open.spotify.com/album/39Mam6CVldJMYBypUpZ9n6"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214158,
+      "name": "\u771f\u590f\u306e\u30d1\u30f3\u30af\u30ea\u30a2\u30b9",
+      "url": "https://open.spotify.com/track/5KuPSLOKN4L2VNCghXmkPS"
+    },
+    {
+      "album": {
         "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
         "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
@@ -40206,6 +40278,24 @@
       "duration_ms": 193319,
       "name": "\u7dcb\u5bd2\u685c",
       "url": "https://open.spotify.com/track/5sULK6Cv3JPYLNPhqvgtVh"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u4eba\u5c40",
+        "url": "https://open.spotify.com/album/1Cjxr1EAF2OPZGmESsMNXt"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "\u7f8e\u4eba\u5c40",
+      "url": "https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB"
     },
     {
       "album": {

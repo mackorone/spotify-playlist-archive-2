@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "I Want To Break Free",
+      "url": "https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg"
+    },
+    {
+      "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 258013,
       "name": "I Want To Break Free - Single Remix",
       "url": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 62 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 41 | [Sweet](https://open.spotify.com/track/1GCmGQODni2FllwCPJYZJe) | [Solqlap Budapest](https://open.spotify.com/artist/0EMYi5xYP5DMimBJ9WC8Qk), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Sweet](https://open.spotify.com/album/6Ym9jn70y9yDvjBW29n0Bb) | 4:21 |
 | 42 | [Before The Night](https://open.spotify.com/track/4uR2uEDcjHowwNVJx36e46) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 2:49 |
 | 43 | [Confidence](https://open.spotify.com/track/7dLtRIwIO1rh1j6Vf7EjaK) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 4:40 |
-| 44 | [Her \(Emmavie Remix\)](https://open.spotify.com/track/1uq9GATGbcsRS28zeIV6sO) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Nature of The Beast: Unleashed](https://open.spotify.com/album/0Y53ymXC8c9hKU68BUQS00) | 3:25 |
-| 45 | [Slow It Down](https://open.spotify.com/track/4RJQjRvD2j50NNUvCVWGJy) | [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Scienze](https://open.spotify.com/artist/1xEKfd3N7hNOs61F4Yr65R) | [Elevate \(Deluxe\)](https://open.spotify.com/album/5hBfSzEWChJpF7bKfEqAhC) | 4:59 |
+| 44 | [Slow It Down](https://open.spotify.com/track/4RJQjRvD2j50NNUvCVWGJy) | [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Scienze](https://open.spotify.com/artist/1xEKfd3N7hNOs61F4Yr65R) | [Elevate \(Deluxe\)](https://open.spotify.com/album/5hBfSzEWChJpF7bKfEqAhC) | 4:59 |
+| 45 | [Her \(Emmavie Remix\)](https://open.spotify.com/track/1uq9GATGbcsRS28zeIV6sO) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Nature of The Beast: Unleashed](https://open.spotify.com/album/0Y53ymXC8c9hKU68BUQS00) | 3:25 |
 | 46 | [Don't Care](https://open.spotify.com/track/2k7ZxF2oGnsTncXgEG7xBP) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Don't Care](https://open.spotify.com/album/5wkTmpI8c8mFMhkWgaopY3) | 3:54 |
 | 47 | [Fairy Tale](https://open.spotify.com/track/0Yo4J5h1OKwE4dh7vYk5wN) | [Solqlap Budapest](https://open.spotify.com/artist/0EMYi5xYP5DMimBJ9WC8Qk), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Fairy Tale](https://open.spotify.com/album/63kkPYotO00oybHNMr1Lqy) | 4:19 |
 | 48 | [Unknown](https://open.spotify.com/track/3EnwL8SWwlm4oZGXRdwEBf) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Toronto \(Vol\. 1\)](https://open.spotify.com/album/1sevr0OWWUDemNJfwbTo2u) | 3:33 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 61 | [Porridge](https://open.spotify.com/track/1VUmV4rdl3xvgWWNAxj4BL) | [BR!DGE](https://open.spotify.com/artist/66Bbc1SY66jhHPGL6Bxi3M) | [Porridge](https://open.spotify.com/album/2eT03IF6xJ0468g7CM3yc7) | 2:06 |
 | 62 | [In Charge](https://open.spotify.com/track/2Le8ZZfiAX6qBCKC8LJc6u) | [Kelly Nova](https://open.spotify.com/artist/5b6PgL3qbqScpDZ2qM8aQr) | [Kelly Nova](https://open.spotify.com/album/6TLzKBLO1nHKUqq9dOeyXt) | 2:38 |
 
-Snapshot ID: `AcR3GAAAAABQL63udrz3c9jW1ajGvRWL`
+Snapshot ID: `AcR8fAAAAAABjuVJi63D1iv2h0ctEIW+`

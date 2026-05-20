@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 481337,
+  "num_followers": 481354,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Marina Rock Lima",
-        "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "\u00c0 Francesa",
-      "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Vamos Pro Mundo",
         "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 209026,
       "name": "Na Cad\u00eancia Do Samba",
       "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Marina Rock Lima",
+        "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "111 1",
         "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 157928,
       "name": "Amor de Que",
       "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
     },
     {
       "added_at": "2021-11-26 03:18:52",

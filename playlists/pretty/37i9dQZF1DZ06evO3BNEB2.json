@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40455,
+  "num_followers": 40457,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAu6bTCYmmJ2El01bVe8Knn",
+  "snapshot_id": "agpWgAAAAACHHe9WgKhQ9TXbEFl9Bdcw",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Sam Dew",
-          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "LoveHate Thing (feat. Sam Dew)",
-      "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beauty of Becoming",
         "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 185461,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "LoveHate Thing (feat. Sam Dew)",
+      "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
       "artists": [
         {
@@ -336,13 +336,13 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
+      "duration_ms": 395950,
+      "name": "The Matrimony (feat. Usher)",
+      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
       "artists": [
         {
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 395950,
-      "name": "The Matrimony (feat. Usher)",
-      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,

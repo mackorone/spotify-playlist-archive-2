@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 239680,
+  "num_followers": 239755,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZ6KAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZ/ZKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "F\u00f8r Vi G\u00e5r Hjem",
-        "url": "https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Torpegaard Lund",
-          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
-      "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Bag Gardinerne S1+S2",
         "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
@@ -65,23 +49,23 @@
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq"
       },
       "artists": [
         {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
         }
       ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
+      "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Livsforladt",
         "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
@@ -97,7 +81,7 @@
       "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Lige Her, Lige Nu",
         "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
@@ -117,7 +101,39 @@
       "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Ham Med Guitaren",
         "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Vil du noget?",
         "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
@@ -153,59 +169,7 @@
       "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 146335,
-      "name": "Stil permanent",
-      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 212472,
-      "name": "Stolt (feat. Lamin)",
-      "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -221,43 +185,7 @@
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Flue i et spind",
-      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
-        "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "Birthe Kj\u00e6r",
-          "url": "https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5"
-        }
-      ],
-      "duration_ms": 145620,
-      "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
-      "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -277,7 +205,59 @@
       "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 212472,
+      "name": "Stolt (feat. Lamin)",
+      "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Flue i et spind",
+      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Bag Gardinerne S1+S2",
         "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
@@ -297,39 +277,27 @@
       "url": "https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+        "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Birthe Kj\u00e6r",
+          "url": "https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 145620,
+      "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+      "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Louisiana",
         "url": "https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p"
@@ -345,7 +313,23 @@
       "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -356,12 +340,96 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 307681,
-      "name": "Make Them Cry",
-      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "L\u00e5st Inde",
+        "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "L\u00e5st Inde",
+      "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 167167,
+      "name": "Hvor blev tiden af",
+      "url": "https://open.spotify.com/track/44FObQsVcs4c2Jg2fUNKaN"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "2 Hard 4 The Radio",
+      "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -381,7 +449,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -413,71 +481,7 @@
       "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245837,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "L\u00e5st Inde",
-        "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 178347,
-      "name": "L\u00e5st Inde",
-      "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "H\u00f8jt At Flyve Dybt At Falde",
         "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
@@ -497,39 +501,7 @@
       "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "2 Hard 4 The Radio",
-      "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Whisper My Name",
-      "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -545,63 +517,39 @@
       "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
-        "name": "Godaften",
-        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
       "artists": [
         {
-          "name": "Anton Westerlin",
-          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Blodigt (feat. Annika)",
-      "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
+      "duration_ms": 222580,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 167167,
-      "name": "Hvor blev tiden af",
-      "url": "https://open.spotify.com/track/44FObQsVcs4c2Jg2fUNKaN"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -625,7 +573,23 @@
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 307681,
+      "name": "Make Them Cry",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -645,7 +609,27 @@
       "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Godaften",
+        "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Blodigt (feat. Annika)",
+      "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -661,39 +645,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 188722,
-      "name": "Shabang",
-      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -709,7 +661,23 @@
       "url": "https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -720,12 +688,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 189217,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "Jaloux (live)",
         "url": "https://open.spotify.com/album/7LD1FF6Uk9L9fgMc1UAhD6"
@@ -741,75 +709,23 @@
       "url": "https://open.spotify.com/track/4ElNcA0yxtjZ62RO5VcWgT"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 195678,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Bag Gardinerne S1+S2",
-        "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
-      },
-      "artists": [
-        {
-          "name": "Anton Westerlin",
-          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
-        },
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 121124,
-      "name": "Minder Hos Andre Freestyle",
-      "url": "https://open.spotify.com/track/10rGfrBRxEtiJmVkq3P9Cr"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Helmig Herfra",
-        "url": "https://open.spotify.com/album/0KSyg64KuaWQTqyqLVG9or"
-      },
-      "artists": [
-        {
-          "name": "Thomas Helmig",
-          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Malaga",
-      "url": "https://open.spotify.com/track/4cwipyLLmLtqsOhFP8EkCS"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -829,7 +745,23 @@
       "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -840,12 +772,80 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 301950,
-      "name": "Make Them Pay",
-      "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+      "duration_ms": 195678,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Bag Gardinerne S1+S2",
+        "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 121124,
+      "name": "Minder Hos Andre Freestyle",
+      "url": "https://open.spotify.com/track/10rGfrBRxEtiJmVkq3P9Cr"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "D\u00e9t Der Udenfor",
+        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "D\u00e9t Der Udenfor",
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Lige Her, Lige Nu",
+        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/6duCMFaYET6WicI5rTD9jz"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 189217,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -861,27 +861,7 @@
       "url": "https://open.spotify.com/track/6fUqvhOewRM0pa9WmGMFOg"
     },
     {
-      "added_at": "2026-05-18 14:03:03",
-      "album": {
-        "name": "Michelle",
-        "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
-      },
-      "artists": [
-        {
-          "name": "Noam Bettan",
-          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
-    },
-    {
-      "added_at": "2026-05-18 14:03:03",
+      "added_at": "2026-05-19 13:54:36",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -892,9 +872,25 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+      "duration_ms": 301950,
+      "name": "Make Them Pay",
+      "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+    },
+    {
+      "added_at": "2026-05-19 13:54:36",
+      "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 157097,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
     }
   ],
   "unique_name": "Top 50 - Denmark",

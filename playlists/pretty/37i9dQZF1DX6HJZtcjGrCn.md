@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Filipe Karlsson, Mike El Nite
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,295 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,292 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 13 | [Odore dell'Asfalto](https://open.spotify.com/track/1pQitt4nZhUwvH6Dw2CjwA) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Odore dell'Asfalto](https://open.spotify.com/album/0C27qZXpYQYPQ9RQMF0lY0) | 3:42 |
 | 14 | [No Matter Where I Go](https://open.spotify.com/track/67Y1BB1fjJ17mqztkojiQJ) | [Gui Aly](https://open.spotify.com/artist/6AZ6ilT4AYnj4bXMUhkbJa) | [No Matter Where I Go](https://open.spotify.com/album/7J29S97lK0bNwj3EwJBDR6) | 2:43 |
 | 15 | [Pretend](https://open.spotify.com/track/4QE6hQUEpnH4fPuOlUPK42) | [Carl Karlsson](https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ) | [Pretend](https://open.spotify.com/album/3E9korvs1qMdIQ9AX6R6zb) | 3:49 |
-| 16 | [Deixo O Número Aqui](https://open.spotify.com/track/7KzLBexOVgg6eIVsVMe2k3) | [Gustavo Reinas](https://open.spotify.com/artist/1VoHN6ujtwrR8qbiYqijo8) | [Deixo O Número Aqui](https://open.spotify.com/album/647QHegxrIETljFMZsroyh) | 3:02 |
+| 16 | [DEIXO O NÚMERO AQUI](https://open.spotify.com/track/7KzLBexOVgg6eIVsVMe2k3) | [Gustavo Reinas](https://open.spotify.com/artist/1VoHN6ujtwrR8qbiYqijo8) | [DEIXO O NÚMERO AQUI](https://open.spotify.com/album/647QHegxrIETljFMZsroyh) | 3:02 |
 | 17 | [Fumo](https://open.spotify.com/track/6WvB4vTyN4GMI4BL4xVmpI) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ) | [Fumo](https://open.spotify.com/album/4lfKZr9jd1KQMTbv31Td8F) | 2:59 |
 | 18 | [Estar Perto](https://open.spotify.com/track/0ARMjuTabx3a7R6FpcljEA) | [Matilde Jacob](https://open.spotify.com/artist/1h7kvRfDWr2EcsNdan58Zo) | [Viagem](https://open.spotify.com/album/7KQiQqyQfdy89aRP9vbyKu) | 2:29 |
 | 19 | [People of the Moon](https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 39 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 40 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 41 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 |
-| 42 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
-| 43 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
+| 42 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
+| 43 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
 | 44 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 45 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
 | 46 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |

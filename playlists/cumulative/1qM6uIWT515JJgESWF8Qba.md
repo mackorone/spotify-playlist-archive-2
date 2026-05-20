@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-235 songs - 14 hr 40 min
+237 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2026-02-09 | 2026-05-19 |
 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 | 2026-02-09 | 2026-05-19 |
 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 | 2026-03-31 | 2026-05-19 |
+| [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-05-19 |  |
 | [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 | 2026-02-15 | 2026-03-21 |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |
 | [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 | 2026-03-27 |  |
@@ -130,6 +131,7 @@
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 | 2025-12-28 |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 | 2026-01-21 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2026-02-09 | 2026-05-19 |
+| [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-05-19 |  |
 | [Libertad de Expresión](https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Libertad de Expresión](https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0) | 5:40 | 2026-04-16 | 2026-05-19 |
 | [Libre](https://open.spotify.com/track/4D03zGZazrn4H4eJhkV2pb) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Libre](https://open.spotify.com/album/4LUp5e5P4XxVkkENXdL7vE) | 3:22 | 2026-01-07 | 2026-02-02 |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 | 2025-12-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,573 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,660 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 12 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 13 | [Vekhi Jaava](https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [Vekhi Jaava](https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21) | 2:01 |
 | 14 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |
-| 15 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
-| 16 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
+| 15 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
+| 16 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
 | 17 | [nos keremos tanto](https://open.spotify.com/track/3DrkXhBUf9p5vftXG0E1mS) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:33 |
 | 18 | [Tiada Pengganti](https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Tiada Pengganti](https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA) | 3:08 |
 | 19 | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS) | 2:54 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 35 | [La Movida](https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [La Movida](https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC) | 2:40 |
 | 36 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
 | 37 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
-| 38 | [Inocente na Cama \- Ao Vivo](https://open.spotify.com/track/55ND5a95XGfsTl1zM3c4BU) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:41 |
-| 39 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
+| 38 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
+| 39 | [Inocente na Cama \- Ao Vivo](https://open.spotify.com/track/55ND5a95XGfsTl1zM3c4BU) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:41 |
 
 Snapshot ID: `AAAAADikY4a9GJfA/WLRzTw73s6N8/gA`

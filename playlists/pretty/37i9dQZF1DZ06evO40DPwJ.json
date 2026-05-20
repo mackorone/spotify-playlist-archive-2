@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18995,
+  "num_followers": 19003,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAVMAvk+xxX3P+qQeXvSFTD",
+  "snapshot_id": "agpWgAAAAABWecWUxw92w93Q9/4P+mST",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rokstarr",
-        "url": "https://open.spotify.com/album/0ubDm7S0h9Yzt0CvwmOhGf"
+        "name": "Row The Body (feat. French Montana)",
+        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
       "artists": [
         {
@@ -432,13 +432,13 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         },
         {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 213320,
-      "name": "Come On Girl",
-      "url": "https://open.spotify.com/track/4jlySewVFl772WGuXXqzsp"
+      "duration_ms": 237500,
+      "name": "Row The Body (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Row The Body (feat. French Montana)",
-        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
+        "name": "Rokstarr",
+        "url": "https://open.spotify.com/album/0ubDm7S0h9Yzt0CvwmOhGf"
       },
       "artists": [
         {
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 237500,
-      "name": "Row The Body (feat. French Montana)",
-      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
+      "duration_ms": 213320,
+      "name": "Come On Girl",
+      "url": "https://open.spotify.com/track/4jlySewVFl772WGuXXqzsp"
     },
     {
       "added_at": null,

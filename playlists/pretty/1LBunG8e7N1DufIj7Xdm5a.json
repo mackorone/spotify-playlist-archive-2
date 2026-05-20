@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIp8zkN3J4siM0Sot1Ybcj8onQ6wfB",
+  "snapshot_id": "AAAIr8monxLE0vyUgUT+g2Fw7z6HZ0LK",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -72675,6 +72675,106 @@
       "duration_ms": 179744,
       "name": "Maldito cobarde",
       "url": "https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3"
+    },
+    {
+      "added_at": "2026-05-19 11:02:37",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/2224uV3uN96Tp9QATYxmUs"
+      },
+      "artists": [
+        {
+          "name": "The Spent Priests",
+          "url": "https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV"
+        }
+      ],
+      "duration_ms": 215585,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GuocXu1iB2pIipx6UKrrr"
+    },
+    {
+      "added_at": "2026-05-19 19:32:18",
+      "album": {
+        "name": "demora",
+        "url": "https://open.spotify.com/album/2jUjdGJuBub7mQNXRVWcCD"
+      },
+      "artists": [
+        {
+          "name": "Last B\u00f8lt Ceremony",
+          "url": "https://open.spotify.com/artist/2IajsdZ6Wn4GXBo2f6CDtd"
+        }
+      ],
+      "duration_ms": 363000,
+      "name": "demora",
+      "url": "https://open.spotify.com/track/4ZVuc0qIQy0o9xWMsrfK7Y"
+    },
+    {
+      "added_at": "2026-05-19 19:48:12",
+      "album": {
+        "name": "Stoning Glass Temples",
+        "url": "https://open.spotify.com/album/4GH8KxhYCVLBMjtUkLK8Yy"
+      },
+      "artists": [
+        {
+          "name": "MAUL",
+          "url": "https://open.spotify.com/artist/4fg9ukckfeMoTQsXmiQZi0"
+        }
+      ],
+      "duration_ms": 188241,
+      "name": "Stoning Glass Temples",
+      "url": "https://open.spotify.com/track/3erGCvVFjZK0TNwb8NGruZ"
+    },
+    {
+      "added_at": "2026-05-19 19:48:32",
+      "album": {
+        "name": "Hello Wrld",
+        "url": "https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        },
+        {
+          "name": "DC3 Productions LLC",
+          "url": "https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF"
+    },
+    {
+      "added_at": "2026-05-19 19:49:15",
+      "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs"
+      },
+      "artists": [
+        {
+          "name": "Roan Grevel",
+          "url": "https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627"
+        }
+      ],
+      "duration_ms": 270428,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp"
+    },
+    {
+      "added_at": "2026-05-19 19:50:08",
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "duration_ms": 365338,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU"
     }
   ],
   "unique_name": "playlist spotify free",

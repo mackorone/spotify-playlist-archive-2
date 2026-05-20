@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 149084,
+  "num_followers": 149125,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-05-15 04:01:38",
       "album": {
-        "name": "Mystery Lady (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "Mystery Lady (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
-    },
-    {
-      "added_at": "2026-05-15 04:01:38",
-      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2026-05-15 04:01:38",
+      "album": {
+        "name": "Mystery Lady (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "Mystery Lady (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
     },
     {
       "added_at": "2026-05-15 04:01:38",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-05-15 04:01:38",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344893,
+      "name": "When We Get By",
+      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+    },
+    {
+      "added_at": "2026-05-15 04:01:38",
+      "album": {
         "name": "I Did This To Myself",
         "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
-    },
-    {
-      "added_at": "2026-05-15 04:01:38",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344893,
-      "name": "When We Get By",
-      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
     },
     {
       "added_at": "2026-05-15 04:01:38",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADSNXepmnKbP1078tlpYnSy",
+  "snapshot_id": "agpWgAAAAADZ2tJ/Hnb/l8DrLHkPtNs+",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 275942,
-      "name": "Heart of a waterfall",
-      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Suosan",
-      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
+      "duration_ms": 275942,
+      "name": "Heart of a waterfall",
+      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 315973,
-      "name": "Stars on the ground",
-      "url": "https://open.spotify.com/track/1HOlpttdxR7fmgEeJrcDt8"
+      "duration_ms": 521986,
+      "name": "Collecting eyes",
+      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetes",
         "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 175106,
       "name": "Kandisae",
       "url": "https://open.spotify.com/track/5UKjl5phwLwc2tXb7aiBjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 413882,
-      "name": "Slow Piru",
-      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetes",
         "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 274115,
       "name": "Begin Sync End",
       "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 413882,
+      "name": "Slow Piru",
+      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 185870,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
+      "duration_ms": 298865,
+      "name": "Endowment",
+      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 344827,
-      "name": "Mu Evans",
-      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetes",
         "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 688006,
       "name": "Myrian Myriad",
       "url": "https://open.spotify.com/track/2yrejC1lOTJ7eCcQXRar6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 344827,
+      "name": "Mu Evans",
+      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
     },
     {
       "added_at": null,
@@ -772,41 +772,29 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 298865,
-      "name": "Endowment",
-      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
+      "duration_ms": 185870,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hidden Terraces",
-        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
+        "name": "Mue (Sofie Birch Remix)",
+        "url": "https://open.spotify.com/album/2MEoH5Q9S4WuAKhuqn4QFT"
       },
       "artists": [
+        {
+          "name": "Koki Nakano",
+          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 1087000,
-      "name": "Morgen\u00e5nder",
-      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 364837,
-      "name": "Net (Neverendingthing)",
-      "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
+      "duration_ms": 246967,
+      "name": "Mue - Sofie Birch Remix",
+      "url": "https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv"
     },
     {
       "added_at": null,
@@ -823,6 +811,22 @@
       "duration_ms": 712522,
       "name": "Hills Bells Mother",
       "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 364837,
+      "name": "Net (Neverendingthing)",
+      "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
     },
     {
       "added_at": null,
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mue (Sofie Birch Remix)",
-        "url": "https://open.spotify.com/album/2MEoH5Q9S4WuAKhuqn4QFT"
+        "name": "Hidden Terraces",
+        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
       },
       "artists": [
-        {
-          "name": "Koki Nakano",
-          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
-        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 246967,
-      "name": "Mue - Sofie Birch Remix",
-      "url": "https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv"
+      "duration_ms": 1087000,
+      "name": "Morgen\u00e5nder",
+      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,

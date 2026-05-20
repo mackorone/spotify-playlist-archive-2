@@ -10805,6 +10805,32 @@
     },
     {
       "album": {
+        "name": "Entre Tu y Yo",
+        "url": "https://open.spotify.com/album/6NDlcrSs1LjIvWSAdyyGlJ"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Raven la R",
+          "url": "https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152262,
+      "name": "Entre Tu y Yo",
+      "url": "https://open.spotify.com/track/7aOOEDkeEEjRuP0rSH9tsJ"
+    },
+    {
+      "album": {
         "name": "De Amor y Cumbia",
         "url": "https://open.spotify.com/album/4u7O4jGFSDQpVYwHxpo83v"
       },
@@ -11202,7 +11228,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 233417,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/1g7liJ34sZhH4rP7bGmC0J"
@@ -15628,7 +15654,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -15834,7 +15860,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -17200,6 +17226,32 @@
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+    },
+    {
+      "album": {
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/6ttXe8uKkAXA5Vmioq8XJr"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178321,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/4Iq4qEJniNSdfXD7ICFXeX"
     },
     {
       "album": {
@@ -33430,7 +33482,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

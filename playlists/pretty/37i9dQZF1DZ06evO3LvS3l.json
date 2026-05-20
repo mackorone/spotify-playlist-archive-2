@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28086,
+  "num_followers": 28102,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADViXVhdxCRkYl1IWankqgk",
+  "snapshot_id": "agpWgAAAAABXYgLekQndLbhcCB9M/uk6",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
+        "name": "Crazy Daddy",
+        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
+      "duration_ms": 160680,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Daddy",
-        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compass Point",
-        "url": "https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "The Fish Aren't Bitin' Today",
-      "url": "https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Got Something to Say",
         "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 170200,
       "name": "This Bottle (In My Hand)",
       "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compass Point",
+        "url": "https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "The Fish Aren't Bitin' Today",
+      "url": "https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Sweet Vibrations (Some Folks Call It Love)",
-      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mysterious Rhinestone Cowboy",
         "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 135226,
       "name": "(If I Could Climb) The Walls of the Bottle",
       "url": "https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Sweet Vibrations (Some Folks Call It Love)",
+      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
     },
     {
       "added_at": null,

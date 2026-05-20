@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-360 songs - 18 hr 15 min
+362 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-07-18 | 2025-09-04 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-02 | 2026-04-17 |
 | [Easy](https://open.spotify.com/track/2lbOVJ2oLUV6e2OvF3JbeH) | [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Easy](https://open.spotify.com/album/6tIWeGsSjwbHCt2NIaPqhL) | 2:21 | 2024-06-20 | 2024-07-23 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-05-19 |  |
 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 | 2026-05-14 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-14 | 2025-11-18 |
 | [ENDLICH EGAL](https://open.spotify.com/track/6FC4KbCKeKPZbdjEpJtNex) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ENDLICH EGAL](https://open.spotify.com/album/2xadm1GleIfA1Q8Pt1WcT4) | 2:42 | 2024-07-10 | 2024-08-20 |
@@ -128,7 +129,7 @@
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-06-04 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-20 | 2025-02-20 |
 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 | 2025-12-03 |  |
-| [Große grüne Wiese](https://open.spotify.com/track/4dOs9LICvMjlOGlON9hb4I) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Große grüne Wiese](https://open.spotify.com/album/6pakVsYX4W1DJbyAQV2aex) | 2:35 | 2026-04-02 |  |
+| [Große grüne Wiese](https://open.spotify.com/track/4dOs9LICvMjlOGlON9hb4I) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Große grüne Wiese](https://open.spotify.com/album/6pakVsYX4W1DJbyAQV2aex) | 2:35 | 2026-04-02 | 2026-05-20 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2025-06-21 |
 | [Halo](https://open.spotify.com/track/74KNUsROKQpivX8RHHwwr9) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Halo](https://open.spotify.com/album/1hR2Fahege0dQiUnRBm94b) | 2:56 | 2024-10-03 | 2025-02-28 |
 | [HALTDEINMAUL](https://open.spotify.com/track/1H8rHfjnlDYiTNzGqV3oGp) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [HALTDEINMAUL](https://open.spotify.com/album/7hNoHWpmkTDdXIZRiuuJzT) | 2:51 | 2026-03-05 | 2026-05-17 |
@@ -223,7 +224,7 @@
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-16 | 2026-05-01 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-20 | 2024-11-10 |
 | [Miss You Like Hell](https://open.spotify.com/track/3bakvSaZbHr7fCipik4sMA) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Miss You Like Hell](https://open.spotify.com/album/5yXnvCbolLRgQD5B46LIfx) | 2:58 | 2026-04-16 | 2026-05-01 |
-| [Missing You](https://open.spotify.com/track/1EgGW9s2H8zNGXQHVMcUnj) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Missing You](https://open.spotify.com/album/0Cs8yc9v730VOmCOcAD6pC) | 3:10 | 2026-03-26 |  |
+| [Missing You](https://open.spotify.com/track/1EgGW9s2H8zNGXQHVMcUnj) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Missing You](https://open.spotify.com/album/0Cs8yc9v730VOmCOcAD6pC) | 3:10 | 2026-03-26 | 2026-05-20 |
 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 | 2025-12-03 |  |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-02-27 | 2025-04-03 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2025-02-19 | 2025-07-11 |
@@ -336,6 +337,7 @@
 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-05-22 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-30 | 2024-10-12 |
 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-09-24 | 2026-05-15 |
+| [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 | 2026-05-19 |  |
 | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8) | 2:31 | 2024-06-20 | 2024-07-11 |
 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 | 2025-08-08 |  |
 | [was wäre wenn](https://open.spotify.com/track/3VTSOMZBBbxKcSQHzQ8hys) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [was wäre wenn](https://open.spotify.com/album/1b0xhyr8Ft2V2cnoDOxcz0) | 2:53 | 2024-06-20 | 2024-08-03 |

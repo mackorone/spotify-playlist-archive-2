@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4fidS28dvfw5PquLev6xtQ.md) - cumulative - [plain](/playlists/plain/4fidS28dvfw5PquLev6xtQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4fidS28dvfw5PquLev6xtQ)
 
-### [RYM Top 100 Songs \(updated "bi"weekly\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
+### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
 > My favorite things are better than cash ruling everything around me 🙃
 

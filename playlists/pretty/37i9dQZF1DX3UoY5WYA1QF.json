@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 191710,
+  "num_followers": 191743,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 203202,
-      "name": "La Venganza de Tina",
-      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
+      "duration_ms": 144938,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 144938,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ"
+      "duration_ms": 203202,
+      "name": "La Venganza de Tina",
+      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 213228,
+      "name": "Mas Alto Que las Aguilas",
+      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
         "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 203816,
       "name": "Amorcito Mio",
       "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Recu\u00e9rdame Bonito",
-        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Recu\u00e9rdame Bonito",
-      "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Recu\u00e9rdame Bonito",
+      "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 172560,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
-        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 213228,
-      "name": "Mas Alto Que las Aguilas",
-      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "El Chofer",
-      "url": "https://open.spotify.com/track/5BfXMlw8lQQGojmyNFZiB3"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Pepe Aguilar Interpreta a Joan Sebastian",
         "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 213774,
       "name": "Botellita de Tequila",
       "url": "https://open.spotify.com/track/6BVvJ0yh983lZdDL04EXJz"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "El Chofer",
+      "url": "https://open.spotify.com/track/5BfXMlw8lQQGojmyNFZiB3"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "Ni\u00f1a Hechicera",
-      "url": "https://open.spotify.com/track/5z379KMiQxc4QIV6sD2pzf"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
         "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 171613,
       "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
       "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "Ni\u00f1a Hechicera",
+      "url": "https://open.spotify.com/track/5z379KMiQxc4QIV6sD2pzf"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Los Cazahuates",
-      "url": "https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/4jEcyDMHhofDZasAIuGG6N"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 192986,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/2hvRNCiySrg0TK9iQv2gs0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Los Cazahuates",
+      "url": "https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Amor Sin Cuenta",
-      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "15 Grandes Exitos - Joan Sebastian",
         "url": "https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 187222,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/0NnEpjGXz9Sz752vzuhkOm"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Amor Sin Cuenta",
+      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
     }
   ],
   "unique_name": "Cancionero Joan Sebastian",

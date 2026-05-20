@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 549258,
+  "num_followers": 549358,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAADOsH6iYYWMvcNta87q0ca6",
+  "snapshot_id": "agpWgAAAAACy13brRIRf02EYvPc+b/Uh",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 289626,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
+      "duration_ms": 351581,
+      "name": "Dancing Dead",
+      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 351581,
-      "name": "Dancing Dead",
-      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
+      "duration_ms": 289626,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
     },
     {
       "added_at": null,

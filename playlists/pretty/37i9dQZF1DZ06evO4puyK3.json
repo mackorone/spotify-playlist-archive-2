@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166686,
+  "num_followers": 166691,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAABvXEmTcsBWXiMqFR1j6Ia7",
+  "snapshot_id": "agpWgAAAAAAdKG+mlz97Ee2PdgD2586Z",
   "tracks": [
     {
       "added_at": null,
@@ -382,15 +382,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 145670,
-      "name": "Chamada Proibida - Ao Vivo",
-      "url": "https://open.spotify.com/track/1p8BTJLHwFgakOEDHXdPn4"
+      "duration_ms": 175682,
+      "name": "Linguagem Do Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
     },
     {
       "added_at": null,
@@ -450,11 +446,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 175682,
-      "name": "Linguagem Do Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
+      "duration_ms": 145670,
+      "name": "Chamada Proibida - Ao Vivo",
+      "url": "https://open.spotify.com/track/1p8BTJLHwFgakOEDHXdPn4"
     },
     {
       "added_at": null,

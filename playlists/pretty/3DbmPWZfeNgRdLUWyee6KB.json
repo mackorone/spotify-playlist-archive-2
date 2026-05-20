@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUM+PJGB5M/YejA8RctSjQKH/+VGaX",
+  "snapshot_id": "AAAUOU3WukQ8N3pt1MaBH2HaMieVy5aG",
   "tracks": [
     {
       "added_at": "2026-05-16 00:59:51",
@@ -347,6 +347,22 @@
       "duration_ms": 227510,
       "name": "You're Leaving",
       "url": "https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2"
+    },
+    {
+      "added_at": "2026-05-19 07:01:59",
+      "album": {
+        "name": "Tell Me Where The Light's Gone",
+        "url": "https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U"
+      },
+      "artists": [
+        {
+          "name": "Mitch Meyer",
+          "url": "https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Tell Me Where The Light's Gone",
+      "url": "https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU"
     },
     {
       "added_at": "2026-01-09 12:08:22",
@@ -2359,6 +2375,86 @@
       "duration_ms": 255214,
       "name": "Legionnaire Behind The Lines",
       "url": "https://open.spotify.com/track/5LKPv4UUvVYEhyd5eDuQET"
+    },
+    {
+      "added_at": "2026-05-19 07:00:44",
+      "album": {
+        "name": "Why Not Always",
+        "url": "https://open.spotify.com/album/0B6wRmevQh6IdHHAlQaGCQ"
+      },
+      "artists": [
+        {
+          "name": "READIN",
+          "url": "https://open.spotify.com/artist/48BOl8Qi8bzm7QvJkr4Yb0"
+        }
+      ],
+      "duration_ms": 153482,
+      "name": "Why Not Always",
+      "url": "https://open.spotify.com/track/66YSKnVyoRLdp9jtA1zWDr"
+    },
+    {
+      "added_at": "2026-05-19 07:01:15",
+      "album": {
+        "name": "Tita",
+        "url": "https://open.spotify.com/album/27TYK7VqoPwcGZFhU880y7"
+      },
+      "artists": [
+        {
+          "name": "Last Song Bea",
+          "url": "https://open.spotify.com/artist/4EMwMsHZTGFZSE4Mxl3dhV"
+        }
+      ],
+      "duration_ms": 308413,
+      "name": "Tita",
+      "url": "https://open.spotify.com/track/3szBoeI0YAihQVqTI70Dgz"
+    },
+    {
+      "added_at": "2026-05-19 07:01:16",
+      "album": {
+        "name": "Footsteps in Moon Sand",
+        "url": "https://open.spotify.com/album/7E0LkgNgU6T4if28OAtM85"
+      },
+      "artists": [
+        {
+          "name": "Freddie",
+          "url": "https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "Footsteps in Moon Sand",
+      "url": "https://open.spotify.com/track/5xc9tORGvv0p32ePbB6DtT"
+    },
+    {
+      "added_at": "2026-05-19 07:01:24",
+      "album": {
+        "name": "Under Your Thumb",
+        "url": "https://open.spotify.com/album/2PKqwoPC4RGezFH4Hmq4XO"
+      },
+      "artists": [
+        {
+          "name": "Ella Young",
+          "url": "https://open.spotify.com/artist/2C09II9BvkcPnwYRq8FiJY"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Under Your Thumb",
+      "url": "https://open.spotify.com/track/2tdwc718YNZdi7lfH3JkB9"
+    },
+    {
+      "added_at": "2026-05-19 07:01:25",
+      "album": {
+        "name": "I Killed Him",
+        "url": "https://open.spotify.com/album/0bWpQiPjo7Hw3wxIIstmYD"
+      },
+      "artists": [
+        {
+          "name": "Si Rusty",
+          "url": "https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "I Killed Him",
+      "url": "https://open.spotify.com/track/6MmHrD7kOpM34mVm646fBe"
     }
   ],
   "unique_name": "New Indie Music",

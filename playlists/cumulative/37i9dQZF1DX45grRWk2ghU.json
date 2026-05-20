@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 202381,
       "name": "Anti Social",
       "url": "https://open.spotify.com/track/6GHrjnszfnHtxA9MmAgaDY"
@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Bad Song",
+        "url": "https://open.spotify.com/album/6pe759sVJ3ZdKfAQaYCvcb"
+      },
+      "artists": [
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311545,
+      "name": "Bad Song",
+      "url": "https://open.spotify.com/track/6IGQGhNmckvVyruZDqaHdk"
+    },
+    {
+      "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
       },
@@ -244,6 +266,24 @@
       "duration_ms": 190533,
       "name": "BAHAMA",
       "url": "https://open.spotify.com/track/1dY5W7IZHUSpvTuCUWeXNE"
+    },
+    {
+      "album": {
+        "name": "BANANA SHAKE (SPED UP)",
+        "url": "https://open.spotify.com/album/1vRxza3P5wbnqfieA27DAn"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279666,
+      "name": "BANANA SHAKE (SPED UP)",
+      "url": "https://open.spotify.com/track/6qXGfKR1JHtH18PbT15k6F"
     },
     {
       "album": {
@@ -408,7 +448,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 201796,
       "name": "boyfriend",
       "url": "https://open.spotify.com/track/6QLhGHbxjHBGV5eG2ewyhO"
@@ -636,7 +676,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "CRAZY (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
@@ -1388,7 +1428,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 163091,
       "name": "Hot Pink Baby",
       "url": "https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm"
@@ -1656,7 +1696,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 152039,
       "name": "klepto (with Lexie Liu)",
       "url": "https://open.spotify.com/track/5rElubeagDSx1iaiMqq1jf"
@@ -2194,7 +2234,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
@@ -2578,7 +2618,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 257293,
       "name": "S&M Remix",
       "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
@@ -3422,7 +3462,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-20",
       "duration_ms": 125024,
       "name": "WRANGLER",
       "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"

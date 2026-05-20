@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 913977,
+  "num_followers": 914003,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Four Sail (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs"
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
       "artists": [
         {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Always See Your Face",
-      "url": "https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz"
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     }
   ],
   "unique_name": "Punk Essentials",

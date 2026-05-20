@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70661,
+  "num_followers": 70670,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAA14a5rAAp0UU0EeuZh4cNj",
+  "snapshot_id": "agpWgAAAAACRl7BZ0gBdFC9cvjtBkDZd",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis No Lugares",
+        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis No Lugares",
-        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aquila",
         "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 238445,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
+        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
+      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
-        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
-      },
-      "artists": [
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
-      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\"Si ma\u00f1ana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal\" Valentin Elizalde en portada. ",
-  "num_followers": 382024,
+  "num_followers": 382026,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 284013,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 284013,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
     },
     {
       "added_at": "2025-11-25 17:51:31",

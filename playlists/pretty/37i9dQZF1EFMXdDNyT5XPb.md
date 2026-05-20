@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 112 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 112 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 39 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 |
 | 40 | [Stick the Kettle On](https://open.spotify.com/track/7Mob9AxqWbMbhV0PKbRrSG) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day \(Deluxe\)](https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4) | 2:55 |
 | 41 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
-| 42 | [Adrenaline](https://open.spotify.com/track/2eR6FzowkVYAOBdZrO1VPj) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:30 |
-| 43 | [God Knows](https://open.spotify.com/track/75XdAUmmNxJ7Z1EKEqSBHs) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:50 |
+| 42 | [God Knows](https://open.spotify.com/track/75XdAUmmNxJ7Z1EKEqSBHs) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:50 |
+| 43 | [Adrenaline](https://open.spotify.com/track/2eR6FzowkVYAOBdZrO1VPj) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:30 |
 | 44 | [I Wish I Was](https://open.spotify.com/track/37gvCv1XpbCfG3Acjqf6ew) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [I Wish I Was](https://open.spotify.com/album/722G4OU32T7nebuJJm3vqo) | 3:24 |
 | 45 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [CHARLS](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 |
 | 46 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 58 | [Me and the Moon](https://open.spotify.com/track/1kC5ztNhsVxh3uKBSKAout) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:35 |
 | 59 | [Designer](https://open.spotify.com/track/2cdIoTQN2tiFoKPh1b8bH7) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Designer](https://open.spotify.com/album/2iy0EWYF5LfydMsc6E3Hrr) | 2:01 |
 | 60 | [London Bound](https://open.spotify.com/track/4w9UERRjbLgLZJmlezArOF) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/56t8diCSoYT53frC59aHYJ) | 2:53 |
-| 61 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
-| 62 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 61 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 62 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
 | 63 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
 | 64 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 |
 | 65 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 111 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 112 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcR3GAAAAADw/dgSxx3hRAHcS0w2vzTI`
+Snapshot ID: `AcR8fAAAAADoZ7QNdU8GuvLfYhhNppBm`

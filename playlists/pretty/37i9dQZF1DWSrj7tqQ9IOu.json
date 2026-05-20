@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402177,
+  "num_followers": 402238,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Coquelicot",
-        "url": "https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        },
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Coquelicot",
-      "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Champagne en canette",
         "url": "https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 139493,
       "name": "Nieuport Beach Ft. BEN PLG",
       "url": "https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Coquelicot",
+        "url": "https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Coquelicot",
+      "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Mwasi Chou",
-        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
-      },
-      "artists": [
-        {
-          "name": "Epoque",
-          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Mwasi Chou",
-      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Goulou Marhaba",
         "url": "https://open.spotify.com/album/6XXZT89NQCOf9DtnY9XsmN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274285,
       "name": "Goulou Marhaba",
       "url": "https://open.spotify.com/track/42Q1ct71jst62oQbZGe8BL"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Mwasi Chou",
+        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Mwasi Chou",
+      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "CIN\u00c9MA",
+        "url": "https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Shakers",
+          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
+        }
+      ],
+      "duration_ms": 155160,
+      "name": "CIN\u00c9MA",
+      "url": "https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "CHAL\u00c8",
         "url": "https://open.spotify.com/album/75BImxArgxMcPKVJjOpRAB"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 138666,
       "name": "CHAL\u00c8",
       "url": "https://open.spotify.com/track/6OTuYW0hggs1rhC5isHJbD"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "CIN\u00c9MA",
-        "url": "https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox"
-      },
-      "artists": [
-        {
-          "name": "Dynamite Shakers",
-          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
-        }
-      ],
-      "duration_ms": 155160,
-      "name": "CIN\u00c9MA",
-      "url": "https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU"
     },
     {
       "added_at": "2026-04-30 22:03:34",

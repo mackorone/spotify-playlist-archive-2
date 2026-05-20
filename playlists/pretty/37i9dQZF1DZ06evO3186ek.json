@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165435,
+  "num_followers": 165450,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAAgDfJZYy2YmVEeX23r2BtD",
+  "snapshot_id": "agpWgAAAAABwbNdk8uWQBIPgvgHieELy",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
+        }
+      ],
+      "duration_ms": 298442,
+      "name": "Gratitude - Instrumental Worship",
+      "url": "https://open.spotify.com/track/5DYtzK3VgP3bGzOMY860z0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -723,6 +751,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Great Are You Lord - Instrumental Worship",
+      "url": "https://open.spotify.com/track/5aAJngHe0aRjP57uSby8ag"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -771,34 +827,6 @@
       "duration_ms": 469125,
       "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Worship Collection",
-        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "The Prayer Project",
-          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
-        },
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        },
-        {
-          "name": "Calm Worship Collective",
-          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
-        }
-      ],
-      "duration_ms": 298442,
-      "name": "Gratitude - Instrumental Worship",
-      "url": "https://open.spotify.com/track/5DYtzK3VgP3bGzOMY860z0"
     },
     {
       "added_at": null,
@@ -859,34 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Worship Collection",
-        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "The Prayer Project",
-          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
-        },
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        },
-        {
-          "name": "Calm Worship Collective",
-          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Great Are You Lord - Instrumental Worship",
-      "url": "https://open.spotify.com/track/5aAJngHe0aRjP57uSby8ag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 249152,
       "name": "What A Beautiful Name - Instrumental Worship",
       "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -1027,34 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move Your Heart",
-        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 621222,
-      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
-      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -1079,6 +1051,34 @@
       "duration_ms": 226773,
       "name": "Worthy Of It All - Instrumental Worship",
       "url": "https://open.spotify.com/track/01inNw5R0q2qDZrktc0qUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 621222,
+      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
     },
     {
       "added_at": null,
@@ -1127,30 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Melody Adorno",
-          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
-        }
-      ],
-      "duration_ms": 515963,
-      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
-      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 262304,
       "name": "I Speak Jesus - Instrumental Worship",
       "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+        }
+      ],
+      "duration_ms": 515963,
+      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
+      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
     },
     {
       "added_at": null,

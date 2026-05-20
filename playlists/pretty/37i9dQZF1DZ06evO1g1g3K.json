@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7186,
+  "num_followers": 7187,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agkFAAAAAAC9Ew8DCI3bnY77Ij5eMw4O",
+  "snapshot_id": "agpWgAAAAAAkJ1maP/h5x2/yGWEUUIMv",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "STUCK.",
-      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 222457,
       "name": "Mango Butter",
       "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP 8",
+        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
     },
     {
       "added_at": null,
@@ -175,22 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP 8",
-        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
       "artists": [
         {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 184295,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
+      "duration_ms": 261500,
+      "name": "STUCK.",
+      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
     },
     {
       "added_at": null,
@@ -386,15 +386,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 284562,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
+      "duration_ms": 189625,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
     },
     {
       "added_at": null,
@@ -462,11 +458,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 189625,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+      "duration_ms": 284562,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 282219,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 161929,
       "name": "Get Paid (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 282219,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Relocate",
-      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 222000,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Relocate",
+      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

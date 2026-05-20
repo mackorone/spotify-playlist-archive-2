@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-169 songs - 10 hr 43 min
+170 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Es Ignorancia](https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:04 | 2022-05-25 | 2025-04-14 |
 | [Es Ignorancia](https://open.spotify.com/track/3I1B6iP8x2oSs52ttcfVl7) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:04 | 2025-04-14 | 2025-10-28 |
 | [Es ignorancia](https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:04 | 2025-10-28 |  |
-| [Esa luz](https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:03 | 2025-10-30 |  |
+| [Esa luz](https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:03 | 2025-10-30 | 2026-05-20 |
 | [Esa luz](https://open.spotify.com/track/4N5P2ofWNgfYBc1YUS4u3t) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:03 | 2025-04-17 | 2025-10-30 |
 | [Esa luz](https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:03 | 2022-05-25 | 2025-04-15 |
 | [Estoy bien](https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 5:34 | 2022-05-25 | 2025-04-14 |
@@ -133,6 +133,7 @@
 | [No más guerra](https://open.spotify.com/track/2Lc8L8AgySC2tFfNIjDSji) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 2:50 | 2022-05-25 | 2022-10-13 |
 | [No te dejes Atribular](https://open.spotify.com/track/4fJ9I3prOx9v2h5fkzINxN) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/0G1VpkWCoM0TQb2pVzILsy) | 3:56 | 2025-04-16 | 2025-09-30 |
 | [No te dejes Atribular](https://open.spotify.com/track/4qP5TwNUvdOLS6ATwTF9lw) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:56 | 2024-12-27 | 2025-04-16 |
+| [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 | 2026-05-20 |  |
 | [Por lo que obtuve](https://open.spotify.com/track/01ernt9QunzqmKMegy3EQh) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 | 2022-05-25 | 2024-10-29 |
 | [Por lo que obtuve](https://open.spotify.com/track/0705AvupCS2s0SSlll2wLa) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:32 | 2025-04-14 | 2025-10-31 |
 | [Por lo que obtuve](https://open.spotify.com/track/4qFtkjfZLSrfDzTRbRjkFc) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:32 | 2025-10-31 |  |
