@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 896753,
+  "num_followers": 896759,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 200062,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 200062,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Fogata",
-        "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
-      },
-      "artists": [
-        {
-          "name": "XAXO",
-          "url": "https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb"
-        },
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Fogata",
-      "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Chistes Malos",
         "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 171357,
       "name": "Chistes Malos",
       "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Fogata",
+        "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
+      },
+      "artists": [
+        {
+          "name": "XAXO",
+          "url": "https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Fogata",
+      "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Lipstick ;*",
-        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
-      },
-      "artists": [
-        {
-          "name": "Esteesgarcia",
-          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Lipstick ;*",
-      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Lipstick ;*",
+        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
+      },
+      "artists": [
+        {
+          "name": "Esteesgarcia",
+          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Lipstick ;*",
+      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "jap\u00f3n",
+      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "jap\u00f3n",
-      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "durmiendo con la luz prendida",
         "url": "https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 177629,
       "name": "Ciudades Gemelas",
       "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "FOK YO",
-      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 200283,
       "name": "Perderme",
       "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "FOK YO",
+      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "demasiado poco (demasiado tarde)",
-        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 188376,
-      "name": "demasiado poco (demasiado tarde)",
-      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 183265,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "demasiado poco (demasiado tarde)",
+        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 188376,
+      "name": "demasiado poco (demasiado tarde)",
+      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 164601,
+      "name": "habl\u00e9 con ella ayer",
+      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/63gnQZ2zbvNFstV9UoEkNp"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 176000,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/6bZo5hD6TLeReBF3kZWcv0"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 164601,
-      "name": "habl\u00e9 con ella ayer",
-      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
     },
     {
       "added_at": "2026-05-08 04:03:12",

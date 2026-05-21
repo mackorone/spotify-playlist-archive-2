@@ -1373,6 +1373,36 @@
     },
     {
       "album": {
+        "name": "CONEX\u00c3O JAMAICA BRASILEIRA, VOL. 1",
+        "url": "https://open.spotify.com/album/5EhKNu35AyDVQBxCC4Tq2q"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        },
+        {
+          "name": "Adnon",
+          "url": "https://open.spotify.com/artist/6S2YVwiwLlUiSWOMhBaJBf"
+        },
+        {
+          "name": "Dicy",
+          "url": "https://open.spotify.com/artist/42PSZ6x5ZdbZEuFPgLscTQ"
+        },
+        {
+          "name": "SEU GARR\u00ca",
+          "url": "https://open.spotify.com/artist/4lGZgtKyjqQiMErnzjN6Y5"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "MEL\u00d4 DE RECOME\u00c7O",
+      "url": "https://open.spotify.com/track/3rPZ2GgTLdkcVbShwvEWhH"
+    },
+    {
+      "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
@@ -1548,7 +1578,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/2itpUsUjv9nF5vhSVr4Fqb"

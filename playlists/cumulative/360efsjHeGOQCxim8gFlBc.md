@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-911 songs - 1 day 13 hr 43 min
+912 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [Silence’s Story](https://open.spotify.com/track/1ikm9yTP4jlPmNl7FYTpj5) | [Evæ Ives](https://open.spotify.com/artist/1lSZpnqDbSN84SpXNrwhvI), [dvw logic](https://open.spotify.com/artist/54tlInME01xeaPj66tZkre) | [Silence’s Story](https://open.spotify.com/album/0gndXr5rOSM9L5Gf4RsPgU) | 3:42 | 2024-09-27 |  |
 | [Silent Sea](https://open.spotify.com/track/78zqrbRbszTVXShPubu4xE) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Luuk Van Dijk](https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Silent Sea](https://open.spotify.com/album/0kGX2mMSCvSX1qHYfxbJ9j) | 1:44 | 2023-10-29 | 2024-04-14 |
 | [Silk](https://open.spotify.com/track/2bi9L7HNE0my8QU29z9iUL) | [David Cosori](https://open.spotify.com/artist/52JZukFO6SW7FAGzYAPybg) | [Cove](https://open.spotify.com/album/3Nq2hBYtKMUioSqzeCuwbr) | 2:00 | 2025-03-03 |  |
+| [Simple Stories](https://open.spotify.com/track/72ErAhWPplyOOvDnNkzfaG) | [calmspirit](https://open.spotify.com/artist/66LxwZjmstTWp5TGqw5OnW), [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Simple Stories](https://open.spotify.com/album/2WhORrGQ6lGHjrjcun0kDX) | 3:09 | 2026-05-20 |  |
 | [simple things](https://open.spotify.com/track/0PlOrYHjbVudDVMMqczJsG) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [simple things](https://open.spotify.com/album/4fN5gDs3BXWdDnMNMBC9Pz) | 2:45 | 2024-05-17 |  |
 | [Sindhuli](https://open.spotify.com/track/08pOQxuCyQQ7p2nwxXQb4m) | [Boesen](https://open.spotify.com/artist/0GKQs6th6OzGJ48J4zkRid) | [Sindhuli](https://open.spotify.com/album/7L1V6Be1E1kakOcVug9RIG) | 2:04 | 2025-09-08 |  |
 | [Sleep Meditation](https://open.spotify.com/track/6uHxghVPvCuImltbmzsi19) | [calmspirit](https://open.spotify.com/artist/66LxwZjmstTWp5TGqw5OnW), [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Sleep Meditation](https://open.spotify.com/album/3fnfeaeYVFSy2UH5jayYLs) | 2:06 | 2026-04-29 |  |
@@ -748,7 +749,7 @@
 | [Still](https://open.spotify.com/track/0QpwOZMNf9YbJtZuve0tNA) | [Jackson Blais](https://open.spotify.com/artist/35LO1ZhXPK0W02dTqBh2WU) | [Still](https://open.spotify.com/album/5pxoxaMsN5ceSQvMpXDrVq) | 1:10 | 2025-03-01 |  |
 | [Still Waters \(with rain\)](https://open.spotify.com/track/4Hw273dIBVi0B2AyGNYY9v) | [noira](https://open.spotify.com/artist/16KcLoDLQ4FEEGr00l2GoK) | [Still Waters \(with rain\)](https://open.spotify.com/album/7rLedGur9K5iZhdztQTbZ9) | 1:34 | 2025-09-29 |  |
 | [Stillness Before Rain](https://open.spotify.com/track/3ctZHWTlF9Y0UUnOTFQdT6) | [Valentino Mancini](https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2) | [Stillness Before Rain](https://open.spotify.com/album/19gzeTlnPLNyscxKXn3zaG) | 3:06 | 2026-03-11 |  |
-| [Stolen Time](https://open.spotify.com/track/1UKey3BaH8lUe8bQ4pa2ry) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Stolen time](https://open.spotify.com/album/71fM9PxgWpvUsxrNoPjE5H) | 3:04 | 2024-08-04 |  |
+| [Stolen Time](https://open.spotify.com/track/1UKey3BaH8lUe8bQ4pa2ry) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Stolen time](https://open.spotify.com/album/71fM9PxgWpvUsxrNoPjE5H) | 3:04 | 2024-08-04 | 2026-05-21 |
 | [Stone Tower Temple \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/track/5thjvZIe39R7DPdHYubHMj) | [setsaile](https://open.spotify.com/artist/5JZA3oo7AiWrmEYV3hVp1U) | [Stone Tower Temple \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/album/7MoFmEU0gRV8ZrpTOPKzgL) | 1:28 | 2024-08-04 | 2024-10-24 |
 | [Strangers Assemble](https://open.spotify.com/track/6WrhHlrVFJwUeBLuLmJb7M) | [A Solemn Song](https://open.spotify.com/artist/2pw7VxQVfVHytGXPpbAQq2) | [Heritage](https://open.spotify.com/album/1JfgHNlZMOZOJl6Q6gfdPS) | 1:38 | 2025-09-08 |  |
 | [Streamline](https://open.spotify.com/track/1ilVG2zJ3W07cTjEYnGjqG) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [David S\. Park](https://open.spotify.com/artist/56ktVDec0voYjJtU66J090) | [Streamline](https://open.spotify.com/album/3EdmZBkL3Y4TMJaXaWi200) | 1:58 | 2024-11-15 | 2025-07-22 |

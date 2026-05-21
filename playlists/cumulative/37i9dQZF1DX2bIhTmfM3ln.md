@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-989 songs - 1 day 23 hr 42 min
+990 songs - 1 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 | 2023-09-14 | 2023-10-27 |
 | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 | 2024-09-16 | 2024-09-28 |
 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 | 2024-10-07 | 2025-08-26 |
+| [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/track/5pVj3RmUQkAFgAsWhZa4zd) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/album/0DSm2orZYnmb7haccz5hsj) | 3:09 | 2026-05-19 |  |
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-14 |  |
 | [Amber Rose \- Remix](https://open.spotify.com/track/1ZEgFQp4No0ana6d6WJ8mZ) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Amber Rose \(Remix\)](https://open.spotify.com/album/0PvZHPawKF81aefxMLlUuX) | 2:34 | 2023-09-09 | 2023-09-15 |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-01-12 | 2024-11-22 |
@@ -750,7 +751,7 @@
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 | 2023-03-06 |
 | [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 | 2024-12-16 | 2025-03-08 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 | 2025-08-26 |
-| [Pressure II](https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc) | [WLR](https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Pressure II](https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH) | 3:18 | 2026-05-01 |  |
+| [Pressure II](https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc) | [WLR](https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Pressure II](https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH) | 3:18 | 2026-05-01 | 2026-05-21 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-22 | 2024-06-01 |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 | 2025-04-01 |
 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 | 2025-03-28 | 2026-04-30 |

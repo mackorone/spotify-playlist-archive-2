@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,225 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,245 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 5 | [Ishq Nibhaavan De \(From "Chand Mera Dil"\)](https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb) | 3:49 |
 | 6 | [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 |
 | 7 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 8 | [Subah \(From "System"\)](https://open.spotify.com/track/3Nut66HEcfxCQtcj9tIbKI) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [System \(Original Series Soundtrack\)](https://open.spotify.com/album/3b11jLx4YexMhmnPPHnVYp) | 4:39 |
+| 8 | [Subah \(From "System"\)](https://open.spotify.com/track/3Nut66HEcfxCQtcj9tIbKI) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [System \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3b11jLx4YexMhmnPPHnVYp) | 4:39 |
 | 9 | [Tera Mera Safar](https://open.spotify.com/track/0qFjQbh21ZcyDCbcMqqK9V) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Tera Mera Safar](https://open.spotify.com/album/4TTNrWM34bhBJ4q6HETYjc) | 3:06 |
 | 10 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 11 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |

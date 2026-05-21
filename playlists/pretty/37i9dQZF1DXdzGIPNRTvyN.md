@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,938 likes - 269 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,662 likes - 269 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 268 | [In the Shadows of the Forest](https://open.spotify.com/track/3dAvmfSDcltdpjFsI7K6g9) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [In the Shadows of the Forest](https://open.spotify.com/album/3Klrrd6DHL5hNrMGR8oikZ) | 2:56 |
 | 269 | [Seraphina Woods](https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Seraphina Woods](https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk) | 2:22 |
 
-Snapshot ID: `AAAAAAEBhIcqT9UIFLGZzGqPrmSroezJ`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

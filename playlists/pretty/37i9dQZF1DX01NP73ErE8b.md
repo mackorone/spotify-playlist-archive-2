@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Bresh in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,733 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,748 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 7 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 8 | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/57KzV95Th155vud4KmLqLN) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok) | 2:44 |
 | 9 | [Canzone Estiva](https://open.spotify.com/track/0okR1YL51puEefZFTItVVR) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Canzone Estiva](https://open.spotify.com/album/0Kh1PxZEW7VJa84HBdjnNa) | 3:22 |
-| 10 | [Cabana](https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Cabana](https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm) | 2:41 |
-| 11 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
-| 12 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 |
-| 13 | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/album/1Ntc1XTLjhjPSHStfXhu1U) | 3:20 |
-| 14 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 |
-| 15 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
-| 16 | [Che fastidio!](https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Che fastidio!](https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u) | 3:14 |
-| 17 | [Bossa Nostra](https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Bossa Nostra](https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS) | 3:16 |
-| 18 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
-| 19 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
+| 10 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
+| 11 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 |
+| 12 | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/album/1Ntc1XTLjhjPSHStfXhu1U) | 3:20 |
+| 13 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 |
+| 14 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
+| 15 | [Che fastidio!](https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Che fastidio!](https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u) | 3:14 |
+| 16 | [Bossa Nostra](https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Bossa Nostra](https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS) | 3:16 |
+| 17 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
+| 18 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
+| 19 | [Cabana](https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Cabana](https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm) | 2:41 |
 | 20 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 21 | [Amore è](https://open.spotify.com/track/0XW2hU83XoLGKppz03cLL5) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Amore è](https://open.spotify.com/album/5BD5b6K0dU8xJjYI5jpsBX) | 3:12 |
 | 22 | [BERLINO](https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:55 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 75 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
 | 76 | [In Viaggio Verso Il Paradiso](https://open.spotify.com/track/5X5xYtyyUPNqT8SC95O795) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [In Viaggio Verso Il Paradiso](https://open.spotify.com/album/6L28cWj7Dps4X3ZIDDu2ag) | 3:27 |
 
-Snapshot ID: `AAAAACuaOaE6aNFKRmlJphpWLmOdtSH6`
+Snapshot ID: `AAAAAGAxFKFrqoFUWOg1wFr4SE+OZwiT`

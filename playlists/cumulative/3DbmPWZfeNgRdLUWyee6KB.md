@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,071 songs - 2 day 14 hr 46 min
+1,074 songs - 2 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [If You Want To Be Famous](https://open.spotify.com/track/7e6X8Ur99dU8spGoXF1Isp) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [If You Want To Be Famous](https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc) | 4:41 | 2025-12-04 | 2026-01-05 |
 | [Il Blues del Giorno Triste](https://open.spotify.com/track/2YFJOwCkphwbWvVZy6tqIN) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Il Blues del Giorno Triste](https://open.spotify.com/album/5Mfpd99yQEZL9GWspbrjg8) | 3:16 | 2026-02-24 | 2026-03-25 |
 | [Il cielo scende su di me](https://open.spotify.com/track/3bYkDXtuKvNwP6EuBbVHVI) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [Il cielo scende su di me](https://open.spotify.com/album/06jAKGmVav7lPdau91C854) | 3:03 | 2026-03-09 | 2026-04-12 |
+| [IL MALE NON TI PASSA](https://open.spotify.com/track/48QrKRIFZM9LCaOi1N2M7v) | [Blue Houze](https://open.spotify.com/artist/1J8h5KYRqthEHV2gVwm43q), [Mid Case](https://open.spotify.com/artist/3qCgJyDMPuDYvhbjJY7O5p) | [IL MALE NON TI PASSA](https://open.spotify.com/album/0LyOyMZsN6UNNdm9jFEiYE) | 2:48 | 2026-05-20 |  |
 | [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 | 2026-02-05 | 2026-03-07 |
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 | 2026-02-28 |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
@@ -739,6 +740,7 @@
 | [Rest In Me](https://open.spotify.com/track/5p1E3w1CRRyMoCSmA7vC9N) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Rest In Me](https://open.spotify.com/album/1uZFqbuf6bwd2No55cGprC) | 4:09 | 2025-12-27 | 2026-01-24 |
 | [Resta qui](https://open.spotify.com/track/3DWXaxpZITEuneQtpqmnYS) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Resta qui](https://open.spotify.com/album/615U7jBZ12XBVNJEUQRwCe) | 3:05 | 2026-04-04 | 2026-05-03 |
 | [Restiamo nemici](https://open.spotify.com/track/1OCFBrSkGhaZVR1k858Bst) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Restiamo nemici](https://open.spotify.com/album/1KOrCzajSDTCz2vsY1cMIw) | 3:27 | 2026-04-21 |  |
+| [Retorno do Dito Pródigo](https://open.spotify.com/track/2D6oww1SkDRuGu88srxGFT) | [Lóca](https://open.spotify.com/artist/2ECfxEdcFBvof4Ny6PCwBY) | [Retorno do Dito Pródigo](https://open.spotify.com/album/5oEtMWsJPd3s939btoWTuc) | 4:05 | 2026-05-20 |  |
 | [Rewind](https://open.spotify.com/track/5SoFyOYhxezOJUihbnccUl) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:29 | 2026-01-05 | 2026-02-20 |
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
 | [RISE](https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [RISE](https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO) | 4:11 | 2026-05-01 |  |
@@ -801,6 +803,7 @@
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
 | [Situazione complicata](https://open.spotify.com/track/08UX2BEhPxVX2TFBl1igwE) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Situazione complicata](https://open.spotify.com/album/6yKjEIz2nxP8dpTOfwwoZ9) | 3:42 | 2026-01-04 | 2026-02-03 |
 | [Six Years](https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7) | [hateclay](https://open.spotify.com/artist/3NQb1iQBV5F8gf03zwRfPX), [Clay Winters](https://open.spotify.com/artist/5dMclDZPP5Ng2HVspxz3ip) | [Repeat](https://open.spotify.com/album/2VI3dPgXtGqWbEvWmRcvwL) | 2:18 | 2026-03-09 | 2026-04-12 |
+| [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 | 2026-05-20 |  |
 | [Sky Castles](https://open.spotify.com/track/6grhaVHkFcpNhIydGg7OJe) | [Andaluz](https://open.spotify.com/artist/1fVpy9sfYVCnGSDG8EyrQo), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [The Sky Silk Road](https://open.spotify.com/album/2egcGjuz3oX770IVcxZDiX) | 3:52 | 2023-04-20 | 2025-11-29 |
 | [Sleep tight](https://open.spotify.com/track/0Lrr38F3fCSL0ERjoOrjBO) | [Tsjabowski](https://open.spotify.com/artist/5jh3Uorc4wBHMUyfIwcMaV) | [Middernachtmagie](https://open.spotify.com/album/47LdJPaZrscgqAf2Qt6wuc) | 3:16 | 2026-05-05 |  |
 | [Slow Burn \- Double Vision Version](https://open.spotify.com/track/0yL9xTEQqKMN6X7WR84Zke) | [H.Foolio](https://open.spotify.com/artist/5eNBzS4wwUkRETeE2TekKX) | [Soundtrack of my life vol.1](https://open.spotify.com/album/5F6jL1xjwvm2zDuu6RtAaY) | 3:29 | 2026-03-10 | 2026-04-12 |

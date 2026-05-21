@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Gracie Abrams, Kalli, PAPP\u00cdR og m\u00f6rgum fleiri!",
-  "num_followers": 9649,
+  "num_followers": 9648,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,30 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "The Past, The Present, The Future",
+      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "fu\u00ebgo (feat. Bizarrap, Yeat, Peso Pluma)",
         "url": "https://open.spotify.com/album/1IPgHElUWFJ5mmTcuXjlHE"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 226909,
       "name": "fu\u00ebgo (feat. Bizarrap, Yeat, Peso Pluma)",
       "url": "https://open.spotify.com/track/6U656W6WTyQKur99ihSybx"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "Men Machine EP",
-        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "Men Machine",
-          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "The Past, The Present, The Future",
-      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/2Myp53WxhQq9JTWNEFNyCn"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
         "url": "https://open.spotify.com/album/6IttHfuu2t5ciZPApSX0Ex"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
       "url": "https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "Loco X Volver",
-        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Tu recuerdo",
-      "url": "https://open.spotify.com/track/2Myp53WxhQq9JTWNEFNyCn"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "MISS U",
+        "url": "https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 151145,
+      "name": "MISS U",
+      "url": "https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "Turn Up The Bass",
         "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "MISS U",
-        "url": "https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 151145,
-      "name": "MISS U",
-      "url": "https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/5KcIqpIPttDEcLQPtUSHlX"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 168925,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/0KVliQo0okhhMh6QJlGeow"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "bad dreams",
         "url": "https://open.spotify.com/album/36hV9Uho0HrvjWSqFzhkZM"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 166721,
       "name": "bad dreams",
       "url": "https://open.spotify.com/track/7LeHwJ0A9LJlp3Pp4SmioE"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 161100,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -911,18 +911,34 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/5KcIqpIPttDEcLQPtUSHlX"
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
       },
       "artists": [
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
         }
       ],
-      "duration_ms": 168925,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/0KVliQo0okhhMh6QJlGeow"
+      "duration_ms": 161100,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "The Arms Of You",
+        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 170302,
+      "name": "The Arms Of You",
+      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -951,18 +967,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "The Arms Of You",
-        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/46Ls51XYktqeGtDxlcSWXg"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
         }
       ],
-      "duration_ms": 170302,
-      "name": "The Arms Of You",
-      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
+      "duration_ms": 218500,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0PbEIXoDzlr7xNak4auLLt"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/46Ls51XYktqeGtDxlcSWXg"
+        "name": "at least this far",
+        "url": "https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke"
       },
       "artists": [
         {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/0PbEIXoDzlr7xNak4auLLt"
+      "duration_ms": 166243,
+      "name": "at least this far",
+      "url": "https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1027,22 +1043,6 @@
       "duration_ms": 163483,
       "name": "LAOSG\u00d8RD",
       "url": "https://open.spotify.com/track/3U7XMqWkOE7tGNVbnzuwmT"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "at least this far",
-        "url": "https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke"
-      },
-      "artists": [
-        {
-          "name": "lucca",
-          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
-        }
-      ],
-      "duration_ms": 166243,
-      "name": "at least this far",
-      "url": "https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Knocking Down Your Door",
-        "url": "https://open.spotify.com/album/32MNpNg6lGQlaSQChT1hql"
-      },
-      "artists": [
-        {
-          "name": "Farveblind",
-          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
-        },
-        {
-          "name": "itcallsme i",
-          "url": "https://open.spotify.com/artist/4cNXNIM45F8r6ipv3yY8p6"
-        }
-      ],
-      "duration_ms": 145320,
-      "name": "Knocking Down Your Door",
-      "url": "https://open.spotify.com/track/0jTjL39ioy23btOuJowuNb"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
         "name": "Baby, Bon Sol",
         "url": "https://open.spotify.com/album/2tcp2tAFHIMAw9hGR3LjDg"
       },
@@ -1163,18 +1143,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/1hhFrssdeQT69sB1PgeMj7"
+        "name": "Knocking Down Your Door",
+        "url": "https://open.spotify.com/album/32MNpNg6lGQlaSQChT1hql"
       },
       "artists": [
         {
-          "name": "KURT.",
-          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "itcallsme i",
+          "url": "https://open.spotify.com/artist/4cNXNIM45F8r6ipv3yY8p6"
         }
       ],
-      "duration_ms": 156679,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/4WWdR0ZGzMvODXiuUYYR1J"
+      "duration_ms": 145320,
+      "name": "Knocking Down Your Door",
+      "url": "https://open.spotify.com/track/0jTjL39ioy23btOuJowuNb"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Manema",
-        "url": "https://open.spotify.com/album/612D8wHvziWO0u37jPuaQP"
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/1hhFrssdeQT69sB1PgeMj7"
       },
       "artists": [
         {
-          "name": "Gud Griff",
-          "url": "https://open.spotify.com/artist/1m5xUB9MDUAy4hJlNSmy2W"
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Manema",
-      "url": "https://open.spotify.com/track/71RZAkQmWEjJea2GPaPjRh"
+      "duration_ms": 156679,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/4WWdR0ZGzMvODXiuUYYR1J"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
+        "name": "WID4L",
+        "url": "https://open.spotify.com/album/2NfVwzBj9pDp8yihdX0JuB"
+      },
+      "artists": [
+        {
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+        }
+      ],
+      "duration_ms": 171077,
+      "name": "Only Lovers",
+      "url": "https://open.spotify.com/track/3ysZCkPgy9c6rjHj3uHxVI"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "WID4L",
-        "url": "https://open.spotify.com/album/2NfVwzBj9pDp8yihdX0JuB"
+        "name": "Manema",
+        "url": "https://open.spotify.com/album/612D8wHvziWO0u37jPuaQP"
       },
       "artists": [
         {
-          "name": "Ellen Benediktson",
-          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+          "name": "Gud Griff",
+          "url": "https://open.spotify.com/artist/1m5xUB9MDUAy4hJlNSmy2W"
         }
       ],
-      "duration_ms": 171077,
-      "name": "Only Lovers",
-      "url": "https://open.spotify.com/track/3ysZCkPgy9c6rjHj3uHxVI"
+      "duration_ms": 224000,
+      "name": "Manema",
+      "url": "https://open.spotify.com/track/71RZAkQmWEjJea2GPaPjRh"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
+        "name": "Burgundy Red (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1aXl5vf86gZfXXJ2ECvXfL"
+      },
+      "artists": [
+        {
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Was It Really My Fault?",
+      "url": "https://open.spotify.com/track/3zLUOO73jntGW6XRgQqzP6"
+    },
+    {
+      "added_at": "2026-05-15 00:00:19",
+      "album": {
         "name": "busy me",
         "url": "https://open.spotify.com/album/4RcqjYT1yfWUYaUmNgyv9l"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-05-15 00:00:19",
       "album": {
-        "name": "Burgundy Red (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1aXl5vf86gZfXXJ2ECvXfL"
+        "name": "Everything Is A Lie",
+        "url": "https://open.spotify.com/album/35wlLxK5i9plY3sWDofMlM"
       },
       "artists": [
         {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+          "name": "The Foreign Resort",
+          "url": "https://open.spotify.com/artist/6kXaD1btBJJZTzIP49biJ9"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Was It Really My Fault?",
-      "url": "https://open.spotify.com/track/3zLUOO73jntGW6XRgQqzP6"
+      "duration_ms": 281344,
+      "name": "Everything Is A Lie",
+      "url": "https://open.spotify.com/track/2QXc1Da1rod008BfOw2Zuv"
     },
     {
       "added_at": "2026-05-15 00:00:19",
@@ -1327,22 +1343,6 @@
       "duration_ms": 136206,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/7DBOCqMXiGBpPcVrTurrZH"
-    },
-    {
-      "added_at": "2026-05-15 00:00:19",
-      "album": {
-        "name": "Everything Is A Lie",
-        "url": "https://open.spotify.com/album/35wlLxK5i9plY3sWDofMlM"
-      },
-      "artists": [
-        {
-          "name": "The Foreign Resort",
-          "url": "https://open.spotify.com/artist/6kXaD1btBJJZTzIP49biJ9"
-        }
-      ],
-      "duration_ms": 281344,
-      "name": "Everything Is A Lie",
-      "url": "https://open.spotify.com/track/2QXc1Da1rod008BfOw2Zuv"
     },
     {
       "added_at": "2026-05-15 00:00:19",

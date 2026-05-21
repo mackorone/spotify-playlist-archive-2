@@ -1,29 +1,13 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12845,
+  "num_followers": 12847,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAAAE2ox8eHCmgsGLnsM5c95D",
+  "snapshot_id": "aguoAAAAAAAzpEXrasgCTenoGpiMTyfR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Alight",
-        "url": "https://open.spotify.com/album/1LaBF87xj1NLlsxVDh7vY7"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 206780,
-      "name": "Head Alight",
-      "url": "https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7BIBkAvDaaSvM3dnmy6g3u"
+        "name": "Head Alight",
+        "url": "https://open.spotify.com/album/1LaBF87xj1NLlsxVDh7vY7"
       },
       "artists": [
         {
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 171450,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb"
     },
     {
       "added_at": null,
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7BIBkAvDaaSvM3dnmy6g3u"
       },
       "artists": [
         {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Oversized",
-      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
+      "duration_ms": 171450,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
     },
     {
       "added_at": null,
@@ -155,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
@@ -164,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 204631,
-      "name": "Crickets Throw Their Voice",
-      "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
+      "duration_ms": 157586,
+      "name": "Oversized",
+      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
     },
     {
       "added_at": null,
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
       "artists": [
         {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 194933,
-      "name": "For You The Moon",
-      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
+      "duration_ms": 204631,
+      "name": "Crickets Throw Their Voice",
+      "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
     },
     {
       "added_at": null,
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
+      "duration_ms": 194933,
+      "name": "For You The Moon",
+      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
     },
     {
       "added_at": null,
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+      "duration_ms": 209533,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
     },
     {
       "added_at": null,
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Earl Grey",
-      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": null,
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Promise Everything",
-      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
+      "duration_ms": 154560,
+      "name": "Earl Grey",
+      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
+      "duration_ms": 157080,
+      "name": "Promise Everything",
+      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
     },
     {
       "added_at": null,
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 179733,
-      "name": "Brother's Keeper",
-      "url": "https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb"
+      "duration_ms": 177706,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 200210,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/5oRxEyLz3ACg8HrWAsIumT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Brother's Keeper",
+      "url": "https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beside Myself",
         "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215373,
       "name": "Stigmata",
       "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Further Sky",
-        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "Animal Nitrate",
-      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beside Myself",
         "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Further Sky",
+        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "Animal Nitrate",
+      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs About The Weather",
         "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 130972,
-      "name": "Meet Me In St. Louis",
-      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 130972,
+      "name": "Meet Me In St. Louis",
+      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
     },
     {
       "added_at": null,

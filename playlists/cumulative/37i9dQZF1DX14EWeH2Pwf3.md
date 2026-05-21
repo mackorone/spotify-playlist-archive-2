@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Shiva in cover della playlist urban più grande d'Italia, aspettando l'ultimo dei suoi concerti a Milano 🔥
+> Shiva in cover della playlist urban più grande d'Italia, ci vediamo al concerto di stasera a Milano 🔥
 
 1,065 songs - 2 day 3 hr 38 min
 
@@ -850,7 +850,7 @@
 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 3:04 | 2024-03-14 | 2024-04-19 |
 | [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:13 | 2024-12-19 | 2025-01-21 |
 | [RIDE OR DIE \(feat\. Niky Savage\)](https://open.spotify.com/track/1qgk1PhlI4GTurjPUbnKtc) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [RIDE OR DIE \(feat\. Niky Savage\)](https://open.spotify.com/album/6Gg0xTU8BdmG8qjvW7oE5Y) | 2:35 | 2026-05-07 |  |
-| [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [DIBLA](https://open.spotify.com/artist/0ijEFBPmeKw59p4i1hkigg), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 | 2026-04-30 |  |
+| [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 | 2026-04-30 |  |
 | [Rimango free \(feat\. Tony Effe\)](https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:38 | 2025-05-29 | 2025-06-04 |
 | [Rivincita](https://open.spotify.com/track/58IaLYnyQ787qajqSBVHFq) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 2:36 | 2026-02-13 | 2026-03-27 |
 | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/track/7d61TYD3b29COOCNAap2b8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/album/0hy1MZJH0K6tyzqlHbbDqr) | 2:55 | 2025-11-06 | 2025-12-05 |

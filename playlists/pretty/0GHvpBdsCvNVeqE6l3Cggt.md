@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 49 songs - 3 hr 9 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,9 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 |
-| 39 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 |
-| 40 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 |
-| 41 | [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 |
-| 42 | [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 |
-| 43 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
-| 44 | [Second Chance](https://open.spotify.com/track/49D2hBnLk5rqQzPUEsS0zS) | [Ryandexbull](https://open.spotify.com/artist/6xcOyB1OapzUvFSR8d6R4M) | [Second Chance](https://open.spotify.com/album/74CnigfnvWZeyglwZYzMcO) | 3:03 |
-| 45 | [Everything Goes On](https://open.spotify.com/track/2rllct6mqneQYoMt66qsTp) | [asobou](https://open.spotify.com/artist/0pWmm42KlgcRUX2qOOBf32) | [Everything Goes On](https://open.spotify.com/album/5DqyUfB2BhWXWvrrio3Hn5) | 3:26 |
-| 46 | [Deeper](https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F) | [Mala Society](https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj) | [iGen](https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP) | 2:20 |
-| 47 | [Belong](https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Belong](https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv) | 3:34 |
-| 48 | [Bored To Death \- Savoir Adore Remix](https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Bored To Death \(Savoir Adore Remix\)](https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK) | 2:37 |
-| 49 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 |
+| 38 | [Deeper](https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F) | [Mala Society](https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj) | [iGen](https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP) | 2:20 |
+| 39 | [Belong](https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Belong](https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv) | 3:34 |
+| 40 | [Bored To Death \- Savoir Adore Remix](https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Bored To Death \(Savoir Adore Remix\)](https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK) | 2:37 |
+| 41 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 |
 
-Snapshot ID: `AAAkNhze7r4UchegUUV+LieNOZfzsG8e`
+Snapshot ID: `AAAkPp2IHKd7eWxiQyjmUBvsO+okF8sB`

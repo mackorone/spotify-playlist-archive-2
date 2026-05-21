@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1738,
+  "num_followers": 1758,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "If Somebody Told Me You Were Dying",
         "url": "https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 185944,
       "name": "If Somebody Told Me You Were Dying",
       "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 137682,
       "name": "All Day",
       "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Block Party",
-        "url": "https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ly",
-          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
-        }
-      ],
-      "duration_ms": 150539,
-      "name": "Block Party",
-      "url": "https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Second Hand",
         "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Block Party",
+        "url": "https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "duration_ms": 150539,
+      "name": "Block Party",
+      "url": "https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ"
     },
     {
       "added_at": "2026-05-01 04:04:33",

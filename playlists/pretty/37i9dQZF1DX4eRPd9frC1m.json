@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2576174,
+  "num_followers": 2576242,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-05-01 04:02:57",
       "album": {
-        "name": "Lock It",
-        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lock It",
-      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
-    },
-    {
-      "added_at": "2026-05-01 04:02:57",
-      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-05-01 04:02:57",
+      "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
       "added_at": "2026-05-01 04:02:57",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2026-05-01 04:02:57",
       "album": {
-        "name": "Are We Dreaming?",
-        "url": "https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/753rbQGinx1824G2x3k5HM"
-    },
-    {
-      "added_at": "2026-05-01 04:02:57",
-      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 185379,
       "name": "Ground Shake",
       "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+    },
+    {
+      "added_at": "2026-05-01 04:02:57",
+      "album": {
+        "name": "Are We Dreaming?",
+        "url": "https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/753rbQGinx1824G2x3k5HM"
     },
     {
       "added_at": "2026-05-01 04:02:57",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-05-01 04:02:57",
       "album": {
+        "name": "Duel of the Fates",
+        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 202449,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "added_at": "2026-05-01 04:02:57",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2026-05-01 04:02:57",
-      "album": {
-        "name": "Duel of the Fates",
-        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 202449,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
     },
     {
       "added_at": "2026-05-01 04:02:57",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2026-05-01 04:02:57",
       "album": {
-        "name": "HORSEPOWER",
-        "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
-          "name": "CREG",
-          "url": "https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "HORSEPOWER",
-      "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
-    },
-    {
-      "added_at": "2026-05-01 04:02:57",
-      "album": {
         "name": "System Shock",
         "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 162206,
       "name": "IN THE ALLEY",
       "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
+    },
+    {
+      "added_at": "2026-05-01 04:02:57",
+      "album": {
+        "name": "HORSEPOWER",
+        "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "CREG",
+          "url": "https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "HORSEPOWER",
+      "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
     },
     {
       "added_at": "2026-05-01 04:02:57",
@@ -1567,26 +1567,18 @@
     {
       "added_at": "2026-05-01 04:02:57",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 205241,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     }
   ],
   "unique_name": "Hype",

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Din\u00e1micos Jrs en portada.",
-  "num_followers": 530003,
+  "num_followers": 530034,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+        "name": "Fuera Mas Feliz",
+        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
+      "duration_ms": 141285,
+      "name": "Fuera Mas Feliz",
+      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "A Ver Como Le Hago",
-        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 161875,
-      "name": "A Ver Como Le Hago",
-      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Fuera Mas Feliz",
-        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 141285,
-      "name": "Fuera Mas Feliz",
-      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Te Cura El Tiempo",
-        "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Te Cura El Tiempo",
-      "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Hoy La Vi Pasar",
         "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 197866,
       "name": "Hoy La Vi Pasar",
       "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Te Cura El Tiempo",
+        "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Te Cura El Tiempo",
+      "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Dos Pa\u2019 Llevar",
-        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Dos Pa\u2019 Llevar",
-      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Nomas Pa Que Sepan",
         "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Dos Pa\u2019 Llevar",
+        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Dos Pa\u2019 Llevar",
+      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
         }
       ],
-      "duration_ms": 197051,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
+      "duration_ms": 183562,
+      "name": "Cosas Del Amor - Live",
+      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 183562,
-      "name": "Cosas Del Amor - Live",
-      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -923,18 +923,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
         }
       ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -959,42 +963,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Se Rindi\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+        "name": "Apenas Prend\u00ed El Motor",
+        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
       "artists": [
         {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
         },
         {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
         }
       ],
-      "duration_ms": 153885,
-      "name": "Se Rindi\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 203276,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+      "duration_ms": 117866,
+      "name": "Apenas Prend\u00ed El Motor",
+      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1015,22 +999,38 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Apenas Prend\u00ed El Motor",
-        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
       },
       "artists": [
         {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        },
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 117866,
-      "name": "Apenas Prend\u00ed El Motor",
-      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 203276,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "EL CHAVALON",
-        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "EL CHAVALON",
-      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 140832,
       "name": "Las Tres Vueltas",
       "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
+        "name": "Como Te Amo Yo",
+        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Como Te Amo Yo",
+      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
         "name": "El Lunar",
         "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Como Te Amo Yo",
-        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Chavalos",
-          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Como Te Amo Yo",
-      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Desde El Charco (En Vivo)",
         "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Mi Condena",
-        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
-      },
-      "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Mi Condena",
-      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Las Prestadas",
         "url": "https://open.spotify.com/album/55a9d4kowVoIQSKtGNqMXA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 226346,
       "name": "Te Amar\u00e9 M\u00e1s",
       "url": "https://open.spotify.com/track/3u1UKlvuMdCr5TexrT6RTH"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "El Baquet\u00f3n",
-        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
-      },
-      "artists": [
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 149326,
-      "name": "El Baquet\u00f3n",
-      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "El Consejo",
         "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 171444,
       "name": "El Consejo",
       "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "El Baquet\u00f3n",
+        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
+      },
+      "artists": [
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 149326,
+      "name": "El Baquet\u00f3n",
+      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
     },
     {
       "added_at": "2026-05-08 06:00:22",

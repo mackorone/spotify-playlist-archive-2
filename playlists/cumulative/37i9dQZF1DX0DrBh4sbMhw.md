@@ -4,7 +4,7 @@
 
 > ang lalim
 
-351 songs - 21 hr 38 min
+353 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-10-18 | 2024-12-30 |
 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-11-12 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-14 |  |
+| [dito muna tayo](https://open.spotify.com/track/3s276KIhP12iPWoQRWXvxX) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C), [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [dito muna tayo](https://open.spotify.com/album/7FxiLNDHJDAZ7ZQmtOoba3) | 3:55 | 2026-05-20 |  |
 | [Dive \- Ellie's Version](https://open.spotify.com/track/0mVpff7KFIp0PdFJuU3kR1) | [Ellie Banke](https://open.spotify.com/artist/5oyWr2nOEd2KnF8HHvAb1Q) | [Dive \(Ellie's Version\)](https://open.spotify.com/album/046RRsEz7vXk4Ym7tzEg5n) | 3:56 | 2025-07-21 | 2025-09-18 |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-02-07 | 2024-06-06 |
 | [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 | 2024-12-16 | 2025-01-23 |
@@ -100,7 +101,7 @@
 | [Entablado](https://open.spotify.com/track/4LlcehDkplP0BIimgnUBHY) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Entablado](https://open.spotify.com/album/7G31hhcREMlt0NW3Tt4Uhb) | 3:23 | 2023-10-18 | 2024-11-05 |
 | [Fall Back](https://open.spotify.com/track/7vXsGpLRJXsXzv8OtLbIvT) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Fall Back](https://open.spotify.com/album/6fdWFfg1kgRm9EQf0SsOki) | 3:02 | 2025-03-03 | 2025-04-15 |
 | [favorite lesson](https://open.spotify.com/track/4sclvawl5PVjt5oXRcPbF2) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [favorite lesson](https://open.spotify.com/album/4c6mzbbKDCZWc4WUbTHqKG) | 3:25 | 2023-10-18 | 2024-11-05 |
-| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 | 2026-05-21 |
 | [Funeral Song](https://open.spotify.com/track/6Dn7DyEV8MHnvLNl0ebuGQ) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [Funeral Song](https://open.spotify.com/album/5lp6ypJaSTA67bGFjKmFq8) | 2:59 | 2026-03-24 | 2026-03-31 |
 | [gabay](https://open.spotify.com/track/7JiQIPsBtzU8MjWw0g9isG) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [gabay](https://open.spotify.com/album/7D6n1U40yTbKpbBNN1zuKb) | 3:30 | 2023-10-18 | 2024-11-05 |
 | [Gabi](https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Gabi](https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa) | 4:28 | 2026-03-24 | 2026-03-31 |
@@ -180,12 +181,13 @@
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2024-06-05 | 2024-06-12 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2023-10-18 | 2023-11-11 |
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2023-10-18 | 2024-11-05 |
+| [Listahan](https://open.spotify.com/track/5S7Deakw4SQd7FsNbtzyoe) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Listahan](https://open.spotify.com/album/1N8OwJNdnxPGKmxw0UL91t) | 4:35 | 2026-05-20 |  |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-10-18 | 2024-11-12 |
 | [love from afar](https://open.spotify.com/track/0fvl59TGA4uO3a2kVDsOWM) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [love from afar](https://open.spotify.com/album/6NxNRFMuU0jiWyaMdj6EPM) | 4:09 | 2024-06-05 | 2024-06-12 |
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2024-03-04 | 2024-06-06 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2024-02-07 | 2024-04-19 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-17 | 2025-04-01 |
-| [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-03-16 |  |
+| [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-03-16 | 2026-05-21 |
 | [loved you better](https://open.spotify.com/track/18XTAbnDaMIzRqtxCjc6zO) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [loved you better](https://open.spotify.com/album/4ZSB9Ro38U9HbqU0WsQ35z) | 2:30 | 2025-04-14 | 2025-05-24 |
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-07-07 |  |
 | [Luxury](https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR), [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Luxury](https://open.spotify.com/album/7kBweeovFGldh5ORLMdXE7) | 3:09 | 2026-03-24 | 2026-03-31 |

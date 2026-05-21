@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-513 songs - 1 day 5 hr 54 min
+514 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2023-08-07 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-24 |  |
 | [How to Be a Heartbreaker](https://open.spotify.com/track/1gnkpybsRV3GWkRzJdxeIi) | [Nightcore Reality](https://open.spotify.com/artist/50YUlSM9xB8BSdZC0EKk9Z), [Lizzy](https://open.spotify.com/artist/3CNzMBaWj6bMb0bKLdFt1n) | [How to Be a Heartbreaker](https://open.spotify.com/album/3CUbWwZOgucCBcJaZYpmaS) | 3:07 | 2022-09-30 |  |
+| [Hymn to the Decadent Life](https://open.spotify.com/track/00qsiWwjbJgraBSZDvFz36) | [Ro2noki](https://open.spotify.com/artist/4yLOF9ZLc9gOubIyxAMgks) | [My Coffin, My Toy Box](https://open.spotify.com/album/4IlhbwPnhO6JNJVYEqKK7J) | 3:36 | 2026-05-20 |  |
 | [Hyperventilation](https://open.spotify.com/track/44mZhyNniIIpPBcWH2LKz8) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Keitaidenwa](https://open.spotify.com/album/7a8yFfZEztVnP3srNfSOL1) | 4:23 | 2023-01-09 |  |
 | [I AM HUNGRY!!](https://open.spotify.com/track/4DA5J3ekgIZsyisDJbyEZz) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:05 | 2022-10-13 |  |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-08-31 |  |

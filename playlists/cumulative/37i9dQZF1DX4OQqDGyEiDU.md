@@ -4,7 +4,7 @@
 
 > Explore the current wave of VOCALOID culture\. Cover: TAK
 
-718 songs - 1 day 16 hr 7 min
+719 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Noda](https://open.spotify.com/track/2mcfjrstoB777JtRmYYsds) | [大漠波新](https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h) | [Noda](https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp) | 2:57 | 2023-12-26 | 2024-01-05 |
 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 | 2024-03-15 |
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
+| [numb numb \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [numb numb \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG) | 2:47 | 2026-05-20 |  |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2022-06-09 | 2022-07-18 |
 | [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 | 2023-02-16 | 2023-03-22 |

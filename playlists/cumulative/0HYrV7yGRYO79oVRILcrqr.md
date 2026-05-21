@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-509 songs - 1 day 7 hr 39 min
+511 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-10-06 | 2025-11-28 |
 | [Artık](https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG) | [Aras Arslan](https://open.spotify.com/artist/6BKgIw6tXuCQM0UIs6yyEy) | [Artık](https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i) | 4:15 | 2025-11-25 | 2025-12-17 |
+| [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 | 2026-05-20 |  |
 | [Au bout de la nuit](https://open.spotify.com/track/5h2b8NmBP1NuDRcj3MiOY2) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Au bout de la nuit](https://open.spotify.com/album/0fWJ5dT5EhIG9BrosvE55D) | 2:25 | 2025-11-03 | 2025-12-17 |
 | [BABY GO](https://open.spotify.com/track/5PsTxRwyKfx1S9vsCM1ouT) | [blacknova](https://open.spotify.com/artist/2oiCextt5oQWllMgsAYBNC) | [ORTO / TEMPO \(frequenze\)](https://open.spotify.com/album/5AikHoo7zXd2G33dcx9kyQ) | 2:55 | 2025-11-13 | 2025-12-17 |
 | [Baby!](https://open.spotify.com/track/00bSBI6AygGAYnfgkaxume) | [En Man & En Kvinna](https://open.spotify.com/artist/71ImAICJS2JHrnhQhyCFNX), [Mathijs Van Woerkum](https://open.spotify.com/artist/2SPEwMEX1f3kBWrtIeFxFj) | [Baby!](https://open.spotify.com/album/5ugD2jsFmarYmQd0vAgdw1) | 4:55 | 2025-11-05 | 2025-12-17 |
@@ -511,6 +512,7 @@
 | [You Learn](https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [You Learn](https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW) | 4:03 | 2026-05-10 |  |
 | [You turned my life upside down](https://open.spotify.com/track/1gOgkXRC7Fn1DgZhH23gRI) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [You turned my life upside down](https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9) | 4:39 | 2025-09-24 | 2025-12-17 |
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
+| [YOUR PAIN](https://open.spotify.com/track/5PIQLaJ46BXWEJnaEmy3vS) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3), [SUNAIRAPPER](https://open.spotify.com/artist/45DkBg9P60otTaU9aC7Nya) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:36 | 2026-05-20 |  |
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |
 | [État des lieux](https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f) | [JESS ROGUE](https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD) | [État des lieux](https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4) | 3:34 | 2026-04-06 | 2026-04-21 |
 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 | 2026-04-06 | 2026-04-21 |

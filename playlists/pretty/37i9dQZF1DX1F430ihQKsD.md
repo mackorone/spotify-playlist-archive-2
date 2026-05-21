@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Thierry Larose
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,053 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,047 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 47 | [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 |
 | 48 | [Sans oublier](https://open.spotify.com/track/0dJrBrnOdYpRNfNiYcjuYj) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 3:26 |
 | 49 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 |
-| 50 | [Phasing](https://open.spotify.com/track/4DMB4wFZedjkmGcnFyLwEV) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Phasing](https://open.spotify.com/album/5KQcl4HhmCUvK9vLeWbiCI) | 4:32 |
+| 50 | [Phasing](https://open.spotify.com/track/4DMB4wFZedjkmGcnFyLwEV) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Phasing](https://open.spotify.com/album/5KQcl4HhmCUvK9vLeWbiCI) | 4:30 |
 | 51 | [Saving Face](https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN) | [Olivia Khoury](https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe) | [Saving Face](https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM) | 4:01 |
 | 52 | [Fuck that shit](https://open.spotify.com/track/5TYHTMqKSiPG03EvWaHXJD) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Traitement Choc](https://open.spotify.com/album/08a6ND8gt6KMUn3aGOn52M) | 4:33 |
 | 53 | [Des heurts et des ratages](https://open.spotify.com/track/52gBEjxp38AXHZ3CAWIbjL) | [Catherine Leduc](https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn) | [Les jours où il neige à tous les postes](https://open.spotify.com/album/6b7Gvih39GaKHDgs2MDXrL) | 3:52 |

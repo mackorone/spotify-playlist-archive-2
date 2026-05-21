@@ -4,7 +4,7 @@
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-102 songs - 4 hr 43 min
+103 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 | 2024-03-22 |  |
 | [Nothing But A Heartache](https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK) | [The Flirtations](https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 2:41 | 2024-03-22 |  |
 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 | 2024-03-22 |  |
+| [Number One in Your Heart](https://open.spotify.com/track/7k47FUBMP4HOiREdIfSC0X) | [Herbie Goins & The Night\-Timers](https://open.spotify.com/artist/0XWqijhdSQS02cmqiRcehT) | [Talcum Soul 5](https://open.spotify.com/album/1X20pmXcHDJxSxCFETmpdB) | 2:44 | 2024-03-22 |  |
 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 | 2024-03-22 |  |
 | [Ordinary Joe](https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Occasional Rain](https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9) | 4:13 | 2024-03-22 |  |
 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 | 2024-03-22 |  |
@@ -83,7 +84,7 @@
 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 | 2024-03-22 |  |
 | [Tainted Love](https://open.spotify.com/track/2ADfheRRkK5P2f1t8si3Lj) | [Gloria Jones](https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l) | [Vixen](https://open.spotify.com/album/0vBH7dsa3ZY44AeGimirdZ) | 2:42 | 2024-03-22 |  |
 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 | 2024-03-22 |  |
-| [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 | 2024-03-22 |  |
+| [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 | 2024-03-22 | 2026-05-21 |
 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 | 2024-03-22 |  |
 | [The Night](https://open.spotify.com/track/28k2ktADh2z4cRyAzQCyrf) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Magic Of Motown \(Chunky Repackaged\)](https://open.spotify.com/album/7jmpVfmFahtBSxGFWR9V2N) | 3:20 | 2024-03-22 |  |
 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 | 2024-03-22 |  |

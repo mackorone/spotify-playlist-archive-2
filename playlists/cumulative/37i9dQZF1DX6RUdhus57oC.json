@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/3LMyS8dC4dPSbIU7uGu4hV"
+      },
+      "artists": [
+        {
+          "name": "Florian Palmer",
+          "url": "https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/29vKgz3LXrTMqbxy71p0Fr"
+    },
+    {
+      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 167500,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"

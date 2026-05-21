@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,284 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,287 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 37 | [Oublie\-la \(feat\. Jul\)](https://open.spotify.com/track/6sLCWOVXbpwykq3pnso2Bm) | [Nada](https://open.spotify.com/artist/3ITEeeUF199eEtg4xg3mzB), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Oublie\-la \(feat\. Jul\)](https://open.spotify.com/album/164GPWY2AVzh2KHKHD60DN) | 2:54 |
 | 38 | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/track/5cRB7bjIxlRw1WE1s6mSob) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/album/64tJiJFVMWd0EbFXQu3bfi) | 2:45 |
 | 39 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 |
-| 40 | [Chic](https://open.spotify.com/track/2O0PyqI1NcZaBexnZRTVph) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr), [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [Chic](https://open.spotify.com/album/0SGCy198gEl9SSfGvyoPhT) | 2:34 |
+| 40 | [CHIC](https://open.spotify.com/track/2O0PyqI1NcZaBexnZRTVph) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr), [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [CHIC](https://open.spotify.com/album/0SGCy198gEl9SSfGvyoPhT) | 2:34 |
 | 41 | [Besoin de temps](https://open.spotify.com/track/6FOiFBrIrINmWIaDvxf9Pd) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Besoin de temps](https://open.spotify.com/album/7ggZYVBoVk8uvuOA2CeAAh) | 2:56 |
 | 42 | [Bad Boy](https://open.spotify.com/track/1lZ3lrfihYiq47ywSzu1ZX) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Bad Boy](https://open.spotify.com/album/6r1x7Pf23XFHxBLsqLh6i9) | 2:05 |
 | 43 | [LÉWÉ](https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [LÉWÉ](https://open.spotify.com/album/6WwthXnlTCy9mrCL85Jfab) | 3:29 |

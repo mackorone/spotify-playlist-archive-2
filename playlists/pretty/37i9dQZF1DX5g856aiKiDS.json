@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518010,
+  "num_followers": 518024,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
+        "name": "Pink cheeks",
+        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Pink cheeks",
+      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 245413,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
-        "name": "Pink cheeks",
-        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Pink cheeks",
-      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
     },
     {
       "added_at": "2026-04-20 02:25:39",

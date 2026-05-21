@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,541 songs - 3 day 17 hr 20 min
+1,542 songs - 3 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,10 +828,10 @@
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-24 | 2024-11-26 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-06-10 |
 | [Starry Night](https://open.spotify.com/track/0RHrHwiq3NoNVdaJyZmQGE) | [SOOSOJIN](https://open.spotify.com/artist/1QDsbdknb1Jd9csoYqmZZW) | [Starry Night](https://open.spotify.com/album/7bsQAODe654NJr0xGIEWu3) | 3:24 | 2026-05-19 |  |
-| [Starry Night \(Inst.\)](https://open.spotify.com/track/1hLTEbh0E8dsrOiA4LUMRj) | [SOOSOJIN](https://open.spotify.com/artist/1QDsbdknb1Jd9csoYqmZZW) | [Starry Night](https://open.spotify.com/album/7bsQAODe654NJr0xGIEWu3) | 3:24 | 2026-05-19 |  |
+| [Starry Night \(Inst.\)](https://open.spotify.com/track/1hLTEbh0E8dsrOiA4LUMRj) | [SOOSOJIN](https://open.spotify.com/artist/1QDsbdknb1Jd9csoYqmZZW) | [Starry Night](https://open.spotify.com/album/7bsQAODe654NJr0xGIEWu3) | 3:24 | 2026-05-19 | 2026-05-21 |
 | [start a war](https://open.spotify.com/track/6SaSFVlIQC1L6Fh1QKLeFi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:45 | 2025-03-08 | 2025-03-16 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-24 | 2026-05-06 |
-| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2026-04-13 |  |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2026-04-13 | 2026-05-21 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2023-01-03 |
 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 | 2024-12-07 | 2024-12-21 |
@@ -1159,7 +1159,7 @@
 | [喃嘸師感官漫遊](https://open.spotify.com/track/2zRPV8j2xHJs4aBKgs4Zsy) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [ISFP](https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH) | 3:09 | 2024-06-26 | 2024-07-02 |
 | [喫煙席](https://open.spotify.com/track/3eT4GvkE7uzp9hdYxc4So2) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:06 | 2021-09-01 | 2021-09-02 |
 | [單程票](https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [單程票](https://open.spotify.com/album/2SotDVVlfqOy4gdA0F7wSj) | 3:41 | 2026-02-12 | 2026-02-14 |
-| [囍帖街](https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:31 | 2025-11-22 |  |
+| [囍帖街](https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:31 | 2025-11-22 | 2026-05-21 |
 | [四人遊](https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd), [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:48 | 2025-03-03 | 2025-03-05 |
 | [四月物語](https://open.spotify.com/track/3MqGva6ELfd235l8WtkTIa) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [四月物語](https://open.spotify.com/album/3TFoUzcs5EGik3ZGxg5jOf) | 3:33 | 2025-04-16 | 2025-09-25 |
 | [四月物語](https://open.spotify.com/track/0PHFt12Hehu7smo0ywHRf5) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Evergreen](https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm) | 3:33 | 2025-12-30 | 2026-05-10 |
@@ -1218,7 +1218,7 @@
 | [念](https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan) | 4:48 | 2024-02-23 | 2024-04-19 |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2023-02-28 | 2023-03-02 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
-| [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2026-05-20 |
+| [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 |  |
 | [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-09-06 |
 | [恭喜發財 \- 國](https://open.spotify.com/track/7KkWs6lt3RoWULV0BbMxpM) | [Andy Lau](https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS) | [繼續談情 新歌 & 精選](https://open.spotify.com/album/2NhXm946kI9gszGcFGSPxW) | 3:22 | 2026-02-18 | 2026-02-20 |
 | [恭喜發財利是來](https://open.spotify.com/track/0ePcNB0iceljEXFOJ3Hsvm) | [吳君如](https://open.spotify.com/artist/1ke6AhABWt342nBwFBUiIT) | [我有我的溫柔](https://open.spotify.com/album/2JWSC7VOPaFLwZamQ4Auia) | 3:25 | 2026-02-18 | 2026-02-20 |
@@ -1379,6 +1379,7 @@
 | [獅虎流](https://open.spotify.com/track/35KMN3DGnQaQlnfjCr5dcJ) | [Fatboy](https://open.spotify.com/artist/15gjdkbTAdGepZQ6URumfU), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [獅虎流](https://open.spotify.com/album/5UhpXTizGH3n0HEDMmwDJf) | 3:16 | 2025-12-27 | 2026-01-21 |
 | [玉蝴蝶](https://open.spotify.com/track/1DYMqEb36sEyO16itHpRmW) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [玉蝴蝶](https://open.spotify.com/album/5ZMedXQKpMV8a0EZTKWP25) | 4:50 | 2025-04-25 | 2025-05-15 |
 | [玩偶奇遇記](https://open.spotify.com/track/1hf26XBrWNvfKiOeXU2Vtk) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [玩偶奇遇記](https://open.spotify.com/album/0h9vXUEeAfK52pujHyOaY2) | 4:03 | 2024-11-21 | 2025-06-22 |
+| [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 | 2026-05-20 |  |
 | [玻璃心](https://open.spotify.com/track/3HYsldPuR1FSOfxcKjwAvv) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [鬼才做音樂](https://open.spotify.com/album/5V1PJcyR7XiEHusoeCvpzS) | 3:58 | 2021-11-17 | 2021-12-04 |
 | [玻璃心](https://open.spotify.com/track/4SQxzEwMRZcLl4XSDoWCL5) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [玻璃心](https://open.spotify.com/album/2e5in6GxWwtHPwPi7lqf4N) | 3:58 | 2021-10-19 | 2021-11-17 |
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2021-08-29 | 2022-02-17 |
@@ -1456,7 +1457,7 @@
 | [與我無關](https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 3:25 | 2024-03-13 | 2024-08-04 |
 | [花海](https://open.spotify.com/track/1OZ58eLyCAI7D0rtBozAGW) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 2:57 | 2024-03-13 | 2024-03-17 |
 | [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 | 2023-04-19 | 2023-10-06 |
-| [花邊細胞](https://open.spotify.com/track/6IsPYRqlNhhVLr9o3jWquT) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [花邊細胞](https://open.spotify.com/album/3uVeBWQk41dT4ZbPEMT6fW) | 3:02 | 2026-03-25 | 2026-05-20 |
+| [花邊細胞](https://open.spotify.com/track/6IsPYRqlNhhVLr9o3jWquT) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [花邊細胞](https://open.spotify.com/album/3uVeBWQk41dT4ZbPEMT6fW) | 3:02 | 2026-03-25 |  |
 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 | 2023-04-28 | 2023-07-23 |
 | [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2021-03-27\* | 2024-05-08 |
 | [藍剔未必是壞習慣](https://open.spotify.com/track/0Hld18F3rLTpZmQK3WKWz1) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [藍剔未必是壞習慣](https://open.spotify.com/album/7KBcEGy2LHjW1AoGBWKUZs) | 3:39 | 2025-09-10 | 2025-10-05 |

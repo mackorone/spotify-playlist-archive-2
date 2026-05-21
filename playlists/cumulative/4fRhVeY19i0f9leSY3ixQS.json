@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 135057,
       "name": "Bloodmoon",
       "url": "https://open.spotify.com/track/0HKEgHv6XSh7iEuPFysbxM"
@@ -15376,7 +15376,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 175524,
       "name": "Moonshot",
       "url": "https://open.spotify.com/track/2NEZmAlotN9gbZY8xsnwkY"
@@ -17312,7 +17312,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Outcast",
       "url": "https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC"
@@ -23495,6 +23495,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of the Monkey Man",
+        "url": "https://open.spotify.com/album/5iZHAZjbqJ4qQlxHCfXHLE"
+      },
+      "artists": [
+        {
+          "name": "According To Jack",
+          "url": "https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201226,
+      "name": "The Ballad of the Monkey Man",
+      "url": "https://open.spotify.com/track/5o7jRmRmOWY47SjAs4Zo5Q"
+    },
+    {
+      "album": {
         "name": "The Beat",
         "url": "https://open.spotify.com/album/0SGlHdLL1eF5cOYC6GRmLh"
       },
@@ -23572,7 +23590,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 186395,
       "name": "The Bit That Breaks",
       "url": "https://open.spotify.com/track/0oAh9dBD52ChvB0KjO5YgP"

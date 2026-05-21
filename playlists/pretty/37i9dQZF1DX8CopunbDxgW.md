@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > ANOTR with more delightful summer grooves 🌞 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,737 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,725 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 43 | [New Girls](https://open.spotify.com/track/2Nz93l5eq1VkMI2oX2cCG9) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:20 |
 | 44 | [Nothing Left](https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [Nothing Left](https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS) | 3:00 |
 | 45 | [Lot More Love](https://open.spotify.com/track/7obqbQ3RMw1FLZWnEnz9Ib) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Born Funky](https://open.spotify.com/album/4fgmkEC1PEIe7tADrMHWeE) | 3:11 |
-| 46 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
+| 46 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 47 | [A Moment Like That](https://open.spotify.com/track/2XCTfIMG5NKBcqlM71liG0) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [A Moment Like That](https://open.spotify.com/album/1cKJa8ObjWixbZFpkSxMqI) | 4:07 |
 | 48 | [Push The Rope](https://open.spotify.com/track/0TmeZ8MFYKLU5USOIf4P2z) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h) | [Push The Rope](https://open.spotify.com/album/0QKAeG6zKroCGpJSnrb4Wu) | 5:42 |
 | 49 | [Go Ahead](https://open.spotify.com/track/3vjU7tlE0gMhusAgY7OoHt) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [Go Ahead](https://open.spotify.com/album/0C7JY4rdJ724GZ0KovqjJG) | 3:06 |

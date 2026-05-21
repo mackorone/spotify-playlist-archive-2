@@ -4,23 +4,21 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 
 > The sounds that have currently got the Rough Trade Records team excited, including new releases and favourites from the archive\. Currently updated every Monday.
 
-[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 15,970 likes - 14 songs - 47 min 55 sec
+[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 15,973 likes - 12 songs - 46 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 |
-| 2 | [Open Strings](https://open.spotify.com/track/53FPBHbMMvPlqXGPkHbyVz) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island / Open Strings](https://open.spotify.com/album/2GDzqBUmQ3R54A8tvHki68) | 4:09 |
-| 3 | [Goodbye My Love](https://open.spotify.com/track/7zdOr65auW5MFf5T1lBxIx) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [For The First Time, Again](https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy) | 2:23 |
-| 4 | [HOUSE](https://open.spotify.com/track/4BghnK3x7fTPCLK9yQjFeK) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [GOLDSTAR](https://open.spotify.com/album/7mTtyluyCS8hY97tqZDpoc) | 4:19 |
-| 5 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 |
-| 6 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 |
-| 7 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
-| 8 | [Magic Man](https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [Magic Man](https://open.spotify.com/album/4N468uvbihepIVfjDhe82d) | 2:55 |
-| 9 | [Rat Bastard](https://open.spotify.com/track/228Uj0cV2Qs5MmjnAeCpoK) | [Mock Media](https://open.spotify.com/artist/0cwLwwiGsAf8lKDLr5GCNf) | [Rat Bastard](https://open.spotify.com/album/5Bz3LJsAFtOGqhFQ84vdfB) | 3:52 |
-| 10 | [Wild In The Uplands](https://open.spotify.com/track/0Emr5YBSfzjLKVTf6Txf0d) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Wild In The Uplands](https://open.spotify.com/album/1nJsE3CaU2H3Sjr614oCwZ) | 2:39 |
-| 11 | [turn so slow](https://open.spotify.com/track/2NAjbMr9n67R9iFfwH58Kp) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [turn so slow](https://open.spotify.com/album/0yRnE3VHRzWEGYDhUBLp4n) | 3:45 |
-| 12 | [Gussied Up](https://open.spotify.com/track/0eLDyjpsQdqfyxdpKKYfIs) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [Gussied Up](https://open.spotify.com/album/5m3PD6fLmS0IuAaxXSxjAj) | 3:16 |
-| 13 | [478 freestyle](https://open.spotify.com/track/6vzGpryGBxgf4HxFRElj0i) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [478 freestyle](https://open.spotify.com/album/2y4ainnLvuDEoAVqtQWZ7A) | 1:28 |
-| 14 | [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 |
+| 1 | [Beautiful ending \- Giant Claw Remix](https://open.spotify.com/track/0CL8rJtrUSpPLkOkDisuOt) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc) | [Beautiful ending \(Giant Claw Remix\)](https://open.spotify.com/album/5jNghdRggSV6Z8OCpT44XP) | 4:02 |
+| 2 | [Perfect Way \- Remaster](https://open.spotify.com/track/1H0tGwgAstAxLzf9N7e1XL) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Cupid & Psyche 85 \(2022 Remaster\)](https://open.spotify.com/album/7Din1AyNdpWkYlDhxbFoFu) | 4:33 |
+| 3 | [In The Shadow Of Your Ego](https://open.spotify.com/track/3XCMoxErSw7FbrgleP9jUm) | [Sunday Mourners](https://open.spotify.com/artist/7zlE048Rl8GTsbWAP1MZeQ) | [In The Shadow Of Your Ego](https://open.spotify.com/album/0VzhDy48yKgz54kOzu5G4K) | 3:28 |
+| 4 | [Soul Time](https://open.spotify.com/track/43AxKhfph92zcKMRAiqwvS) | [Shirley Ellis](https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg) | [Sugar, Let's Shing\-A\-Ling](https://open.spotify.com/album/1kWifxi5V0WQdBI0jZyv8M) | 2:37 |
+| 5 | [Right Track](https://open.spotify.com/track/3APk2BngsDT5y1ZlfhtWx3) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track](https://open.spotify.com/album/2ixFeU0MwqRnHzmjMfN0TI) | 2:28 |
+| 6 | [I Want'a Do Something Freaky To You](https://open.spotify.com/track/4xiVqeo21JSq78pFGojGVY) | [Leon Haywood](https://open.spotify.com/artist/4r2UnA39uIXexqO1mABayb) | [Come And Get Yourself Some](https://open.spotify.com/album/4Q5sjR9gX9KmyhYOa39bYi) | 5:52 |
+| 7 | [You Are](https://open.spotify.com/track/5qUTDIOCMufayjyWf4V074) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [You Are](https://open.spotify.com/album/5Vh7K6GYEzawDjAj5NVNd8) | 4:13 |
+| 8 | [Love Hit Me With A Wallop \- Original](https://open.spotify.com/track/14yMcFEQ1zLnqEOL0cq4PU) | [Roddie Joy](https://open.spotify.com/artist/6WjcsBFHLNYWjozNeTzKTs) | [Roddie Joy's Love Hit Me With A Wallop](https://open.spotify.com/album/2qS5YyQnro6OJUdoxqOT4M) | 2:22 |
+| 9 | [Muffin Man](https://open.spotify.com/track/1a19kiTeYBOaS9G9aYNnEQ) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [Captain Beefheart](https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS), [The Mothers](https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K) | [Bongo Fury \(Live\)](https://open.spotify.com/album/5ya1WvD8rFTmxeF7szOolq) | 5:37 |
+| 10 | [Matter of Time](https://open.spotify.com/track/0oDv7wIr85mZEJ5FIbuAFt) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [More](https://open.spotify.com/album/6oCEAeL5fCmc7jawaM5GQm) | 3:28 |
+| 11 | [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 |
+| 12 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 
-Snapshot ID: `AAAYLHncndvJB1wsCTOofS9FqCb21wQl`
+Snapshot ID: `AAAYRklbX/qYkSxkIPBZxY8k0ZnFY/w6`

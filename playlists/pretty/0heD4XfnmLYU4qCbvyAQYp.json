@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO0tiuvWbNruzvkxUUELW2gAHhyt/L",
+  "snapshot_id": "AAAO0xlTTRDrI6C5cG8oYhaGgGTeOxdW",
   "tracks": [
+    {
+      "added_at": "2026-05-20 17:12:04",
+      "album": {
+        "name": "Equivalent",
+        "url": "https://open.spotify.com/album/2dlU18JmLb0Vnyny648nfY"
+      },
+      "artists": [
+        {
+          "name": "Gobaith",
+          "url": "https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80"
+        }
+      ],
+      "duration_ms": 211536,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2ydaOy71tSGZIgl3cj7ZAY"
+    },
     {
       "added_at": "2026-05-18 16:34:34",
       "album": {

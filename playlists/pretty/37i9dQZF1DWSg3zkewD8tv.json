@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 572280,
+  "num_followers": 572261,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "The Very Very Best Of Crowded House (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 238362,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "The Very Very Best Of Crowded House (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 238362,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Caress Your Soul",
-        "url": "https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k"
-      },
-      "artists": [
-        {
-          "name": "Sticky Fingers",
-          "url": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Caress Your Soul",
-      "url": "https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Into The Flame",
         "url": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 254213,
       "name": "Brother",
       "url": "https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Caress Your Soul",
+        "url": "https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k"
+      },
+      "artists": [
+        {
+          "name": "Sticky Fingers",
+          "url": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Caress Your Soul",
+      "url": "https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp"
     },
     {
       "added_at": "2026-02-12 13:00:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 472,
+  "num_followers": 474,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAABmTUYXjy2zLjbrFuE2v9ZU",
+  "snapshot_id": "aguoAAAAAAC57kEhQN9QWB4umhnWO4eV",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hit Wonder",
         "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 200345,
       "name": "One Hit Wonder",
       "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
     },
     {
       "added_at": null,

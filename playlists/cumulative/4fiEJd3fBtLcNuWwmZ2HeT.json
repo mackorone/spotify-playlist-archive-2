@@ -2523,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "My Coffin, My Toy Box",
+        "url": "https://open.spotify.com/album/4IlhbwPnhO6JNJVYEqKK7J"
+      },
+      "artists": [
+        {
+          "name": "Ro2noki",
+          "url": "https://open.spotify.com/artist/4yLOF9ZLc9gOubIyxAMgks"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216363,
+      "name": "Hymn to the Decadent Life",
+      "url": "https://open.spotify.com/track/00qsiWwjbJgraBSZDvFz36"
+    },
+    {
+      "album": {
         "name": "Keitaidenwa",
         "url": "https://open.spotify.com/album/7a8yFfZEztVnP3srNfSOL1"
       },

@@ -6536,7 +6536,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 122763,
       "name": "Bez pokoju",
       "url": "https://open.spotify.com/track/2n5ZbIp73chEOuXOJrfkOX"
@@ -13172,7 +13172,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 85714,
       "name": "DEMB\u00c9L\u00c9",
       "url": "https://open.spotify.com/track/0eIjqj9neZohklIvAIDRcY"
@@ -30292,7 +30292,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 124724,
       "name": "LUBI\u0118 CI\u0118 JAK LATO",
       "url": "https://open.spotify.com/track/6oqK1jPVhhs37ZZiqtEKVA"
@@ -35454,6 +35454,28 @@
       "duration_ms": 235368,
       "name": "Najwy\u017cej zostaniemy najwy\u017cej",
       "url": "https://open.spotify.com/track/7koK9dRYIyhjsno739jmgT"
+    },
+    {
+      "album": {
+        "name": "NAKAZ WJAZDU",
+        "url": "https://open.spotify.com/album/69AhxGF4YuV0AXEDF3mwjH"
+      },
+      "artists": [
+        {
+          "name": "W\u0141ODAR",
+          "url": "https://open.spotify.com/artist/1H8lEfbUpbcXWFqbW9BMro"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "NAKAZ WJAZDU",
+      "url": "https://open.spotify.com/track/4MZEaNgAvUj8MGFCEjIy0J"
     },
     {
       "album": {
@@ -48962,7 +48984,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 181700,
       "name": "sezon",
       "url": "https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL"
@@ -49544,7 +49566,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 116778,
       "name": "skepta",
       "url": "https://open.spotify.com/track/5sRqSodNcQHXlwFF3qXnW1"

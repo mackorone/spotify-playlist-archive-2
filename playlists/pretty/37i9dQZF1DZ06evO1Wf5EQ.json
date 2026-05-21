@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAACjYJHZfou6kDx6AmFqfI4a",
+  "snapshot_id": "aguoAAAAAAA+ArzjLmsgjcWu7g5cSToE",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 124424,
+      "name": "Young Deb When She Was Happy",
+      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
       },
@@ -172,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 132899,
-      "name": "One Step, One Step\u2026",
-      "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
+      "duration_ms": 122261,
+      "name": "A Lead",
+      "url": "https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU"
     },
     {
       "added_at": null,
@@ -220,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 122261,
-      "name": "A Lead",
-      "url": "https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU"
+      "duration_ms": 132899,
+      "name": "One Step, One Step\u2026",
+      "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
     },
     {
       "added_at": null,
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
+      "duration_ms": 76850,
+      "name": "Lessons In Chemistry",
+      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
     },
     {
       "added_at": null,
@@ -316,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 76850,
-      "name": "Lessons In Chemistry",
-      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

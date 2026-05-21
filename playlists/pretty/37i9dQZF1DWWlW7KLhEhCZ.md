@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Pluck D, TheJovemJota, Lenco
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,027 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,021 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 8 | [Não Colo Com Broke](https://open.spotify.com/track/4Kn5bs5Y5TQBtPf1Jy0i24) | [LC](https://open.spotify.com/artist/1amyUfh073jcso0qkHZzC1), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Não Colo Com Broke](https://open.spotify.com/album/7155gFpsivBbT4EtppALrx) | 1:59 |
 | 9 | [Saia de casa](https://open.spotify.com/track/59QodDgb59dypeKHK94eV0) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Saia de casa](https://open.spotify.com/album/5nTio2LpKZBOheYJaAhIsE) | 2:30 |
 | 10 | [HOT SAUCE](https://open.spotify.com/track/0bE7SYiLfk1cFez4CKSNra) | [iamBJAY](https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl), [KALLY](https://open.spotify.com/artist/3EV9F3Ww4voprvw7X6zghY) | [HOT SAUCE](https://open.spotify.com/album/79iofr8aE9hyLjBZ3Bz6Jh) | 2:28 |
-| 11 | [Esnobe](https://open.spotify.com/track/0WOhMYMetmg66pBy9nWeAf) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Esnobe](https://open.spotify.com/album/6ERXlHgjLkyPoqXqyBOEpO) | 3:07 |
+| 11 | [Esnobe](https://open.spotify.com/track/0WOhMYMetmg66pBy9nWeAf) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [Pedro Aurora](https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Esnobe](https://open.spotify.com/album/6ERXlHgjLkyPoqXqyBOEpO) | 3:07 |
 | 12 | [Loverboy’s](https://open.spotify.com/track/1libgA1qxliusWEmgeY032) | [25monteiro](https://open.spotify.com/artist/5rSXqaAnXXpBhwCDeQ94eJ), [Cold](https://open.spotify.com/artist/2yj5kYctrH6DViY3gKGUUm) | [Loverboy’s](https://open.spotify.com/album/0B8Sf1ap15jnUGYIx9D4iL) | 2:08 |
 | 13 | [HORAS IGUAIS](https://open.spotify.com/track/4hAttq2sd7ZwBBiRv7Agnn) | [Dazzen](https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [25monteiro](https://open.spotify.com/artist/5rSXqaAnXXpBhwCDeQ94eJ), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [HORAS IGUAIS](https://open.spotify.com/album/3ct2LD8hMNWjDWQVcBOlg9) | 3:39 |
 | 14 | [Ademar Pigue](https://open.spotify.com/track/0pr4w0lwQjf3t3lKAtoFtL) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:01 |

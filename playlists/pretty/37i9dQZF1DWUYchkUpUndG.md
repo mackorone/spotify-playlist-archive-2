@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Godfrey Gad
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,953 likes - 87 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,975 likes - 87 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

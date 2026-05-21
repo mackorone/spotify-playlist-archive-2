@@ -1,123 +1,107 @@
 {
   "description": "<a href=\"spotify:artist:27LGatz1m8aJ7ZaVVWEphc\">Gui Boratto</a>'s favourite tracks. Updated regularly. Curated by Gui Boratto. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 81589,
+  "num_followers": 81595,
   "original_name": "Gui Boratto's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKEvHswDgHfNqq2x+SNcohm+8LHL",
+  "snapshot_id": "AAAAAEvP0gNqkY7pdDphc+Or/W74LArn",
   "tracks": [
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Love Will Find A Way (feat. House Of EL)",
-        "url": "https://open.spotify.com/album/3NeGqRu4LUAaKmAm0DfjUq"
+        "name": "DOC Magnum Vol II",
+        "url": "https://open.spotify.com/album/366hjJZcx8MxJxa2Mho9qg"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Gabriel Brasil",
+          "url": "https://open.spotify.com/artist/14bYN418r2dFExkfaOvjKg"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1hUptU5R7YQp2ZvaqNNhx7"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "What You Like (feat. yun\u00e8 pinku)",
+        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Chapter Two : Damon Jee & Family",
+        "url": "https://open.spotify.com/album/0tifiFTyKEhHRCwsIhvZp6"
+      },
+      "artists": [
+        {
+          "name": "Damon Jee",
+          "url": "https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d"
+        },
+        {
+          "name": "Bonnie Spacey",
+          "url": "https://open.spotify.com/artist/255hSkioJ6vRV921Iyw4DA"
+        }
+      ],
+      "duration_ms": 358580,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/7lyZiSDDVFlbuOir2R1m5T"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "DOC Magnum Vol II",
+        "url": "https://open.spotify.com/album/366hjJZcx8MxJxa2Mho9qg"
+      },
+      "artists": [
         {
           "name": "Gui Boratto",
           "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         },
         {
-          "name": "House of EL",
-          "url": "https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos"
+          "name": "Shadow Movement",
+          "url": "https://open.spotify.com/artist/0bFHkfryNL2j4lva5LoBnN"
         }
       ],
-      "duration_ms": 182812,
-      "name": "Love Will Find A Way (feat. House Of EL)",
-      "url": "https://open.spotify.com/track/4jUfLTaMlcwyVSFH5QGm49"
+      "duration_ms": 144601,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/08zb3waqehspRLy8BueoRf"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Pieces I've Found",
-        "url": "https://open.spotify.com/album/3k3w2yylzyAGnpqWzFVIYy"
+        "name": "You",
+        "url": "https://open.spotify.com/album/2r1u4VFgE7pZvf28bgPizn"
       },
       "artists": [
         {
-          "name": "Barja",
-          "url": "https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+          "name": "Mason Maynard",
+          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
         }
       ],
-      "duration_ms": 174677,
-      "name": "Pieces I've Found",
-      "url": "https://open.spotify.com/track/18qSjdSh7L9ITHPkovknfs"
+      "duration_ms": 184782,
+      "name": "You - Edit",
+      "url": "https://open.spotify.com/track/61hQppufGvKelVZHZ3bnXk"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "C\u00f4co do Macaco",
-        "url": "https://open.spotify.com/album/0IGByGINwXIsML5hhxnM3X"
-      },
-      "artists": [
-        {
-          "name": "Coppola",
-          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "C\u00f4co do Macaco",
-      "url": "https://open.spotify.com/track/73nQpyonR7ylIvlj80Ub76"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Voice Recognition (Gui Boratto Remixes)",
-        "url": "https://open.spotify.com/album/1MKL3SNS6Lk4loQi4EWJms"
-      },
-      "artists": [
-        {
-          "name": "Ewan Hoo's Army",
-          "url": "https://open.spotify.com/artist/3AVhWhAyaEqL5XNCfWaztB"
-        },
-        {
-          "name": "Dave Seaman",
-          "url": "https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73"
-        },
-        {
-          "name": "Quivver",
-          "url": "https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 336614,
-      "name": "Voice Recognition - Gui Boratto Remix",
-      "url": "https://open.spotify.com/track/4WkhUPQVXd5qOz0JV2VCst"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "One Life Stand",
-        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 321496,
-      "name": "One Life Stand",
-      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Dense Music",
         "url": "https://open.spotify.com/album/48ZVJHsoIYeiNhrtjN8Lkp"
@@ -133,47 +117,131 @@
       "url": "https://open.spotify.com/track/4AmULZtflj3SktU5MPB6EK"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Olympic",
-        "url": "https://open.spotify.com/album/2y4r9loI38eOVHJV2TA2TC"
+        "name": "Scientists Of Sound / Diving Into The Sound",
+        "url": "https://open.spotify.com/album/2QxAV72Vk7djExnPMFJ4VV"
       },
       "artists": [
         {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
         },
         {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+          "name": "Luciana Villanova",
+          "url": "https://open.spotify.com/artist/0dREaOCPAtIhlJG3ZbbEt3"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Lovin' Feeling",
-      "url": "https://open.spotify.com/track/5euXVXIyjCxAs3hQ8QVabG"
+      "duration_ms": 187086,
+      "name": "Scientists Of Sound",
+      "url": "https://open.spotify.com/track/0YjakxB13JMfsgZ2hrIdbh"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Play Me Again",
-        "url": "https://open.spotify.com/album/54vSb9255iZKykjuytWbZh"
+        "name": "DOC Magnum Vol II",
+        "url": "https://open.spotify.com/album/366hjJZcx8MxJxa2Mho9qg"
       },
       "artists": [
         {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        },
-        {
-          "name": "Julia Minkin",
-          "url": "https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm"
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
         }
       ],
-      "duration_ms": 390638,
-      "name": "Moon (And It Went Like)",
-      "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
+      "duration_ms": 174374,
+      "name": "Last Ride",
+      "url": "https://open.spotify.com/track/0eKs9NS8ka1w70ifzrK8mW"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 360242,
+      "name": "Landa",
+      "url": "https://open.spotify.com/track/72FN3KE2IoxGmyPGtQNcTV"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Guidance Release",
+        "url": "https://open.spotify.com/album/3teTYdWUqNMh0AJELuQev8"
+      },
+      "artists": [
+        {
+          "name": "Cignol",
+          "url": "https://open.spotify.com/artist/6Ii0i59HI1QIBHATgI3vOl"
+        }
+      ],
+      "duration_ms": 455153,
+      "name": "Modularity",
+      "url": "https://open.spotify.com/track/0ofzNL3FhJTrg8w2p2YUlg"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Good Deal Redux",
+        "url": "https://open.spotify.com/album/5GEJLhRfMzMZaW2GDZE5sy"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Celestial Sphere",
+          "url": "https://open.spotify.com/artist/2Htc5RcHhwFaVxXAI01i24"
+        },
+        {
+          "name": "Echo Inspectors",
+          "url": "https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3"
+        }
+      ],
+      "duration_ms": 410154,
+      "name": "Second - Echo Inspectors Remix",
+      "url": "https://open.spotify.com/track/616sPA028Ap0GcOit6Txx8"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/5tucKl54GM5hx1ZRm8MKzU"
+      },
+      "artists": [
+        {
+          "name": "Mr Groo",
+          "url": "https://open.spotify.com/artist/59GtDOdW3f9027G2bEsU6l"
+        }
+      ],
+      "duration_ms": 74020,
+      "name": "Ocean Deep",
+      "url": "https://open.spotify.com/track/1McABsSvVkXd6nMFuvQrzY"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Planet Love Vol. 1 - Early Transmissions 1991-95",
+        "url": "https://open.spotify.com/album/0UAV7GUhRW1X1F8tuWTeo3"
+      },
+      "artists": [
+        {
+          "name": "Epsilon Nine",
+          "url": "https://open.spotify.com/artist/0xDCcTke5pFCy6gj1gIeJa"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "Life Formation",
+      "url": "https://open.spotify.com/track/0xr9uUTwDJbkpEterem9q4"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Panorama X-Press",
         "url": "https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x"
@@ -189,71 +257,7 @@
       "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Mood Variant (The Remixes)",
-        "url": "https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Ki Pharaoh",
-          "url": "https://open.spotify.com/artist/1vH1XV8ws6GXxksZRbqGis"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Red Room - Ki Pharaoh Basement Edit",
-      "url": "https://open.spotify.com/track/51GVoYEJPqlxE2vnZqRVRa"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Clay",
-        "url": "https://open.spotify.com/album/36gtuqDRQifMBJIHEaHUHV"
-      },
-      "artists": [
-        {
-          "name": "Matthew Herbert",
-          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
-        },
-        {
-          "name": "Herbert",
-          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
-        },
-        {
-          "name": "Momoko Gill",
-          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/4GPqRoEO1lszuH8mJaqNAx"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "There's Another Way (Gui Boratto's Rework)",
-        "url": "https://open.spotify.com/album/427Jn6qB5Wc7bB438uwtuS"
-      },
-      "artists": [
-        {
-          "name": "MOTO SOLO",
-          "url": "https://open.spotify.com/artist/0l6NxdphNnd5TJrCEudT97"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "There's Another Way (Gui Boratto's Rework Radio) - Radio Edit",
-      "url": "https://open.spotify.com/track/2QFCDqfbPV0Eq2Eoc5XDpI"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Madanna",
         "url": "https://open.spotify.com/album/14evB3117hHYREk5QDgQnr"
@@ -273,46 +277,310 @@
       "url": "https://open.spotify.com/track/4QIJDdvxSk8qYoCBgmZAbS"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Mind Dimension 2022 (Ben Sterling Remix)",
-        "url": "https://open.spotify.com/album/0Y0ZfAeXS1CBaWTvFCFMd4"
+        "name": "A Little Fun / Brain Drain",
+        "url": "https://open.spotify.com/album/08DaiRJietHugD3s69qrhO"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
         },
         {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+          "name": "Ocsav",
+          "url": "https://open.spotify.com/artist/5RPOIxzCtoKbOTKcEGprHx"
         }
       ],
-      "duration_ms": 330459,
-      "name": "Mind Dimension - Ben Sterling Remix",
-      "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
+      "duration_ms": 189999,
+      "name": "Brain Drain",
+      "url": "https://open.spotify.com/track/2Ot3lyYFmPeTLJTK1dgohF"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Paerels III",
-        "url": "https://open.spotify.com/album/06euMMSytYZ2nUcd3Rmysb"
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
       "artists": [
         {
-          "name": "Erik Luebs",
-          "url": "https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 379757,
-      "name": "Toward Entropy",
-      "url": "https://open.spotify.com/track/6n7RAwicTgbZMf35uny5RA"
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Comets",
-        "url": "https://open.spotify.com/album/16Vk5iOI9fCQLecJclCLTn"
+        "name": "Rue Burnout",
+        "url": "https://open.spotify.com/album/268zQgsPMWom4JWwJUsmRQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 498633,
+      "name": "Blume der Nacht",
+      "url": "https://open.spotify.com/track/7nMtYuDOvWxeCW9uHHZ3ku"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/2rwPuot38U8Pedqj4KZpfQ"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "duration_ms": 209516,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/6yuE9NgllIeorhVIvqfms1"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "DOC Magnum Vol II",
+        "url": "https://open.spotify.com/album/366hjJZcx8MxJxa2Mho9qg"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 191635,
+      "name": "Sunk",
+      "url": "https://open.spotify.com/track/0nCgfmYiAno3Xx7mcDtMVL"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "DOC Magnum Vol II",
+        "url": "https://open.spotify.com/album/366hjJZcx8MxJxa2Mho9qg"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "duration_ms": 146484,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/2RQfJs1ZALG81ROcq9e9wl"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Jack Your Body (S&S Reloaded)",
+        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
+      },
+      "artists": [
+        {
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+        }
+      ],
+      "duration_ms": 306231,
+      "name": "Jack Your Body - 1986 Club Mix",
+      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "TOOLS 4 HARDWORKERS 004",
+        "url": "https://open.spotify.com/album/2tz4aDa64T9jO7Qp2M8t2s"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "duration_ms": 268095,
+      "name": "My Neck My Back ft. Khia",
+      "url": "https://open.spotify.com/track/4Z9jBxkpBb9yvKVVQjqnUr"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "The Fall / My Place",
+        "url": "https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl"
+      },
+      "artists": [
+        {
+          "name": "Raxon",
+          "url": "https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID"
+        }
+      ],
+      "duration_ms": 430540,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5SGxyinOC5xopxJXS0DsUq"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Plants",
+        "url": "https://open.spotify.com/album/3nXABuiKY57Jk2nJKFqYZs"
+      },
+      "artists": [
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        },
+        {
+          "name": "Jon Dixon",
+          "url": "https://open.spotify.com/artist/7g9cSQt42L38ryYcG475eq"
+        },
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        }
+      ],
+      "duration_ms": 351117,
+      "name": "Germina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2YSc4oBloUdxixbEgm48b3"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Inta",
+        "url": "https://open.spotify.com/album/2fY3RTv687YL1mRwqafvQk"
+      },
+      "artists": [
+        {
+          "name": "Aloka",
+          "url": "https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Inta",
+      "url": "https://open.spotify.com/track/4cCR7W2Lgwj5R2hDyq2jzQ"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Olympic",
+        "url": "https://open.spotify.com/album/2y4r9loI38eOVHJV2TA2TC"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Lovin' Feeling",
+      "url": "https://open.spotify.com/track/5euXVXIyjCxAs3hQ8QVabG"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/5rEo4lfkEQabpJ1WpA6Drf"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 252245,
+      "name": "Swimswimswim",
+      "url": "https://open.spotify.com/track/37UcMho3b1s8HcS6dG9N2x"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "Golden Cage",
+      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Sacred Ground",
+        "url": "https://open.spotify.com/album/18N57Dml4yz9hVjzr4mV5S"
+      },
+      "artists": [
+        {
+          "name": "Howling",
+          "url": "https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 362640,
+      "name": "Short Line",
+      "url": "https://open.spotify.com/track/2HSGkZW4A50Q4wCsXaSVwT"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Lemuria",
+        "url": "https://open.spotify.com/album/2VzigJNr2zcbQANJQannxC"
       },
       "artists": [
         {
@@ -328,12 +596,12 @@
           "url": "https://open.spotify.com/artist/17QXSCKQaFewEbnWkBAy6T"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Comets",
-      "url": "https://open.spotify.com/track/4u2H9qhRGL5lfA5NnalBmG"
+      "duration_ms": 219000,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1Sawfw2DxPxK953YRTigYn"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Tako Tako",
         "url": "https://open.spotify.com/album/2JYZyvtVFfB9S2EJKfhYS5"
@@ -349,187 +617,7 @@
       "url": "https://open.spotify.com/track/3kEZ6dT70Btbj6SrtRZvWK"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Lifestyles Of The Laptop Caf\u00e9",
-        "url": "https://open.spotify.com/album/2XvYJISnuFJeAZFEqx1hhJ"
-      },
-      "artists": [
-        {
-          "name": "The Other People Place",
-          "url": "https://open.spotify.com/artist/3GLOOlJDdTCd4NRrNb5Kg3"
-        }
-      ],
-      "duration_ms": 329293,
-      "name": "Lifestyles Of The Casual",
-      "url": "https://open.spotify.com/track/5xZZUM6VMzGsoMfkAy6Oya"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Claudi",
-      "url": "https://open.spotify.com/track/3g8DDnbpzFbcYdZEOzhhdF"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Tundra",
-        "url": "https://open.spotify.com/album/23OJnqEAd4JZ1dOtLbyIXr"
-      },
-      "artists": [
-        {
-          "name": "Dorisburg",
-          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
-        }
-      ],
-      "duration_ms": 517664,
-      "name": "Tundra",
-      "url": "https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Rigormortiz",
-        "url": "https://open.spotify.com/album/3v68VgJ8ZomiO8hqiXkt16"
-      },
-      "artists": [
-        {
-          "name": "Yungruzt",
-          "url": "https://open.spotify.com/artist/3GR1QMA6ZB4yXPVymUqBrS"
-        }
-      ],
-      "duration_ms": 391720,
-      "name": "Rigormortiz",
-      "url": "https://open.spotify.com/track/7A70vXpEnca9jxBThGakKT"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "I'm In Love With A German Film Star (Gui Boratto Mix) (Edit)",
-        "url": "https://open.spotify.com/album/4jyEo8Xg89IrvCUpCEoz59"
-      },
-      "artists": [
-        {
-          "name": "Sam Taylor-Wood Produced By Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/52Eu1x9cG4Zm1NZZImr7Br"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 244157,
-      "name": "I'm In Love With A German Film Star (Gui Boratto Mix) - Edit",
-      "url": "https://open.spotify.com/track/1PjzPGZ7SE4ifCKDaZub97"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7vg6C4k2yd8E0bOPCoEVTg"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 324066,
-      "name": "Disco 2000 Selector",
-      "url": "https://open.spotify.com/track/1Of0GlA4i7mTIUpzItNZmr"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/4JPZPJSkRMONSb5Y1aMc9j"
-      },
-      "artists": [
-        {
-          "name": "Coppola",
-          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
-        },
-        {
-          "name": "2STRANGE",
-          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
-        }
-      ],
-      "duration_ms": 198508,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/7MkwoDv07H8iIXe4xYRsyr"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Suddenly Funk",
-        "url": "https://open.spotify.com/album/7qsuDziu8Cu6z3WPOtkS2U"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        }
-      ],
-      "duration_ms": 390410,
-      "name": "Suddenly Funk - Extended Mix",
-      "url": "https://open.spotify.com/track/6NmMSF6I39txtlrWfHdZAo"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Dope Dance",
-        "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        },
-        {
-          "name": "Radeckt",
-          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Dope Dance",
-      "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Lifestyles Of The Laptop Caf\u00e9",
         "url": "https://open.spotify.com/album/2XvYJISnuFJeAZFEqx1hhJ"
@@ -545,107 +633,71 @@
       "url": "https://open.spotify.com/track/55s7B24EXzo2oklyJcVQID"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+        "name": "Paerels III",
+        "url": "https://open.spotify.com/album/06euMMSytYZ2nUcd3Rmysb"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Erik Luebs",
+          "url": "https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+      "duration_ms": 379757,
+      "name": "Toward Entropy",
+      "url": "https://open.spotify.com/track/6n7RAwicTgbZMf35uny5RA"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Hit the Ground (20 Years Systematic)",
-        "url": "https://open.spotify.com/album/5Mza60UHnJ71RfkjXMdRfe"
+        "name": "Tundra",
+        "url": "https://open.spotify.com/album/23OJnqEAd4JZ1dOtLbyIXr"
       },
       "artists": [
         {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+          "name": "Dorisburg",
+          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Hit the Ground - Edit",
-      "url": "https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X"
+      "duration_ms": 517664,
+      "name": "Tundra",
+      "url": "https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Angled",
-        "url": "https://open.spotify.com/album/1LVtvvG7ZvGINcc2QCnkbN"
+        "name": "Nick & Astro's Guide to the Galaxy",
+        "url": "https://open.spotify.com/album/1biipttOuNVYIKDBNorvc9"
       },
       "artists": [
         {
-          "name": "Gabriel Brasil",
-          "url": "https://open.spotify.com/artist/14bYN418r2dFExkfaOvjKg"
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
         }
       ],
-      "duration_ms": 322379,
-      "name": "Angled",
-      "url": "https://open.spotify.com/track/34dmMggKn0zM9hgo3tSYSY"
+      "duration_ms": 293306,
+      "name": "No Sleep Til MTL",
+      "url": "https://open.spotify.com/track/1oDN1R61oEMydJwhfiEPGT"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN"
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/2R3CmmMoY8XCfUYamJ7Xsg"
       },
       "artists": [
         {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+          "name": "JUNIOR_C",
+          "url": "https://open.spotify.com/artist/5SWLgQ6dVvJSNXWN4dMEC6"
         }
       ],
-      "duration_ms": 234300,
-      "name": "Sunset Drive",
-      "url": "https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc"
+      "duration_ms": 601034,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/7c6kKFl74F1qqOqWPA3hoS"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Home Tonight",
-        "url": "https://open.spotify.com/album/4E3B3fOkXUHQX0rJY4IGpS"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Grace Hall",
-          "url": "https://open.spotify.com/artist/3k8eudFifqO12gm5rn4PNQ"
-        }
-      ],
-      "duration_ms": 553239,
-      "name": "Home Tonight - Extended Version",
-      "url": "https://open.spotify.com/track/7pdftgvGvCbBctYxPWZgf1"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Through The Green",
-        "url": "https://open.spotify.com/album/6Lh8aKCWg0PBZJQRBzRIaZ"
-      },
-      "artists": [
-        {
-          "name": "Tiger & Woods",
-          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
-        }
-      ],
-      "duration_ms": 489056,
-      "name": "Gin Nation - Original",
-      "url": "https://open.spotify.com/track/4cFvEaXTdtwfijW9ocyvcO"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Energetic (Remixes), Pt. 2",
         "url": "https://open.spotify.com/album/493zJ8N1NNR0g6Vk5vtHNe"
@@ -669,7 +721,43 @@
       "url": "https://open.spotify.com/track/2Z8opQRSukV6Wc7IdtVoZj"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "The Martyr Mantras",
+        "url": "https://open.spotify.com/album/7unxeJhLfrqIzZPhVuvFKp"
+      },
+      "artists": [
+        {
+          "name": "Jesus Loves You",
+          "url": "https://open.spotify.com/artist/37PcDG8IyAgXVSH5KAXUnp"
+        },
+        {
+          "name": "Pascal Gabriel",
+          "url": "https://open.spotify.com/artist/7BL6qeERwMHljrTjDGtgAM"
+        }
+      ],
+      "duration_ms": 381866,
+      "name": "No Clause 28 - Pascal Gabriel Mix",
+      "url": "https://open.spotify.com/track/6DlTsYVGvvNU3OtezJeQWn"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
+      "album": {
+        "name": "Underground Alternatives",
+        "url": "https://open.spotify.com/album/4seR9L4jUm7oFTJkaFdAMp"
+      },
+      "artists": [
+        {
+          "name": "Nick Holder",
+          "url": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Summer Daze",
+      "url": "https://open.spotify.com/track/2sbUWtAhUyGYXiCch6OcmO"
+    },
+    {
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "That Record With Friends On It",
         "url": "https://open.spotify.com/album/7BS3DH6pneZw3VwuX1FJuo"
@@ -685,155 +773,79 @@
       "url": "https://open.spotify.com/track/1zrD9siDiFNYPJ9wQNYhU8"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Moon II Remixes Pt. I",
-        "url": "https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P"
+        "name": "PARTY RECAP ONE",
+        "url": "https://open.spotify.com/album/1YsctOOErrBALrvPcGjImu"
       },
       "artists": [
         {
-          "name": "Iron Curtis",
-          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
-        },
-        {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Lisa Toh",
-          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
-        },
-        {
-          "name": "Benjamin Fr\u00f6hlich",
-          "url": "https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1"
+          "name": "DJ AFRIKAN",
+          "url": "https://open.spotify.com/artist/1gaUD7QBB1ENPzNRoqcEEd"
         }
       ],
-      "duration_ms": 284406,
-      "name": "Nektar - Benjamin Fr\u00f6hlich Remix",
-      "url": "https://open.spotify.com/track/0kjiVRFyQDHenoHo4Skm7r"
+      "duration_ms": 182235,
+      "name": "YARD FLOW - Vibe",
+      "url": "https://open.spotify.com/track/53PsytIaby0ntb4C4sFn2c"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "The Burgenland Dubs Reworked",
-        "url": "https://open.spotify.com/album/16YD66sAzSBIFqHUf4Xg7e"
+        "name": "Swing Bop",
+        "url": "https://open.spotify.com/album/1U0aGUiUrG8LFK6O8nfKhy"
       },
       "artists": [
         {
-          "name": "Ian Simmonds",
-          "url": "https://open.spotify.com/artist/3iRl4yxKVknVOyyFaBTOQn"
+          "name": "Der Dritte Raum",
+          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
         }
       ],
-      "duration_ms": 407710,
-      "name": "The Esel - Dave Aju Rmx",
-      "url": "https://open.spotify.com/track/754ePCk9XvNrQIXuESDnAR"
+      "duration_ms": 444640,
+      "name": "Swing Bop - Salon Version",
+      "url": "https://open.spotify.com/track/1QaGB39QStUjDlT9e6v7pH"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "What You Like (feat. yun\u00e8 pinku)",
-        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+        "name": "Good Deal Redux",
+        "url": "https://open.spotify.com/album/5GEJLhRfMzMZaW2GDZE5sy"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
         },
         {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+          "name": "Celestial Sphere",
+          "url": "https://open.spotify.com/artist/2Htc5RcHhwFaVxXAI01i24"
+        },
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
         }
       ],
-      "duration_ms": 193893,
-      "name": "What You Like",
-      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+      "duration_ms": 431861,
+      "name": "Good Deal - Martinou Remix",
+      "url": "https://open.spotify.com/track/2iETw90qLajzETf8qTfnp6"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "In The Crowd",
-        "url": "https://open.spotify.com/album/0cADXU271uQ0uezv0etR7N"
+        "name": "Klyne",
+        "url": "https://open.spotify.com/album/4WUzT9TZGfU5sGsAXXjyaG"
       },
       "artists": [
         {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Biishop",
-          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
+          "name": "Klyne",
+          "url": "https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7"
         }
       ],
-      "duration_ms": 259640,
-      "name": "In The Crowd",
-      "url": "https://open.spotify.com/track/06S1wlkIltEgHHZoY0Dl9z"
+      "duration_ms": 223583,
+      "name": "Water Flow",
+      "url": "https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Sophisticated",
-        "url": "https://open.spotify.com/album/78fHQzjlP6ODm74vxrxA0B"
-      },
-      "artists": [
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "Coppola",
-          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
-        },
-        {
-          "name": "2STRANGE",
-          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
-        }
-      ],
-      "duration_ms": 207842,
-      "name": "Sophisticated",
-      "url": "https://open.spotify.com/track/383wX8zpQKBIWsXCmtrYFd"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/5rEo4lfkEQabpJ1WpA6Drf"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 252245,
-      "name": "Swimswimswim",
-      "url": "https://open.spotify.com/track/37UcMho3b1s8HcS6dG9N2x"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
         "name": "Devin Dazzle & The Neon Fever",
         "url": "https://open.spotify.com/album/0ZjTr5xpR3qGdDL5HcOHfy"
@@ -849,132 +861,56 @@
       "url": "https://open.spotify.com/track/5MM1szb8iuVTaobe1b2i3D"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4fbfSC8PRmDXYHQrol9IEZ"
+        "name": "Doctor Adamski\u2019s Musical Pharmacy",
+        "url": "https://open.spotify.com/album/4tr6huX1QRgVJ8KEFsAKd7"
       },
       "artists": [
         {
-          "name": "Closer Musik",
-          "url": "https://open.spotify.com/artist/2j7JwncWKK8w0Lfb2xjKdy"
-        }
-      ],
-      "duration_ms": 307709,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6d5fwsXEP3U0h5qD1JizGG"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "DJ-Kicks (Maceo Plex) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2IKQbqaZhhEnTI6ha9udxP"
-      },
-      "artists": [
-        {
-          "name": "Monsters From ID",
-          "url": "https://open.spotify.com/artist/0Xxn1O431zevNZYg6X2ZoA"
-        }
-      ],
-      "duration_ms": 257032,
-      "name": "Spatial Lobe - Mixed",
-      "url": "https://open.spotify.com/track/57QEqFOJKkr8fGkYG1XkPH"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 325160,
-      "name": "Orozco",
-      "url": "https://open.spotify.com/track/1dzEjFQAJBmewLjPzD8B3t"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Monde R\u00e9el",
-        "url": "https://open.spotify.com/album/2SnKgyqOhDjZX6ULoq2lF0"
-      },
-      "artists": [
-        {
-          "name": "Vhyce",
-          "url": "https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa"
+          "name": "Adamski",
+          "url": "https://open.spotify.com/artist/737Z8bAmJiUqg2I6Ru8fYV"
         },
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Monde R\u00e9el - Catz 'n Dogz Pride Mix",
-      "url": "https://open.spotify.com/track/79LRebOGsw2wyZG9toBTeO"
+      "duration_ms": 250760,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Sounds Of Blue (Gui Boratto Remix)",
-        "url": "https://open.spotify.com/album/7KXjPDhqYbbXNPUGKdlpAU"
+        "name": "cigarette burns",
+        "url": "https://open.spotify.com/album/3sLGUgkpxUrQh94jYa4OQF"
       },
       "artists": [
         {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+          "name": "moonvampire",
+          "url": "https://open.spotify.com/artist/4Fu7HwkDJZ4NFpmefid5TA"
         }
       ],
-      "duration_ms": 393264,
-      "name": "Sounds Of Blue (Gui Boratto Remix)",
-      "url": "https://open.spotify.com/track/5UvMXeQKAFPguKBkTYlzj0"
+      "duration_ms": 157647,
+      "name": "cigarette burns",
+      "url": "https://open.spotify.com/track/2ppEOWsoHsdN5TfiJ6QAtW"
     },
     {
-      "added_at": "2025-10-09 11:01:38",
+      "added_at": "2026-05-20 13:56:00",
       "album": {
-        "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
-        "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
+        "name": "Pop Ambient 2006",
+        "url": "https://open.spotify.com/album/0eoppuZqhhloLhrE8QOtLK"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        },
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+          "name": "Uli Teichmann",
+          "url": "https://open.spotify.com/artist/6WrP3J9NWimEHEBz22yOWO"
         }
       ],
-      "duration_ms": 499865,
-      "name": "Mutante - Gui Boratto Rework",
-      "url": "https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr"
-    },
-    {
-      "added_at": "2025-10-09 11:01:38",
-      "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 253119,
-      "name": "Rose Quartz",
-      "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
+      "duration_ms": 318146,
+      "name": "Piano Tec",
+      "url": "https://open.spotify.com/track/6RhnYpGT7rlBg2pbCcdKho"
     }
   ],
   "unique_name": "Gui Boratto's track IDs",

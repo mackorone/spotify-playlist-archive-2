@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20626,
+  "num_followers": 20630,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
-        "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Love Condition",
-      "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
+        "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Love Condition",
+      "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Do my best",
+      "url": "https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 211000,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
-        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Feel Special",
-      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

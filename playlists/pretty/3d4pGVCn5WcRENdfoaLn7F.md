@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 670 likes - 111 songs - 6 hr 23 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 670 likes - 113 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 109 | [HOLES](https://open.spotify.com/track/45j00HSKzMiIfJ4elyzxGs) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 2:44 |
 | 110 | [Schön und dumm](https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Schön und dumm](https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU) | 3:52 |
 | 111 | [Surrender](https://open.spotify.com/track/5XOraQSzk88vT3orGMofDR) | [Fenix](https://open.spotify.com/artist/2VIZpeJoUKPcl9oU61pf8j) | [Finale](https://open.spotify.com/album/1VQU6mqrk0yC9UffcI6Rj5) | 3:54 |
+| 112 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 |
+| 113 | [Nowhere to Ride](https://open.spotify.com/track/3Ax6hg04Pp7kauGmqlyuzq) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/6PcEqIVCtKe9bSZYHD314w) | 2:22 |
 
-Snapshot ID: `AAADd/M/SZPgTic6XAarKDlfE1ZtYPWl`
+Snapshot ID: `AAADeY7uiD907ZciXwyCUddeW4dZ0Ywv`

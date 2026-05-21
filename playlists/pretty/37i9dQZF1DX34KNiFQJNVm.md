@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Os Garotin, Shakira com Burna Boy,  Drake,  Ana Castela com PEDRO SAMPAIO,  MD Chefe com Duquesa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284,899 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284,823 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 59 | [Academia](https://open.spotify.com/track/5v8v1mq60vD31yawDjRQV0) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Dj Autentico](https://open.spotify.com/artist/6FQoG9Hkeqfxpojfvfizrd), [negao real](https://open.spotify.com/artist/4NaQiW239ByZWbAuFPzRmn), [Cauazin Priv](https://open.spotify.com/artist/62zngk4Rm00wf5wckEtjWt) | [Academia](https://open.spotify.com/album/1w082TfhNH8RCn5p1fcktY) | 2:36 |
 | 60 | [Carro Escuro](https://open.spotify.com/track/1zL0KSwkVtLDAjzmsh92u2) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Arthurzinho Batedeira](https://open.spotify.com/artist/710YoXWGrf1hKCLPk5sPdD), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Danilo Chatinho](https://open.spotify.com/artist/7cTDzhfHIHqhaKbNqcjhmf), [DJ Malicia](https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW) | [Carro Escuro](https://open.spotify.com/album/76tvt0efkEBfjER58owjsN) | 1:58 |
 | 61 | [Sentir Seu Calor](https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Verã071](https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG) | 2:50 |
-| 62 | [Esnobe](https://open.spotify.com/track/0WOhMYMetmg66pBy9nWeAf) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Esnobe](https://open.spotify.com/album/6ERXlHgjLkyPoqXqyBOEpO) | 3:07 |
+| 62 | [Esnobe](https://open.spotify.com/track/0WOhMYMetmg66pBy9nWeAf) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [Pedro Aurora](https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Esnobe](https://open.spotify.com/album/6ERXlHgjLkyPoqXqyBOEpO) | 3:07 |
 | 63 | [4x4](https://open.spotify.com/track/28MDTxTjQzVX0qJ6Ug0S9h) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [4x4](https://open.spotify.com/album/1Xj30Bw9q3EB7pDQaNZbDZ) | 3:20 |
 | 64 | [2K26](https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [2K26](https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce) | 3:00 |
 | 65 | [Bota Elas pra Balançar](https://open.spotify.com/track/6jGTsrg1bICVMzojb4oT50) | [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Afro Favela \- From The Borel To The World](https://open.spotify.com/album/43nqJnZVaby3T9eyTyVDkr) | 3:32 |

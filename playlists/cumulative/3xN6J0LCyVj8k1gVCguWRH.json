@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 153983,
       "name": "10,000 Miles",
       "url": "https://open.spotify.com/track/3MN9ut5vjL3MNqAo72Z37O"
@@ -29214,7 +29214,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 319360,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/7oaas9HgRy8pR4UkNl39rF"
@@ -39444,7 +39444,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 154015,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1mLtR4wo2bIgTEnP9OMffU"
@@ -59131,6 +59131,24 @@
     },
     {
       "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/1lemSDAOwaemAmknFa46mC"
+      },
+      "artists": [
+        {
+          "name": "Nicky MacKenzie",
+          "url": "https://open.spotify.com/artist/0DvB7H1zfupECFAdeVede5"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237988,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/162UE0PRhiElUBdUSPZc49"
+    },
+    {
+      "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/5a8noT2OwR7N292UJqmrQj"
       },
@@ -67245,6 +67263,24 @@
     },
     {
       "album": {
+        "name": "My Love to Keep",
+        "url": "https://open.spotify.com/album/4ShlH3BCbXI54C90Gs1ukR"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "My Love to Keep",
+      "url": "https://open.spotify.com/track/0cZGqMUhNgBreljSY3CyaP"
+    },
+    {
+      "album": {
         "name": "My Melody",
         "url": "https://open.spotify.com/album/2fQjgO30ltKJrtKO0kUEvH"
       },
@@ -70106,7 +70142,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 139319,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/1ElC7PDJYL6x6Fgt1vnkAa"
@@ -81396,7 +81432,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 225731,
       "name": "Rest",
       "url": "https://open.spotify.com/track/1QlkVeFUAVMjLKF4y9ygTS"
@@ -92658,7 +92694,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 225024,
       "name": "Stressin",
       "url": "https://open.spotify.com/track/2RhSwCmICOrpYySU9qAYuN"
@@ -100334,7 +100370,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 196851,
       "name": "Things We Should Have Known",
       "url": "https://open.spotify.com/track/0qBamTQMI0693ndb9oNrN1"
@@ -111254,7 +111290,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 218469,
       "name": "Why Do You Hurt Me?",
       "url": "https://open.spotify.com/track/0IT6p148h4AsqG6QVOesas"
@@ -114776,7 +114812,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 139817,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/6gnlmZTSOUqzGCKE5IA7Vt"

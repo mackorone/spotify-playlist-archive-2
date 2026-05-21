@@ -1,13 +1,61 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: GRESLEY. Artwork by Paola Saliby",
-  "num_followers": 239480,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Mollie Elizabeth. Artwork by Paola Saliby",
+  "num_followers": 239500,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHshELrkkrpRU9kPVW4DRM3qhPb",
+  "snapshot_id": "AAAAAD1FK+NASwCJdTVzCaJupyuPZF7E",
   "tracks": [
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "So What?",
+        "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 168383,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
+    },
     {
       "added_at": "2026-04-29 04:00:30",
       "album": {
@@ -23,6 +71,138 @@
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "Never Be Friends",
+        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 179189,
+      "name": "Never Be Friends",
+      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "shovel",
+        "url": "https://open.spotify.com/album/0oFJdt4hxeQczqv7om1POI"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "duration_ms": 166232,
+      "name": "shovel",
+      "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "Dull Red",
+        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "duration_ms": 213407,
+      "name": "What A Bummer!",
+      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "In Your Head",
+        "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 151966,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "something i'm not",
+        "url": "https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "duration_ms": 154072,
+      "name": "something i'm not",
+      "url": "https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 161100,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "Red Siren Pick Up",
+        "url": "https://open.spotify.com/album/4seMsFDOwjsrhrXY76oSmP"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        },
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 178381,
+      "name": "Red Siren Pick Up",
+      "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
+    },
+    {
+      "added_at": "2026-05-20 04:00:06",
+      "album": {
+        "name": "free",
+        "url": "https://open.spotify.com/album/3Q7pXnkSY80FN5I1MCNInR"
+      },
+      "artists": [
+        {
+          "name": "Ana Kahan",
+          "url": "https://open.spotify.com/artist/6enycJ8VKJvxQ2lyAo5xz3"
+        }
+      ],
+      "duration_ms": 181039,
+      "name": "free",
+      "url": "https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD"
     },
     {
       "added_at": "2026-05-13 17:43:08",
@@ -313,38 +493,6 @@
       "url": "https://open.spotify.com/track/4f3O9Ws3QdyaCUmye01Rmk"
     },
     {
-      "added_at": "2026-04-15 04:00:17",
-      "album": {
-        "name": "stay with me",
-        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
-      },
-      "artists": [
-        {
-          "name": "d\u00f3ttir.x",
-          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "stay with me",
-      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
-    },
-    {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "Smile More",
-        "url": "https://open.spotify.com/album/641fN8nipBqleoXvyebEYl"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 228488,
-      "name": "Smile More",
-      "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
-    },
-    {
       "added_at": "2026-03-04 05:00:33",
       "album": {
         "name": "Aren't You Curious?",
@@ -391,22 +539,6 @@
       "duration_ms": 212811,
       "name": "Overwhelmed",
       "url": "https://open.spotify.com/track/1cY7aYp1ioUC4mkPTT2qpf"
-    },
-    {
-      "added_at": "2026-04-22 04:00:09",
-      "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 125698,
-      "name": "The Mirror",
-      "url": "https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP"
     },
     {
       "added_at": "2026-04-22 04:00:09",
@@ -633,22 +765,6 @@
       "url": "https://open.spotify.com/track/36hnCRSMqRM7umgXEdG4DV"
     },
     {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "4th Wall",
-        "url": "https://open.spotify.com/album/3JDkeoDg1MFK5ApgfzJCXn"
-      },
-      "artists": [
-        {
-          "name": "OK Alva",
-          "url": "https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2"
-        }
-      ],
-      "duration_ms": 190629,
-      "name": "4th Wall",
-      "url": "https://open.spotify.com/track/0CLL1DTuOOcxV0WJ6TPTvX"
-    },
-    {
       "added_at": "2026-04-01 04:00:18",
       "album": {
         "name": "Jade",
@@ -663,22 +779,6 @@
       "duration_ms": 244007,
       "name": "Jade",
       "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
-    },
-    {
-      "added_at": "2026-03-25 04:00:19",
-      "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-04-01 04:00:18",
@@ -953,22 +1053,6 @@
       "url": "https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol"
     },
     {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "When You Fall In Love",
-        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 187057,
-      "name": "When You Fall In Love",
-      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
-    },
-    {
       "added_at": "2026-03-18 15:49:05",
       "album": {
         "name": "Blueberry Skies",
@@ -1065,22 +1149,6 @@
       "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
     },
     {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Tears Ago",
-        "url": "https://open.spotify.com/album/3FcduBIdAeYXLTBmHl7iId"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "Tears Ago",
-      "url": "https://open.spotify.com/track/5E0SRWQIVOpPBWfOB4F1DA"
-    },
-    {
       "added_at": "2026-03-11 13:57:39",
       "album": {
         "name": "How Cruel",
@@ -1099,22 +1167,6 @@
     {
       "added_at": "2026-03-11 04:00:22",
       "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
-      },
-      "artists": [
-        {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
-        }
-      ],
-      "duration_ms": 193236,
-      "name": "I'll come back to you",
-      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
         "name": "There's a Bridge",
         "url": "https://open.spotify.com/album/346sFMjZ1DUCWrRDMsYMgg"
       },
@@ -1127,54 +1179,6 @@
       "duration_ms": 168312,
       "name": "There's a Bridge",
       "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "First Night of My Life",
-        "url": "https://open.spotify.com/album/1Tobr8qTjJ1APhKpEj90lb"
-      },
-      "artists": [
-        {
-          "name": "Alder Cote",
-          "url": "https://open.spotify.com/artist/0CiMpVlvx7HH7YSCczLotT"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "First Night of My Life",
-      "url": "https://open.spotify.com/track/1Ii1Yq2CpoRkP9elQsUpl2"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": "Leaving Me Lonely",
-        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Leaving Me Lonely",
-      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
     },
     {
       "added_at": "2026-02-18 18:23:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,674 songs - 6 day 11 hr 47 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,676 songs - 6 day 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2682,5 +2682,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2672 | [Slow Day](https://open.spotify.com/track/4Mj5RC9pHkTUByduocvkiQ) | [Tempr](https://open.spotify.com/artist/5MMqbQjXAMn6ihkmmDwWOm) | [Slow Day](https://open.spotify.com/album/07rmaPoBopDMWCOJWwlKRt) | 3:24 |
 | 2673 | [I'll Wait for You](https://open.spotify.com/track/7dJpYIhEMCtdSoVaB4aVPw) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 3:20 |
 | 2674 | [Ride On](https://open.spotify.com/track/3cOxGsyNbpVkdzVuR1CTSI) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [Walk Right Through](https://open.spotify.com/album/0hoQQdQJLWjowjSpoivAD0) | 2:35 |
+| 2675 | [Your Last Show](https://open.spotify.com/track/4iuVCdpNTQG7K5LiHWN0XN) | [JM LE COUEDIC](https://open.spotify.com/artist/2wr67doyBJOly96Gi8xv6X), [Larry Magee](https://open.spotify.com/artist/5z0kIziglW9RciMPdgLS6S) | [Your Last Show](https://open.spotify.com/album/6XNAvC8wsZoArV8H560MeT) | 4:00 |
+| 2676 | [Blue tune](https://open.spotify.com/track/0RNQne6RylKVUVhDqYwutN) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [Blue tune](https://open.spotify.com/album/37EchHk4bAJOhrEUMN7NAN) | 5:22 |
 
-Snapshot ID: `AAALC6KjtbNl8amgeBkBH0cHD7uPNOeq`
+Snapshot ID: `AAALDeAqJLgsOuRL+6PVMBQBN5d6i2f7`

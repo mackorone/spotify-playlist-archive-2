@@ -10828,7 +10828,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 212000,
       "name": "Free Walk",
       "url": "https://open.spotify.com/track/46x2cgaUSfRaSq23m7X3DW"
@@ -13350,7 +13350,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 365066,
       "name": "III",
       "url": "https://open.spotify.com/track/1ugfBj9fsGT5biFc05KraW"
@@ -15926,6 +15926,24 @@
       "duration_ms": 382726,
       "name": "Leon Keys (feat. Theo Katzman & Joe Dart)",
       "url": "https://open.spotify.com/track/6Frt2nYG2KsXY2s3oXcSWD"
+    },
+    {
+      "album": {
+        "name": "Lepas Kendali",
+        "url": "https://open.spotify.com/album/6VtQV89IlZM0UlFYkhFNZL"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190805,
+      "name": "Lepas Kendali",
+      "url": "https://open.spotify.com/track/11LEQn7G7zBIRnZhW3FnDA"
     },
     {
       "album": {
@@ -26528,6 +26546,24 @@
       "duration_ms": 293480,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/0lBjQpfSDYrqlspqXYXNXv"
+    },
+    {
+      "album": {
+        "name": "as day breaks",
+        "url": "https://open.spotify.com/album/5zLxmVdpkM751V3eGhxPOc"
+      },
+      "artists": [
+        {
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266181,
+      "name": "still dreaming",
+      "url": "https://open.spotify.com/track/0pW8IdLC9IqYGeN4Wk33Fr"
     },
     {
       "album": {

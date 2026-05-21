@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1099,
+  "num_followers": 1100,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFTtKO2/lEukXIyCi5L6rS710Ip6Wn",
+  "snapshot_id": "AAAFUWF1+zyQbiXJcbmVyZTh3n6dVNJw",
   "tracks": [
+    {
+      "added_at": "2026-05-20 08:24:53",
+      "album": {
+        "name": "me when im with u",
+        "url": "https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "fahstine",
+          "url": "https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P"
+        }
+      ],
+      "duration_ms": 134848,
+      "name": "me when im with u",
+      "url": "https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx"
+    },
     {
       "added_at": "2026-05-05 13:53:15",
       "album": {
@@ -27,46 +47,6 @@
       "duration_ms": 189900,
       "name": "b-b-BASS DOWN LOW - Maple Remix",
       "url": "https://open.spotify.com/track/5gBRwn2eD1U6CQuBy4QE47"
-    },
-    {
-      "added_at": "2026-05-05 13:53:15",
-      "album": {
-        "name": "RAVEPOP REMIXES",
-        "url": "https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO"
-      },
-      "artists": [
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        },
-        {
-          "name": "Verplex",
-          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
-        }
-      ],
-      "duration_ms": 198942,
-      "name": "JUST BE COMPETENT - Verplex Remix",
-      "url": "https://open.spotify.com/track/5gmcppRwcODprYFD4em39y"
-    },
-    {
-      "added_at": "2026-05-05 13:53:15",
-      "album": {
-        "name": "RAVEPOP REMIXES",
-        "url": "https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO"
-      },
-      "artists": [
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        },
-        {
-          "name": "alottadogs",
-          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
-        }
-      ],
-      "duration_ms": 133541,
-      "name": "TOO MANY PEOPLE - alottadogs Remix",
-      "url": "https://open.spotify.com/track/06Gv5whqL00VkvVy3kTdGP"
     },
     {
       "added_at": "2026-04-27 23:05:49",
@@ -141,6 +121,26 @@
       "url": "https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy"
     },
     {
+      "added_at": "2026-05-05 13:53:15",
+      "album": {
+        "name": "RAVEPOP REMIXES",
+        "url": "https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "alottadogs",
+          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
+        }
+      ],
+      "duration_ms": 133541,
+      "name": "TOO MANY PEOPLE - alottadogs Remix",
+      "url": "https://open.spotify.com/track/06Gv5whqL00VkvVy3kTdGP"
+    },
+    {
       "added_at": "2026-04-23 22:00:47",
       "album": {
         "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
@@ -187,6 +187,26 @@
       "duration_ms": 145549,
       "name": "HAVAGO",
       "url": "https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc"
+    },
+    {
+      "added_at": "2026-05-05 13:53:15",
+      "album": {
+        "name": "RAVEPOP REMIXES",
+        "url": "https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "duration_ms": 198942,
+      "name": "JUST BE COMPETENT - Verplex Remix",
+      "url": "https://open.spotify.com/track/5gmcppRwcODprYFD4em39y"
     },
     {
       "added_at": "2026-04-10 13:43:20",

@@ -529,6 +529,44 @@
     },
     {
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/59nAZ9j6k2qXgVlPDHeGFm"
+      },
+      "artists": [
+        {
+          "name": "Kastro",
+          "url": "https://open.spotify.com/artist/6kbCmJmRthByySAmiqXI0c"
+        },
+        {
+          "name": "Edi",
+          "url": "https://open.spotify.com/artist/6QXNRcJM2v7JWJk0WScVEi"
+        },
+        {
+          "name": "Yukmouth",
+          "url": "https://open.spotify.com/artist/0ndMofuAPmTktjONZv20JL"
+        },
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/666IIaxis8fAPLQ1Uva457"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Hellrazor",
+          "url": "https://open.spotify.com/artist/3qaV5vHUFx3x5KgLkWe19j"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234826,
+      "name": "Born A Souljah",
+      "url": "https://open.spotify.com/track/4X8CQ8TVofOOTGkvmDFmFF"
+    },
+    {
+      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -540,7 +578,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
@@ -802,7 +840,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 213002,
       "name": "Comraderie",
       "url": "https://open.spotify.com/track/0GFcXILH9vqMJ0sBFeOTsS"
@@ -3434,7 +3472,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 235440,
       "name": "Raised As 1",
       "url": "https://open.spotify.com/track/6OV9KpgSkvzcXfPe9hzz2I"

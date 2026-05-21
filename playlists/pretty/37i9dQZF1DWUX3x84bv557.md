@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Sabien
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,863 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,854 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 75 | [Tijd Heelt de Pijn](https://open.spotify.com/track/6h2czGbgL4pxJYjyEx2FIx) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Tijd Heelt De Pijn](https://open.spotify.com/album/2SomLjE8FzNSqrJ9lNSd75) | 2:38 |
 | 76 | [Hoe Dan Ook](https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Hoe Dan Ook](https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8) | 2:53 |
 | 77 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
-| 78 | [Niks Is Zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is Zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |
+| 78 | [Niks is zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |
 | 79 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
 | 80 | [Saai](https://open.spotify.com/track/7GTTbP6Gz9Zu3qet2Rroga) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Saai](https://open.spotify.com/album/343waDPIpF4NnfRbMjkBIA) | 2:55 |
 

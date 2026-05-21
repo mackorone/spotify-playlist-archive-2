@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,690 likes - 200 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,755 likes - 200 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 81 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 |
 | 82 | [Where's the Music](https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Let's Go Everywhere](https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk) | 3:14 |
 | 83 | [Moonlight Steppin'](https://open.spotify.com/track/0swFJ7rKt5TAdkRCwuFeRu) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Cosmos](https://open.spotify.com/album/65q3JZejRyuXifQXHiO0mC) | 3:13 |
-| 84 | [So This Is Love?](https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 7:04 |
+| 84 | [So This Is Love?](https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin' \(Expanded\)](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 7:04 |
 | 85 | [Steps On The Globe](https://open.spotify.com/track/6zjJXveU2lfk4sYrkPvRdm) | [Keiko Matsui](https://open.spotify.com/artist/0hps0ju4DV1qFI5NFHfOH4) | [Steps On The Globe](https://open.spotify.com/album/4bbREim02kguUvLEGE3far) | 4:20 |
 | 86 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 87 | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 6:36 |

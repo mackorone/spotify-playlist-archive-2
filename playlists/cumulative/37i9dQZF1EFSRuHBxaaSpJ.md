@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-96 songs - 5 hr 1 min
+97 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 | 2024-07-23 |  |
 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 | 2026-01-15 |  |
 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 | 2024-06-07 |  |
+| [QUE DES PROBLEMES](https://open.spotify.com/track/4IDoRmotkACHfWpuuijLWh) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 2:57 | 2026-05-20 |  |
 | [QUE DES PROBLEMES RELOADED](https://open.spotify.com/track/2thUpCS5jb0UHXym10r8wE) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [PANDEMONIUM RELOADED](https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J) | 2:04 | 2026-04-26 |  |
 | [Rebeulotte](https://open.spotify.com/track/2JtLww17GyDPCw51pelun9) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [JesuispasséchezSo](https://open.spotify.com/album/0lhoVQfxS85IViefuzVTxl) | 3:02 | 2025-01-09 | 2025-04-12 |
 | [Regarde toi](https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:25 | 2024-06-07 |  |

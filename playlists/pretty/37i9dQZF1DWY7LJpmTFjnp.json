@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Son Rompe Pera en portada. ",
-  "num_followers": 973667,
+  "num_followers": 973679,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-15 06:00:10",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2026-05-15 06:00:10",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2026-05-15 06:00:10",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2026-05-15 06:00:10",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-05-15 06:00:10",
       "album": {
+        "name": "Excusa",
+        "url": "https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Excusa",
+      "url": "https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU"
+    },
+    {
+      "added_at": "2026-05-15 06:00:10",
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
-    },
-    {
-      "added_at": "2026-05-15 06:00:10",
-      "album": {
-        "name": "Excusa",
-        "url": "https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Excusa",
-      "url": "https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU"
     },
     {
       "added_at": "2026-05-15 06:00:10",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-05-15 06:00:10",
       "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
+    },
+    {
+      "added_at": "2026-05-15 06:00:10",
+      "album": {
         "name": "Maldita Vecindad y los Hijos del Quinto Patio",
         "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 188778,
       "name": "Viva tu",
       "url": "https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb"
-    },
-    {
-      "added_at": "2026-05-15 06:00:10",
-      "album": {
-        "name": "Perro de Pavlov",
-        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 197271,
-      "name": "Perro de Pavlov",
-      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
     },
     {
       "added_at": "2026-05-15 06:00:10",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-15 06:00:10",
       "album": {
-        "name": "Un Brindis al Sol",
-        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Un Brindis al Sol",
-      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
-    },
-    {
-      "added_at": "2026-05-15 06:00:10",
-      "album": {
         "name": "C\u00ednicos Pecadores y Blasfemos",
         "url": "https://open.spotify.com/album/1ZYe9fhCroPG19T4YuiLgr"
       },
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2026-05-15 06:00:10",
       "album": {
-        "name": "Trueno",
-        "url": "https://open.spotify.com/album/45rYlbwuN3TOtQILdlhNiU"
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 211984,
-      "name": "Trueno",
-      "url": "https://open.spotify.com/track/74wsNBsGTs7NjoQXaEk4Ga"
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
+    },
+    {
+      "added_at": "2026-05-15 06:00:10",
+      "album": {
+        "name": "Maria Barracuda",
+        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
     }
   ],
   "unique_name": "La + Chingona",

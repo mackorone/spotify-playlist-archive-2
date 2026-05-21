@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 142941,
       "name": "Above You",
       "url": "https://open.spotify.com/track/2YpfM7LuOiZep6y6cxiSRP"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv"
+      },
+      "artists": [
+        {
+          "name": "Atomic Ritual",
+          "url": "https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159879,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO"
+    },
+    {
+      "album": {
         "name": "Organic Composition",
         "url": "https://open.spotify.com/album/0ctpH8ggaYrpWwlMzbO3PZ"
       },
@@ -4132,6 +4150,24 @@
       "duration_ms": 303221,
       "name": "Bow To The Screen",
       "url": "https://open.spotify.com/track/1GKe19z79W5410XBiEFSG5"
+    },
+    {
+      "album": {
+        "name": "Boy Next Door",
+        "url": "https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123738,
+      "name": "Boy Next Door",
+      "url": "https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD"
     },
     {
       "album": {
@@ -6778,6 +6814,24 @@
       "duration_ms": 237760,
       "name": "Dancing on the Beach",
       "url": "https://open.spotify.com/track/51DYCMHnpeXW4h0E0Axnb4"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Stars",
+        "url": "https://open.spotify.com/album/0aEXLTzCpjTVzLwlcBVX5x"
+      },
+      "artists": [
+        {
+          "name": "Richie David",
+          "url": "https://open.spotify.com/artist/3BRCgHEGbiFitJolhCmZ0S"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185799,
+      "name": "Dancing On The Stars",
+      "url": "https://open.spotify.com/track/5cOMdLb0YLuXC5yvOKnhGC"
     },
     {
       "album": {
@@ -11656,6 +11710,24 @@
       "duration_ms": 197599,
       "name": "Girl from Sweden",
       "url": "https://open.spotify.com/track/4CbzL56AMxRc0njzvvWl12"
+    },
+    {
+      "album": {
+        "name": "Girl Like You",
+        "url": "https://open.spotify.com/album/5WVQxQdccXjIFIyGg8M5Ug"
+      },
+      "artists": [
+        {
+          "name": "Knixxen Out",
+          "url": "https://open.spotify.com/artist/6HZX9q925tlM4XUXZDxlIr"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204370,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/5IbE8DrxRrAXqqUD6izA9I"
     },
     {
       "album": {
@@ -17424,7 +17496,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 181894,
       "name": "Let u know my secrets",
       "url": "https://open.spotify.com/track/1N9HDjUiu5PKi20kU0PxyP"
@@ -21584,7 +21656,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 204800,
       "name": "never there",
       "url": "https://open.spotify.com/track/6slWCTwfS9AMk0Mgg7lDay"
@@ -21938,7 +22010,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 183614,
       "name": "No Proof",
       "url": "https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx"
@@ -23290,6 +23362,24 @@
       "duration_ms": 198399,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/42h1EtjmMISL6IbZc2i1Bq"
+    },
+    {
+      "album": {
+        "name": "THE RIGHT OR WRONG WAY",
+        "url": "https://open.spotify.com/album/7sjurzwLoUvAMfG1XnfisV"
+      },
+      "artists": [
+        {
+          "name": "Dat Boi Dayton",
+          "url": "https://open.spotify.com/artist/2ERYcaSB4vqK1OIQhbhctT"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132683,
+      "name": "Out My Feelings",
+      "url": "https://open.spotify.com/track/02LkWQcDI7YEh15QU80F5K"
     },
     {
       "album": {
@@ -25981,6 +26071,24 @@
     },
     {
       "album": {
+        "name": "Walk Right Through",
+        "url": "https://open.spotify.com/album/0hoQQdQJLWjowjSpoivAD0"
+      },
+      "artists": [
+        {
+          "name": "Jont",
+          "url": "https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155919,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/3cOxGsyNbpVkdzVuR1CTSI"
+    },
+    {
+      "album": {
         "name": "Ride the train",
         "url": "https://open.spotify.com/album/6rLPdJukXY6U292dDJ2oLy"
       },
@@ -26786,6 +26894,28 @@
       "duration_ms": 196264,
       "name": "Say My Name Louder",
       "url": "https://open.spotify.com/track/09nAnHvmzceMBwj2o6Er3y"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/5N8MmJUdYVwKYBzq2YHE4K"
+      },
+      "artists": [
+        {
+          "name": "Liam Cova",
+          "url": "https://open.spotify.com/artist/01MeWK54jWNGWSYr3d9H8f"
+        },
+        {
+          "name": "Chan\u00e9",
+          "url": "https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3RCcFshqbTLIV3H8U0zAtZ"
     },
     {
       "album": {
@@ -27752,6 +27882,24 @@
       "duration_ms": 151534,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5DIMAh1NmIVHM0U8cEYnJ4"
+    },
+    {
+      "album": {
+        "name": "Sipping On Tears",
+        "url": "https://open.spotify.com/album/3eQ6oOSuZIfmyQOA5J0wGP"
+      },
+      "artists": [
+        {
+          "name": "Jace Holloway",
+          "url": "https://open.spotify.com/artist/35Qb2VFwcIquFU9YFzENEr"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Sipping On Tears",
+      "url": "https://open.spotify.com/track/0nU3vdGNxnDA8gzX2UjswS"
     },
     {
       "album": {
@@ -28762,7 +28910,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 229599,
       "name": "Speed Of A Summer Night",
       "url": "https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY"
@@ -33698,6 +33846,24 @@
       "duration_ms": 141519,
       "name": "VOID IN MY SOUL",
       "url": "https://open.spotify.com/track/02SgYwvrfPnGtmxDStCg0y"
+    },
+    {
+      "album": {
+        "name": "Muscle",
+        "url": "https://open.spotify.com/album/3QmwsT82fU3YeGYPAbKGyX"
+      },
+      "artists": [
+        {
+          "name": "Sia Vaiz",
+          "url": "https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/48i6f2syVyFGepoAm5plWR"
     },
     {
       "album": {

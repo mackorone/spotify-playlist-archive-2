@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: NGUYEN TRAN\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,362 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,361 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 19 | [anhuoctachuatunggap](https://open.spotify.com/track/66RwTYgK9ZaUv43ZbBMxdE) | [Hayho](https://open.spotify.com/artist/3fLHhjutcrdkn7R3hS1oxz) | [KHONGGIAU](https://open.spotify.com/album/2ITWDLT1yQsaoadD3d4JyR) | 4:26 |
 | 20 | [rotroi](https://open.spotify.com/track/7ATxjlVFj1jogpsxuk7gx8) | [Trần Nghiên](https://open.spotify.com/artist/11qbjMptQ4IAgZbz21PBeR), [Young Quillen](https://open.spotify.com/artist/60K2ttBhGvP1YQA4knvYHk) | [rotroi](https://open.spotify.com/album/35T6iDoQ9Bw87lM29Ekhbt) | 4:20 |
 
-Snapshot ID: `AAAAALf245wGL7QLIALzguMvQrRoRFc4`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

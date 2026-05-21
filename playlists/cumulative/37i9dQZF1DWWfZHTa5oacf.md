@@ -4,7 +4,7 @@
 
 > Kickstart your sundowner party with these hits.
 
-68 songs - 4 hr 16 min
+69 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Lutt Le Gaya](https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 4:13 | 2025-12-23 |  |
 | [Makhna \- From "Drive"](https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj) | 3:03 | 2025-10-15 |  |
 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 | 2025-10-15 |  |
+| [Mashooqa \- From “Cocktail 2”](https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Mashooqa \(From “Cocktail 2”\)](https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac) | 3:50 | 2026-05-20 |  |
 | [Mere Mehboob \(From "Vicky Vidya Ka Woh Wala Video"\)](https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Mere Mehboob \(From "Vicky Vidya Ka Woh Wala Video"\)](https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL) | 3:36 | 2025-10-15 |  |
 | [Mileya Mileya](https://open.spotify.com/track/1aqfzt5mpPoi7kYTFlfnIi) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Andrews](https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eXEoPmxkMPmxOeLIMNoeY) | 4:26 | 2025-10-15 |  |
 | [MumBHAI \- From "Tu Yaa Main"](https://open.spotify.com/track/5tvqbzhpjLY0kR8a4UElxM) | [Chaitanya Pandit](https://open.spotify.com/artist/4HjK24Eovhdd4urLXimFhe), [2Sharc](https://open.spotify.com/artist/6YzMspayoNnjrc7TtGJ2PR) | [Tu Yaa Main](https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m) | 2:01 | 2026-02-10 | 2026-03-21 |

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33923,
+  "num_followers": 33919,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -647,34 +647,6 @@
     {
       "added_at": "2026-05-14 22:01:10",
       "album": {
-        "name": "By The Bay",
-        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
-      },
-      "artists": [
-        {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "By The Bay",
-      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
-    },
-    {
-      "added_at": "2026-05-14 22:01:10",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -711,8 +683,36 @@
     {
       "added_at": "2026-05-14 22:01:10",
       "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-05-14 22:01:10",
+      "album": {
+        "name": "Wanderings",
+        "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
+      "duration_ms": 221080,
+      "name": "This Night's Alright",
+      "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
     },
     {
       "added_at": "2026-05-14 22:01:10",
@@ -799,8 +799,8 @@
     {
       "added_at": "2026-05-14 22:01:10",
       "album": {
-        "name": "Wanderings",
-        "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 221080,
-      "name": "This Night's Alright",
-      "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
     },
     {
       "added_at": "2026-05-14 22:01:10",

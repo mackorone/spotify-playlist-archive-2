@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/0Egms8AdbxJPHJMzEhnBF8"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122804,
+      "name": "Ambassador",
+      "url": "https://open.spotify.com/track/6ZY4tfxyLITPmAUbE2T58N"
+    },
+    {
+      "album": {
         "name": "Four Me",
         "url": "https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX"
       },
@@ -282,7 +300,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 210947,
       "name": "Bawra",
       "url": "https://open.spotify.com/track/27A9Fj1num93gT1BGNHf49"

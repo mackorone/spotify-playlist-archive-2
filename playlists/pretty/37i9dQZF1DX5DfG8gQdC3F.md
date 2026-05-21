@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from 🧊 Drake, Gracie Abrams,  Shania Twain, GIVĒON, STELLA LEFTY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,924 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,938 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 66 | [Emotional High](https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 3:22 |
 | 67 | [Heads Up](https://open.spotify.com/track/3P26vBQYyeaOYfDxQ9FGiC) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Heads Up](https://open.spotify.com/album/4jMIfJd6alC4LIL3wTAOzB) | 2:24 |
 | 68 | [Clothesline](https://open.spotify.com/track/7LsDPR5Y9YdzQOauL2DP4s) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/7FWzlvDhww1rCPl0CjFvfD) | 3:34 |
-| 69 | [Nazar](https://open.spotify.com/track/5A8uA6zxJWi36siQAStlik) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Nazar](https://open.spotify.com/album/36ndkBTOxzdYJ0AgKIO4P9) | 3:03 |
+| 69 | [Nazar](https://open.spotify.com/track/5A8uA6zxJWi36siQAStlik) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Nazar](https://open.spotify.com/album/36ndkBTOxzdYJ0AgKIO4P9) | 3:03 |
 | 70 | [Butterflies](https://open.spotify.com/track/4AnBOXG2pBsJ2MTJ5julpi) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [As You Are](https://open.spotify.com/album/2OgFj8A4fnCtMkjBmFr2ze) | 3:04 |
 | 71 | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Bad Wolf \(feat\. UNIIQU3\)](https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL) | 3:05 |
 | 72 | [CAN YOU FEEL IT](https://open.spotify.com/track/3y2ht6JLHXuEwud8EJiDBN) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [CAN YOU FEEL IT](https://open.spotify.com/album/0eLD645bJw8ze1A7JR8CCY) | 2:54 |

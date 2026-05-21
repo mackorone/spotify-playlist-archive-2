@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Fear, and Loathing in Las Vegas
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,629 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,635 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 95 | [めんどいな...](https://open.spotify.com/track/3oq3zZ8Ho92TJl14tALPfS) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [めんどいな...](https://open.spotify.com/album/7koDFtKgtEUxtapnKdL4Pl) | 4:08 |
 | 96 | [6月の現状](https://open.spotify.com/track/2esODp6u47Xjiq2hvcemxu) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [6月の現状](https://open.spotify.com/album/7x5Cu8aVkCZXIkxygUdKMq) | 4:52 |
 | 97 | [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 |
-| 98 | [Track 2](https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [YELLOW SUN \-THE BEST\-](https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g) | 0:00 |
+| 98 | [HELLO COLORFUL](https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [YELLOW SUN \-THE BEST\-](https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g) | 3:48 |
 | 99 | [社会の左](https://open.spotify.com/track/4PGcKMEkq12yHVjn5IS46i) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [社会の左](https://open.spotify.com/album/7wBHzWSSePbWM4ABHjA6Pu) | 3:04 |
 | 100 | [ハロー](https://open.spotify.com/track/5ye60mYmDY4CjXNOcSnJaR) | [SUPER HELLER](https://open.spotify.com/artist/6vc0LmO2AdxlqvvXZ03P0Y) | [ハロー](https://open.spotify.com/album/4ZjoBe5zHbnDONo0GSAfVu) | 3:40 |
 

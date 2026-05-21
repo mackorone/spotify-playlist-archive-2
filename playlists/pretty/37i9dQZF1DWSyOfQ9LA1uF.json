@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 80505,
+  "num_followers": 80515,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Suspense Is Killing Me EP",
+        "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
+      },
+      "artists": [
+        {
+          "name": "Boy 8-Bit",
+          "url": "https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam"
+        }
+      ],
+      "duration_ms": 293882,
+      "name": "Suspense Is Killing Me",
+      "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Acceptable In The 80s",
         "url": "https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 431973,
       "name": "Acceptable in the 80's - Tom Neville Remix",
       "url": "https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Suspense Is Killing Me EP",
-        "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
-      },
-      "artists": [
-        {
-          "name": "Boy 8-Bit",
-          "url": "https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam"
-        }
-      ],
-      "duration_ms": 293882,
-      "name": "Suspense Is Killing Me",
-      "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/4xymOOdANFwko4RpeR961e"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 250693,
       "name": "Idealistic",
       "url": "https://open.spotify.com/track/2jJ2OyPniCS1a16Ghw8vZo"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/4xymOOdANFwko4RpeR961e"
     },
     {
       "added_at": "2024-08-08 18:53:25",

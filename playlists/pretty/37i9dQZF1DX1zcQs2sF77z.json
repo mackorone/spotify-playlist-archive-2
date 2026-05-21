@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 291305,
+  "num_followers": 291371,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Losing It",
         "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "We Love House - The Anthems",
-        "url": "https://open.spotify.com/album/4wPX46p1gxaXvDYLyWSGTn"
-      },
-      "artists": [
-        {
-          "name": "Gadjo",
-          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
-        },
-        {
-          "name": "Alexandra Prince",
-          "url": "https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "So Many Times",
-      "url": "https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "We Love House - The Anthems",
+        "url": "https://open.spotify.com/album/4wPX46p1gxaXvDYLyWSGTn"
+      },
+      "artists": [
+        {
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
+        },
+        {
+          "name": "Alexandra Prince",
+          "url": "https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "So Many Times",
+      "url": "https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72"
     },
     {
       "added_at": "2025-12-19 16:17:24",

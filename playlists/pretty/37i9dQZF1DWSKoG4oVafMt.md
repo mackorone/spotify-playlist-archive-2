@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,690 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,787 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 33 | [Compliment](https://open.spotify.com/track/0n2XEbw2Aie9srJZy51QME) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Compliment](https://open.spotify.com/album/2O9XAe0dQhYoQof89amZH6) | 3:29 |
 | 34 | [Andaaz](https://open.spotify.com/track/6sYk0YASzhRJ7xqc7ahNkI) | [Miel](https://open.spotify.com/artist/2I4d4IjYlEXRqoxyFZdWdN), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Andaaz](https://open.spotify.com/album/6Hr0iNHhD3oXVwbDoaBRvo) | 3:16 |
 | 35 | [Tu Jo Mileya](https://open.spotify.com/track/40EeTvfmNYoXbY2iyWC542) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3k6gm4SfQtgCPhunnsJTKz) | 2:38 |
-| 36 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 |
+| 36 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 |
 | 37 | [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 |
 | 38 | [Surmedani](https://open.spotify.com/track/4lfAz9945I62PJdMOT6UV4) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjit](https://open.spotify.com/artist/1Riy17VfQHP6gSIv9RjHSt), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Bajre Da Sitta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTXFBLdGmkkOa6uSEsO5v) | 3:26 |
 | 39 | [Into You](https://open.spotify.com/track/4Ele73ctCMDU8qQDIfy9yq) | [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Into You](https://open.spotify.com/album/5sWD7v8WBjWEpck7G5pZCb) | 2:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 76 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 77 | [Dooron Dooron \- Unplugged](https://open.spotify.com/track/4PyN1rUjh0xRWqVZ1mwn7l) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP) | [Dooron Dooron \- Unplugged](https://open.spotify.com/album/466oQGVIQbcBkoRFPfOIah) | 5:32 |
 | 78 | [Together](https://open.spotify.com/track/2A6LwwRAfCfLc8RNTqSnUu) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Together](https://open.spotify.com/album/3OGIYfY2ujyyMkt3eYy6JL) | 2:49 |
-| 79 | [Sakhiyaan](https://open.spotify.com/track/3sqRODOZ1Z6hR4F2tnFAlg) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Sakhiyaan](https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J) | 2:59 |
+| 79 | [Sakhiyaan](https://open.spotify.com/track/3sqRODOZ1Z6hR4F2tnFAlg) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5qQlqU3mTdrrNv9cLEBhxE), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sakhiyaan](https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J) | 2:59 |
 | 80 | [Nira Ishq](https://open.spotify.com/track/1gl8BBFdMRrgb3P7Jz5JQT) | [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Nira Ishq](https://open.spotify.com/album/5SXFSE6vR5bTsXVwhb9jcq) | 3:01 |
 | 81 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |
 | 82 | [Mulaqaat](https://open.spotify.com/track/3qFxc62CjyE8WYwigvvB9L) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Mulaqaat](https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3) | 2:14 |

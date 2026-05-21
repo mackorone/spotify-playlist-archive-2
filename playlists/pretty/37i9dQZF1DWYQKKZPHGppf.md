@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il 2025 del <a href="spotify:playlist:37i9dQZF1DX14EWeH2Pwf3">rap</a> italiano, tra rapstar ed emergenti\. Cover: Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,222 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,209 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 32 | [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 |
 | 33 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 |
 | 34 | [ON FIRE](https://open.spotify.com/track/4IdghxB53migecwvC9uREK) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [RANCH](https://open.spotify.com/album/0XffEPAGlNOtdGtmJjsFn9) | 3:21 |
-| 35 | [Chuniri](https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Chuniri](https://open.spotify.com/album/4vyu0GGbcX0ISQFG7Jh2GU) | 2:50 |
+| 35 | [Chuniri](https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Chuniri](https://open.spotify.com/album/4vyu0GGbcX0ISQFG7Jh2GU) | 2:50 |
 | 36 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
 | 37 | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq) | 2:50 |
 | 38 | [Don't Stop It \(feat\. Shiva & Guè\)](https://open.spotify.com/track/2eJJMK4v39nVLSYd72Fuj9) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:33 |

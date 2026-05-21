@@ -5549,6 +5549,28 @@
     },
     {
       "album": {
+        "name": "me when im with u",
+        "url": "https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "fahstine",
+          "url": "https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134848,
+      "name": "me when im with u",
+      "url": "https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx"
+    },
+    {
+      "album": {
         "name": "Means For Me",
         "url": "https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi"
       },

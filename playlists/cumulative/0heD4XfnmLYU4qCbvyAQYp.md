@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-131 songs - 8 hr 30 min
+132 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-15 | 2026-05-16 |
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2025-12-17 | 2026-02-07 |
 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 | 2025-10-04 |  |
+| [Amsterdam](https://open.spotify.com/track/2ydaOy71tSGZIgl3cj7ZAY) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Equivalent](https://open.spotify.com/album/2dlU18JmLb0Vnyny648nfY) | 3:31 | 2026-05-20 |  |
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 | 2026-02-07 |
 | [Are We Dreaming?](https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 2:49 | 2026-01-01 | 2026-02-07 |
 | [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 | 2026-02-07 |

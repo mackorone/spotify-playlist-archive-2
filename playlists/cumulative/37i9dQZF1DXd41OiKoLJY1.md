@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[ischi\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[sunset blvd\]\. Artwork: Isu Kim.
 
-4,077 songs - 9 day 22 hr 11 min
+4,081 songs - 9 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1514,6 +1514,7 @@
 | [Huling Gabi](https://open.spotify.com/track/5BkVhXssSpKY6sqmAp5M2S) | [Lamparang Papel](https://open.spotify.com/artist/3Lpe96qZe1TGkOHehntim2) | [Huling Gabi](https://open.spotify.com/album/5SwRzZ7m1FRLgsOZj9tuUt) | 4:29 | 2024-08-15 | 2024-09-20 |
 | [Huling Habilin](https://open.spotify.com/track/1rerpTGmN491Mnc8UdLibX) | [Himig Borhuh](https://open.spotify.com/artist/5mheAaS72JKiklL2CvvDnH) | [Huling Habilin](https://open.spotify.com/album/3jGf4ztDzdDaI4SQFsGkjU) | 2:10 | 2025-08-21 | 2025-11-21 |
 | [Huling Hinto](https://open.spotify.com/track/5jg5nUYY4YGuQvznFAwZsF) | [Kim Perez](https://open.spotify.com/artist/5vObAQHIfNNN63RjNSTkNF) | [Huling Hinto](https://open.spotify.com/album/6qG4tvKdlO1J54qcwTAvHe) | 3:32 | 2025-09-11 | 2025-11-28 |
+| [HULING PAALAM..](https://open.spotify.com/track/1wPGE9pBOuhyJYKM5fPZTh) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [HULING PAALAM..](https://open.spotify.com/album/0uFETFILIHEax2KqWYrm7h) | 3:15 | 2026-05-20 |  |
 | [Huling Sayaw](https://open.spotify.com/track/0qypeXV74yh3ozPnAYJDoJ) | [Diego Gutierrez](https://open.spotify.com/artist/1Wu9HTZIzOS61p43891eoh) | [Huling Sayaw](https://open.spotify.com/album/2tSLWsl6QR0PHEMgktC0wt) | 4:07 | 2024-10-03 | 2024-11-08 |
 | [Hulog](https://open.spotify.com/track/5RK03l0TfLWkIJ5uT16gWe) | [Loosh](https://open.spotify.com/artist/4mLTbizOABI4JrciVqYWJb), [Jimmy Pablo](https://open.spotify.com/artist/2DgDyNRQnyZOKvHQc6eFke) | [Hulog](https://open.spotify.com/album/3GtaPHZ5HilFPSeuJaswpY) | 2:59 | 2024-07-11 | 2024-08-09 |
 | [Hunahuna](https://open.spotify.com/track/3XbLGo9oRdZJwlDYj9CsJN) | [Hometown Kids](https://open.spotify.com/artist/0fRyU62i5eg2ZPS8WsIVkz) | [Hunahuna](https://open.spotify.com/album/201b6At7bv9fXCPUh8ZMZJ) | 2:06 | 2024-06-06 | 2024-06-28 |
@@ -2091,6 +2092,7 @@
 | [Long drive](https://open.spotify.com/track/66IeuB7F9VZNMtEOCkVO5d) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx), [Dhimmak](https://open.spotify.com/artist/39W0I1D85kXBSvYpNcoVmw) | [Long drive](https://open.spotify.com/album/3EAevmQjw4B8KWMnlNpigC) | 3:23 | 2023-10-05 | 2023-11-11 |
 | [Long Drive](https://open.spotify.com/track/0CuktzleUMBmdo6NzeBd7d) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [Lance Santdas](https://open.spotify.com/artist/3OGOEwy4VOWKjSAcdiY8Gf) | [Long Drive](https://open.spotify.com/album/30HZoPC6819Akh9I3phMgx) | 4:34 | 2022-09-08 | 2022-11-25 |
 | [Look Into My Eyes](https://open.spotify.com/track/1TKaB4e740I7ERt2Mg6isz) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr) | [Look Into My Eyes](https://open.spotify.com/album/7L3zG5JtTOGg9Cz09gccp8) | 4:12 | 2022-08-26 | 2022-10-14 |
+| [look me up](https://open.spotify.com/track/5Mxsh4W1sDo4USjGkRg1yb) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [look me up](https://open.spotify.com/album/3Vnf2XW0LDW7cGcMvOxQcc) | 2:14 | 2026-05-20 |  |
 | [Looking For Something](https://open.spotify.com/track/5oDlTQkFaex19kibFYWNJR) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7), [Space G](https://open.spotify.com/artist/7Cp0BUoEu2rI3n8bd5hEbf) | [Looking For Something](https://open.spotify.com/album/6K3Tt42pftxoj8GBiWLNVI) | 3:06 | 2024-09-26 | 2024-11-08 |
 | [LOSE MYSELF](https://open.spotify.com/track/5W1wUDg1va5AhaR0ODjO8K) | [Yung Masa](https://open.spotify.com/artist/20shpSfFnBGulON1Hmxt5M), [DANTE](https://open.spotify.com/artist/6fMMwprp4lWIJNv7U87M3q), [haihai](https://open.spotify.com/artist/6t5aHzfEP3YE56KL13bN1i) | [LOSE MYSELF](https://open.spotify.com/album/0lqA1pvL1IWXn98NAVwDN8) | 2:56 | 2024-03-14 | 2024-04-19 |
 | [Lost](https://open.spotify.com/track/3k23yhRSuvHWwSAks6vo7o) | [The 12/21](https://open.spotify.com/artist/4nM97dII7qHxrZKU0IjKYE) | [Lost](https://open.spotify.com/album/31RZOpyTu9Uh6o3o5auIR8) | 3:02 | 2024-08-29 | 2025-01-17 |
@@ -2328,6 +2330,7 @@
 | [Minsan Lang](https://open.spotify.com/track/2v1fUJ1XPNYoV4wHRbITgq) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx) | [Minsan Lang](https://open.spotify.com/album/3S2muSiVuN3w3RuuuGUSQZ) | 3:23 | 2023-10-12 | 2023-11-11 |
 | [Minutes](https://open.spotify.com/track/2JLeutCorQwfgRnuYCe2E4) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Minutes](https://open.spotify.com/album/0BQLAExHhqvryq6po3L8ES) | 2:49 | 2024-05-02 | 2024-06-14 |
 | [MIRACLE](https://open.spotify.com/track/2Z1OVvsQZFbBuVdd5bvDQB) | [killseph](https://open.spotify.com/artist/6RMBuNtyBYW5cTokyc8pXx) | [FEELING ZONE](https://open.spotify.com/album/6PtmctwWGFBOHfXkIA2emK) | 2:10 | 2022-04-07 | 2022-06-17 |
+| [Mirasol](https://open.spotify.com/track/4jE28fq89ui3farFwzjFKf) | [Paulo Feliciano](https://open.spotify.com/artist/2C8Umtd3sS4QrATXpzf793) | [Mirasol](https://open.spotify.com/album/2yp4MQO0NhcGMJO2uppRtl) | 2:53 | 2026-05-20 |  |
 | [Misay](https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s) | [Seiya](https://open.spotify.com/artist/2CIxoskpMczxrNB4hQTZSF) | [Misay](https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203) | 3:59 | 2026-02-26 | 2026-05-07 |
 | [misbehave](https://open.spotify.com/track/1lcE1QzK0eMy0AMrX0RXCn) | [AIRAH](https://open.spotify.com/artist/6fAR6kwdc8l4vtMyod6IpX) | [misbehave](https://open.spotify.com/album/0ZV2QCjBwwyu7TJlV0evBI) | 3:04 | 2024-06-13 | 2024-07-12 |
 | [Miscom](https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1) | [Pinkmen](https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU) | [Miscom](https://open.spotify.com/album/6aTDzfvas4SHkdFkFhdb7E) | 5:40 | 2023-11-16 | 2024-02-02 |
@@ -3161,6 +3164,7 @@
 | [Same Day Edit](https://open.spotify.com/track/1FumYBD2JhBbFyQFht0hUv) | [Blind Stereo Moon](https://open.spotify.com/artist/6hTwQ3cYTgcbjQ0r8sSCtN) | [Same Day Edit](https://open.spotify.com/album/0tGZz8YacRChRPWm2OMSNO) | 3:05 | 2023-02-16 | 2023-03-03 |
 | [Same Ground](https://open.spotify.com/track/5ghwi50zKaBUuWoSA1tPCw) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Same Ground](https://open.spotify.com/album/57ixBNu71U56E9NJ5JRX60) | 3:22 | 2023-10-19 | 2023-11-11 |
 | [Same Old Thing](https://open.spotify.com/track/3pWAbx6R5cKQcyxvCaHmmN) | [TEEN](https://open.spotify.com/artist/1chB7D5MsYcqBpie4zUKL0) | [Same Old Thing](https://open.spotify.com/album/4hFLrnIBTotTomwb3yKtCR) | 2:38 | 2024-09-05 | 2024-10-04 |
+| [Sampaguita](https://open.spotify.com/track/3JD2ksnyfhhkOW0z6eINx9) | [sunset blvd](https://open.spotify.com/artist/7A5DPPrvylJFzZo56wDP1r) | [Sampaguita](https://open.spotify.com/album/1CKvDvpohZBo2KQ1ZafYnf) | 5:40 | 2026-05-20 |  |
 | [San Miguel \(Patron Ng Mga Torpe\)](https://open.spotify.com/track/3ixdQl1K4ktNWHfwbiFOef) | [Ube](https://open.spotify.com/artist/5v2RTyj9AWRUgPYMP8Khod) | [San Miguel \(Patron Ng Mga Torpe\)](https://open.spotify.com/album/6KFw4zypkLnOkbK1dxVxoP) | 4:26 | 2024-06-27 | 2024-08-09 |
 | [SANA](https://open.spotify.com/track/5wM8Jqig7GYBNVXxTLQqzT) | [Amer](https://open.spotify.com/artist/7LeQUw6chiXwqkQvtmSUDq) | [SANA](https://open.spotify.com/album/6bh1Q1e1252H2nLYCw20xR) | 3:16 | 2024-02-15 | 2024-03-08 |
 | [Sana](https://open.spotify.com/track/39VjRTEheEIVNtqDgvmkSd) | [Jefn](https://open.spotify.com/artist/1uQcu1kwXxEbzG2QpfdB3w) | [Jefn](https://open.spotify.com/album/73aDP5Ds9p1MyRm6lz6fOc) | 3:00 | 2023-08-31 | 2023-09-22 |

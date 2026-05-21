@@ -1,12 +1,12 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
-  "num_followers": 256071,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Rian Brazil",
+  "num_followers": 256093,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOc5wAPItzzBxsG+yZTvjfJ2q7wl",
+  "snapshot_id": "AAAAAPtHuCQXCbIZxIdHiN9StRZb2UZR",
   "tracks": [
     {
       "added_at": "2026-05-13 15:04:02",
@@ -27,6 +27,38 @@
       "duration_ms": 182991,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "BEST FRIEND",
+        "url": "https://open.spotify.com/album/4XT24ABR707MaW74Ap0XqK"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "duration_ms": 141383,
+      "name": "BEST FRIEND",
+      "url": "https://open.spotify.com/track/6uC01mhcVUqMZCmz0czKIn"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "engine heartbreak",
+        "url": "https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "duration_ms": 125849,
+      "name": "androgynous",
+      "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
     },
     {
       "added_at": "2026-05-13 15:04:02",
@@ -59,6 +91,38 @@
       "duration_ms": 267854,
       "name": "You Never Did Anything Wrong",
       "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "Like It Was Before",
+        "url": "https://open.spotify.com/album/18tolLGoJPOlfjCCRtHV21"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Loor",
+          "url": "https://open.spotify.com/artist/4kJvNJK7Q9jo130THvUnFZ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Like It Was Before",
+      "url": "https://open.spotify.com/track/1PAlK7pZ3VQi5aQau400W4"
     },
     {
       "added_at": "2026-05-13 15:04:02",
@@ -109,6 +173,22 @@
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "Can't Be Friends",
+        "url": "https://open.spotify.com/album/3SfxPR1KPUmrtAda5BXuYg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Spirit",
+          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
+        }
+      ],
+      "duration_ms": 204985,
+      "name": "Can\u2019t Be Friends",
+      "url": "https://open.spotify.com/track/2EVMWA702ony5lIXv6zqOb"
+    },
+    {
       "added_at": "2026-05-13 15:04:02",
       "album": {
         "name": "HOLD ME (SLOWLY)",
@@ -123,6 +203,22 @@
       "duration_ms": 251500,
       "name": "HOLD ME (SLOWLY)",
       "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
+    },
+    {
+      "added_at": "2026-05-20 16:23:12",
+      "album": {
+        "name": "Dust & Feathers",
+        "url": "https://open.spotify.com/album/6KfdxTS3YywzRVhnIfgV1i"
+      },
+      "artists": [
+        {
+          "name": "toast",
+          "url": "https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Softwing",
+      "url": "https://open.spotify.com/track/5JIaoy9tHYQCMR0rHpunsN"
     },
     {
       "added_at": "2026-05-13 15:04:02",
@@ -1111,106 +1207,6 @@
       "duration_ms": 174290,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/61wiLy4LB7rFZUYvETBv6u"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "Re:",
-        "url": "https://open.spotify.com/album/14z98bVbZBeqgDptfsvh49"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
-      },
-      "artists": [
-        {
-          "name": "camille blackman",
-          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "July, December",
-        "url": "https://open.spotify.com/album/1HxFTOZEy9CQDFYgfpEm32"
-      },
-      "artists": [
-        {
-          "name": "Racecourse",
-          "url": "https://open.spotify.com/artist/3kqBqarOm3KKPkElP9yPAB"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Caledonia",
-      "url": "https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
-        "name": "Ground Kiss",
-        "url": "https://open.spotify.com/album/7AXDQsvMW88RqE1Py7cOyE"
-      },
-      "artists": [
-        {
-          "name": "youbet",
-          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Ground Kiss",
-      "url": "https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8"
-    },
-    {
-      "added_at": "2026-02-11 17:04:11",
-      "album": {
-        "name": "Sleep Paralysis",
-        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
-      },
-      "artists": [
-        {
-          "name": "Ken Park",
-          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
-    },
-    {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "Reno Moon",
-        "url": "https://open.spotify.com/album/1xbj1sTiSMbHEmrxU3RV16"
-      },
-      "artists": [
-        {
-          "name": "Blaketheman1000",
-          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "Reno Moon",
-      "url": "https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE"
     }
   ],
   "unique_name": "Fresh Finds Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,462 songs - 9 day 22 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,463 songs - 9 day 22 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4470,5 +4470,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4460 | [Mellow](https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [DC3 Productions LLC](https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:58 |
 | 4461 | [Anna](https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp) | [Roan Grevel](https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627) | [Anna](https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs) | 4:30 |
 | 4462 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 |
+| 4463 | [Vanità, fatti in là!](https://open.spotify.com/track/5VRsl1mXt0bSQsFxh2t0NA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Vanità, fatti in là!](https://open.spotify.com/album/1PMRVsz5cNZ9m1ObwpEn7M) | 4:10 |
 
-Snapshot ID: `AAAIr8monxLE0vyUgUT+g2Fw7z6HZ0LK`
+Snapshot ID: `AAAIsEWGFCB6chkeWHCNJ2tnNny3s7bj`

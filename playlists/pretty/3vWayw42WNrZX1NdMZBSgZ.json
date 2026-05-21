@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Be\u00e9le",
-  "num_followers": 52405,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: DOMELIPA",
+  "num_followers": 52403,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAUucWbd4itYwC+0R/TlyJOCsVr9f6G",
+  "snapshot_id": "AAAUuzgEFib9JC2kNaSqhCq5pZfAw+pe",
   "tracks": [
+    {
+      "added_at": "2026-05-15 14:43:52",
+      "album": {
+        "name": "EVEREST",
+        "url": "https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        }
+      ],
+      "duration_ms": 156829,
+      "name": "EVEREST",
+      "url": "https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx"
+    },
     {
       "added_at": "2026-01-20 21:20:39",
       "album": {
@@ -119,22 +135,6 @@
       "duration_ms": 140844,
       "name": "aiaiaiaiai",
       "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
-    },
-    {
-      "added_at": "2026-05-15 14:43:52",
-      "album": {
-        "name": "EVEREST",
-        "url": "https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S"
-      },
-      "artists": [
-        {
-          "name": "DOMELIPA",
-          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
-        }
-      ],
-      "duration_ms": 156829,
-      "name": "EVEREST",
-      "url": "https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx"
     },
     {
       "added_at": "2026-04-17 15:05:23",

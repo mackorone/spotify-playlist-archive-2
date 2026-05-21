@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 489 songs - 1 day 4 hr 5 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 490 songs - 1 day 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -497,5 +497,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 487 | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/track/5KcPSo0XHlv5XbPkVJJasI) | [WAWON](https://open.spotify.com/artist/6IkW1IwGsEsf2cGljOpDK9), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/album/5K5HRfrmS47poP5sXTXyd9) | 4:14 |
 | 488 | [ikanaide \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1VcOWKCKiWShO8Gs3YRVvP) | [sohta](https://open.spotify.com/artist/76vFRXB0jZ5BkAATnYdUEa), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [shounen syoujo no kotoba](https://open.spotify.com/album/0HMPY6yDhBHW6xJkvChcR8) | 3:12 |
 | 489 | [スキスキ絶頂症](https://open.spotify.com/track/4ob8EMtGqQYlute1An2U9X) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [Nameless](https://open.spotify.com/artist/7IrZTf8h2kmZq2p37NDs1m) | [Resonance](https://open.spotify.com/album/7DIkEiWd247bc48fvYUH0P) | 3:36 |
+| 490 | [Hymn to the Decadent Life](https://open.spotify.com/track/00qsiWwjbJgraBSZDvFz36) | [Ro2noki](https://open.spotify.com/artist/4yLOF9ZLc9gOubIyxAMgks) | [My Coffin, My Toy Box](https://open.spotify.com/album/4IlhbwPnhO6JNJVYEqKK7J) | 3:36 |
 
-Snapshot ID: `AAAKMbv10gsLwtmaUN5z8p9cKwqNQ16V`
+Snapshot ID: `AAAKMpIESLwE/DKxl8sE6yMUlIlqd+Oy`

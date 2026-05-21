@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC",
-  "num_followers": 117113,
+  "num_followers": 117136,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
+      "added_at": "2026-02-27 00:01:20",
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 171158,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "TOBECHUKWU",
@@ -1047,22 +1063,6 @@
       "duration_ms": 140769,
       "name": "Me & My Jesus",
       "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
-    },
-    {
-      "added_at": "2026-02-27 00:01:20",
-      "album": {
-        "name": "What I Need",
-        "url": "https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 171158,
-      "name": "What I Need",
-      "url": "https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -1177,30 +1177,6 @@
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
     },
     {
-      "added_at": "2025-10-31 00:01:29",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        },
-        {
-          "name": "Victorious Lucas",
-          "url": "https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q"
-        },
-        {
-          "name": "House of Faith",
-          "url": "https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy"
-        }
-      ],
-      "duration_ms": 206678,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Ebenezeri",
@@ -1223,6 +1199,30 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        },
+        {
+          "name": "Victorious Lucas",
+          "url": "https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q"
+        },
+        {
+          "name": "House of Faith",
+          "url": "https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy"
+        }
+      ],
+      "duration_ms": 206678,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X"
     },
     {
       "added_at": "2025-05-30 00:01:31",

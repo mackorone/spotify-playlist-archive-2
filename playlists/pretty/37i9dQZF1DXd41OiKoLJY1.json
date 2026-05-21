@@ -1,15 +1,79 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [ischi]. Artwork: Isu Kim.\n",
-  "num_followers": 72791,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [sunset blvd]. Artwork: Isu Kim.\n",
+  "num_followers": 72805,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtjGj7mEUB2V4e0boZ/LvEp4abB",
+  "snapshot_id": "AAAAADlygENDvXb4/bvWLstRp5qm64+4",
   "tracks": [
     {
-      "added_at": "2026-05-13 05:00:20",
+      "added_at": "2026-05-20 06:06:02",
+      "album": {
+        "name": "Sampaguita",
+        "url": "https://open.spotify.com/album/1CKvDvpohZBo2KQ1ZafYnf"
+      },
+      "artists": [
+        {
+          "name": "sunset blvd",
+          "url": "https://open.spotify.com/artist/7A5DPPrvylJFzZo56wDP1r"
+        }
+      ],
+      "duration_ms": 340500,
+      "name": "Sampaguita",
+      "url": "https://open.spotify.com/track/3JD2ksnyfhhkOW0z6eINx9"
+    },
+    {
+      "added_at": "2026-05-20 06:06:02",
+      "album": {
+        "name": "HULING PAALAM..",
+        "url": "https://open.spotify.com/album/0uFETFILIHEax2KqWYrm7h"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "HULING PAALAM..",
+      "url": "https://open.spotify.com/track/1wPGE9pBOuhyJYKM5fPZTh"
+    },
+    {
+      "added_at": "2026-05-20 06:06:02",
+      "album": {
+        "name": "Mirasol",
+        "url": "https://open.spotify.com/album/2yp4MQO0NhcGMJO2uppRtl"
+      },
+      "artists": [
+        {
+          "name": "Paulo Feliciano",
+          "url": "https://open.spotify.com/artist/2C8Umtd3sS4QrATXpzf793"
+        }
+      ],
+      "duration_ms": 173383,
+      "name": "Mirasol",
+      "url": "https://open.spotify.com/track/4jE28fq89ui3farFwzjFKf"
+    },
+    {
+      "added_at": "2026-05-20 06:06:02",
+      "album": {
+        "name": "look me up",
+        "url": "https://open.spotify.com/album/3Vnf2XW0LDW7cGcMvOxQcc"
+      },
+      "artists": [
+        {
+          "name": "GY",
+          "url": "https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37"
+        }
+      ],
+      "duration_ms": 134812,
+      "name": "look me up",
+      "url": "https://open.spotify.com/track/5Mxsh4W1sDo4USjGkRg1yb"
+    },
+    {
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "dahan-dahan",
         "url": "https://open.spotify.com/album/5fJLsIUlS9ALsds3xIlrtd"
@@ -25,7 +89,7 @@
       "url": "https://open.spotify.com/track/62im1CQT3L5BVUM65Apdvy"
     },
     {
-      "added_at": "2026-05-13 05:00:20",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Ano",
         "url": "https://open.spotify.com/album/1tS6IeQYqvHDZS2RSvP65I"
@@ -41,7 +105,7 @@
       "url": "https://open.spotify.com/track/6ive27zMCIHY2tFLa74fz2"
     },
     {
-      "added_at": "2026-05-13 05:00:20",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "uy miss u!",
         "url": "https://open.spotify.com/album/19FCValCx82v8JqKxSaxGI"
@@ -57,7 +121,7 @@
       "url": "https://open.spotify.com/track/67xPDZRf4HwVB9kFt5ZkQ9"
     },
     {
-      "added_at": "2026-05-13 05:00:20",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/59pHzWgQohtTwXt2meNzaZ"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/21m41twE6QsT6LsTtBJGb2"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Gusto Mo Ba Ako",
         "url": "https://open.spotify.com/album/1yQkzKCUjCkVXmVaoAnikN"
@@ -93,7 +157,7 @@
       "url": "https://open.spotify.com/track/4si4Uq5SxUGidqCnndISe4"
     },
     {
-      "added_at": "2026-03-19 16:00:11",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Oh My Lover",
         "url": "https://open.spotify.com/album/4TOeizOdVcxeyCYM3Gt3x2"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "EAU",
         "url": "https://open.spotify.com/album/0dLs4DXOkthAi8wz2FPoxN"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/2ezvquhiSdR6M0I5iYREK9"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Tayo ay Bagay",
         "url": "https://open.spotify.com/album/6MKgfOb4QihflNTU1JG888"
@@ -141,7 +205,7 @@
       "url": "https://open.spotify.com/track/5dlmzsd54JUVodPvTD5Tyg"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/5RFyIBAE6xwGfGJn4Pz47Z"
@@ -157,7 +221,7 @@
       "url": "https://open.spotify.com/track/7JPj7vdWrjUec31IlA4w6O"
     },
     {
-      "added_at": "2026-03-12 16:00:01",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Daga",
         "url": "https://open.spotify.com/album/223911VdbMVhPAiaRFvlhK"
@@ -173,7 +237,7 @@
       "url": "https://open.spotify.com/track/0hWPKCq4YXWD1jEAWYVzxY"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "This Isn't Who I Am",
         "url": "https://open.spotify.com/album/1Zc3m1LUqJQVor3nlyPVpt"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/1byJJ23tG6pB2UaS3j5sXP"
     },
     {
-      "added_at": "2026-03-19 16:00:11",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Sirena",
         "url": "https://open.spotify.com/album/3iIlDMnRnyNWSvl5RoKDV5"
@@ -209,7 +273,7 @@
       "url": "https://open.spotify.com/track/67qAhfMTVMO9KitHgwNOjV"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "5012",
         "url": "https://open.spotify.com/album/1gDJ5KUtBsvz2bFLMMIKLv"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/775jNb2eWx1cID6GQ6eObG"
     },
     {
-      "added_at": "2026-03-19 16:00:11",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Katotohanan",
         "url": "https://open.spotify.com/album/783AEaVr2SpGWQyVtdVzEi"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/6PCQmvy2qPtFNXWuIGjPQs"
     },
     {
-      "added_at": "2026-03-19 16:00:11",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Hifi",
         "url": "https://open.spotify.com/album/5d3AYbZJk16sINZHdTUHtK"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/6lrF2xPMBVvHFH0z5lzyd4"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/68nsUjENwtygSr9vM4EfS5"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/67XbobIuxPRAapoedtQusi"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/2nzacwMnbvPJ8MclUOkYxm"
@@ -289,7 +353,7 @@
       "url": "https://open.spotify.com/track/1g9mpQbdwwEmlU24eopgHD"
     },
     {
-      "added_at": "2026-05-06 17:00:14",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Lambing",
         "url": "https://open.spotify.com/album/7tqh8yTSaDddp6p8nJV9xz"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/0ZTb7irGGjNKhRKG1sDlqD"
     },
     {
-      "added_at": "2026-03-19 16:00:11",
+      "added_at": "2026-05-20 06:06:02",
       "album": {
         "name": "Ayaw ko na sana sa Love Song",
         "url": "https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Calvin Harris & Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951,157 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,163 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 44 | [Physical](https://open.spotify.com/track/73nIuR6rG9ZZv23xcSDHOU) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Physical](https://open.spotify.com/album/0GdLo6GACogaSy8tPfYhpA) | 2:40 |
 | 45 | [Hypa](https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Specialist Moss](https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2) | [Hypa](https://open.spotify.com/album/2qt5CEqE5IeJfVGgGIRMGd) | 3:12 |
 | 46 | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 |
-| 47 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
+| 47 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 48 | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh) | 3:27 |
 | 49 | [House Mentality \- Radio Edit](https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [House Mentality](https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg) | 2:36 |
 | 50 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |

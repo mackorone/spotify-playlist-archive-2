@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Genesis Owusu
 
-640 songs - 1 day 11 hr 48 min
+641 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [I HEART YOU](https://open.spotify.com/track/2KulZwrv0Wg8OSiKIfvaMu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [4AM \(LA LA LA\)](https://open.spotify.com/album/1TYlqFHeXpIOaLSdnu8Kji) | 2:52 | 2025-03-04 | 2025-04-18 |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-19 | 2026-04-24 |
 | [I Love You Out Loud](https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Love You Out Loud](https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M) | 3:33 | 2026-04-02 |  |
+| [I Never See Her](https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [I Never See Her](https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe) | 3:04 | 2026-05-14 |  |
 | [I OUGHTA KNOW BETTER](https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [I OUGHTA KNOW BETTER](https://open.spotify.com/album/4gtI5sbgbNJgLQ6nSsYYKt) | 3:26 | 2025-10-02 | 2025-10-11 |
 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 | 2025-09-01 | 2025-09-05 |
 | [I Want Ya](https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [EIGHT](https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt) | 4:23 | 2026-04-16 | 2026-04-24 |
@@ -547,7 +548,7 @@
 | [Telephone](https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Telephone](https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra) | 3:41 | 2024-11-28 | 2024-12-06 |
 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-23 | 2026-03-30 |
 | [Telescope](https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Telescope](https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ) | 3:28 | 2025-01-30 | 2025-02-07 |
-| [Tell Me How It Feels](https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Tell Me How It Feels](https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l) | 3:23 | 2026-02-19 |  |
+| [Tell Me How It Feels](https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Tell Me How It Feels](https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l) | 3:23 | 2026-02-19 | 2026-05-21 |
 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 | 2026-02-26 | 2026-03-06 |
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 | 2025-09-30 |
 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-01-29 | 2026-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GsmNktT9gj.md) - [plain]
 
 > Listen to all of your favorite songs from the brand new film, Disney's Lilo & Stitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,961 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,989 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GsmNktT9gj.md) - [plain]
 | 42 | [Goodnight Sisters](https://open.spotify.com/track/4sL6htHZjHPWcAQC3wWaQm) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 1:45 |
 | 43 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
 | 44 | [Hawaiian Roller Coaster Ride \- Pop Version](https://open.spotify.com/track/2uBVAOWBvVMIxtkOLp76Ja) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [Disneymania 3](https://open.spotify.com/album/6vcn58GShet4wmqctZ8jVj) | 3:03 |
-| 45 | [Stitch to the Rescue](https://open.spotify.com/track/1616uIpy5KwVqnKtIuyhcu) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 5:54 |
-| 46 | [You Can Never Belong](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 |
-| 47 | [I'm Lost](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 |
-| 48 | [Hawaiian Roller Coaster Ride \- Orgel Version](https://open.spotify.com/track/6yfrjt5pxSJtOUiubztVKN) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 4:45 |
+| 45 | [Glitter Glide \- From "Stitch and Angel's Pop Star Party"](https://open.spotify.com/track/1S2wspqYMjUWEUsNkow23w) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"\)](https://open.spotify.com/album/5VT6DktVnly5XCedIRQPIZ) | 2:21 |
+| 46 | [Stitch to the Rescue](https://open.spotify.com/track/1616uIpy5KwVqnKtIuyhcu) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 5:54 |
+| 47 | [You Can Never Belong](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 |
+| 48 | [I'm Lost](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 |
+| 49 | [Hawaiian Roller Coaster Ride \- Orgel Version](https://open.spotify.com/track/6yfrjt5pxSJtOUiubztVKN) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 4:45 |
 
-Snapshot ID: `AAAAANIY2fN/O/MQ38fzSqSbQbE4fbO6`
+Snapshot ID: `AAAAAAa+Otd9wKccwXrjGcwGt+ujXELt`

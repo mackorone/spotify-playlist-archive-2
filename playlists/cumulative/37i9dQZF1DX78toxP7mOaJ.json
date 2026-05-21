@@ -5599,6 +5599,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/1XuGAlJ72WoDwVRECvM5V6"
+      },
+      "artists": [
+        {
+          "name": "FLESH CREEP",
+          "url": "https://open.spotify.com/artist/4YEeBiTV6sVnZfT3goCtOY"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211375,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/2CpmvIrRXnVJUuK4n4OKvA"
+    },
+    {
+      "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13"
       },
@@ -14728,7 +14746,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 176137,
       "name": "George",
       "url": "https://open.spotify.com/track/5P9OqilWan1wf9XCyM2Mg7"
@@ -15626,6 +15644,24 @@
       "duration_ms": 243314,
       "name": "good for it",
       "url": "https://open.spotify.com/track/3UNj7YUdaSXpjIlr4pGm39"
+    },
+    {
+      "album": {
+        "name": "Good Kids",
+        "url": "https://open.spotify.com/album/7xH9bFRx44Z8tNdh6ecwsi"
+      },
+      "artists": [
+        {
+          "name": "Feldspar",
+          "url": "https://open.spotify.com/artist/6TJp0yKY5iT6MjAAL30Q12"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Good Kids",
+      "url": "https://open.spotify.com/track/5f3R3mVywPhyr4eQNmSSbX"
     },
     {
       "album": {
@@ -21474,7 +21510,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 157250,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/6FZ1ZITQcnQmz4teEIHvgw"
@@ -26860,7 +26896,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 295589,
       "name": "NYC",
       "url": "https://open.spotify.com/track/0kNqsqau3Tva7KCGlHbjnE"
@@ -29086,7 +29122,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 229603,
       "name": "Portrait set on fire",
       "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
@@ -30495,6 +30531,24 @@
     },
     {
       "album": {
+        "name": "Tearless, thoughtless",
+        "url": "https://open.spotify.com/album/3yqu4W7W0dsC0eACjsDQPb"
+      },
+      "artists": [
+        {
+          "name": "Nara's Room",
+          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188997,
+      "name": "Reseda",
+      "url": "https://open.spotify.com/track/07mSJaOA01ZiH1ehxMpn5Y"
+    },
+    {
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1"
       },
@@ -31004,6 +31058,24 @@
       "duration_ms": 189237,
       "name": "Run (When I Tell You)",
       "url": "https://open.spotify.com/track/2HVPlrwGyrFO9SMEXXSdYw"
+    },
+    {
+      "album": {
+        "name": "Run away with me",
+        "url": "https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Run away with me",
+      "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
     },
     {
       "album": {

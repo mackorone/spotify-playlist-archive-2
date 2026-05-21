@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-85 songs - 3 hr 59 min
+86 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,14 @@
 | [Adore](https://open.spotify.com/track/4vz4lZFsbgVB7oZG126OyM) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh) | [Adore](https://open.spotify.com/album/0QeuPCHFhCzj9wRSvKTi47) | 2:10 | 2025-10-17 |  |
 | [Afterhours](https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Afterhours](https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8) | 2:20 | 2025-10-17 |  |
 | [Agg Paaniyan Ch](https://open.spotify.com/track/7FHqKBChj0iBGy7AYpp3A4) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Agg Paaniyan Ch](https://open.spotify.com/album/73tkkW29HF1pwOVJ0ScB6o) | 2:40 | 2025-10-17 |  |
+| [Ambassador](https://open.spotify.com/track/6ZY4tfxyLITPmAUbE2T58N) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Ambassador](https://open.spotify.com/album/0Egms8AdbxJPHJMzEhnBF8) | 2:02 | 2026-05-20 |  |
 | [ANTIDOTE](https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:07 | 2025-10-17 |  |
 | [Aphrodite](https://open.spotify.com/track/01Av7xIF6D57aJ5X0RuALT) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [A for Arjan 2](https://open.spotify.com/album/43k9K0ZWNOrL7e6praZwiW) | 2:28 | 2025-10-17 |  |
 | [Asla](https://open.spotify.com/track/65mPn0Lc8D6jE67S7raTiV) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Asla](https://open.spotify.com/album/6xshFUAjYBeEJMy6JU2jEe) | 2:24 | 2026-02-06 |  |
 | [Attraction](https://open.spotify.com/track/0biuGbhZwYnuUwMOi4fvaN) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Attraction](https://open.spotify.com/album/2916WaelFJZ8rzD77tVjnZ) | 3:03 | 2025-10-17 |  |
 | [AZUL](https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AZUL](https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39) | 2:18 | 2025-10-17 |  |
 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 | 2025-10-17 |  |
-| [Bawra](https://open.spotify.com/track/27A9Fj1num93gT1BGNHf49) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Simran Jhanjharya](https://open.spotify.com/artist/3kxNZjg8GD2XbaRffgXmBY) | [BAWRA](https://open.spotify.com/album/0odzGVt3PQrHnoWdrN3Mnk) | 3:30 | 2026-04-24 |  |
+| [Bawra](https://open.spotify.com/track/27A9Fj1num93gT1BGNHf49) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Simran Jhanjharya](https://open.spotify.com/artist/3kxNZjg8GD2XbaRffgXmBY) | [BAWRA](https://open.spotify.com/album/0odzGVt3PQrHnoWdrN3Mnk) | 3:30 | 2026-04-24 | 2026-05-21 |
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2025-10-17 |  |
 | [Black & White](https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:08 | 2025-11-21 | 2026-01-30 |
 | [Born to Live](https://open.spotify.com/track/4mLHPnWawpC0p41vFAj7hV) | [Mr RJ Gautam](https://open.spotify.com/artist/0lKQsCQVHskG1y6K6dKPsj), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [Born to Live](https://open.spotify.com/album/6fUMMNcf8j6NL1NAGvvxVl) | 3:22 | 2026-02-27 |  |

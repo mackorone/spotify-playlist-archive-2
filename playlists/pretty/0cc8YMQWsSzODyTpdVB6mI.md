@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > To travel between house, deep house and positive vibes !
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,587 likes - 52 songs - 3 hr 4 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,586 likes - 52 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
+| 1 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 2 | [Forest](https://open.spotify.com/track/6LlmLH7RIKJ1wfRTKmnmtK) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Forest](https://open.spotify.com/album/3Fd2QkV19y7Cl2h7FdNOSI) | 5:30 |
 | 3 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
 | 4 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |

@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 341055,
+  "num_followers": 341303,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lonely nights",
-        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
-      },
-      "artists": [
-        {
-          "name": "fauxe.",
-          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
-        }
-      ],
-      "duration_ms": 103208,
-      "name": "lonely nights",
-      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "lonely nights",
+        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
+      },
+      "artists": [
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "duration_ms": 103208,
+      "name": "lonely nights",
+      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -1047,6 +1047,30 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "if things were different",
+        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
+      },
+      "artists": [
+        {
+          "name": "findnothing",
+          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
+        },
+        {
+          "name": "hide waldo",
+          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
+        }
+      ],
+      "duration_ms": 98108,
+      "name": "for us",
+      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1075,6 +1099,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -1095,22 +1135,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "lost in the forest",
         "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 106675,
       "name": "lost in the forest",
       "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "if things were different",
-        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
-      },
-      "artists": [
-        {
-          "name": "findnothing",
-          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
-        },
-        {
-          "name": "hide waldo",
-          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
-        }
-      ],
-      "duration_ms": 98108,
-      "name": "for us",
-      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Nebel",
-        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
-      },
-      "artists": [
-        {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
-        }
-      ],
-      "duration_ms": 194077,
-      "name": "Nebel",
-      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "The Beautiful World",
         "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 178858,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 194077,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
-      },
-      "artists": [
-        {
-          "name": "Watasino",
-          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
-        },
-        {
-          "name": "Lonely Girl",
-          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Bathed in Grey",
         "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 168013,
       "name": "lost in a memory",
       "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+      },
+      "artists": [
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "morning after midnight",
+        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "duration_ms": 136054,
+      "name": "morning after midnight",
+      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "iel te guide (lumineuse arp v)",
         "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "morning after midnight",
-        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
-      },
-      "artists": [
-        {
-          "name": "Eleftherios",
-          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 136054,
-      "name": "morning after midnight",
-      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     },
     {
       "added_at": "2026-05-15 04:00:43",

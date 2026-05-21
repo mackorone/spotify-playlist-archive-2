@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Abhin Joshi",
+  "description": "The best new music by independent artists and labels in India. Cover - Kuhu Gracia",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -6859,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "Dawedari",
+        "url": "https://open.spotify.com/album/1en4ReEM34kTReoniNTrvn"
+      },
+      "artists": [
+        {
+          "name": "Soumya Kumaar",
+          "url": "https://open.spotify.com/artist/1D1n7hRcCDqWBjlO10E7ZU"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dawedari",
+      "url": "https://open.spotify.com/track/3lKWBsUqDzDpfRKJ6dUbrD"
+    },
+    {
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs"
       },
@@ -9727,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "Fasaana",
+        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
+      },
+      "artists": [
+        {
+          "name": "Kuhu Gracia",
+          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Fasaana",
+      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
+    },
+    {
+      "album": {
         "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/74N26g39GfDCUhjRW9VRVP"
       },
@@ -12158,7 +12194,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 172750,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/2fKQv9G8PPlSIqnIXlYDaY"
@@ -37016,7 +37052,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 186907,
       "name": "Wirebound",
       "url": "https://open.spotify.com/track/73kf0HcC9p7zUQgePkUmgV"

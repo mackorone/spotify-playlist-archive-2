@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 79 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
 | 80 | [Jealous of the Sun](https://open.spotify.com/track/4UEv7aQeUm5gwlGA9SA6dY) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Old School](https://open.spotify.com/album/5BZmtptxYBxDHo6y3SOPYQ) | 3:14 |
 | 81 | [Trigger](https://open.spotify.com/track/0OB3ICjuYVoojKIv46N9CH) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 2:55 |
-| 82 | [Pretty](https://open.spotify.com/track/0WdsQ1ILFakXLpLu51aVnr) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 4:39 |
-| 83 | [If I Die Before You](https://open.spotify.com/track/6YflHQkyqXW2hz20kzqmNU) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Shade Tree](https://open.spotify.com/album/2ax0cAQobLjiqKq2Cl5n74) | 3:13 |
+| 82 | [If I Die Before You](https://open.spotify.com/track/6YflHQkyqXW2hz20kzqmNU) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Shade Tree](https://open.spotify.com/album/2ax0cAQobLjiqKq2Cl5n74) | 3:13 |
+| 83 | [Pretty](https://open.spotify.com/track/0WdsQ1ILFakXLpLu51aVnr) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 4:39 |
 | 84 | [Brake Lights](https://open.spotify.com/track/6KSEtiu8G3KP1X8aPXdjhx) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 3:33 |
 | 85 | [Chasing \(feat\. Jordin Sparks\)](https://open.spotify.com/track/6cSOfMZG1NHCAEezYHRaHm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:55 |
 | 86 | [What I Don't Know](https://open.spotify.com/track/00fFVK7j9q7R1INGWJePuw) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 3:36 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 214 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 215 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcR8fAAAAAAU6Ple8bSkIcsmhtE6aKl+`
+Snapshot ID: `AcSCHAAAAAC/dy00xSNxclN0GdFUkKxL`

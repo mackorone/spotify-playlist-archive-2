@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Benjamin Williams Hastings,  Aodhán King, and Cody Carnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,973 likes - 80 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,980 likes - 80 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 79 | [God of the Breakthrough \- Live](https://open.spotify.com/track/7aAIrESzeCW3IXyBb0I4JZ) | [Crossroads Music](https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/2TrdzEL3jjGwNUWGN8HkTG) | 4:18 |
 | 80 | [Why Not Here? \- Live](https://open.spotify.com/track/4cA3nsFk40wM8zOS856aQL) | [LF Worship](https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1), [Chantal Huybregts](https://open.spotify.com/artist/7y7KNW2HDLFh5R57v1uYNE) | [Why Not Here?](https://open.spotify.com/album/6lY6UsjJWMyVDta6cwLKKS) | 8:00 |
 
-Snapshot ID: `AAAAAELpDoxRrX4lPE+TZ+4xn6sLtwZ8`
+Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`

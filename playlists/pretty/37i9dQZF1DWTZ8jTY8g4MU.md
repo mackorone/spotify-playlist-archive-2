@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,253 likes - 52 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,273 likes - 52 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

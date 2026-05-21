@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-533 songs - 1 day 4 hr 6 min
+534 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 | 2026-03-01 |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 | 2025-08-13 |
+| [me when im with u](https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [fahstine](https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P) | [me when im with u](https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3) | 2:14 | 2026-05-20 |  |
 | [Means For Me](https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Means For Me](https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi) | 1:44 | 2026-01-23 |  |
 | [MEDICINE](https://open.spotify.com/track/6O6DxmtNsR2c52oJkqyfOo) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:58 | 2025-04-17 |  |
 | [memories i can't replace](https://open.spotify.com/track/30Rb5WwyJESVTg0GwA7FQ0) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [memories i can't replace](https://open.spotify.com/album/7yQiKXTTXJyVIgfTfIr1QY) | 2:26 | 2024-08-15 |  |

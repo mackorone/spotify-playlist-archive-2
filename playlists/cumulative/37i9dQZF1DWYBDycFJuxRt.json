@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: LANA *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/346050\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: LANA *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/346219\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -4070,6 +4070,24 @@
       "duration_ms": 2143178,
       "name": "2026/5/13 Ayumu Imazu\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01STUTS\u3001butaji\u3001\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9\u3078\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01\u6d5c\u91ce\u8b19\u592a\u00d7\u5f8c\u85e4\u771f\u5e0c\u306e\u30b3\u30e9\u30dc\u66f2\u3001Maverick Mom\u306e1st\u30a2\u30eb\u30d0\u30e0\u3001Maya\u3068Rol3ert\u306e\u30b3\u30e9\u30dc\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/2Y4b8uaMMQZs6YtdpY8jmk"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1463414,
+      "name": "2026/5/20 LANA\u304c\u65b0\u66f2\u300cDrama Queen\u300d\u3092\u30ea\u30ea\u30fc\u30b9\uff01Balming Tiger\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001BIGBANG\u306eTAEYANG\u306e9\u5e74\u3076\u308a\u306e\u30a2\u30eb\u30d0\u30e0\u3001the cabs\u306e13\u5e74\u3076\u308a\u306e\u65b0\u66f2\u3082\uff01\u30e9\u30c3\u30d1\u30fcWorldwide Skippa\u306e1st\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01\u30bb\u30ab\u30f3\u30c9\u30d0\u30c3\u30ab\u30fc\u304b\u3089\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3082\u5230\u7740\uff01",
+      "url": "https://open.spotify.com/episode/4UDrmhthosZcSggAaNhygY"
     },
     {
       "album": {
@@ -9268,8 +9286,8 @@
           "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
         },
         {
-          "name": "\u718a\u4e95\u543e\u90ce",
-          "url": "https://open.spotify.com/artist/3RcyDzCr1gEZ5MH6tl0MOR"
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
         }
       ],
       "date_added": "2026-05-19",
@@ -70055,6 +70073,24 @@
     },
     {
       "album": {
+        "name": "YELLOW SUN -THE BEST-",
+        "url": "https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g"
+      },
+      "artists": [
+        {
+          "name": "SpecialThanks",
+          "url": "https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228688,
+      "name": "HELLO COLORFUL",
+      "url": "https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn"
+    },
+    {
+      "album": {
         "name": "Hello Goodbye",
         "url": "https://open.spotify.com/album/6OYxuxrLzvk7ukVdF6HGMc"
       },
@@ -118210,6 +118246,32 @@
       "duration_ms": 185826,
       "name": "Numb Brain",
       "url": "https://open.spotify.com/track/5Livz4o0bMHptCvP8vrqIy"
+    },
+    {
+      "album": {
+        "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+        "url": "https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
     },
     {
       "album": {
@@ -172052,24 +172114,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "YELLOW SUN -THE BEST-",
-        "url": "https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g"
-      },
-      "artists": [
-        {
-          "name": "SpecialThanks",
-          "url": "https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn"
     },
     {
       "album": {

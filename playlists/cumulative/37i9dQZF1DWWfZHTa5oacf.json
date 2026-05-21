@@ -1033,6 +1033,40 @@
     },
     {
       "album": {
+        "name": "Mashooqa (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230070,
+      "name": "Mashooqa - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK"
+    },
+    {
+      "album": {
         "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
       },

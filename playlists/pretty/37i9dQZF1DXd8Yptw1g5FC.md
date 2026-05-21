@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > İrem Derici ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,447 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,443 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 48 | [Kalabilsen Yarınıma Keşke](https://open.spotify.com/track/5PRZQP5B7JGc6mv7fk5ROc) | [yunusemre](https://open.spotify.com/artist/0dfex4kZyUbI489BMy0fqK) | [Kalabilsen Yarınıma Keşke](https://open.spotify.com/album/75kmL8CziMT7wHEvzt2hRs) | 3:14 |
 | 49 | [Beni Kimse Anlamaz](https://open.spotify.com/track/3IIoOfFC1WWWeJD9mnzG5y) | [Şerif Ali Boztepe](https://open.spotify.com/artist/1VeewB3eKKDN7XR43xwlQb), [Berrin Keskin](https://open.spotify.com/artist/2ovRz9ewEyKS71oGJf6gTb) | [Beni Kimse Anlamaz](https://open.spotify.com/album/1ksIkkQDz6P3xkxma5msun) | 5:38 |
 | 50 | [ITIRAF](https://open.spotify.com/track/5vsG7VCAdjcYQYbCrhMsXP) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [ITIRAF](https://open.spotify.com/album/0lE17NhdyHMs5avRrhrYpm) | 2:12 |
-| 51 | [YUH!](https://open.spotify.com/track/3qoInqxiAAtEfXVyjfxw73) | [Aura](https://open.spotify.com/artist/2q14eVUoemKH1iMFmMHDNA) | [YUH!](https://open.spotify.com/album/4ln3fPmQE0dq6P9q16xfqG) | 2:28 |
+| 51 | [YUH!](https://open.spotify.com/track/3qoInqxiAAtEfXVyjfxw73) | [AURA](https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo) | [YUH!](https://open.spotify.com/album/4ln3fPmQE0dq6P9q16xfqG) | 2:28 |
 | 52 | [Bi Kiss](https://open.spotify.com/track/2dhv3ryBURC4g7chzeQ0p5) | [Mantra Girls](https://open.spotify.com/artist/6LjXO5vwBOyFJOR4zsLCIs) | [Bi Kiss](https://open.spotify.com/album/3hq6YOuK4xlOgyUnojx22s) | 2:40 |
 | 53 | [TIK TOK](https://open.spotify.com/track/48y7nBjX1ZTjoOuVTpa2kf) | [Ege Çubukçu](https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ) | [UCUZ BİR ROMAN](https://open.spotify.com/album/4Ubnz60pqQCPU1urWx0MzI) | 3:59 |
 | 54 | [Yazarız Adını Göklere](https://open.spotify.com/track/6ksc4AfHhWIxtYf9cSoFLW) | [Faruk K](https://open.spotify.com/artist/6rixu3hOO3YKVGBABu2vpo), [Birkaç İyi Adam](https://open.spotify.com/artist/5c8r9eDCu5NUX7FJJGaLS0) | [Yazarız Adını Göklere](https://open.spotify.com/album/3iUkSPqb08eIK0YvUUteS3) | 2:32 |

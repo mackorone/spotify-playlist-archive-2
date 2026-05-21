@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,964 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,980 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aura](https://open.spotify.com/track/4xNej9XMwFfiw0BGxnd9NR) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Aura](https://open.spotify.com/album/7LyrAkJF8KwU8aGu5cTDRb) | 2:41 |
 | 2 | [Not Guilty](https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Not Guilty](https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c) | 2:55 |
-| 3 | [Psyco Jaatni](https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Reet Gill](https://open.spotify.com/artist/5pQBIiTBIJGixnzZepUk36) | [Psyco Jaatni](https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l) | 3:28 |
+| 3 | [Psyco Jaatni](https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Reet Gill](https://open.spotify.com/artist/3pT2oznYe3MtX8DV3O3KVE) | [Psyco Jaatni](https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l) | 3:28 |
 | 4 | [Haryana Zone](https://open.spotify.com/track/2VuW3jjvVYpA4H6RfIPMeP) | [Sintaa](https://open.spotify.com/artist/5Tjcx2u1QHdkVArO0ayf1P), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Haryana Zone](https://open.spotify.com/album/4e1PVvyjf5qLMPRJ8PDq8P) | 2:33 |
 | 5 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
 | 6 | [FARIDA DRIP](https://open.spotify.com/track/07tKXov8dK1y2pS1DbfreN) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 4:20 |

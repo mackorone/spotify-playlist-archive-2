@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: 4our Wheel Dream\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Gee Pussadee\. Artwork: Isu Kim
 
-2,631 songs - 6 day 21 hr 1 min
+2,636 songs - 6 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Call Center](https://open.spotify.com/track/0xp53QTik3SzJQHp6O0Xvk) | [ZIYEN](https://open.spotify.com/artist/5GgjczjHERBxIcpy5cKZ6e) | [Call Center](https://open.spotify.com/album/3GAXwq82njHAM7MCP5WvjN) | 2:19 | 2024-11-29 | 2024-12-14 |
 | [Call me](https://open.spotify.com/track/3oY2opO1jwxQgXl89OqUMz) | [00.01](https://open.spotify.com/artist/0j5wRYC2KjvFjqultH07BQ) | [Call me](https://open.spotify.com/album/5CkKwX9KPrXh6ZOSiHvFoJ) | 3:57 | 2025-09-26 | 2025-10-25 |
 | [Camomile](https://open.spotify.com/track/2nBgb4eY2vKe3sVDDx2kZC) | [Patty Panicha](https://open.spotify.com/artist/2xdIAAKxGmxbNuPBW6x7Ej) | [Camomile](https://open.spotify.com/album/5KMTqRC8EJG6HSBqv2z9Sz) | 3:30 | 2024-12-20 | 2024-12-27 |
+| [Can I call it love?](https://open.spotify.com/track/4d0wHV7rO9AMJhfPwYSe9Y) | [Ardawan](https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno) | [Can I call it love?](https://open.spotify.com/album/1dBOJhSWpzwfmk4sjASh58) | 3:00 | 2026-05-20 |  |
 | [Can you stay](https://open.spotify.com/track/2Mc5zvlIHTSl369rGL2paz) | [URMINE](https://open.spotify.com/artist/7KMkGU2lhRyeOhJrlng5oO) | [Can you stay](https://open.spotify.com/album/7nJbShA0XLmdXxVrr7pzxW) | 2:58 | 2024-07-26 | 2024-08-03 |
 | [Can't Lose](https://open.spotify.com/track/2JmWtCjSA6DrO9hITxQGaZ) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Can't Lose](https://open.spotify.com/album/5LAatsmv1CrJwYp30UxQ8y) | 3:10 | 2026-05-06 |  |
 | [Canvas](https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef) | [C\#](https://open.spotify.com/artist/3cHznWQOP1ssmoouwarq6o) | [Canvas](https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW) | 4:28 | 2026-01-30 | 2026-03-13 |
@@ -624,6 +625,7 @@
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-29 | 2025-03-21 |
 | [ก่อนที่เธอจะไป](https://open.spotify.com/track/2XMLv7PUnsXjRLglsqMSHk) | [Javin Boom](https://open.spotify.com/artist/5fAAU5cPkaPhyZy2Qs5jUt) | [ก่อนที่เธอจะไป](https://open.spotify.com/album/2w5Z7Od84bfKC99wQhUsLK) | 3:45 | 2024-07-26 | 2024-10-12 |
 | [ก่อนที่เราจะไม่รักกัน \(BEFORE THE END\)](https://open.spotify.com/track/2rtD3WzepY5p3xINE27v0w) | [AernAver](https://open.spotify.com/artist/5dNcnAxNCZBfD9H9xWcWfR) | [ก่อนที่เราจะไม่รักกัน \(BEFORE THE END\)](https://open.spotify.com/album/6IrkbfngLKBKJLHFZl1Zss) | 2:44 | 2026-03-05 | 2026-03-21 |
+| [ก่อนบอกไป](https://open.spotify.com/track/0dWdoq8lLCvVEgUetD9cn3) | [Cigarettes Summer George](https://open.spotify.com/artist/1GeJxu4mpC0stTPe2jv5NP) | [ก่อนบอกไป](https://open.spotify.com/album/5BI1o3aGsLGX1NUyMEAV3u) | 4:35 | 2026-05-20 |  |
 | [ก่อนฟ้ารางเลือน](https://open.spotify.com/track/1tF8KDdPBlJVxTCqWdmQXe) | [Manymoons.](https://open.spotify.com/artist/0JHNb1uiJSV4iY5KnE55Gx) | [ก่อนฟ้ารางเลือน](https://open.spotify.com/album/7nI1vsKydZKzkLXOzY6P7Z) | 3:46 | 2024-04-11 | 2024-05-11 |
 | [ก่อนลา](https://open.spotify.com/track/7B3AylZeiUyuqqsC6ba2We) | [Topeople](https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c) | [ก่อนลา](https://open.spotify.com/album/2wsL1z9cEO5OdXUERclUy8) | 4:09 | 2022-11-11 | 2022-12-02 |
 | [ก่อนสอบ](https://open.spotify.com/track/2A0aX7Jk1dyRRtTEjpW4Cu) | [SIBKARIN & JACK](https://open.spotify.com/artist/2RHRToZCHkguzYxJXIPjDU) | [ก่อนสอบ](https://open.spotify.com/album/37WlxDNbPKbHuQ1AWTnAIk) | 3:20 | 2024-12-13 | 2024-12-21 |
@@ -908,6 +910,7 @@
 | [จำได้](https://open.spotify.com/track/7j66pDYt1lVrxtdIiKAzIu) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [จำได้](https://open.spotify.com/album/2v14s4MlrJ8zz0avEqbRC2) | 2:46 | 2024-07-01 | 2024-07-13 |
 | [จำไว้ให้ขึ้นใจ](https://open.spotify.com/track/3DNyV68FXMoP4WWnUnkDtp) | [More Nine](https://open.spotify.com/artist/4TH3r2oEvgV8AINodIkJjv) | [จำไว้ให้ขึ้นใจ](https://open.spotify.com/album/0ZiYM0LgNfTo1dyuDTjxdb) | 3:39 | 2023-06-23 | 2023-09-16 |
 | [จินตนา \(Jintana\)](https://open.spotify.com/track/3KAc3HMAQfRoYaKHsQZnb1) | [KORPOR](https://open.spotify.com/artist/1M3zEeehFUcsrVm2EMh4UM) | [จินตนา \(Jintana\)](https://open.spotify.com/album/3bpcqupNzLJigXq3i5Ci6t) | 3:53 | 2023-03-03 | 2023-03-11 |
+| [จินตนาการ \(IMAJIN\)](https://open.spotify.com/track/3IQZpM2TDZTmsTu5E9HG71) | [PONDPOND](https://open.spotify.com/artist/542tafWAGKkT1qxxyn91mn) | [จินตนาการ \(IMAJIN\)](https://open.spotify.com/album/2EEHaFJ2n3p2Y80IeoTQ6N) | 5:23 | 2026-05-20 |  |
 | [จีบก่อนได้นะ \(LET'S FLIRT\)](https://open.spotify.com/track/2IEmGPasBPZaj3Gvo5PRP0) | [Ben Bunyapol](https://open.spotify.com/artist/1ga20y8NNx6x6FVCLjg7ED) | [จีบก่อนได้นะ \(LET'S FLIRT\)](https://open.spotify.com/album/08GkqCrV5PM4SXKMXo4ijT) | 3:45 | 2024-07-19 | 2024-08-17 |
 | [จีบก่อนได้เปรียบ](https://open.spotify.com/track/7b55zoernOFnPJFv40mSVX) | [Tong Tanaporn](https://open.spotify.com/artist/4XnOjIAOZrXVitynn3sIr3) | [จีบก่อนได้เปรียบ](https://open.spotify.com/album/2RlpBzuFJyFn0LaXyWLa6E) | 4:23 | 2023-11-08 | 2023-11-25 |
 | [จีบตรงๆ](https://open.spotify.com/track/7KH24r26QSY382nnPOZ9z6) | [Ringpopz](https://open.spotify.com/artist/2g449arVg1wdNHOEsiYXgu), [XOXOCITY](https://open.spotify.com/artist/3In1Ccph5NjAhwbP4MngDB) | [จีบตรงๆ \(Crush on you\)](https://open.spotify.com/album/5T69GmAe9vf7fGrNQ9zWp6) | 3:02 | 2023-09-15 | 2023-09-30 |
@@ -1882,6 +1885,7 @@
 | [อยากถามแต่ไม่อยากถาม](https://open.spotify.com/track/2z6Jj2wzOEgQxmXPIbAjqs) | [WATAN\-U](https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG) | [อยากถามแต่ไม่อยากถาม](https://open.spotify.com/album/79Bcapt7hPfrfBt9HYbe94) | 3:29 | 2023-07-14 | 2024-01-06 |
 | [อยากที่จะลืม \(Blue rubber\)](https://open.spotify.com/track/3scf4Y2sUoSXCyNScr5EVJ) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [อยากที่จะลืม \(Blue rubber\)](https://open.spotify.com/album/0wOojkUDqliBbc2VgdTOMB) | 4:20 | 2022-12-16 | 2023-01-06 |
 | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG) | 3:16 | 2026-02-20 | 2026-05-07 |
+| [อยากบอกดาว \(Still You\)](https://open.spotify.com/track/4yF36uB4T8tF2YQQxva5iz) | [Hayayee](https://open.spotify.com/artist/4GH7zHopI15JcvDz0X3PLT) | [อยากบอกดาว \(Still You\)](https://open.spotify.com/album/3zdesdqBbXfnc5qXqnVfBe) | 4:07 | 2026-05-20 |  |
 | [อยากฟังเพลงรักบ้างไหม?](https://open.spotify.com/track/1j7IozAGDxmDdFfoXdNUt5) | [Mek Sippanun](https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc), [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [อยากฟังเพลงรักบ้างไหม?](https://open.spotify.com/album/4pBUzAxDh9PdELlTduSYsR) | 4:48 | 2023-03-17 | 2023-05-27 |
 | [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/track/79u4V2ozJKklrg62LxTJsJ) | [Seventh of July](https://open.spotify.com/artist/39s4v4cZONDOY857utzRT3) | [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/album/5mxA0aqAKRAeK6gi3oSlbH) | 4:28 | 2024-08-30 | 2024-10-05 |
 | [อยากมีรัก \(Thought\)](https://open.spotify.com/track/1gXEQGmm0FIRkFjrP0mCkU) | [Jeone 247units](https://open.spotify.com/artist/6Ru9bnkSQ3Xsk5tuaNStFa) | [อยากมีรัก \(Thought\)](https://open.spotify.com/album/2AZz5fJ2WOM6qi1FkgWJTJ) | 4:17 | 2022-12-23 | 2024-01-06 |
@@ -2181,6 +2185,7 @@
 | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/track/1OjZuGbeXKh7fvJ4uPlNCg) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/album/6IKE7q1kWDWgWSK3hSolqb) | 3:53 | 2025-04-10 | 2026-01-15 |
 | [เพียงแต่วันนี้เธอไม่อยู่](https://open.spotify.com/track/1XGFVfMc25U3YoK2rsOuxR) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [เพียงแต่วันนี้เธอไม่อยู่](https://open.spotify.com/album/0oA93Za5kiaxZAB4NtXxc5) | 4:19 | 2025-10-24 | 2025-12-05 |
 | [เพื่อน\(ก็ได้\)](https://open.spotify.com/track/3jvrAKgBxcrIgjTYhOdhme) | [SUNTZS](https://open.spotify.com/artist/4YSUK89rC80iCOGR6yBbne) | [เพื่อน\(ก็ได้\)](https://open.spotify.com/album/7LtxMgE4Np8JxihYvxcqIi) | 3:39 | 2023-07-21 | 2023-08-05 |
+| [เพื่อนกันจริงเหรอ](https://open.spotify.com/track/0VwQzIilWlLfeNLGZe47NC) | [Twist Noize](https://open.spotify.com/artist/41UpTYsRFizGxksorBVsLO) | [เพื่อนกันจริงเหรอ](https://open.spotify.com/album/3KnpFepcGX3SDbqc7eg8TR) | 3:43 | 2026-05-20 |  |
 | [เพื่อนกันหรอ \(Really?\)](https://open.spotify.com/track/5hjif2RlBjlrX2W6F19Hqm) | [EURO](https://open.spotify.com/artist/6KkJCKhgPIOBGJnEWw0FpQ) | [เพื่อนกันหรอ \(Really?\)](https://open.spotify.com/album/2uhAusIzYO59m2eYQzbQMS) | 3:09 | 2024-03-29 | 2024-06-01 |
 | [เพื่อนกันเหรอ \(Expired\)](https://open.spotify.com/track/1UuMPmqhuZXUaNjX3AoUnB) | [D\-NA](https://open.spotify.com/artist/2F4giQjhpORkIsOPBDhR5I) | [เพื่อนกันเหรอ \(Expired\)](https://open.spotify.com/album/6HdBlWSXG3jbcZr9oh46RN) | 3:24 | 2024-08-30 | 2024-09-21 |
 | [เพื่อนก็ได้ \(Whatever\)](https://open.spotify.com/track/34p8tRSG5ydLyrQILyXnx8) | [Run Baby Run](https://open.spotify.com/artist/57XiaKTRQmtrzWwcL9uQ1z) | [เพื่อนก็ได้ \(Whatever\)](https://open.spotify.com/album/34uy8BfWpUb1nNoRJYcFFt) | 5:08 | 2023-03-10 | 2023-04-01 |

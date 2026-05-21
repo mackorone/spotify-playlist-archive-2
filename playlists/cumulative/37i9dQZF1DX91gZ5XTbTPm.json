@@ -14463,6 +14463,28 @@
     },
     {
       "album": {
+        "name": "Still Rising",
+        "url": "https://open.spotify.com/album/1AJHBRgeYQzqmWEuGCGzUp"
+      },
+      "artists": [
+        {
+          "name": "Neg\u00fcs Fresh",
+          "url": "https://open.spotify.com/artist/1mUe0lsF8iTeUSZExkgvNa"
+        },
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "Jefferson Nights",
+      "url": "https://open.spotify.com/track/6LNn1tpg38EarjDo8X2xST"
+    },
+    {
+      "album": {
         "name": "MARRY MACC",
         "url": "https://open.spotify.com/album/4VrpcmKJosEF3mF2G9uGd3"
       },

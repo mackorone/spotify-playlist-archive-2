@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Adam Ten
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,679 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,747 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 23 | [Say That](https://open.spotify.com/track/26BOjvrFDJHxD6HQUQqIcn) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6), [Millero](https://open.spotify.com/artist/1g3D0SFLbUx6nuGgLSuegX) | [Say That](https://open.spotify.com/album/1I8uHbZc7ZQTEX2O2Cqm4O) | 3:21 |
 | 24 | [Ascension](https://open.spotify.com/track/2BYIeXYCuMROGM3tZqUGJg) | [Jörgen](https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM) | [Ascension](https://open.spotify.com/album/5sPlmU8wfKE5AHn2CnHYcA) | 4:44 |
 | 25 | [Give It All](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Give It All](https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d) | 2:59 |
-| 26 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 |
+| 26 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI \(IT\)](https://open.spotify.com/artist/2EmGvQjPPno2cM3cH7kzWb) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 |
 | 27 | [Come Tonight \- Isaac Carter Remix](https://open.spotify.com/track/4h88cErk4qe2Oo8r3pIGRN) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Isaac Carter](https://open.spotify.com/artist/1wp5fYOou3912NRzGN28E8) | [Come Tonight \(Isaac Carter Remix\)](https://open.spotify.com/album/6C6shQaI3PFILr3xnB0G58) | 3:01 |
 | 28 | [Won't Let U Down](https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Won't Let U Down](https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC) | 4:11 |
 | 29 | [Backbeat \- Radio Edit](https://open.spotify.com/track/0G9A6gXZUfHhwFhbuREwHq) | [Stefano Albanese](https://open.spotify.com/artist/1lRnSkPosok7LlDXiRZEBm) | [Backbeat](https://open.spotify.com/album/5EWChZpUsBaRqNPq3LcgE0) | 2:57 |

@@ -1,13 +1,65 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Alex Sandra",
-  "num_followers": 35946,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Black Spikes",
+  "num_followers": 36027,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/bgSjDOcgG2gPKxms2qQ2oUw9B",
+  "snapshot_id": "AAAAAImzl8LIYatwHGafWBdR4WCmIxm+",
   "tracks": [
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "REVANA",
+        "url": "https://open.spotify.com/album/0oJDiRqxmmlKP39Njo5LJe"
+      },
+      "artists": [
+        {
+          "name": "Black Spikes",
+          "url": "https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "REVANA",
+      "url": "https://open.spotify.com/track/1g5MFZpsRf41ERL9gHCrGq"
+    },
+    {
+      "added_at": "2026-05-06 04:00:17",
+      "album": {
+        "name": "forever mine",
+        "url": "https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX"
+      },
+      "artists": [
+        {
+          "name": "5hy",
+          "url": "https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr"
+        }
+      ],
+      "duration_ms": 166036,
+      "name": "forever mine",
+      "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
+    },
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "Carry The Weight",
+        "url": "https://open.spotify.com/album/3F6AqVyNhhgbW8N6GwI1zY"
+      },
+      "artists": [
+        {
+          "name": "Kage Archer",
+          "url": "https://open.spotify.com/artist/4J5yNPryyCxOYnOLt6gdsR"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "duration_ms": 173990,
+      "name": "Carry The Weight",
+      "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+    },
     {
       "added_at": "2026-05-13 04:00:09",
       "album": {
@@ -29,36 +81,24 @@
       "url": "https://open.spotify.com/track/0eEHmNWaCtW4Ez0E0KdbSx"
     },
     {
-      "added_at": "2026-05-06 04:00:17",
+      "added_at": "2026-05-20 04:00:05",
       "album": {
-        "name": "forever mine",
-        "url": "https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX"
+        "name": "Flying Monkey",
+        "url": "https://open.spotify.com/album/0HeIdMhGYCF98wetun128f"
       },
       "artists": [
         {
-          "name": "5hy",
-          "url": "https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr"
-        }
-      ],
-      "duration_ms": 166036,
-      "name": "forever mine",
-      "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Spit Blood",
-        "url": "https://open.spotify.com/album/4MNEFgUII6r6erq4Ha4Knb"
-      },
-      "artists": [
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
         {
-          "name": "DIVA",
-          "url": "https://open.spotify.com/artist/3eAdyHcHAUbAiLQYrznu5u"
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
         }
       ],
-      "duration_ms": 167079,
-      "name": "Spit Blood",
-      "url": "https://open.spotify.com/track/3CcCI1HIPaH2VJtF744NLs"
+      "duration_ms": 249281,
+      "name": "Flying Monkey",
+      "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
     },
     {
       "added_at": "2026-04-29 04:00:32",
@@ -77,52 +117,56 @@
       "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
     },
     {
-      "added_at": "2026-05-13 04:00:09",
+      "added_at": "2026-05-20 04:00:05",
       "album": {
-        "name": "Without Ever Waking",
-        "url": "https://open.spotify.com/album/1cKqCjso9AeYsmbtSb2Axb"
+        "name": "Twisted Flesh Is Feeding My Blade (From VOIN)",
+        "url": "https://open.spotify.com/album/3KI4zNSMGDtJxKT5dPSHf2"
       },
       "artists": [
         {
-          "name": "NOVARA NYX",
-          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
-        }
-      ],
-      "duration_ms": 232770,
-      "name": "Without Ever Waking",
-      "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
-    },
-    {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
-        "name": "Need This Patience",
-        "url": "https://open.spotify.com/album/5IAQXJwSdWg4VraezrPLMi"
-      },
-      "artists": [
+          "name": "Nik Nocturnal",
+          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
+        },
         {
-          "name": "Gold Souls",
-          "url": "https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k"
+          "name": "Paula Carregosa",
+          "url": "https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl"
         }
       ],
-      "duration_ms": 167428,
-      "name": "Need This Patience",
-      "url": "https://open.spotify.com/track/5KZ18JogdoOFJOjmAMIZQG"
+      "duration_ms": 215999,
+      "name": "Twisted Flesh Is Feeding My Blade - From VOIN",
+      "url": "https://open.spotify.com/track/0NcHBzzNexd0wqztZwdWg7"
     },
     {
       "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "Safety in Darkness",
-        "url": "https://open.spotify.com/album/3CdLAaWZP1v5lJObtQomVR"
+        "name": "Spit Blood",
+        "url": "https://open.spotify.com/album/4MNEFgUII6r6erq4Ha4Knb"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+          "name": "DIVA",
+          "url": "https://open.spotify.com/artist/3eAdyHcHAUbAiLQYrznu5u"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Safety in Darkness",
-      "url": "https://open.spotify.com/track/5wnRJuERtp5mrdXzVU8MOV"
+      "duration_ms": 167079,
+      "name": "Spit Blood",
+      "url": "https://open.spotify.com/track/3CcCI1HIPaH2VJtF744NLs"
+    },
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/1S2fQI7vepLVSdvb5TmiYp"
+      },
+      "artists": [
+        {
+          "name": "Lexi Layne",
+          "url": "https://open.spotify.com/artist/2VMQrg2WDXCrDgaimQZga0"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/5G0JtGsrYr1BgShZzdaAo2"
     },
     {
       "added_at": "2026-04-15 04:00:20",
@@ -141,6 +185,26 @@
       "url": "https://open.spotify.com/track/5mematTA9D87UfZG4OUHrL"
     },
     {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "CESSPIT",
+        "url": "https://open.spotify.com/album/1b4DVk6eYbODKCCTwQh8FN"
+      },
+      "artists": [
+        {
+          "name": "Cober Mouth",
+          "url": "https://open.spotify.com/artist/1jSqUczGbrb3PvTROS66nA"
+        },
+        {
+          "name": "Aron Green",
+          "url": "https://open.spotify.com/artist/5ysbBCPJIXrfAGmMisNaK9"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "CESSPIT",
+      "url": "https://open.spotify.com/track/6u3jNaZSLIGupFm7FlYqIY"
+    },
+    {
       "added_at": "2026-05-13 04:00:09",
       "album": {
         "name": "Cyanide",
@@ -157,36 +221,52 @@
       "url": "https://open.spotify.com/track/5EW6qF1HX0CMNwmrMVTz9G"
     },
     {
-      "added_at": "2026-04-15 04:00:20",
+      "added_at": "2026-05-20 04:00:05",
       "album": {
-        "name": "Edge of the Map",
-        "url": "https://open.spotify.com/album/5b0s5j6yJLcoQaGz4NGNSY"
+        "name": "INTRUSIVE THOUGHTS",
+        "url": "https://open.spotify.com/album/5he4LlmKrwNHngdJr3Fa0v"
       },
       "artists": [
         {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
         }
       ],
-      "duration_ms": 223294,
-      "name": "Edge of the Map",
-      "url": "https://open.spotify.com/track/3bsZPyqqZZUW62n3CxiuZ8"
+      "duration_ms": 164000,
+      "name": "INTRUSIVE THOUGHTS",
+      "url": "https://open.spotify.com/track/6Y5SbN02DMsFMRAhBu11I2"
     },
     {
       "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/5E875E2a5eonBEvCoBKgbJ"
+        "name": "Without Ever Waking",
+        "url": "https://open.spotify.com/album/1cKqCjso9AeYsmbtSb2Axb"
       },
       "artists": [
         {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+          "name": "NOVARA NYX",
+          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2pCh7zubU7Im2D4lpr5DrJ"
+      "duration_ms": 232770,
+      "name": "Without Ever Waking",
+      "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
+    },
+    {
+      "added_at": "2026-05-13 04:00:09",
+      "album": {
+        "name": "Safety in Darkness",
+        "url": "https://open.spotify.com/album/3CdLAaWZP1v5lJObtQomVR"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Safety in Darkness",
+      "url": "https://open.spotify.com/track/5wnRJuERtp5mrdXzVU8MOV"
     },
     {
       "added_at": "2026-04-22 04:00:05",
@@ -205,6 +285,38 @@
       "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
     },
     {
+      "added_at": "2026-04-15 04:00:20",
+      "album": {
+        "name": "Edge of the Map",
+        "url": "https://open.spotify.com/album/5b0s5j6yJLcoQaGz4NGNSY"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 223294,
+      "name": "Edge of the Map",
+      "url": "https://open.spotify.com/track/3bsZPyqqZZUW62n3CxiuZ8"
+    },
+    {
+      "added_at": "2026-04-22 04:00:05",
+      "album": {
+        "name": "PIECES OF MY HEART",
+        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+      },
+      "artists": [
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "PIECES OF MY HEART",
+      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
+    },
+    {
       "added_at": "2026-05-13 04:00:09",
       "album": {
         "name": "Goodnight",
@@ -219,6 +331,42 @@
       "duration_ms": 156000,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
+    },
+    {
+      "added_at": "2026-05-06 04:00:17",
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN"
+      },
+      "artists": [
+        {
+          "name": "Via Sky",
+          "url": "https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo"
+        },
+        {
+          "name": "Kristyn Hope",
+          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
+    },
+    {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "fvck.me.up",
+        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
+      },
+      "artists": [
+        {
+          "name": "Glasswaves",
+          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "fvck.me.up",
+      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
     },
     {
       "added_at": "2026-05-06 04:00:17",
@@ -253,56 +401,36 @@
       "url": "https://open.spotify.com/track/7hRL8iqMX5nlMr0YBnSgRw"
     },
     {
-      "added_at": "2026-04-22 04:00:05",
+      "added_at": "2026-04-29 04:00:32",
       "album": {
-        "name": "PIECES OF MY HEART",
-        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4MimnmhxMrnkLOSv6hdz0G"
       },
       "artists": [
         {
-          "name": "Sorry X",
-          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+          "name": "ChuggaBoom",
+          "url": "https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3"
         }
       ],
-      "duration_ms": 196600,
-      "name": "PIECES OF MY HEART",
-      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Dread",
-        "url": "https://open.spotify.com/album/5fEaxnc5LRtvJz17xn8nIW"
-      },
-      "artists": [
-        {
-          "name": "Sebastiside",
-          "url": "https://open.spotify.com/artist/6oGbb9FNMTuFCBxJgFiWIz"
-        }
-      ],
-      "duration_ms": 197422,
-      "name": "Dread",
-      "url": "https://open.spotify.com/track/5nTGBs12oCTo4XVhVE9mfN"
+      "duration_ms": 249000,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7d8btb5iJHN2vVBf6uNE3A"
     },
     {
       "added_at": "2026-05-06 04:00:17",
       "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN"
+        "name": "Portrait set on fire",
+        "url": "https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC"
       },
       "artists": [
         {
-          "name": "Via Sky",
-          "url": "https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo"
-        },
-        {
-          "name": "Kristyn Hope",
-          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
         }
       ],
-      "duration_ms": 229714,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
+      "duration_ms": 229603,
+      "name": "Portrait set on fire",
+      "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
     },
     {
       "added_at": "2026-04-15 04:00:20",
@@ -323,50 +451,50 @@
     {
       "added_at": "2026-05-06 04:00:17",
       "album": {
-        "name": "Portrait set on fire",
-        "url": "https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC"
+        "name": "Need This Patience",
+        "url": "https://open.spotify.com/album/5IAQXJwSdWg4VraezrPLMi"
       },
       "artists": [
         {
-          "name": "breakkaway",
-          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+          "name": "Gold Souls",
+          "url": "https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k"
         }
       ],
-      "duration_ms": 229603,
-      "name": "Portrait set on fire",
-      "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
+      "duration_ms": 167428,
+      "name": "Need This Patience",
+      "url": "https://open.spotify.com/track/5KZ18JogdoOFJOjmAMIZQG"
     },
     {
-      "added_at": "2026-04-29 04:00:32",
+      "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4MimnmhxMrnkLOSv6hdz0G"
+        "name": "Year of the Snake",
+        "url": "https://open.spotify.com/album/5E875E2a5eonBEvCoBKgbJ"
       },
       "artists": [
         {
-          "name": "ChuggaBoom",
-          "url": "https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3"
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/7d8btb5iJHN2vVBf6uNE3A"
+      "duration_ms": 209560,
+      "name": "Year of the Snake",
+      "url": "https://open.spotify.com/track/2pCh7zubU7Im2D4lpr5DrJ"
     },
     {
-      "added_at": "2026-04-29 04:00:32",
+      "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "fvck.me.up",
-        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/5fEaxnc5LRtvJz17xn8nIW"
       },
       "artists": [
         {
-          "name": "Glasswaves",
-          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+          "name": "Sebastiside",
+          "url": "https://open.spotify.com/artist/6oGbb9FNMTuFCBxJgFiWIz"
         }
       ],
-      "duration_ms": 181132,
-      "name": "fvck.me.up",
-      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
+      "duration_ms": 197422,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/5nTGBs12oCTo4XVhVE9mfN"
     },
     {
       "added_at": "2026-04-29 04:00:32",
@@ -491,42 +619,6 @@
       "duration_ms": 235037,
       "name": "AFTER THE SILENCE",
       "url": "https://open.spotify.com/track/0oOMrrm8EgMQtmSx2h1J66"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Crucifix",
-        "url": "https://open.spotify.com/album/3IjbqCf518CMb00wprQUQh"
-      },
-      "artists": [
-        {
-          "name": "Daisy Arson",
-          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
-        }
-      ],
-      "duration_ms": 165420,
-      "name": "Crucifix",
-      "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
-      },
-      "artists": [
-        {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 263161,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
     },
     {
       "added_at": "2026-05-06 04:00:17",
@@ -685,22 +777,6 @@
       "url": "https://open.spotify.com/track/5zxllKP6BctpNXNUSn8Uwp"
     },
     {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Make Us Whole Again",
-        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Make Us Whole Again",
-      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
-    },
-    {
       "added_at": "2026-04-15 04:00:20",
       "album": {
         "name": "Split Brow",
@@ -779,74 +855,6 @@
       "duration_ms": 144973,
       "name": "VANILLA LATTE",
       "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "BITE THIS!",
-        "url": "https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh"
-      },
-      "artists": [
-        {
-          "name": "Resistor",
-          "url": "https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA"
-        }
-      ],
-      "duration_ms": 152683,
-      "name": "XXXL",
-      "url": "https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "burning/bones",
-        "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
-      },
-      "artists": [
-        {
-          "name": "VCTMS",
-          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
-        },
-        {
-          "name": "Extortionist",
-          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
-        }
-      ],
-      "duration_ms": 228967,
-      "name": "burning/bones",
-      "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Celebrity Culture Simp Farm",
-        "url": "https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU"
-      },
-      "artists": [
-        {
-          "name": "Doodseskader",
-          "url": "https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Celebrity Culture Simp Farm",
-      "url": "https://open.spotify.com/track/3bWfhHxw89M5mXdtoPI7J1"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Seraphim",
-        "url": "https://open.spotify.com/album/7fHuqMRthq6pARynhnwMmq"
-      },
-      "artists": [
-        {
-          "name": "Dream on Dreamer",
-          "url": "https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Seraphim",
-      "url": "https://open.spotify.com/track/3MTwuLHJb492JIQ2KUrQxK"
     }
   ],
   "unique_name": "Fresh Finds Heavy",

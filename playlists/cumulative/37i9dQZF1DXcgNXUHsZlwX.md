@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-593 songs - 1 day 11 hr 20 min
+594 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [freedom](https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [freedom](https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc) | 3:38 | 2026-05-15 |  |
 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 | 2023-03-10 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
-| [Funhouse](https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Funhouse](https://open.spotify.com/album/4iT1efgAiiiGwjHpFsibJc) | 5:01 | 2026-04-17 |  |
+| [Funhouse](https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Funhouse](https://open.spotify.com/album/4iT1efgAiiiGwjHpFsibJc) | 5:00 | 2026-04-17 |  |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 | 2023-07-01 |
 | [Girouette](https://open.spotify.com/track/7fBzPwiKk8GvRKiCwQ3NFr) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 3:19 | 2021-01-03\* | 2022-07-29 |
@@ -203,7 +203,7 @@
 | [Interlude](https://open.spotify.com/track/2QQlnarfx0w7b0Pr4gALzP) | [Jules](https://open.spotify.com/artist/27HeDkvpG3KfBhqdokQf4M) | [Interlude](https://open.spotify.com/album/4iZhagJgey7nCu9T7qtRNe) | 1:47 | 2026-04-03 |  |
 | [Inutuulunga \- 2024 Remastered Version](https://open.spotify.com/track/0svw50fDE5pcpcqjjMVu5I) | [Taima](https://open.spotify.com/artist/49Hbj5LLNXQvttMwpApN0r) | [Inutuulunga \(2024 Remastered Version\)](https://open.spotify.com/album/7uxWJQzCCYAz1TlJe7gpi6) | 3:20 | 2024-06-21 | 2024-11-19 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
-| [Islands in the Stream](https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Islands in the Stream](https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8) | 3:14 | 2025-09-05 |  |
+| [Islands in the Stream](https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Islands in the Stream](https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8) | 3:14 | 2025-09-05 | 2026-05-21 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2023-10-24 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:33 | 2023-10-20 | 2025-02-25 |
 | [it takes 2](https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [it takes 2](https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn) | 3:40 | 2024-04-05 | 2026-01-15 |
@@ -497,6 +497,7 @@
 | [Stains](https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Stains](https://open.spotify.com/album/5g7kYBupmobmzu8J7ExUjR) | 3:56 | 2022-03-25 | 2023-01-17 |
 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 | 2026-04-17 |  |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2025-02-17 |
+| [Surface Tension](https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Surface Tension](https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo) | 2:49 | 2026-05-15 |  |
 | [Sway](https://open.spotify.com/track/1TeOquEB6ZzZIO33kG8R1F) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3) | [Sway](https://open.spotify.com/album/4PwBkrPKj8TJM8cxIbFONo) | 2:01 | 2026-03-27 |  |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-01-21 | 2026-03-09 |
 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 |  |

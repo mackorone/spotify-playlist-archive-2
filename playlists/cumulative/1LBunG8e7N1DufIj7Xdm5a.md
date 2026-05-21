@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,395 songs - 9 day 18 hr 45 min
+4,396 songs - 9 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4053,6 +4053,7 @@
 | [Vain World](https://open.spotify.com/track/5drqzXYLcVWNsqOwl9zPK0) | [Captain Liberty](https://open.spotify.com/artist/4gXxTTQV7T8VvbgNiDwSyy) | [Vain World](https://open.spotify.com/album/5L5uaAZhkuYT5PfJVWA3az) | 3:13 | 2025-07-03 |  |
 | [VAMOS](https://open.spotify.com/track/23yd0tixP0NzMFdEGSdsKz) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [VAMOS](https://open.spotify.com/album/2ZGsr50sVh5wUciaoTbVrz) | 2:15 | 2025-12-10 |  |
 | [Vampire By Rumor](https://open.spotify.com/track/6ngJehVMhg3qftkSR3QOuS) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Vampire By Rumor](https://open.spotify.com/album/2SZD4LjSX58X160jQvcx45) | 2:38 | 2025-04-09 |  |
+| [Vanità, fatti in là!](https://open.spotify.com/track/5VRsl1mXt0bSQsFxh2t0NA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Vanità, fatti in là!](https://open.spotify.com/album/1PMRVsz5cNZ9m1ObwpEn7M) | 4:10 | 2026-05-20 |  |
 | [Vanny](https://open.spotify.com/track/4YCGxrke0xWayFb87lutWo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 4:00 | 2018-08-20 |  |
 | [Var Referee](https://open.spotify.com/track/53WljKm7jvfBJaQtlIV5NO) | [Lingua Flux](https://open.spotify.com/artist/1RuqaPg0Bswhvq7q8QcbNB) | [Football No\. 7](https://open.spotify.com/album/1pwvOHka8lJlsmrfAGQqI4) | 1:47 | 2025-12-04 |  |
 | [Veleno](https://open.spotify.com/track/2uGRK7BpfdEYKkeWysEMJe) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Veleno](https://open.spotify.com/album/0BOYeKg8Me7UGBI4NQjz4O) | 3:09 | 2025-06-16 |  |

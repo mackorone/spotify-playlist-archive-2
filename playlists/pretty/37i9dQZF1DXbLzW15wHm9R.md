@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: The Devil Wears Prada 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,622 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,648 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 26 | [Evergreen Avenue](https://open.spotify.com/track/3gqQj7QUW3azBS5Pl39t7t) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:42 |
 | 27 | [Funny Mouth](https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 28 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
-| 29 | [Need Someone \- Single From The Max Original Series The Pitt](https://open.spotify.com/track/4StTDHHZMHhRS3e1UcFZNS) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Gavin Brivik](https://open.spotify.com/artist/1Bmvy1kf1fNMyGNWchCQXn) | [Need Someone](https://open.spotify.com/album/4K91dy4NsoFp2rk2QvDkMi) | 1:57 |
+| 29 | [Need Someone \- From The MAX Original Series The Pitt](https://open.spotify.com/track/4StTDHHZMHhRS3e1UcFZNS) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Gavin Brivik](https://open.spotify.com/artist/1Bmvy1kf1fNMyGNWchCQXn) | [Need Someone \(From The MAX Original Series The Pitt\)](https://open.spotify.com/album/4K91dy4NsoFp2rk2QvDkMi) | 1:57 |
 | 30 | [The Muppet Show Theme \(2026\)](https://open.spotify.com/track/5H5uvwkFM4uG3Aymi83rXa) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppet Show Theme \(2026\)](https://open.spotify.com/album/2JRVVa5LSWP7VE5C4t3deo) | 1:11 |
 | 31 | [When Doves Cry](https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 5:54 |
 | 32 | [All is Summer](https://open.spotify.com/track/3dgpYYu0fHl9jyMY3izzXc) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u), [The Testament of Ann Lee Cast](https://open.spotify.com/artist/3smhfWwJ3vixdJGOU8b01L) | [All is Summer](https://open.spotify.com/album/51qZK00yCuVTx4Oo2ePrvk) | 2:41 |

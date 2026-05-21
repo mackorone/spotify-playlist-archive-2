@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Ramani Kalyanam",
-  "num_followers": 170467,
+  "num_followers": 170480,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkdns36Jsevxt1oaW8Muy3BDont",
+  "snapshot_id": "AAAAANb9K5tCo95KqlK6lSq5CLJtxC8s",
   "tracks": [
     {
       "added_at": "2026-05-19 07:56:58",
@@ -55,6 +55,34 @@
       "duration_ms": 185138,
       "name": "Manga Manga (From \"Srinivasa Mangapuram\")",
       "url": "https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC"
+    },
+    {
+      "added_at": "2026-05-20 06:01:35",
+      "album": {
+        "name": "Andhee Andhani Andham (From \"Mareechika\")",
+        "url": "https://open.spotify.com/album/7rWaCodWrVoYPi8U4iiPGD"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Lakshmi Bhupala",
+          "url": "https://open.spotify.com/artist/1pequ01qZIaAKj9XA4RxOX"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Andhee Andhani Andham (From \"Mareechika\")",
+      "url": "https://open.spotify.com/track/15j514qd14U4sC061jg0ds"
     },
     {
       "added_at": "2026-02-27 10:46:56",
@@ -567,34 +595,6 @@
       "duration_ms": 287253,
       "name": "Jaabili Jaana",
       "url": "https://open.spotify.com/track/2sNW5fKLTRKzUrT2NwRptj"
-    },
-    {
-      "added_at": "2026-01-08 07:24:18",
-      "album": {
-        "name": "Parichayam Avakunda (From \"Dhandoraa\")",
-        "url": "https://open.spotify.com/album/6OPDPgPE5zHzgyh83dUD87"
-      },
-      "artists": [
-        {
-          "name": "Mark K Robin",
-          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
-        }
-      ],
-      "duration_ms": 219046,
-      "name": "Parichayam Avakunda (From \"Dhandoraa\")",
-      "url": "https://open.spotify.com/track/000PqTyXjCLX8OF0VFASGs"
     },
     {
       "added_at": "2026-03-30 07:22:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 8 | [ELECTRIC CIRCUS](https://open.spotify.com/track/0IKpUoJz9bvL6rclPF2qeB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [ELECTRIC CIRCUS](https://open.spotify.com/album/2K0vMiT7DTwwpAnCc2Idqb) | 3:29 |
 | 9 | [Lots of Love](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Lots of Love](https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH) | 3:07 |
 | 10 | [Outline](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi Vol\. 1](https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb) | 4:10 |
-| 11 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
-| 12 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
+| 11 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
+| 12 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
 | 13 | [Si on revenait en arrière](https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Si on revenait en arrière](https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76) | 2:19 |
 | 14 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
 | 15 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
-| 16 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
-| 17 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
+| 16 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
+| 17 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
 | 18 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 |
 | 19 | [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 |
 | 20 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 27 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
 | 28 | [Selfish](https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Selfish](https://open.spotify.com/album/62e7Dwx5jU8Cvi2sYlxkbN) | 2:58 |
 | 29 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
-| 30 | [Block Party](https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Block Party](https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3) | 2:30 |
-| 31 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 30 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 31 | [Block Party](https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Block Party](https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3) | 2:30 |
 | 32 | [Bones to Ashes, Dark to Light](https://open.spotify.com/track/69anr1rbMwtfBpOkKHP9pd) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Bones to Ashes, Dark to Light](https://open.spotify.com/album/2Az6UHRaSG1G37fJF8IaqW) | 3:29 |
 | 33 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 |
 | 34 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 |

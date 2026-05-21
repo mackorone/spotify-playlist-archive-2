@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 203183,
+  "num_followers": 203198,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAAA9X1HD46Pc9V9Ck+U58p9N",
+  "snapshot_id": "aguoAAAAAAD6MqW2HATdVdVtxTmE3WGO",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Perfect Situation",
-      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All My Favorite Songs (feat. AJR)",
         "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 170720,
       "name": "All My Favorite Songs (feat. AJR)",
       "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Perfect Situation",
+      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
     },
     {
       "added_at": null,

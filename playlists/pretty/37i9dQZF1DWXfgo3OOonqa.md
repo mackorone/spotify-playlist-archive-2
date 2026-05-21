@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,766 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,755 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
+| 1 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
 | 2 | [BUNGYJUMP](https://open.spotify.com/track/3Y2yYaPE9UT8cgtuuLXBvF) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [BUNGYJUMP](https://open.spotify.com/album/6jW0jjwQ8zitdN40l3X1II) | 2:26 |
 | 3 | [FAKKT](https://open.spotify.com/track/5P7lkkioBE0T1BhHVRkdgh) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [FAKKT](https://open.spotify.com/album/1sfvzjSsEqk73bNiWjbKtY) | 2:22 |
 | 4 | [RAP CAP](https://open.spotify.com/track/7yRxDuzvyWYwp1CM6Fc5ek) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [RAP CAP](https://open.spotify.com/album/1ANo7sdhW8BBXeVqlVFFDl) | 2:54 |

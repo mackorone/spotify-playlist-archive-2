@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,325 likes - 23 songs - 1 hr 25 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,322 likes - 23 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 22 | [Forced Perspective](https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:25 |
 | 23 | [Fatale](https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:19 |
 
-Snapshot ID: `AAAOWHMZxXGmC7z1d3CPC9rkIimww3gY`
+Snapshot ID: `AAAOWgoBZ4X4v2gdO87e/ahDm2MzwYBk`

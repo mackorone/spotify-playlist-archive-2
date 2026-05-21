@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/3SNghymPlD6CJg7qLj14QY"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322346,
+      "name": "Chalk",
+      "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 269304,
       "name": "Colour Dance",
       "url": "https://open.spotify.com/track/6jh0XG7f1jZsnyW2b2Z6vz"
@@ -7938,7 +7956,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 185653,
       "name": "The Heron",
       "url": "https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"
@@ -8132,6 +8150,24 @@
       "duration_ms": 228602,
       "name": "There for You",
       "url": "https://open.spotify.com/track/2Xk53t3TnNSqeSm2pXD6jv"
+    },
+    {
+      "album": {
+        "name": "THIEF",
+        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182248,
+      "name": "THIEF",
+      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
     },
     {
       "album": {

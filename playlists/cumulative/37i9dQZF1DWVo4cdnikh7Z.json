@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 140689,
       "name": "AMA",
       "url": "https://open.spotify.com/track/31KxXEIfbCaKRAm4MG0k1l"
@@ -9514,7 +9514,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 53012,
       "name": "Cook Cook (From \"Chiyaan 63\")",
       "url": "https://open.spotify.com/track/0qiZ5NOpho05XBO5ewtm8S"
@@ -13781,6 +13781,28 @@
     },
     {
       "album": {
+        "name": "Ey Pulla",
+        "url": "https://open.spotify.com/album/0larnrAJuEKwu116l7ewJN"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Ey Pulla",
+      "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
+    },
+    {
+      "album": {
         "name": "Ezhundhu Nindru Poridu (From \"Raghu Thatha\")",
         "url": "https://open.spotify.com/album/4uHjdnKuuJh0HPPFZoQOXi"
       },
@@ -14024,6 +14046,36 @@
       "duration_ms": 125473,
       "name": "Fighter Fighter (From \"BIKER\")(Tamil)",
       "url": "https://open.spotify.com/track/5BJ3nxxDdCVHH854dnSiNp"
+    },
+    {
+      "album": {
+        "name": "FILAPPI (From \"Mythili My Kadhali\")",
+        "url": "https://open.spotify.com/album/27CfVs02yvDJiP09aC5Vqi"
+      },
+      "artists": [
+        {
+          "name": "Deluxshion",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        },
+        {
+          "name": "Stephen Zechariah",
+          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
+        },
+        {
+          "name": "Raghadeepan",
+          "url": "https://open.spotify.com/artist/6v5OybZ5PJdeup2W0dXHsr"
+        },
+        {
+          "name": "Amriytha Amarnath",
+          "url": "https://open.spotify.com/artist/7vRoBFE8CSj6eHvJeYBMFK"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180312,
+      "name": "FILAPPI (From \"Mythili My Kadhali\")",
+      "url": "https://open.spotify.com/track/28llbHUscnDzEJlVQIsCw7"
     },
     {
       "album": {
@@ -37347,6 +37399,24 @@
     },
     {
       "album": {
+        "name": "Amaram",
+        "url": "https://open.spotify.com/album/6RymER3N3g6snPGQPQ96PG"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215902,
+      "name": "Ottarathiye",
+      "url": "https://open.spotify.com/track/061v516naQsrVROJgD9A3P"
+    },
+    {
+      "album": {
         "name": "Otti Vaaraney (From \"80's Buildup\")",
         "url": "https://open.spotify.com/album/7AmWYvsFVsuQ3ROhlpDPYP"
       },
@@ -38628,7 +38698,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 171818,
       "name": "Paranthene Penne (From \"Youth\")",
       "url": "https://open.spotify.com/track/3OWCVnMFh7vQgkjoVfvEIQ"

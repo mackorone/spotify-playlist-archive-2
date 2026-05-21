@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,928 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,929 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Bhagyada Lakshmi Baramma](https://open.spotify.com/track/4L4KOOtknWmZpvrBrJHj5Y) | [Yuga Singun](https://open.spotify.com/artist/6TfrYmPdpQnfmDlPaxRJQ7) | [Bhagyada Lakshmi Baramma](https://open.spotify.com/album/3gLcN66uUZ3HbzgIrCeibz) | 5:50 |
 | 7 | [Jackie](https://open.spotify.com/track/0lEoPX5L4n7z0uR5hAuQUX) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Jackie](https://open.spotify.com/album/6twlnoJaSTERleg8VUAzBl) | 2:24 |
 | 8 | [Nasheya Gungale](https://open.spotify.com/track/6EoyeB26hc06ENfKlCWv8C) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5) | [Nasheya Gungale](https://open.spotify.com/album/5UsjM4MjB0RwGEicjSOCX7) | 2:52 |
-| 9 | [Amma \- Kannada](https://open.spotify.com/track/20lUzsYKSSrVLt6G5DbeZT) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Amma \- Kannada](https://open.spotify.com/album/22o9iHfhR8xHZ0qTzfc3tu) | 5:24 |
+| 9 | [Amma \- Kannada](https://open.spotify.com/track/20lUzsYKSSrVLt6G5DbeZT) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Amma \- Kannada](https://open.spotify.com/album/22o9iHfhR8xHZ0qTzfc3tu) | 5:24 |
 | 10 | [Seetha Kalyana](https://open.spotify.com/track/58XLGj0o2jt9gkcFf0Xves) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Seetha Kalyana](https://open.spotify.com/album/4MISJlR1HH5v0C2mKhLEC9) | 3:38 |
 | 11 | [Bhasavagide](https://open.spotify.com/track/75hEkJDOSNvGTPGLiB7Ti5) | [Narayan Sharma](https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP) | [Bhasavagide](https://open.spotify.com/album/5ygSD8XlsBdDIWF7A9J4GC) | 3:52 |
 | 12 | [Ninna Daari Kaayutali](https://open.spotify.com/track/3ooOeJYHc8J2xwJpmN5jmo) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Ninna Daari Kaayutali](https://open.spotify.com/album/3LJwZsVk3zi3uhVIg3R0kC) | 3:09 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 5 hr 57 min
+107 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cloud 9](https://open.spotify.com/track/0ijO1PJmUZ3xyQCJoPiL2f) | [Sophia Saffarian](https://open.spotify.com/artist/3OYpczYjEISLcctUwoRWM3) | [Cloud 9](https://open.spotify.com/album/6ZeBIX2GhNkmYH57rwrzZa) | 3:04 | 2022-09-10 | 2023-03-29 |
 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 | 2022-09-08 | 2023-12-14 |
 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 | 2023-12-13 |  |
-| [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 | 2022-09-08 |  |
+| [Deeper](https://open.spotify.com/track/5jjrkICQClyeRDLb3Ua9yy) | [Holly Rey](https://open.spotify.com/artist/2teot2ghPZBwv4qpVBpE0B) | [Deeper](https://open.spotify.com/album/5Y0RHd4r6F4Yu24fZplDxi) | 5:12 | 2026-05-20 |  |
+| [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 | 2022-09-08 | 2026-05-21 |
 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 | 2022-09-08 | 2024-06-18 |
 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 | 2022-09-08 |  |
 | [Dizzy](https://open.spotify.com/track/6RQzfmZSfGZ0jgvG2DJp0d) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/1nojYUUt3enwz0qoR4pPJ9) | 3:36 | 2022-12-04 | 2023-02-02 |

@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,691 songs - 10 day 22 hr 17 min
+4,691 songs - 10 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3014,7 +3014,7 @@
 | [On Repeat](https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [On Repeat](https://open.spotify.com/album/3hSxdXLOtRsTJ6buJHWSvx) | 4:04 | 2024-05-17 | 2024-06-15 |
 | [On Sum](https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [On Sum](https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY) | 3:19 | 2024-08-30 | 2024-09-28 |
 | [On Sum \- MPH Remix](https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [On Sum \(MPH Remix\)](https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO) | 3:52 | 2025-05-30 | 2025-06-28 |
-| [On The Dash](https://open.spotify.com/track/7LPTk9sGE5fe7h80tw3e1u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [On The Dash](https://open.spotify.com/album/3SdEWk7nslVRxo1kxu1DTq) | 2:51 | 2026-05-15 |  |
+| [On The Dash](https://open.spotify.com/track/7LPTk9sGE5fe7h80tw3e1u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [On The Dash](https://open.spotify.com/album/3SdEWk7nslVRxo1kxu1DTq) | 2:21 | 2026-05-15 |  |
 | [On The Edge](https://open.spotify.com/track/2zlileDXzIwUKxnrH5ssJY) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [On The Edge](https://open.spotify.com/album/14KwNWzsltGAdygG1yRdjO) | 3:50 | 2024-02-16 | 2024-03-16 |
 | [On The Go](https://open.spotify.com/track/3JU73s1RBFr7t5nPEx0SvB) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [On The Go](https://open.spotify.com/album/0yJRqtnWLAhi6mp01tK2aG) | 3:32 | 2025-12-12 | 2026-01-17 |
 | [On The Run](https://open.spotify.com/track/2yOUVDv4Ic2JDxluSIjnw4) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [On The Run](https://open.spotify.com/album/25y4f4sy9HBwYiKUAIDkxv) | 4:52 | 2024-09-06 | 2024-10-05 |

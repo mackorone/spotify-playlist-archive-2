@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35348,
+  "num_followers": 35352,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAADsnOChRKqxLu4dKd2LR3ho",
+  "snapshot_id": "aguoAAAAAAC4oTXdvjDLfuV43MtXQDJv",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Adrenaline",
         "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eps- Lacuna Coil/halflife",
-        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
+      "duration_ms": 201906,
+      "name": "To the Edge",
+      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "The Eps- Lacuna Coil/halflife",
+        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 201906,
-      "name": "To the Edge",
-      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
+      "duration_ms": 281826,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
     },
     {
       "added_at": null,

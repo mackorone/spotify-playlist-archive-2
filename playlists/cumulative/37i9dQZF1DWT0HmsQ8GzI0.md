@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Héra Barnabás
 
-418 songs - 23 hr 33 min
+419 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Hűtlen tangó](https://open.spotify.com/track/6N7sGvud5JuRRRva3F0w5f) | [Máklikőr](https://open.spotify.com/artist/1mEClPszmbqTkgnBgQ57Ui) | [Ennél pompásabb nem lehet](https://open.spotify.com/album/3AF945SEVCAxhSx72b0ROB) | 4:11 | 2025-12-04 | 2025-12-23 |
 | [I'M OK](https://open.spotify.com/track/5AEg3Mzvi2R1ub0gC1fFkh) | [PRIBELSZKI](https://open.spotify.com/artist/6ZHMYSQiWKGHPgme6nAzTW) | [I'M OK](https://open.spotify.com/album/2bkmcYbQ2qxT8HBQQOVYpE) | 2:39 | 2024-07-04 | 2024-08-03 |
 | [Ignite My Heart](https://open.spotify.com/track/2gq4R5NNyIXtk7CxbXhwip) | [The Carbonfools](https://open.spotify.com/artist/4hQQE3GUQeBAOFwTJ5aede) | [Carbonlove](https://open.spotify.com/album/7oAnOwt6rmMTEleqctMMFm) | 3:18 | 2025-01-24 | 2025-03-08 |
-| [Isten, haza, család](https://open.spotify.com/track/0LH3Rcqj6BvT32m62E76jj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Isten, haza, család](https://open.spotify.com/album/4KrKTftUcCmcTGmqr513G0) | 2:48 | 2025-11-13 |  |
+| [Isten, haza, család](https://open.spotify.com/track/0LH3Rcqj6BvT32m62E76jj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Isten, haza, család](https://open.spotify.com/album/4KrKTftUcCmcTGmqr513G0) | 2:48 | 2025-11-13 | 2026-05-21 |
 | [Itt vagyok](https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP) | [Itt vagyok](https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q) | 2:44 | 2026-02-27 |  |
 | [jealous](https://open.spotify.com/track/0VHjGFR3Y4WluLZxZvitVl) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [jealous](https://open.spotify.com/album/6ye2m1N6Du8F8GatMJlPgy) | 3:29 | 2025-04-18 | 2025-06-17 |
 | [Jerikó](https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Jerikó](https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7) | 2:42 | 2025-06-16 |  |
@@ -255,6 +255,7 @@
 | [Még egy kedd](https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS) | [Anna and The Barbies](https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV) | [Még egy kedd](https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT) | 2:17 | 2025-12-22 | 2026-02-06 |
 | [Még Egyszer](https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1) | [Még Egyszer](https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn) | 3:18 | 2024-10-04 |  |
 | [Még egyszer](https://open.spotify.com/track/3WYpq009XoLt1tYYjxDSdy) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Még egyszer](https://open.spotify.com/album/2loTF9hGY7XmM2kcYxtZ2J) | 4:43 | 2024-12-20 | 2025-08-22 |
+| [MÚLT](https://open.spotify.com/track/0Q5YKaEMCIRVCseNxnrTKi) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [MÚLT](https://open.spotify.com/album/6A1y6ZaEM7Yb0udQzICCp0) | 3:57 | 2026-05-14 |  |
 | [Nagy Vagy](https://open.spotify.com/track/2lX65osyVdzXJsb3Q175NL) | [HOLI](https://open.spotify.com/artist/6Ihau6OHcvDPBIPyYvdc0U) | [Levegő](https://open.spotify.com/album/2MdblceG2JNUw8XYeiwyl1) | 3:22 | 2025-12-04 | 2025-12-23 |
 | [Nagyon \- bummerdiszkó](https://open.spotify.com/track/0CGviIOKn6hmUDWTiDWyjl) | [Kiscsillag](https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6) | [Nagyon \(bummerdiszkó\)](https://open.spotify.com/album/283zJsQiVqmDFOBNc0ftOg) | 3:26 | 2025-04-18 | 2025-05-25 |
 | [Napfény](https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih) | [Magashegyi Underground](https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi) | [Egymáshoz rövid az út](https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA) | 2:56 | 2024-06-28 | 2025-07-11 |
@@ -287,7 +288,7 @@
 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 | 2025-04-18 |  |
 | [Plan For You](https://open.spotify.com/track/11a7fFxDeyFS0IF5Z6b5S6) | [ZÓRA](https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW) | [Plan For You](https://open.spotify.com/album/2k0M4sNRvc2P2446HQarjH) | 2:53 | 2025-09-26 | 2025-11-29 |
 | [Pletyka](https://open.spotify.com/track/20mZL0fSYFtMYuaD4ctRGV) | [DOMINGO](https://open.spotify.com/artist/2xUAc0Xk9ouY25LInxdNJD) | [Pletyka](https://open.spotify.com/album/4EvQvmMEBQ3gLBGfMRZuq0) | 3:19 | 2024-08-15 | 2024-09-07 |
-| [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 | 2024-09-13 | 2026-04-16 |
+| [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 | 2024-09-13 |  |
 | [POCSOLYA](https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW) | [kristoaf](https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz) | [ENSO](https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH) | 3:06 | 2024-06-28 | 2024-10-05 |
 | [pontnem](https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [pontnem](https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX) | 3:25 | 2024-06-28 | 2025-08-30 |
 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 | 2025-12-04 | 2026-04-04 |

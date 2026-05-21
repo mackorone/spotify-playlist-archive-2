@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Diss Gacha in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,323 likes - 102 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,320 likes - 102 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lettera a Tedua](https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lettera a Tedua](https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U) | 2:44 |
+| 1 | [Lettera a Tedua](https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lettera a Tedua](https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U) | 2:44 |
 | 2 | [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 |
 | 3 | [MUSICA TRAP](https://open.spotify.com/track/3JSA9yt2eBVOdK52cIn6eW) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:08 |
 | 4 | [Dancing With The Devil Pt.2](https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 3:06 |

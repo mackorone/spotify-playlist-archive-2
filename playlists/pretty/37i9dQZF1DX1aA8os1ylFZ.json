@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 294671,
+  "num_followers": 294659,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "Don't Leave",
-        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
         "name": "Miss That",
         "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
+      "duration_ms": 130909,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -783,6 +767,22 @@
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "Hold of Me",
+        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 213555,
+      "name": "Hold of Me",
+      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 232114,
       "name": "Physical (feat.Tink)",
       "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "Hold of Me",
-        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 213555,
-      "name": "Hold of Me",
-      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "nobody has to know (with Ronald Isley)",
         "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 197379,
       "name": "nobody has to know (with Ronald Isley)",
       "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/2ow4378LTz6HxOdaLOWG9C"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 188974,
+      "name": "System",
+      "url": "https://open.spotify.com/track/5coSBS4AytJ2V3lAAtstEg"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 225800,
       "name": "Desire - Spotify Singles",
       "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/2ow4378LTz6HxOdaLOWG9C"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 188974,
-      "name": "System",
-      "url": "https://open.spotify.com/track/5coSBS4AytJ2V3lAAtstEg"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "Waiting For You (feat. Reggie Dartey)",
         "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "Mellina Tey",
-          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve"
     },
     {
       "added_at": "2026-05-07 22:03:14",

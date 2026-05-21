@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Aayi Tu Aayi Tu",
+        "url": "https://open.spotify.com/album/3hlm1KlWEttzAk1XlxSWZz"
+      },
+      "artists": [
+        {
+          "name": "Mohit dogra",
+          "url": "https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Aayi Tu Aayi Tu",
+      "url": "https://open.spotify.com/track/14smKKBqZJCOF2BcSQxz60"
+    },
+    {
+      "album": {
         "name": "Aazmaati",
         "url": "https://open.spotify.com/album/6mRDdZqxAbHl9jlrIe86hC"
       },
@@ -3210,6 +3228,32 @@
       "duration_ms": 167227,
       "name": "Danger - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/4n33TfqFiNnKuNip9FvybE"
+    },
+    {
+      "album": {
+        "name": "Haunted 3D: Echoes Of The Past",
+        "url": "https://open.spotify.com/album/51ZdmTQKgdrlmWLRnLnEon"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Nayeem - Shabir",
+          "url": "https://open.spotify.com/artist/6RWQUPcHK4DiRidMeOoW3A"
+        },
+        {
+          "name": "Shakeel Ahmed",
+          "url": "https://open.spotify.com/artist/1OTgGkhMBrDz5MospQeLEF"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304090,
+      "name": "Dard",
+      "url": "https://open.spotify.com/track/6SxOViGh7E8rNPA12HEJr8"
     },
     {
       "album": {
@@ -10324,7 +10368,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 245368,
       "name": "Mera Jee Nahi Bhara (From \"Maatrubhumi: May War Rest in Peace\")",
       "url": "https://open.spotify.com/track/3XPEDdg9Zpms1WWeTI63S2"
@@ -11331,6 +11375,32 @@
     },
     {
       "album": {
+        "name": "Aakhri Sawal",
+        "url": "https://open.spotify.com/album/2yscmSum58q9ev1s8CnjNg"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Monty Sharma",
+          "url": "https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik"
+        },
+        {
+          "name": "Dr. Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/0OSqDQIDdfyTATDv8nPV8F"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149112,
+      "name": "Neend Bachakar",
+      "url": "https://open.spotify.com/track/14ZAEFf9qxec4txqbme8SB"
+    },
+    {
+      "album": {
         "name": "Neend Bhi Teri (From \"Nishaanchi\")",
         "url": "https://open.spotify.com/album/4WQ6BKpBnm4w0ei9Qokb1i"
       },
@@ -11390,7 +11460,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 348000,
       "name": "Neer Bharan",
       "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
@@ -11834,7 +11904,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 222222,
       "name": "Oh Meri Heeriye",
       "url": "https://open.spotify.com/track/2nSQ2MhvJAHlL0mFlZ4P0e"
@@ -13018,6 +13088,32 @@
       "duration_ms": 215546,
       "name": "Raaz E Dil",
       "url": "https://open.spotify.com/track/6q6mlWI0tUE2TmQHLubRGF"
+    },
+    {
+      "album": {
+        "name": "Haunted 3D: Echoes Of The Past",
+        "url": "https://open.spotify.com/album/51ZdmTQKgdrlmWLRnLnEon"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Prateek Walia",
+          "url": "https://open.spotify.com/artist/2MwEyZ2IlU8PIyq5Px1aXC"
+        },
+        {
+          "name": "Shweta Bothra",
+          "url": "https://open.spotify.com/artist/4SaUCGLlUsUzH4ppt7ayiD"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186802,
+      "name": "Raaz Hai",
+      "url": "https://open.spotify.com/track/3qqQlPFCrKjGv66QHUaHbk"
     },
     {
       "album": {
@@ -14532,7 +14628,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 193636,
       "name": "Senti (From \"Daadi Ki Shaadi\")",
       "url": "https://open.spotify.com/track/0Vg7GtdSmTvn9pWP9MWrIa"
@@ -15027,7 +15123,7 @@
     },
     {
       "album": {
-        "name": "System (Original Series Soundtrack)",
+        "name": "System (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3b11jLx4YexMhmnPPHnVYp"
       },
       "artists": [

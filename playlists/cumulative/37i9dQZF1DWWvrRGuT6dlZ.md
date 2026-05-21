@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: K1O\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Heidi Moru Artwork: Isu Kim.
 
-1,468 songs - 3 day 8 hr 21 min
+1,470 songs - 3 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [According 2 You](https://open.spotify.com/track/1Anrh0o0wxUz0tcRV7R6I1) | [Timur Flores](https://open.spotify.com/artist/2qeY03A6UwhoyygrCReGlV) | [According 2 You](https://open.spotify.com/album/2HyW0NX4Ya0ByWat9uBrh2) | 3:07 | 2025-07-11 | 2025-08-16 |
 | [act too nice, be too dumb](https://open.spotify.com/track/6d5Qo1pfi6f2dk3GI0H2ap) | [Sabrina Nicolette](https://open.spotify.com/artist/6DxUkGnJDY3BIubtX1afwj) | [act too nice, be too dumb](https://open.spotify.com/album/05pZcnUnfaI7ZLzSixe17n) | 3:13 | 2021-12-01 | 2022-01-14 |
 | [Ada Apa Di Sana](https://open.spotify.com/track/5PHdC78MpFHGP0ixttW9oR) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Ada Apa Di Sana](https://open.spotify.com/album/2e9aNGjqDllWqy3LNSmMFm) | 3:16 | 2025-11-14 | 2026-03-14 |
+| [Adem](https://open.spotify.com/track/6b7rgEeNDCluHS7y3ZvsxO) | [CHLYPDY](https://open.spotify.com/artist/72tSyX2vMhBVCECXVh7i7r) | [Adem](https://open.spotify.com/album/7cPdlH2YIUiB9nVyEqd6KU) | 3:45 | 2026-05-20 |  |
 | [ADIMAI](https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6), [Jason Penerselvam](https://open.spotify.com/artist/203p1jM90ugEbq3N0vX6PH) | [ADIMAI](https://open.spotify.com/album/0Ga8XhLre9K8LMhBpjqkA9) | 3:12 | 2025-05-29 | 2025-07-18 |
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 | 2023-01-13 |
 | [adore me](https://open.spotify.com/track/5QsjLpEsXspFtlBXKdmTr7) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [adore me](https://open.spotify.com/album/7GFKXQ6QZXx89jLI2nCHaW) | 2:30 | 2025-03-13 | 2025-05-17 |
@@ -586,6 +587,7 @@
 | [In The World](https://open.spotify.com/track/1UEdBtrEpQtgsAWxKvgXH3) | [Thy Howler](https://open.spotify.com/artist/2Kr78QLQVRSpFReViapiXf) | [In The World](https://open.spotify.com/album/7K22xIbdPojOiyPLg1dK9W) | 4:31 | 2025-09-12 | 2025-11-08 |
 | [Indahnya](https://open.spotify.com/track/5XTAj7kldK4mzQsq7BzHoN) | [Axtin](https://open.spotify.com/artist/5cXYBacWlfemTc0222wlA7), [Erika Foo](https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3) | [Indahnya](https://open.spotify.com/album/07DVidAjyF3OPYImiibOCF) | 3:17 | 2026-01-30 | 2026-05-07 |
 | [Indigo](https://open.spotify.com/track/7uE1fO1I6ADcJ4Zrnex8Kh) | [Adam Jazzlan](https://open.spotify.com/artist/5qKVegmk3MfMecHAg1jJgZ), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Indigo](https://open.spotify.com/album/4VwiJPA5hXrcVvsxDOMOem) | 3:19 | 2023-05-11 | 2023-11-10 |
+| [INDULGENCE](https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [INDULGENCE](https://open.spotify.com/album/2tsyh7W220NtU1qFueIax0) | 3:00 | 2026-05-20 |  |
 | [insomaniac](https://open.spotify.com/track/1In2ojHhE3MrhlCg8Dk4BP) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [insomaniac](https://open.spotify.com/album/2zlHmXYXkQwPdEigti7vPE) | 3:42 | 2022-09-15 | 2023-10-20 |
 | [Interval Of Us](https://open.spotify.com/track/7LUPtdG13VibC6od6CCnGj) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb), [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb) | [Interval Of Us](https://open.spotify.com/album/7nnHI4d4RB5fj7ItJr5f5v) | 4:05 | 2023-02-17 | 2023-06-23 |
 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 | 2025-06-06 | 2025-08-01 |

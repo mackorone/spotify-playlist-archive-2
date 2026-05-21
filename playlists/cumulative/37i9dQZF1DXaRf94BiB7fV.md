@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- Abhin Joshi
+> The best new music by independent artists and labels in India\. Cover \- Kuhu Gracia
 
-1,932 songs - 4 day 15 hr 35 min
+1,934 songs - 4 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Dastaan](https://open.spotify.com/track/3SDOlNsIkr0QL3Q6kCoScd) | [Chetan Fefar](https://open.spotify.com/artist/0pa5KPGXJNF2In1myPuU0o), [Rajkumar Sengupta](https://open.spotify.com/artist/12jDUpZDK4iBcZPdYPZtqM) | [Dastaan](https://open.spotify.com/album/0gWJOkRjkBCG5r0pYMvlpk) | 5:16 | 2023-02-15 | 2023-07-06 |
 | [Dastaan](https://open.spotify.com/track/1pVmV0lZ0vLzRLduyRxUqA) | [Shravan Mantri](https://open.spotify.com/artist/5KI5Muz5nOdv5V3DlkBonu) | [Dastaan](https://open.spotify.com/album/33VPepcqo3P788RBzh1bQw) | 3:36 | 2022-08-03 | 2023-01-26 |
 | [Dastoor](https://open.spotify.com/track/6dL6CvrPOBjVEs0FVVe8MN) | [Saoud Ali](https://open.spotify.com/artist/5IN0OGN4iBCAnQY9fg1GHv) | [Dastoor](https://open.spotify.com/album/0XcYwHdnr2oDqVfOi6jyY3) | 5:45 | 2026-02-11 |  |
+| [Dawedari](https://open.spotify.com/track/3lKWBsUqDzDpfRKJ6dUbrD) | [Soumya Kumaar](https://open.spotify.com/artist/1D1n7hRcCDqWBjlO10E7ZU) | [Dawedari](https://open.spotify.com/album/1en4ReEM34kTReoniNTrvn) | 3:22 | 2026-05-20 |  |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-22 | 2023-06-15 |
 | [Daydreamer](https://open.spotify.com/track/5xauG2FIDmjB8eoW8RKai2) | [Debajyoti Biswas](https://open.spotify.com/artist/0ND2oJ6wjmJJBWCP4S7I5O) | [Changing](https://open.spotify.com/album/1litfnUMjJzuOxUAajy4Pi) | 4:19 | 2023-10-11 | 2023-11-16 |
 | [daydreaming](https://open.spotify.com/track/0sMXleyicMPgOg9hz7g0d1) | [dhruvv](https://open.spotify.com/artist/065TTH1G3xiI2yC0GtwhjJ) | [daydreaming](https://open.spotify.com/album/6hd92SWov1Y4amUBtQ3jnq) | 3:37 | 2023-10-11 | 2024-01-25 |
@@ -495,6 +496,7 @@
 | [Falling Again](https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk) | [Raman](https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8) | [Falling Again](https://open.spotify.com/album/7gXy5Nm7ZRKLzAdFgD2sCi) | 3:48 | 2024-01-10 | 2024-03-14 |
 | [Falsafa](https://open.spotify.com/track/4pZkIJLFd51zJQwrwaoWP0) | [Shrikanth Nair](https://open.spotify.com/artist/2GwQjUQJkU7FGVXSJ3EPWj) | [Falsafa](https://open.spotify.com/album/0qgCBEsxNwS8eGMC9ewOet) | 5:11 | 2024-04-17 | 2024-05-16 |
 | [Falsafa](https://open.spotify.com/track/5YEHvf2AQrcmVCKjclAgMp) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Falsafa](https://open.spotify.com/album/0hFtZ1ECjQjsm1muPIfFbE) | 3:56 | 2022-04-06 | 2022-07-21 |
+| [Fasaana](https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [Fasaana](https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj) | 3:25 | 2026-05-20 |  |
 | [fax me a hug](https://open.spotify.com/track/7MegMMTYuDSWJbjZEQn9AR) | [evermoon](https://open.spotify.com/artist/5fnMBMlJqVAREaKYic6QSC), [Trina Dutt](https://open.spotify.com/artist/0ETVdJPgGPj0eHjxZkFZ0K) | [ABRACADABRA](https://open.spotify.com/album/74N26g39GfDCUhjRW9VRVP) | 4:26 | 2022-01-12 | 2022-01-17 |
 | [February 17th](https://open.spotify.com/track/7qJwDseSsxmgZSoCKEh0wZ) | [Aalia](https://open.spotify.com/artist/5JXRLytkmf5esR8R53rCsX), [Sophie Gibson](https://open.spotify.com/artist/5XeYB3XEYizP4o59sV9Hcd) | [February 17th](https://open.spotify.com/album/0rI6HG1lw90fmd4sJXpd8T) | 3:15 | 2023-11-15 | 2024-02-22 |
 | [Feed The Clown](https://open.spotify.com/track/1MyUSY9DM4AhfTnl5L7ilX) | [Champak](https://open.spotify.com/artist/1r8kUtvHEXjQWQ75GEcsUo) | [Feed The Clown](https://open.spotify.com/album/29UxTTAmGpuY5DLpbZmaQh) | 4:37 | 2026-03-18 |  |
@@ -617,7 +619,7 @@
 | [HISSA](https://open.spotify.com/track/4yltGAkOop6H5qgKFun0EC) | [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR) | [HISSA](https://open.spotify.com/album/5olazz4T1M0tciYXewdSUk) | 3:22 | 2024-11-20 | 2025-03-13 |
 | [Ho Savera](https://open.spotify.com/track/5ENhWLxHCaUP5EVh1I1Bbn) | [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo), [Suvankar Chatterjee](https://open.spotify.com/artist/5KCVOltmLBQLofTjn8kSYo) | [Ho Savera](https://open.spotify.com/album/690vcyjxcrzMMgi54ulMkz) | 3:08 | 2024-07-31 | 2024-10-17 |
 | [Ho Tum Yahan](https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Ho Tum Yahan](https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu) | 4:08 | 2022-10-19 | 2023-01-26 |
-| [Hold Me Close](https://open.spotify.com/track/2fKQv9G8PPlSIqnIXlYDaY) | [Athena Sharma](https://open.spotify.com/artist/1mYOlE0r5EXRvJkWhYHqUt), [Pixiii](https://open.spotify.com/artist/39D2IheIqj9DC5DZzczY3q) | [Hold Me Close](https://open.spotify.com/album/5W4BntDMVpCxu31H2FBJ4O) | 2:52 | 2026-03-04 |  |
+| [Hold Me Close](https://open.spotify.com/track/2fKQv9G8PPlSIqnIXlYDaY) | [Athena Sharma](https://open.spotify.com/artist/1mYOlE0r5EXRvJkWhYHqUt), [Pixiii](https://open.spotify.com/artist/39D2IheIqj9DC5DZzczY3q) | [Hold Me Close](https://open.spotify.com/album/5W4BntDMVpCxu31H2FBJ4O) | 2:52 | 2026-03-04 | 2026-05-21 |
 | [hold my hand.](https://open.spotify.com/track/2DKOKTxkH2yK9A5rtxNzfr) | [NOOR](https://open.spotify.com/artist/2AmZWPayNfJR2LjnjgQYIQ), [Sekhon X](https://open.spotify.com/artist/6ZNvNFIruYScJxjYd9f6Jk), [SRQ](https://open.spotify.com/artist/7FkKkFF7G0At2BYyKRIBSc) | [hold my hand.](https://open.spotify.com/album/2Wpkms7fvR2wrp58v6mYmn) | 2:37 | 2025-07-16 | 2025-08-28 |
 | [Hold You](https://open.spotify.com/track/1MO8cWWrdUKYVCjkb7bCR9) | [Somnath Mirdha](https://open.spotify.com/artist/1BCdukWSYFNlNk0fzcOrwx) | [Hold You](https://open.spotify.com/album/09tLejEFAw5WGKxItCemWE) | 3:31 | 2022-02-16 | 2022-03-03 |
 | [Hold Your Hand](https://open.spotify.com/track/6KXX2I2E1y30DVvmtvpSCs) | [Carolina Norbu](https://open.spotify.com/artist/6Vvjl4JhGGwJvcrzNKsyFP) | [Chemistry](https://open.spotify.com/album/0DNnvFe9wNdvR52dYkLoLH) | 2:32 | 2022-02-16 | 2022-03-03 |
@@ -1858,7 +1860,7 @@
 | [Will you be long?](https://open.spotify.com/track/15yYGY5yYAQQurQtRxflIG) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Will you be long?](https://open.spotify.com/album/6Iw6XGcY611ZHmIK1NVEaq) | 2:43 | 2024-04-10 | 2024-05-09 |
 | [Winner](https://open.spotify.com/track/0WK54Eg9gwTW0rReGLgtI5) | [Divya](https://open.spotify.com/artist/6mGrmr0tGuQf3UXkESre22) | [Winner](https://open.spotify.com/album/096jh2IIj3Cjg5WzKmIY7d) | 3:18 | 2025-07-30 | 2025-10-09 |
 | [Winter Sun](https://open.spotify.com/track/2hCR2E9C91xbizrfsobjBt) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [Winter Sun](https://open.spotify.com/album/7dohobFxDEdPZ3Zua3VvWX) | 3:59 | 2025-07-30 | 2025-11-06 |
-| [Wirebound](https://open.spotify.com/track/73kf0HcC9p7zUQgePkUmgV) | [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15) | [Wirebound](https://open.spotify.com/album/3KIs88lNdclLfQGRuM1XFn) | 3:06 | 2026-02-18 |  |
+| [Wirebound](https://open.spotify.com/track/73kf0HcC9p7zUQgePkUmgV) | [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15) | [Wirebound](https://open.spotify.com/album/3KIs88lNdclLfQGRuM1XFn) | 3:06 | 2026-02-18 | 2026-05-21 |
 | [Wish I Could Forget Reggae Version](https://open.spotify.com/track/0eEvFRSDGk5zcnHdssCMqV) | [Roshan George Thomas](https://open.spotify.com/artist/0TnrO3FSj8aGi84txKLp4W) | [Wish I Could Forget Reggae Version](https://open.spotify.com/album/3FezbDU6XWfopVAyRRePeq) | 3:15 | 2022-01-12 | 2022-03-10 |
 | [Wish I Got More Time](https://open.spotify.com/track/5ZAqDbZejm1wngl6VqcCVH) | [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Wish I Got More Time](https://open.spotify.com/album/52oONfS1nwZ9Y3FioSgO5V) | 2:49 | 2023-04-19 | 2023-05-24 |
 | [With You](https://open.spotify.com/track/2G2L3n7g28xtMriZS10QPu) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [With You](https://open.spotify.com/album/0RtLoBM86fjN0t3hQOea9f) | 3:32 | 2026-04-01 |  |

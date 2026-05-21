@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 578780,
+  "num_followers": 579909,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAABDJso3QSWrECHBayRs0Sct",
+  "snapshot_id": "aguoAAAAAAD63ckP0Mi6mRnGJBSgRbIp",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish I Didn\u2019t Miss You (Mahogany Sessions)",
-        "url": "https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Wish I Didn't Miss You - Mahogany Sessions",
-      "url": "https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olivia Dean - Spotify Live Room",
         "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 184000,
       "name": "Man I Need (Live) \u2013 Spotify Live Room",
       "url": "https://open.spotify.com/track/3yYuSzBhxR4kd4CNtfyHN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish I Didn\u2019t Miss You (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Wish I Didn't Miss You - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR"
     },
     {
       "added_at": null,

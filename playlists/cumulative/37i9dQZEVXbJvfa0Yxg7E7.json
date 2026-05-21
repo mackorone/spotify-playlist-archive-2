@@ -11339,6 +11339,28 @@
     },
     {
       "album": {
+        "name": "DOGGYSTYLE (SOSS)",
+        "url": "https://open.spotify.com/album/3vzQGWgB2Y20O9U0Xm4Opo"
+      },
+      "artists": [
+        {
+          "name": "Benjiz",
+          "url": "https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg"
+        },
+        {
+          "name": "Gudim",
+          "url": "https://open.spotify.com/artist/4TsrOFvanxrGZambcj0uHm"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "DOGGYSTYLE (SOSS)",
+      "url": "https://open.spotify.com/track/4rt989p7eeGep2E8eQBLFd"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -15826,7 +15848,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 171425,
       "name": "FOR ALLTID TYPE TING",
       "url": "https://open.spotify.com/track/7lND8FyhsdYdxhOQVqFKoI"
@@ -16604,7 +16626,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
@@ -48322,7 +48344,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 221205,
       "name": "Til Dovre Faller",
       "url": "https://open.spotify.com/track/4yELWDJ3J0sH4UCprBdvH3"

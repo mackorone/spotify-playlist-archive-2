@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: GRESLEY. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Mollie Elizabeth. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 190629,
       "name": "4th Wall",
       "url": "https://open.spotify.com/track/0CLL1DTuOOcxV0WJ6TPTvX"
@@ -24386,7 +24386,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 201999,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
@@ -24642,7 +24642,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 184941,
       "name": "First Night of My Life",
       "url": "https://open.spotify.com/track/1Ii1Yq2CpoRkP9elQsUpl2"
@@ -25720,7 +25720,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 147640,
       "name": "Fort",
       "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
@@ -25912,6 +25912,24 @@
       "duration_ms": 182395,
       "name": "Freckleface",
       "url": "https://open.spotify.com/track/01vJXrCDBBRfQcZmK76VsM"
+    },
+    {
+      "album": {
+        "name": "free",
+        "url": "https://open.spotify.com/album/3Q7pXnkSY80FN5I1MCNInR"
+      },
+      "artists": [
+        {
+          "name": "Ana Kahan",
+          "url": "https://open.spotify.com/artist/6enycJ8VKJvxQ2lyAo5xz3"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181039,
+      "name": "free",
+      "url": "https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD"
     },
     {
       "album": {
@@ -36200,7 +36218,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 193236,
       "name": "I'll come back to you",
       "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
@@ -38002,6 +38020,24 @@
       "duration_ms": 217361,
       "name": "In Trouble",
       "url": "https://open.spotify.com/track/1RvHOq7Q4javg6goDpWMLo"
+    },
+    {
+      "album": {
+        "name": "In Your Head",
+        "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151966,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
     },
     {
       "album": {
@@ -41488,7 +41524,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 192954,
       "name": "Leaving Me Lonely",
       "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
@@ -50058,6 +50094,24 @@
       "duration_ms": 135961,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/4UDzkUV39VEJCOMZkJP95a"
+    },
+    {
+      "album": {
+        "name": "Never Be Friends",
+        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "Never Be Friends",
+      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
     },
     {
       "album": {
@@ -59023,6 +59077,28 @@
     },
     {
       "album": {
+        "name": "Red Siren Pick Up",
+        "url": "https://open.spotify.com/album/4seMsFDOwjsrhrXY76oSmP"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        },
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178381,
+      "name": "Red Siren Pick Up",
+      "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
+    },
+    {
+      "album": {
         "name": "Red Sleeves",
         "url": "https://open.spotify.com/album/6cIihd51u6nEiMslbVYROm"
       },
@@ -60660,6 +60736,24 @@
       "duration_ms": 211524,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/2plpOCTJB7NoYuyNPmq5Rh"
+    },
+    {
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "album": {
@@ -63287,6 +63381,24 @@
     },
     {
       "album": {
+        "name": "shovel",
+        "url": "https://open.spotify.com/album/0oFJdt4hxeQczqv7om1POI"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166232,
+      "name": "shovel",
+      "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
+    },
+    {
+      "album": {
         "name": "show some teeth",
         "url": "https://open.spotify.com/album/1tEwrFhr0iMDEHJuwFWhQ0"
       },
@@ -64574,7 +64686,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 228488,
       "name": "Smile More",
       "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
@@ -64672,6 +64784,24 @@
       "duration_ms": 174266,
       "name": "So Emotional",
       "url": "https://open.spotify.com/track/0TMa5i5gaTQDOTaYMOCvtM"
+    },
+    {
+      "album": {
+        "name": "So What?",
+        "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168383,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
     },
     {
       "album": {
@@ -65238,6 +65368,24 @@
       "duration_ms": 257153,
       "name": "Someone To Come Home To",
       "url": "https://open.spotify.com/track/5yVtHz94qJwWDhj2Y35lcX"
+    },
+    {
+      "album": {
+        "name": "something i'm not",
+        "url": "https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154072,
+      "name": "something i'm not",
+      "url": "https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D"
     },
     {
       "album": {
@@ -66774,7 +66922,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 179320,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
@@ -70076,7 +70224,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 155199,
       "name": "Tears Ago",
       "url": "https://open.spotify.com/track/5E0SRWQIVOpPBWfOB4F1DA"
@@ -70444,6 +70592,24 @@
       "duration_ms": 159558,
       "name": "Temperamental Weather",
       "url": "https://open.spotify.com/track/6k7EVTe61MXFicQCaEfNbP"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239700,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     },
     {
       "album": {
@@ -71756,7 +71922,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 125698,
       "name": "The Mirror",
       "url": "https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP"
@@ -72038,6 +72204,24 @@
       "duration_ms": 176953,
       "name": "THE SNAKE",
       "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
+    },
+    {
+      "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
     },
     {
       "album": {
@@ -78157,6 +78341,24 @@
     },
     {
       "album": {
+        "name": "Dull Red",
+        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213407,
+      "name": "What A Bummer!",
+      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
+    },
+    {
+      "album": {
         "name": "What A Lie",
         "url": "https://open.spotify.com/album/4JNiodS8PH17JgdyVJNwJ3"
       },
@@ -79004,7 +79206,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 187057,
       "name": "When You Fall In Love",
       "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"

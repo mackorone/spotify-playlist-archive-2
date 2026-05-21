@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Ema Onigah
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,264 likes - 77 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,332 likes - 77 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

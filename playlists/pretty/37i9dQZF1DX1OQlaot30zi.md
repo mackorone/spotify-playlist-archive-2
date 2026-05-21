@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Flaco G, Artie, Ernia, MACE, 18K, MV Killa e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,487 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,483 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lettera a Tedua](https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lettera a Tedua](https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U) | 2:44 |
+| 1 | [Lettera a Tedua](https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lettera a Tedua](https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U) | 2:44 |
 | 2 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 |
 | 3 | [A METÀ \(feat\. 22Simba\)](https://open.spotify.com/track/0sIIPNmFuN4ULytAUNgRuY) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [THE GOLDFATHER](https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC) | 2:50 |
 | 4 | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/track/7DE2ngDnQgLQM43PeKrAoG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/album/4lVmEfiWW67IleqyUBsYyQ) | 3:21 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 72 | [Valore](https://open.spotify.com/track/3iySOgi19KkgAuJYzXX0Br) | [Katarina](https://open.spotify.com/artist/74DCdUBDZRvM0oHxc8RfyV), [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Valore](https://open.spotify.com/album/2BNobPzK2vWh3HpcZwNli3) | 3:16 |
 | 73 | [Ci vuole culo](https://open.spotify.com/track/6Q5cTVPqDsECnv5dOOdmEO) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Ci vuole culo](https://open.spotify.com/album/5K6iMrJsKuJSKMqmjBDMwH) | 2:54 |
 | 74 | [QUELLA FORESTA](https://open.spotify.com/track/4G2Pr2PzW2c2of71iQcZXq) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [QUELLA FORESTA](https://open.spotify.com/album/0GkSRFc18J7vmRI8259AwO) | 2:43 |
-| 75 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [DIBLA](https://open.spotify.com/artist/0ijEFBPmeKw59p4i1hkigg), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
+| 75 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
 | 76 | [J'adore](https://open.spotify.com/track/16uKRfbYS5cN8d7ZBzIsRU) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [J'adore](https://open.spotify.com/album/5meIFRSYjwHsMUKbi9tRq9) | 2:54 |
 | 77 | [UNABOMBER](https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [UNABOMBER](https://open.spotify.com/album/4e4E7oylKuCR4zXuadL0N3) | 2:08 |
 | 78 | [CUORE IN ARRESTO](https://open.spotify.com/track/4mRfaNeiyvqJs6Zywus2ll) | [Kemio](https://open.spotify.com/artist/3lcUhj4fQ2c5kkxPaoomoc) | [CUORE IN ARRESTO](https://open.spotify.com/album/7glzZVipZ8cSMFMiuvxmnK) | 2:19 |

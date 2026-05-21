@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168075,
+  "num_followers": 168073,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Basement Grooves",
+        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 169273,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Basement Grooves",
-        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+        "name": "Don't Trust Myself",
+        "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
       },
       "artists": [
         {
-          "name": "Maria Somerville",
-          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+          "name": "Robinson and The Romantics",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
         }
       ],
-      "duration_ms": 214106,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+      "duration_ms": 169434,
+      "name": "Don't Trust Myself",
+      "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1647,22 +1663,6 @@
       "duration_ms": 231034,
       "name": "Diamond Miner",
       "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Don't Trust Myself",
-        "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
-      },
-      "artists": [
-        {
-          "name": "Robinson and The Romantics",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 169434,
-      "name": "Don't Trust Myself",
-      "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
     },
     {
       "added_at": "2026-02-09 02:11:35",

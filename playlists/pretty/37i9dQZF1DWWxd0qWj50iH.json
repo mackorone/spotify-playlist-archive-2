@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 614538,
+  "num_followers": 614520,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Hyper Romance",
         "url": "https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 278900,
       "name": "Burning Hour",
       "url": "https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Total Life Forever",
-        "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 409560,
-      "name": "Spanish Sahara",
-      "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "For Sure",
@@ -539,6 +523,22 @@
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Total Life Forever",
+        "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 409560,
+      "name": "Spanish Sahara",
+      "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 204101,
-      "name": "Only Love Can Wait",
-      "url": "https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 204101,
+      "name": "Only Love Can Wait",
+      "url": "https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 169519,
-      "name": "Dream police",
-      "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Your Hero Is Not Dead",
@@ -1311,6 +1295,22 @@
       "duration_ms": 180479,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 169519,
+      "name": "Dream police",
+      "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Now You're Moving",
-        "url": "https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 157852,
-      "name": "Now You're Moving",
-      "url": "https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Now You're Moving",
+        "url": "https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 157852,
+      "name": "Now You're Moving",
+      "url": "https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Perfect Kindness",
-        "url": "https://open.spotify.com/album/1896DU6uAAKYHYCMq6yoKi"
+        "name": "Where the Heaven Are We",
+        "url": "https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
         }
       ],
-      "duration_ms": 258854,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/29HXW4rqqYATHgg1DTH8yy"
+      "duration_ms": 275426,
+      "name": "She Changes the Weather",
+      "url": "https://open.spotify.com/track/3q8h28WsxkdRKAtkHNa6zR"
     }
   ],
   "unique_name": "Gentle",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,500 likes - 179 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,519 likes - 179 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 178 | [Masquerade](https://open.spotify.com/track/5dGeMC5N6K1linoNALBPBy) | [Casper Ilian](https://open.spotify.com/artist/3zKuKfgffnwonOzg8hxSta) | [Masquerade](https://open.spotify.com/album/3dKoeqI5DU937sw0MnR6ce) | 2:08 |
 | 179 | [Near to Home](https://open.spotify.com/track/4qwon6fjE46SvSkjBR7zdN) | [Perseus](https://open.spotify.com/artist/4blTYEYufm69zg2U7ruiDm) | [Near to Home](https://open.spotify.com/album/3lGLsJOWkrZAYi22elnfJ0) | 2:27 |
 
-Snapshot ID: `AAAAAMehggcZJLGrMWmXLfI7d8Olk0Ey`
+Snapshot ID: `AAAAAGsqwvVbyTeDX3cTAh3KN6AI5r57`

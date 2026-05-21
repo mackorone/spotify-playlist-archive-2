@@ -4,13 +4,13 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 31 min
+82 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Belle Undressing](https://open.spotify.com/track/5sWKAvtnlGsngTVuyuKAY7) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Wants a Diamond Pivot Bright](https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC) | 2:29 | 2026-03-04 |  |
 | [a kind of promise](https://open.spotify.com/track/6gBg59nUN60qnQrvQaQRma) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 2:59 | 2026-03-04 | 2026-05-16 |
-| [a little death](https://open.spotify.com/track/0Dg4nN3hKf3Ml3KV5VRd7W) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 7:54 | 2026-03-04 |  |
+| [a little death](https://open.spotify.com/track/0Dg4nN3hKf3Ml3KV5VRd7W) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 7:54 | 2026-03-04 | 2026-05-21 |
 | [art](https://open.spotify.com/track/1NiAELD3NXPJuscVUBcCnW) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Never Stop Texting Me](https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4) | 2:39 | 2026-05-20 |  |
 | [asking for it](https://open.spotify.com/track/7cl12xR4Jhr96p03uyRywd) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 1:52 | 2026-03-04 |  |
 | [camille](https://open.spotify.com/track/3SdTbXf9Tgp4WBBdkhZ5Rj) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Never Stop Texting Me](https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4) | 2:35 | 2026-05-09 |  |
@@ -50,7 +50,8 @@
 | [it feels foolish to care](https://open.spotify.com/track/0BX6FVVLm6JY68XFtJzSCI) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [everything perfect is already here](https://open.spotify.com/album/2xqLXbxaqNAssDSmbsTQn4) | 15:05 | 2026-03-16 | 2026-03-28 |
 | [iv](https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 0:54 | 2026-03-04 |  |
 | [ix](https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:18 | 2026-03-10 |  |
-| [just \(feat\. m sage\)](https://open.spotify.com/track/41518cNAmCX0R2zzROnjso) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [just \(feat\. m sage\)](https://open.spotify.com/album/6qTHVIP3TvGUaokxv1hvGK) | 3:29 | 2026-03-04 |  |
+| [just \(feat\. m sage\)](https://open.spotify.com/track/41518cNAmCX0R2zzROnjso) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [just \(feat\. m sage\)](https://open.spotify.com/album/6qTHVIP3TvGUaokxv1hvGK) | 3:29 | 2026-03-04 | 2026-05-21 |
+| [just \(feat\. m sage\)](https://open.spotify.com/track/4fPSLkdtYEVTTlrkHrS1th) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 3:29 | 2026-05-21 |  |
 | [kinda tropical](https://open.spotify.com/track/0PRlkQ8uBsQR5G3Oeov5n5) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [kinda tropical](https://open.spotify.com/album/3L2jSO3z1tn9Yc2bM50sgC) | 3:16 | 2026-04-30 |  |
 | [kinda tropical](https://open.spotify.com/track/5Y6oG4bv2zgLEYcs8K9k4m) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 3:16 | 2026-03-04 | 2026-04-30 |
 | [kitchen duet](https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 1:09 | 2026-03-04 |  |
@@ -84,10 +85,10 @@
 | [v](https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 8:24 | 2026-03-22 | 2026-04-20 |
 | [vi](https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 2:24 | 2026-03-04 |  |
 | [vii](https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 2:22 | 2026-03-04 |  |
-| [viii](https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:30 | 2026-03-04 | 2026-05-15 |
+| [viii](https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:30 | 2026-03-04 |  |
 | [w sunset blvd](https://open.spotify.com/track/0QnGxzCkv13R2qIj3LOd6a) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 1:17 | 2026-03-23 | 2026-04-26 |
 | [x](https://open.spotify.com/track/0Ua9LPrNVtitDgMQY9gLap) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:14 | 2026-04-24 | 2026-05-14 |
-| [xi](https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 1:36 | 2026-03-18 |  |
+| [xi](https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 1:36 | 2026-03-18 | 2026-05-21 |
 | [Your First Armadillo](https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 4:24 | 2026-03-04 |  |
 
 \*This playlist was first scraped on 2026-03-04. Prior content cannot be recovered.

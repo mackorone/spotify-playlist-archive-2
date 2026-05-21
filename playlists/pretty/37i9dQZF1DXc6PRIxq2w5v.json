@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 191443,
+  "num_followers": 191449,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "OBRIGADO",
-        "url": "https://open.spotify.com/album/6P6MWdgb7kQzPUokuMq2LS"
-      },
-      "artists": [
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "OBRIGADO",
-      "url": "https://open.spotify.com/track/0hTmbYgoJNreWPSj78qcv6"
-    },
-    {
-      "added_at": "2026-05-19 14:29:30",
-      "album": {
         "name": "Trap Gospel Existe",
         "url": "https://open.spotify.com/album/45y3zKT3swOm8ZKdbftDvl"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 256285,
       "name": "Trap Gospel Existe",
       "url": "https://open.spotify.com/track/00nGa6T0InHfVSky5nDYrw"
+    },
+    {
+      "added_at": "2026-05-19 14:29:30",
+      "album": {
+        "name": "OBRIGADO",
+        "url": "https://open.spotify.com/album/6P6MWdgb7kQzPUokuMq2LS"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "OBRIGADO",
+      "url": "https://open.spotify.com/track/0hTmbYgoJNreWPSj78qcv6"
     },
     {
       "added_at": "2026-05-19 14:29:30",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
+        "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e"
+      },
+      "artists": [
+        {
+          "name": "Calmar\u00e1",
+          "url": "https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq"
+    },
+    {
+      "added_at": "2026-05-19 14:29:30",
+      "album": {
         "name": "Purificado",
         "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
@@ -1051,26 +1075,6 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
-      },
-      "artists": [
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        },
-        {
-          "name": "Ty Fig",
-          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2026-05-19 14:29:30",
-      "album": {
         "name": "Sem a Sua Presen\u00e7a",
         "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
       },
@@ -1087,6 +1091,26 @@
       "duration_ms": 185072,
       "name": "Sem a Sua Presen\u00e7a",
       "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
+    },
+    {
+      "added_at": "2026-05-19 14:29:30",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
+      },
+      "artists": [
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
+          "name": "Ty Fig",
+          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Firme",
+      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
     },
     {
       "added_at": "2026-05-19 14:29:30",
@@ -1167,26 +1191,6 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
-    },
-    {
-      "added_at": "2026-05-19 14:29:30",
-      "album": {
         "name": "Eu Sou",
         "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
       },
@@ -1203,26 +1207,22 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e"
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
       },
       "artists": [
         {
-          "name": "Calmar\u00e1",
-          "url": "https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE"
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
         },
         {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
         }
       ],
-      "duration_ms": 355265,
-      "name": "Devolva a Minha Igrejinha - Ora\u00e7\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq"
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-05-19 14:29:30",
@@ -1279,26 +1279,18 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "Melhores Dias",
-        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
       },
       "artists": [
         {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Melhores Dias",
-      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2026-05-19 14:29:30",
@@ -1319,18 +1311,26 @@
     {
       "added_at": "2026-05-19 14:29:30",
       "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+        "name": "Melhores Dias",
+        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
       "artists": [
         {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+      "duration_ms": 159069,
+      "name": "Melhores Dias",
+      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
     },
     {
       "added_at": "2026-05-19 14:29:30",

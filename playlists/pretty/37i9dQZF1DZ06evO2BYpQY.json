@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81230,
+  "num_followers": 81234,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAAAuMCRzn+7UYmQ/TuXBb7K/",
+  "snapshot_id": "aguoAAAAAABqhqKP8cPAoPqT5aPiS18A",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 391200,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pale Green Ghosts",
         "url": "https://open.spotify.com/album/23jVGTd2ouvUNmoWPDkthH"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 313986,
       "name": "GMF",
       "url": "https://open.spotify.com/track/0uul4WzezEwTELfdrWuh3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 391200,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 232933,
       "name": "Black Boys on Mopeds",
       "url": "https://open.spotify.com/track/58H2Z73c7k2UoTMAR739Az"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "In This Heart",
-      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
     },
     {
       "added_at": null,
@@ -291,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "In This Heart",
+      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Made Me The Thief Of Your Heart",
         "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 381373,
       "name": "You Made Me The Thief Of Your Heart",
       "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
     },
     {
       "added_at": null,
@@ -327,22 +343,6 @@
       "duration_ms": 397000,
       "name": "Mother - Live In Berlin",
       "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
     },
     {
       "added_at": null,
@@ -375,6 +375,26 @@
       "duration_ms": 406373,
       "name": "Feel so Different",
       "url": "https://open.spotify.com/track/0oH9dKhwNOVLbJ9zoe6jIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Chieftains",
+        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
+      },
+      "artists": [
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
     },
     {
       "added_at": null,
@@ -415,26 +435,6 @@
       "duration_ms": 255586,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Chieftains",
-        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
-      },
-      "artists": [
-        {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
-        },
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 320773,
-      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
-      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
     },
     {
       "added_at": null,

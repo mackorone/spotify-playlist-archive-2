@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Feliz día del maestro! disfruten esta semana de novedades, en portada Julieta Venegas y Bronco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,403 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,483 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

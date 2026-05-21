@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 46328,
+  "num_followers": 46336,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Je Hoort Nog Steeds Bij Mij",
         "url": "https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 171940,
       "name": "Je Hoort Nog Steeds Bij Mij",
       "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Kingsize Bed",
-        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
-      },
-      "artists": [
-        {
-          "name": "Hansen Tomas",
-          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
-        }
-      ],
-      "duration_ms": 154752,
-      "name": "Kingsize Bed",
-      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
         "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Dit Is Zo'n Dag",
-        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+        "name": "Kingsize Bed",
+        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
       },
       "artists": [
         {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+          "name": "Hansen Tomas",
+          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
         }
       ],
-      "duration_ms": 207905,
-      "name": "Dit Is Zo'n Dag",
-      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+      "duration_ms": 154752,
+      "name": "Kingsize Bed",
+      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -527,6 +511,22 @@
       "duration_ms": 216320,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Dit Is Zo'n Dag",
+        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 207905,
+      "name": "Dit Is Zo'n Dag",
+      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
       },
       "artists": [
         {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+      "duration_ms": 169456,
+      "name": "Ik neem jou mee",
+      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -699,22 +715,6 @@
       "duration_ms": 153714,
       "name": "Is Het Gek",
       "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
-        "name": "Ik neem jou mee",
-        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 169456,
-      "name": "Ik neem jou mee",
-      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
     },
     {
       "added_at": "2026-05-14 22:01:11",

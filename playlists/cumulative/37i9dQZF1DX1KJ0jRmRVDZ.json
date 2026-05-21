@@ -7535,6 +7535,32 @@
     },
     {
       "album": {
+        "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+        "url": "https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2HsAPke9YP0mu7POo2OOdQ"
       },
@@ -18577,6 +18603,24 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30e7\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/4k0crXawaF3i7vKN0eRcMY"
+      },
+      "artists": [
+        {
+          "name": "NAME.O",
+          "url": "https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259951,
+      "name": "\u30c1\u30e7\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/2JRlA3YNghHoLKVEdotV69"
+    },
+    {
+      "album": {
         "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
         "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
       },
@@ -29418,7 +29462,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 214333,
       "name": "\u77ac\u9593\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/3CzRNIiDdFlBVya2Wj20hY"

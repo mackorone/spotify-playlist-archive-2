@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,677 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,693 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 60 | [HANDS UP](https://open.spotify.com/track/6tfgjlqBwOdEDBjKUbkgZz) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [HANDS UP](https://open.spotify.com/album/5Z992MfQZAolmzgFGozD47) | 3:04 |
 | 61 | [PROMISES](https://open.spotify.com/track/5Rzqvr5BLrsoGuLzRWHvHL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [PROMISES](https://open.spotify.com/album/4ioIX81gfrwECvMI2VrPIF) | 3:43 |
 | 62 | [GRADUATION](https://open.spotify.com/track/0M5tSUZOxAIoSYuPL8px6p) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [ROBO2K](https://open.spotify.com/artist/3iWvLiWzCAG92y63itEmtx), [Derek Winkley](https://open.spotify.com/artist/74Kd2MgKUMAFfBvegP0YQR) | [ALL MY FANS BECAME RAPPERS](https://open.spotify.com/album/4VkQ9hPtGo5pHAskLgMUud) | 2:50 |
-| 63 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
+| 63 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
 | 64 | [EYEZ ON ME](https://open.spotify.com/track/7gugFbtzuXzLtsn9rWikUF) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Tomi Abdon](https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux) | [EYEZ ON ME](https://open.spotify.com/album/5FcU1ren3ebJ0BIOb9eZNe) | 2:48 |
 | 65 | [OUTSIDE FREESTYLE](https://open.spotify.com/track/1cAzAwux8In7qi4IbTnepp) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [OUTSIDE FREESTYLE](https://open.spotify.com/album/0P2lpVvuIOhRBHpMqg1tzi) | 2:02 |
 | 66 | [CHAMELEON](https://open.spotify.com/track/5mvU32PA8xibL643V22p3y) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [CHAMELEON](https://open.spotify.com/album/0UUhJegv9qGiYVxemqE5Ew) | 2:19 |

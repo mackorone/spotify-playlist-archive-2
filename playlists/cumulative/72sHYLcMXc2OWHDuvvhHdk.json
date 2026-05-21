@@ -4137,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Blue tune",
+        "url": "https://open.spotify.com/album/37EchHk4bAJOhrEUMN7NAN"
+      },
+      "artists": [
+        {
+          "name": "Jonas Magnus",
+          "url": "https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Blue tune",
+      "url": "https://open.spotify.com/track/0RNQne6RylKVUVhDqYwutN"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34"
       },
@@ -43176,6 +43194,28 @@
       "duration_ms": 226000,
       "name": "YOUR GIRLFRIEND - Radio Edit",
       "url": "https://open.spotify.com/track/6Itg9Cxw0CFAZ5XoLfM8kY"
+    },
+    {
+      "album": {
+        "name": "Your Last Show",
+        "url": "https://open.spotify.com/album/6XNAvC8wsZoArV8H560MeT"
+      },
+      "artists": [
+        {
+          "name": "JM LE COUEDIC",
+          "url": "https://open.spotify.com/artist/2wr67doyBJOly96Gi8xv6X"
+        },
+        {
+          "name": "Larry Magee",
+          "url": "https://open.spotify.com/artist/5z0kIziglW9RciMPdgLS6S"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240108,
+      "name": "Your Last Show",
+      "url": "https://open.spotify.com/track/4iuVCdpNTQG7K5LiHWN0XN"
     },
     {
       "album": {

@@ -2911,6 +2911,32 @@
     },
     {
       "album": {
+        "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+        "url": "https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
+    },
+    {
+      "album": {
         "name": "WALK",
         "url": "https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM"
       },

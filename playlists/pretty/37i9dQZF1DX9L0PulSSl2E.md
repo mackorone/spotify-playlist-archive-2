@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,005 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,025 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 3 | [Tu Hi Tu](https://open.spotify.com/track/6CJJrzYY70oy6cxA8BkVIL) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tu Hi Tu](https://open.spotify.com/album/3ut0f8F0cZvrZQGwP2gcoe) | 2:38 |
 | 4 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 |
 | 5 | [Volcano Lava](https://open.spotify.com/track/04aAGNvZUMU8RVivF8yBRn) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Volcano Lava](https://open.spotify.com/album/1Aj5Uo9cWxGXhYAAXltefQ) | 2:36 |
-| 6 | [Bawra](https://open.spotify.com/track/27A9Fj1num93gT1BGNHf49) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Simran Jhanjharya](https://open.spotify.com/artist/3kxNZjg8GD2XbaRffgXmBY) | [BAWRA](https://open.spotify.com/album/0odzGVt3PQrHnoWdrN3Mnk) | 3:30 |
+| 6 | [Ambassador](https://open.spotify.com/track/6ZY4tfxyLITPmAUbE2T58N) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Ambassador](https://open.spotify.com/album/0Egms8AdbxJPHJMzEhnBF8) | 2:02 |
 | 7 | [VOGUE](https://open.spotify.com/track/1JdCyAEy9YLNj5LDDpz73F) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [VOGUE](https://open.spotify.com/album/1PawA1kXPiDO3BHKow7VzH) | 2:22 |
 | 8 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 9 | [SO SHY](https://open.spotify.com/track/04gAznL5X1bQ2E24e2osov) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [SO SHY](https://open.spotify.com/album/4L4hREzzC9akWCTAS2Lx0r) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [Zero Cares](https://open.spotify.com/track/57XP21lBcIam7LS72yDFFe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Zero Cares](https://open.spotify.com/album/2IFRgC80176V6oTn1nna5B) | 2:29 |
 | 50 | [Asla](https://open.spotify.com/track/65mPn0Lc8D6jE67S7raTiV) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Asla](https://open.spotify.com/album/6xshFUAjYBeEJMy6JU2jEe) | 2:24 |
 
-Snapshot ID: `AAAAALzzJvo7OgolVjRCmv+a3OTC0eGT`
+Snapshot ID: `AAAAAMbh7Vg4QReNxsMD5JgVfvZ8Pgv1`

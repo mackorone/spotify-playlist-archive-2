@@ -4,7 +4,7 @@
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: maeshima soshi & はしメロ
 
-1,707 songs - 4 day 0 hr 42 min
+1,709 songs - 4 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [noise](https://open.spotify.com/track/3NLJQhr3PBEc0LPCZE1NzB) | [oshina](https://open.spotify.com/artist/6uPDUcO9dIgZ6b75Z17XvA) | [noise](https://open.spotify.com/album/1kfntyjj5yZiE8V8P73JsL) | 2:44 | 2023-01-17 | 2023-02-03 |
 | [NONAI](https://open.spotify.com/track/01CQACElK5ABpCn4Z7wiOa) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [モリスレイ](https://open.spotify.com/artist/25LuyNMkFRDF0eJYmBlBuc) | [NONAI](https://open.spotify.com/album/6uJrmk0Hp4A9uyybSjliB4) | 2:33 | 2023-09-12 | 2023-10-06 |
 | [NOTOK](https://open.spotify.com/track/6l3GimOs04cGC7NAMLDgxP) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [NOTOK](https://open.spotify.com/album/5Q5dtkUpjQlH3bTzkd28eS) | 2:55 | 2024-11-05 | 2024-11-20 |
+| [numb numb \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [numb numb \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG) | 2:47 | 2026-05-20 |  |
 | [Odyssey](https://open.spotify.com/track/5GYk0X8ZrvHApL6tgrMFAS) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Odyssey](https://open.spotify.com/album/2HsAPke9YP0mu7POo2OOdQ) | 4:49 | 2024-09-17 | 2024-09-25 |
 | [Oka Ramman](https://open.spotify.com/track/52avodY9PZsS9iCOgxJpmJ) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Oka Ramman](https://open.spotify.com/album/08A305KVRZfXQLg0Z3Ni7r) | 3:50 | 2022-10-18 | 2022-10-26 |
 | [OMAJINAI](https://open.spotify.com/track/4dlSZa7YK7Y878m0i4xlC8) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [OMAJINAI](https://open.spotify.com/album/5FNP6dkB1DPWn2TeeERYxw) | 3:25 | 2025-09-09 | 2025-09-18 |
@@ -978,6 +979,7 @@
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 | 2023-05-08 |
 | [チャイニーズブルー](https://open.spotify.com/track/3fI3sur34KpeY4I7ZmZmph) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [チャイニーズブルー](https://open.spotify.com/album/4cHuPNTErffuzP4wdDuJHl) | 2:10 | 2022-06-16 | 2022-07-25 |
 | [チューイン・ディスコ](https://open.spotify.com/track/4BQDsKhTfd2JX1M2ajkOJu) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [チューイン・ディスコ](https://open.spotify.com/album/5halVD4PFLhrdjnJuxTAgH) | 2:57 | 2024-08-20 | 2024-09-04 |
+| [チョイス](https://open.spotify.com/track/2JRlA3YNghHoLKVEdotV69) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [チョイス](https://open.spotify.com/album/4k0crXawaF3i7vKN0eRcMY) | 4:19 | 2026-05-20 |  |
 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 | 2023-03-15 |
 | [テイクアウト](https://open.spotify.com/track/1ppCCh1ejm5eTdfSDB4fuD) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [テイクアウト](https://open.spotify.com/album/66ks0fSiT5709ac8uPoIH7) | 3:21 | 2023-10-05 | 2023-10-13 |
 | [テディ](https://open.spotify.com/track/6Q6SZBGimoe5KCEKg6UCrv) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [テディ](https://open.spotify.com/album/5iXQmlYUZgFQVPKTFLKUt8) | 3:21 | 2024-12-10 | 2025-01-15 |
@@ -1545,7 +1547,7 @@
 | [真生活](https://open.spotify.com/track/0htxEpxbaMo6lgrBCxrMH2) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [真生活](https://open.spotify.com/album/2xIJ7xtbCH4s6hRnFVJmiS) | 4:04 | 2022-06-16 | 2022-06-21 |
 | [眼差し](https://open.spotify.com/track/4X1PWrG6ES3ON8IXaa9uBX) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [眼差し](https://open.spotify.com/album/75snR5tnlN4hOk1Fi4NVOc) | 4:01 | 2023-10-24 | 2023-10-26 |
 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-30 | 2026-03-25 |
-| [瞬間ハートビート](https://open.spotify.com/track/3CzRNIiDdFlBVya2Wj20hY) | [ReGLOSS](https://open.spotify.com/artist/1mHZT1y9KKMq3YsGFLR9xH), [火威青](https://open.spotify.com/artist/61CPRQBnU83J9FIcdPincG), [音乃瀬奏](https://open.spotify.com/artist/2i1mag1k6qyZmTXpeZ34l0), [一条莉々華](https://open.spotify.com/artist/2JevDdymuQqbHKsPJTWyv3), [儒烏風亭らでん](https://open.spotify.com/artist/0HWMbRLZ4EZ7zPXSJOeWzY), [轟はじめ](https://open.spotify.com/artist/19S7gPOuThglBNwslfkVIm) | [ReGLOSS](https://open.spotify.com/album/3E4z7xAJXjEg8lHLcRC8rr) | 3:34 | 2026-03-24 |  |
+| [瞬間ハートビート](https://open.spotify.com/track/3CzRNIiDdFlBVya2Wj20hY) | [ReGLOSS](https://open.spotify.com/artist/1mHZT1y9KKMq3YsGFLR9xH), [火威青](https://open.spotify.com/artist/61CPRQBnU83J9FIcdPincG), [音乃瀬奏](https://open.spotify.com/artist/2i1mag1k6qyZmTXpeZ34l0), [一条莉々華](https://open.spotify.com/artist/2JevDdymuQqbHKsPJTWyv3), [儒烏風亭らでん](https://open.spotify.com/artist/0HWMbRLZ4EZ7zPXSJOeWzY), [轟はじめ](https://open.spotify.com/artist/19S7gPOuThglBNwslfkVIm) | [ReGLOSS](https://open.spotify.com/album/3E4z7xAJXjEg8lHLcRC8rr) | 3:34 | 2026-03-24 | 2026-05-21 |
 | [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 | 2022-11-23 |
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
 | [砂嵐](https://open.spotify.com/track/3ixlsKtDOXRKPnAr52s2b9) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [砂嵐](https://open.spotify.com/album/1QkoBNKwXejKLtlOFUDVV1) | 3:38 | 2023-04-11 | 2023-04-26 |

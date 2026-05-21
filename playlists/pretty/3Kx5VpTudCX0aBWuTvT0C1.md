@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,694 likes - 50 songs - 3 hr 0 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,695 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 48 | [Mark My Words \(Unplugged\)](https://open.spotify.com/track/0Xb5yKmAHQYCRfCaOE6hcU) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Mark My Words \(Unplugged\)](https://open.spotify.com/album/0BtA0ZoxxmyteDig2q9jHe) | 4:26 |
 | 49 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 |
 | 50 | [Everything's About to Change](https://open.spotify.com/track/2lIr87O5duOJ1OFxiBTBIp) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Begin Over](https://open.spotify.com/album/2EgEJI0qu0Ia0AqYFrlfxZ) | 3:23 |
+| 51 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |
 
-Snapshot ID: `AAACiQ/gpNifbeWB07ikLdzeyBo5TidN`
+Snapshot ID: `AAACigMZJAv9VFbie2WghiawTe7SCi6d`

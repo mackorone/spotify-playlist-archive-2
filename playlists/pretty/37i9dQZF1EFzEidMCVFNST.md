@@ -294,8 +294,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 284 | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/track/2OwVZu7xO2BMnLNKfGM57r) | [Thiago Vas](https://open.spotify.com/artist/2CBClYgflxpLjU1YBatxUn) | [Tu Quer Fuder com Minha Vida?](https://open.spotify.com/album/3KJgaEu0WkqwMprMD0bHdy) | 2:34 |
 | 285 | [Fora da Casinha](https://open.spotify.com/track/0u88kKTK3FOIQGLPfnKFKX) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/34ajoP6G7NZHukMNEi4ByB) | 2:36 |
 | 286 | [Tu Quer Foder Com a Minha Vida](https://open.spotify.com/track/1rhodSEhHPZMq6z9ydgDsh) | [Piseiro de Oz](https://open.spotify.com/artist/0WQk3NVodhyYQ14EINGIlg) | [Tu Quer Foder Com a Minha Vida](https://open.spotify.com/album/0ZGpXkooDu1x35azSJhBWw) | 2:11 |
-| 287 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
-| 288 | [Xeque Mate](https://open.spotify.com/track/1oFZEYp028Mr4dpAkqyqpx) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB) | [Acústico em Campos](https://open.spotify.com/album/1nrzwcI4qj87pevx4bMFPR) | 3:02 |
+| 287 | [Xeque Mate](https://open.spotify.com/track/1oFZEYp028Mr4dpAkqyqpx) | [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB) | [Acústico em Campos](https://open.spotify.com/album/1nrzwcI4qj87pevx4bMFPR) | 3:02 |
+| 288 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 289 | [Sexo Comigo](https://open.spotify.com/track/05YbYhsUJL1cZzTlOsAO1u) | [Diego Souza Pisadinha de Luxo](https://open.spotify.com/artist/2WuvtQ2O6J0tTQDrvs9RFW) | [Vaquejada e Paredão](https://open.spotify.com/album/04dglemm4p1t1y7SKsWA6f) | 2:58 |
 | 290 | [Sofredor Beijoqueiro \- Ao Vivo](https://open.spotify.com/track/4d1HRatu3QGSvGWy9rnIre) | [Luan Kastelan](https://open.spotify.com/artist/4M6lVoZ5HyURV1T3541xNE), [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD) | [Sofredor Beijoqueiro \(Ao Vivo\)](https://open.spotify.com/album/65LucT7ntgrwNV1yH3CLgz) | 2:32 |
 | 291 | [Ex Princesinha](https://open.spotify.com/track/5elo4vUEsYHrWULRFQIrLP) | [Luly](https://open.spotify.com/artist/4bhFDt9GzqXHja4ImVog8L) | [Ex Princesinha](https://open.spotify.com/album/3S0FAwytLjb6VVIfLXkvm6) | 2:48 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 306 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcR8fAAAAAD8z+NH+gXO7jbO5BFHLRDi`
+Snapshot ID: `AcSCHAAAAADTQoOXHHCNeRSmZdep2Ohp`

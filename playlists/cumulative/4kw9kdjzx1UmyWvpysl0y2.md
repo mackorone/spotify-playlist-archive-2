@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,231 songs - 2 day 20 hr 28 min
+1,232 songs - 2 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [SUPERCAR](https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [SUPERCAR](https://open.spotify.com/album/0kUpoKgI8BiH2KqkS8cmnp) | 2:34 | 2026-01-23 | 2026-05-13 |
 | [SUPERCAR \- Euro Bounce Mix](https://open.spotify.com/track/17ARBqx7x6vjDdvG27nzgJ) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [SUPERCAR \(Euro Bounce Mix\)](https://open.spotify.com/album/36aTMYgNTmvp0M3MUDhGkH) | 2:33 | 2026-02-24 |  |
 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 | 2025-06-11 | 2025-09-06 |
+| [SURGE](https://open.spotify.com/track/4ZgjsB7wOo7GYjOVGZtEY5) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [SURGE](https://open.spotify.com/album/0w70TDSfkeqRlCoHEutHZe) | 3:13 | 2026-05-20 |  |
 | [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 | 2025-07-22 |
 | [Surge \- No Mana Remix](https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Surge \(No Mana Remix\)](https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR) | 3:30 | 2025-06-04 | 2025-08-28 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |

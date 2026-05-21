@@ -4,7 +4,7 @@
 
 > Listen to all of your favorite songs from the brand new film, Disney's Lilo & Stitch and more!
 
-48 songs - 2 hr 5 min
+49 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Consider Our Deal Terminated](https://open.spotify.com/track/0mTrcnUChsPV4OxxkoVZJL) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 1:21 | 2025-05-21 |  |
 | [Earth Studies](https://open.spotify.com/track/5ez0GYHdIE1Srt4sfcanU6) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 1:42 | 2025-05-21 |  |
 | [Experiment 626](https://open.spotify.com/track/2skFRCSZVi6fLKgu2hVqzC) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 2:36 | 2025-05-21 |  |
+| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"](https://open.spotify.com/track/1S2wspqYMjUWEUsNkow23w) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"\)](https://open.spotify.com/album/5VT6DktVnly5XCedIRQPIZ) | 2:21 | 2026-05-20 |  |
 | [Good Parents](https://open.spotify.com/track/5tLpZxBPUktbxoSeH5ZONj) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 2:14 | 2025-05-21 |  |
 | [Goodnight Sisters](https://open.spotify.com/track/4sL6htHZjHPWcAQC3wWaQm) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 1:45 | 2025-05-21 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/3pv3kFVXQYZVrXAChG7na3) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Hawaiian Roller Coaster Ride](https://open.spotify.com/album/3Yk55uGnU2uSURBOOpJ3YV) | 2:49 | 2025-06-16 |  |

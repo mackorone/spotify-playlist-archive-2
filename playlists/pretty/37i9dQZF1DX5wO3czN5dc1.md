@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Miči
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,716 likes - 61 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,749 likes - 61 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

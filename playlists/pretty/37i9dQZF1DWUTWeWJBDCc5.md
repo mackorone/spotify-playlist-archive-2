@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,083 likes - 38 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,160 likes - 38 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 37 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 |
 | 38 | [Sleepless](https://open.spotify.com/track/33RxnAlO8IKWwS9pSRRaP5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Sleepless \(from Sold Out On You \(Original Soundtrack\) Part 3\)](https://open.spotify.com/album/1DK8jMJjfVbz34tpXeBYX9) | 3:52 |
 
-Snapshot ID: `AAAAAO+P+nhrknH7RHXfbfkEQfbKHqhP`
+Snapshot ID: `AAAAAANjI5oJ8W3mwng+/Jl6sRtZzBoq`

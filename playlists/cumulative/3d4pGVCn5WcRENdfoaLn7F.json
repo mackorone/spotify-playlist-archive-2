@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Gone Awry",
+        "url": "https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Gone Awry",
+      "url": "https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi"
+    },
+    {
+      "album": {
         "name": "Humano-Alien",
         "url": "https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ"
       },
@@ -3734,6 +3752,24 @@
       "duration_ms": 209973,
       "name": "Nothing As It Seems",
       "url": "https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv"
+    },
+    {
+      "album": {
+        "name": "Desolation and Radiation",
+        "url": "https://open.spotify.com/album/6PcEqIVCtKe9bSZYHD314w"
+      },
+      "artists": [
+        {
+          "name": "DELREI",
+          "url": "https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142191,
+      "name": "Nowhere to Ride",
+      "url": "https://open.spotify.com/track/3Ax6hg04Pp7kauGmqlyuzq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,378 songs - 5 day 18 hr 43 min
+2,380 songs - 5 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Blue Eyes](https://open.spotify.com/track/7fTFbMDIHHesfVEATPyX7e) | [Stef Paglia](https://open.spotify.com/artist/1Zv8l9gDgPcG3ZwTsN9jNb) | [Light & Darkness](https://open.spotify.com/album/1rw7nYTqcS4tD6Z74Ic8hq) | 3:47 | 2024-12-10 |  |
 | [Blue Heels](https://open.spotify.com/track/3lxWP60NqFSOmKUggoZ7fH) | [SAXOFROGO](https://open.spotify.com/artist/1b5mUtK7a2hXLuhK8BS64T) | [Blue Heels](https://open.spotify.com/album/4lkMCAN1n6lwQ1F4eh4d0P) | 2:43 | 2025-12-19 |  |
 | [Blue Remains](https://open.spotify.com/track/0q0C1zBXfvI8hmlSYnHU92) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Blue Remains](https://open.spotify.com/album/7c7rpfOSwalELKta4ODPnN) | 4:37 | 2025-06-23 |  |
+| [Blue tune](https://open.spotify.com/track/0RNQne6RylKVUVhDqYwutN) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [Blue tune](https://open.spotify.com/album/37EchHk4bAJOhrEUMN7NAN) | 5:22 | 2026-05-20 |  |
 | [Blue Wind](https://open.spotify.com/track/6ArK2mdgK0B75CWvjqKi4H) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 3:29 | 2025-10-13 |  |
 | [Bo w Bieszczadach](https://open.spotify.com/track/1UsHwcufibLBONx6HSvDoj) | [Całkiem OK](https://open.spotify.com/artist/3vRdqhM7eqi4z2bCI6C43Z) | [Bo w Bieszczadach](https://open.spotify.com/album/4aepGUDbCy4sBqpIJWvX2c) | 2:48 | 2026-04-03 |  |
 | [Boi](https://open.spotify.com/track/5eFZbEPDVAb4iWdrQP4rjr) | [BoraRoger](https://open.spotify.com/artist/0ZqTAL4oC4tLViGNKPDRqY) | [Boi](https://open.spotify.com/album/1celf5eD3APamMcn2cAb8h) | 2:43 | 2025-08-04 |  |
@@ -2331,6 +2332,7 @@
 | [your fire](https://open.spotify.com/track/6klzgVBx8Xl2X4QwDrzBHQ) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [your fire](https://open.spotify.com/album/5KiH6DcXPPEPNY3A9vGHXk) | 3:04 | 2025-03-04 |  |
 | [Your Fuckin Kids](https://open.spotify.com/track/7zfetYobF9exqba0Dj6XIj) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [Your Fuckin Kids](https://open.spotify.com/album/7AkhNBaG52AIDraipxchq0) | 3:12 | 2024-11-20 |  |
 | [YOUR GIRLFRIEND \- Radio Edit](https://open.spotify.com/track/6Itg9Cxw0CFAZ5XoLfM8kY) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [YOUR GIRLFRIEND](https://open.spotify.com/album/1WcdWXPvFnPQC9geAuTHCS) | 3:46 | 2025-02-05 |  |
+| [Your Last Show](https://open.spotify.com/track/4iuVCdpNTQG7K5LiHWN0XN) | [JM LE COUEDIC](https://open.spotify.com/artist/2wr67doyBJOly96Gi8xv6X), [Larry Magee](https://open.spotify.com/artist/5z0kIziglW9RciMPdgLS6S) | [Your Last Show](https://open.spotify.com/album/6XNAvC8wsZoArV8H560MeT) | 4:00 | 2026-05-20 |  |
 | [Your Love](https://open.spotify.com/track/6CaLyLAsL09Kq77eyukx8o) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [Sing\-Along Songs](https://open.spotify.com/album/44rjvUkproJfXlhdgdMZNH) | 3:08 | 2025-08-12 |  |
 | [Your Love](https://open.spotify.com/track/7qSzW4krAZAlVVPWIyPH1Y) | [Callum Taylor](https://open.spotify.com/artist/72mJsLIdGpsx240NSmmWNf), [Bakerfield](https://open.spotify.com/artist/7mbt1mPofWu8oHOZb0tUf7) | [In The Changes EP](https://open.spotify.com/album/3lzPgtoX2vzsnz80vX4wg3) | 2:50 | 2025-07-09 |  |
 | [Your Love Is Gone](https://open.spotify.com/track/5asUBlLnDicLHP6HHlpXaQ) | [Mr.Tac](https://open.spotify.com/artist/5t3ljcFCQwtUQ3zixhqNN9) | [Klassified Material The MixTape: Chapter 1](https://open.spotify.com/album/0Hg3UarhCezqVqh9kljd7a) | 2:59 | 2025-05-07 |  |

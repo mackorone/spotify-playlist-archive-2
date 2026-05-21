@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ivy Knight",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -5482,10 +5482,28 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 228027,
       "name": "Candy Flip",
       "url": "https://open.spotify.com/track/7FSWfaH7VYM96fQWovWmtn"
+    },
+    {
+      "album": {
+        "name": "Iron Mountain",
+        "url": "https://open.spotify.com/album/7hsyXeWjDTEMxvoWC8qnfH"
+      },
+      "artists": [
+        {
+          "name": "Ivy Knight",
+          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/0ww3RGtM3pYHQpksuXJx3A"
     },
     {
       "album": {
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 354506,
       "name": "Demon in Me",
       "url": "https://open.spotify.com/track/2Oh46gHI8lhRJXrJbvV1IP"
@@ -9478,7 +9496,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 260120,
       "name": "Dreams I've Had",
       "url": "https://open.spotify.com/track/3lWZKgwlETbjSCJXKFeuhB"
@@ -18585,6 +18603,24 @@
     },
     {
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/4HE8gOoQrnR4UoCqzbAnjB"
+      },
+      "artists": [
+        {
+          "name": "Katy Hustwick",
+          "url": "https://open.spotify.com/artist/0apT3Hp1vtLYmOxRMCVWhM"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139108,
+      "name": "January",
+      "url": "https://open.spotify.com/track/6MtohfbiIHPeD8tGB7BFcD"
+    },
+    {
+      "album": {
         "name": "Jenny",
         "url": "https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp"
       },
@@ -26147,6 +26183,24 @@
     },
     {
       "album": {
+        "name": "Pay",
+        "url": "https://open.spotify.com/album/4GYILxpyjFV2PWZkeO0rE0"
+      },
+      "artists": [
+        {
+          "name": "Sterling Gavinski",
+          "url": "https://open.spotify.com/artist/17Ruw3s2qX8baiOxvui0Wj"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109040,
+      "name": "Pay",
+      "url": "https://open.spotify.com/track/6J8dwWgz3yPwuHShXOFiFO"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/6soQV3HPzgMTxvRv0a0FSx"
       },
@@ -27390,7 +27444,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 200746,
       "name": "Rare",
       "url": "https://open.spotify.com/track/2Z42tEaq49iNuQ2jAtVgGs"
@@ -30597,6 +30651,24 @@
     },
     {
       "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/18HjFoDSylWTzyP4xYv8t1"
+      },
+      "artists": [
+        {
+          "name": "Bella Cloud",
+          "url": "https://open.spotify.com/artist/2mj7qy9KkkoZepyZZDnUpj"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1CSwntxad0TOJ0N8wEKpVu"
+    },
+    {
+      "album": {
         "name": "spoiling me",
         "url": "https://open.spotify.com/album/7zZ8oSOHAJyqMBJb3QAvXH"
       },
@@ -31832,7 +31904,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 208346,
       "name": "Swimming In Blood",
       "url": "https://open.spotify.com/track/3DmmwbEuH8kwlT6XdXrzXu"
@@ -35782,6 +35854,24 @@
       "duration_ms": 110322,
       "name": "violet",
       "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
+    },
+    {
+      "album": {
+        "name": "The Crowning",
+        "url": "https://open.spotify.com/album/5RKs56AFtKc48TwoMk6620"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "Virginia Pastoral",
+      "url": "https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc"
     },
     {
       "album": {

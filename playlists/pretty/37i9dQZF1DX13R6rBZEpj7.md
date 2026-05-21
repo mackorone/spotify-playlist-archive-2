@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,780 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,827 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 33 | [Badboy Sound](https://open.spotify.com/track/7sT8kWuG2No88ltkdHnSjC) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Badboy Sound](https://open.spotify.com/album/171953icTQTYTDPCeSeHvM) | 2:18 |
 | 34 | [Bun It Down](https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Bun It Down](https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam) | 2:53 |
 | 35 | [Hit The Ground](https://open.spotify.com/track/658noe7AopzUVafqSR6x61) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Hit The Ground](https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ) | 3:16 |
-| 36 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 |
+| 36 | [No Scrubs](https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [No Scrubs](https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk) | 2:02 |
 | 37 | [Moment \(feat\. Charlotte Plank\)](https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Moment \(feat\. Charlotte Plank\)](https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV) | 2:03 |
-| 38 | [No Scrubs](https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [No Scrubs](https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk) | 2:02 |
+| 38 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 |
 | 39 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 40 | [Take It Underground](https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:05 |
 | 41 | [Pretty & Plump](https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Pretty & Plump](https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3) | 2:24 |

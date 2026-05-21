@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Equivalent",
+        "url": "https://open.spotify.com/album/2dlU18JmLb0Vnyny648nfY"
+      },
+      "artists": [
+        {
+          "name": "Gobaith",
+          "url": "https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211536,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2ydaOy71tSGZIgl3cj7ZAY"
+    },
+    {
+      "album": {
         "name": "Apolitico / Io E Lady G",
         "url": "https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc"
       },

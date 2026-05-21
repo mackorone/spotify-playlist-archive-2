@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 71729,
+  "num_followers": 71829,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAABFvbdF+5yrKtI6GfEHdfKT",
+  "snapshot_id": "aguoAAAAAAC16dvwVEuOOe/xMXELWVHJ",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 239868,
-      "name": "Pick A Place",
-      "url": "https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl"
+      "duration_ms": 195776,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
+      "duration_ms": 239868,
+      "name": "Pick A Place",
+      "url": "https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 195228,
       "name": "They Don\u2019t Make 'Em Like That No More",
       "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rather Be",
         "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 171142,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "She Used to Be Mine (with Riley Green)",
-      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 180866,
       "name": "Ain\u2019t Like I Can Hide It",
       "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "She Used to Be Mine (with Riley Green)",
+      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
     },
     {
       "added_at": null,

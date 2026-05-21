@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Rian Brazil",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "engine heartbreak",
+        "url": "https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125849,
+      "name": "androgynous",
+      "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
+    },
+    {
+      "album": {
         "name": "ANGEL",
         "url": "https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV"
       },
@@ -6498,6 +6516,24 @@
       "duration_ms": 171500,
       "name": "Best Case Girl",
       "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
+    },
+    {
+      "album": {
+        "name": "BEST FRIEND",
+        "url": "https://open.spotify.com/album/4XT24ABR707MaW74Ap0XqK"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141383,
+      "name": "BEST FRIEND",
+      "url": "https://open.spotify.com/track/6uC01mhcVUqMZCmz0czKIn"
     },
     {
       "album": {
@@ -10108,7 +10144,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 167500,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7"
@@ -10664,6 +10700,24 @@
       "duration_ms": 197331,
       "name": "Cantonese Dream",
       "url": "https://open.spotify.com/track/0DVgrGbPNkawnQMACpmuvQ"
+    },
+    {
+      "album": {
+        "name": "Can't Be Friends",
+        "url": "https://open.spotify.com/album/3SfxPR1KPUmrtAda5BXuYg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Spirit",
+          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204985,
+      "name": "Can\u2019t Be Friends",
+      "url": "https://open.spotify.com/track/2EVMWA702ony5lIXv6zqOb"
     },
     {
       "album": {
@@ -24426,7 +24480,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 215760,
       "name": "Ground Kiss",
       "url": "https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8"
@@ -32588,7 +32642,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
@@ -34857,6 +34911,24 @@
     },
     {
       "album": {
+        "name": "Like It Was Before",
+        "url": "https://open.spotify.com/album/18tolLGoJPOlfjCCRtHV21"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Loor",
+          "url": "https://open.spotify.com/artist/4kJvNJK7Q9jo130THvUnFZ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Like It Was Before",
+      "url": "https://open.spotify.com/track/1PAlK7pZ3VQi5aQau400W4"
+    },
+    {
+      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/2iMeG6pm1Wh9axgVyLZj38"
       },
@@ -36364,7 +36436,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 152571,
       "name": "Love",
       "url": "https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL"
@@ -45583,6 +45655,24 @@
     },
     {
       "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
+      "album": {
         "name": "PATH",
         "url": "https://open.spotify.com/album/0i8DKpAIFCSc53BKOuxn57"
       },
@@ -48900,7 +48990,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 222682,
       "name": "Reno Moon",
       "url": "https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE"
@@ -53442,7 +53532,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 199586,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
@@ -54188,6 +54278,24 @@
       "duration_ms": 198000,
       "name": "Soft Words",
       "url": "https://open.spotify.com/track/5s4jURjJx4bEPAq8FuZrtO"
+    },
+    {
+      "album": {
+        "name": "Dust & Feathers",
+        "url": "https://open.spotify.com/album/6KfdxTS3YywzRVhnIfgV1i"
+      },
+      "artists": [
+        {
+          "name": "toast",
+          "url": "https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Softwing",
+      "url": "https://open.spotify.com/track/5JIaoy9tHYQCMR0rHpunsN"
     },
     {
       "album": {

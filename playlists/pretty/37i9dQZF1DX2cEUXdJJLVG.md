@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Hand\-picked grooves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,573 likes - 105 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,575 likes - 105 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

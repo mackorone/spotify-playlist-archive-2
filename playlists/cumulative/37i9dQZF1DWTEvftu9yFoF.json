@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187221,
+      "name": "The Mandalorian and Grogu",
+      "url": "https://open.spotify.com/track/2soMoQzD2HlsVmys7Se3Pq"
+    },
+    {
+      "album": {
         "name": "The Mandalorian and Grogu (Boys Noize Remix) [From \"Star Wars: The Mandalorian and Grogu\"]",
         "url": "https://open.spotify.com/album/3fpVPuogIVyXmsQa3c5Gpu"
       },

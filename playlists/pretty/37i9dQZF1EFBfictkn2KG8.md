@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 30 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
 | 31 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 |
 | 32 | [Life's So Hard \(Sometimes\)](https://open.spotify.com/track/0SvYth9RdqCo7RBvBInKLU) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life's So Hard \(Sometimes\)](https://open.spotify.com/album/5V7D6uTmHqywHAQ8SZkZna) | 2:30 |
-| 33 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
-| 34 | [Higher Love](https://open.spotify.com/track/2TFwKzcRtRJ6B4RVmQCvXG) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Higher Love](https://open.spotify.com/album/0Ez6wWM4SrNa6IdcIw92Eg) | 2:37 |
+| 33 | [Higher Love](https://open.spotify.com/track/2TFwKzcRtRJ6B4RVmQCvXG) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Higher Love](https://open.spotify.com/album/0Ez6wWM4SrNa6IdcIw92Eg) | 2:37 |
+| 34 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
 | 35 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
 | 36 | [Boem Boem Boem](https://open.spotify.com/track/2qDXVsCG4beqcFJouEQ2t6) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/6lywEjdlBEcE20xaoM1Eop) | 2:12 |
 | 37 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 45 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 46 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcR8fAAAAAClLfc2MqVbpwXNjxUF/Yuw`
+Snapshot ID: `AcSCHAAAAABRiA8l6mtJ2vt5Pm4Jvkbj`

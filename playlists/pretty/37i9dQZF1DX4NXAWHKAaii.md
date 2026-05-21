@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,487 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,499 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 3 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
 | 4 | [Saona](https://open.spotify.com/track/4d5LWXmnl0vJtz84GsTR8G) | [Vanjee](https://open.spotify.com/artist/0LkH5Wbg6CH9TTfVsr7GGe) | [Saona](https://open.spotify.com/album/5Ude4MgCfk3yhbWIePwzb9) | 3:51 |
 | 5 | [Prado's Revenge](https://open.spotify.com/track/3tgu7vhxt0otqML0dGjCJU) | [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [ĀMIRĀ](https://open.spotify.com/artist/5Ms5GxZtaH9xybxYYBBkGX) | [Prado's Revenge](https://open.spotify.com/album/68EKPZ8GkRbJGFvKShroUd) | 3:46 |
-| 6 | [Tambor \- PAUZA Bata Remix](https://open.spotify.com/track/6yokPi3hMUUme3Pa4eWpWo) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Tambor \(PAUZA Bata Remix\)](https://open.spotify.com/album/7168DQ3zT5JHeuVG9mPnyZ) | 3:27 |
+| 6 | [Tambor \- PAUZA Bata Remix](https://open.spotify.com/track/6yokPi3hMUUme3Pa4eWpWo) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambor \(PAUZA Bata Remix\)](https://open.spotify.com/album/7168DQ3zT5JHeuVG9mPnyZ) | 3:27 |
 | 7 | [Yoruba Riddim](https://open.spotify.com/track/0TrVS90gLpKq2okJ66AEfz) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [Yoruba Riddim, Log On](https://open.spotify.com/album/144aXOCHsVHC2hfohrKNmz) | 3:48 |
 | 8 | [Maboko](https://open.spotify.com/track/5tNzdsCQbxjo632rWVoZuq) | [Alejandro Alca](https://open.spotify.com/artist/3O3rpyWJDQDFthAQ63Mhly) | [Maboko](https://open.spotify.com/album/1OAcOmAhcTSbI9JwEHIzsy) | 3:24 |
 | 9 | [Mirror Dance](https://open.spotify.com/track/45ls6TMum6GwAFIsstwJJ6) | [Afefe Iku](https://open.spotify.com/artist/1wyvNzqxNicz6tQP1JzOhu) | [Artifacts Of Pottery Vessels](https://open.spotify.com/album/2CV7taZek4X8MT71Gz91BD) | 8:33 |

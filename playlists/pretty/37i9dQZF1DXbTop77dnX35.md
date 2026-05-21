@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN & Sarz, Johnny Drille,  Famous Pluto,  Kunmie, Didi B, Jorja Smith and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,008 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,088 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 213002,
+  "num_followers": 213012,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8"
     },
     {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Lost Transmissions From the Off-World Territories",
@@ -1119,6 +1103,22 @@
       "duration_ms": 237036,
       "name": "Fire Walk",
       "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
+    },
+    {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Eternal Night",
-        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
       "artists": [
         {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
         }
       ],
-      "duration_ms": 435004,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1287,34 +1271,34 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
       },
       "artists": [
         {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
         }
       ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
     },
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+        "name": "Eternal Night",
+        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
         }
       ],
-      "duration_ms": 292480,
-      "name": "Bergsbotn I",
-      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
+      "duration_ms": 435004,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1335,6 +1319,22 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Bergsbotn I",
+      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Haust",
-        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
       },
       "artists": [
         {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
         }
       ],
-      "duration_ms": 301007,
-      "name": "Haust",
-      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Return Forever",
-        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
       },
       "artists": [
         {
-          "name": "Innere Tueren",
-          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
         }
       ],
-      "duration_ms": 281228,
-      "name": "Return Forever",
-      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1455,18 +1439,34 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+        "name": "Haust",
+        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
       },
       "artists": [
         {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
         }
       ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
+      "duration_ms": 301007,
+      "name": "Haust",
+      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Return Forever",
+        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
+      },
+      "artists": [
+        {
+          "name": "Innere Tueren",
+          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
+        }
+      ],
+      "duration_ms": 281228,
+      "name": "Return Forever",
+      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Sketches of Nowhere",
         "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/555B251cduEoLSwUfspLxF"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 282500,
       "name": "On",
       "url": "https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Soundtracks: Capri-Revolution",
+        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Licidana",
+      "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1601,6 +1617,22 @@
       "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
     },
     {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Escape to Hott Mountain",
+        "url": "https://open.spotify.com/album/5vFQH1Xtsuu72O8Hc5koNA"
+      },
+      "artists": [
+        {
+          "name": "HOTT MT",
+          "url": "https://open.spotify.com/artist/7s8woKsl1IGhU7G7cNUki7"
+        }
+      ],
+      "duration_ms": 297186,
+      "name": "Goblin Breath",
+      "url": "https://open.spotify.com/track/5wxXwf0kfqZs3tc4kCNaSE"
+    },
+    {
       "added_at": "2023-10-10 02:23:30",
       "album": {
         "name": "how will we get back to life again?",
@@ -1619,54 +1651,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soundtracks: Capri-Revolution",
-        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
+        "name": "Paisajes en Saturno",
+        "url": "https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1"
       },
       "artists": [
         {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+          "name": "Chema Macazaga",
+          "url": "https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN"
         }
       ],
-      "duration_ms": 195317,
-      "name": "Licidana",
-      "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Escape to Hott Mountain",
-        "url": "https://open.spotify.com/album/5vFQH1Xtsuu72O8Hc5koNA"
-      },
-      "artists": [
-        {
-          "name": "HOTT MT",
-          "url": "https://open.spotify.com/artist/7s8woKsl1IGhU7G7cNUki7"
-        }
-      ],
-      "duration_ms": 297186,
-      "name": "Goblin Breath",
-      "url": "https://open.spotify.com/track/5wxXwf0kfqZs3tc4kCNaSE"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Murmur (Machinefabriek Remix)",
-        "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
-      },
-      "artists": [
-        {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
-        },
-        {
-          "name": "Machinefabriek",
-          "url": "https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Murmur - Machinefabriek Remix",
-      "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
+      "duration_ms": 384000,
+      "name": "Tit\u00e1n",
+      "url": "https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz"
     },
     {
       "added_at": "2023-04-21 14:41:23",

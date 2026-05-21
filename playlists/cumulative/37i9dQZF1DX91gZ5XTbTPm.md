@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: LUCKI
 
-1,574 songs - 2 day 23 hr 42 min
+1,575 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [ROCKSTAR LIFESTYLE 2](https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI) | 2:07 | 2024-12-06 | 2026-02-21 |
 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 | 2024-03-01 | 2024-04-13 |
 | [Jay & Twan 1](https://open.spotify.com/track/3gpV8e51dn62yi8lXBfpDO) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Jay & Twan 1](https://open.spotify.com/album/4oTxLAf3ejQmyhdV02VrXR) | 2:53 | 2022-09-23 | 2022-12-17 |
+| [Jefferson Nights](https://open.spotify.com/track/6LNn1tpg38EarjDo8X2xST) | [Negüs Fresh](https://open.spotify.com/artist/1mUe0lsF8iTeUSZExkgvNa), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Still Rising](https://open.spotify.com/album/1AJHBRgeYQzqmWEuGCGzUp) | 2:29 | 2026-05-20 |  |
 | [JELLO](https://open.spotify.com/track/2fectb6dIVnqUfA28UHTgW) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [MARRY MACC](https://open.spotify.com/album/4VrpcmKJosEF3mF2G9uGd3) | 2:11 | 2025-10-03 | 2025-10-18 |
 | [Jesus](https://open.spotify.com/track/0GyQcn9corjMupJYLySWbi) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:49 | 2025-04-25 | 2025-05-03 |
 | [Jinkies](https://open.spotify.com/track/3A1H6zTGcqeB6J7j2y2Vf7) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Jinkies](https://open.spotify.com/album/0stx8HeYh6MU7inT02l4Dg) | 2:26 | 2025-02-28 | 2025-04-19 |

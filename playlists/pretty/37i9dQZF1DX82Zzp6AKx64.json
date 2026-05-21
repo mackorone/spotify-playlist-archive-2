@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1236256,
+  "num_followers": 1236331,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Cherry Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "Black Rain (Expanded Edition)",
         "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 295960,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/0g0WdBxrrOxOrowa9PDF9j"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
-        "name": "Cherry Pie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF"
+        "name": "Live and Nude",
+        "url": "https://open.spotify.com/album/2jbAmXbxUWqXsgfWPNC8Jr"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Danger Danger",
+          "url": "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7m3sxdDtVDitSxPywPi8H8"
+      "duration_ms": 322266,
+      "name": "I Still Think About You",
+      "url": "https://open.spotify.com/track/6lptBl2N4TFnMMcYlJ3os5"
     }
   ],
   "unique_name": "Rock Power Ballads",

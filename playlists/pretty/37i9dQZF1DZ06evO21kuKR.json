@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98482,
+  "num_followers": 98484,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAACW5MiIV3Vx7onb1811ETYa",
+  "snapshot_id": "aguoAAAAAAAx+TD0AIOpDheJPIUXMBOd",
   "tracks": [
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool On 'Em",
-        "url": "https://open.spotify.com/album/4lV7yp1gttYVbx14IN91H7"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
       "artists": [
         {
-          "name": "Boss Bougatti",
-          "url": "https://open.spotify.com/artist/1swjQvROrPVD28qzkvgEFr"
-        },
-        {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Cool On 'Em",
-      "url": "https://open.spotify.com/track/7mlL25zqsv4uo6qTAUj0vs"
+      "duration_ms": 142451,
+      "name": "Keep It Low (feat. Future)",
+      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

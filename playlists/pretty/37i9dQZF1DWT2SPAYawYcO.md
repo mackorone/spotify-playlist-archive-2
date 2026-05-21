@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from: Drake, Genesis Owusu, The Avalanches, Spacey Jane, Gracie Abrams, GIVÉON, Vacations + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,141 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,139 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

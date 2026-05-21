@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,896 songs - 5 day 8 hr 46 min
+1,897 songs - 5 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Dead End Thrills](https://open.spotify.com/track/2Xmit6pfemEgNkcV9okUzH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-23 | 2020-07-03 |
 | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/track/1Zeu77nt6pniRJ1eWZYMkJ) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/album/5PSDGMf7lrY58jrQjPkiMG) | 3:16 | 2020-05-22 | 2020-07-03 |
 | [Deep Blue](https://open.spotify.com/track/7h46FIb7QrsLuhfGmmK0jW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave005](https://open.spotify.com/album/493PElg9mW5MoF3elK9iaC) | 2:22 | 2020-08-06 | 2020-10-09 |
+| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-05-08 |  |
 | [Deep Congo \- Original Mix](https://open.spotify.com/track/3fVE0KhW3QP5J3HKbD5j29) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [Deep Congo](https://open.spotify.com/album/6F5qy7qskbnsWW0XimIg4S) | 5:56 | 2020-05-22 | 2020-07-03 |
 | [Deep Of The Night](https://open.spotify.com/track/6CFrKYk3a0A8qa9knsRhaS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Deep Of The Night](https://open.spotify.com/album/5pqSzYaGL8sxMzP2RKHlHp) | 3:21 | 2020-05-18 | 2020-07-03 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-02-17 | 2021-09-04 |
@@ -1765,7 +1766,7 @@
 | [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 | 2021-08-13 | 2022-12-29 |
 | [Up All Night \- Radio Edit](https://open.spotify.com/track/60OOnXwxebQ4nysceVgQZX) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP) | [Up All Night](https://open.spotify.com/album/56KR952n5srjERpKf7Or7N) | 3:02 | 2020-05-22 | 2020-07-03 |
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-02-17 | 2023-04-29 |
-| [Upstate Miracle](https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Upstate Miracle](https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2) | 3:57 | 2025-12-19 |  |
+| [Upstate Miracle](https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Upstate Miracle](https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2) | 3:57 | 2025-12-19 | 2026-05-21 |
 | [Us](https://open.spotify.com/track/6R9O2TUoXnWuIIZ5HK3J6T) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/606qe2JEf9dndELUHpLx0F) | 4:56 | 2020-04-12 | 2020-10-09 |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-07-08 | 2022-12-24 |
 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-18 | 2025-10-26 |

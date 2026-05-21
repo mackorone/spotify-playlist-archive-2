@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 246779,
+  "num_followers": 246807,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 257921,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "iShal",
         "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
-      },
-      "artists": [
-        {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Retro Fete Riddim",
         "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 152624,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 87086,
       "name": "Sit on My Face",
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
       "artists": [
         {
-          "name": "Certified Sampson",
-          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
         }
       ],
-      "duration_ms": 204223,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
       },
       "artists": [
         {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+          "name": "Certified Sampson",
+          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
         }
       ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+      "duration_ms": 204223,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 201818,
       "name": "Origins",
       "url": "https://open.spotify.com/track/5YxAC8B9ZqMAar0WLH3m1F"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-04-23 15:16:37",

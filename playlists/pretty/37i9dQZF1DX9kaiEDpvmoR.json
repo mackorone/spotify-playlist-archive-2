@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93878,
+  "num_followers": 93879,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/1GqD0bu8057H5RIbVuQEui"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 173000,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/4bm0u48rIv7Ezj25lEkevq"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -643,8 +643,8 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
-        "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
+        "name": "G\u00f6teborg sjunger Alf",
+        "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
       },
       "artists": [
         {
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
         },
         {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 197454,
-      "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
-      "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
+      "duration_ms": 227246,
+      "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
+      "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -727,8 +727,8 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "G\u00f6teborg sjunger Alf",
-        "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
+        "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+        "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
       "artists": [
         {
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
         },
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
         }
       ],
-      "duration_ms": 227246,
-      "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
-      "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
+      "duration_ms": 197454,
+      "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+      "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Gullmar Gospel",
-        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
+        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
+        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
       },
       "artists": [
         {
-          "name": "Joel Alme",
-          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
         }
       ],
-      "duration_ms": 272575,
-      "name": "Gullmar Gospel",
-      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
+      "duration_ms": 264146,
+      "name": "Det b\u00e4sta av allt - Live",
+      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
-        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
+        "name": "Gullmar Gospel",
+        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
         }
       ],
-      "duration_ms": 264146,
-      "name": "Det b\u00e4sta av allt - Live",
-      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
+      "duration_ms": 272575,
+      "name": "Gullmar Gospel",
+      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -987,6 +987,38 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
+        "name": "Hj\u00e4rnsp\u00f6ken",
+        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 170924,
+      "name": "Hj\u00e4rnsp\u00f6ken",
+      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
+        "name": "I Rock My Country",
+        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I Rock My Country",
+      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "I Rock My Country",
-        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I Rock My Country",
-      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -1067,38 +1083,6 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
-        "name": "Last To Know",
-        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Last To Know",
-      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
-        "name": "Dansa",
-        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -1119,18 +1103,34 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Hj\u00e4rnsp\u00f6ken",
-        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
+        "name": "Dansa",
+        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
       },
       "artists": [
         {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 170924,
-      "name": "Hj\u00e4rnsp\u00f6ken",
-      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
+      "duration_ms": 184145,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
+        "name": "Last To Know",
+        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Last To Know",
+      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
+        "name": "Todas nacemos con alas",
+        "url": "https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 184669,
+      "name": "Todas nacemos con alas",
+      "url": "https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
         "name": "Fredagskv\u00e4llsblues",
         "url": "https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 188488,
       "name": "Just to Make You Laugh",
       "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
-        "name": "Todas nacemos con alas",
-        "url": "https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 184669,
-      "name": "Todas nacemos con alas",
-      "url": "https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3"
     },
     {
       "added_at": "2026-05-14 22:00:37",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-05-14 22:00:37",
+      "album": {
         "name": "Human (feat. Jesse & Joy)",
         "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
       },
@@ -1447,58 +1463,34 @@
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+        "name": "Sunday Love",
+        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+      "duration_ms": 316373,
+      "name": "Sunday Love",
+      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": "2026-05-14 22:00:37",
       "album": {
-        "name": "Show Me Your Heart",
-        "url": "https://open.spotify.com/album/1i9Gi892Z4rD4GCKr0Dadp"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
         }
       ],
-      "duration_ms": 197417,
-      "name": "Show Me Your Heart",
-      "url": "https://open.spotify.com/track/4Fe0BVxBWsHG8LfHCYq6kp"
-    },
-    {
-      "added_at": "2026-05-14 22:00:37",
-      "album": {
-        "name": "St\u00f6rst av allt",
-        "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        },
-        {
-          "name": "Mauro Scocco",
-          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
-        }
-      ],
-      "duration_ms": 195139,
-      "name": "St\u00f6rst av allt",
-      "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,301 likes - 146 songs - 8 hr 46 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,303 likes - 149 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 144 | [Footsteps in Moon Sand](https://open.spotify.com/track/5xc9tORGvv0p32ePbB6DtT) | [Freddie](https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT) | [Footsteps in Moon Sand](https://open.spotify.com/album/7E0LkgNgU6T4if28OAtM85) | 3:59 |
 | 145 | [Under Your Thumb](https://open.spotify.com/track/2tdwc718YNZdi7lfH3JkB9) | [Ella Young](https://open.spotify.com/artist/2C09II9BvkcPnwYRq8FiJY) | [Under Your Thumb](https://open.spotify.com/album/2PKqwoPC4RGezFH4Hmq4XO) | 4:45 |
 | 146 | [I Killed Him](https://open.spotify.com/track/6MmHrD7kOpM34mVm646fBe) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I Killed Him](https://open.spotify.com/album/0bWpQiPjo7Hw3wxIIstmYD) | 4:04 |
+| 147 | [Retorno do Dito Pródigo](https://open.spotify.com/track/2D6oww1SkDRuGu88srxGFT) | [Lóca](https://open.spotify.com/artist/2ECfxEdcFBvof4Ny6PCwBY) | [Retorno do Dito Pródigo](https://open.spotify.com/album/5oEtMWsJPd3s939btoWTuc) | 4:05 |
+| 148 | [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 |
+| 149 | [IL MALE NON TI PASSA](https://open.spotify.com/track/48QrKRIFZM9LCaOi1N2M7v) | [Blue Houze](https://open.spotify.com/artist/1J8h5KYRqthEHV2gVwm43q), [Mid Case](https://open.spotify.com/artist/3qCgJyDMPuDYvhbjJY7O5p) | [IL MALE NON TI PASSA](https://open.spotify.com/album/0LyOyMZsN6UNNdm9jFEiYE) | 2:48 |
 
-Snapshot ID: `AAAUOU3WukQ8N3pt1MaBH2HaMieVy5aG`
+Snapshot ID: `AAAUPNOPtIBzMVBwCUKC1sGXId4Rb8a3`

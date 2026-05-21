@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,306 songs - 5 day 16 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,315 songs - 5 day 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2314,5 +2314,14 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2304 | [Hasta el Más Allá](https://open.spotify.com/track/3gSDO1m8SzYqFImINjHrFe) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Hasta el Más Allá](https://open.spotify.com/album/2wxFNeFCKuXgmFeWUcyhnZ) | 2:53 |
 | 2305 | [Girl Like You](https://open.spotify.com/track/5IbE8DrxRrAXqqUD6izA9I) | [Knixxen Out](https://open.spotify.com/artist/6HZX9q925tlM4XUXZDxlIr) | [Girl Like You](https://open.spotify.com/album/5WVQxQdccXjIFIyGg8M5Ug) | 3:24 |
 | 2306 | [Stay 2 \(Closer\)](https://open.spotify.com/track/6gbnhvUml4osaxAfTwZ1ZQ) | [Lex Rush](https://open.spotify.com/artist/0XtrPIfMfSwzQsh1pEu345), [Becky Krill](https://open.spotify.com/artist/5nxZIgo7DavlytCT1lfCxU) | [Stay 2 \(Closer\)](https://open.spotify.com/album/1ifEU2M2ntGIsU433G7GyT) | 4:21 |
+| 2307 | [FLY](https://open.spotify.com/track/76PP4tJZm20WUJN17uYBYK) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Transcendence](https://open.spotify.com/album/7d8llUlhufyiBet1VBCS4M) | 2:50 |
+| 2308 | [Coniglietto DJ](https://open.spotify.com/track/2UpgpsWgYLlUiciZKbkOXq) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:40 |
+| 2309 | [Coffee in Barcelona](https://open.spotify.com/track/5ZWnfae4injvE3rLnwSr6L) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:48 |
+| 2310 | [Riding Dinamite](https://open.spotify.com/track/5tJNvlN9W3yH6xDAad0ilT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:36 |
+| 2311 | [Tuko Pamoja](https://open.spotify.com/track/4Gw3DF7RiAPUT9Cm4s9Lt4) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:57 |
+| 2312 | [Baila Sin Final](https://open.spotify.com/track/0KFLZJzXhlWkSANqamX4MU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:08 |
+| 2313 | [Moonlight of Muirin](https://open.spotify.com/track/29FwHGxW44dMicxBOskmKO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:13 |
+| 2314 | [Fire on the Black Flags](https://open.spotify.com/track/2BZvjrW4tUWtkdMzSgS6Ua) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:49 |
+| 2315 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 |
 
-Snapshot ID: `AAAJrc1hiPYxKp97lrEou36HmzWRG5oK`
+Snapshot ID: `AAAJt5GSwJHbwWPJGM3TSoG4RfFYnlJL`

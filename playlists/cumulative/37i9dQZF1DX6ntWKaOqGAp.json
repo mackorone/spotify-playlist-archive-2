@@ -10759,6 +10759,24 @@
     },
     {
       "album": {
+        "name": "YELLOW SUN -THE BEST-",
+        "url": "https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g"
+      },
+      "artists": [
+        {
+          "name": "SpecialThanks",
+          "url": "https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228688,
+      "name": "HELLO COLORFUL",
+      "url": "https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn"
+    },
+    {
+      "album": {
         "name": "hellsong. (let it in)",
         "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
       },
@@ -28504,24 +28522,6 @@
       "duration_ms": 247605,
       "name": "Touring",
       "url": "https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I"
-    },
-    {
-      "album": {
-        "name": "YELLOW SUN -THE BEST-",
-        "url": "https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g"
-      },
-      "artists": [
-        {
-          "name": "SpecialThanks",
-          "url": "https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn"
     },
     {
       "album": {

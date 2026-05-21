@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIbI3w2M8GcSnBtnCjqAP9YR4Lsn",
+  "snapshot_id": "AAAAAAn134mEMd3iugNV14jrgxlbSGZV",
   "tracks": [
     {
       "added_at": "2026-05-06 08:07:16",
@@ -153,6 +153,38 @@
       "url": "https://open.spotify.com/track/6RkQ3cIvU6QjVnnTVQedYL"
     },
     {
+      "added_at": "2026-05-20 10:51:31",
+      "album": {
+        "name": "Pipiolas",
+        "url": "https://open.spotify.com/album/0mqJ9htA1wLWFzEzwXSOgs"
+      },
+      "artists": [
+        {
+          "name": "Pipiolas",
+          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
+        }
+      ],
+      "duration_ms": 174816,
+      "name": "Ahora que...",
+      "url": "https://open.spotify.com/track/6eEUOPQx0bvgYYcazkEhS5"
+    },
+    {
+      "added_at": "2026-05-20 10:51:31",
+      "album": {
+        "name": "MAKTUB",
+        "url": "https://open.spotify.com/album/28FVbzNNl06w1Vgx35RQ4N"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Najmi",
+      "url": "https://open.spotify.com/track/0G6GjeyJEvInceWmj9LzQ1"
+    },
+    {
       "added_at": "2026-05-06 08:07:16",
       "album": {
         "name": "Ponte a trabajar",
@@ -249,6 +281,38 @@
       "url": "https://open.spotify.com/track/4WjiBeHpFKHJnqvAJLdcCb"
     },
     {
+      "added_at": "2026-05-20 10:51:31",
+      "album": {
+        "name": "amiamiga",
+        "url": "https://open.spotify.com/album/6fYd6uYVpBlG3VxHCw2yeu"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "amiamiga",
+      "url": "https://open.spotify.com/track/6cbO6iQT5WH6ZMjPmSnwjx"
+    },
+    {
+      "added_at": "2026-05-20 10:51:31",
+      "album": {
+        "name": "In Illo Tempore (\"La tradici\u00f3n no es la adoraci\u00f3n de las cenizas, sino la preservaci\u00f3n del fuego\" Gustav Mahler)",
+        "url": "https://open.spotify.com/album/2JtwIzWr67y3Ui09U53LNr"
+      },
+      "artists": [
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        }
+      ],
+      "duration_ms": 362413,
+      "name": "Macrozoma",
+      "url": "https://open.spotify.com/track/0bPbMshYHdKd3UO8sXuny7"
+    },
+    {
       "added_at": "2026-05-06 08:07:16",
       "album": {
         "name": "Yo quiero un affaire",
@@ -279,6 +343,22 @@
       "duration_ms": 158362,
       "name": "TERT\u00daLIA",
       "url": "https://open.spotify.com/track/5MRAABYrkqqzgDsjX5Lt3y"
+    },
+    {
+      "added_at": "2026-05-20 10:51:31",
+      "album": {
+        "name": "quenomefaltanasiest\u00e1st\u00fa",
+        "url": "https://open.spotify.com/album/4Tt8UUARGhjX5EaLTgbzeC"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "quenomefaltanasiest\u00e1st\u00fa",
+      "url": "https://open.spotify.com/track/7LNoPHh5LIrUqDgC6cni1k"
     },
     {
       "added_at": "2026-05-06 08:07:16",

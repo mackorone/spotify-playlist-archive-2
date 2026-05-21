@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 107,835 likes - 226 songs - 9 hr 43 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 107,900 likes - 226 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 31 | [So Cold](https://open.spotify.com/track/6YtSIhdng69oDhU1s9o5f8) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [NOAM](https://open.spotify.com/artist/3SCz4vk2MoqDn9KvOYMU0r), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Tide Lane](https://open.spotify.com/artist/6JyyVA8tmbFYQs0MlHPg9B) | [So Cold](https://open.spotify.com/album/2HNWdNSESoeYxaQrC0twBB) | 2:50 |
 | 32 | [Drowning](https://open.spotify.com/track/1jdEOZyXjhqP1ItM5kfH2K) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Drowning](https://open.spotify.com/album/763wUsDOzhJkQbZM6MEqqY) | 2:21 |
 | 33 | [Leaving Home](https://open.spotify.com/track/4ZfYEY5l2pttAbOu9vSnyV) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT) | [Leaving Home](https://open.spotify.com/album/3pFuUIce1k3atSFx7qwbjh) | 2:19 |
-| 34 | [Man I need](https://open.spotify.com/track/0RJ1VlknsKw7WBOJRbfyXC) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [Man I need](https://open.spotify.com/album/5bjCkq7l1pLJE8J4NPV89B) | 2:52 |
+| 34 | [Man I Need](https://open.spotify.com/track/0RJ1VlknsKw7WBOJRbfyXC) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [Man I Need](https://open.spotify.com/album/5bjCkq7l1pLJE8J4NPV89B) | 2:52 |
 | 35 | [Something Real](https://open.spotify.com/track/0wCFs6PrNk1oGrqnJ4a1Bu) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Something Real](https://open.spotify.com/album/789OHGf8yuNopwNvDsxWO1) | 2:08 |
 | 36 | [Sunshine Reggae](https://open.spotify.com/track/7icCATbt1XrOTKtwcgGYbY) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD) | [Sunshine Reggae](https://open.spotify.com/album/17hMGyBxw6YbJhye2YFve3) | 2:20 |
 | 37 | [Hold Me Closer](https://open.spotify.com/track/4P0tt15aEBAFWf47zH3dnc) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Hold Me Closer](https://open.spotify.com/album/1cI75wjZllvBLaHnIPY8Ui) | 2:13 |

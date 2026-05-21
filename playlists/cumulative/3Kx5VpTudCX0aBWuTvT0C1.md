@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-135 songs - 7 hr 52 min
+136 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Este es un camino largo](https://open.spotify.com/track/7s5d62x6Oci6SOP4sBHJTe) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:43 | 2025-11-06 | 2025-12-09 |
 | [Everybody Needs Love](https://open.spotify.com/track/1VGurATUB0A5j4OdVS3Kzi) | [Lewdale Canyon](https://open.spotify.com/artist/5vYKvlJefPcoPfJOYy6iCH) | [Everybody Needs Love](https://open.spotify.com/album/72HSq0tAxKHm86zBerZOgB) | 4:09 | 2026-03-22 |  |
 | [Everything's About to Change](https://open.spotify.com/track/2lIr87O5duOJ1OFxiBTBIp) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Begin Over](https://open.spotify.com/album/2EgEJI0qu0Ia0AqYFrlfxZ) | 3:23 | 2026-05-11 |  |
+| [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-05-20 |  |
 | [Famine and Feast](https://open.spotify.com/track/4Y6v961Crd6aU2MMP9kDyc) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [Famine and Feast](https://open.spotify.com/album/2Tq9LhcUDfh6WOb2heOnfk) | 2:47 | 2025-11-15 | 2026-03-15 |
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-03 | 2025-12-09 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-11-30 |  |

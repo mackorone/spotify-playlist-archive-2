@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 64474,
+  "num_followers": 64485,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAABhsbYiW7rFJ7uqeiJqS2nc",
+  "snapshot_id": "aguoAAAAAAD9Zinpi5cI4w67rdnTbA2b",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 138760,
       "name": "De Buen Perfil",
       "url": "https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
+        "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "A Ver A Qu\u00e9 Horas - En Vivo",
+      "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed No Se Termina (En Vivo)",
         "url": "https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
-        "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "A Ver A Qu\u00e9 Horas - En Vivo",
-      "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 136213,
-      "name": "El Pistolero - En Vivo",
-      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
+      "duration_ms": 154040,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 154040,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "added_at": null,

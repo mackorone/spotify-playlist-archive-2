@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Güneş Özgeç
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,329 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,323 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,11 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 76 | [Oldu](https://open.spotify.com/track/1ADI5y1FuXZhs8ZDyZWbN7) | [Beyza Bakırcı](https://open.spotify.com/artist/0Pe3rXGT57dvLw2KugaXUD) | [Oldu](https://open.spotify.com/album/70MyEjjSkH0yGDLQYEv7Y8) | 2:23 |
 | 77 | [Arkada kalana ne oldu?](https://open.spotify.com/track/4pgTzexuRZ0WJSF6zzUkLJ) | [Ceren](https://open.spotify.com/artist/3EAHZyEz1r3sfKu92wBqI6) | [Arkada kalana ne oldu?](https://open.spotify.com/album/2eEkD8SgmJ7aN1YzhSvDzA) | 3:13 |
 | 78 | [Insan Ektik Tarlalara](https://open.spotify.com/track/65b1mrX5qW6fYPkmIYmzE1) | [Gülperi Öztürk](https://open.spotify.com/artist/1FxrEOJrbDV9suzQgMpqQC) | [Insan Ektik Tarlalara](https://open.spotify.com/album/4Yu0w2jMNOcSeQfl99FEOt) | 4:24 |
-| 79 | [Olsun](https://open.spotify.com/track/6DtdsyF7tCuyIsAZdb6LCi) | [İlkay Sipahi](https://open.spotify.com/artist/6OWtrq8Ww8e7VHN6zQO4ok) | [Olsun](https://open.spotify.com/album/2ZpGMU8Z1jjt5tA3FazZ8G) | 3:05 |
-| 80 | [YAZ GELDİ](https://open.spotify.com/track/5MrB5mbSz3uI2e3aGt9Xca) | [İpek Önder](https://open.spotify.com/artist/3CrRuwT5L67JJH9RW8dRuP) | [YAZ GELDİ](https://open.spotify.com/album/3ROV376I6uz1L975FjxJSS) | 2:45 |
-| 81 | [Tut Bi Matem](https://open.spotify.com/track/2Hvz5etcEwMKOwIWBkAuWs) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Tut Bi Matem](https://open.spotify.com/album/776Wj1zIBKeKs3p60bUuR7) | 2:58 |
-| 82 | [Sev Onu](https://open.spotify.com/track/0QCYtLGIgxbifYwoanINOS) | [Rana Kara](https://open.spotify.com/artist/4ggsAoogpxB4pm6TgiZp3e) | [Sev Onu](https://open.spotify.com/album/6vwju4Wj1uVDxVszffkH0X) | 2:14 |
-| 83 | [Bir Masala Kandım](https://open.spotify.com/track/5AJoRwvVK5wlVilaITthNW) | [Ilgın Sıla](https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2) | [Bir Masala Kandım](https://open.spotify.com/album/3pAOZmqwKTZ4N9jr3LJERl) | 3:18 |
-| 84 | [Haram Sevdam](https://open.spotify.com/track/70h1OdNxtN8ualUGncnPvk) | [Tuğçe Haşimoğlu](https://open.spotify.com/artist/62jyG49Q860ZooOgpPDW9C) | [Haram Sevdam](https://open.spotify.com/album/6SqiHs4Znjp2sEuGHmwcqg) | 2:40 |
+| 79 | [YAZ GELDİ](https://open.spotify.com/track/5MrB5mbSz3uI2e3aGt9Xca) | [İpek Önder](https://open.spotify.com/artist/3CrRuwT5L67JJH9RW8dRuP) | [YAZ GELDİ](https://open.spotify.com/album/3ROV376I6uz1L975FjxJSS) | 2:45 |
+| 80 | [Tut Bi Matem](https://open.spotify.com/track/2Hvz5etcEwMKOwIWBkAuWs) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Tut Bi Matem](https://open.spotify.com/album/776Wj1zIBKeKs3p60bUuR7) | 2:58 |
+| 81 | [Sev Onu](https://open.spotify.com/track/0QCYtLGIgxbifYwoanINOS) | [Rana Kara](https://open.spotify.com/artist/4ggsAoogpxB4pm6TgiZp3e) | [Sev Onu](https://open.spotify.com/album/6vwju4Wj1uVDxVszffkH0X) | 2:14 |
+| 82 | [Bir Masala Kandım](https://open.spotify.com/track/5AJoRwvVK5wlVilaITthNW) | [Ilgın Sıla](https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2) | [Bir Masala Kandım](https://open.spotify.com/album/3pAOZmqwKTZ4N9jr3LJERl) | 3:18 |
+| 83 | [Haram Sevdam](https://open.spotify.com/track/70h1OdNxtN8ualUGncnPvk) | [Tuğçe Haşimoğlu](https://open.spotify.com/artist/62jyG49Q860ZooOgpPDW9C) | [Haram Sevdam](https://open.spotify.com/album/6SqiHs4Znjp2sEuGHmwcqg) | 2:40 |
 
-Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`
+Snapshot ID: `AAAAADPX3m0b/8/Uie9fzA86rI8GlVaE`

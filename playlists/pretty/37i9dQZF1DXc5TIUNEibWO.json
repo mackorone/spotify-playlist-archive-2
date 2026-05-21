@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 8874,
+  "num_followers": 8882,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+        "name": "Best of C. K. Mann",
+        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "C. K. Mann",
+          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
         }
       ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 527046,
+      "name": "Adwoa Yankey, Pt. 1",
+      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 357346,
       "name": "Odo nwom",
       "url": "https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "Best of C. K. Mann",
-        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
-      },
-      "artists": [
-        {
-          "name": "C. K. Mann",
-          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
-        }
-      ],
-      "duration_ms": 527046,
-      "name": "Adwoa Yankey, Pt. 1",
-      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Nyanime",
+        "url": "https://open.spotify.com/album/3aFHKbqe0i0bLKySTdLUjn"
+      },
+      "artists": [
+        {
+          "name": "Kwaisey Pee",
+          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
+        }
+      ],
+      "duration_ms": 297039,
+      "name": "Mehia Odo",
+      "url": "https://open.spotify.com/track/58lehu4YVaqzAv0PpyOIZU"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 338720,
       "name": "Rakia",
       "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "Nyanime",
-        "url": "https://open.spotify.com/album/3aFHKbqe0i0bLKySTdLUjn"
-      },
-      "artists": [
-        {
-          "name": "Kwaisey Pee",
-          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
-        }
-      ],
-      "duration_ms": 297039,
-      "name": "Mehia Odo",
-      "url": "https://open.spotify.com/track/58lehu4YVaqzAv0PpyOIZU"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Krokro Me",
+        "url": "https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2"
+      },
+      "artists": [
+        {
+          "name": "Kwaisey Pee",
+          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
+        }
+      ],
+      "duration_ms": 239570,
+      "name": "Krokro Me",
+      "url": "https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 306906,
       "name": "Atweetan",
       "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "Krokro Me",
-        "url": "https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2"
-      },
-      "artists": [
-        {
-          "name": "Kwaisey Pee",
-          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
-        }
-      ],
-      "duration_ms": 239570,
-      "name": "Krokro Me",
-      "url": "https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb"
     },
     {
       "added_at": "2026-02-20 08:28:52",

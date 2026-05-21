@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,177 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,179 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 55 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |
 | 56 | [Geloven In Het Leven](https://open.spotify.com/track/1FQUPfW7zKyiUHMJFr8c8d) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 4:02 |
 | 57 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom) | 3:43 |
-| 58 | [Beauty & De Brains](https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Beauty & De Brains](https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP) | 3:06 |
+| 58 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
 | 59 | [Later Als Ik Groter Ben](https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:24 |
 | 60 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
 | 61 | [Wat Is Dromen](https://open.spotify.com/track/5jRE8yeRZHJKEPcn4rdoBg) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:53 |
-| 62 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
+| 62 | [Beauty & De Brains](https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Beauty & De Brains](https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP) | 3:06 |
 | 63 | [Zoutelande](https://open.spotify.com/track/59H8FBoOPxW1jOaQToWHXi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike Arnaert](https://open.spotify.com/artist/2ovvfw7LL1RAhlqyGLlvGC) | [Aan](https://open.spotify.com/album/058xGrYZ3uGpjL7M1asXlw) | 3:43 |
 | 64 | [Hou Vol Hou Vast](https://open.spotify.com/track/0yE97dsmDBiumMmGNkLgrb) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/3haM92LjHRloy63z4khYl8) | 4:53 |
 | 65 | [Een Nieuwe Dag](https://open.spotify.com/track/49uHHiEI3TkQ60F619MvgB) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Fier Deluxe](https://open.spotify.com/album/5OO4wiLAUGxCJa1Rbgok2x) | 3:29 |

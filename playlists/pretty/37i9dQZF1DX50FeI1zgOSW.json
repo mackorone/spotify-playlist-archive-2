@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19541,
+  "num_followers": 19543,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOF8lFADXHTxw3j2J+icZhYHnuao",
+  "snapshot_id": "AAAAAAtbH0B2yEIhXG2RoTN3NayGTF0l",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -263,6 +263,22 @@
       "duration_ms": 227796,
       "name": "Mande Odu",
       "url": "https://open.spotify.com/track/6tNCgBEoagUn4kV1mGt6MH"
+    },
+    {
+      "added_at": "2026-05-20 15:27:36",
+      "album": {
+        "name": "Maruvaati",
+        "url": "https://open.spotify.com/album/1Yjp0QGEKrZLzanB29GWmZ"
+      },
+      "artists": [
+        {
+          "name": "Wasim R",
+          "url": "https://open.spotify.com/artist/3VpaMk7vUcWlbF9GhqNoT2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Maruvaati",
+      "url": "https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj"
     },
     {
       "added_at": "2026-05-15 06:57:58",
@@ -1293,26 +1309,6 @@
       "url": "https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9"
     },
     {
-      "added_at": "2026-01-28 08:18:18",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7L8z3xcoFtS5gXmSh5u7qM"
-      },
-      "artists": [
-        {
-          "name": "Stowe Francis",
-          "url": "https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ"
-        },
-        {
-          "name": "Venkat GV",
-          "url": "https://open.spotify.com/artist/050EyWCU4eCdFZMWjuxZyV"
-        }
-      ],
-      "duration_ms": 177961,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0u4DbQWKsYJqoONjK7Afke"
-    },
-    {
       "added_at": "2026-02-02 12:04:24",
       "album": {
         "name": "Veerathuku Madurai Thaan Da",
@@ -1499,22 +1495,6 @@
       "duration_ms": 158000,
       "name": "Venaam",
       "url": "https://open.spotify.com/track/1e2NvcmWmgoGlIpZxf7bRk"
-    },
-    {
-      "added_at": "2026-01-30 08:33:05",
-      "album": {
-        "name": "Knock Knock Kadhal",
-        "url": "https://open.spotify.com/album/18CQKctTvOISTNAQOt84mi"
-      },
-      "artists": [
-        {
-          "name": "Lavloop",
-          "url": "https://open.spotify.com/artist/6CnYMMTCuoTkCGF5B71rHs"
-        }
-      ],
-      "duration_ms": 258658,
-      "name": "Knock Knock Kadhal",
-      "url": "https://open.spotify.com/track/5oeyn2YL6TK7wyWEMqJLaT"
     },
     {
       "added_at": "2026-01-30 05:02:33",

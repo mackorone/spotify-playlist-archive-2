@@ -3117,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Gone Awry",
+        "url": "https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Gone Awry",
+      "url": "https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi"
+    },
+    {
+      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
       },

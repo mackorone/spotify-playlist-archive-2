@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jakub Hrůša
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,515 likes - 76 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,541 likes - 76 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

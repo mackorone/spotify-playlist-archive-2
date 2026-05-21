@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,051 likes - 185 songs - 10 hr 12 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,052 likes - 185 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 13 | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/album/6CAkmTyIPUDpos74QpYEUb) | 2:28 |
 | 14 | [RAGE](https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [RAGE](https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios) | 2:25 |
 | 15 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
-| 16 | [On The Dash](https://open.spotify.com/track/7LPTk9sGE5fe7h80tw3e1u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [On The Dash](https://open.spotify.com/album/3SdEWk7nslVRxo1kxu1DTq) | 2:51 |
+| 16 | [On The Dash](https://open.spotify.com/track/7LPTk9sGE5fe7h80tw3e1u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [On The Dash](https://open.spotify.com/album/3SdEWk7nslVRxo1kxu1DTq) | 2:21 |
 | 17 | [Himalaya](https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Himalaya](https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K) | 3:15 |
 | 18 | [Lockup](https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Lockup](https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7) | 4:31 |
 | 19 | [Baby Come Back \(feat\. Mayer Hawthorne\)](https://open.spotify.com/track/5V7PUAfCy02UxXauMnN9T8) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Baby Come Back \(feat\. Mayer Hawthorne\)](https://open.spotify.com/album/5q3GgbDAc3ns0GLsZKuzRV) | 3:13 |

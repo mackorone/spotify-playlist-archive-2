@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Maria Bethânia
+> Listen to women at full volume\. Cover: Tenille Towner
 
 2,987 songs - 6 day 21 hr 23 min
 

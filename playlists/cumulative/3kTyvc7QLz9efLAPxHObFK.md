@@ -4,7 +4,7 @@
 
 > 
 
-3,045 songs - 6 day 13 hr 12 min
+3,046 songs - 6 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,7 +1075,7 @@
 | [Get Funky](https://open.spotify.com/track/5mXwnTqomDTQ0yymv3r7lE) | [RVAGE](https://open.spotify.com/artist/60kSCaBM5uMKg7ZnrBH5br) | [Get Funky](https://open.spotify.com/album/2FqzAqzSK5970KREzHkNTn) | 2:48 | 2024-08-27 |  |
 | [Get Lit](https://open.spotify.com/track/4exm23QeLL8nLD5uKONqHU) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Get Lit](https://open.spotify.com/album/0OiadUJ6p5lztdBuprIaTS) | 2:56 | 2023-09-02 |  |
 | [Get Me High](https://open.spotify.com/track/0oKEpDlRV4TstX5ztlmIsA) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN) | [Get Me High](https://open.spotify.com/album/1A4lKzcHubnw1TZ84RHDmE) | 2:57 | 2025-02-07 |  |
-| [Get Me There](https://open.spotify.com/track/6EdMcHgipDGBnAkQaqLy4K) | [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [Get Me There](https://open.spotify.com/album/6L0rAFFxKtylarPK5HVPXs) | 2:48 | 2025-10-17 |  |
+| [Get Me There](https://open.spotify.com/track/6EdMcHgipDGBnAkQaqLy4K) | [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [Get Me There](https://open.spotify.com/album/6L0rAFFxKtylarPK5HVPXs) | 2:46 | 2025-10-17 |  |
 | [Get Out Of My Mind](https://open.spotify.com/track/7EZcsKgOpPw8QoGagSQGGR) | [Deathroar](https://open.spotify.com/artist/5CNgIGV8GwEpwNko0VrUw7) | [Neon Soul](https://open.spotify.com/album/2F8222MfSVB6ccU1Tl02Zk) | 2:31 | 2024-05-04 |  |
 | [Get Personal](https://open.spotify.com/track/5DktqoKawByQsdYQ41dzD6) | [Triple X](https://open.spotify.com/artist/2vJyuppwPbnxzGGVy7xm03) | [Get Personal](https://open.spotify.com/album/0GDDtJsEDWvs0Xg22xN0nO) | 2:51 | 2024-11-03 |  |
 | [Get Ready](https://open.spotify.com/track/2xXoNzFQKFSJmXNLh3oNch) | [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Get Ready](https://open.spotify.com/album/36WSMC5fypa4o90Cqs9E1c) | 2:33 | 2024-07-19 |  |
@@ -1643,6 +1643,7 @@
 | [Losing Myself](https://open.spotify.com/track/44TVlcRpIkotUdmGNwrCV9) | [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD), [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM) | [Losing Myself](https://open.spotify.com/album/1ApQWzEF2HsogRDUcBABBk) | 2:45 | 2024-05-13 |  |
 | [Lost](https://open.spotify.com/track/4ceS71IWFwADuYbL325VHe) | [Kroefoe](https://open.spotify.com/artist/6wwyX4O6DpmoKjj333NCRP) | [Lost](https://open.spotify.com/album/1dlph7K5RTL1BkRuTCpZH3) | 3:21 | 2024-08-11 |  |
 | [Lost](https://open.spotify.com/track/0k2Opn4vEvPhFkFKeX2aj4) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [Lost](https://open.spotify.com/album/3vKktqYslIhZBpcelWexwF) | 2:18 | 2026-02-13 |  |
+| [LOST](https://open.spotify.com/track/4KyvFeVvp0m6fAzsQHuQy3) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [LOST](https://open.spotify.com/album/11tjf94qajNpl1rEuS3bMb) | 3:00 | 2026-05-20 |  |
 | [Lost](https://open.spotify.com/track/1BQrW9XSFfRWP9VKnc6vdm) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd) | [Lost](https://open.spotify.com/album/24y79Esiu86Ggo0UYqP4cQ) | 2:42 | 2025-10-09 |  |
 | [Lost](https://open.spotify.com/track/6eATQXpy9fvMGaGIXbd1xm) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV) | [Lost](https://open.spotify.com/album/0IkllSjUWHzxiqR88Si3HS) | 2:42 | 2023-12-02 |  |
 | [LOST](https://open.spotify.com/track/5EiIe0G8978NoYLCikwDR7) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [ETERNITY](https://open.spotify.com/album/7jvsHlV2dNJ5d8U1IeMehT) | 3:46 | 2023-03-21 |  |

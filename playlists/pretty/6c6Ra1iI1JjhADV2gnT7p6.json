@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60121,
+  "num_followers": 60126,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA+ksjjeqFkCfFULPIHnVq1lEH8s/L9",
+  "snapshot_id": "AAA+nJOgp1vUhX0/RDEbi4plWiuVnCFv",
   "tracks": [
     {
       "added_at": "2026-05-16 11:12:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
+        "name": "puppy love",
+        "url": "https://open.spotify.com/album/0J3MTKDpj01wiRZBeKLbAX"
+      },
+      "artists": [
+        {
+          "name": "the gluu",
+          "url": "https://open.spotify.com/artist/0f0dMXkQ590BbEKKtAXegb"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "puppy love",
+      "url": "https://open.spotify.com/track/1lyTM3w7bi8WLnoGqVpbRd"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7ltbfCaH61KTDqzG6Hqs0h"
       },
@@ -3427,22 +3443,6 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "puppy love",
-        "url": "https://open.spotify.com/album/0J3MTKDpj01wiRZBeKLbAX"
-      },
-      "artists": [
-        {
-          "name": "the gluu",
-          "url": "https://open.spotify.com/artist/0f0dMXkQ590BbEKKtAXegb"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "puppy love",
-      "url": "https://open.spotify.com/track/1lyTM3w7bi8WLnoGqVpbRd"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
         "name": "Channel 3",
         "url": "https://open.spotify.com/album/73VEKkllPwqzG1Z4BNbv1D"
       },
@@ -4367,50 +4367,18 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "Bigfoot",
-        "url": "https://open.spotify.com/album/0loQ0es1gmoeTWEabl5IN5"
+        "name": "Levitating The Knife",
+        "url": "https://open.spotify.com/album/053VYrjtUEP3Ea9sYH5fg4"
       },
       "artists": [
         {
-          "name": "dnhm",
-          "url": "https://open.spotify.com/artist/2HXcHaEZW9BqODzbQrLtbh"
+          "name": "T. G. Shand",
+          "url": "https://open.spotify.com/artist/3vaGEkaMFBgTNhPweCAl3y"
         }
       ],
-      "duration_ms": 197296,
-      "name": "Bigfoot",
-      "url": "https://open.spotify.com/track/6LPUQBMNn1cmWSiNDwLA5j"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Shirley Hurt",
-        "url": "https://open.spotify.com/album/6WQNDdUNQvFVeX6h4Z1QAf"
-      },
-      "artists": [
-        {
-          "name": "Shirley Hurt",
-          "url": "https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B"
-        }
-      ],
-      "duration_ms": 222312,
-      "name": "Problem Child",
-      "url": "https://open.spotify.com/track/2xwQBcrdVJkSAVH8hafvqM"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/1j63TAAhLc3azuz9l5Z8jT"
-      },
-      "artists": [
-        {
-          "name": "Zac Farro",
-          "url": "https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3"
-        }
-      ],
-      "duration_ms": 180114,
-      "name": "1",
-      "url": "https://open.spotify.com/track/7Go7v5ORG2LyImhgD4Pz5W"
+      "duration_ms": 196024,
+      "name": "Levitating The Knife",
+      "url": "https://open.spotify.com/track/7pmi12axvDNLEIksxGurTf"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -4431,18 +4399,18 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "Levitating The Knife",
-        "url": "https://open.spotify.com/album/053VYrjtUEP3Ea9sYH5fg4"
+        "name": "Shirley Hurt",
+        "url": "https://open.spotify.com/album/6WQNDdUNQvFVeX6h4Z1QAf"
       },
       "artists": [
         {
-          "name": "T. G. Shand",
-          "url": "https://open.spotify.com/artist/3vaGEkaMFBgTNhPweCAl3y"
+          "name": "Shirley Hurt",
+          "url": "https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B"
         }
       ],
-      "duration_ms": 196024,
-      "name": "Levitating The Knife",
-      "url": "https://open.spotify.com/track/7pmi12axvDNLEIksxGurTf"
+      "duration_ms": 222312,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/2xwQBcrdVJkSAVH8hafvqM"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -4459,6 +4427,38 @@
       "duration_ms": 243307,
       "name": "They Owe Him",
       "url": "https://open.spotify.com/track/3UyAI5cEF5zAkcDsa4heEW"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "Bigfoot",
+        "url": "https://open.spotify.com/album/0loQ0es1gmoeTWEabl5IN5"
+      },
+      "artists": [
+        {
+          "name": "dnhm",
+          "url": "https://open.spotify.com/artist/2HXcHaEZW9BqODzbQrLtbh"
+        }
+      ],
+      "duration_ms": 197296,
+      "name": "Bigfoot",
+      "url": "https://open.spotify.com/track/6LPUQBMNn1cmWSiNDwLA5j"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/1j63TAAhLc3azuz9l5Z8jT"
+      },
+      "artists": [
+        {
+          "name": "Zac Farro",
+          "url": "https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3"
+        }
+      ],
+      "duration_ms": 180114,
+      "name": "1",
+      "url": "https://open.spotify.com/track/7Go7v5ORG2LyImhgD4Pz5W"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -4935,22 +4935,6 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0O2oC0i6UyFrqRKrFDzPJI"
-      },
-      "artists": [
-        {
-          "name": "Diana Pinkham",
-          "url": "https://open.spotify.com/artist/4Ujz1g6KmEENpvMoogVP0E"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4xcqkh6IZS5igH57xTVDsN"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
         "name": "Plus d'amis",
         "url": "https://open.spotify.com/album/61wxDm349mYs1wbDNMa2bY"
       },
@@ -5015,6 +4999,22 @@
       "duration_ms": 245891,
       "name": "Returning",
       "url": "https://open.spotify.com/track/4XaagD7R1HqT3tu5wGoxdT"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0O2oC0i6UyFrqRKrFDzPJI"
+      },
+      "artists": [
+        {
+          "name": "Diana Pinkham",
+          "url": "https://open.spotify.com/artist/4Ujz1g6KmEENpvMoogVP0E"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4xcqkh6IZS5igH57xTVDsN"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -7959,6 +7959,22 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
+        "name": "Mediocre Man",
+        "url": "https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "Mediocre Man",
+      "url": "https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
         "name": "Dim Sum & Then Some",
         "url": "https://open.spotify.com/album/5IH8f1sMXmldxpE7a0VWyQ"
       },
@@ -8003,22 +8019,6 @@
       "duration_ms": 251421,
       "name": "Cigs",
       "url": "https://open.spotify.com/track/6ke5pXKadVeSPtAJIFhzU3"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
-        "name": "Mediocre Man",
-        "url": "https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 185835,
-      "name": "Mediocre Man",
-      "url": "https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy"
     },
     {
       "added_at": "2026-05-09 22:50:25",
@@ -8263,6 +8263,38 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
+        "name": "Everything I Wanted To Be",
+        "url": "https://open.spotify.com/album/6ExGJWVgwjiyEPPah0IGiW"
+      },
+      "artists": [
+        {
+          "name": "Las Robertas",
+          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
+        }
+      ],
+      "duration_ms": 230442,
+      "name": "Everything I Wanted To Be",
+      "url": "https://open.spotify.com/track/2HSxESLNPIWZ2PY8jSs9K6"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/1TN8XWvJm4w2xfCEy08SZf"
+      },
+      "artists": [
+        {
+          "name": "Sugar World",
+          "url": "https://open.spotify.com/artist/7x0ZVA64Mrxz5J9Fl1gHFn"
+        }
+      ],
+      "duration_ms": 134183,
+      "name": "Terra Incognita",
+      "url": "https://open.spotify.com/track/5yOnGPxq9hqKg9Cx6XaCgy"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
         "name": "Gooning for Free",
         "url": "https://open.spotify.com/album/4kNS4YISl2rzKHSTFHgrvJ"
       },
@@ -8291,22 +8323,6 @@
       "duration_ms": 183613,
       "name": "MISERY",
       "url": "https://open.spotify.com/track/0RV1LKT7PkZuvMnoi6C2wj"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
-        "name": "Everything I Wanted To Be",
-        "url": "https://open.spotify.com/album/6ExGJWVgwjiyEPPah0IGiW"
-      },
-      "artists": [
-        {
-          "name": "Las Robertas",
-          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
-        }
-      ],
-      "duration_ms": 230442,
-      "name": "Everything I Wanted To Be",
-      "url": "https://open.spotify.com/track/2HSxESLNPIWZ2PY8jSs9K6"
     },
     {
       "added_at": "2026-05-09 22:50:25",
@@ -8403,22 +8419,6 @@
       "duration_ms": 219068,
       "name": "Shared Endeavour",
       "url": "https://open.spotify.com/track/5SgLTJqDvaBuPA0MGZGHXX"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/1TN8XWvJm4w2xfCEy08SZf"
-      },
-      "artists": [
-        {
-          "name": "Sugar World",
-          "url": "https://open.spotify.com/artist/7x0ZVA64Mrxz5J9Fl1gHFn"
-        }
-      ],
-      "duration_ms": 134183,
-      "name": "Terra Incognita",
-      "url": "https://open.spotify.com/track/5yOnGPxq9hqKg9Cx6XaCgy"
     },
     {
       "added_at": "2026-05-09 22:50:25",
@@ -9191,22 +9191,6 @@
       "duration_ms": 131493,
       "name": "Leash",
       "url": "https://open.spotify.com/track/0AfH7r3e9mp1mIcAK8Khgo"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
-      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
     },
     {
       "added_at": "2026-05-09 22:50:25",
@@ -12495,6 +12479,22 @@
       "duration_ms": 276722,
       "name": "Come To Brazil",
       "url": "https://open.spotify.com/track/2HlPvcvLE97ZgdLuKu3yoM"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
+      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
     },
     {
       "added_at": "2026-05-09 22:50:25",

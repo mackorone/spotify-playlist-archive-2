@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Brenno
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,903 likes - 98 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,913 likes - 98 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OBRIGADO](https://open.spotify.com/track/0hTmbYgoJNreWPSj78qcv6) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [OBRIGADO](https://open.spotify.com/album/6P6MWdgb7kQzPUokuMq2LS) | 3:26 |
 | 2 | [CHAMPION](https://open.spotify.com/track/3vCR6KOEatUsisdiiSylrx) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [CHAMPION](https://open.spotify.com/album/6R9waf6zzApfDjBBaaBtfN) | 1:48 |
-| 3 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
+| 3 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
 | 4 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 |
 | 5 | [CONTAGIOUS](https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [CONTAGIOUS](https://open.spotify.com/album/2CSHie0AwgLENxL03AoPtF) | 2:31 |
 | 6 | [Let'em In](https://open.spotify.com/track/6Oz2NOzeD1o641tIPTNf7g) | [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p), [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Let'em In](https://open.spotify.com/album/7kYForvDCwvDwBUB0MDjHS) | 2:41 |

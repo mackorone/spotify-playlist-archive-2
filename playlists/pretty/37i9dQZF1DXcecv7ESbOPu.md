@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Lo, Thomas Stenström och Miss Li med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,331 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,335 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 15 | [Turn Up The Bass](https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA), [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE) | 2:03 |
 | 16 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
 | 17 | [Shawty](https://open.spotify.com/track/56LDu41lRSCwB0i8YGQC6C) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Shawty](https://open.spotify.com/album/0zjLKTcp82CKgUcNvblDv2) | 2:13 |
-| 18 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
+| 18 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
 | 19 | [Bli som min mamma](https://open.spotify.com/track/6C3PEsQFVGxYq0BxmOdkje) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Bli som min mamma](https://open.spotify.com/album/0SrHJaoXLLwIC4zsazi7Ga) | 3:25 |
 | 20 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 |
 | 21 | [Nattetid](https://open.spotify.com/track/6TwTWDHDWohzvZIzPD3uDl) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Nattetid](https://open.spotify.com/album/7Ep6dwHzuTujmAROTp0xpP) | 3:34 |

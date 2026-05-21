@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
-  "num_followers": 1196,
+  "num_followers": 1195,
   "original_name": "This Is Alan Hawkshaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAAAS4FoHSulRj99EhBWBbMOM",
+  "snapshot_id": "aguoAAAAAADThSZrOWH6dpdXOJ0b0CoU",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: The Big Beat",
-        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 114440,
-      "name": "Studio 69",
-      "url": "https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kpm 1000 Series: The Road Forward",
         "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 153588,
       "name": "Sky Train",
       "url": "https://open.spotify.com/track/6YwVCVgTqnoCvcJyDGSxC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: The Big Beat",
+        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 114440,
+      "name": "Studio 69",
+      "url": "https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ"
     },
     {
       "added_at": null,
@@ -255,38 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruton BRF1: Comedy Situations",
-        "url": "https://open.spotify.com/album/4fwtXYpBCCFpiwRWo9D4q4"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 176256,
-      "name": "Farewell My Lovely",
-      "url": "https://open.spotify.com/track/03akrR9PMvgCWzkFT8vzDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruton BRB4: Jingles, Vol. 4",
-        "url": "https://open.spotify.com/album/5P7epw0DWKGLMXRAzWXYGg"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 33706,
-      "name": "Fifth Avenue",
-      "url": "https://open.spotify.com/track/2CM23NoR3QADGxfrPr8VJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 232985,
       "name": "Flying",
       "url": "https://open.spotify.com/track/5palyI7Y9KI4gKVMsHfHYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruton BRF1: Comedy Situations",
+        "url": "https://open.spotify.com/album/4fwtXYpBCCFpiwRWo9D4q4"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 176256,
+      "name": "Farewell My Lovely",
+      "url": "https://open.spotify.com/track/03akrR9PMvgCWzkFT8vzDs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sixties",
+        "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Raver",
+      "url": "https://open.spotify.com/track/3y3pr0BwXaFsXPlkB7k2pn"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sixties",
-        "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Raver",
-      "url": "https://open.spotify.com/track/3y3pr0BwXaFsXPlkB7k2pn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The All American Powerhouse",
         "url": "https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 146871,
       "name": "Speed Run",
       "url": "https://open.spotify.com/track/0glHvRJiMtJkli6pVUxglI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruton BRB4: Jingles, Vol. 4",
+        "url": "https://open.spotify.com/album/5P7epw0DWKGLMXRAzWXYGg"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 33706,
+      "name": "Fifth Avenue",
+      "url": "https://open.spotify.com/track/2CM23NoR3QADGxfrPr8VJ2"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: Friendly Faces",
-        "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 116489,
-      "name": "Calendar Girl",
-      "url": "https://open.spotify.com/track/7xR5tGKrowaoy5JCHC00az"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sixties",
         "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: Friendly Faces",
+        "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 116489,
+      "name": "Calendar Girl",
+      "url": "https://open.spotify.com/track/7xR5tGKrowaoy5JCHC00az"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruton BRI8: Kinetics/Vision",
-        "url": "https://open.spotify.com/album/2rrCiOHbiJLmnBNHweaxXu"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 128266,
-      "name": "Visionary",
-      "url": "https://open.spotify.com/track/4xPr3uYqT127MMios5rAFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sixties",
         "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 78800,
       "name": "Convenience Shopping",
       "url": "https://open.spotify.com/track/4cCSZomjXB8IWwwkMG6ujo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruton BRI8: Kinetics/Vision",
+        "url": "https://open.spotify.com/album/2rrCiOHbiJLmnBNHweaxXu"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 128266,
+      "name": "Visionary",
+      "url": "https://open.spotify.com/track/4xPr3uYqT127MMios5rAFE"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kpm 1000 Series: The Road Forward",
+        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 193314,
+      "name": "Man of Means",
+      "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kpm 1000 Series: Hot Wax",
         "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 161612,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/56dgpEZPKvNet9934593ub"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: The Road Forward",
-        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 193314,
-      "name": "Man of Means",
-      "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/2lM35EXjHx3uxA1LRPtIAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Ripples In A Pond",
+      "url": "https://open.spotify.com/track/6Z0IGbavopHEnK2hQC5iE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bruton BRI6: Frontiers of Science",
         "url": "https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat"
       },
@@ -643,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/2lM35EXjHx3uxA1LRPtIAW"
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 253026,
-      "name": "Ripples In A Pond",
-      "url": "https://open.spotify.com/track/6Z0IGbavopHEnK2hQC5iE7"
+      "duration_ms": 177426,
+      "name": "Soul Organ Impromptu",
+      "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: Soul Organ Showcase",
-        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+        "name": "Luke Vibert's Nuggets 3",
+        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Soul Organ Impromptu",
-      "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
+      "duration_ms": 170873,
+      "name": "Fuel Injection",
+      "url": "https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM"
     },
     {
       "added_at": null,
@@ -711,38 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synthesizer and Percussion",
-        "url": "https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310"
+        "name": "Kpm 1000 Series: Music for a Young Generation",
+        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
       },
       "artists": [
         {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
         },
         {
-          "name": "Brian Bennett",
-          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
-        }
-      ],
-      "duration_ms": 183923,
-      "name": "Oddball",
-      "url": "https://open.spotify.com/track/64cp2gJk8vTFmLKX5djyOg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luke Vibert's Nuggets 3",
-        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
-      },
-      "artists": [
-        {
           "name": "Alan Hawkshaw",
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 170873,
-      "name": "Fuel Injection",
-      "url": "https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM"
+      "duration_ms": 207533,
+      "name": "Coast to Coast",
+      "url": "https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
       "duration_ms": 118506,
       "name": "Clear Waters",
       "url": "https://open.spotify.com/track/6zFgiV9dR2fIxDvTQBSP2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synthesizer and Percussion",
+        "url": "https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "duration_ms": 183923,
+      "name": "Oddball",
+      "url": "https://open.spotify.com/track/64cp2gJk8vTFmLKX5djyOg"
     },
     {
       "added_at": null,
@@ -799,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: Music for a Young Generation",
-        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
+        "name": "Kpm 1000 Series: Flute for Moderns",
+        "url": "https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM"
       },
       "artists": [
         {
@@ -812,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 207533,
-      "name": "Coast to Coast",
-      "url": "https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj"
+      "duration_ms": 112280,
+      "name": "Hot Pants",
+      "url": "https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Flute for Moderns",
-        "url": "https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM"
-      },
-      "artists": [
-        {
-          "name": "Alan Parker",
-          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
-        },
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 112280,
-      "name": "Hot Pants",
-      "url": "https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j"
     },
     {
       "added_at": null,

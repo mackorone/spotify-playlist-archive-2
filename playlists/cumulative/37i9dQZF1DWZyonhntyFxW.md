@@ -4,7 +4,7 @@
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
 
-464 songs - 22 hr 33 min
+465 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [De Bruyne](https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 2:29 | 2024-01-05 | 2024-01-19 |
 | [Deep](https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Deep](https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb) | 2:05 | 2022-05-10 | 2022-09-28 |
 | [DKHOOL\\\\KHROOG](https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 2:45 | 2023-09-06 | 2023-09-22 |
+| [Do](https://open.spotify.com/track/59548fTGuQyKSryFEOCnON) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Do](https://open.spotify.com/album/7qkbB0Bcn6yzBt8fEcrfEE) | 3:27 | 2026-05-20 |  |
 | [DON'T CALL ME TODAY](https://open.spotify.com/track/14nb4zJx6gSeqtBEQ3JfHa) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAFIA](https://open.spotify.com/album/4PbcFg08rKsFnESVcBnDwH) | 2:33 | 2026-03-30 |  |
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-05-12 |
@@ -408,7 +409,7 @@
 | [Yatawaghal Yatasarab](https://open.spotify.com/track/1MsGlwop6jPy6iaxrNKJim) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Swag Lee](https://open.spotify.com/artist/23IHxo80tw2UOGdO8HRgdt) | [Yatawaghal Yatasarab](https://open.spotify.com/album/2DctvSQS3wmnDX4CQ2KlD6) | 3:06 | 2026-03-30 | 2026-05-19 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 | 2023-12-30 |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |
-| [Zamaleky](https://open.spotify.com/track/4Sd0aXa7w3n7RyavDcRDkC) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Zamaleky](https://open.spotify.com/album/3lM5wCpiFml8KP80IF8Rrx) | 3:34 | 2026-05-11 |  |
+| [Zamaleky](https://open.spotify.com/track/4Sd0aXa7w3n7RyavDcRDkC) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Zamaleky](https://open.spotify.com/album/3lM5wCpiFml8KP80IF8Rrx) | 3:34 | 2026-05-11 | 2026-05-21 |
 | [أبو هشيمة](https://open.spotify.com/track/060s5GPy5RcZfkHgcJvpyf) | [Youssef Rousse \- يوسف روسي](https://open.spotify.com/artist/1uQxcX7hKLKAXFb3R93uFp) | [البوم منوعات](https://open.spotify.com/album/7r23izP4dTdT73v5B6M8sg) | 3:16 | 2025-08-02 | 2025-08-05 |
 | [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 | 2024-12-06 | 2025-08-02 |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |

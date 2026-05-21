@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Fear, and Loathing in Las Vegas
 
-3,242 songs - 8 day 10 hr 5 min
+3,242 songs - 8 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Heartbeat](https://open.spotify.com/track/6EajNFKWa3K8gSSmwYVmAF) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Heartbeat](https://open.spotify.com/album/4rQn4FYDp1irZ7MDw9hcAm) | 2:17 | 2024-05-14 | 2024-06-19 |
 | [Heaven Knows](https://open.spotify.com/track/2m9wsoF85YK4KkGIPNeJEZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Heaven Knows](https://open.spotify.com/album/0pgiZyAh2klqVTqyLy7Pwh) | 3:08 | 2026-04-07 | 2026-05-20 |
 | [Heavy Rain Baby](https://open.spotify.com/track/7K9fKn7lhPO3RrCK3RHzM8) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Heavy Rain Baby](https://open.spotify.com/album/6OwCpgEPT5q5CkdyaBgkFh) | 2:36 | 2024-09-24 | 2024-10-23 |
+| [HELLO COLORFUL](https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [YELLOW SUN \-THE BEST\-](https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g) | 3:48 | 2026-05-19 |  |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-28 | 2023-05-10 |
 | [helm’N bass](https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [helm’N bass](https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi) | 3:54 | 2024-07-02 | 2024-08-28 |
 | [Henna Odori](https://open.spotify.com/track/17g6s7riUJE4heFuKBY7EP) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Henna Odori](https://open.spotify.com/album/3GLf6tnJRWxuTyxh37a4fh) | 2:40 | 2025-09-02 | 2025-09-11 |
@@ -1567,7 +1568,6 @@
 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 | 2026-02-10 | 2026-05-13 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
-| [Track 2](https://open.spotify.com/track/5VqP7vwUFDfAQ2jpx2p0kn) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [YELLOW SUN \-THE BEST\-](https://open.spotify.com/album/4tgSNn48wYr4GW7laINi3g) | 0:00 | 2026-05-19 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

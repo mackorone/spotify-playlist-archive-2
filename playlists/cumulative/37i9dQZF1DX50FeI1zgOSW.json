@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 177961,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0u4DbQWKsYJqoONjK7Afke"
@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 258658,
       "name": "Knock Knock Kadhal",
       "url": "https://open.spotify.com/track/5oeyn2YL6TK7wyWEMqJLaT"
@@ -8140,6 +8140,24 @@
       "duration_ms": 228853,
       "name": "Maruguriye",
       "url": "https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9"
+    },
+    {
+      "album": {
+        "name": "Maruvaati",
+        "url": "https://open.spotify.com/album/1Yjp0QGEKrZLzanB29GWmZ"
+      },
+      "artists": [
+        {
+          "name": "Wasim R",
+          "url": "https://open.spotify.com/artist/3VpaMk7vUcWlbF9GhqNoT2"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Maruvaati",
+      "url": "https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj"
     },
     {
       "album": {

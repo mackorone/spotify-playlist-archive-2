@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1256502,
+  "num_followers": 1256617,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 348560,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Eight Miles High",
-      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
     },
     {
       "added_at": "2024-07-12 17:17:21",

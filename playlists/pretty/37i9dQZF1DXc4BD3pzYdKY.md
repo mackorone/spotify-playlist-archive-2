@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,330 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,358 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Havin'](https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Havin'](https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n) | 2:49 |
-| 2 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
+| 2 | [Do It With Jesus \- Remix](https://open.spotify.com/track/4j6w1YXCAupinW54mX3x8c) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [J6TEN](https://open.spotify.com/artist/1LUJ5da5xtxMiesy8pRFwd), [Selah G4G](https://open.spotify.com/artist/57VFguGlkoQ0IoyrxfrvGw), [Suavo](https://open.spotify.com/artist/5JJ6b9Dt8RPFDbgf71wrL7), [Isosa](https://open.spotify.com/artist/0mbYF6iGQHoRaig1ABygHk), [Nikela](https://open.spotify.com/artist/33Dgq8djOF6T5pHWMKrkg6) | [Do It With Jesus \(Remix\)](https://open.spotify.com/album/4mTJ0SeAySuaWVq1bzeDnJ) | 3:42 |
 | 3 | [INFLUENCER$](https://open.spotify.com/track/7oTqtx0H1pivN32cEqMBNQ) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [COULD BE TONIGHT](https://open.spotify.com/album/0Ujfh65wzIk5dRJQ4pIiLf) | 3:20 |
 | 4 | [OBRIGADO](https://open.spotify.com/track/0hTmbYgoJNreWPSj78qcv6) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [OBRIGADO](https://open.spotify.com/album/6P6MWdgb7kQzPUokuMq2LS) | 3:26 |
 | 5 | [CONTAGIOUS](https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [CONTAGIOUS](https://open.spotify.com/album/2CSHie0AwgLENxL03AoPtF) | 2:31 |

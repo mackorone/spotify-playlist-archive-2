@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Olive Anguz
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,367 likes - 405 songs - 21 hr 16 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,366 likes - 405 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 5 | [Road Trips](https://open.spotify.com/track/4TxKU7OkwhPQXETqmKIMcx) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MAID OF HONOUR](https://open.spotify.com/album/1gVm3KpC3Mf4mvARQR36lH) | 4:03 |
 | 6 | [Who Do You Give Your Love To?](https://open.spotify.com/track/5p8MLN7UDzVQzWjfgaJAgM) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Who Do You Give Your Love To?](https://open.spotify.com/album/1ut01cxZrqHrOhsyTvaxdR) | 3:20 |
 | 7 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 |
-| 8 | [Domino \- Rework](https://open.spotify.com/track/7DaPAWBO3fHQXtmHKpTvCJ) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino](https://open.spotify.com/album/2rcGNtZ5AtAOeH3GiwKj92) | 3:42 |
+| 8 | [Domino \- Rework](https://open.spotify.com/track/7DaPAWBO3fHQXtmHKpTvCJ) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino \(Remixes\)](https://open.spotify.com/album/2rcGNtZ5AtAOeH3GiwKj92) | 3:42 |
 | 9 | [Need You By My Side](https://open.spotify.com/track/7seY3OdoSh8LNiO8bZ57gK) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Serendipity](https://open.spotify.com/album/6NuakLFnJhQUNFBVxrUtXR) | 2:55 |
 | 10 | [Love Claim](https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Claim](https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6) | 2:58 |
 | 11 | [Gravity](https://open.spotify.com/track/6vNydze5Xmuiufk6gUQ5W9) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Gravity](https://open.spotify.com/album/5dlfsksB2j0pyMFLSdpDe6) | 3:42 |

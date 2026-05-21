@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 296496,
       "name": "Chance to Bleed",
       "url": "https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw"
@@ -6914,7 +6914,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 226216,
       "name": "DESIGNED TO LOSE",
       "url": "https://open.spotify.com/track/3FeH0XIcVZDd4pkh94z2lj"
@@ -7900,7 +7900,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 364800,
       "name": "Dying Is A Normal Part Of Life",
       "url": "https://open.spotify.com/track/6Mgl05mey9s43bGwjzAVeo"
@@ -16725,6 +16725,24 @@
     },
     {
       "album": {
+        "name": "Life Inside the Hourglass",
+        "url": "https://open.spotify.com/album/4c2t77dUIGNnXyAjzU4m0S"
+      },
+      "artists": [
+        {
+          "name": "Biita Houdei",
+          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162045,
+      "name": "Life Inside the Hourglass",
+      "url": "https://open.spotify.com/track/3Qtf4twghjgIyWU0tx8L5i"
+    },
+    {
+      "album": {
         "name": "Life Signs",
         "url": "https://open.spotify.com/album/23FGt38MJC249Agj7U6Z5o"
       },
@@ -19658,7 +19676,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 272171,
       "name": "NEMO",
       "url": "https://open.spotify.com/track/57CtJJQRcYK0hfDKgN5CkD"
@@ -23916,7 +23934,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 263500,
       "name": "Safe Room",
       "url": "https://open.spotify.com/track/23p21Dgy3zEXNbcWRlBMZl"
@@ -28673,6 +28691,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6oCEAeL5fCmc7jawaM5GQm"
+      },
+      "artists": [
+        {
+          "name": "The Gnomes",
+          "url": "https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159216,
+      "name": "Thinking of Me",
+      "url": "https://open.spotify.com/track/0cDYARtUCytpAFPESqaAsP"
+    },
+    {
+      "album": {
         "name": "This Can\u2019t Go On",
         "url": "https://open.spotify.com/album/6UhTZsEgIV1lTA4AhNU29P"
       },
@@ -28984,6 +29020,24 @@
       "duration_ms": 176904,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/5rhbgHAhy60heWfXCrUmHP"
+    },
+    {
+      "album": {
+        "name": "narcissists",
+        "url": "https://open.spotify.com/album/7a0aelZWbj3eqAUQxmE94u"
+      },
+      "artists": [
+        {
+          "name": "PARENT TEACHER",
+          "url": "https://open.spotify.com/artist/1ZF7sZoCluOISW7vSPrfkY"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "timeline rabies",
+      "url": "https://open.spotify.com/track/6Ij3TAOpfisUUws12S2EzH"
     },
     {
       "album": {

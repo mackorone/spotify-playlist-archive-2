@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:5cnJFKwf0Uje2XQVsR9QrD\">FMBLONGMONEY</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:1zEHBw7xQf0drXZagRkciU\">Molly Santana</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 136331,
       "name": "#ggs",
       "url": "https://open.spotify.com/track/0FCkcqj7SKHeHGgX3AOYRu"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 111697,
       "name": "4 Days",
       "url": "https://open.spotify.com/track/02ZhwrqGmatNIteDuXNOU2"
@@ -6326,6 +6326,28 @@
       "duration_ms": 153890,
       "name": "Boosie Flow",
       "url": "https://open.spotify.com/track/4s6ZhyFcY18Pw3R6vuga4Q"
+    },
+    {
+      "album": {
+        "name": "Boring",
+        "url": "https://open.spotify.com/album/7M9UGD2ntohVnnwxkeH91y"
+      },
+      "artists": [
+        {
+          "name": "MADISON B",
+          "url": "https://open.spotify.com/artist/1XQ3jX3mHoD8y32WYCYoYc"
+        },
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140171,
+      "name": "Boring",
+      "url": "https://open.spotify.com/track/28Yq44hz1K2MhOtFrNZ8Dk"
     },
     {
       "album": {
@@ -19991,6 +20013,24 @@
     },
     {
       "album": {
+        "name": "is this my life",
+        "url": "https://open.spotify.com/album/4TdQqnYKKsou7eHxpPGrRK"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "is this my life",
+      "url": "https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG"
+    },
+    {
+      "album": {
         "name": "issa wrap",
         "url": "https://open.spotify.com/album/1hZUjmEmVscMXIm40yxMgJ"
       },
@@ -20248,7 +20288,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 105999,
       "name": "Jagger",
       "url": "https://open.spotify.com/track/1Xo1xMK0kBA7W8KpoizQwf"
@@ -24186,6 +24226,24 @@
     {
       "album": {
         "name": "Make It Look Sexy",
+        "url": "https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH"
+      },
+      "artists": [
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156471,
+      "name": "Make It Look Sexy",
+      "url": "https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh"
+    },
+    {
+      "album": {
+        "name": "Make It Look Sexy",
         "url": "https://open.spotify.com/album/4NGww4sc0PTeW47dsAtALE"
       },
       "artists": [
@@ -26529,6 +26587,24 @@
     },
     {
       "album": {
+        "name": "Ms. Jackson",
+        "url": "https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U"
+      },
+      "artists": [
+        {
+          "name": "Young Roddo",
+          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123695,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv"
+    },
+    {
+      "album": {
         "name": "porno story",
         "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
       },
@@ -27732,6 +27808,24 @@
       "duration_ms": 114217,
       "name": "No Amends",
       "url": "https://open.spotify.com/track/7aSecH0g4ZovVsR7E7GmBv"
+    },
+    {
+      "album": {
+        "name": "No Bad Grades",
+        "url": "https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey"
+      },
+      "artists": [
+        {
+          "name": "Young Roddo",
+          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111958,
+      "name": "No Bad Grades",
+      "url": "https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA"
     },
     {
       "album": {
@@ -33262,7 +33356,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 228676,
       "name": "Ri0T",
       "url": "https://open.spotify.com/track/5Rw4P3f2hGrtlMwd14cQkL"
@@ -34702,7 +34796,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 130413,
       "name": "SCUBA JUKE(IT STANKKK)",
       "url": "https://open.spotify.com/track/5wyY9C3wf87OquHFiV0Ze4"

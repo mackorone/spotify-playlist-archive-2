@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -23342,7 +23342,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 158066,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/26aKKjFnNaFcibeQXkzrIE"
@@ -39004,6 +39004,24 @@
     {
       "album": {
         "name": "No Love",
+        "url": "https://open.spotify.com/album/4TPHGr8hZAJrjLeqmxiMBe"
+      },
+      "artists": [
+        {
+          "name": "3GAR BABY",
+          "url": "https://open.spotify.com/artist/7FFt9BwdIUnMLrdxkrT9et"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133713,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/2O4CcYOvOmWoChootLgfCC"
+    },
+    {
+      "album": {
+        "name": "No Love",
         "url": "https://open.spotify.com/album/21vNAtLqNzZAL7au8IlVeL"
       },
       "artists": [
@@ -39014,7 +39032,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 182256,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3jXLfDgKj2uAtXIbWCYe3V"
@@ -47434,7 +47452,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 185491,
       "name": "Seg\u00f0u m\u00e9r",
       "url": "https://open.spotify.com/track/0Ra5YavppPCcw5XQY9RG31"
@@ -53644,7 +53662,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -55770,7 +55788,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 244400,
       "name": "This Is a Broadcast",
       "url": "https://open.spotify.com/track/6BsXfgyqInoVcErTR6bBIx"
@@ -60312,7 +60330,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 168456,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5QyXOQg3UVlvAg8h5SUwlK"
@@ -65850,7 +65868,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Sridevi
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,604 likes - 101 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,634 likes - 101 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

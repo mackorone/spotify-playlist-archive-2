@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111636,
+  "num_followers": 111639,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
-      },
-      "artists": [
-        {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Popstar Party",
         "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 188764,
       "name": "Popstar Party",
       "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 161289,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
-      },
-      "artists": [
-        {
-          "name": "Genio Bambino",
-          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 197956,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
+      },
+      "artists": [
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Twin Peaks",
-        "url": "https://open.spotify.com/album/7MWF2QqZsOEMuwCcD8Fvvq"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Twin Peaks",
-      "url": "https://open.spotify.com/track/3ShgDnsDUt3p8gp8eg7K3O"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Lust In Lagos",
         "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 211934,
       "name": "Soft Prayer",
       "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Twin Peaks",
+        "url": "https://open.spotify.com/album/7MWF2QqZsOEMuwCcD8Fvvq"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Twin Peaks",
+      "url": "https://open.spotify.com/track/3ShgDnsDUt3p8gp8eg7K3O"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
+      },
+      "artists": [
+        {
+          "name": "DOLV GVNG",
+          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
+        },
+        {
+          "name": "TILYA",
+          "url": "https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 119092,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Clear Mind",
         "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
       },
@@ -1143,30 +1167,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
-      },
-      "artists": [
-        {
-          "name": "DOLV GVNG",
-          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
-        },
-        {
-          "name": "TILYA",
-          "url": "https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 119092,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -1179,42 +1179,6 @@
       "duration_ms": 148397,
       "name": "UPGRADE",
       "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "My letter to Zayn",
-        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "King Wizard",
-          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "My letter to Zayn",
-      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "MOSQUITOES",
-        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
-      },
-      "artists": [
-        {
-          "name": "Amanya",
-          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
-        }
-      ],
-      "duration_ms": 107368,
-      "name": "MOSQUITOES",
-      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1239,6 +1203,26 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "My letter to Zayn",
+        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "My letter to Zayn",
+      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Princessa",
         "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "MOSQUITOES",
+        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
+      },
+      "artists": [
+        {
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
+        }
+      ],
+      "duration_ms": 107368,
+      "name": "MOSQUITOES",
+      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "follow",
-        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
-      },
-      "artists": [
-        {
-          "name": "Lod\u00f9",
-          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
-        }
-      ],
-      "duration_ms": 149708,
-      "name": "follow",
-      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "infrunayou",
         "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 144000,
       "name": "infrunayou",
       "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+      },
+      "artists": [
+        {
+          "name": "Lod\u00f9",
+          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+        }
+      ],
+      "duration_ms": 149708,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 193453,
       "name": "Nana",
       "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 148137,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1415,6 +1399,22 @@
       "duration_ms": 126000,
       "name": "DUA PA",
       "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 148137,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Pray for the Kids",
-        "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 186636,
-      "name": "Pray for the Kids",
-      "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "LAGOS",
         "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 180000,
       "name": "LAGOS",
       "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Pray for the Kids",
+        "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 186636,
+      "name": "Pray for the Kids",
+      "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

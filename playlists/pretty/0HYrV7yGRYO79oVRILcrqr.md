@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,820 likes - 149 songs - 9 hr 25 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,820 likes - 151 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 147 | [Crave Me](https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Crave Me](https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK) | 2:31 |
 | 148 | [Cheese Is Illegal](https://open.spotify.com/track/5mSj7KV5jbZlZXuoHtMfV6) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 3:20 |
 | 149 | [Promised Land](https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92) | [Lynn & the RattleShakes](https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig) | [Beyond Rock 'n Roll](https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg) | 4:06 |
+| 150 | [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 |
+| 151 | [YOUR PAIN](https://open.spotify.com/track/5PIQLaJ46BXWEJnaEmy3vS) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3), [SUNAIRAPPER](https://open.spotify.com/artist/45DkBg9P60otTaU9aC7Nya) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:36 |
 
-Snapshot ID: `AAALcMwr+3wXaq2+xxRWuYank6ymuwhf`
+Snapshot ID: `AAALcrNLpHfHeoros6yuDKWt76oFoHEG`

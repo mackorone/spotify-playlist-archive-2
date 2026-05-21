@@ -1,18 +1,18 @@
 {
   "description": "The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire. Now streaming on Disney+!",
-  "num_followers": 91724,
+  "num_followers": 91794,
   "original_name": "The Mandalorian Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI93ESmQVQzJm5MVrESu+AXQIEGv",
+  "snapshot_id": "AAAAAItEUfTRU1jYNNwGoUbGtiVM35fQ",
   "tracks": [
     {
-      "added_at": "2025-07-01 13:00:09",
+      "added_at": "2026-05-20 14:30:33",
       "album": {
-        "name": "The Mandalorian: Chapter 1 (Original Score)",
-        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 198861,
-      "name": "The Mandalorian",
-      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+      "duration_ms": 187221,
+      "name": "The Mandalorian and Grogu",
+      "url": "https://open.spotify.com/track/2soMoQzD2HlsVmys7Se3Pq"
     },
     {
       "added_at": "2025-07-01 13:00:09",
@@ -459,6 +459,22 @@
       "duration_ms": 104307,
       "name": "Double Signet",
       "url": "https://open.spotify.com/track/5pMrniTTUUYfWUeccmHEZH"
+    },
+    {
+      "added_at": "2025-07-01 13:00:09",
+      "album": {
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 198861,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
     },
     {
       "added_at": "2025-07-01 13:00:09",

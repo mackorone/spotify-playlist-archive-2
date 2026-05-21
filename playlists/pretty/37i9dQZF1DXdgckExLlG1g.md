@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Leanna Crawford
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,504 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,480 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Way Maker](https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08) | [SINACH](https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV) | [Way Maker](https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq) | 4:46 |
 | 50 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |
 
-Snapshot ID: `AAAAALwO2BZt04p5NZs9sW5aZUY4UJSP`
+Snapshot ID: `AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL`

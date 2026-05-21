@@ -1,36 +1,92 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 61157,
+  "num_followers": 61180,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGZj5Lj87shWDkSv6N3JX1kaN0Z",
+  "snapshot_id": "AAAAAP1/ifHxMORh9Uoh7/5RAn5N8hDz",
   "tracks": [
     {
-      "added_at": "2026-04-01 13:34:11",
+      "added_at": "2026-05-20 07:09:05",
       "album": {
-        "name": "Bride Song (From \"Gaayapadda Simham\")",
-        "url": "https://open.spotify.com/album/1FWny0iRfgIDRB8BegX9WU"
+        "name": "Geetanjali",
+        "url": "https://open.spotify.com/album/47kIGyjTnOO3dnLaZeCejc"
       },
       "artists": [
         {
-          "name": "Sweekar Agasthi",
-          "url": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
         }
       ],
-      "duration_ms": 196017,
-      "name": "Bride Song - From \"Gaayapadda Simham\"",
-      "url": "https://open.spotify.com/track/6TtJAaCHEiVBxxp1FBGN5W"
+      "duration_ms": 248308,
+      "name": "Jallantha",
+      "url": "https://open.spotify.com/track/4IPLeLGrZBfJGVIsVHojWb"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "duration_ms": 415503,
+      "name": "Poovullo Daagunna",
+      "url": "https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra"
+    },
+    {
+      "added_at": "2026-05-20 07:09:05",
+      "album": {
+        "name": "Missamma",
+        "url": "https://open.spotify.com/album/2rEVIdWzoeYDki0RM9NUrF"
+      },
+      "artists": [
+        {
+          "name": "Vandemataram Srinivas",
+          "url": "https://open.spotify.com/artist/6X7Q0PvITPOqe8vg4BW7Ib"
+        },
+        {
+          "name": "Vasundhara Das",
+          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
+        }
+      ],
+      "duration_ms": 263077,
+      "name": "Ne Padithey",
+      "url": "https://open.spotify.com/track/4m6RNUsHaQU2krtudrngCS"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Yemaaya Chesave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7n61GzJSBuZGrm8U1V9TLd"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Kalyani Menon",
+          "url": "https://open.spotify.com/artist/56cdU5EX1q2eqlhV0w2A6D"
+        }
+      ],
+      "duration_ms": 332866,
+      "name": "Kundanapu Bomma",
+      "url": "https://open.spotify.com/track/2xofTipSxfwbxwSdBcjYIe"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -51,26 +107,6 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
-    },
-    {
-      "added_at": "2025-02-10 12:33:38",
-      "album": {
-        "name": "ANIMAL (TELUGU)",
-        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Evarevaro",
-      "url": "https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p"
     },
     {
       "added_at": "2026-01-16 04:59:17",
@@ -95,6 +131,26 @@
       "duration_ms": 186547,
       "name": "Chitti",
       "url": "https://open.spotify.com/track/5aaY1uspY7bZbdal535FZm"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Sakhi",
+        "url": "https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        }
+      ],
+      "duration_ms": 361666,
+      "name": "Pachchadanamey",
+      "url": "https://open.spotify.com/track/5eQYzdcEDOhvJ4ClsUQB3C"
     },
     {
       "added_at": "2026-04-27 07:01:19",
@@ -123,26 +179,6 @@
       "duration_ms": 215040,
       "name": "Thassadiya - From \"Maa Inti Bangaaram\"",
       "url": "https://open.spotify.com/track/544e9hW6ojayi4ir5DufOK"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Sakhi",
-        "url": "https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Clinton Cerejo",
-          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
-        }
-      ],
-      "duration_ms": 361666,
-      "name": "Pachchadanamey",
-      "url": "https://open.spotify.com/track/5eQYzdcEDOhvJ4ClsUQB3C"
     },
     {
       "added_at": "2021-10-21 04:58:47",
@@ -235,6 +271,30 @@
       "duration_ms": 332013,
       "name": "Monna Kanipinchavu",
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
+    },
+    {
+      "added_at": "2026-04-01 13:34:11",
+      "album": {
+        "name": "Bride Song (From \"Gaayapadda Simham\")",
+        "url": "https://open.spotify.com/album/1FWny0iRfgIDRB8BegX9WU"
+      },
+      "artists": [
+        {
+          "name": "Sweekar Agasthi",
+          "url": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 196017,
+      "name": "Bride Song - From \"Gaayapadda Simham\"",
+      "url": "https://open.spotify.com/track/6TtJAaCHEiVBxxp1FBGN5W"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -367,30 +427,6 @@
       "duration_ms": 294115,
       "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Yemaaya Chesave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7n61GzJSBuZGrm8U1V9TLd"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Kalyani Menon",
-          "url": "https://open.spotify.com/artist/56cdU5EX1q2eqlhV0w2A6D"
-        }
-      ],
-      "duration_ms": 332866,
-      "name": "Kundanapu Bomma",
-      "url": "https://open.spotify.com/track/2xofTipSxfwbxwSdBcjYIe"
     },
     {
       "added_at": "2026-01-16 04:59:17",
@@ -613,26 +649,6 @@
       "url": "https://open.spotify.com/track/1JvPjn3wZgJvnlud83q4uU"
     },
     {
-      "added_at": "2022-10-14 09:23:18",
-      "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Anitha",
-          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Idhedho Bagundhe",
-      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
-    },
-    {
       "added_at": "2022-10-13 05:39:22",
       "album": {
         "name": "Gabbar Singh",
@@ -803,22 +819,18 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt"
+        "name": "Chandamama",
+        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
       },
       "artists": [
         {
-          "name": "Unnikrishnan",
-          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
-        },
-        {
-          "name": "Sujatha",
-          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+          "name": "Rajesh",
+          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
         }
       ],
-      "duration_ms": 415503,
-      "name": "Poovullo Daagunna",
-      "url": "https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra"
+      "duration_ms": 272759,
+      "name": "Buggey Bangarama",
+      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -855,22 +867,6 @@
       "duration_ms": 286354,
       "name": "Aakasam",
       "url": "https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Chandamama",
-        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
-      },
-      "artists": [
-        {
-          "name": "Rajesh",
-          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
-        }
-      ],
-      "duration_ms": 272759,
-      "name": "Buggey Bangarama",
-      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
     },
     {
       "added_at": "2022-10-13 05:39:22",

@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVZstSIHj+VoTjsDyYgUJ3BR0kL6f7",
+  "snapshot_id": "AAAVZ/r8znODKfWDM3F6ZMKeaYxsUmp9",
   "tracks": [
+    {
+      "added_at": "2026-05-20 13:55:08",
+      "album": {
+        "name": "SURGE",
+        "url": "https://open.spotify.com/album/0w70TDSfkeqRlCoHEutHZe"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "SURGE",
+      "url": "https://open.spotify.com/track/4ZgjsB7wOo7GYjOVGZtEY5"
+    },
     {
       "added_at": "2026-05-19 15:57:44",
       "album": {

@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "QUE DES PROBLEMES",
+      "url": "https://open.spotify.com/track/4IDoRmotkACHfWpuuijLWh"
+    },
+    {
+      "album": {
         "name": "PANDEMONIUM RELOADED",
         "url": "https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J"
       },

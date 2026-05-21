@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,347 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,399 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 51 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 |
 | 52 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |
 | 53 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
-| 54 | [Azeite de Reserva](https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Azeite de Reserva](https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA) | 3:33 |
-| 55 | [Na Mesa do Rei \- Ao Vivo](https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Na Mesa do Rei \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco) | 5:39 |
+| 54 | [Na Mesa do Rei \- Ao Vivo](https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Na Mesa do Rei \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco) | 5:39 |
+| 55 | [Azeite de Reserva](https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Azeite de Reserva](https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA) | 3:33 |
 | 56 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 57 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 |
 | 58 | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Passar pela Moenda \(Ao Vivo\)](https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc) | 5:21 |

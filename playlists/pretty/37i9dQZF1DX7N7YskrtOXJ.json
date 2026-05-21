@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 125751,
+  "num_followers": 125766,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
-      },
-      "artists": [
-        {
-          "name": "Karicia",
-          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
-        },
-        {
-          "name": "Grupo Karicia",
-          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Tomare Para Olvidar",
-      "url": "https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
+      },
+      "artists": [
+        {
+          "name": "Karicia",
+          "url": "https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd"
+        },
+        {
+          "name": "Grupo Karicia",
+          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Tomare Para Olvidar",
+      "url": "https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
         }
       ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+      "duration_ms": 226602,
+      "name": "Tu Vives Equivocada",
+      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1271,34 +1271,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Nectar Internacional",
-        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
       "artists": [
         {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 226602,
-      "name": "Tu Vives Equivocada",
-      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Pregonero",
-        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
-      },
-      "artists": [
-        {
-          "name": "Banda Conmoci\u00f3n",
-          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Flor de Cumbi\u00f3n",
-      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Pregonero",
+        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 157000,
+      "name": "Flor de Cumbi\u00f3n",
+      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 226882,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
       "artists": [
         {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 226882,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Me Tienes Que Olvidar / Tu Principe / Amor de Colegio / Baby Cuentale / Tu No Sabes",
         "url": "https://open.spotify.com/album/3UWX5hb5szWplNu1vU4iN7"
       },
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo"
       },
@@ -1539,26 +1523,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Sigo Enamorado de Ti",
         "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
       },
@@ -1575,6 +1539,42 @@
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
     },
     {
       "added_at": "2025-11-20 11:23:04",

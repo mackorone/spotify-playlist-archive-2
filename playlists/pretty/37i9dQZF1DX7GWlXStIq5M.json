@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma",
-  "num_followers": 361707,
+  "num_followers": 361704,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 192766,
-      "name": "Loira Gelada",
-      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "Sa\u00ed para ver o mar",
         "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 191810,
       "name": "Sa\u00ed para ver o mar",
       "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244809,
-      "name": "Fruto do Tempo",
-      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "FEL\u00cdDIA",
         "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 179874,
       "name": "Gata Anos 2000",
       "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244809,
+      "name": "Fruto do Tempo",
+      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -427,34 +427,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "NOVA: Energia",
-        "url": "https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "FIVE",
-          "url": "https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "NOVA: Energia",
-      "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "Oitava Maravilha",
         "url": "https://open.spotify.com/album/5FwTt373ypJJDubbvjkgtz"
       },
@@ -483,18 +455,30 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Sexta-feira",
-        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
+        "name": "NOVA: Energia",
+        "url": "https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "FIVE",
+          "url": "https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K"
         }
       ],
-      "duration_ms": 164885,
-      "name": "Sexta-feira",
-      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
+      "duration_ms": 168000,
+      "name": "NOVA: Energia",
+      "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -511,6 +495,22 @@
       "duration_ms": 152232,
       "name": "Os Mo\u00e7os da R\u00e1dio",
       "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "Sexta-feira",
+        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Sexta-feira",
+      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Solst\u00edcio",
         "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "Balelo",
-        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 170234,
-      "name": "Balelo",
-      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
         "name": "Ver\u00e3071",
         "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+        "name": "Balelo",
+        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+      "duration_ms": 170234,
+      "name": "Balelo",
+      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -795,6 +779,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -847,26 +867,6 @@
       "duration_ms": 130639,
       "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
       "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Baunilha",
+        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "duration_ms": 189054,
+      "name": "Baunilha",
+      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "Quero Sim, Quero N\u00e3o",
         "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Baunilha",
-        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
-      },
-      "artists": [
-        {
-          "name": "Sofia Oliveira",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Baunilha",
-      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
     },
     {
       "added_at": "2026-05-15 03:00:45",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-15 03:00:45",
       "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-05-15 03:00:45",
+      "album": {
         "name": "MUCHO SEXY - ASTRO SESSIONS",
         "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
-    },
-    {
-      "added_at": "2026-05-15 03:00:45",
-      "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
     },
     {
       "added_at": "2026-05-15 03:00:45",

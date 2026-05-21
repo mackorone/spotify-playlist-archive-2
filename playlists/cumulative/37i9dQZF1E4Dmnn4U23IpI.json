@@ -4438,7 +4438,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 228000,
       "name": "City Nights",
       "url": "https://open.spotify.com/track/7oeaTU3yc5WipFocCmRJPo"
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 324018,
       "name": "Days of Thunder",
       "url": "https://open.spotify.com/track/28uitw2AXQQIUHvSJW9qy6"
@@ -7134,7 +7134,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 222051,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/477qFNpf0lrYfIrxvGYdI6"
@@ -8990,7 +8990,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 339400,
       "name": "Fatal Obsession (feat. Jupiter Winter)",
       "url": "https://open.spotify.com/track/3GLhmBjqctLj3rP6g8KAvo"
@@ -9912,7 +9912,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 236007,
       "name": "Friction",
       "url": "https://open.spotify.com/track/4fX1MG6fdnCgtVRIVeTVoM"
@@ -11252,7 +11252,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 217259,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/51bHjrZNPhtRl0rQCRokwO"
@@ -15342,7 +15342,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 277335,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/6BHWr5TZ3YV1xczv3n5OZj"
@@ -18008,7 +18008,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 265074,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/4ZxfbHZufqs1EZhMVBvqIl"
@@ -18754,7 +18754,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 262500,
       "name": "Nothing Beats Like A Heart",
       "url": "https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y"
@@ -18888,6 +18888,24 @@
       "duration_ms": 254546,
       "name": "Now and Forever",
       "url": "https://open.spotify.com/track/15cliG4Isg6lP4TyvqVoxb"
+    },
+    {
+      "album": {
+        "name": "Returning Home",
+        "url": "https://open.spotify.com/album/03bCoBQ99vzNJM2eRsLy3O"
+      },
+      "artists": [
+        {
+          "name": "New Arcades",
+          "url": "https://open.spotify.com/artist/47L5KPLfDahuPp5llMO2wF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Now and Forever",
+      "url": "https://open.spotify.com/track/5City0XSRbEfO16VtuBFZM"
     },
     {
       "album": {
@@ -23570,7 +23588,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 203369,
       "name": "Sing It Louder",
       "url": "https://open.spotify.com/track/3T3B2VppIHXaYvJneNcTAZ"
@@ -24664,7 +24682,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -25336,7 +25354,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 411447,
       "name": "Summer's Ending Soon",
       "url": "https://open.spotify.com/track/7csPHOShFYj9SIFuJOUIsM"
@@ -26370,7 +26388,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 325573,
       "name": "Tech Noir 2 (feat. John Carpenter, Charlie Simpson)",
       "url": "https://open.spotify.com/track/6sm8udxa0SvDUMJ2jchWe7"
@@ -26630,7 +26648,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 321916,
       "name": "The Comeback Kid",
       "url": "https://open.spotify.com/track/58COsyYbJwWlKmVM5eAYlB"
@@ -29252,7 +29270,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 198688,
       "name": "Wanderers",
       "url": "https://open.spotify.com/track/3ZmNtoa1me9KilDTlcvwNq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Darla Baltazar",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sal Ly",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 251666,
       "name": "beauty & love",
       "url": "https://open.spotify.com/track/4XGkBfD397mVlrFwC7W9yY"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 140302,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4aT3R0Z3sXt3EPRpcNvOdQ"
@@ -5380,7 +5380,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 190133,
       "name": "Faithful (To The End)",
       "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 237428,
       "name": "FEELS SO GOOD TO BE FREE",
       "url": "https://open.spotify.com/track/2OWodsuRDYoWIQwa5BWKVV"
@@ -8755,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "How The Story Goes",
+        "url": "https://open.spotify.com/album/61KV6wIvib96Ms0SPqz3W0"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163038,
+      "name": "How The Story Goes",
+      "url": "https://open.spotify.com/track/4NAsqMOlrIhWwDMHh3PL5m"
+    },
+    {
+      "album": {
         "name": "how to let go",
         "url": "https://open.spotify.com/album/6KFqbpKkrtqjSYCNvTBb8N"
       },
@@ -11272,7 +11290,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 145058,
       "name": "Little",
       "url": "https://open.spotify.com/track/2B0aTNe9W9k4cH9tGGsCvd"
@@ -12609,6 +12627,32 @@
     },
     {
       "album": {
+        "name": "Mothers Womb",
+        "url": "https://open.spotify.com/album/6IWdFdH83oYb9L2sSMLvvb"
+      },
+      "artists": [
+        {
+          "name": "ALTAR POETRY",
+          "url": "https://open.spotify.com/artist/3c1TfhJzB4ZYEiaWQPRNdv"
+        },
+        {
+          "name": "Cory Simon",
+          "url": "https://open.spotify.com/artist/3cotWBCaWoM2BIG24Dy1f6"
+        },
+        {
+          "name": "Kelly B.",
+          "url": "https://open.spotify.com/artist/2NoppAhDqgz87PiUyV3tte"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276517,
+      "name": "Mothers Womb",
+      "url": "https://open.spotify.com/track/0v7tqM086OM3qguLPv79Zl"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/44AsHMlJ4gXid3pZnDxlK1"
       },
@@ -13856,7 +13900,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-21",
       "duration_ms": 200869,
       "name": "Off Days",
       "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
@@ -15639,6 +15683,24 @@
     },
     {
       "album": {
+        "name": "redeemed",
+        "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205448,
+      "name": "redeemed",
+      "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
+    },
+    {
+      "album": {
         "name": "Relicario",
         "url": "https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf"
       },
@@ -16392,6 +16454,24 @@
       "duration_ms": 187862,
       "name": "satisfy",
       "url": "https://open.spotify.com/track/0RrHaxsOxMTwRnH4X38Tvh"
+    },
+    {
+      "album": {
+        "name": "OFFDAYS",
+        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175968,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
       "album": {
@@ -19904,6 +19984,28 @@
       "duration_ms": 194526,
       "name": "Under the Same Sky",
       "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
+    },
+    {
+      "album": {
+        "name": "Union",
+        "url": "https://open.spotify.com/album/66W9AgljBwVVT80qrgBNP5"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        },
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "date_added": "2026-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316944,
+      "name": "Union",
+      "url": "https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK"
     },
     {
       "album": {

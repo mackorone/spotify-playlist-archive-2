@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 29127,
+  "num_followers": 29204,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agpWgAAAAACZyFTO1Wn/dlxqn7gL2Fsq",
+  "snapshot_id": "aguoAAAAAABR6H+RombuQxKWzCNDcjHr",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnet Mania!",
-        "url": "https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ"
+        "name": "Escape From Tiger Island!",
+        "url": "https://open.spotify.com/album/2B9Nqk0mkXmEr7n23dUVs8"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 341374,
-      "name": "Magnet Mania!",
-      "url": "https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB"
+      "duration_ms": 271266,
+      "name": "Escape From Tiger Island! - Jungle Adventure",
+      "url": "https://open.spotify.com/track/3eyC4jl1SINfcVdW7yJXNP"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape From Tiger Island!",
-        "url": "https://open.spotify.com/album/2B9Nqk0mkXmEr7n23dUVs8"
+        "name": "Magnet Mania!",
+        "url": "https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Escape From Tiger Island! - Jungle Adventure",
-      "url": "https://open.spotify.com/track/3eyC4jl1SINfcVdW7yJXNP"
+      "duration_ms": 341374,
+      "name": "Magnet Mania!",
+      "url": "https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
-        "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 454854,
-      "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
-      "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Day (Good Morning Dance)",
         "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176609,
       "name": "Brand New Day - Good Morning Dance",
       "url": "https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
+        "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 454854,
+      "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
+      "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Dance",
-        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "The Color Dance",
-      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Space Race Planet Dance",
         "url": "https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 240393,
       "name": "The Space Race Planet Dance",
       "url": "https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Dance",
+        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "The Color Dance",
+      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
       "duration_ms": 70218,
       "name": "Bluey Theme - Acapella Version",
       "url": "https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
-        "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 470719,
-      "name": "Space Race - Lullaby Version",
-      "url": "https://open.spotify.com/track/0XR0JroNI3KATMxvQh0ETy"
     }
   ],
   "unique_name": "This Is Danny Go!",

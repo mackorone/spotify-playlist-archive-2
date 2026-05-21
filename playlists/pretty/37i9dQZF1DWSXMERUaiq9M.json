@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 385585,
+  "num_followers": 385794,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Breakin' Dishes",
         "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
       },
@@ -707,6 +687,22 @@
       "duration_ms": 133517,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -731,18 +727,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 216778,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Sturm und Drang",
         "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 216778,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Le Ball",
-        "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 96187,
-      "name": "Le Ball",
-      "url": "https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
       },
@@ -999,18 +979,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+        "name": "Le Ball",
+        "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
         }
       ],
-      "duration_ms": 168173,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+      "duration_ms": 96187,
+      "name": "Le Ball",
+      "url": "https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1087,22 +1103,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
-      },
-      "artists": [
-        {
-          "name": "Sacha Harland",
-          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
-        }
-      ],
-      "duration_ms": 144081,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -1451,22 +1435,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Damager",
-        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         }
       ],
-      "duration_ms": 224591,
-      "name": "Damager",
-      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1483,6 +1463,26 @@
       "duration_ms": 164121,
       "name": "Call Me Babe",
       "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "You Need The Drugs (Kobosil Kartell Mix)",
-        "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
-      },
-      "artists": [
-        {
-          "name": "Westbam",
-          "url": "https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR"
-        },
-        {
-          "name": "Kobosil",
-          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
-        },
-        {
-          "name": "Richard Butler",
-          "url": "https://open.spotify.com/artist/5fVMfAQORpuaEoScZO3PBc"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "You Need The Drugs - Kobosil Kartell Mix",
-      "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh"
       },
@@ -1635,6 +1611,30 @@
       "duration_ms": 121800,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "You Need The Drugs (Kobosil Kartell Mix)",
+        "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
+      },
+      "artists": [
+        {
+          "name": "Westbam",
+          "url": "https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR"
+        },
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Richard Butler",
+          "url": "https://open.spotify.com/artist/5fVMfAQORpuaEoScZO3PBc"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "You Need The Drugs - Kobosil Kartell Mix",
+      "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Atlantis (Edit)",
+        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Atlantis - Edit",
+      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 200000,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Atlantis (Edit)",
-        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Atlantis - Edit",
-      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184770,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 172400,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184770,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Spectral Bells",
-        "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 193907,
-      "name": "Spectral Bells",
-      "url": "https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "BR3ATH3",
         "url": "https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 289000,
       "name": "BR3ATH3",
       "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Spectral Bells",
+        "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 193907,
+      "name": "Spectral Bells",
+      "url": "https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc"
     },
     {
       "added_at": "2026-05-18 12:54:15",
