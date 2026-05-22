@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Bleech 9:3",
+  "description": "Discover your new favourite artists from UK&IE. Cover: SIPHO.",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -956,6 +956,24 @@
       "duration_ms": 226737,
       "name": "Closer to God",
       "url": "https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2"
+    },
+    {
+      "album": {
+        "name": "YEARN",
+        "url": "https://open.spotify.com/album/0Xr17VqsmUp7Gb0er8vMjy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166316,
+      "name": "COCOA BUTTER & CIGARETTES",
+      "url": "https://open.spotify.com/track/2Hl7Tmnn8y8C7UNHzXQk2b"
     },
     {
       "album": {

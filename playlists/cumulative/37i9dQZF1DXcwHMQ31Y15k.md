@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vadesta
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
 
-586 songs - 2 day 1 hr 13 min
+588 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
 | [Padahal Aku Tulus](https://open.spotify.com/track/19BTVbtFnDAzb9BqDlQdJA) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Padahal Aku Tulus](https://open.spotify.com/album/6jfhow4LcnaJBttaPRgJRm) | 4:45 | 2025-01-30 | 2025-05-02 |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 | 2023-08-11 |
+| [Pamit Rabi](https://open.spotify.com/track/1dzZqPKyR5JC1yctaNRaM6) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Pamit Rabi](https://open.spotify.com/album/2oXecErIJ48hMAWnMgNmxX) | 4:48 | 2026-05-21 |  |
 | [Pangarepan](https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Pangarepan](https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu) | 5:47 | 2024-12-13 | 2025-06-13 |
 | [Pangestu](https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Pangestu](https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL) | 4:51 | 2023-08-17 | 2024-03-15 |
 | [Pasukan Anti Prei](https://open.spotify.com/track/0dsFfIJm5bnQJFcSprA9DN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pasukan Anti Prei](https://open.spotify.com/album/3S9MsMqFeQaov7XIsVVfm8) | 4:30 | 2024-06-13 | 2024-06-14 |
@@ -481,6 +482,7 @@
 | [Segara Madu](https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu](https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR) | 4:41 | 2024-11-21 | 2025-09-20 |
 | [Segara Madu \- Live](https://open.spotify.com/track/7Id7tgYD70axlBdCtDTzk3) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Segara Madu \(Live\)](https://open.spotify.com/album/6l7CzsJBYEFlf8SbPOdY6K) | 5:55 | 2025-08-21 | 2025-11-14 |
 | [Segara Madu \- Live](https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu \(Live\)](https://open.spotify.com/album/1H4fbANs1S0ZsSBCuWVlOg) | 6:00 | 2024-11-28 | 2025-02-21 |
+| [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/track/4ZiayQbjKSz98hbUygBrc6) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/album/1tnRVtz5YEMb8eagnIkgz6) | 5:28 | 2026-05-21 |  |
 | [Sekti](https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq) | [Suliyana](https://open.spotify.com/artist/4TJKjrYnqDXwBi1xJ5CyUc) | [Sekti](https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO) | 4:42 | 2024-10-24 | 2025-06-27 |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
 | [Selendang Biru](https://open.spotify.com/track/4R6DWZXWg8DzJYUMNJmBuU) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Selendang Biru](https://open.spotify.com/album/3OTKfpbg9kfDwGyeoKlBPR) | 5:16 | 2024-04-25 | 2024-10-19 |

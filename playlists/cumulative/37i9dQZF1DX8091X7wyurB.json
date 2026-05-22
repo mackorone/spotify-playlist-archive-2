@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 550000,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw"
@@ -1576,10 +1576,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 1531221,
       "name": "Basket of Praise",
       "url": "https://open.spotify.com/track/7HV1lnTjxpdEvaPhfnieXe"
+    },
+    {
+      "album": {
+        "name": "BASKET OF PRAISE 3.0",
+        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1615365,
+      "name": "BASKET OF PRAISE 3.0",
+      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
     },
     {
       "album": {
@@ -1947,6 +1965,40 @@
     },
     {
       "album": {
+        "name": "Boboobor Hymns",
+        "url": "https://open.spotify.com/album/60wjJi92ypV72DYXUAp633"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Tembalami",
+          "url": "https://open.spotify.com/artist/4xKkR6aTDm0Qc9m9iXjMoZ"
+        },
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        },
+        {
+          "name": "Uncle Ato",
+          "url": "https://open.spotify.com/artist/41RvOKpc8MwUfJQL9K6ic6"
+        },
+        {
+          "name": "Zaza Mokhethi",
+          "url": "https://open.spotify.com/artist/0oPjCq3A8Q7AdPIRjjQVqL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 958959,
+      "name": "Boboobor Hymns",
+      "url": "https://open.spotify.com/track/0UV47FPmVj6BY0Z3QLMF6q"
+    },
+    {
+      "album": {
         "name": "God, In all Seasons",
         "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
       },
@@ -2212,7 +2264,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -2514,7 +2566,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 356000,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV"
@@ -7970,7 +8022,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 250000,
       "name": "In Christ",
       "url": "https://open.spotify.com/track/3QmrSorHWKEqGWaQW79CuN"
@@ -9256,6 +9308,36 @@
       "duration_ms": 155513,
       "name": "Love Is Sweet",
       "url": "https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE"
+    },
+    {
+      "album": {
+        "name": "Love lifted me",
+        "url": "https://open.spotify.com/album/4k0oK8dni5zooCkPxHFXXr"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Love lifted me",
+      "url": "https://open.spotify.com/track/7Dh3nIB06U3E36uRzoto6B"
     },
     {
       "album": {
@@ -11126,7 +11208,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 345195,
       "name": "No Regret",
       "url": "https://open.spotify.com/track/2V4cXp1Tg9YnyDI19iAsYg"
@@ -11650,6 +11732,24 @@
       "duration_ms": 504000,
       "name": "Oke Mmiri - Live",
       "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+    },
+    {
+      "album": {
+        "name": "Olilayakedinso",
+        "url": "https://open.spotify.com/album/3ijAq3OcOp11IvIi7MdaUJ"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139355,
+      "name": "Olilayakedinso",
+      "url": "https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg"
     },
     {
       "album": {
@@ -13783,6 +13883,24 @@
     },
     {
       "album": {
+        "name": "Sounds Of Healings And Hope",
+        "url": "https://open.spotify.com/album/1VwePyJjCPQK1qiTwqKDjb"
+      },
+      "artists": [
+        {
+          "name": "That Voice",
+          "url": "https://open.spotify.com/artist/3HE6xQTjAMyM3ASXdn1d81"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671425,
+      "name": "Sounds Of Healings And Hope",
+      "url": "https://open.spotify.com/track/5FDGu5dbFXb7F6WVrZSLCB"
+    },
+    {
+      "album": {
         "name": "Tehillah",
         "url": "https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO"
       },
@@ -14646,7 +14764,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 1434686,
       "name": "The King's Worship medley 1",
       "url": "https://open.spotify.com/track/6t6Mpz45ZnhJ8EYhjmLf9i"
@@ -14828,7 +14946,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 497625,
       "name": "Themba Lethu - Live at the Durban ICC/ 2025",
       "url": "https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu"
@@ -15916,7 +16034,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 195931,
       "name": "We Pray",
       "url": "https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F"
@@ -16820,7 +16938,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 856000,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/7keSeJsCKZCTGq2bv03jnN"
@@ -17136,7 +17254,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"

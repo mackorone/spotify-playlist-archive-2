@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 257044,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5gg9JB1kQyEROTsPpcWNLB"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 177968,
       "name": "Deeper Than Love",
       "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 258228,
       "name": "ear to the cocoon",
       "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
@@ -2244,6 +2244,24 @@
       "duration_ms": 242151,
       "name": "Folded (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73"
+    },
+    {
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
     },
     {
       "album": {
@@ -3500,6 +3518,24 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "album": {
+        "name": "In My Face",
+        "url": "https://open.spotify.com/album/59zlUYZSvhuCVykYcKPzTT"
+      },
+      "artists": [
+        {
+          "name": "DVYN",
+          "url": "https://open.spotify.com/artist/2lNzOGT77XIuh6iRkLnWzw"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "In My Face",
+      "url": "https://open.spotify.com/track/3rYcRzz27T43kIjxb4hfHw"
     },
     {
       "album": {
@@ -4780,7 +4816,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184399,
       "name": "Not a Love Song",
       "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
@@ -5686,7 +5722,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 255600,
       "name": "Scene 2",
       "url": "https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw"
@@ -7428,6 +7464,24 @@
       "duration_ms": 438400,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd"
+    },
+    {
+      "album": {
+        "name": "WAHALA RIDDIM",
+        "url": "https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "WAHALA RIDDIM",
+      "url": "https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8"
     },
     {
       "album": {

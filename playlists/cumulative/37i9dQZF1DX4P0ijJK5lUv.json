@@ -36,23 +36,19 @@
       },
       "artists": [
         {
-          "name": "Richard Hayman",
-          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
-        },
-        {
-          "name": "Frederick Delius",
-          "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
-        },
-        {
           "name": "Richard Hayman Symphony Orchestra",
           "url": "https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL"
+        },
+        {
+          "name": "Richard Hayman",
+          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
         }
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 323813,
-      "name": "3 Small Tone Poems: Sleigh Ride",
+      "name": "3 Small Tone Poems: No. 2, Sleigh Ride",
       "url": "https://open.spotify.com/track/4neZXVW8K9g0h39Zg5PAwC"
     },
     {
@@ -2020,10 +2016,6 @@
       },
       "artists": [
         {
-          "name": "Philip Lane",
-          "url": "https://open.spotify.com/artist/5qKvXWZMr3bTKBbmvpL5ef"
-        },
-        {
           "name": "Leopold Mozart",
           "url": "https://open.spotify.com/artist/5s4B01oaRxqTvONFg7Ymv1"
         },
@@ -2040,7 +2032,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192826,
-      "name": "Divertimento in F Major, \"Die musikalische Schlittenfahrt\" (The Musical Sleigh-ride)",
+      "name": "Divertimento in F Major, \"Die musikalische Schlittenfahrt\" (The Musical Sleigh-ride) [Arr. P. Lane]",
       "url": "https://open.spotify.com/track/3h6dvKJKvne7Ngqpihab3z"
     },
     {
@@ -4470,8 +4462,8 @@
           "url": "https://open.spotify.com/artist/5RCRTsD0n0SJwxT5PVWhEA"
         },
         {
-          "name": "Cologne Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
         },
         {
           "name": "Helmut M\u00fcller-Br\u00fchl",
@@ -4482,7 +4474,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121066,
-      "name": "O di Betlemme, altera poverta ventu: I. Sinfonia",
+      "name": "O di Betlemme altera povert\u00e0 venturosa: Sinfonia",
       "url": "https://open.spotify.com/track/1MQJgscb4DOyzxaROSLEmc"
     },
     {

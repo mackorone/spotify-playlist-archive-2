@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 41 songs - 2 hr 39 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 42 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 39 | [Belong](https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Belong](https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv) | 3:34 |
 | 40 | [Bored To Death \- Savoir Adore Remix](https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Bored To Death \(Savoir Adore Remix\)](https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK) | 2:37 |
 | 41 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 |
+| 42 | [Beautiful Life](https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO) | [Atomic Ritual](https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc) | [Beautiful Life](https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv) | 2:39 |
 
-Snapshot ID: `AAAkPp2IHKd7eWxiQyjmUBvsO+okF8sB`
+Snapshot ID: `AAAkP/C/N4VPlS/Slgsvm/hIgf6/huKV`

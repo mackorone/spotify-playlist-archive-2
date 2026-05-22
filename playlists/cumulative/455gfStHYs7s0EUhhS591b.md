@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-274 songs - 16 hr 3 min
+275 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Feeling](https://open.spotify.com/track/5nF1BWaR6390hjsImioVrF) | [SAMAHA \(EG\)](https://open.spotify.com/artist/6OZynIWFMwfKw4DCtm7qjc) | [Feeling](https://open.spotify.com/album/3zUch6dwgTwAx9c1HOZcvL) | 4:51 | 2026-01-23 |  |
 | [Fire \- KAAK Remix](https://open.spotify.com/track/5IjtzKf1dNEwakXiITP5b4) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [KAAK](https://open.spotify.com/artist/5uUkDNkCBnWiPHaXEn7ZGK) | [Fire \(KAAK Remix\)](https://open.spotify.com/album/3ENkWZibB8asDsNe7ey1aV) | 3:40 | 2026-04-17 |  |
 | [Flight Flow](https://open.spotify.com/track/6pb8lwmWQ0m580npJqQq6W) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [Armada Deep \- Ibiza Closing Party 2018](https://open.spotify.com/album/4FXKTIqMH6oPSMGCqsEO3U) | 4:33 | 2025-06-19 |  |
+| [Free](https://open.spotify.com/track/05fAoiviolM02XUiWrIAnw) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Daddy's Groove](https://open.spotify.com/artist/3kcQ94iDBwumLfddrCrse8), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Free](https://open.spotify.com/album/2wDPR78l18Nf3fk4Pytova) | 3:33 | 2026-05-22 |  |
 | [Freedom \- James Bright Remix](https://open.spotify.com/track/1O09SVXqVxRTJk22WFtaNa) | [Lova](https://open.spotify.com/artist/0P9scFayfYaGVsNvebpjvo), [James Bright](https://open.spotify.com/artist/7JcxJ3BRljo49dQVZ5tCFs) | [Freedom \(James Bright Remix\)](https://open.spotify.com/album/05Yr03v0AqFKGdUCCP9Zmh) | 4:00 | 2025-06-19 |  |
 | [Freefall](https://open.spotify.com/track/6JtjZ7vRHhVJpRb3sOUQAW) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Mark Jenkyns](https://open.spotify.com/artist/4F5ofqBr0KhcA7LYLFnlJy), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Freefall](https://open.spotify.com/album/3bOGRn6mNWGYzch8kZ21lh) | 3:45 | 2025-06-19 |  |
 | [Fuse \- Eelke Kleijn Remix](https://open.spotify.com/track/0XVmO00eD5WXreA0LPS8px) | [Shelter Point](https://open.spotify.com/artist/154Kx4utAjEgGYu257wPvh), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Chill Executive Officer \(CEO\), Vol\. 3 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5E3FfLo4FlN9eDvO1OS1zA) | 3:44 | 2025-07-18 | 2026-04-18 |

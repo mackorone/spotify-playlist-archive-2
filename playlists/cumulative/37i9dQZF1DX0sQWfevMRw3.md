@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,653 songs - 2 day 20 hr 33 min
+1,655 songs - 2 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [ALKOHOL](https://open.spotify.com/track/1VozMxhW4wB8Xhe29w6FTa) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [ALKOHOL](https://open.spotify.com/album/76jwHf1OBMPy1AcJOKV4ZU) | 2:45 | 2023-09-28 | 2024-01-19 |
 | [ALKOHOLIST](https://open.spotify.com/track/06yI3fi0iMjOCCHhYYJ50m) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [ALKOHOLIST](https://open.spotify.com/album/0G7v1QM6RgoBkh5joLxncS) | 2:13 | 2025-12-25 |  |
 | [All In](https://open.spotify.com/track/0T2y8rIERl7dJkoWk7tdzV) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [All In](https://open.spotify.com/album/1efuWZm06HQf4lUToXwuLE) | 2:43 | 2025-06-06 | 2026-02-17 |
+| [All in för Sverige \(VM\-låt 2026\)](https://open.spotify.com/track/3AGFGLUAhu0Cwv1Mkea3d4) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [All in för Sverige \(VM\-låt 2026\)](https://open.spotify.com/album/4gZvTQm8EXL0tJtHU3cY3w) | 3:12 | 2026-05-21 |  |
 | [All the Small Things](https://open.spotify.com/track/2aZYAGvCb8Z9JEJERqO7FW) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [All the Small Things](https://open.spotify.com/album/5yAri6Q7WTGKI9g7zIdDQP) | 2:17 | 2022-10-13 | 2022-11-25 |
 | [ALLA FLICKORNA](https://open.spotify.com/track/6RRaUwyVRUC8RqWizMCGQf) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Fakkboiz](https://open.spotify.com/artist/11PpNNR6WoXGTEDLiTjdfe) | [ALLA FLICKORNA](https://open.spotify.com/album/1wazsosGhXJ2ZqfmCEsRkA) | 2:47 | 2023-08-17 | 2023-09-29 |
 | [ALLA FÅR KOMMA](https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ALLA FÅR KOMMA](https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8) | 2:24 | 2024-06-06 | 2025-01-03 |
@@ -1455,6 +1456,7 @@
 | [TAPPA KONTROLL \(Reaktorn\)](https://open.spotify.com/track/5ClcZFQnniJH8yWvNrGoJi) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [TAPPA KONTROLL \(Reaktorn\)](https://open.spotify.com/album/57Mvg38PvhmICNWggqiIv8) | 2:12 | 2025-04-10 | 2026-02-17 |
 | [TAPPAT ALLT](https://open.spotify.com/track/2iIC5CEW9v4nFNGvJp3XL5) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [TAPPAT ALLT](https://open.spotify.com/album/3CYZw8AwUc1Ffdu1TfoQtl) | 2:41 | 2026-04-16 |  |
 | [TAPPAT DET TOTALT](https://open.spotify.com/track/6ta7OD8EtKsN35KkFMtZk8) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [TAPPAT DET TOTALT](https://open.spotify.com/album/6jwTvhfmcFooexwIOYB8Nl) | 2:19 | 2023-06-29 | 2023-09-29 |
+| [Taxifil](https://open.spotify.com/track/205Yfraj24P1f4tia8bXyI) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Taxifil](https://open.spotify.com/album/4UEjFwgHSTBvWHAghZvEYM) | 2:16 | 2026-05-21 |  |
 | [Technodad](https://open.spotify.com/track/7HLGPZ6zE4Ooxy0eMVtzfe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Technodad](https://open.spotify.com/album/6f6fz58uLUYDiLbpRS84qo) | 3:04 | 2021-12-16 | 2022-04-19 |
 | [TEDDYBJÖRNEN FREDRIKSSON](https://open.spotify.com/track/3SaKQVz2hchooci2K9Pff5) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [TEDDYBJÖRNEN FREDRIKSSON](https://open.spotify.com/album/3OHMELWbzX7s76wFO4hVzi) | 2:00 | 2024-08-22 | 2024-10-04 |
 | [Tell Me I'm Pretty \- Icona Pop Remix](https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Tell Me I'm Pretty \(Icona Pop Remix\)](https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI) | 2:39 | 2021-12-16 | 2022-05-23 |

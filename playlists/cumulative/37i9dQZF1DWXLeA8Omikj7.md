@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,189 songs - 3 day 15 hr 27 min
+1,190 songs - 3 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,12 +79,13 @@
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2019-06-19\* | 2020-10-22 |
 | [Arcoíris](https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:13 | 2021-09-17 | 2022-07-27 |
 | [Arms Length](https://open.spotify.com/track/7D2amqgFKzSPPEuvZT3i9p) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:31 | 2019-05-26\* | 2022-04-19 |
+| [Arp Angels](https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Arp Angels](https://open.spotify.com/album/7ERxaYlFTnLGN5r5gxSzrJ) | 6:02 | 2026-05-19 |  |
 | [Arps](https://open.spotify.com/track/61fFR9yykNcPDxaewYPCjQ) | [FRCTLS](https://open.spotify.com/artist/5jyU4mBlyaZpjTftz8HbEM) | [Zeit](https://open.spotify.com/album/15vGVVKQHhaljbOHy4mKyQ) | 4:49 | 2023-10-27 | 2025-02-23 |
 | [Arps Of Revolución](https://open.spotify.com/track/6j943OaUx84yACnpMurHQf) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 4:33 | 2019-06-21 | 2020-08-26 |
 | [Artificial Infinity](https://open.spotify.com/track/4zdRT42hpO5OsXAgizZ3xk) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [A Necessary Escape \(Dakar Chronicles Original Soundtrack\)](https://open.spotify.com/album/71nVY2w2jyNpcuE27h4D0D) | 5:58 | 2025-05-09 | 2025-08-09 |
 | [As If A Phantom](https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [As If A Phantom](https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh) | 3:44 | 2025-06-09 | 2025-08-14 |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2019-05-26\* | 2019-06-19 |
-| [Ascension.png](https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ascension.png](https://open.spotify.com/album/6leH5SGo1FQlJCWy7jsIyz) | 5:12 | 2025-10-24 |  |
+| [Ascension.png](https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ascension.png](https://open.spotify.com/album/6leH5SGo1FQlJCWy7jsIyz) | 5:12 | 2025-10-24 | 2026-05-22 |
 | [Asha](https://open.spotify.com/track/1rUI48b5rFq46VvWDyEgjB) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [This Bliss](https://open.spotify.com/album/5ISoAxEvezM5hpiZzmUJ7J) | 6:31 | 2024-05-10 | 2025-03-14 |
 | [Asymmetric Lifeform](https://open.spotify.com/track/310zGCnjb9mpXpI5Hcgl0T) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 5:03 | 2024-06-14 | 2024-12-06 |
 | [at arm's length...](https://open.spotify.com/track/5UW3V9pYyye7qGH8ecNhdL) | [momü](https://open.spotify.com/artist/6fqCoZCxjMrwtuvciQnzKn) | [at arm's length...](https://open.spotify.com/album/4dueFTcpK5Mc9h0zbGhIC2) | 2:47 | 2019-06-19\* | 2020-08-26 |
@@ -447,7 +448,7 @@
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2024-04-19 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 |  |
-| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 |  |
+| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 | 2026-05-22 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2025-08-10 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1jK4ngN1uGHVk6x2ae2C5G) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/1tp6VBpXpeJ7ZHj4j18KCN) | 7:16 | 2020-11-13 | 2022-04-21 |
@@ -603,7 +604,7 @@
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
 | [Lost](https://open.spotify.com/track/76D0QaPXfnofucHcsVCV32) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Lost](https://open.spotify.com/album/2Hpt14C9hBXuUXe2IZRb9B) | 3:33 | 2026-05-19 |  |
 | [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2026-04-23 |
-| [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 | 2026-05-20 |
+| [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |
 | [Lucid Dream \- Original Mix](https://open.spotify.com/track/3T4iVA2ozQMew8uRjQBPHc) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Lucid Dream](https://open.spotify.com/album/7GMbLoHGfaCGSQV8m2g8my) | 7:33 | 2019-06-21 | 2020-10-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Ben Rodrigues",
-  "num_followers": 6542,
+  "num_followers": 6541,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+        "name": "someone new",
+        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "duration_ms": 154105,
+      "name": "someone new",
+      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "someone new",
-        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 154105,
-      "name": "someone new",
-      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
+      },
+      "artists": [
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Untimely Disclosure",
         "url": "https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 223198,
       "name": "Untimely Disclosure",
       "url": "https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
-      },
-      "artists": [
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
     },
     {
       "added_at": "2026-05-08 07:46:27",

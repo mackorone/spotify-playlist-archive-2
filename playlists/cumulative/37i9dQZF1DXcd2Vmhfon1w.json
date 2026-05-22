@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Elio Toffana",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -2335,6 +2335,40 @@
     },
     {
       "album": {
+        "name": "Cabo Verde",
+        "url": "https://open.spotify.com/album/3lTz7qE75Jno4uv59KxxDr"
+      },
+      "artists": [
+        {
+          "name": "Matasvandals",
+          "url": "https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM"
+        },
+        {
+          "name": "Mauri",
+          "url": "https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47"
+        },
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ"
+        },
+        {
+          "name": "Jimena",
+          "url": "https://open.spotify.com/artist/6lZ4Hw5BLxI19nXR0hzTfI"
+        },
+        {
+          "name": "KR8Beatz",
+          "url": "https://open.spotify.com/artist/0fsGTARKfkdzdLvLCUVpXn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Cabo Verde",
+      "url": "https://open.spotify.com/track/0mrsrNVFKP6kCuPVTT9LSk"
+    },
+    {
+      "album": {
         "name": "Cada Loco Con Su Tema",
         "url": "https://open.spotify.com/album/2r9aNtDgRgSrMYmjiDjbRU"
       },
@@ -3048,7 +3082,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 215530,
       "name": "Ceciarmy",
       "url": "https://open.spotify.com/track/4BbMZRh3iwi9QxUWUx5SoS"
@@ -5037,6 +5071,28 @@
     },
     {
       "album": {
+        "name": "El Mejor",
+        "url": "https://open.spotify.com/album/3lTzflaiRM1UNPVzGw38Zf"
+      },
+      "artists": [
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        },
+        {
+          "name": "R De Rumba",
+          "url": "https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225571,
+      "name": "El Mejor",
+      "url": "https://open.spotify.com/track/2cR2nhKvQM8K1zcNk5NMx6"
+    },
+    {
+      "album": {
         "name": "El M\u00e9todo",
         "url": "https://open.spotify.com/album/0m7wFEI6CWfWn2nv9y9Cqg"
       },
@@ -5504,6 +5560,56 @@
       "duration_ms": 160534,
       "name": "Ergo Pro, Israel B, Adri\u00e1n Mills | Selecta Motorseries #12",
       "url": "https://open.spotify.com/track/2FnwTXCmIbXHsBzV5Uk2V9"
+    },
+    {
+      "album": {
+        "name": "GRAVITAS",
+        "url": "https://open.spotify.com/album/6isZxUm1nytbX1fFi6E4G3"
+      },
+      "artists": [
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "El Secreto Produce",
+          "url": "https://open.spotify.com/artist/4yj1qiNZsw5eXOWhEBbAfR"
+        },
+        {
+          "name": "Govea La Firma",
+          "url": "https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "ES AS\u00cd",
+      "url": "https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq"
     },
     {
       "album": {
@@ -6382,6 +6488,24 @@
       "duration_ms": 160170,
       "name": "GENIO",
       "url": "https://open.spotify.com/track/4EaZjCAFQMHiDQynvjtQUR"
+    },
+    {
+      "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/3NhJX4hxNbaQd2P3b1X2EA"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/0VLnWtNcdBYnYX10B2ieUK"
     },
     {
       "album": {
@@ -9068,7 +9192,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 179558,
       "name": "MACARRONES",
       "url": "https://open.spotify.com/track/6KR7gWUSIKz9JGXLO7aQx9"
@@ -9207,6 +9331,24 @@
     },
     {
       "album": {
+        "name": "Mallorca",
+        "url": "https://open.spotify.com/album/6VN6oW1mAiA27aJRGdrejB"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5z29X1D6L7tKcBbjAmD13n"
+    },
+    {
+      "album": {
         "name": "MAMAHUEVO",
         "url": "https://open.spotify.com/album/488FVpFzPMj5lsNQKhb3X5"
       },
@@ -9340,7 +9482,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 155109,
       "name": "Mam\u00e1 Noel",
       "url": "https://open.spotify.com/track/4NHXZypYhPCrCXFHrm1Cj8"
@@ -12228,7 +12370,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 144782,
       "name": "PIRINEOS",
       "url": "https://open.spotify.com/track/3oSSoUOigmLhsVvfwZUanZ"
@@ -13228,10 +13370,32 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 121086,
       "name": "RAPSINCORTE 59",
       "url": "https://open.spotify.com/track/1ycRDBbStnNJHOW8ifp2ED"
+    },
+    {
+      "album": {
+        "name": "Rayito de luz",
+        "url": "https://open.spotify.com/album/1faxCgqzf1WwbBJynevHmU"
+      },
+      "artists": [
+        {
+          "name": "Dirty Porko",
+          "url": "https://open.spotify.com/artist/4JjXXU4m428s8xODTaVuNV"
+        },
+        {
+          "name": "Folss",
+          "url": "https://open.spotify.com/artist/2gOv3zIMMi4v0O4QQ66Kzj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Rayito de luz",
+      "url": "https://open.spotify.com/track/7yIlHa3Wa45snxPGK9zYtg"
     },
     {
       "album": {
@@ -14692,7 +14856,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 149000,
       "name": "SORRY MAMA",
       "url": "https://open.spotify.com/track/6dUjGLFUvYH79poxdSLLOb"
@@ -15345,6 +15509,24 @@
     },
     {
       "album": {
+        "name": "Tengo un Angel",
+        "url": "https://open.spotify.com/album/10e0XRaXrY6Exx5xjBq6pY"
+      },
+      "artists": [
+        {
+          "name": "Cocco Lexa",
+          "url": "https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "Tengo un Angel",
+      "url": "https://open.spotify.com/track/0GZGEfKrDOjALDqkdxuT4U"
+    },
+    {
+      "album": {
         "name": "Tengo, Tengo, Tengo",
         "url": "https://open.spotify.com/album/2QslpbpjUrZFKwFVJrz8uW"
       },
@@ -15940,7 +16122,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 153606,
       "name": "Tyson",
       "url": "https://open.spotify.com/track/549auHEa2T7hjoN7L1rT1b"

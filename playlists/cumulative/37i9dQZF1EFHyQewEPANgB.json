@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Super Up",
+        "url": "https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Super Up",
+      "url": "https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw"
+    },
+    {
+      "album": {
         "name": "Sway With Me (with GALXARA)",
         "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
       },

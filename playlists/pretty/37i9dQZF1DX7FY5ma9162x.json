@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Chris Brown",
-  "num_followers": 297609,
+  "num_followers": 297600,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/XSyRBy1230FoZlzk9J+dva6jK",
+  "snapshot_id": "AAAAAHHfzVnX7rbRDl5sNH6jtHtMks68",
   "tracks": [
     {
       "added_at": "2026-05-13 19:46:29",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-05-13 19:46:29",
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": "2026-05-13 19:46:29",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 217523,
       "name": "Diamond Boy (DTM)",
       "url": "https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ"
-    },
-    {
-      "added_at": "2026-05-13 19:46:29",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": "2026-05-13 19:46:29",

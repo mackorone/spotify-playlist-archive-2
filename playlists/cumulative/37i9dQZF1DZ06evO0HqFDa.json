@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 131413,
       "name": "Gorgeous Beasts",
       "url": "https://open.spotify.com/track/5PHmaOKveNjY2U8g3NTu2I"
@@ -596,6 +596,28 @@
       "duration_ms": 133763,
       "name": "Indulge in Darkness",
       "url": "https://open.spotify.com/track/1yV7QxodAm2gNtqQbU13aN"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Jack Ryan: Ghost War (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6fwa3R3386WKDKQYxSECce"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        },
+        {
+          "name": "William Marriott",
+          "url": "https://open.spotify.com/artist/71e8RnAv2CEtlvaIAAowXC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157546,
+      "name": "Jack Ryan Ghost War",
+      "url": "https://open.spotify.com/track/46N2ssxjA1cS02xA1RoArb"
     },
     {
       "album": {

@@ -2903,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "Dump Truck",
+        "url": "https://open.spotify.com/album/2iEhjjPuCfjxkNE0mxXz2D"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/3wy7IanUHfRBIkPf18iWYL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123230,
+      "name": "Dump Truck",
+      "url": "https://open.spotify.com/track/5d0ewTjHri7s8B0HGMhEFf"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6pI4baZes1gQ3p6VETX9Z5"
       },

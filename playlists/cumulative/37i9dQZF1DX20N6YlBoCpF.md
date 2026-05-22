@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Al die nuutste Afrikaanse musiek met FATMAN, WG NEL, Schwabie en meer!
+> Al die nuutste Afrikaanse musiek met JAN JAN JAN, Dodo Nyoka, Hugh Lynn en meer!
 
-2,595 songs - 6 day 0 hr 17 min
+2,603 songs - 6 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Ek Hoor Die Roep van Huis](https://open.spotify.com/track/2mSyyQrajzrbj0VKa1FCZ9) | [Erik Zeelie](https://open.spotify.com/artist/6PiRvM7pDV231d3i7ApLcS) | [Boer Bloed Loop Diep](https://open.spotify.com/album/7MjTJFEOTbslA5MnV7NNwo) | 3:39 | 2025-07-03 | 2025-07-11 |
 | [Ek hou nie van rugby nie \(EDM Mix\)](https://open.spotify.com/track/1mMaGB1Zj6oRcsRSTnZObs) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [Ek hou nie van rugby nie \(EDM Mix\)](https://open.spotify.com/album/044I3aRFkH4LNdCjsnCRR2) | 3:06 | 2026-03-12 | 2026-03-27 |
 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 | 2025-02-20 | 2025-05-23 |
+| [Ek Is](https://open.spotify.com/track/3qzlKvyu6tlbjAPwdpV1B5) | [Dewald Gouws](https://open.spotify.com/artist/6zM0X3d3RQrHHa3MoqPqoO) | [Ek Is](https://open.spotify.com/album/6wF4tgcDCmnQzRwWOjue2P) | 4:15 | 2026-05-21 |  |
 | [Ek Is Daar](https://open.spotify.com/track/43t3KXhjckS3XWoglELKfx) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Ek Is Daar](https://open.spotify.com/album/2vVmvc6mx1a8Qme5By7nEK) | 2:51 | 2022-09-01 | 2022-10-14 |
 | [Ek Is Hier](https://open.spotify.com/track/4kh1PbWpURI67ZCrjkNhrw) | [Anne\-Marie van Eeden](https://open.spotify.com/artist/38Fm2BHBCTb9e2nXF0bTqr), [Koos Van Der Merwe](https://open.spotify.com/artist/2AZrQH7cvMflVXGsjdnSuU) | [Optelwoorde](https://open.spotify.com/album/6YNPeew7VhcAunlvSyUtUF) | 3:41 | 2023-04-13 | 2023-04-28 |
 | [Ek Is Hier Vir Jou](https://open.spotify.com/track/5Y0UWhJNZ1EfNIMXnVL2vp) | [Lawrence Herselman](https://open.spotify.com/artist/3DF2RREpw5xXK4j97tGfn3) | [Ek Is Hier Vir Jou](https://open.spotify.com/album/05OyC1kLaz2y3WzumdIyrF) | 3:35 | 2025-05-15 | 2025-06-13 |
@@ -1087,6 +1088,7 @@
 | [Juané](https://open.spotify.com/track/738JNkhxYs6lBq7jpHMFMr) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Juané](https://open.spotify.com/album/0v4LCgbbkKPiiVvasIPpUM) | 3:43 | 2025-07-17 | 2025-09-12 |
 | [Judy](https://open.spotify.com/track/0XdKQSbxsx8xwisuVMlJmF) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Judy](https://open.spotify.com/album/3cAYGWLIKxcXgGL6b1aLcP) | 4:42 | 2023-07-06 | 2023-07-21 |
 | [Juffrou Riekie Louw](https://open.spotify.com/track/6mrtwItSsepr3INwacxn7c) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Juffrou Riekie Louw](https://open.spotify.com/album/07Itm0lsheDjtOBTe4PWDQ) | 3:43 | 2024-02-15 | 2024-06-29 |
+| [Juliet](https://open.spotify.com/track/1ZIHYXmGjvRyeGq40uzrtQ) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Juliet](https://open.spotify.com/album/52fuSLI5eSLzmQLishb1FA) | 2:43 | 2026-05-21 |  |
 | [Jy](https://open.spotify.com/track/18tKvzYGatvv5gkqkstXkH) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Nuwe Klanke](https://open.spotify.com/album/0FcPRMhQGkx1T2NzYpRO1a) | 3:41 | 2024-06-20 | 2024-07-27 |
 | [Jy](https://open.spotify.com/track/6IaTS50A4HGZnIObFDNTWY) | [Velvet and Veneer](https://open.spotify.com/artist/7I7HWy1WrwvQqGdQJkIhh1) | [Jy](https://open.spotify.com/album/71C5AuRNIMSBH1Fi5i56ht) | 3:57 | 2024-03-22 | 2024-03-29 |
 | [Jy Dink Jy's Die Een](https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Jy Dink Jy's Die Een](https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP) | 3:06 | 2025-01-02 | 2025-01-10 |
@@ -1118,6 +1120,7 @@
 | [kaal](https://open.spotify.com/track/62SCKkR81lIvq39QJIkMcD) | [Theo Amstel](https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4) | [kaal](https://open.spotify.com/album/2Cpz9qqKpIU7yF9KReTLWO) | 2:58 | 2024-02-08 | 2024-02-23 |
 | [Kaal](https://open.spotify.com/track/4LnIUbvlnXkNXK5rVKv3Z3) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [NA TWAALF \(Deel I\)](https://open.spotify.com/album/2sWYjmCluc3rRuSKPw6ojJ) | 3:22 | 2025-09-04 | 2025-09-12 |
 | [Kaal Sigarette](https://open.spotify.com/track/1M4Lvjm4uxKwChEota82mg) | [FRANCO](https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc) | [Kaal Sigarette](https://open.spotify.com/album/5ehNnB81LPjMxxZRkRJZbm) | 3:41 | 2026-04-23 |  |
+| [Kaal Sigarette \- Acoustic Version](https://open.spotify.com/track/1kHuu72jbpoFBRb2CPe64Q) | [FRANCO](https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc) | [Kaal Sigarette \(Acoustic Version\)](https://open.spotify.com/album/0UM1Y1NCkxDvfdyuYUw34Q) | 3:24 | 2026-05-21 |  |
 | [Kaalvoet](https://open.spotify.com/track/3ZOtYRg227vSDncbPmousB) | [Carlissa](https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l) | [Kaalvoet](https://open.spotify.com/album/2IGnOgWbKBs1BHc5qSr2sH) | 2:35 | 2025-05-08 | 2025-06-13 |
 | [Kaalvoet in die reën dans](https://open.spotify.com/track/0pHDAUFJtBuUG9g6xjinMh) | [Rea Le Roux](https://open.spotify.com/artist/0Nj4m42HGyiWVW9LyECOp6) | [Kaalvoet in die reën dans](https://open.spotify.com/album/14Vs0brM8R94pOCKVR8zBk) | 3:40 | 2024-05-02 | 2024-05-24 |
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 | 2022-12-02 |
@@ -1439,6 +1442,7 @@
 | [Main Road Blues](https://open.spotify.com/track/1CRZ89gDZKCSyimfBFd8te) | [Coenie Keyser](https://open.spotify.com/artist/3PepAYRb3DMY3Rt7VAndMd) | [Main Road Blues](https://open.spotify.com/album/5pyF5II43TLUEeP4zuhqIa) | 4:32 | 2026-01-22 | 2026-01-30 |
 | [Maklike Wiskunde](https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Maklike Wiskunde](https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM) | 3:25 | 2023-08-10 | 2023-09-16 |
 | [Mal](https://open.spotify.com/track/4A2O8W7Khl31dJqn4wzzUk) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Mal](https://open.spotify.com/album/4KuUIE12ZsBqM62DiHljNI) | 4:16 | 2023-08-24 | 2023-09-08 |
+| [Mal](https://open.spotify.com/track/3KHzvM9ZkHmSTUrKKQ6fjL) | [Vreemd](https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9) | [Mal](https://open.spotify.com/album/4zLKU22mDOTw17MyaG6bPj) | 2:19 | 2026-05-21 |  |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-04 | 2024-01-06 |
 | [Mal Meisies](https://open.spotify.com/track/1DybT0BdzRNbO1Tk1pzUtk) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Mal Meisies](https://open.spotify.com/album/09ROO0Tli0FutuZHV5aAXP) | 3:30 | 2025-06-12 | 2025-07-04 |
 | [Mama's Lullaby](https://open.spotify.com/track/6KPR5bSYszXv1RHy8gwj31) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [Mama's Lullaby](https://open.spotify.com/album/5JL7QKQqOBLZGzvttFWNl4) | 1:49 | 2026-05-15 |  |
@@ -1574,6 +1578,7 @@
 | [Naglied](https://open.spotify.com/track/1vzvmwNz3upK4s9GsYeO7k) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Naglied](https://open.spotify.com/album/341135ghJpap3hsbMCmOFU) | 3:54 | 2025-09-18 | 2025-10-10 |
 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 | 2026-04-23 |  |
 | [Nagtegaal](https://open.spotify.com/track/6Kzji1np4ssuJKki4FNx7t) | [Gabi Swanepoel](https://open.spotify.com/artist/6ML8yaqGVYtmNiUKanpH21) | [Nagtegaal](https://open.spotify.com/album/0R6HkyqQEVavf5Ied9nxFY) | 2:54 | 2023-05-04 | 2023-05-26 |
+| [Nah Nah Nah](https://open.spotify.com/track/3uBAUQHlDAK7WnpmKS1oV6) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Nah Nah Nah](https://open.spotify.com/album/6IlIFV0iikZCD1qQ0sA1cC) | 2:43 | 2026-05-21 |  |
 | [Namaquawestern](https://open.spotify.com/track/42HxUqkyfvZaA3dgGqQ210) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Namaquawestern](https://open.spotify.com/album/15hW9Ki7cOgYSUkG6wzaHb) | 6:21 | 2025-12-11 | 2026-02-06 |
 | [Namib Woestyn](https://open.spotify.com/track/1ebyQrrQOHHJbtgwFOSTiF) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Namib Woestyn](https://open.spotify.com/album/7lOdh3muDFGlPCsJgfTEZb) | 3:25 | 2022-09-15 | 2022-10-07 |
 | [Namibië](https://open.spotify.com/track/1M9MSMP926MlsYwPnif1K8) | [Lan3](https://open.spotify.com/artist/6Do516wzocpBkP4LPBune7) | [Namibië](https://open.spotify.com/album/4tN4lZgWhdY0qlUlFjMRXX) | 2:39 | 2025-06-19 | 2025-07-25 |
@@ -1991,6 +1996,7 @@
 | [Skaakmat](https://open.spotify.com/track/47CTcKuABlWUJ89Lyikx56) | [PJ Moll](https://open.spotify.com/artist/2DxTse8dON1AbgTlo2cvHR) | [Skaakmat](https://open.spotify.com/album/1a4D35n5AvB5rKEYOaCJJB) | 2:44 | 2026-03-27 |  |
 | [Skaapgenade](https://open.spotify.com/track/2NrYDDBj5NwzdpUpQQQtOa) | [Mensdom](https://open.spotify.com/artist/6dYzDh337aHBZUsHhscX9l) | [Skaapgenade](https://open.spotify.com/album/1OWBcopRqELdJPUVtx3k0p) | 3:19 | 2025-02-27 | 2025-03-07 |
 | [Skadu's](https://open.spotify.com/track/3OTeEtTzSM8tjIeFOWGt4D) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Skadu's](https://open.spotify.com/album/19z6p5VxLKfkFvFeVAEFoY) | 3:08 | 2024-06-06 | 2024-06-14 |
+| [Skaduwee](https://open.spotify.com/track/2aDTmfytBbasAk5j5mwmJa) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Skaduwee](https://open.spotify.com/album/5HvPuQu5YGnBcWHXEaAll8) | 4:06 | 2026-05-21 |  |
 | [SKATTE](https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [SKATTE](https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G) | 3:56 | 2022-10-06 | 2022-10-21 |
 | [Skattie](https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Skattie](https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA) | 3:30 | 2022-09-29 | 2022-12-02 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-10-27 | 2022-11-18 |
@@ -2205,6 +2211,7 @@
 | [Sy \- Remix](https://open.spotify.com/track/1MLqP7XwOdw3isRSj4SXyw) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Sy \(Remix\)](https://open.spotify.com/album/28VEmDyFAWOYXxF8VU5yRL) | 3:01 | 2025-06-12 | 2025-06-20 |
 | [Sy is 'n Cougar](https://open.spotify.com/track/12pwwuSN4aDmDtL8MRouLE) | [Ryan Burnwood](https://open.spotify.com/artist/2NRazNZXGV6hBxZR50osdI) | [Sy is 'n Cougar](https://open.spotify.com/album/6DsfkcIBJ7ItFZvNu72U6c) | 4:07 | 2024-07-25 | 2024-08-02 |
 | [Sy Is Die Een](https://open.spotify.com/track/7M4kniemvlDsbQW2gjJlVU) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx) | [Sy Is Die Een](https://open.spotify.com/album/2AncOCC2ocskqdrVoDW7bt) | 3:33 | 2026-02-12 | 2026-02-27 |
+| [Sy is maar net stil](https://open.spotify.com/track/0Eu1DB1JnoQEPDmAxWPKlm) | [Petronel Baard](https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG) | [Sy is maar net stil](https://open.spotify.com/album/6hdUfjVjJ425TwjE7cEZX1) | 3:52 | 2026-05-21 |  |
 | [Sy Weet](https://open.spotify.com/track/2wyEESxO5fiFq5AgtJQojU) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Sy Weet](https://open.spotify.com/album/4PDJBtjCopCcMIDJhRb2r3) | 3:15 | 2025-10-03 | 2025-10-24 |
 | [Sy Wens](https://open.spotify.com/track/4tYud9jf7ZPDEzs5If9AXt) | [Ou Tekkies](https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb) | [Sy Wens](https://open.spotify.com/album/0C4sBbvyfk1SLMXjlnf0iF) | 3:36 | 2024-08-01 | 2024-08-16 |
 | [Sy's Leeg](https://open.spotify.com/track/6teZORep2dqZLHgc9eAs9U) | [Vir Nou Net Magé](https://open.spotify.com/artist/4XJpVEJxoyVtPq7x3p0JsL) | [Sy's Leeg](https://open.spotify.com/album/6qmUZTRG5VoflLWdFHi1BH) | 4:04 | 2023-09-28 | 2023-10-13 |
@@ -2221,6 +2228,7 @@
 | [Tameletjie](https://open.spotify.com/track/7BXP85H8cpxzDhwZQuUIJB) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:40 | 2022-12-27 | 2023-01-02 |
 | [Tankwa Vrede](https://open.spotify.com/track/6GuKFaJ1dRfBhpn0FaZnSK) | [Rusverstoring Band](https://open.spotify.com/artist/5nII63aHhMDvy7kRtTDDIY) | [Tankwa Vrede](https://open.spotify.com/album/7xz3GgxtMTMGfefGI4Sj9u) | 4:13 | 2025-10-30 | 2025-11-07 |
 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 | 2023-10-26 | 2024-03-15 |
+| [Tant Tilla](https://open.spotify.com/track/3BPGKfc4rJa2RZZQqWNdJO) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Tant Tilla](https://open.spotify.com/album/1I9M8qH9iv10YJAXFSCTJ7) | 3:52 | 2026-05-21 |  |
 | [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 | 2023-11-30 | 2024-03-09 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-04-06 | 2023-06-30 |
 | [Te Laat](https://open.spotify.com/track/0hvm0h0mnH34aEY9NSBXLl) | [Damian Beer](https://open.spotify.com/artist/643J2yCzPlJwRf2Taru6l9) | [Te Laat](https://open.spotify.com/album/61tjmRactUBa7R1uBAQsGJ) | 2:45 | 2025-08-14 | 2025-10-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
-  "num_followers": 248758,
+  "num_followers": 248773,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Tere Warga",
-        "url": "https://open.spotify.com/album/7DZnuTSKMgg8KJmcfwXJVX"
-      },
-      "artists": [
-        {
-          "name": "Miss Pooja",
-          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
-        },
-        {
-          "name": "Monewala",
-          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
-        }
-      ],
-      "duration_ms": 124344,
-      "name": "Tere Warga",
-      "url": "https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "5-7 Kille",
         "url": "https://open.spotify.com/album/237p4pV9ARtbdRLUNS3C2c"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
+        "name": "Tere Warga",
+        "url": "https://open.spotify.com/album/7DZnuTSKMgg8KJmcfwXJVX"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        },
+        {
+          "name": "Monewala",
+          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
+        }
+      ],
+      "duration_ms": 124344,
+      "name": "Tere Warga",
+      "url": "https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
         "name": "DHUAN",
         "url": "https://open.spotify.com/album/5vrlJjWppDzOzicwirN8xr"
       },
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
+        "name": "Kamli (Original)",
+        "url": "https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
         "name": "Hostel",
         "url": "https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 170025,
       "name": "Deshat",
       "url": "https://open.spotify.com/track/513QDSc6hcS8aaYteh9jhw"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
-        "name": "Kamli (Original)",
-        "url": "https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms"
-      },
-      "artists": [
-        {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Kamli",
-      "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
+        "name": "Graph",
+        "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Graph",
+      "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
         "name": "Truckan Wale",
         "url": "https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 165714,
       "name": "25/26",
       "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
-        "name": "Graph",
-        "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
-      },
-      "artists": [
-        {
-          "name": "Ranjit Bawa",
-          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
-        },
-        {
-          "name": "Bunty Bains",
-          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "Graph",
-      "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "Kalli Sohni",
         "url": "https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 171063,
       "name": "Kalli Sohni",
       "url": "https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Muchh",
-        "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
+        "name": "Surma",
+        "url": "https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 205301,
-      "name": "Muchh",
-      "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
+      "duration_ms": 205841,
+      "name": "Surma",
+      "url": "https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "2 Kamm",
-        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
-      },
-      "artists": [
-        {
-          "name": "Mani Longia",
-          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
-        }
-      ],
-      "duration_ms": 146062,
-      "name": "2 Kamm",
-      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "Pecha",
         "url": "https://open.spotify.com/album/4ouuAI41txiRAil0rkw9WY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 171562,
       "name": "Pecha",
       "url": "https://open.spotify.com/track/4jvbVD8kFzezKVjEBEXIOa"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
+        "name": "2 Kamm",
+        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "2 Kamm",
+      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
+        "name": "Patili Chaa Di",
+        "url": "https://open.spotify.com/album/369dmtIr8TdnVDlGK33XRP"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        }
+      ],
+      "duration_ms": 194818,
+      "name": "Patili Chaa Di",
+      "url": "https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
         "name": "Agg Paaniyan Ch",
         "url": "https://open.spotify.com/album/73tkkW29HF1pwOVJ0ScB6o"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 160352,
       "name": "Agg Paaniyan Ch",
       "url": "https://open.spotify.com/track/7FHqKBChj0iBGy7AYpp3A4"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
-        "name": "Patili Chaa Di",
-        "url": "https://open.spotify.com/album/369dmtIr8TdnVDlGK33XRP"
-      },
-      "artists": [
-        {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
-        }
-      ],
-      "duration_ms": 194818,
-      "name": "Patili Chaa Di",
-      "url": "https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Tell Me Honestly",
-        "url": "https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
-        },
-        {
-          "name": "The Boss",
-          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
-        }
-      ],
-      "duration_ms": 225483,
-      "name": "Tell Me Honestly",
-      "url": "https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "Haye Main Lutti Gyi",
         "url": "https://open.spotify.com/album/6oa7mYoNaoyNtzqhltcPIZ"
       },
@@ -1743,26 +1719,26 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Killa",
-        "url": "https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp"
+        "name": "Tell Me Honestly",
+        "url": "https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S"
       },
       "artists": [
         {
-          "name": "Dilpreet Dhillon",
-          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
         },
         {
-          "name": "Sultaan",
-          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         },
         {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
         }
       ],
-      "duration_ms": 217931,
-      "name": "Killa",
-      "url": "https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty"
+      "duration_ms": 225483,
+      "name": "Tell Me Honestly",
+      "url": "https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1787,6 +1763,30 @@
       "duration_ms": 157241,
       "name": "Athra Ghora",
       "url": "https://open.spotify.com/track/0oEHDBB5BYIQeK5kfMP058"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 217931,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Bhadauria",
-        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
-      },
-      "artists": [
-        {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "Step Bhull Gyi",
-      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "Palazzo 2",
         "url": "https://open.spotify.com/album/3vaZ1jNpAm9BH0zt51RPlh"
       },
@@ -1927,18 +1911,18 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Taseer",
-        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
+        "name": "Bhadauria",
+        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
       },
       "artists": [
         {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
         }
       ],
-      "duration_ms": 162758,
-      "name": "Taseer",
-      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
+      "duration_ms": 196744,
+      "name": "Step Bhull Gyi",
+      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -1959,6 +1943,22 @@
       "duration_ms": 188571,
       "name": "Wang Tut Gayi",
       "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
+        "name": "Taseer",
+        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Taseer",
+      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
-        "name": "Sarpanchi",
-        "url": "https://open.spotify.com/album/2yf5s25GEppaGEqH1nOMMc"
-      },
-      "artists": [
-        {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Sarpanchi",
-      "url": "https://open.spotify.com/track/5H8NbpBG1GQTtkf2QPPGNj"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
         "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
         "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 155908,
       "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
       "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
+        "name": "Sarpanchi",
+        "url": "https://open.spotify.com/album/2yf5s25GEppaGEqH1nOMMc"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Sarpanchi",
+      "url": "https://open.spotify.com/track/5H8NbpBG1GQTtkf2QPPGNj"
     },
     {
       "added_at": "2026-05-20 09:43:16",
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2026-05-20 09:43:16",
       "album": {
+        "name": "GT Road",
+        "url": "https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "GT Road",
+      "url": "https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4"
+    },
+    {
+      "added_at": "2026-05-20 09:43:16",
+      "album": {
         "name": "Kangni",
         "url": "https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT"
       },
@@ -2139,26 +2159,6 @@
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
-    },
-    {
-      "added_at": "2026-05-20 09:43:16",
-      "album": {
-        "name": "GT Road",
-        "url": "https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI"
-      },
-      "artists": [
-        {
-          "name": "Gurnam Bhullar",
-          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
-        },
-        {
-          "name": "Kaptaan",
-          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "GT Road",
-      "url": "https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4"
     }
   ],
   "unique_name": "Bhangra Bangers",

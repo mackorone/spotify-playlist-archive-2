@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,508 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,512 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
-| 2 | [BERLUSCONI](https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [BERLUSCONI](https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K) | 2:06 |
-| 3 | [N.A.P.L.](https://open.spotify.com/track/3Uhoh8vZ7DnePaI9KLY2WV) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [N.A.P.L.](https://open.spotify.com/album/4jiXKxgljMm7wuzybd1wb8) | 2:11 |
+| 1 | [N.A.P.L.](https://open.spotify.com/track/3Uhoh8vZ7DnePaI9KLY2WV) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [N.A.P.L.](https://open.spotify.com/album/4jiXKxgljMm7wuzybd1wb8) | 2:11 |
+| 2 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
+| 3 | [BERLUSCONI](https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [BERLUSCONI](https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K) | 2:06 |
 | 4 | [LOCO](https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [LOCO](https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG) | 2:04 |
 | 5 | [FACIL FACIL](https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:28 |
 | 6 | [ZE PEQUENO](https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM) | 2:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 69 | [Favela](https://open.spotify.com/track/0zBuNEWy5YufPBn0xUdCQ9) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Favela](https://open.spotify.com/album/1Tt1QbxEytKl9ub1ypTlDp) | 1:56 |
 | 70 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 |
 
-Snapshot ID: `AAAAAGo6Fqaiqi1gOdSuRCgSviwFYT1F`
+Snapshot ID: `AAAAAPU9x27HPOPWHW2bO+bQGQQ4NkHJ`

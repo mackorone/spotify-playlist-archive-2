@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: CHANMINA \u3061\u3083\u3093\u307f\u306a",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Tokyo Manaka \u6771\u4eac\u771f\u4e2d ",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 158203,
       "name": "Chatter Chatter",
       "url": "https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE"
@@ -12434,6 +12434,24 @@
       "duration_ms": 269533,
       "name": "\u3046\u307e\u3074\u3087\u3044\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/0uB1QGOrJtZtFslsoSdRAv"
+    },
+    {
+      "album": {
+        "name": "\u3046\u308b\u3055",
+        "url": "https://open.spotify.com/album/6ehYv1NiDExPySDZC0LBNP"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193405,
+      "name": "\u3046\u308b\u3055",
+      "url": "https://open.spotify.com/track/4GIcq7PrGF0kjPWT6ULJRY"
     },
     {
       "album": {

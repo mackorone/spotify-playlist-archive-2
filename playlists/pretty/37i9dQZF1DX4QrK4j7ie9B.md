@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,955 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,005 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 30 | [To Autumn](https://open.spotify.com/track/47UV2tMnEjFaJiVAyUiPPY) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [To Autumn](https://open.spotify.com/album/7kIqesdci5yIDjvb5p8tcg) | 1:38 |
 | 31 | [Habanera \(Version for Piano\)](https://open.spotify.com/track/1JeBCA63gOq1LcxKB4FX2R) | [Emmanuel Chabrier](https://open.spotify.com/artist/7y3p0lS9e0oGcJUOHlF1wk), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/6K7RKCYFwGPbLCfgQr8Ftp) | 3:54 |
 | 32 | [Vivaldi 4 Seasons, Spring 1 \- Allegro](https://open.spotify.com/track/1BOsNcINO0i7TzXxLRg6ej) | [Manuele Cid](https://open.spotify.com/artist/61r0gpyOLgDz7475HFaJop) | [Vivaldi's 4 Seasons \- Piano Transcription](https://open.spotify.com/album/3lWVrYODncw4IA2Jkdrwhx) | 2:48 |
-| 33 | [Fracture \(Version for Harp\)](https://open.spotify.com/track/57ZtJmvZGjy0ZSI8SeixHq) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture \(Version for Harp\)](https://open.spotify.com/album/1LP7HhC2BTgGVMacSOC1SF) | 3:39 |
+| 33 | [Fracture \(Version for Harp\)](https://open.spotify.com/track/57ZtJmvZGjy0ZSI8SeixHq) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Fracture \(Version for Harp\)](https://open.spotify.com/album/1LP7HhC2BTgGVMacSOC1SF) | 3:39 |
 | 34 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 |
 | 35 | [Pink Pony Club](https://open.spotify.com/track/5HJBcxBHrBR41fCU7sGVhK) | [Raúl Pierre](https://open.spotify.com/artist/5SyP8mvaxGuhQY5T4kaoOA) | [Pink Pony Club](https://open.spotify.com/album/4shzEb8hY7U8i9O8AOfo7q) | 3:54 |
 | 36 | [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 |

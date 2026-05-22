@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,014 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,056 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [TIRA FOTO FAZ A POSE \(feat\. MC Rodrigo do CN, Mc Jacaré, Mc Lekão, Dj Alanzin & Mc Lele JP\)](https://open.spotify.com/track/4x2y9fbjXx3LXLqll6dphW) | [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ), [Dj Alanzin](https://open.spotify.com/artist/6YaA92DwVAnoEmw5x8uW98), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [TIRA FOTO FAZ A POSE \(feat\. MC Rodrigo do CN, Mc Jacaré, Mc Lekão, Dj Alanzin & Mc Lele JP\)](https://open.spotify.com/album/6i7KrofvuvMXoF7s4MwJEN) | 7:21 |
 | 50 | [Corpo Nu \- Ao Vivo](https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Corpo Nu \(Ao Vivo\)](https://open.spotify.com/album/4vN9lisiflP3K9caJwFvlc) | 3:18 |
 
-Snapshot ID: `MaEqqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaJ+gAAAAAAAAAAAAAAAAAAAAAAAAGVu`

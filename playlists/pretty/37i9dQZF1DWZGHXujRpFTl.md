@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Dream BIG\. Tracks that inspired the Marty Supreme soundtrack, curated by director Josh Safdie—plus the original soundtrack and score\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,381 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,395 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 51 | [While Thinking About Her Again](https://open.spotify.com/track/4UZPrWYwCI1ZzMfwxTUKti) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cinema Paradiso \(Original Motion Picture Soundtrack\) \[The Complete Edition\]](https://open.spotify.com/album/0hvxA5cmM7GmXxYSd3kkK5) | 1:19 |
 | 52 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
 | 53 | [UK 82](https://open.spotify.com/track/3qnq95A58mwd129tVhbBXr) | [The Exploited](https://open.spotify.com/artist/6NB4b8lltHCjOhW7vQZkAy) | [Troops Of Tomorrow](https://open.spotify.com/album/15wFKcM2VVPEVfSazBBNAK) | 2:51 |
-| 54 | [Daphnis et Chloe: Part III: Lever du jour](https://open.spotify.com/track/1xbCmCTvzd6nhbTJIg5pFu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bordeaux Opera Chorus](https://open.spotify.com/artist/53aHhFiWysXpthChFMfpMc), [Bordeaux Aquitaine National Orchestra](https://open.spotify.com/artist/7vjIwUIjcuPz8U6156625N), [Laurent Petitgirard](https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV) | [Ravel: Daphnis and Chloe](https://open.spotify.com/album/1gnnRmLMjzsvFXs8VMcyjD) | 5:29 |
+| 54 | [Daphnis et Chloé: Pt\. III: Lever du jour](https://open.spotify.com/track/1xbCmCTvzd6nhbTJIg5pFu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bordeaux Opera Chorus](https://open.spotify.com/artist/53aHhFiWysXpthChFMfpMc), [Bordeaux Aquitaine National Orchestra](https://open.spotify.com/artist/7vjIwUIjcuPz8U6156625N), [Laurent Petitgirard](https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV) | [Ravel: Daphnis and Chloe](https://open.spotify.com/album/1gnnRmLMjzsvFXs8VMcyjD) | 5:29 |
 | 55 | [The Night We Called It A Day \- Remastered](https://open.spotify.com/track/3q3jDolO5CoXxiCB69cqV1) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:28 |
 | 56 | [The Oh Of Pleasure / Ray Lynch](https://open.spotify.com/track/3wNdebqmHRSVm17wWKu8Kw) | [Ray Lynch](https://open.spotify.com/artist/7ukOC5U2oweIhxAm26BNF7), [TOM CANNING](https://open.spotify.com/artist/6ANfwv1y4pJI55OYsHiMxi) | [Deep Breakfast](https://open.spotify.com/album/5GEpzTubjUQKJcm7iuDesA) | 5:22 |
 | 57 | [Pale Shelter](https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 4:03 |

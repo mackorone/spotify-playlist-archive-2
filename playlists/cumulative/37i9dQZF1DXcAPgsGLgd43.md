@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-535 songs - 1 day 4 hr 38 min
+536 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 | 2025-09-15 |
 | [Fuego](https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Fuego](https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP) | 2:37 | 2024-01-05 | 2024-03-04 |
-| [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
+| [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 | 2026-05-22 |
 | [Gado](https://open.spotify.com/track/34PMtD6uhx4cr6U3LvMvzW) | [Angelo Morello](https://open.spotify.com/artist/7kP0ofp2uwyxcf70L4tJmy), [vio.](https://open.spotify.com/artist/1xj27oXPEOGWFrfJLsieaP) | [Gado](https://open.spotify.com/album/6EZCCzJYH3wxoF63TPOS6K) | 2:59 | 2026-05-01 |  |
 | [Get Me There](https://open.spotify.com/track/3Vibd3EowNEXVCLbp1nMKT) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Get Me There](https://open.spotify.com/album/2hzVqM5sd94DRVzzMUjjFk) | 3:23 | 2025-02-28 | 2025-05-24 |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |
@@ -334,6 +334,7 @@
 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 | 2023-12-01 | 2024-02-12 |
 | [Morenita](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Morenita](https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr) | 2:58 | 2024-05-31 |  |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2021-10-08 | 2023-11-11 |
+| [Morning Sex](https://open.spotify.com/track/10mrpAnhT5iZYygv8rDIDr) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [Morning Sex EP](https://open.spotify.com/album/26W9SHA9CFAdWzrC6wjSI1) | 3:05 | 2026-05-21 |  |
 | [Mosika](https://open.spotify.com/track/6eNUbxMJ6BiTK4dHy9mzU0) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Mosika](https://open.spotify.com/album/6XJO3ByrRT51pfXEPJ6jvR) | 2:47 | 2024-08-09 | 2024-08-17 |
 | [Movimiento](https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e) | [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm) | [Movimiento](https://open.spotify.com/album/7g3IfnI0Y593YDLh39eIvL) | 5:30 | 2024-08-09 | 2024-08-24 |
 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 | 2023-12-01 | 2024-02-24 |

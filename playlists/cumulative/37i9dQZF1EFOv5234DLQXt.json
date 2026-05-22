@@ -1971,24 +1971,6 @@
     },
     {
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "date_added": "2025-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244093,
-      "name": "Raiz",
-      "url": "https://open.spotify.com/track/7CzEXcRHME6lwRXDFjA4bT"
-    },
-    {
-      "album": {
         "name": "Gustavo Stereo",
         "url": "https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV"
       },
@@ -2022,6 +2004,24 @@
       "duration_ms": 236666,
       "name": "Rapto",
       "url": "https://open.spotify.com/track/69Je4J4Gw5AIikOzGqdsDS"
+    },
+    {
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Ra\u00edz",
+      "url": "https://open.spotify.com/track/7CzEXcRHME6lwRXDFjA4bT"
     },
     {
       "album": {
@@ -2164,7 +2164,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 288266,
-      "name": "Tabu",
+      "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP"
     },
     {

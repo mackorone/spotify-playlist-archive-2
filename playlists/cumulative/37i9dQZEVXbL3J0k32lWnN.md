@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,463 songs - 5 day 7 hr 23 min
+2,464 songs - 5 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Broke](https://open.spotify.com/track/7AOis8eAHeN5LmGdgVz6CU) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Broke](https://open.spotify.com/album/4cbHdrdhr6tjiGKzZTrVfq) | 2:24 | 2021-04-04 | 2021-05-16 |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2022-11-05 | 2022-11-10 |
 | [Broken Homes](https://open.spotify.com/track/4RyyJY9i1gsiOVDLLXUuqG) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [CSKI VOL\. 2](https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j) | 2:42 | 2022-02-05 | 2022-02-07 |
-| [Brugt mine dage](https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 2:57 | 2025-05-09 | 2026-05-08 |
+| [Brugt mine dage](https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 2:57 | 2025-05-09 |  |
 | [Brummer \(feat\. KESI\)](https://open.spotify.com/track/24OxOXIG8y2mMZgDI2lfFX) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Brummer \(feat\. KESI\)](https://open.spotify.com/album/4sn6av6beIjH5BFrQAE25V) | 2:34 | 2025-02-22 | 2025-02-24 |
 | [Brunette](https://open.spotify.com/track/2ufb10aXZ21gbGN0WuN3PL) | [Elias Buch](https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ) | [Brunette](https://open.spotify.com/album/12wI4LIZ55OaFJJfwtNPXX) | 2:16 | 2024-03-11 | 2024-03-13 |
 | [Bruser \(feat\. Lamin\)](https://open.spotify.com/track/4XioM7vwJ0Gi0yQZdoyN4B) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 3:05 | 2021-05-30 | 2021-05-31 |
@@ -706,6 +706,7 @@
 | [Fall So Hard](https://open.spotify.com/track/3pHt7ZLOM4GJQKqorMzeon) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Blood](https://open.spotify.com/album/76IDokLpzr6w9FNGHD6GdN) | 3:34 | 2021-03-27 | 2021-06-13 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-26 |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 | 2024-05-11 |
+| [Fancy](https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Fancy](https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL) | 2:02 | 2026-05-21 |  |
 | [Farlig](https://open.spotify.com/track/5UPl2VTyxRTbu8OXcjCYYR) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Farlig](https://open.spotify.com/album/6MbJkHaTPM65dFFsV1FOfC) | 2:21 | 2021-07-25 | 2021-08-01 |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-05-26 | 2023-07-05 |
 | [Fastelavn](https://open.spotify.com/track/0n4eXmkGEhgvagEecQt4fc) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 2:46 | 2023-05-13 | 2023-05-30 |
@@ -1058,7 +1059,7 @@
 | [Hvem Skal Solen Skinne På?](https://open.spotify.com/track/1jNN7zvhZWsPVH2wX7ypXv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:11 | 2025-01-18 | 2025-01-24 |
 | [Hver Dag](https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hver Dag](https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL) | 2:32 | 2026-03-14 | 2026-03-23 |
 | [Hver Dag](https://open.spotify.com/track/3UTH3Ih2R2QP9frFMRaGy5) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Fri](https://open.spotify.com/album/6IihVWau3jW3N1ho4ySKDk) | 2:58 | 2024-11-02 | 2024-11-04 |
-| [Hver dag/Lang tid siden](https://open.spotify.com/track/6fUqvhOewRM0pa9WmGMFOg) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 4:37 | 2026-05-09 |  |
+| [Hver dag/Lang tid siden](https://open.spotify.com/track/6fUqvhOewRM0pa9WmGMFOg) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 4:37 | 2026-05-09 | 2026-05-22 |
 | [Hver Gang](https://open.spotify.com/track/444QL7u04SrHw1ioOj95zr) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:21 | 2022-02-19 | 2022-02-25 |
 | [Hvis Jeg Forsvinder](https://open.spotify.com/track/5ebAHKdfU1zhzUjMRjxegR) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [DEPRESSIV TANKEGANG](https://open.spotify.com/album/1vrA5yJlXA9g1GqNVCqM4M) | 2:34 | 2026-03-28 | 2026-04-02 |
 | [Hvor blev tiden af](https://open.spotify.com/track/44FObQsVcs4c2Jg2fUNKaN) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:47 | 2026-05-09 |  |
@@ -1454,7 +1455,7 @@
 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 | 2024-05-25 | 2024-06-02 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
 | [Makaveli](https://open.spotify.com/track/787vzoY5gXpRi2LeFVh16L) | [S1sco](https://open.spotify.com/artist/6P5E47LG2XlrXhGu5Ia17x), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Makaveli](https://open.spotify.com/album/6XMwIpE6OoLqyralBAA5zk) | 2:33 | 2021-08-08 | 2021-08-19 |
-| [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 | 2026-05-16 |  |
+| [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 | 2026-05-16 | 2026-05-22 |
 | [Make Them Know](https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:08 | 2026-05-16 | 2026-05-18 |
 | [Make Them Pay](https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:01 | 2026-05-16 | 2026-05-21 |
 | [Make Them Remember](https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:23 | 2026-05-16 | 2026-05-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Lestin",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 169480,
       "name": "3am in Paris",
       "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165546,
       "name": "Boston",
       "url": "https://open.spotify.com/track/45bC4J4xP1m1Jbt6fXUYky"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 234233,
       "name": "Comme je l'aime - Live",
       "url": "https://open.spotify.com/track/3PdIE96LOrbIdcEEDsVwux"
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170762,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7cRyGiBwYqHXQaBtKmflMG"
+    },
+    {
+      "album": {
         "name": "Soleil de Minuit",
         "url": "https://open.spotify.com/album/1iobpPQiqPlHgIQrIzuBVk"
       },
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 172897,
       "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
@@ -2767,6 +2785,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0",
+        "url": "https://open.spotify.com/album/2Mo5afIwbgEsu5dlFfYgT4"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        },
+        {
+          "name": "Zap Mama",
+          "url": "https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202641,
+      "name": "D\u00e9j\u00e0",
+      "url": "https://open.spotify.com/track/0anL4HPAhFUplhpyY6ZrgR"
+    },
+    {
+      "album": {
         "name": "SOLSTICE",
         "url": "https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB"
       },
@@ -2948,6 +2988,24 @@
       "duration_ms": 209674,
       "name": "En apesanteur",
       "url": "https://open.spotify.com/track/0veCuEH5urr4nxUKhDyIyM"
+    },
+    {
+      "album": {
+        "name": "En arri\u00e8re",
+        "url": "https://open.spotify.com/album/6nsZeZow3ZrvRNWGD0Vtd3"
+      },
+      "artists": [
+        {
+          "name": "N\u00ebo",
+          "url": "https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "En arri\u00e8re",
+      "url": "https://open.spotify.com/track/5TJ4Xj0Eg716IbwksVnERP"
     },
     {
       "album": {
@@ -3255,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Fais moi pleuvoir",
+        "url": "https://open.spotify.com/album/5BlTy3XaLJlHe2XVjhjgKI"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9leste",
+          "url": "https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Fais moi pleuvoir",
+      "url": "https://open.spotify.com/track/5vC3fGU7XI0B4Ami8RtpPE"
+    },
+    {
+      "album": {
         "name": "Fallait pas",
         "url": "https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15"
       },
@@ -3512,6 +3588,24 @@
       "duration_ms": 186493,
       "name": "FOLIE",
       "url": "https://open.spotify.com/track/5cK2OUsnaThmFpUKfnyHEA"
+    },
+    {
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
     },
     {
       "album": {
@@ -3816,6 +3910,24 @@
       "duration_ms": 241571,
       "name": "Gu\u00e9rir",
       "url": "https://open.spotify.com/track/1RWDZg4e4klXW9kQrt3ngP"
+    },
+    {
+      "album": {
+        "name": "hardcore",
+        "url": "https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ"
+      },
+      "artists": [
+        {
+          "name": "Alvin Ama\u00efzo",
+          "url": "https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "hardcore",
+      "url": "https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL"
     },
     {
       "album": {
@@ -4352,7 +4464,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 167142,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/6ZGINu0vCHpZveKXoxXCyw"
@@ -4502,7 +4614,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 205440,
       "name": "J'ai merd\u00e9",
       "url": "https://open.spotify.com/track/3SxZzsVNK8VjabXJphHYPo"
@@ -6191,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Maintenant je peux faire l'amour",
+        "url": "https://open.spotify.com/album/2gaqd7uYhtG10FyrIjWEpK"
+      },
+      "artists": [
+        {
+          "name": "Tianmi",
+          "url": "https://open.spotify.com/artist/1cxvTBZk2FxR8hgtF25sK2"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168841,
+      "name": "Maintenant je peux faire l'amour",
+      "url": "https://open.spotify.com/track/7CZAQa1vqXf7DcMga5fyXp"
+    },
+    {
+      "album": {
         "name": "Monsieur Saudade",
         "url": "https://open.spotify.com/album/1amJT80lbG7zPvoVcpw05B"
       },
@@ -7448,7 +7578,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 154285,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq"
@@ -9224,7 +9354,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 207266,
       "name": "Si j\u2019avais su",
       "url": "https://open.spotify.com/track/5XWWSnBxoSsFQbb0kpLjGQ"
@@ -10020,6 +10150,28 @@
       "duration_ms": 203320,
       "name": "Ton masque est tomb\u00e9",
       "url": "https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh"
+    },
+    {
+      "album": {
+        "name": "TOU S\u00c8L",
+        "url": "https://open.spotify.com/album/4ytfHdTPhBsN4v0f2fNO0r"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "Magical Nrick",
+          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262025,
+      "name": "TOU S\u00c8L",
+      "url": "https://open.spotify.com/track/51QyajsUEuJBtQR0aLJzpb"
     },
     {
       "album": {

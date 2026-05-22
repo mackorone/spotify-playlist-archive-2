@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 256116,
       "name": "Happy Hunting Horn",
       "url": "https://open.spotify.com/track/4224SuFpE8d5KAuZ2wkHL3"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 258506,
       "name": "Happy Hunting Horn",
       "url": "https://open.spotify.com/track/2iHkq79NGzxyXADQaK6w1c"
@@ -3590,10 +3590,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 179303,
       "name": "I'd Rather Be Right (From \"Have You Met Miss Jones?\")",
       "url": "https://open.spotify.com/track/3Lo4vhrJyWc3TsUWw8XXP5"
+    },
+    {
+      "album": {
+        "name": "Joyrider",
+        "url": "https://open.spotify.com/album/4cdYLbXag0kzTWQtdh7p0x"
+      },
+      "artists": [
+        {
+          "name": "Andreas Pettersson Band",
+          "url": "https://open.spotify.com/artist/5BqzhNBsVOAEiX5bKrfZ5l"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402533,
+      "name": "I'd Rather Be Right (Have You Met Miss Jones?)",
+      "url": "https://open.spotify.com/track/0GxbqdIRUy6803s8SUKXLi"
     },
     {
       "album": {
@@ -7806,7 +7824,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 251680,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/0dxSPAlOCyQQk7aBkHpmRe"
@@ -7882,7 +7900,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 195613,
       "name": "The Sound of Music - Reprise",
       "url": "https://open.spotify.com/track/6gLozZ4U1u2ZG8sjCuXSoE"

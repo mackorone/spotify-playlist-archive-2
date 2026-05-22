@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,232 songs - 2 day 20 hr 31 min
+1,233 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 | 2022-06-25 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-25 | 2023-12-14 |
 | [Ghost](https://open.spotify.com/track/5aYAFbdlG9ljCTv4L1EUAX) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Ghost](https://open.spotify.com/album/0wBFjhEg6oiQ3fqc7p308r) | 3:17 | 2024-02-29 | 2024-05-21 |
+| [ghost](https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [osc444](https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj) | [ghost](https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq) | 4:02 | 2026-05-21 |  |
 | [Ghost](https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Ghost](https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy) | 3:03 | 2022-10-29 | 2023-01-24 |
 | [Ghost in the Shadows](https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM) | [Ghost in the Shadows](https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4) | 3:47 | 2024-07-29 | 2024-10-19 |
 | [Give in to you](https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give in to you](https://open.spotify.com/album/5waNDGxDsidfGG5PzJlji0) | 3:21 | 2024-09-13 | 2024-12-06 |

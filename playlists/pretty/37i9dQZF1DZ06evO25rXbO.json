@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1241238,
+  "num_followers": 1241368,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAABkp1+xaHTmvtQ7NTcfc2xd",
+  "snapshot_id": "agz5gAAAAADtaqpKDmxhAEXqouH5TSIz",
   "tracks": [
     {
       "added_at": null,
@@ -560,21 +560,29 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "Dennis Hopper",
+          "url": "https://open.spotify.com/artist/2Ibi8QzB7uhtYXWtOboAgv"
         },
         {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+          "name": "Ajay Prasanna",
+          "url": "https://open.spotify.com/artist/0UcnzmNyNnUpA3RJNoUQ3H"
         },
         {
           "name": "Anoushka Shankar",
           "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        },
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
         }
       ],
-      "duration_ms": 340874,
-      "name": "The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",
-      "url": "https://open.spotify.com/track/5FH7DTLl8WQNkZs00Cb3EM"
+      "duration_ms": 290621,
+      "name": "The Mountain (feat. Dennis Hopper, Ajay Prasanna, Anoushka Shankar, Amaan Ali Bangash and Ayaan Ali Bangash)",
+      "url": "https://open.spotify.com/track/3MebYJnEDK4XdnCj3VMLjL"
     },
     {
       "added_at": null,

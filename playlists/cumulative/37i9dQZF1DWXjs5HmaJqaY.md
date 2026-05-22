@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-401 songs - 1 day 12 hr 28 min
+403 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Brutalga Square \- Edit](https://open.spotify.com/track/1ywtEXS4hRwOVBj6fcGzTP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Brutalga Square \(Edit\)](https://open.spotify.com/album/3j6u5hsi727OzNCMio48Ye) | 4:45 | 2025-06-27 |  |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-16 | 2022-10-28 |
 | [Busy Ants](https://open.spotify.com/track/4G5DnQty6t8zD5Sb5ICMn6) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Busy Ants](https://open.spotify.com/album/5XZG5gUfRQZdwTLbavLJ3Y) | 4:53 | 2025-03-14 | 2026-04-18 |
+| [Busy Ants \- Olympe Remix](https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [Busy Ants \(Olympe Remix\)](https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV) | 5:06 | 2026-05-21 |  |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 | 2023-05-03 |
 | [Captivate](https://open.spotify.com/track/27ZKMnicAlGrQDOwERJzk8) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Captivate EP](https://open.spotify.com/album/10cLkQhmprr2d0c0PZQIts) | 5:30 | 2024-03-22 | 2024-11-09 |
 | [Casa Loca](https://open.spotify.com/track/1IwNAEgSyAz5oGVgU5gMxs) | [Yasin](https://open.spotify.com/artist/2CwH3CBtHNsiPYOp5X6xrj), [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL) | [Casa Loca](https://open.spotify.com/album/47d33oQLiKE5Nj6EgSsr91) | 6:06 | 2023-10-06 | 2023-10-28 |
@@ -344,6 +345,7 @@
 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 | 2022-09-16 | 2024-11-09 |
 | [Stay](https://open.spotify.com/track/1jts9oi0XfqcQxT07Kvj3c) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Reznor](https://open.spotify.com/artist/0Wm9IqgalE5DPu7uZcWzO8) | [Stay](https://open.spotify.com/album/7KeUPlxwvsu8XD0rNrPjz4) | 4:14 | 2024-12-17 | 2025-06-28 |
 | [still here?](https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [still here?](https://open.spotify.com/album/5NMZolavJ698C6ybVoVHtZ) | 4:55 | 2024-10-28 | 2025-06-28 |
+| [Stop Go](https://open.spotify.com/track/6RauiAfExVUKA7pM1JxHJE) | [Philipp Lake](https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH) | [Stop Go](https://open.spotify.com/album/3csLY843ytZcfqXEvAaVNW) | 3:08 | 2026-05-21 |  |
 | [Stopover \- Edit](https://open.spotify.com/track/57ejAxpj9C3s9WCuzniPpG) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Stopover](https://open.spotify.com/album/7bHXIxzaM7spPRObJmFhGA) | 2:55 | 2024-12-17 | 2025-02-15 |
 | [Subconscious](https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Subconscious](https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S) | 5:39 | 2022-09-16 | 2023-08-26 |
 | [Sugar Coded](https://open.spotify.com/track/70W9WXqbzMtqwTF6J3rNjL) | [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V), [Harry Keyworth](https://open.spotify.com/artist/0SIOzVNMDeMLkE3mRcIDf9) | [Sugar Coded](https://open.spotify.com/album/0kz1bZGY7x57l6CzAi3kD9) | 5:06 | 2025-02-14 | 2025-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,820 likes - 151 songs - 9 hr 32 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,820 likes - 156 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 149 | [Promised Land](https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92) | [Lynn & the RattleShakes](https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig) | [Beyond Rock 'n Roll](https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg) | 4:06 |
 | 150 | [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 |
 | 151 | [YOUR PAIN](https://open.spotify.com/track/5PIQLaJ46BXWEJnaEmy3vS) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3), [SUNAIRAPPER](https://open.spotify.com/artist/45DkBg9P60otTaU9aC7Nya) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:36 |
+| 152 | [Scared of Okay](https://open.spotify.com/track/07VAdJmbCNBbloWnzmNEpX) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Scared of Okay](https://open.spotify.com/album/3QByuDDlt1E7u2UwfpgbzB) | 4:15 |
+| 153 | [Polaroid](https://open.spotify.com/track/4GQAIUhNo73PKzoCAJGFcs) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Polaroid](https://open.spotify.com/album/1vQ9FBJUrpnFFRabr4Q50s) | 3:23 |
+| 154 | [When I Try](https://open.spotify.com/track/5dLLViRjSxKkkjJsfRBJ3i) | [Phil Headway](https://open.spotify.com/artist/6tpCZkSzWlh8GvohFl8zhe) | [The Answers](https://open.spotify.com/album/4mWlq6c2crzdg8Il3iV570) | 2:59 |
+| 155 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 |
+| 156 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 |
 
-Snapshot ID: `AAALcrNLpHfHeoros6yuDKWt76oFoHEG`
+Snapshot ID: `AAALd5cQJ9ar47W7nQKsCwF6IKkSwlbN`

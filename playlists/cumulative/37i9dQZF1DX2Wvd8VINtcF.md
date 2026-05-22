@@ -2,9 +2,9 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> pearl of the week ✨Smerz✨
+> pearl of the week ✨Bladee✨
 
-2,403 songs - 5 day 9 hr 56 min
+2,408 songs - 5 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [blue](https://open.spotify.com/track/3ZC6C2r3Mgc2ibUWn8JbG5) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [blue](https://open.spotify.com/album/28nCYvD0I21LuCYCcIO6wq) | 3:08 | 2024-09-12 | 2024-11-15 |
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-26 | 2023-02-17 |
 | [Blue Eyed Buck](https://open.spotify.com/track/3ywpJWfy6OA2DIZVYDqVt5) | [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Blue Eyed Buck](https://open.spotify.com/album/2KeXE0UPTzV7zoEMfg344N) | 2:22 | 2025-06-19 | 2026-01-15 |
+| [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 | 2026-05-21 |  |
 | [Blue Light](https://open.spotify.com/track/6ZCmA6579h7urbIMiWwVkB) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Blue Light](https://open.spotify.com/album/2iZgDZXtuAcx2O0MKoF3Pa) | 3:56 | 2022-12-15 | 2023-01-27 |
 | [Blue Velvet](https://open.spotify.com/track/2NdWTPbuCCUGGH1JL01nEL) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Blue Velvet](https://open.spotify.com/album/3RhHlCANvlcdVpHqLVYcik) | 4:06 | 2025-08-29 | 2026-01-15 |
 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2023-11-30 | 2023-12-08 |
@@ -1191,6 +1192,7 @@
 | [lady \(feat\. chlothegod\)](https://open.spotify.com/track/6qtJs5w3x7z0Z41im1TCT6) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:32 | 2023-09-21 | 2024-02-16 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 | 2023-03-31 |
 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 | 2023-06-29 | 2023-08-04 |
+| [Lao Shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Lao Shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
 | [Last Call](https://open.spotify.com/track/2yBmu82kB41F21NtIf2qpL) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Last Call](https://open.spotify.com/album/5MMC53rGhiikFwSHDpJ1vE) | 3:29 | 2025-08-15 | 2026-01-15 |
 | [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-08 | 2023-01-27 |
 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 | 2026-01-01 |  |
@@ -1772,6 +1774,7 @@
 | [Sampha's Plea](https://open.spotify.com/track/2Hb8HUCnMZ74gwl4DppYDd) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 2:46 | 2022-11-24 | 2023-03-10 |
 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 | 2023-09-21 | 2024-02-16 |
 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-23 |  |
+| [Santa Fe](https://open.spotify.com/track/1p2TGUwoOr7oimoicT8O5q) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Santa Fe](https://open.spotify.com/album/6nkpLrf14CdKLAAno5dRsl) | 3:39 | 2026-05-21 |  |
 | [santa helena](https://open.spotify.com/track/4R5lfSl5GRCcUID8Exl69S) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [The Driving Towards The Sunset Tapes II](https://open.spotify.com/album/7hNpwNMZkrsnrovoUAZgGS) | 4:11 | 2025-05-29 | 2026-01-15 |
 | [SANTI'S APARTMENT](https://open.spotify.com/track/51aFMn0QVwiLKR0WOKWZo0) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [SANTI'S APARTMENT](https://open.spotify.com/album/7BIrpmQHhceuOXy4p3qgYN) | 2:36 | 2025-03-27 | 2025-05-23 |
 | [Santiladang](https://open.spotify.com/track/3t9EQIUArq9TSG10hUfRfb) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santiladang](https://open.spotify.com/album/1ga3DDiubv3ILXVjlTn8b3) | 3:08 | 2024-05-30 | 2024-08-02 |
@@ -2172,6 +2175,7 @@
 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 | 2023-04-06 | 2023-04-14 |
 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 | 2023-04-13 | 2023-05-19 |
 | [touch me right](https://open.spotify.com/track/4Yl0KI8Vglg2lqCFZrAkVE) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [touch me right](https://open.spotify.com/album/0jXEspP2Amv1FJUJRyLswv) | 3:00 | 2025-10-23 | 2026-02-13 |
+| [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 | 2026-05-21 |  |
 | [Touchdown](https://open.spotify.com/track/7cpQkyhwYhRM6yHNExH7Le) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Touchdown](https://open.spotify.com/album/6OBW03llNerGEbtFTstzPR) | 4:03 | 2022-10-28 | 2022-11-04 |
 | [Touchdown](https://open.spotify.com/track/6kqbiPlctyDu20K8juNgd1) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Please Have A Seat](https://open.spotify.com/album/1yBhhNIe3FKYZA8J3ds0vf) | 2:09 | 2022-10-28 | 2022-12-24 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-25 | 2024-08-30 |
@@ -2241,6 +2245,7 @@
 | [vanguard](https://open.spotify.com/track/7tFQWkLqXFFeWHaxTMemYF) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [vanguard](https://open.spotify.com/album/32crCA8zEYV2P4o5s5iTpn) | 2:13 | 2025-04-03 | 2025-06-20 |
 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 | 2024-11-14 | 2025-03-21 |
 | [Verloren \- Son of Son Edit](https://open.spotify.com/track/6aD2Vy2VfaA5nVdompLclv) | [De Ambassade](https://open.spotify.com/artist/0GZYFERImx0KoJ1tpN1iuT), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Feel Something EP](https://open.spotify.com/album/5FI5pBtq6ndflSzmcFoqya) | 4:30 | 2026-01-15 |  |
+| [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 | 2026-05-21 |  |
 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-17 | 2022-11-24 |
 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-17 | 2022-12-02 |
 | [Vi igen \- Bella Boo Remix \- Radio Edit](https://open.spotify.com/track/56x4gpldrCnJyEf5pJlG8p) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Vi igen \(Bella Boo Remix\)](https://open.spotify.com/album/386pYuYI3WWg2g11TqzfHx) | 3:22 | 2023-02-16 | 2023-04-28 |

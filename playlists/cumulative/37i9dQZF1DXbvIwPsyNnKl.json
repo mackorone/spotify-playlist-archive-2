@@ -8131,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "TRIGGER FINGER",
+        "url": "https://open.spotify.com/album/6i6BHsxzCuZ8DA87L39106"
+      },
+      "artists": [
+        {
+          "name": "PRAY",
+          "url": "https://open.spotify.com/artist/7kSPW8j0U1sMy2AHpiGfuH"
+        },
+        {
+          "name": "Madman Stan",
+          "url": "https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "TRIGGER FINGER",
+      "url": "https://open.spotify.com/track/6nkEi7KOmRa6vz3Cbd63fG"
+    },
+    {
+      "album": {
         "name": "Meron Na",
         "url": "https://open.spotify.com/album/4EIkAGjXLeIjP2IWzAQbDW"
       },

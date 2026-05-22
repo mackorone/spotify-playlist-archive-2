@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-354 songs - 16 hr 5 min
+355 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [polvere da sparo](https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [polvere da sparo](https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ) | 2:57 | 2025-10-17 |  |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 | 2025-07-12 |
 | [Poter scegliere](https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:20 | 2025-04-03 |  |
+| [preda](https://open.spotify.com/track/03My0DcCC5irNS8dVxoTxm) | [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [preda](https://open.spotify.com/album/1rEtZoHn2Gw3kD49P7q6gb) | 3:54 | 2026-05-21 |  |
 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-10 |  |
 | [Promettimi che mi amerai](https://open.spotify.com/track/7tJvwojvbiHOKL4wJFzO20) | [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Promettimi che mi amerai](https://open.spotify.com/album/6ZRm6d7vst3tVg9wqINjOm) | 2:32 | 2022-12-08 | 2023-03-25 |
 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 | 2022-06-09 | 2022-12-15 |
@@ -338,7 +339,7 @@
 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 | 2023-06-14 |  |
 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 | 2022-05-30 |  |
 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Eiemgei](https://open.spotify.com/artist/1ZfpdLI175LHskzbIAtrrA) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 | 2022-04-21 |  |
-| [un giorno in più](https://open.spotify.com/track/45ardAYQus7bUH97kN5gA3) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [un giorno in più](https://open.spotify.com/album/56ajWofOOf4XhVw6nJ7cQj) | 2:41 | 2025-07-31 |  |
+| [un giorno in più](https://open.spotify.com/track/45ardAYQus7bUH97kN5gA3) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [un giorno in più](https://open.spotify.com/album/56ajWofOOf4XhVw6nJ7cQj) | 2:41 | 2025-07-31 | 2026-05-22 |
 | [un po' più grande](https://open.spotify.com/track/5yenFhaOOy40eYeUfmz28h) | [lica](https://open.spotify.com/artist/2qjCczhvzHWCP9VtAKYA0R), [gargiu.](https://open.spotify.com/artist/5JyjoQki9kqQzygn4NxHfN) | [un po' più grande](https://open.spotify.com/album/3hiI1g0CeyS9GzRILjJLuw) | 2:29 | 2023-12-06 | 2024-01-27 |
 | [un\*cielo\*di\*stelle](https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [Spazjo](https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu) | 2:38 | 2023-02-23 | 2024-04-19 |
 | [un\*cielo\*di\*stelle](https://open.spotify.com/track/6gmGyjGWV8CLR6nznXbymD) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [Spazjo](https://open.spotify.com/album/6pTwkYd4SrNhq9fmYxQSUO) | 2:38 | 2022-04-21 | 2023-02-25 |

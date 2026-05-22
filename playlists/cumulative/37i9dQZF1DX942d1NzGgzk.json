@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: Tia Gordon",
+  "description": "The latest of R&B rising in the UK. Cover: Konyikeh",
   "name": "R&B UK",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 191263,
       "name": "1999",
       "url": "https://open.spotify.com/track/1XPlYPulzYQJ0JEi8xmzN9"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 101632,
       "name": "Abstain",
       "url": "https://open.spotify.com/track/5z4AeEuMI2lEn4kpZt4Ez4"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 159344,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/1dRiTUbseehXIvzipgdKLp"
@@ -1312,6 +1312,24 @@
       "duration_ms": 155000,
       "name": "Boys Like U",
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
+    },
+    {
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/0xC9PfmBnPtcQGLnblmAO3"
+      },
+      "artists": [
+        {
+          "name": "Arno Sacco",
+          "url": "https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233278,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/0IFwU3Vaq5FEuOBnQAjnMd"
     },
     {
       "album": {
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 194181,
       "name": "Calling",
       "url": "https://open.spotify.com/track/4PVfJrBdPGzP3vo3EAw0lL"
@@ -1998,6 +2016,24 @@
       "duration_ms": 164729,
       "name": "Company (feat. Mereba)",
       "url": "https://open.spotify.com/track/7iYSdBJITN7KpYjOMbkdDd"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1X4nLRbFFwhVRfxwbuFDOT"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162254,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/2Ts6u2309VQVAgZtYkMfnW"
     },
     {
       "album": {
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 132000,
       "name": "Forgive & Forget",
       "url": "https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb"
@@ -4074,7 +4110,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 152088,
       "name": "Got a Lil Luv",
       "url": "https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i"
@@ -5496,6 +5532,24 @@
       "duration_ms": 163926,
       "name": "IWH2BMX",
       "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
+    },
+    {
+      "album": {
+        "name": "Cinere",
+        "url": "https://open.spotify.com/album/4YTRghwdWL2lm2bMhDiRl1"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140148,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4H7FGmMhIxBNKYMjqgqOpp"
     },
     {
       "album": {
@@ -6941,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Money Tree",
+        "url": "https://open.spotify.com/album/0aX6eaOq49NsjZyZBWtNZ2"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159217,
+      "name": "Money Tree",
+      "url": "https://open.spotify.com/track/0iPXVhghWoomfvp0hvpryd"
+    },
+    {
+      "album": {
         "name": "Devotion & The Black Divine",
         "url": "https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD"
       },
@@ -7622,7 +7694,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 217524,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f"
@@ -8200,6 +8272,24 @@
       "duration_ms": 231452,
       "name": "Pinky Promise",
       "url": "https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp"
+    },
+    {
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/3VLTcAaYpXaUdeRTwexUpW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dowsson",
+          "url": "https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214163,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/4o1GKftm3Aujmtgy4ZvzyJ"
     },
     {
       "album": {
@@ -9719,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "suffer",
+        "url": "https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203835,
+      "name": "suffer",
+      "url": "https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7"
+    },
+    {
+      "album": {
         "name": "3 of Us",
         "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
       },
@@ -10517,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "Outsider Music Vol 1: you don't know what you want, do you?",
+        "url": "https://open.spotify.com/album/4f5t578repKV8L5eVA75GL"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW"
+    },
+    {
+      "album": {
         "name": "Tried To Fly .",
         "url": "https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA"
       },
@@ -10622,6 +10748,24 @@
       "duration_ms": 222000,
       "name": "U & I",
       "url": "https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS"
+    },
+    {
+      "album": {
+        "name": "u, him & me",
+        "url": "https://open.spotify.com/album/0fUWL4QtK7QhCChO1uV5O8"
+      },
+      "artists": [
+        {
+          "name": "Timur Nova",
+          "url": "https://open.spotify.com/artist/1InYeA5EjhHDDg2ezeOsBV"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182428,
+      "name": "u, him & me",
+      "url": "https://open.spotify.com/track/2RUNEELdHcRzttVS7JH2gD"
     },
     {
       "album": {
@@ -11066,7 +11210,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 242000,
       "name": "What I'd Give",
       "url": "https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm"

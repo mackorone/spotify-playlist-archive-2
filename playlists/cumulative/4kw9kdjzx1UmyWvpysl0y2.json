@@ -9041,6 +9041,28 @@
     },
     {
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "osc444",
+          "url": "https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy"
       },

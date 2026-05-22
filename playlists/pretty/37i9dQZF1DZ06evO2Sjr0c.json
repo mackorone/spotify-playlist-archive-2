@@ -1,13 +1,29 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 180328,
+  "num_followers": 180348,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAAB5zbrqD8wdPUdepq/egVNS",
+  "snapshot_id": "agz5gAAAAAAoesdmLWXtl4Px424L7Giv",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Rain and Snow (Live at Fillmore Auditorium, San Francisco, CA 7/3/66)",
+        "url": "https://open.spotify.com/album/3SovzZ99QjlFCOsn2Fpouk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Cold Rain and Snow - Live at Fillmore Auditorium, San Francisco, CA 7/3/66",
+      "url": "https://open.spotify.com/track/7n5gO1fCFdltGVmkMIWSq8"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 412595,
-      "name": "Althea - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakedown Street",
         "url": "https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 229009,
       "name": "Fire on the Mountain - 2013 Remaster",
       "url": "https://open.spotify.com/track/4DpBfWl3q8e0gGB76lAaox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go to Heaven",
+        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 412595,
+      "name": "Althea - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
     },
     {
       "added_at": null,
@@ -315,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terrapin Station (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
       "artists": [
         {
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 336578,
-      "name": "Estimated Prophet - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
+      "duration_ms": 194491,
+      "name": "Dire Wolf - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
     },
     {
       "added_at": null,
@@ -347,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workingman's Dead",
-        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+        "name": "Terrapin Station (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
       },
       "artists": [
         {
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 194491,
-      "name": "Dire Wolf - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
+      "duration_ms": 336578,
+      "name": "Estimated Prophet - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful Dead (Skull & Roses) [Live]",
-        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 511306,
-      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
-      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues for Allah (2013 Remaster)",
         "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
       },
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dylan & The Dead (Live)",
-        "url": "https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw"
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
       },
       "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
         {
           "name": "Grateful Dead",
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 296479,
-      "name": "Slow Train - Live at Sullivan Stadium, Foxborough, MA - July 1987",
-      "url": "https://open.spotify.com/track/6kpqaDEznzrlLFhPDwjNNY"
+      "duration_ms": 511306,
+      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
+      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
     }
   ],
   "unique_name": "This Is Grateful Dead",

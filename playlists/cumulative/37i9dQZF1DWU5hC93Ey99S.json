@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "AROUND",
+        "url": "https://open.spotify.com/album/3bzMVFcFSag2FmV97i2OTc"
+      },
+      "artists": [
+        {
+          "name": "Aures",
+          "url": "https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/0CkOQvvcYocqJ0vm2JdJci"
+    },
+    {
+      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
       },
@@ -4115,6 +4133,28 @@
     },
     {
       "album": {
+        "name": "Down For You (feat. Jyll)",
+        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Down For You (feat. Jyll)",
+      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
+    },
+    {
+      "album": {
         "name": "Down On My Love",
         "url": "https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb"
       },
@@ -5068,6 +5108,28 @@
       "duration_ms": 123555,
       "name": "FEEL IT",
       "url": "https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S"
+    },
+    {
+      "album": {
+        "name": "Feel So Right",
+        "url": "https://open.spotify.com/album/0SAtqCGoeVPEIpvpZjRQE6"
+      },
+      "artists": [
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Kimonos",
+          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Feel So Right",
+      "url": "https://open.spotify.com/track/1w4ovi2ob7kOujP5COL8v7"
     },
     {
       "album": {
@@ -20206,6 +20268,28 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "album": {
+        "name": "Inspired Life",
+        "url": "https://open.spotify.com/album/5S2HErzaBEEXFwescLkxPK"
+      },
+      "artists": [
+        {
+          "name": "P\u00ecjus",
+          "url": "https://open.spotify.com/artist/06cVODXXiHCj0c0YrRt4vz"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/3dElbWwaF8XnwRPARp6l91"
     },
     {
       "album": {

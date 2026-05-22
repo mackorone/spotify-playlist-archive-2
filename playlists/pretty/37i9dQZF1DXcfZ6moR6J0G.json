@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2265077,
+  "num_followers": 2265707,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-03-20 17:54:18",
       "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+    },
+    {
+      "added_at": "2026-03-20 17:54:18",
+      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2026-03-20 17:54:18",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+        "name": "Best Of (Chapter One 1997-2004)",
+        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
       },
       "artists": [
         {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+      "duration_ms": 258426,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
     },
     {
       "added_at": "2026-03-20 17:54:18",
@@ -1095,22 +1111,6 @@
       "duration_ms": 215133,
       "name": "Sway",
       "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
-    },
-    {
-      "added_at": "2026-03-20 17:54:18",
-      "album": {
-        "name": "Best Of (Chapter One 1997-2004)",
-        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
     },
     {
       "added_at": "2026-03-20 17:54:18",

@@ -118455,6 +118455,24 @@
     },
     {
       "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410213,
+      "name": "Sparkle - Original Version",
+      "url": "https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },

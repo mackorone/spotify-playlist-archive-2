@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6e21\u8fba \u8c9e\u592b",
-  "num_followers": 49809,
+  "num_followers": 49813,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Lithium",
-        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Lithium",
+        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Frames",
-        "url": "https://open.spotify.com/album/7tDTqHUZiN1exzi6bhrsI5"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX"
       },
       "artists": [
         {
-          "name": "Miho Hazama",
-          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 537057,
-      "name": "Rondo",
-      "url": "https://open.spotify.com/track/2sZ3Fa7Y4w0qlQdEWAfI8v"
+      "duration_ms": 349329,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -767,18 +763,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX"
+        "name": "Frames",
+        "url": "https://open.spotify.com/album/7tDTqHUZiN1exzi6bhrsI5"
       },
       "artists": [
         {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
         }
       ],
-      "duration_ms": 349329,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v"
+      "duration_ms": 537057,
+      "name": "Rondo",
+      "url": "https://open.spotify.com/track/2sZ3Fa7Y4w0qlQdEWAfI8v"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "NELO",
-        "url": "https://open.spotify.com/album/7d24qdkNR53X2ym470UJ0v"
-      },
-      "artists": [
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "NELO",
-      "url": "https://open.spotify.com/track/4GywusTLDzaMnkUkpb1AQ1"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/2p4PWeYlcUFGCRKZfge8Fe"
       },
@@ -963,6 +947,26 @@
       "duration_ms": 313080,
       "name": "Rhizome Changes",
       "url": "https://open.spotify.com/track/5ed2reDZh99JGolP1p8AXc"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
+        "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
+      },
+      "artists": [
+        {
+          "name": "Udagawa Bekkan Band",
+          "url": "https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh"
+        },
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        }
+      ],
+      "duration_ms": 310264,
+      "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
+      "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"
     }
   ],
   "unique_name": "Modern Jazz Japan",

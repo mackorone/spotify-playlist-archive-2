@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Porter en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,124 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,132 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 20 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
 | 21 | [Anestesia](https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Quiero Habitarme](https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI) | 3:09 |
 | 22 | [Días Perfectos](https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Días Perfectos](https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ) | 5:36 |
-| 23 | [Puer Aeternus \(19\)](https://open.spotify.com/track/19BSPPRF5k760V9we6gkQa) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Puer Aeternus \(19\)](https://open.spotify.com/album/3rqLJNniG7llhsBrFwYCvF) | 2:09 |
+| 23 | [Puer Aeternus \(19\)](https://open.spotify.com/track/19BSPPRF5k760V9we6gkQa) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Puer Aeternus \(19\)](https://open.spotify.com/album/3rqLJNniG7llhsBrFwYCvF) | 2:08 |
 | 24 | [El Baile de los que Sobran](https://open.spotify.com/track/3exRD3fiAdmpQ4aaabdf5A) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Dear Killer Nannies \(Soundtrack From Dear Killer Nannies\)](https://open.spotify.com/album/5djtSAZTcaMwxZAqrKBCCx) | 3:31 |
 | 25 | [171 \(∅ ⊆ A\)](https://open.spotify.com/track/3hbV7NHutvElS1q2tNb4z7) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [171 \(∅ ⊆ A\)](https://open.spotify.com/album/1aKE3BIERfiwNhGWAYjMJk) | 2:50 |
 | 26 | [Perdon](https://open.spotify.com/track/1NvDQSzsO28nUBxDKoRdtI) | [Inmigrantes](https://open.spotify.com/artist/5hkwobspQ4nluFwhOcv612), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdon](https://open.spotify.com/album/2YXro8EOgghc32QWeEhuGy) | 3:12 |

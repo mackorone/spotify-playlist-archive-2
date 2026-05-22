@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 41738,
+  "num_followers": 41748,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAACD+MjYjKS7HWV8ojonoJd/",
+  "snapshot_id": "agz5gAAAAAAD8Ph7Xxs8iizcdON3Am7d",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.F.",
-        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 279973,
-      "name": "Piensa en Mi",
-      "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+        "name": "D.F.",
+        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 200388,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
+      "duration_ms": 279973,
+      "name": "Piensa en Mi",
+      "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
     },
     {
       "added_at": null,

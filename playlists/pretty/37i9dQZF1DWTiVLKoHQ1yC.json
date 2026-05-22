@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 257829,
+  "num_followers": 257872,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-05-07 23:00:30",
       "album": {
-        "name": "Keep Dancing",
-        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
-      },
-      "artists": [
-        {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        },
-        {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Keep Dancing",
-      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
-    },
-    {
-      "added_at": "2026-05-07 23:00:30",
-      "album": {
         "name": "Quicksand (Don't Go)",
         "url": "https://open.spotify.com/album/0WCqTOZHxoqdZBkwuyXZEC"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 192954,
       "name": "Quicksand (Don't Go)",
       "url": "https://open.spotify.com/track/31bZ1mzfyByfW5uPw1lxT7"
+    },
+    {
+      "added_at": "2026-05-07 23:00:30",
+      "album": {
+        "name": "Keep Dancing",
+        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Keep Dancing",
+      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
     },
     {
       "added_at": "2026-05-07 23:00:30",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-05-07 23:00:30",
       "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 252935,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5"
-    },
-    {
-      "added_at": "2026-05-07 23:00:30",
-      "album": {
         "name": "Bigger Than All Of Us",
         "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2026-05-07 23:00:30",
       "album": {
-        "name": "Escapism",
-        "url": "https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ"
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Escapism",
-      "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"
+      "duration_ms": 252935,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5"
     },
     {
       "added_at": "2026-05-07 23:00:30",
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-05-07 23:00:30",
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"
+    },
+    {
+      "added_at": "2026-05-07 23:00:30",
+      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 281826,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
-    },
-    {
-      "added_at": "2026-05-07 23:00:30",
-      "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe"
-      },
-      "artists": [
-        {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "Nox Vahn",
-          "url": "https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 218617,
-      "name": "Tales From Beyond",
-      "url": "https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0"
     },
     {
       "added_at": "2026-05-07 23:00:30",
@@ -1055,6 +1031,30 @@
       "duration_ms": 210967,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
+    },
+    {
+      "added_at": "2026-05-07 23:00:30",
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe"
+      },
+      "artists": [
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "Nox Vahn",
+          "url": "https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 218617,
+      "name": "Tales From Beyond",
+      "url": "https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0"
     },
     {
       "added_at": "2026-05-07 23:00:30",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123925,
+  "num_followers": 123923,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVZ/r8znODKfWDM3F6ZMKeaYxsUmp9",
+  "snapshot_id": "AAAVaI3ZwcceCefQaww03dP8J8k4H4zt",
   "tracks": [
+    {
+      "added_at": "2026-05-21 13:09:06",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "osc444",
+          "url": "https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD"
+    },
     {
       "added_at": "2026-05-20 13:55:08",
       "album": {

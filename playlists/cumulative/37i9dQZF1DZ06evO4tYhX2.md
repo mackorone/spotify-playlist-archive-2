@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-124 songs - 11 hr 3 min
+125 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amamos Tu Presencia](https://open.spotify.com/track/0WQIkqhtJBYnHBE3xMg9M7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 11:15 | 2022-09-14 | 2022-11-19 |
 | [Asombrado Estoy De Tí](https://open.spotify.com/track/3wj8VGnWpF7OrvrCxcNuwO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-09-14 | 2022-10-13 |
 | [Asombroso](https://open.spotify.com/track/5rvNR35Xfw420TTfpOEOuW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 9:55 | 2022-10-06 | 2022-10-08 |
+| [Avivamiento \(Versión Guatemala\)](https://open.spotify.com/track/3wFHphWN0m3O1Te9L5iIKq) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Avivamiento \(Versión Guatemala\)](https://open.spotify.com/album/1wAJzg4MPqaF4VcuAwXOxj) | 5:30 | 2026-05-22 |  |
 | [Bienvenido Espíritu Santo \(En Vivo\)](https://open.spotify.com/track/34siJg7mNjQ6fKVlkpkfk5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:29 | 2022-09-14 |  |
 | [Bueno y Fiel](https://open.spotify.com/track/0Ef4eWQf7AvVrf3idbCPsx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 7:20 | 2022-09-16 | 2022-10-02 |
 | [Cada Generación](https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cada Generación](https://open.spotify.com/album/063wZnNwQxC96C4TnpDHeu) | 4:13 | 2025-08-19 | 2025-09-11 |

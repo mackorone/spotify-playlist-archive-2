@@ -1,12 +1,12 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Rizwan Abbas, Maheen Sattar",
-  "num_followers": 11281,
+  "num_followers": 11285,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHyEoVmSn1DmShaQ5lPiuXPvsANx",
+  "snapshot_id": "AAAAABgnWRNtymMtXslh410GiGawm2Po",
   "tracks": [
     {
       "added_at": "2026-05-15 04:43:57",
@@ -111,6 +111,98 @@
       "duration_ms": 186154,
       "name": "Kiwe Mukhre",
       "url": "https://open.spotify.com/track/5xllbFeRpcMvXuKZeOfyCt"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Jo Tu Na Ho",
+        "url": "https://open.spotify.com/album/0cn6PlDsevdyz6ipNcuExn"
+      },
+      "artists": [
+        {
+          "name": "Ali Rehan",
+          "url": "https://open.spotify.com/artist/7tZn6BFDK7Hn0tGLwIjqS7"
+        }
+      ],
+      "duration_ms": 210779,
+      "name": "Jo Tu Na Ho",
+      "url": "https://open.spotify.com/track/3NswMuNdBGsHBR7TkH8Awu"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Main Deewana",
+        "url": "https://open.spotify.com/album/7HkxO76TsGYDkqMvPeG3Jp"
+      },
+      "artists": [
+        {
+          "name": "Muntazir Ali",
+          "url": "https://open.spotify.com/artist/0P7DdWRntsI1gJ2lnjYT2k"
+        },
+        {
+          "name": "Kumail Jaffery",
+          "url": "https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Main Deewana",
+      "url": "https://open.spotify.com/track/7xy0ItgTAVXrbfdSBh9F9T"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Pukaar",
+        "url": "https://open.spotify.com/album/5KFa0UEhhD9wHrooSad1ZG"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/2mnKZOV5u0fIV4UoRQfQrR"
+        },
+        {
+          "name": "Asad Khan Niazi",
+          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
+        }
+      ],
+      "duration_ms": 194783,
+      "name": "Pukaar",
+      "url": "https://open.spotify.com/track/5r6GZrpfTQDCGgdR9Jv5hk"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Ambran De Taare",
+        "url": "https://open.spotify.com/album/0jB7gUuSgXDjy72P0NUrPr"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Ambran De Taare",
+      "url": "https://open.spotify.com/track/4Vv92d0E3lZIdjCblsag05"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Kya Kehnay",
+        "url": "https://open.spotify.com/album/3ZeViaOtD6B4gaCQiTrpRm"
+      },
+      "artists": [
+        {
+          "name": "Sheheryar Rehan",
+          "url": "https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Kya Kehnay",
+      "url": "https://open.spotify.com/track/370aTpm5frZGBvFp96hfxB"
     },
     {
       "added_at": "2026-05-15 04:43:57",

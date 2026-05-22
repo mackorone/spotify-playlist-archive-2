@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Vidusan Kaneswaran
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,543 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,551 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 39 | [Mudhal Kadhal](https://open.spotify.com/track/2Xc5tsdj047m83rVvWRM9p) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Ijas](https://open.spotify.com/artist/6DX3zVZ7llwG8vkdCRMdVA) | [Mudhal Kadhal](https://open.spotify.com/album/3gpvFgze1RE552JFyIqt9v) | 4:38 |
 | 40 | [Na Varanja Oviyam](https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6) | [Dyan](https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Na Varanja Oviyam](https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ) | 3:49 |
 | 41 | [Paarthale Pathikichu](https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq) | [Paarthale Pathikichu](https://open.spotify.com/album/2Io8UHL52heJPiEXFxAHrg) | 2:48 |
-| 42 | [Karuppu Neraththi](https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i) | [Gajaaaa01](https://open.spotify.com/artist/0jJNyS3UiOo4VOOTRktibF), [naveen rithick](https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl) | [Karuppu Neraththi](https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1) | 2:57 |
+| 42 | [Karuppu Neraththi](https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i) | [Gajaaaa01](https://open.spotify.com/artist/20P0GIfGIXtAuicMsTXkVw), [naveen rithick](https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl) | [Karuppu Neraththi](https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1) | 2:57 |
 | 43 | [Kannala Thakatha](https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh) | [Kirusanth Edman](https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kannala Thakatha](https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt) | 3:13 |
 | 44 | [What The Heck \(From "Loopd"\)](https://open.spotify.com/track/19XTzloySSYKl8E755hMKw) | [The She Unit](https://open.spotify.com/artist/5MT9IxvR6t6ztyY6s0trfc), [MR NURA](https://open.spotify.com/artist/5h6hA70JGpFtJg4zn35wxS) | [What The Heck \(From "Loopd"\)](https://open.spotify.com/album/0byB27TWQqQsbb8YQ9nO1L) | 2:01 |
 | 45 | [Kaadhal Mazhai](https://open.spotify.com/track/4Y30WM8dndBVZQohdrM81d) | [Satish GM Benilda](https://open.spotify.com/artist/5ZTqNLoPXr3MQwxbCeYi9B), [Alisha Mathew Thayil](https://open.spotify.com/artist/4qqgPPYCo4LUdFqrhvb0Oo) | [Kaadhal Mazhai](https://open.spotify.com/album/6RrWEPn2MK7weXFml7VoGc) | 4:02 |

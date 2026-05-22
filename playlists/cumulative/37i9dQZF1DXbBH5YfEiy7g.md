@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-241 songs - 1 day 2 hr 21 min
+242 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 | 2025-03-28 | 2025-07-25 |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2024-10-04 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2024-10-04 |  |
+| [Umkhokheli](https://open.spotify.com/track/7xQLANRgLVasueYMsiXIQk) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Ayanda Shange \(Live At Jaspa Studio\)](https://open.spotify.com/album/1oYjueEXQeFU3eH8oCgfYC) | 7:50 | 2026-05-22 |  |
 | [Umkhuleko We Bandla](https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umkhuleko We Bandla](https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum) | 8:27 | 2025-01-03 | 2025-04-18 |
 | [Umsebenzi](https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Umsebenzi](https://open.spotify.com/album/4gq1imAFUvSMMPllTShhpT) | 9:40 | 2026-03-13 | 2026-05-15 |
 | [Umthandazo wami](https://open.spotify.com/track/1iYDZxJM6moHmluj8zBlB9) | [Ndu Shezi](https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI) | [Isibusiso Sami](https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM) | 5:24 | 2025-08-01 | 2025-08-06 |
@@ -243,7 +244,7 @@
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2024-10-04 |  |
 | [YOU ARE EVERYTHING TO ME](https://open.spotify.com/track/0CjeHeCPyQbNVKLfcxlUJE) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [YOU ARE EVERYTHING TO ME](https://open.spotify.com/album/4OyGyalIuyJlCNJjJPl0nJ) | 7:45 | 2026-02-27 | 2026-04-10 |
 | [You Are Good](https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [You Are Good](https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV) | 9:09 | 2026-03-27 | 2026-05-15 |
-| [You Are The One \(Live at Heartfelt Arena, December 2025\) \(feat\. Yanga & Ntokozo Mbambo\)](https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga](https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [The Holy One \(Live at Heartfelt Arena, December 2025\)](https://open.spotify.com/album/3oFcMU3vxJdkZhOYn67iWG) | 9:32 | 2026-03-27 |  |
+| [You Are The One \(Live at Heartfelt Arena, December 2025\) \(feat\. Yanga & Ntokozo Mbambo\)](https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga](https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [The Holy One \(Live at Heartfelt Arena, December 2025\)](https://open.spotify.com/album/3oFcMU3vxJdkZhOYn67iWG) | 9:32 | 2026-03-27 | 2026-05-22 |
 | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 | 2026-05-15 |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2025-08-01 | 2025-08-06 |
 | [Ziphozenkosi](https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti) | 4:52 | 2024-10-11 |  |

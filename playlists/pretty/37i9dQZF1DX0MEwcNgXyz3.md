@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,534 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,544 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 40 | [Settlin' or Sleepin' Around](https://open.spotify.com/track/03VAEMsXCuDQo7iJ4XY2N3) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Rangers & Valentines](https://open.spotify.com/album/3zJNNGYDFEGrqdrmE99XvR) | 3:07 |
 | 41 | [Lonely](https://open.spotify.com/track/0bpGOAZiWO79l37toRosbF) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Movies, Cars & Heartbreak](https://open.spotify.com/album/7s8ApHlBMB3MGDeeiSapBM) | 3:03 |
 | 42 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V2](https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9) | 2:14 |
-| 43 | [Bilagers Musiquen, Drottningholmsmusique: Andante](https://open.spotify.com/track/0KaE8eGktpEKH4MzQZqwSP) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Uppsala Chamber Orchestra](https://open.spotify.com/artist/4nlYKn2zn8YEI0JtMVasUF) | [Johan Helmich Roman: Music For A Royal Wedding](https://open.spotify.com/album/4Y4XEUHaht65TETcs42kym) | 2:01 |
-| 44 | [Bilagers Musiquen, Drottningholmsmusique: Non Troppo Allegro](https://open.spotify.com/track/2cj2gB2rBi1jshp4DFKvvP) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Uppsala Chamber Orchestra](https://open.spotify.com/artist/4nlYKn2zn8YEI0JtMVasUF) | [Johan Helmich Roman: Music For A Royal Wedding](https://open.spotify.com/album/4Y4XEUHaht65TETcs42kym) | 3:08 |
+| 43 | [Bilagers musiquen, BeRI 2, "Drottningholmsmusique": \(Andante\) \[Royal wedding music\]](https://open.spotify.com/track/0KaE8eGktpEKH4MzQZqwSP) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Uppsala Kammarorkester](https://open.spotify.com/artist/7cRNJf5ekRWlcJtyCibGTP), [Anthony Halstead](https://open.spotify.com/artist/2SSWdLQmVLFOZ2tTm2PqHS) | [Roman: Music for A Royal Wedding](https://open.spotify.com/album/4Y4XEUHaht65TETcs42kym) | 2:01 |
+| 44 | [Bilagers musiquen, BeRI 2, "Drottningholmsmusique": Non troppo allegro \(Royal wedding music\)](https://open.spotify.com/track/2cj2gB2rBi1jshp4DFKvvP) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Uppsala Kammarorkester](https://open.spotify.com/artist/7cRNJf5ekRWlcJtyCibGTP), [Anthony Halstead](https://open.spotify.com/artist/2SSWdLQmVLFOZ2tTm2PqHS) | [Roman: Music for A Royal Wedding](https://open.spotify.com/album/4Y4XEUHaht65TETcs42kym) | 3:08 |
 | 45 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
 | 46 | [Simon's Song \- from the Netflix Series Young Royals](https://open.spotify.com/track/0cEjzw52873lbcxhgjXNGl) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Simon's Song \(from the Netflix Series Young Royals\)](https://open.spotify.com/album/2Vw1hsZFTihZd6sPhSedUY) | 2:27 |
 | 47 | [Lonely Ones](https://open.spotify.com/track/6Mb0OgMvbb7FYQejZ6rusz) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:07 |

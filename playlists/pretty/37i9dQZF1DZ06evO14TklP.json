@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 20588,
+  "num_followers": 20632,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAAAPFLpWkhNuyNQeUGmple2k",
+  "snapshot_id": "agz5gAAAAAAobMINrTGXOmuMHM3bE9le",
   "tracks": [
     {
       "added_at": null,
@@ -650,15 +650,11 @@
         {
           "name": "BENO",
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 194338,
-      "name": "Camarim",
-      "url": "https://open.spotify.com/track/4iqbb3jTb6xRRhLD2ozNb8"
+      "duration_ms": 178964,
+      "name": "Flashes",
+      "url": "https://open.spotify.com/track/2bqzfsvVkg7OXxop76r2Pf"
     },
     {
       "added_at": null,
@@ -746,11 +742,15 @@
         {
           "name": "BENO",
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 178964,
-      "name": "Flashes",
-      "url": "https://open.spotify.com/track/2bqzfsvVkg7OXxop76r2Pf"
+      "duration_ms": 194338,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/4iqbb3jTb6xRRhLD2ozNb8"
     },
     {
       "added_at": null,

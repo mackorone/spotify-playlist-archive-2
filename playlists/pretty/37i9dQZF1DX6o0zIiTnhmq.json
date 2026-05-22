@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 232974,
+  "num_followers": 233024,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
+        "name": "Nam Myoho Renge Kyo",
+        "url": "https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP"
+      },
+      "artists": [
+        {
+          "name": "Sandeep Khurana",
+          "url": "https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj"
+        }
+      ],
+      "duration_ms": 924741,
+      "name": "Nam Myoho Renge Kyo",
+      "url": "https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
         "name": "Ram Naam Dhun",
         "url": "https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 838750,
       "name": "Ram Naam Dhun",
       "url": "https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
-        "name": "Nam Myoho Renge Kyo",
-        "url": "https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP"
-      },
-      "artists": [
-        {
-          "name": "Sandeep Khurana",
-          "url": "https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj"
-        }
-      ],
-      "duration_ms": 924741,
-      "name": "Nam Myoho Renge Kyo",
-      "url": "https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Maha Mrityunjaya Mantra: 108 Times",
-        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 2976545,
-      "name": "Maha Mrityunjaya Mantra: 108 Times",
-      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
         "name": "Buddhist and Zen for Meditation Relaxation",
         "url": "https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 509541,
       "name": "Buddhist Music and Chants for Inner Peace",
       "url": "https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Maha Mrityunjaya Mantra: 108 Times",
+        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 2976545,
+      "name": "Maha Mrityunjaya Mantra: 108 Times",
+      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Mantras & Chants",
-        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 859743,
-      "name": "Hari Om Tat Sat",
-      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
         "name": "Om Namoh Hanumate Rudravataraya Mantra",
         "url": "https://open.spotify.com/album/5mohdfYe1g23futO6cTwra"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
       },
       "artists": [
         {
-          "name": "Om Voices",
-          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
         }
       ],
-      "duration_ms": 380437,
-      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
+      "duration_ms": 859743,
+      "name": "Hari Om Tat Sat",
+      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -763,6 +747,22 @@
       "duration_ms": 472500,
       "name": "Rudrashtakam - The Manifestation Of Shiva",
       "url": "https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
+      },
+      "artists": [
+        {
+          "name": "Om Voices",
+          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
+        }
+      ],
+      "duration_ms": 380437,
+      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -787,6 +787,22 @@
       "duration_ms": 200816,
       "name": "Shree Ganesh Pancharatna Stotra",
       "url": "https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Phaldata Ganesh",
+        "url": "https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 463680,
+      "name": "Ganesh Panchratna Stotram",
+      "url": "https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -823,22 +839,6 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Phaldata Ganesh",
-        "url": "https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 463680,
-      "name": "Ganesh Panchratna Stotram",
-      "url": "https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
         "name": "Maha Mritunjay Mantra",
         "url": "https://open.spotify.com/album/33n1vZq8hq2yOwm6nk1Rwm"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 1032000,
       "name": "Maha Mritunjay Mantra",
       "url": "https://open.spotify.com/track/2VPMBwthYsmETrZ6WGsPcD"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
-        "name": "Sacred Chants of Shiva",
-        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
-      },
-      "artists": [
-        {
-          "name": "Singers of the Art of Living",
-          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
-        }
-      ],
-      "duration_ms": 389693,
-      "name": "Shivoham",
-      "url": "https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -903,6 +887,22 @@
       "duration_ms": 361621,
       "name": "Mrityunjay Mantra",
       "url": "https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Sacred Chants of Shiva",
+        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+      },
+      "artists": [
+        {
+          "name": "Singers of the Art of Living",
+          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+        }
+      ],
+      "duration_ms": 389693,
+      "name": "Shivoham",
+      "url": "https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Om Chanting 108 Times",
-        "url": "https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw"
-      },
-      "artists": [
-        {
-          "name": "Lakshit Patiyal",
-          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
-        }
-      ],
-      "duration_ms": 1653759,
-      "name": "Om Chanting 108 Times",
-      "url": "https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
         "name": "Vishnu Gayatri Mantra",
         "url": "https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 323999,
       "name": "Vishnu Gayatri Mantra",
       "url": "https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Om Chanting 108 Times",
+        "url": "https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw"
+      },
+      "artists": [
+        {
+          "name": "Lakshit Patiyal",
+          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
+        }
+      ],
+      "duration_ms": 1653759,
+      "name": "Om Chanting 108 Times",
+      "url": "https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
-        "name": "Sacred Chants of Shiva",
-        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+        "name": "Durga",
+        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
       },
       "artists": [
         {
-          "name": "Singers of the Art of Living",
-          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
         }
       ],
-      "duration_ms": 393040,
-      "name": "Lingashtakam",
-      "url": "https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK"
+      "duration_ms": 249230,
+      "name": "Shloka",
+      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -1151,22 +1151,6 @@
       "duration_ms": 362857,
       "name": "Ramashtakam",
       "url": "https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
-        "name": "Durga",
-        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
-      },
-      "artists": [
-        {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Shloka",
-      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -1203,6 +1187,22 @@
       "duration_ms": 893142,
       "name": "Karpur Gauram Chanting 108 Times",
       "url": "https://open.spotify.com/track/3FUBurDzveME3uR9Opji58"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
+        "name": "Sacred Chants of Shiva",
+        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+      },
+      "artists": [
+        {
+          "name": "Singers of the Art of Living",
+          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+        }
+      ],
+      "duration_ms": 393040,
+      "name": "Lingashtakam",
+      "url": "https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK"
     },
     {
       "added_at": "2026-05-20 04:42:59",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-20 04:42:59",
       "album": {
+        "name": "Aditya Hridayam Stotram",
+        "url": "https://open.spotify.com/album/5EnMGmc66Q5ZkFmc9v5G59"
+      },
+      "artists": [
+        {
+          "name": "Bhakti Choir",
+          "url": "https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl"
+        }
+      ],
+      "duration_ms": 485500,
+      "name": "Aditya Hridayam Stotram",
+      "url": "https://open.spotify.com/track/4nmJEQJm47VIgcQxXtbONu"
+    },
+    {
+      "added_at": "2026-05-20 04:42:59",
+      "album": {
         "name": "Om Namah Shivay Meditation 108 Times",
         "url": "https://open.spotify.com/album/2ucTid7wEP0FXmmhu4HUyv"
       },
@@ -1323,30 +1339,6 @@
       "duration_ms": 3925961,
       "name": "Om Namah Shivay Meditation 108 Times",
       "url": "https://open.spotify.com/track/53ZbuEXxgsJ7kSZOXMxeYk"
-    },
-    {
-      "added_at": "2026-05-20 04:42:59",
-      "album": {
-        "name": "Ram Naam Chanting",
-        "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
-      },
-      "artists": [
-        {
-          "name": "Palak Sharma",
-          "url": "https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG"
-        },
-        {
-          "name": "JusKeys",
-          "url": "https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc"
-        },
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        }
-      ],
-      "duration_ms": 1081463,
-      "name": "Ram Naam Chanting",
-      "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"
     }
   ],
   "unique_name": "Magical Mantras",

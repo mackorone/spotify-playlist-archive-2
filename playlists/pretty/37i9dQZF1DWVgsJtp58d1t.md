@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:756t7CBmWLNYsshVtS6P44">Tone Stith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,483 likes - 156 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,563 likes - 156 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

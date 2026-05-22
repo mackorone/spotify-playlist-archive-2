@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 211549,
       "name": "Certo pra Voc\u00ea",
       "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 190833,
       "name": "Comemorar?",
       "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
@@ -2753,6 +2753,32 @@
     },
     {
       "album": {
+        "name": "Jangada",
+        "url": "https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Jangada",
+      "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
+    },
+    {
+      "album": {
         "name": "Jatin",
         "url": "https://open.spotify.com/album/5SElpACjwKeRzWaQaRaUuC"
       },
@@ -3275,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "MARQUINHA",
+        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "MARQUINHA",
+      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
+    },
+    {
+      "album": {
         "name": "Marquinha",
         "url": "https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp"
       },
@@ -3790,6 +3834,32 @@
       "duration_ms": 162831,
       "name": "Mortadela",
       "url": "https://open.spotify.com/track/19JeRq3JBuKRQ3tb07YFQB"
+    },
+    {
+      "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "album": {
@@ -4366,7 +4436,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
@@ -4930,7 +5000,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
@@ -4974,6 +5044,32 @@
       "duration_ms": 331054,
       "name": "Qualquer Maneira",
       "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "album": {
+        "name": "VIRADA DE CHAVE",
+        "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
+      },
+      "artists": [
+        {
+          "name": "OGermano",
+          "url": "https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs"
+        },
+        {
+          "name": "Douglas Lemos",
+          "url": "https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8"
+        },
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "QUARTAS DE CINZA",
+      "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
     },
     {
       "album": {
@@ -6104,7 +6200,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
@@ -6344,6 +6440,28 @@
       "duration_ms": 183560,
       "name": "Vamo Pra Praia",
       "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
+    },
+    {
+      "album": {
+        "name": "Vem Me Dar",
+        "url": "https://open.spotify.com/album/5f8VT6GKfTrl53z99gQHer"
+      },
+      "artists": [
+        {
+          "name": "Vinta",
+          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
+        },
+        {
+          "name": "Lil Paul",
+          "url": "https://open.spotify.com/artist/34hDRGnxDke2duRqJeuQ8p"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154450,
+      "name": "Vem Me Dar",
+      "url": "https://open.spotify.com/track/5ARljWIDvNllpQ49Uqmt6x"
     },
     {
       "album": {

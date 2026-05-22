@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AK4:20
 
-307 songs - 15 hr 33 min
+308 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 | 2022-01-20 | 2025-08-01 |
 | [Perco Con Mari \- Remastered](https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 3:56 | 2022-01-20 |  |
 | [Perder para Ganar](https://open.spotify.com/track/0WpZbgKCzuI3qTKgHA7XbI) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [Perder para Ganar](https://open.spotify.com/album/7ImRpTA86iRT5aljKS7GLP) | 2:37 | 2024-11-15 |  |
+| [Plan](https://open.spotify.com/track/74PZBDLNQLXVvFtmvsxjk3) | [Sirena Dlr](https://open.spotify.com/artist/3X4t92I5xCsMZTN1cydgRU), [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Dbs](https://open.spotify.com/artist/3UdSOsxvtbqXW2CdUmGFGI), [DJ Sta](https://open.spotify.com/artist/2aqZYrg0rlhgvKSL77Oldy) | [Plan](https://open.spotify.com/album/2Z0ImefkDpDotofVDFRpmW) | 3:17 | 2026-05-22 |  |
 | [POPCORN](https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [POPCORN](https://open.spotify.com/album/6RNKxVM0RlZQ3qTLV5Kbj7) | 3:44 | 2022-01-20 | 2023-12-16 |
 | [Por Mi Familia](https://open.spotify.com/track/63xVIUWRnwTtzjfQjsMNzc) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Yishark](https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [Gringuitos Records](https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV), [RF Music](https://open.spotify.com/artist/3e2dC479m26OChgDRd25Z3), [Raw\-Lee](https://open.spotify.com/artist/5dgMqvMBxRztp7UH4RK2S3), [Dubaii](https://open.spotify.com/artist/7Id3WnCuLdvhW75ZMWu9uj) | [Por Mi Familia](https://open.spotify.com/album/1cunusywl5QJR1qLlthtYl) | 5:15 | 2023-09-15 | 2024-07-13 |
 | [Pornstar](https://open.spotify.com/track/4bkDtdoitCVamXHlDkwNIh) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Pornstar](https://open.spotify.com/album/6z4Xw9qVzbiUVjW1EfAX5h) | 3:42 | 2025-02-13 | 2025-04-05 |
@@ -312,7 +313,7 @@
 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 | 2022-01-20 |  |
 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 | 2023-07-07 | 2023-12-09 |
 | [Ya Ganamos](https://open.spotify.com/track/6oxrhNRspZE9KVIqTisXWc) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Ya Ganamos](https://open.spotify.com/album/0IaUSmzNre5q8jrIzbjTVT) | 2:37 | 2024-12-06 |  |
-| [Yeti](https://open.spotify.com/track/349FLkJtROXAcVmfO1EZoU) | [Rojas On The Beat](https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Copa Del Rey](https://open.spotify.com/album/5npcmtC8dDxz2HPQLioz6a) | 2:28 | 2025-06-13 |  |
+| [Yeti](https://open.spotify.com/track/349FLkJtROXAcVmfO1EZoU) | [Rojas On The Beat](https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Copa Del Rey](https://open.spotify.com/album/5npcmtC8dDxz2HPQLioz6a) | 2:28 | 2025-06-13 | 2026-05-22 |
 | [Young Millonaire](https://open.spotify.com/track/2rYCI8MQnx6vGTfZENkvOt) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Young Millonaire](https://open.spotify.com/album/4F0x4BtgabWu3nR87PLtfH) | 2:04 | 2024-06-07 | 2024-09-14 |
 | [Zabuza](https://open.spotify.com/track/5GjPWGsEgk6MKOWCocVoiB) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Zabuza](https://open.spotify.com/album/3lsCDXKXGFgG54fKMQWF63) | 2:32 | 2025-03-21 |  |
 

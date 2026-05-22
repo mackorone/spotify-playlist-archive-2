@@ -867,6 +867,32 @@
     },
     {
       "album": {
+        "name": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
+        "url": "https://open.spotify.com/album/2yoOmDD5QWGgYirElo9rQo"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gudrun Pagel",
+          "url": "https://open.spotify.com/artist/6cwH3Dh0UoRfFYYYpn7dZh"
+        },
+        {
+          "name": "Julia Vaisberg",
+          "url": "https://open.spotify.com/artist/52KsyMFUtxDTM4GRDiScNP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 919986,
+      "name": "Concert Fantasie (Arr. G. Pagel, S. Asselhofen and J. Vaisberg)",
+      "url": "https://open.spotify.com/track/5mvqq3mFZVo8yiYGYXcIos"
+    },
+    {
+      "album": {
         "name": "Porgy & Bess",
         "url": "https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc"
       },
@@ -4239,40 +4265,6 @@
     },
     {
       "album": {
-        "name": "Gershwin: Porgy and Bess",
-        "url": "https://open.spotify.com/album/3kLYgdqHSv7YkRvZtHRFY9"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Cynthia Clarey",
-          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
-        },
-        {
-          "name": "Dallas Symphony Chorus",
-          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
-        },
-        {
-          "name": "Dallas Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
-        },
-        {
-          "name": "Andrew Litton",
-          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
-        }
-      ],
-      "date_added": "2025-08-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 83306,
-      "name": "Porgy and Bess, Act II Scene 2: Shame on All You Sinners",
-      "url": "https://open.spotify.com/track/2A21M2DboDZusztlFkRHfR"
-    },
-    {
-      "album": {
         "name": "Grof\u00e9: Grand Canyon Suite/Gershwin: Porgy & Bess",
         "url": "https://open.spotify.com/album/0DVAMwBCbYJbKqq6cB1BSF"
       },
@@ -4322,32 +4314,6 @@
       "duration_ms": 919986,
       "name": "Porgy and Bess: Concert Fantasie (Arr. G. Pagel, S. Asselhofen and J. Vaisberg)",
       "url": "https://open.spotify.com/track/3AU5ssEhFFjwhOh6BpPUMB"
-    },
-    {
-      "album": {
-        "name": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
-        "url": "https://open.spotify.com/album/2yoOmDD5QWGgYirElo9rQo"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gudrun Pagel",
-          "url": "https://open.spotify.com/artist/6cwH3Dh0UoRfFYYYpn7dZh"
-        },
-        {
-          "name": "Julia Vaisberg",
-          "url": "https://open.spotify.com/artist/52KsyMFUtxDTM4GRDiScNP"
-        }
-      ],
-      "date_added": "2025-08-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 919986,
-      "name": "Porgy and Bess: Concert Fantasie (Arr. G. Pagel, S. Asselhofen and J. Vaisberg)",
-      "url": "https://open.spotify.com/track/5mvqq3mFZVo8yiYGYXcIos"
     },
     {
       "album": {
@@ -4736,6 +4702,40 @@
       "duration_ms": 135699,
       "name": "Shall We Dance?",
       "url": "https://open.spotify.com/track/68jiOR8Py40usTMm0yufH2"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Porgy and Bess",
+        "url": "https://open.spotify.com/album/3kLYgdqHSv7YkRvZtHRFY9"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Cynthia Clarey",
+          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
+        },
+        {
+          "name": "Dallas Symphony Chorus",
+          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
+        },
+        {
+          "name": "Dallas Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
+        },
+        {
+          "name": "Andrew Litton",
+          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83306,
+      "name": "Shame on All You Sinners",
+      "url": "https://open.spotify.com/track/2A21M2DboDZusztlFkRHfR"
     },
     {
       "album": {

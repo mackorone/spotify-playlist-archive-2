@@ -4,7 +4,7 @@
 
 > A taste of today's best bluegrass instrumentals.
 
-326 songs - 20 hr 3 min
+327 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Mags' 21st](https://open.spotify.com/track/7gMhJ4Fpo1trxaMYxSglq0) | [Corner House](https://open.spotify.com/artist/3yZ8XLroYVSjMsmJEHstte) | [Mags' 21st](https://open.spotify.com/album/6BSXFnVzzxQY6WSApZPLpP) | 3:54 | 2022-04-15 | 2025-02-08 |
 | [Mandolin Spring](https://open.spotify.com/track/2P63JDVaKXwLyD5OoDPxrI) | [MVI \(Mark Vickness Interconnected\)](https://open.spotify.com/artist/0ihY73aDoJkEkEkhnyRt0r), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE) | [Mandolin Spring](https://open.spotify.com/album/4Ze4CqMrUWIze2m6hJeWK4) | 3:30 | 2025-02-14 | 2025-11-09 |
 | [Mansinneedof](https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Song Up In Her Head](https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP) | 2:51 | 2021-12-03 |  |
-| [Marigold Hair](https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD) | [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh), [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Marigold Hair](https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ) | 2:33 | 2024-04-12 |  |
+| [Marigold Hair](https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD) | [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh), [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Marigold Hair](https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ) | 2:33 | 2024-04-12 | 2026-05-22 |
 | [Mashbluegrass D\-28](https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [Dan Crary](https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5) | [Mashbluegrass D\-28](https://open.spotify.com/album/58YWl56eUa43jptyZg79nO) | 8:15 | 2022-11-18 | 2025-02-08 |
 | [Midnight on the Water](https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc) | [John Reischman](https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt), [Scott Nygaard](https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [The Harmonic Tone Revealers](https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd) | 5:11 | 2021-12-03 |  |
 | [Midnight on the Water](https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 4:08 | 2023-05-15 | 2024-06-01 |
@@ -222,6 +222,7 @@
 | [Peace](https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 3:15 | 2021-12-03 |  |
 | [Peace Behind the Bridge](https://open.spotify.com/track/0Fv9j3J5uPbYaiiWiEJNvC) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/1rBoQHXoY63bjxipolXzsh) | 2:34 | 2021-12-03 | 2025-01-11 |
 | [Peace Behind the Bridge](https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 2:34 | 2022-07-22 | 2024-04-19 |
+| [Polly Put the Kettle On](https://open.spotify.com/track/2CAZBZhbBdMEAyHPIX2P4J) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb), [John Showman](https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN), [Chris Coole](https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o) | [Polly Put the Kettle On](https://open.spotify.com/album/1nil98RN5PcogAKkhkllpo) | 2:16 | 2026-05-22 |  |
 | [Pond Mountain Breakaway](https://open.spotify.com/track/6abuAndjCPykqWx7S43gEN) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pond Mountain Breakaway](https://open.spotify.com/album/1dxUFZKJWc069r2eZ9WfNd) | 4:02 | 2024-11-22 | 2025-01-11 |
 | [Port Tobacco](https://open.spotify.com/track/0qHlR5OwUyUFsrU7I16gyx) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Me & My Guitar](https://open.spotify.com/album/5SVt97to3GAa1W4Hiyi6iL) | 4:45 | 2021-12-03 | 2025-01-11 |
 | [Port Tobacco](https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Me & My Guitar](https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy) | 4:47 | 2022-07-22 | 2024-04-19 |

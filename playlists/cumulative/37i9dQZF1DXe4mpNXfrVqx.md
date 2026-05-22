@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Majis
+> Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: kouth
 
-249 songs - 11 hr 0 min
+250 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 | 2024-08-02 |  |
 | [A Filha da Empregada](https://open.spotify.com/track/31WNQUrWjCVUavwu0GR1ga) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Dayo](https://open.spotify.com/artist/6TpIZlC99wC2WZracAuQEv), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [A Filha da Empregada](https://open.spotify.com/album/2v2CnBWs43o2KMTzU5fXJ9) | 2:48 | 2025-11-14 |  |
 | [A Firma É Forte](https://open.spotify.com/track/0ipsnad6pgIVaj2xyiXUZY) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma É Forte](https://open.spotify.com/album/3rjFHKiBjGAuXwxh3kLOBK) | 2:43 | 2026-05-15 | 2026-05-19 |
-| [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
+| [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 | 2026-05-22 |
 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 | 2024-11-05 |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |
 | [Ambição](https://open.spotify.com/track/11GBZzXwJ12PcXmK2L6d7d) | [LOH ALMEIDAH](https://open.spotify.com/artist/3cOGQtOrVLFdII5VCawDAk), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Ambição](https://open.spotify.com/album/4E7e0akZk9SuDTTcnRu9GQ) | 2:25 | 2024-03-08 | 2024-06-01 |
@@ -235,6 +235,7 @@
 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 | 2023-02-10 | 2023-11-11 |
 | [Soul](https://open.spotify.com/track/48BbXcPOpPu0XMymrDBi3k) | [Ornellas](https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Soul](https://open.spotify.com/album/2EWAQZhCgfd3oBwpJmoZpq) | 2:19 | 2022-07-08 | 2022-08-06 |
 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 | 2022-03-18 |  |
+| [STAGE DIVING](https://open.spotify.com/track/6Ul0UJcOtYm6WmW6pkvLIa) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:59 | 2026-05-22 |  |
 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 | 2023-07-28 | 2023-12-14 |
 | [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 | 2022-04-09 |
 | [Só Mais um Trapper](https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ) | [Donna Forte](https://open.spotify.com/artist/7pFC3Q9kglhwQQ9y5h9utD) | [Só Mais um Trapper](https://open.spotify.com/album/4xFk7SlXHcQYK1muQp4roe) | 2:24 | 2022-03-18 | 2022-10-15 |

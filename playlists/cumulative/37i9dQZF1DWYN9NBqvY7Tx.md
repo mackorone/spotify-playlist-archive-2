@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-754 songs - 1 day 14 hr 22 min
+755 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Die Alone](https://open.spotify.com/track/5eRVs0QyysvRSS8hwTsJJQ) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Die Alone](https://open.spotify.com/album/0TwehZJitYWxcSSVh2gbZp) | 3:12 | 2024-04-19 | 2024-06-29 |
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2022-05-06 | 2023-07-19 |
 | [Do It To It \- Andrew Rayel Remix](https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Andrew Rayel Remix\)](https://open.spotify.com/album/2DOUM1xLtHBULOstCoXFFq) | 2:26 | 2022-05-06 | 2022-07-29 |
-| [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 | 2026-04-03 |  |
+| [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 | 2026-04-03 | 2026-05-22 |
 | [dollaz n dollaz](https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [dollaz n dollaz](https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq) | 2:24 | 2025-07-25 | 2025-08-21 |
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 | 2025-09-11 |
 | [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 | 2025-09-11 | 2025-09-26 |
@@ -463,6 +463,7 @@
 | [Night Bloom](https://open.spotify.com/track/5d3ho8vn1xMfW1gpvq5unv) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Aura Park](https://open.spotify.com/album/4HqTeQW4BK54pRKvWigmI6) | 3:37 | 2025-04-18 | 2025-05-23 |
 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 | 2022-07-14 | 2024-08-17 |
 | [Nightmares](https://open.spotify.com/track/35EpJBwkHu4uVBiQKokIPr) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [DUALITY](https://open.spotify.com/album/4wK7dyclcJymopSCrF8fLz) | 3:24 | 2022-05-06 | 2022-07-29 |
+| [NIGHTS](https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo) | [Aures](https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E) | [NIGHTS](https://open.spotify.com/album/3yktl175IVtAhz5g8erbfh) | 3:35 | 2026-05-21 |  |
 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 | 2026-02-02 |  |
 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 | 2026-02-02 |  |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2024-11-22 | 2025-04-05 |

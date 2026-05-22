@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vintage Culture, Volkoder",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: GIU",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 225230,
       "name": "Acid Britney",
       "url": "https://open.spotify.com/track/0BrT12hdMJx2ypBjEAnCEo"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 150444,
       "name": "Ah Ah (When You Need It)",
       "url": "https://open.spotify.com/track/51V5UFvxWJpIPXmOWXhUgy"
@@ -2103,6 +2103,28 @@
     },
     {
       "album": {
+        "name": "Better Life (Santti Remix)",
+        "url": "https://open.spotify.com/album/5aCMxo9pr07ipspQi2Bkfj"
+      },
+      "artists": [
+        {
+          "name": "Elekfantz",
+          "url": "https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208560,
+      "name": "Better Life - Santti Remix",
+      "url": "https://open.spotify.com/track/4Y3jwNrkZkqO37TETJxj4S"
+    },
+    {
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/6FbJYgs69DIOjy0rGFHnI6"
       },
@@ -2433,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "BOOM! (I Got Your Boyfriend)",
+        "url": "https://open.spotify.com/album/2FIlewDBxFsBVK2Judyzll"
+      },
+      "artists": [
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "BOOM! (I Got Your Boyfriend)",
+      "url": "https://open.spotify.com/track/3kr06joltj0ObqTm3sr4Nw"
+    },
+    {
+      "album": {
         "name": "Booty Pop",
         "url": "https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu"
       },
@@ -2690,7 +2730,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 239520,
       "name": "Burning",
       "url": "https://open.spotify.com/track/77Ejin34ch4lUzccCnOl2M"
@@ -3174,7 +3214,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 196179,
       "name": "Chaves",
       "url": "https://open.spotify.com/track/2REqKs8xgCaUc8lwxHTrlA"
@@ -3851,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Cuba Libre",
+        "url": "https://open.spotify.com/album/3bB0PDAKyNX0kk632ZD6mU"
+      },
+      "artists": [
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Cuba Libre",
+      "url": "https://open.spotify.com/track/4QSoifvNrnkZpY2Qo5Ej3a"
+    },
+    {
+      "album": {
         "name": "Cuerpo Pegado EP",
         "url": "https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq"
       },
@@ -4482,7 +4540,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 196186,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c"
@@ -5200,6 +5258,32 @@
       "duration_ms": 260316,
       "name": "Ego (\u00c9 Tudo ou Nada)",
       "url": "https://open.spotify.com/track/23LtaikJSjRaam9a2oDi5m"
+    },
+    {
+      "album": {
+        "name": "Eixo",
+        "url": "https://open.spotify.com/album/3MA5DJjUdO14QKG5gGzW1M"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "Flip (BR)",
+          "url": "https://open.spotify.com/artist/0OJn70AN3GXhrcbgllrR7A"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Eixo",
+      "url": "https://open.spotify.com/track/1iu3Hor5ARrLhWRvngSyhx"
     },
     {
       "album": {
@@ -6076,6 +6160,28 @@
       "duration_ms": 171562,
       "name": "FAME",
       "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
+    },
+    {
+      "album": {
+        "name": "Fast Friends",
+        "url": "https://open.spotify.com/album/4FWsKh09O9fr0CI7BeIC4X"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158201,
+      "name": "Fast Friends",
+      "url": "https://open.spotify.com/track/70rBw5gmaGKuG6hU1upHiO"
     },
     {
       "album": {
@@ -7245,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "Givin' Up",
+        "url": "https://open.spotify.com/album/2rR1AEl62FN8GYcPYcmEhG"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232371,
+      "name": "Givin' Up",
+      "url": "https://open.spotify.com/track/6nEvTm19AWQ9cOp5P1lYm1"
+    },
+    {
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/63biSnB8ly2hFQXlQw158c"
       },
@@ -8000,6 +8124,28 @@
       "duration_ms": 156204,
       "name": "High",
       "url": "https://open.spotify.com/track/5MJeH5zHjqEKQKlb7akgUl"
+    },
+    {
+      "album": {
+        "name": "High Paradise",
+        "url": "https://open.spotify.com/album/0DMPh4HyGUUVuRhz64RdKK"
+      },
+      "artists": [
+        {
+          "name": "D-Nox",
+          "url": "https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "High Paradise",
+      "url": "https://open.spotify.com/track/2KXEElpMAcWvig2961K81l"
     },
     {
       "album": {
@@ -9937,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/4xLE45T0CXiq9Ht7Fd9nG5"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "High Motion",
+          "url": "https://open.spotify.com/artist/2rPizsMUjrZqBGrqr6kRsL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134076,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/41I6VRCOvauu53kjGvNoAy"
+    },
+    {
+      "album": {
         "name": "Keep On Dancing (Illusionize, Ashibah Rework)",
         "url": "https://open.spotify.com/album/1DWv97Rdz768zNdlViCDJg"
       },
@@ -11342,7 +11510,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 208636,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
@@ -13609,6 +13777,28 @@
     },
     {
       "album": {
+        "name": "Oldskool Flavor",
+        "url": "https://open.spotify.com/album/0djGGJfuvFT7ytIj9acRYD"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Oldskool Flavor",
+      "url": "https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243"
       },
@@ -14176,7 +14366,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184687,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7u1EwvSf49NKzHtsQwwGCl"
@@ -16250,7 +16440,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 185500,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf"
@@ -17758,7 +17948,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 187033,
       "name": "The Future",
       "url": "https://open.spotify.com/track/3yxh22Dz6EjWgbNzuZ3BXR"
@@ -18506,7 +18696,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 171048,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/415lA2XhW5cHc9qnzQ62s4"
@@ -18550,6 +18740,24 @@
       "duration_ms": 236220,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U"
+    },
+    {
+      "album": {
+        "name": "Rise Together EP",
+        "url": "https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG"
     },
     {
       "album": {

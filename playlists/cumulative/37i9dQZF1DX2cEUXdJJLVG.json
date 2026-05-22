@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 218340,
       "name": "Company",
       "url": "https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ"
@@ -2926,6 +2926,32 @@
       "duration_ms": 191578,
       "name": "For Good",
       "url": "https://open.spotify.com/track/4x23e1KvTIe5rdWT3V5h7P"
+    },
+    {
+      "album": {
+        "name": "Found (Moods Remix)",
+        "url": "https://open.spotify.com/album/1RnyQDdUlSntawcPBEsIl1"
+      },
+      "artists": [
+        {
+          "name": "Remy Van Kesteren",
+          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
+        },
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Banji",
+          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199084,
+      "name": "Found - Moods Remix",
+      "url": "https://open.spotify.com/track/4Wm8mFlThwEAg247coLeSc"
     },
     {
       "album": {
@@ -4378,7 +4404,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 191845,
       "name": "Jealous Of The Sun",
       "url": "https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw"
@@ -4840,7 +4866,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 200844,
       "name": "Livin' It Up - Moods Remix",
       "url": "https://open.spotify.com/track/74gHxVSEVIhYm5eboNBTiz"
@@ -6829,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "Pop Pop",
+        "url": "https://open.spotify.com/album/0zMNLajZLM0PGxgLQa4yys"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177922,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA"
+    },
+    {
+      "album": {
         "name": "Poster Child",
         "url": "https://open.spotify.com/album/0604mViR529HBNJmZr5IRW"
       },
@@ -7420,7 +7464,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202633,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA"
@@ -7766,7 +7810,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 162923,
       "name": "Shedding",
       "url": "https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io"
@@ -9850,7 +9894,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 300624,
       "name": "What Makes You Dance - Vocal Version",
       "url": "https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik"
@@ -9922,7 +9966,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 185238,
       "name": "Where To Go",
       "url": "https://open.spotify.com/track/6xKKBbIWCnWB0SYcFrNCGY"

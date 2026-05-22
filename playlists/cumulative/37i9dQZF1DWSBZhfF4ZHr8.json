@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Joseph Kamel\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Jeanne\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 192128,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/10y7mcsaSFbl07iIZi6Wxe"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158013,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/0uRcmQp3heAH2zw4EQ6iXl"
     },
     {
       "album": {
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 160648,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4"
@@ -3077,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "J'te laisserai pas partir (feat. Mattyeux)",
+        "url": "https://open.spotify.com/album/36V7H1YtF6JogxmMlNnBIg"
+      },
+      "artists": [
+        {
+          "name": "Vernis Rouge",
+          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
+        },
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162011,
+      "name": "J'te laisserai pas partir (feat. Mattyeux)",
+      "url": "https://open.spotify.com/track/2KXNKHyZlZbofPfqODm0R3"
+    },
+    {
+      "album": {
         "name": "J'veux qu'on s'aime",
         "url": "https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t"
       },
@@ -3110,6 +3150,24 @@
       "duration_ms": 192146,
       "name": "J'veux que t'aies mal",
       "url": "https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41"
+    },
+    {
+      "album": {
+        "name": "Gamin des sables (C'est pas lui, c'est nous)",
+        "url": "https://open.spotify.com/album/3omafbw9Qr95NPmF8OCRpv"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "J'\u00e9changerais",
+      "url": "https://open.spotify.com/track/5gMGpi4KPOzp8iDvJuCLSH"
     },
     {
       "album": {
@@ -3214,7 +3272,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 155318,
       "name": "Je pars et reviens",
       "url": "https://open.spotify.com/track/6IgUtQIxY1OsAgFJS7zBr0"
@@ -3696,7 +3754,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 166893,
       "name": "la boss",
       "url": "https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab"
@@ -4696,7 +4754,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 134687,
       "name": "Les mecs",
       "url": "https://open.spotify.com/track/4CHiE1P5mIRp6epCzxciZ1"
@@ -7035,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "quoi faire de moi",
+        "url": "https://open.spotify.com/album/698FipgX2lw3Av6yO7yNX6"
+      },
+      "artists": [
+        {
+          "name": "melissa",
+          "url": "https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150108,
+      "name": "quoi faire de moi",
+      "url": "https://open.spotify.com/track/4R6aDdHLgXRX2pwTxTSTzH"
+    },
+    {
+      "album": {
         "name": "Quoi qu'il arrive \u00e7a va aller",
         "url": "https://open.spotify.com/album/1fOrrU8r2xfIVAdItjpKwr"
       },
@@ -7815,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "Soleil dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150999,
+      "name": "Soleil dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd"
+    },
+    {
+      "album": {
         "name": "Song for You",
         "url": "https://open.spotify.com/album/5t7mqCakaB2KmhWVoeAbD4"
       },
@@ -7952,7 +8046,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 210120,
       "name": "T'aimer comme il faut",
       "url": "https://open.spotify.com/track/2Y0DN3PuPC2CNI178Mx6b6"
@@ -8006,7 +8100,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 171904,
       "name": "T'es o\u00f9 ?",
       "url": "https://open.spotify.com/track/5SoDlb86jAzb4rQ5kSmlQj"
@@ -8540,6 +8634,24 @@
       "duration_ms": 154969,
       "name": "Tu l'oublieras",
       "url": "https://open.spotify.com/track/6aaTiVuGVBENAhGgl6O1zN"
+    },
+    {
+      "album": {
+        "name": "Tu restes l\u00e0",
+        "url": "https://open.spotify.com/album/2LTXGRQ4JERB1G6y2S4XMA"
+      },
+      "artists": [
+        {
+          "name": "Jeanne",
+          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Tu restes l\u00e0",
+      "url": "https://open.spotify.com/track/7Gptk4gZ0zktQdhhjieIOh"
     },
     {
       "album": {

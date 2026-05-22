@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Fred V, Grafix",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 76800,
       "name": "Cascade - Mixed",
       "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
@@ -5426,6 +5426,24 @@
       "duration_ms": 154532,
       "name": "Darlin' (feat. Sean Paul & Brodie)",
       "url": "https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT"
+    },
+    {
+      "album": {
+        "name": "day & night",
+        "url": "https://open.spotify.com/album/2bKrZTKfUFDwiv9eGIMCNX"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194603,
+      "name": "day & night",
+      "url": "https://open.spotify.com/track/00MZbEt6qDv0WmluZJu1v3"
     },
     {
       "album": {
@@ -8334,6 +8352,24 @@
       "duration_ms": 203669,
       "name": "Foreign Things - High Contrast Remix",
       "url": "https://open.spotify.com/track/7bFQIe9eSrg3iQlwjmoTcY"
+    },
+    {
+      "album": {
+        "name": "Forever & A Day",
+        "url": "https://open.spotify.com/album/7mzjzjJKeD9b3kSzivoQNQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375500,
+      "name": "Forever & A Day",
+      "url": "https://open.spotify.com/track/05jQltGeyRIUkhp1RJFPtD"
     },
     {
       "album": {
@@ -19585,6 +19621,24 @@
     },
     {
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/3DyEyGMf6cLTzixgAtTrlF"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340250,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/1Zp2ClBKHS7All4GdEEMNy"
+    },
+    {
+      "album": {
         "name": "Run (Part 2)",
         "url": "https://open.spotify.com/album/5OtPOcB7CqVhiXujPZuNuK"
       },
@@ -20526,7 +20580,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 246896,
       "name": "Shine a Light",
       "url": "https://open.spotify.com/track/7dzNQpSSfCRu4jzJ1uSTyS"
@@ -21662,7 +21716,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165900,
       "name": "Stab Parade",
       "url": "https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A"

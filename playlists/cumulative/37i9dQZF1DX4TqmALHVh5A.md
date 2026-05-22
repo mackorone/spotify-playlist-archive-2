@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Dynamite Shakers
+> La scène française branchée sur courant alternatif\. Photo : Camille Yembe
 
-483 songs - 1 day 1 hr 15 min
+486 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Attrape\-coeurs](https://open.spotify.com/track/0DDJ7CDsq1Ecnl1jYDPEPE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Attrape\-coeurs](https://open.spotify.com/album/0PFoUMBMGLjmg3CyoFjecV) | 2:59 | 2026-04-09 |  |
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 | 2023-10-20 |
 | [Autisme](https://open.spotify.com/track/2LDmzuSF1E6EeUiHBrj7OK) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Autisme](https://open.spotify.com/album/0MKIA5SiY1FzMZuYDoJ9Mz) | 2:00 | 2026-03-19 |  |
+| [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 | 2026-05-21 |  |
 | [Aïe aïe aïe](https://open.spotify.com/track/0nKbGOZWRHmgsEKo4tX6ZK) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Aïe aïe aïe](https://open.spotify.com/album/1Nm9pTliKqoSXupzwlyyFd) | 2:45 | 2025-05-29 | 2025-10-11 |
 | [Baby Brown \(Short Edit\)](https://open.spotify.com/track/5mhEeSJUAm9KpjDF6wwvKk) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [Singles and Rarities](https://open.spotify.com/album/22VfnIdacX3d1GNA7771yE) | 5:59 | 2024-10-10 | 2025-03-07 |
 | [babyBB](https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j) | 3:19 | 2024-03-07 | 2024-04-19 |
@@ -139,6 +140,7 @@
 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 | 2025-06-19 | 2025-11-07 |
 | [ENFANT DE MA VILLE!](https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [DRACHE!](https://open.spotify.com/album/0xjX9SNPi6ZkHwv55EA64e) | 2:21 | 2026-02-19 |  |
 | [EREX](https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb) | [EREX](https://open.spotify.com/artist/0XnzHfOGCVgYHiIImA595j) | [EREX](https://open.spotify.com/album/3jcZdyIm8YTnqChzI213uU) | 3:28 | 2024-10-17 | 2024-11-08 |
+| [Ex](https://open.spotify.com/track/4VVqf8rxt0CDVRUzDtEEij) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [Ex](https://open.spotify.com/album/6uMK3M8ugtSiyL7FSO5wbi) | 2:15 | 2026-05-21 |  |
 | [Faded](https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Faded](https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ) | 3:18 | 2025-02-20 | 2025-07-04 |
 | [Fakdap](https://open.spotify.com/track/6wDge0SaNwWR4FlLEfOxnM) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Fakdap](https://open.spotify.com/album/5UF9JJt7dcJ7VXcYuZWdg5) | 3:02 | 2025-10-10 | 2025-12-05 |
 | [Fallait pas nous inviter](https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Fallait pas nous inviter](https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0) | 3:07 | 2025-10-10 | 2025-11-14 |
@@ -166,6 +168,7 @@
 | [Hey Joe](https://open.spotify.com/track/57hKJDzT86Hb4XEvFKcSqZ) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Hey Joe](https://open.spotify.com/album/4X9EzY8mrxWMRfSU88ehaM) | 3:12 | 2025-04-10 | 2025-06-06 |
 | [Homme du feu \(Solitaire\)](https://open.spotify.com/track/6no2voZZ0PIbn5Pd0Ja559) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Je voulais te dire](https://open.spotify.com/album/46EUuGovh2n0RQY7uBDlVp) | 3:19 | 2026-03-12 |  |
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
+| [Hula Hoop](https://open.spotify.com/track/1z4KHoU4euYqA84FE5986Q) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Hula Hoop](https://open.spotify.com/album/1BzAQOd3jvo0ZRAkcjQVFv) | 3:23 | 2026-05-21 |  |
 | [Humain](https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 2:45 | 2025-06-05 | 2025-09-26 |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 | 2024-06-21 |
 | [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 | 2025-07-04 | 2025-11-07 |
@@ -278,7 +281,7 @@
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 | 2025-03-28 |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
 | [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 | 2025-12-18 | 2026-03-20 |
-| [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 | 2026-02-12 |  |
+| [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 | 2026-02-12 | 2026-05-22 |
 | [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 | 2025-02-07 |
 | [Merci](https://open.spotify.com/track/0pDyMsssPFrvzmqKqCzKdf) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Merci](https://open.spotify.com/album/2LKIzijGpkzbHyf3TsdkAG) | 3:47 | 2026-04-16 |  |
 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 | 2025-05-22 | 2025-10-17 |
@@ -346,7 +349,7 @@
 | [PLAYSTATION](https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [PLAYSTATION](https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F) | 3:13 | 2025-02-06 | 2025-05-16 |
 | [Plus de place nulle part](https://open.spotify.com/track/2i0EbjEWZWNn4kwQEaBfYI) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Plus de place nulle part](https://open.spotify.com/album/16czJL68bIXNHBxvCdSQZP) | 2:13 | 2025-03-06 | 2025-08-29 |
 | [Plus fort que toi](https://open.spotify.com/track/3SbwOjvnZXWnSuadX52xc6) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Plus fort que toi](https://open.spotify.com/album/7fkxpUqnPNTSnNiUJvI2Hx) | 2:31 | 2025-12-11 | 2026-01-24 |
-| [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [Crier Vomir Pleurer](https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg) | 2:52 | 2026-02-19 |  |
+| [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [Crier Vomir Pleurer](https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg) | 2:52 | 2026-02-19 | 2026-05-22 |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Pollen](https://open.spotify.com/track/4DlYbKx9n2tyRyqaavWbYQ) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Pollen](https://open.spotify.com/album/2D88YSSmZgwqyClOORleb0) | 2:21 | 2026-05-15 |  |
 | [Pornstar](https://open.spotify.com/track/3R7fcy9r7uIj6dl6VL6eAT) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Pornstar](https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc) | 2:50 | 2025-11-06 | 2026-01-24 |
@@ -489,7 +492,7 @@
 | [à travers les buildings](https://open.spotify.com/track/30Vjkb3uguTKxSuXu9jVWb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [à travers les buildings](https://open.spotify.com/album/4PWWTdHvDhxj9uq2s9ttPK) | 3:38 | 2025-05-15 | 2025-10-11 |
 | [Ça m'a tellement manqué](https://open.spotify.com/track/5hGQ4fuHjsLtC3n1fIq7KV) | [Balladur](https://open.spotify.com/artist/1D1qXaxaiLiQi8HCrFxg50) | [Pourquoi certains arbres sont si grands ?](https://open.spotify.com/album/1R6oma6d9RcC0mu4B5ouiS) | 4:54 | 2023-10-05 | 2024-01-05 |
 | [ça me rassure](https://open.spotify.com/track/6xSWX4tzzUfj2aHvdRQyYQ) | [Enflure](https://open.spotify.com/artist/6LxABfuQ7vjhudTlsxLftm), [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [ça me rassure](https://open.spotify.com/album/5blfuQ2LsU9lUAuIjDjxIl) | 3:01 | 2025-01-30 | 2025-05-30 |
-| [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 | 2026-02-19 |  |
+| [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 | 2026-02-19 | 2026-05-22 |
 | [Équipe](https://open.spotify.com/track/4qmPxoru0whIW8roDQBAmf) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Équipe](https://open.spotify.com/album/1I81vxPxnVlukTv4lrEmg9) | 3:00 | 2024-04-18 | 2024-05-17 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

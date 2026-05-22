@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: J308",
+  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: Celine Wanyi",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1048,6 +1048,24 @@
       "duration_ms": 151160,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG"
+    },
+    {
+      "album": {
+        "name": "Could've Been",
+        "url": "https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT"
+      },
+      "artists": [
+        {
+          "name": "Celine Wanyi",
+          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165655,
+      "name": "Could've Been",
+      "url": "https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww"
     },
     {
       "album": {

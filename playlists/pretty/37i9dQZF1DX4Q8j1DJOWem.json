@@ -1,6 +1,6 @@
 {
   "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e08\u0e31\u0e1a\u0e15\u0e32\u0e21\u0e2d\u0e07\u0e1b\u0e35 2026 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e1b\u0e01: GOODMOOD",
-  "num_followers": 11555,
+  "num_followers": 11559,
   "original_name": "RADAR Thailand",
   "owner": {
     "name": "Spotify",
@@ -265,7 +265,7 @@
       "artists": [
         {
           "name": "VVV",
-          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+          "url": "https://open.spotify.com/artist/0noDjJIyPCba41qFDdeMrt"
         }
       ],
       "duration_ms": 183130,
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-05-20 09:23:32",
       "album": {
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
+        "url": "https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
+      "url": "https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD"
+    },
+    {
+      "added_at": "2026-05-20 09:23:32",
+      "album": {
         "name": "HOW ARE YOU",
         "url": "https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-05-20 09:23:32",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu"
-      },
-      "artists": [
-        {
-          "name": "WAV",
-          "url": "https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf"
-        }
-      ],
-      "duration_ms": 255576,
-      "name": "Roo Gun",
-      "url": "https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K"
-    },
-    {
-      "added_at": "2026-05-20 09:23:32",
-      "album": {
         "name": "ABUM",
         "url": "https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 212217,
       "name": "ABUM",
       "url": "https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc"
+    },
+    {
+      "added_at": "2026-05-20 09:23:32",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu"
+      },
+      "artists": [
+        {
+          "name": "WAV",
+          "url": "https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf"
+        }
+      ],
+      "duration_ms": 255576,
+      "name": "Roo Gun",
+      "url": "https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K"
     },
     {
       "added_at": "2026-05-20 09:23:32",
@@ -547,22 +563,6 @@
       "duration_ms": 198302,
       "name": "ThaiKids",
       "url": "https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo"
-    },
-    {
-      "added_at": "2026-05-20 09:23:32",
-      "album": {
-        "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
-        "url": "https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9"
-      },
-      "artists": [
-        {
-          "name": "VVV",
-          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
-      "url": "https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD"
     }
   ],
   "unique_name": "RADAR Thailand",

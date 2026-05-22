@@ -12955,6 +12955,24 @@
     },
     {
       "album": {
+        "name": "Songs I'll Never Release",
+        "url": "https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE"
+      },
+      "artists": [
+        {
+          "name": "forgive yourself",
+          "url": "https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163761,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/5avJdJjXtHN9ADFeSn1pDq"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },

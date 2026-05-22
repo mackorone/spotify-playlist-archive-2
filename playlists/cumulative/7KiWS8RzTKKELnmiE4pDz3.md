@@ -4,7 +4,7 @@
 
 > 
 
-1,460 songs - 3 day 5 hr 54 min
+1,461 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Ego](https://open.spotify.com/track/6DL5BiRTkVqd7K0BoWtN9c) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 2:48 | 2025-07-28 | 2026-03-08 |
 | [El Libro](https://open.spotify.com/track/0lHk3B6BOt43VTHJuODZr8) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 2:48 | 2024-02-14 | 2024-11-06 |
 | [ELIMINATË](https://open.spotify.com/track/57ySV41AXGT87wBuHIqkyY) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:59 | 2024-12-19 | 2026-02-08 |
+| [Elizabeth](https://open.spotify.com/track/6uKj6ta8izO0VLnIG14lf3) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Supreme Blientele](https://open.spotify.com/album/3Gw4yIgDnowAhFjkFxFV8v) | 3:28 | 2026-05-22 |  |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2024-10-24 | 2025-05-21 |
 | [Encerrado En Mi Mundo](https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Encerrado En Mi Mundo](https://open.spotify.com/album/5YvOq1cAoJNiHkLLL2qgX9) | 3:58 | 2025-11-22 | 2026-03-08 |
 | [End Up Gone](https://open.spotify.com/track/4pEfFdOlCCmRYWdt0OUTsW) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:19 | 2024-10-23 | 2025-05-21 |

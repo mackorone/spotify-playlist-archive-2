@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ibrahim Maalouf",
+  "description": "The best jazz new releases. Cover: Laufey",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 496560,
       "name": "All Blues",
       "url": "https://open.spotify.com/track/7a1HnCoNpHjzWEeXX0hedX"
@@ -3203,6 +3203,32 @@
     },
     {
       "album": {
+        "name": "CHASING THE SUN",
+        "url": "https://open.spotify.com/album/2DuFUK5iYAisaI2mWiC9hS"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Richard Galliano",
+          "url": "https://open.spotify.com/artist/6yXri0y0q95UDiAyLzTM1y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "CHASING THE SUN",
+      "url": "https://open.spotify.com/track/0qUqOkPmWP9o7e3GgM3Fgg"
+    },
+    {
+      "album": {
         "name": "Cheek To Cheek (Live)",
         "url": "https://open.spotify.com/album/4mSrOP60dblgo0HJlDgr9b"
       },
@@ -4792,6 +4818,24 @@
       "duration_ms": 215693,
       "name": "Du rose ou rien",
       "url": "https://open.spotify.com/track/7stEmmDdoPmMFPeutgMmS1"
+    },
+    {
+      "album": {
+        "name": "Funny How?",
+        "url": "https://open.spotify.com/album/7eGFF9yDqqXpqABRdhdtuL"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301230,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/7jREIuWmgV1bPOvxeRTADF"
     },
     {
       "album": {
@@ -8690,7 +8734,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 329173,
       "name": "Jam",
       "url": "https://open.spotify.com/track/5ZhePA1oduKtO16Klcp8AU"

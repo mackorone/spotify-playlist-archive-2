@@ -1,334 +1,378 @@
 {
-  "description": "amazarashi ASIA TOUR 2026 in SEOUL 04.18 @\uc62c\ub9bc\ud53d\uacf5\uc6d0 \uc62c\ub9bc\ud53d\ud640",
-  "num_followers": 41274,
-  "original_name": "On Tour Korea: amazarashi",
+  "description": "The 18th Seoul Jazz Festival 2026, 5/22(FRI) @\uc62c\ub9bc\ud53d\uacf5\uc6d0",
+  "num_followers": 41266,
+  "original_name": "On Tour Korea: Janelle Mon\u00e1e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1",
+  "snapshot_id": "AAAAAM1EzUevljyaYq6mmOQynVgZR8D6",
   "tracks": [
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u4e16\u754c\u53ce\u675f\u4e8c\u4e00\u4e00\u516d",
-        "url": "https://open.spotify.com/album/4gzo7ZCukhclkchnbixt0t"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
         }
       ],
-      "duration_ms": 338880,
-      "name": "\u5b63\u7bc0\u306f\u6b21\u3005\u6b7b\u3093\u3067\u3044\u304f",
-      "url": "https://open.spotify.com/track/6dQ3lcQG2MuIQ0P7GSYQeJ"
+      "duration_ms": 242166,
+      "name": "Float (feat. Seun Kuti & Egypt 80)",
+      "url": "https://open.spotify.com/track/6CUZbMz66qGGdinwKcaeFN"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30e1\u30c3\u30bb\u30fc\u30b8\u30dc\u30c8\u30eb",
-        "url": "https://open.spotify.com/album/6XpgNszQ7UmOQrymBrWO3K"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 367693,
-      "name": "\u50d5\u304c\u6b7b\u306e\u3046\u3068\u601d\u3063\u305f\u306e\u306f",
-      "url": "https://open.spotify.com/track/1YA15UrY0IG7qP4kYKdpu1"
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/7j6VDmpHFnUaxZSBOqZuZ1"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u5730\u65b9\u90fd\u5e02\u306e\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
-        "url": "https://open.spotify.com/album/5H70NIneu6i4h5LKIG9TH6"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 217626,
-      "name": "\u7a7a\u306b\u6b4c\u3048\u3070",
-      "url": "https://open.spotify.com/track/3XKMO7tvyyUmxRvlJGhYQm"
+      "duration_ms": 190288,
+      "name": "Django Jane",
+      "url": "https://open.spotify.com/track/56RfNBJGUgL1ZFCB1KEJrQ"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u5883\u754c\u7dda",
-        "url": "https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl"
+        "name": "The Electric Lady",
+        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 293824,
-      "name": "\u5883\u754c\u7dda",
-      "url": "https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ"
+      "duration_ms": 310480,
+      "name": "Q.U.E.E.N. (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/3HW030T8eqPs8wpsgZqCGM"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30a2\u30ce\u30df\u30fc",
-        "url": "https://open.spotify.com/album/7jOAXpr1fBWQTi3HfVPs0i"
+        "name": "The Electric Lady",
+        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Roman GianArthur",
+          "url": "https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9"
+        },
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 331213,
-      "name": "\u30d4\u30a2\u30ce\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/3SzTsL9j7MT5WLCz8afFrN"
+      "duration_ms": 308893,
+      "name": "Electric Lady (feat. Solange)",
+      "url": "https://open.spotify.com/track/69vzkewKl2LPquyEiqD8BB"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30dc\u30a4\u30b3\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 272613,
-      "name": "\u3055\u3088\u306a\u3089\u3054\u3063\u3053",
-      "url": "https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s"
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/4bHMjuuSyavLJ5qRuLo3rD"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u5915\u65e5\u4fe1\u4ef0\u30d2\u30ac\u30b7\u30ba\u30e0",
-        "url": "https://open.spotify.com/album/5gUD1ZJthYHIk55eJIN6WC"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 342986,
-      "name": "\u96e8\u7537",
-      "url": "https://open.spotify.com/track/3JJyiUJuNegJQeSn2XmOeY"
+      "duration_ms": 106026,
+      "name": "Paid In Pleasure",
+      "url": "https://open.spotify.com/track/7bFwLJ3GFSs634CuICP8Y9"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u3042\u3093\u305f\u3078",
-        "url": "https://open.spotify.com/album/2H8AgOrqAnCJ4bWsZFBSG4"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 345080,
-      "name": "\u7d42\u308f\u308a\u3067\u59cb\u307e\u308a",
-      "url": "https://open.spotify.com/track/1TMp2XN1Bd08Nnkek3xzok"
+      "duration_ms": 240426,
+      "name": "Pynk (feat. Grimes)",
+      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30a2\u30f3\u30c1\u30ce\u30df\u30fc",
-        "url": "https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 303085,
-      "name": "\u30a2\u30f3\u30c1\u30ce\u30df\u30fc",
-      "url": "https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D"
+      "duration_ms": 200338,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30dc\u30a4\u30b3\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 432120,
-      "name": "\u672a\u6765\u306b\u306a\u308c\u306a\u304b\u3063\u305f\u3042\u306e\u591c\u306b (Long Edit.)",
-      "url": "https://open.spotify.com/track/1NicRjASFFdaOQaUBJcPFd"
+      "duration_ms": 194230,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30b9\u30d4\u30fc\u30c9\u3068\u6469\u64e6",
-        "url": "https://open.spotify.com/album/7dnJCA5oxPrIYMR20Qc4pP"
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 356400,
-      "name": "\u540d\u524d",
-      "url": "https://open.spotify.com/track/1PJijsWmlgJbNr1rE1Uypj"
+      "duration_ms": 203626,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u4e03\u53f7\u7dda\u30ed\u30b9\u30c8\u30dc\u30fc\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/0pqrWNxpcWBvR9A5A9JHHl"
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
         }
       ],
-      "duration_ms": 331996,
-      "name": "1.0",
-      "url": "https://open.spotify.com/track/6HHTBREb3d75cIxo4geU9W"
+      "duration_ms": 262586,
+      "name": "Tightrope (feat. Big Boi) - Big Boi Vocal Edit",
+      "url": "https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u75db\u899a",
-        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 269777,
-      "name": "\u75db\u899a",
-      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
+      "duration_ms": 202026,
+      "name": "Come Alive (War of the Roses)",
+      "url": "https://open.spotify.com/track/4197HGpsH7jGRz5gInEkfC"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u53d9\u4e8b\u8a69",
-        "url": "https://open.spotify.com/album/1up7iOYzScqVu8Ikdph7KB"
+        "name": "The Electric Lady",
+        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 303466,
-      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u53d9\u4e8b\u8a69",
-      "url": "https://open.spotify.com/track/01AJtpOZ16elWIA3zf2g5t"
+      "duration_ms": 280080,
+      "name": "Primetime (feat. Miguel)",
+      "url": "https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30b4\u30fc\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 233489,
-      "name": "\u9ece\u660e\u671f",
-      "url": "https://open.spotify.com/track/5rrX06sDWGPEgq2XYS3lFF"
+      "duration_ms": 286626,
+      "name": "Crazy, Classic, Life",
+      "url": "https://open.spotify.com/track/06EAtSDu3KSoi4fbA3ZjoB"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u4e16\u754c\u53ce\u675f\u4e8c\u4e00\u4e00\u516d",
-        "url": "https://open.spotify.com/album/4gzo7ZCukhclkchnbixt0t"
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/0OFZKxIxJDZeSHuSK39hgD"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 369586,
-      "name": "\u30e9\u30a4\u30d5\u30a4\u30ba\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/43JMGE8xLfw0IYrCIwW4hP"
+      "duration_ms": 212293,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/4qwD0NoxEl2xKbYxx2vhcg"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30b4\u30fc\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 395821,
-      "name": "\u30b4\u30fc\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/75Dv13MlhuD5zVeupmIpDa"
+      "duration_ms": 226287,
+      "name": "I Got the Juice (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u6708\u66dc\u65e5",
-        "url": "https://open.spotify.com/album/3fPyKfHWGyR0GxHbWNgHxd"
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 367785,
-      "name": "\u6708\u66dc\u65e5",
-      "url": "https://open.spotify.com/track/04Qlo3RKF9BypuTAEB58Pn"
+      "duration_ms": 226253,
+      "name": "Oh, Maker",
+      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "escalate(Special Edition)",
-        "url": "https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Nia Long",
+          "url": "https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH"
         }
       ],
-      "duration_ms": 352224,
-      "name": "\u547d\u306b\u3075\u3055\u308f\u3057\u3044",
-      "url": "https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J"
+      "duration_ms": 163733,
+      "name": "The Rush (feat. Nia Long & Amaarae)",
+      "url": "https://open.spotify.com/track/0tfXPXdQkxVjMhQtF68MnZ"
     },
     {
-      "added_at": "2026-04-07 05:00:22",
+      "added_at": "2026-05-21 15:00:15",
       "album": {
-        "name": "\u30b4\u30fc\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB"
+        "name": "The Electric Lady",
+        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
       },
       "artists": [
         {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 221525,
-      "name": "\u5c0f\u5e02\u6c11\u30a4\u30fc\u30a2",
-      "url": "https://open.spotify.com/track/6rPUD1i6oZl8IGt7w5EgNI"
+      "duration_ms": 205200,
+      "name": "Dance Apocalyptic",
+      "url": "https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa"
     }
   ],
-  "unique_name": "On Tour Korea: amazarashi",
+  "unique_name": "On Tour Korea: Janelle Mon\u00e1e",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY"
 }

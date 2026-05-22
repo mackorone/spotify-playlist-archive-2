@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=1ks8jsdKTNKHVTC78WiC2Q"> Jovie Jovv</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,403 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,413 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

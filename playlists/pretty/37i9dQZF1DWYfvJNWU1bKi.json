@@ -1,6 +1,6 @@
 {
   "description": "The best in romantic tunes from Tamil cinema.\nCover : Sirai",
-  "num_followers": 647507,
+  "num_followers": 647721,
   "original_name": "Tamil Romance",
   "owner": {
     "name": "Spotify",
@@ -37,30 +37,6 @@
       "url": "https://open.spotify.com/track/6wqwVre9LoGnsUUzukxUy3"
     },
     {
-      "added_at": "2026-01-20 12:44:18",
-      "album": {
-        "name": "Kaththi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2mPif0fe4tNkVyX2ngYV0U"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "Aathi",
-      "url": "https://open.spotify.com/track/5h3HxhOLripvupwSg686By"
-    },
-    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Kanaa (Original Motion Picture Soundtrack)",
@@ -83,6 +59,30 @@
       "duration_ms": 249671,
       "name": "Othaiyadi Pathayila",
       "url": "https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m"
+    },
+    {
+      "added_at": "2026-01-20 12:44:18",
+      "album": {
+        "name": "Kaththi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2mPif0fe4tNkVyX2ngYV0U"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "Aathi",
+      "url": "https://open.spotify.com/track/5h3HxhOLripvupwSg686By"
     },
     {
       "added_at": "2025-05-20 13:11:11",
@@ -177,30 +177,6 @@
       "url": "https://open.spotify.com/track/5DYfTyqUNBmOnQtljQjYk2"
     },
     {
-      "added_at": "2025-10-24 11:04:50",
-      "album": {
-        "name": "Madharaasi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ravi G",
-          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 235499,
-      "name": "Thangapoovey",
-      "url": "https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5"
-    },
-    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Subramaniapuram (Original Motion Picture Soundtrack)",
@@ -227,6 +203,30 @@
       "duration_ms": 322013,
       "name": "Kangal Irandal",
       "url": "https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3"
+    },
+    {
+      "added_at": "2025-10-24 11:04:50",
+      "album": {
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 235499,
+      "name": "Thangapoovey",
+      "url": "https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -305,30 +305,6 @@
       "url": "https://open.spotify.com/track/5cfKBuE5XKtlaNOVjQwA9H"
     },
     {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ajesh",
-          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
-        },
-        {
-          "name": "Aishwarya R Dhanush",
-          "url": "https://open.spotify.com/artist/2Lf8VFHZFVMnQnUYTuroBM"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Idhazhin Oram - The Innocence of Love",
-      "url": "https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4"
-    },
-    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Thani Oruvan (Original Motion Picture Soundtrack)",
@@ -351,6 +327,30 @@
       "duration_ms": 215456,
       "name": "Kannala Kannala - The Melting Point of Love",
       "url": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN"
+    },
+    {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ajesh",
+          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
+        },
+        {
+          "name": "Aishwarya R Dhanush",
+          "url": "https://open.spotify.com/artist/2Lf8VFHZFVMnQnUYTuroBM"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Idhazhin Oram - The Innocence of Love",
+      "url": "https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -431,6 +431,30 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
+        "name": "Sagaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4A8kNj0R9KzqK0JzAStSbL"
+      },
+      "artists": [
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Rita Thyagarajan",
+          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "Yaayum",
+      "url": "https://open.spotify.com/track/4Uh41d7PlFHP2gCinJEWlr"
+    },
+    {
+      "added_at": "2022-03-11 09:36:10",
+      "album": {
         "name": "3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
       },
@@ -485,30 +509,6 @@
       "url": "https://open.spotify.com/track/1n5gnI3Wue9WBpYFOIQNh1"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
-        "name": "Sagaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4A8kNj0R9KzqK0JzAStSbL"
-      },
-      "artists": [
-        {
-          "name": "Shabir Sulthan",
-          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
-        },
-        {
-          "name": "Naresh Iyer",
-          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
-        },
-        {
-          "name": "Rita Thyagarajan",
-          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "Yaayum",
-      "url": "https://open.spotify.com/track/4Uh41d7PlFHP2gCinJEWlr"
-    },
-    {
       "added_at": "2026-02-19 12:23:28",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
@@ -561,26 +561,6 @@
       "url": "https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5"
     },
     {
-      "added_at": "2026-04-20 06:06:36",
-      "album": {
-        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Dheema",
-      "url": "https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm"
-    },
-    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Imaikkaa Nodigal (Original Motion Picture Soundtrack)",
@@ -607,6 +587,26 @@
       "duration_ms": 285250,
       "name": "Neeyum Naanum Anbe",
       "url": "https://open.spotify.com/track/0zsA45R0SQPfqC5TyDOqY8"
+    },
+    {
+      "added_at": "2026-04-20 06:06:36",
+      "album": {
+        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Dheema",
+      "url": "https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -873,24 +873,20 @@
       "url": "https://open.spotify.com/track/3kfu3KKaiTAfohtpWq1tew"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
+      "added_at": "2024-09-30 07:36:01",
       "album": {
-        "name": "Ispade Rajavum Idhaya Raniyum (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI"
+        "name": "Vaaya moodi summa iru da",
+        "url": "https://open.spotify.com/album/5Wfb9OXZfqBTCoBPmPGLBZ"
       },
       "artists": [
         {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "K. Krishna Kumar",
+          "url": "https://open.spotify.com/artist/6vNr4L8T4zVl43s3LCGrTQ"
         }
       ],
-      "duration_ms": 256945,
-      "name": "Kannamma",
-      "url": "https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6"
+      "duration_ms": 273606,
+      "name": "Vaaya moodi summa iru da",
+      "url": "https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -917,20 +913,24 @@
       "url": "https://open.spotify.com/track/1AbSrAwrzuC3FcDXoYi3ED"
     },
     {
-      "added_at": "2024-09-30 07:36:01",
+      "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Vaaya moodi summa iru da",
-        "url": "https://open.spotify.com/album/5Wfb9OXZfqBTCoBPmPGLBZ"
+        "name": "Ispade Rajavum Idhaya Raniyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI"
       },
       "artists": [
         {
-          "name": "K. Krishna Kumar",
-          "url": "https://open.spotify.com/artist/6vNr4L8T4zVl43s3LCGrTQ"
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 273606,
-      "name": "Vaaya moodi summa iru da",
-      "url": "https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo"
+      "duration_ms": 256945,
+      "name": "Kannamma",
+      "url": "https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6"
     },
     {
       "added_at": "2025-01-18 00:42:16",
@@ -1369,30 +1369,6 @@
       "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
-        "name": "Mudhal Nee Mudivum Nee (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Thamarai",
-          "url": "https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe"
-        }
-      ],
-      "duration_ms": 332702,
-      "name": "Mudhal Nee Mudivum Nee Title Track",
-      "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
-    },
-    {
       "added_at": "2025-01-18 00:42:16",
       "album": {
         "name": "Hi Sonna Pothum (From \"Comali\")",
@@ -1415,6 +1391,30 @@
       "duration_ms": 230430,
       "name": "Hi Sonna Pothum (From \"Comali\")",
       "url": "https://open.spotify.com/track/6b84SSP7e5LwfvNPoDPshX"
+    },
+    {
+      "added_at": "2022-03-11 09:36:10",
+      "album": {
+        "name": "Mudhal Nee Mudivum Nee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Thamarai",
+          "url": "https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe"
+        }
+      ],
+      "duration_ms": 332702,
+      "name": "Mudhal Nee Mudivum Nee Title Track",
+      "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
     },
     {
       "added_at": "2026-01-07 09:05:07",
@@ -1461,26 +1461,6 @@
       "url": "https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I"
     },
     {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
-        "name": "Kaathalae Kaathalae (From \"96\")",
-        "url": "https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Kaathalae Kaathalae - From \"96\"",
-      "url": "https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3"
-    },
-    {
       "added_at": "2025-06-04 14:34:01",
       "album": {
         "name": "Retro [TAMIL]",
@@ -1499,6 +1479,26 @@
       "duration_ms": 261049,
       "name": "Kannadi Poove",
       "url": "https://open.spotify.com/track/3MELuNUntwMZwsNK9zNxJi"
+    },
+    {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "Kaathalae Kaathalae (From \"96\")",
+        "url": "https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Kaathalae Kaathalae - From \"96\"",
+      "url": "https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3"
     },
     {
       "added_at": "2022-09-16 00:23:08",

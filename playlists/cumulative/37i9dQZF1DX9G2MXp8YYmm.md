@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ayşe Hatun Önal
 
-594 songs - 1 day 6 hr 11 min
+595 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Kesin Bilgi \- Harbi Ile Barbi](https://open.spotify.com/track/0dDuOoafXsBVJxZ6zhcSjr) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [RUH HASSASI](https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE) | 3:32 | 2026-05-11 |  |
 | [Kim Derdi Ki](https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Kim Derdi Ki](https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj) | 3:29 | 2026-01-15 | 2026-01-23 |
 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 | 2026-05-14 |  |
-| [Kimi Seviyorsun / Yanmışım Ben / Romeo \- Mashup 2026](https://open.spotify.com/track/6wW7aAHWeryP7BCRaApdLL) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd), [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kimi Seviyorsun / Yanmışım Ben / Romeo \(Mashup 2026\)](https://open.spotify.com/album/0ZwTg5zMXKok2p3VbCAjsZ) | 3:03 | 2026-04-09 |  |
+| [Kimi Seviyorsun / Yanmışım Ben / Romeo \- Mashup 2026](https://open.spotify.com/track/6wW7aAHWeryP7BCRaApdLL) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd), [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kimi Seviyorsun / Yanmışım Ben / Romeo \(Mashup 2026\)](https://open.spotify.com/album/0ZwTg5zMXKok2p3VbCAjsZ) | 3:03 | 2026-04-09 | 2026-05-22 |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
 | [Koca Dünya](https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Koca Dünya](https://open.spotify.com/album/5LFciOK381uamGyiw52mgF) | 2:29 | 2024-10-24 | 2024-12-20 |
 | [Kolay Değil](https://open.spotify.com/track/1atcx5GqHDmKdZwYx2IDcn) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güz Güneşi](https://open.spotify.com/album/1whxkCTNuqAH14AzaNMreE) | 3:32 | 2025-11-20 | 2025-11-28 |
@@ -372,6 +372,7 @@
 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 | 2025-06-19 | 2025-09-28 |
 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 | 2025-12-28 |
 | [Müdavim](https://open.spotify.com/track/53VNTMgC3ERPW8k4rgXYE4) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Müdavim](https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j) | 3:34 | 2024-11-28 | 2024-12-04 |
+| [Müebbet](https://open.spotify.com/track/0SrplhrELBctlVPi8CtAxC) | [İntizar](https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0) | [Müebbet](https://open.spotify.com/album/1TSUc8a0Fl33MFREhmsOgV) | 3:09 | 2026-05-14 |  |
 | [Müptelanım Bilgine](https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Müptelanım Bilgine](https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka) | 3:44 | 2024-11-28 | 2025-01-11 |
 | [Mıh Gibi](https://open.spotify.com/track/1BnnKXbwzzzTopN0WbLIVk) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu) | [Mıh Gibi](https://open.spotify.com/album/6771ksAfxojdZl7NllEkuI) | 3:49 | 2025-07-31 | 2025-08-16 |
 | [N'olur Anla](https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [N'olur Anla](https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if) | 3:40 | 2025-02-06 | 2025-02-14 |

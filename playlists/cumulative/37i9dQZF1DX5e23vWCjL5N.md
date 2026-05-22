@@ -2,7 +2,7 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Diss Gacha in cover.
+> Punchline, storytelling, rap italiano\. Tedua in cover.
 
 426 songs - 21 hr 40 min
 

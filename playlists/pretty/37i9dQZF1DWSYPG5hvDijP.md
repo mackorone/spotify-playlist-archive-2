@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: KhullarG
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,012 likes - 73 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,025 likes - 73 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Lijpe",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: GEM-Z: Burleson, Highguest, FJ & Quina01",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -951,6 +951,28 @@
     },
     {
       "album": {
+        "name": "Bawler",
+        "url": "https://open.spotify.com/album/7fbKomNs3D53se4Y6IR3cW"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9"
+        },
+        {
+          "name": "DODO",
+          "url": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139307,
+      "name": "Bawler",
+      "url": "https://open.spotify.com/track/1qHe7zqGYKsAz8FNbTKysZ"
+    },
+    {
+      "album": {
         "name": "Bean",
         "url": "https://open.spotify.com/album/6I2zQcaMricNbic08Muwwt"
       },
@@ -1473,6 +1495,32 @@
     },
     {
       "album": {
+        "name": "CAMION",
+        "url": "https://open.spotify.com/album/53KUYBdJjXehIK7k9aPzNY"
+      },
+      "artists": [
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112510,
+      "name": "CAMION",
+      "url": "https://open.spotify.com/track/3Jk7MZrUkWgyo4iGbbpzBf"
+    },
+    {
+      "album": {
         "name": "Cardi&Offset",
         "url": "https://open.spotify.com/album/1roKTBqy2qeouN8nbR2Jd4"
       },
@@ -1944,7 +1992,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 136421,
       "name": "DE MAN ACHTER HET MASKER",
       "url": "https://open.spotify.com/track/1Xl1LnhdzzjKCxybFqZaKa"
@@ -2090,7 +2138,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 146526,
       "name": "Don\u2019t Underestimate",
       "url": "https://open.spotify.com/track/0kDZCAgWEIyYu2iKzEKL3H"
@@ -2314,7 +2362,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 152368,
       "name": "Eenzaam",
       "url": "https://open.spotify.com/track/6J5WlSjIOIQxHUro6UgkRX"
@@ -2746,7 +2794,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 118403,
       "name": "Fysio",
       "url": "https://open.spotify.com/track/5kSdTWUvY0Pqx2svJ6Q3ss"
@@ -2937,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "Geldteller 2",
+        "url": "https://open.spotify.com/album/6YcdlM5B8Izo0sHcFEuKA4"
+      },
+      "artists": [
+        {
+          "name": "Geechi",
+          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Geldteller 2",
+      "url": "https://open.spotify.com/track/26GWbitB19xHI4tAu1jkk3"
+    },
+    {
+      "album": {
         "name": "Gepassioneerd",
         "url": "https://open.spotify.com/album/5euBuWzTTM7YUSl31Q6qMR"
       },
@@ -2970,6 +3036,24 @@
       "duration_ms": 156052,
       "name": "Gevorderd",
       "url": "https://open.spotify.com/track/4mwPz0N53KrveYwXEm4q6a"
+    },
+    {
+      "album": {
+        "name": "Gewoon Gewoon",
+        "url": "https://open.spotify.com/album/0JQSs6S4MgO37Som21CENJ"
+      },
+      "artists": [
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160490,
+      "name": "Gewoon Gewoon",
+      "url": "https://open.spotify.com/track/1ipBTIjmFWJ3edDNxORkCu"
     },
     {
       "album": {
@@ -3136,6 +3220,32 @@
       "duration_ms": 232500,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/4hbdrNEyo15PGaJ3nOTNuS"
+    },
+    {
+      "album": {
+        "name": "H!GHEST FLEX",
+        "url": "https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        },
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr"
+        },
+        {
+          "name": "Blow",
+          "url": "https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "H!GHEST FLEX",
+      "url": "https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp"
     },
     {
       "album": {
@@ -3454,6 +3564,40 @@
       "duration_ms": 492972,
       "name": "Helse Weg",
       "url": "https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f"
+    },
+    {
+      "album": {
+        "name": "HERMES SLIDE",
+        "url": "https://open.spotify.com/album/73Q50MGqz21R9EisNWw31Z"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        },
+        {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        },
+        {
+          "name": "Quina01",
+          "url": "https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "HERMES SLIDE",
+      "url": "https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6"
     },
     {
       "album": {
@@ -4276,7 +4420,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 118206,
       "name": "Klaar zijn",
       "url": "https://open.spotify.com/track/310UJmsoMZDpWU8N423m4o"
@@ -4360,7 +4504,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 143546,
       "name": "Komt En Gaat",
       "url": "https://open.spotify.com/track/5I4S7TZ1fYTH63DJIjlPoV"
@@ -4588,7 +4732,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 130370,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/4BWJhRJzKsF6KJVTrWe0gh"
@@ -4672,6 +4816,28 @@
       "duration_ms": 199527,
       "name": "LIES",
       "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
+    },
+    {
+      "album": {
+        "name": "Lift Freestyle",
+        "url": "https://open.spotify.com/album/4P3fWPQ34Afi7i36zpLr95"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202059,
+      "name": "Lift Freestyle",
+      "url": "https://open.spotify.com/track/4yq2atEzERiPbwfT8uKDwW"
     },
     {
       "album": {
@@ -5192,7 +5358,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 163333,
       "name": "MENTAL",
       "url": "https://open.spotify.com/track/28I7X1nETvtdyGXTiqD5DL"
@@ -5288,6 +5454,32 @@
       "duration_ms": 156992,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey"
+    },
+    {
+      "album": {
+        "name": "MIST GEGAAN",
+        "url": "https://open.spotify.com/album/7FJE8a6saHSifpiQavNXN5"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap"
+        },
+        {
+          "name": "Crooks",
+          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
+        },
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "MIST GEGAAN",
+      "url": "https://open.spotify.com/track/3aTAK7b5v3tmZ125yhBUSy"
     },
     {
       "album": {
@@ -5740,7 +5932,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 132000,
       "name": "Niet Loyaal",
       "url": "https://open.spotify.com/track/3S3DzF5XnUVWAm3Jz3ZHoN"
@@ -7526,7 +7718,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 145655,
       "name": "Single Als Een Pringle",
       "url": "https://open.spotify.com/track/4ufqOm0cENMXRiv99ATSW5"
@@ -7592,6 +7784,36 @@
       "duration_ms": 135211,
       "name": "SKYEINDY",
       "url": "https://open.spotify.com/track/3yGBnT8VokFV1qYhp1t8lo"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0"
+      },
+      "artists": [
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
     },
     {
       "album": {
@@ -8434,6 +8656,24 @@
       "duration_ms": 163636,
       "name": "Uit De La",
       "url": "https://open.spotify.com/track/4dSaN9iwLhhgIZAAhBCGpJ"
+    },
+    {
+      "album": {
+        "name": "Uit Het Niets",
+        "url": "https://open.spotify.com/album/0E9kEoUG1rJHjpYrIK0Kus"
+      },
+      "artists": [
+        {
+          "name": "Mesy",
+          "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Uit Het Niets",
+      "url": "https://open.spotify.com/track/3ugJq8KYunDGQq3Ss9VoFC"
     },
     {
       "album": {

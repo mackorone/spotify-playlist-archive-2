@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,055 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,061 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 4 | [5AM in KC \(with Babyfxce E\)](https://open.spotify.com/track/4d82NTP7jSejMdm2TZt87r) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [I Want Blood](https://open.spotify.com/album/4kJFfOgwJS9iiMdH3YztWM) | 2:36 |
 | 5 | [RAMBO](https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [RAMBO](https://open.spotify.com/album/7ijg5BRj15OUSEX1iLHzeV) | 2:44 |
 | 6 | [Top of the Hill](https://open.spotify.com/track/4XY16HWTg6CZ5yQP65XiB0) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Top of the Hill](https://open.spotify.com/album/2R2XREd3drTTYwFyaJuZ7L) | 1:50 |
-| 7 | [Rackies \(feat\. ATL Jacob\)](https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:53 |
+| 7 | [Rackies \(feat\. ATL Jacob\)](https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:53 |
 | 8 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
 | 9 | [Fetty, Mula, Gwalla](https://open.spotify.com/track/4z5fUVKzFrcvqlCFJ1cXqS) | [ShittyBoyz](https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX), [Trdee](https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi) | [Back To The Basics](https://open.spotify.com/album/5tylmoH5FIqwbFj7TQskB5) | 2:38 |
 | 10 | [Pink Candy](https://open.spotify.com/track/5xEHlUFmaDQNE72EYQZLCw) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Pink Candy](https://open.spotify.com/album/36URkHNM8ijgcnLssV3Hig) | 2:46 |

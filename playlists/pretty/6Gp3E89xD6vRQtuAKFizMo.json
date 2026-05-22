@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43447,
+  "num_followers": 43450,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAas4lGzAYwpy+4w2M+oRV+7uuLIzd8",
+  "snapshot_id": "AAAatGJ6KQfxDBJDW/01r5njYkCEPzBb",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:00:47",
+      "album": {
+        "name": "Dump Truck",
+        "url": "https://open.spotify.com/album/2iEhjjPuCfjxkNE0mxXz2D"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/3wy7IanUHfRBIkPf18iWYL"
+        }
+      ],
+      "duration_ms": 123230,
+      "name": "Dump Truck",
+      "url": "https://open.spotify.com/track/5d0ewTjHri7s8B0HGMhEFf"
+    },
     {
       "added_at": "2026-05-15 04:00:51",
       "album": {

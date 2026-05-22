@@ -4,7 +4,7 @@
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: LAWA
 
-835 songs - 1 day 23 hr 51 min
+838 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [So Fucking Love You](https://open.spotify.com/track/0Ad0eqBRmUcIOqE1cOztfO) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [Green House](https://open.spotify.com/album/6ZcbNxgDA9Bve4Q2Dla4dX) | 3:21 | 2025-11-20 | 2025-11-28 |
 | [So Sad \- Remix](https://open.spotify.com/track/387i62hO8kJDqGmPZmsjM1) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [So Sad \(Remix\)](https://open.spotify.com/album/0uoJdmKAdyhKO4WkVwwClL) | 3:43 | 2024-02-01 | 2024-03-08 |
 | [Soggy](https://open.spotify.com/track/1xX6bPNSdjpHiJTDRt2rOy) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Soggy](https://open.spotify.com/album/196bfmnRG1paG7aplcJoWj) | 3:12 | 2022-03-24 | 2022-12-16 |
+| [Something Went Wrong](https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Something Went Wrong](https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm) | 3:06 | 2026-05-21 |  |
 | [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:10 | 2022-01-13 | 2025-10-07 |
 | [Spida](https://open.spotify.com/track/2l4y3zGp90AkpJUNEE8VkN) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [蜘蛛感應](https://open.spotify.com/album/6bYxf7apUtCugOhbkidjZR) | 2:45 | 2025-10-30 | 2025-11-07 |
 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2023-04-27 | 2023-09-01 |
@@ -542,6 +543,7 @@
 | [懂事得可以](https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [UNLOCKED](https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn) | 3:49 | 2025-11-06 | 2026-04-18 |
 | [懸 \- 不插電版](https://open.spotify.com/track/7gwZ37Vng40BDAKuiBMsAZ) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [邁向三十](https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw) | 3:42 | 2023-09-14 | 2024-03-01 |
 | [戀愛腦](https://open.spotify.com/track/1z8K6aptiZfvjruo11L6yN) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [想到再告訴你](https://open.spotify.com/album/13QDqdLHJrqy3SGEN80yI9) | 3:04 | 2026-04-17 |  |
+| [我不再想你了](https://open.spotify.com/track/1JKOzEZxRmwOipGu2ySHOW) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe), [小鼠](https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX) | [我不再想你了](https://open.spotify.com/album/7EdaFy5N9gsHgQLwAYHxqy) | 4:29 | 2026-05-21 |  |
 | [我不想被買](https://open.spotify.com/track/66lshosqLmuoVkyj1QfoEc) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [我不想被買](https://open.spotify.com/album/6Z75cvwgzT4SmKOZlOa5yF) | 3:28 | 2025-03-27 | 2025-06-06 |
 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 | 2022-02-03 | 2026-01-24 |
 | [我們 \- Vicky版](https://open.spotify.com/track/4XnD0PA97QgSeaecGVXfFc) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我們 \(Vicky版\)](https://open.spotify.com/album/4DHZNSaC7EcF6HjxPTOJha) | 2:06 | 2023-12-21 | 2024-03-08 |
@@ -733,6 +735,7 @@
 | [繞了這麼大一圈](https://open.spotify.com/track/5MnxfShrte129lNqz3ZJLg) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [繞了這麼大一圈](https://open.spotify.com/album/4VUsmsitdCoirtTa5wHKKm) | 3:57 | 2022-04-21 | 2022-07-15 |
 | [罪人](https://open.spotify.com/track/4e8cX0iQczup7RBIFb21yz) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [罪人](https://open.spotify.com/album/570GBJS6md5fpH4klLyh6X) | 3:46 | 2022-05-19 | 2022-08-12 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-01-20 | 2024-02-02 |
+| [羽絨外套](https://open.spotify.com/track/3o2eKQe0bQgmGuqD0CL7uT) | [Kouky](https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [羽絨外套](https://open.spotify.com/album/0z7LpSZ6HplK9IGNGHorz1) | 2:30 | 2026-05-21 |  |
 | [翼](https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [翼](https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w) | 2:47 | 2024-06-13 | 2025-02-21 |
 | [聚光燈](https://open.spotify.com/track/67kbjEmxxjatjjAw8FZbu0) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [聚光燈](https://open.spotify.com/album/4uHAKijljKra6tSgATigCb) | 3:10 | 2026-01-15 | 2026-04-18 |
 | [脆弱](https://open.spotify.com/track/5rsMC01Nv2dVprvmkcrvZD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:01 | 2022-01-27 | 2022-11-11 |

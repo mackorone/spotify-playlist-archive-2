@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Ultraligera.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 239258,
       "name": "Cielo herm\u00e9tico",
       "url": "https://open.spotify.com/track/5aWREznXDTWJ046mUoT162"
@@ -3702,6 +3702,28 @@
       "duration_ms": 176027,
       "name": "Disimular",
       "url": "https://open.spotify.com/track/5uDRcbIs7YONCB7zGNbZk9"
+    },
+    {
+      "album": {
+        "name": "Dolor y Gloria",
+        "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192649,
+      "name": "Dolor y Gloria",
+      "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
     },
     {
       "album": {
@@ -5487,6 +5509,24 @@
     },
     {
       "album": {
+        "name": "Estado 03",
+        "url": "https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241941,
+      "name": "Estado 03",
+      "url": "https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX"
+    },
+    {
+      "album": {
         "name": "Estamos como queremos",
         "url": "https://open.spotify.com/album/2nyRW2bGiETkzWPqO2qQe5"
       },
@@ -6858,7 +6898,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 312234,
       "name": "King\u00b4s Road",
       "url": "https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx"
@@ -9864,7 +9904,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 223125,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/7BFsE5Lxh17BI7FT8KU2tg"
@@ -12256,7 +12296,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"

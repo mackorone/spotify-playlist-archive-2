@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 176634,
       "name": "Bathroom Floor",
       "url": "https://open.spotify.com/track/3QFFda4IODSKbT839NW6BR"
@@ -2456,6 +2456,24 @@
       "duration_ms": 87419,
       "name": "I Don't Trust Nobody",
       "url": "https://open.spotify.com/track/50KOG4SrgEdS0S0gvCaBsW"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Fall In Love Again",
+        "url": "https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191962,
+      "name": "I Don't Want To Fall In Love Again",
+      "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
     },
     {
       "album": {

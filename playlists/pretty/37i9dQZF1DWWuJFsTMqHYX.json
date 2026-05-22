@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 468284,
+  "num_followers": 468374,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
-        "name": "Imidiwan Takyadam",
-        "url": "https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "Imidiwan Takyadam - feat. Jos\u00e9 Gonz\u00e1lez",
-      "url": "https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 223973,
       "name": "Sinanon Saran (Chant de griot)",
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
+    },
+    {
+      "added_at": "2026-03-12 18:21:09",
+      "album": {
+        "name": "Imidiwan Takyadam",
+        "url": "https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 256481,
+      "name": "Imidiwan Takyadam - feat. Jos\u00e9 Gonz\u00e1lez",
+      "url": "https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu"
     },
     {
       "added_at": "2026-03-12 18:21:09",
@@ -887,46 +887,18 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
-        "name": "The Routes of Slavery",
-        "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
       },
       "artists": [
         {
-          "name": "Jordi Savall",
-          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
-        },
-        {
-          "name": "Kass\u00e9-Mady Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC"
-        },
-        {
-          "name": "Mamani Ke\u00efta",
-          "url": "https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6"
-        },
-        {
-          "name": "Nana Kouyate",
-          "url": "https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0"
-        },
-        {
-          "name": "Tanti Kouyat\u00e9",
-          "url": "https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey"
-        },
-        {
-          "name": "Driss El Maloumi",
-          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
-        },
-        {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
-        },
-        {
-          "name": "Rajery",
-          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
         }
       ],
-      "duration_ms": 281093,
-      "name": "Manden Mandinkadenou (Chant de griot)",
-      "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
     }
   ],
   "unique_name": "Sahara",

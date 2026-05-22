@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAACaXRxYdoQ+YR0ewYdfQv4o",
+  "snapshot_id": "agz5gAAAAAAlwFPe69mAG/NYHMQrV9Uw",
   "tracks": [
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Shall Overcome / Hum Honge Kaamyaab",
-        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 332464,
-      "name": "Hum Honge Kaamyab / We Shall Overcome",
-      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
+      "duration_ms": 416266,
+      "name": "Cio",
+      "url": "https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s"
     }
   ],
   "unique_name": "This Is Arushi Jain",

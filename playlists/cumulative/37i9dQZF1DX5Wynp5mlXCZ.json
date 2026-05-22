@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ONUKA\n",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: OSTY\n",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 212558,
       "name": "DESNA",
       "url": "https://open.spotify.com/track/76dj7mIEVDB1hB3T4Neuks"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 222439,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2OVLsKcRfglyb5JZXlNNKu"
@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "RESTART",
+        "url": "https://open.spotify.com/album/2DoFB2zNCRwnjeKLZ44e5l"
+      },
+      "artists": [
+        {
+          "name": "OSTY",
+          "url": "https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185113,
+      "name": "RESTART",
+      "url": "https://open.spotify.com/track/5dOSorOf52UN28sHzXUlvO"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -5574,6 +5592,28 @@
       "duration_ms": 182173,
       "name": "Worlds Collide (Inspired by Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
+    },
+    {
+      "album": {
+        "name": "Ya Tabtab",
+        "url": "https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Char Bell",
+          "url": "https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "Ya Tabtab",
+      "url": "https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum"
     },
     {
       "album": {
@@ -7258,7 +7298,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 169142,
       "name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430 \u0434\u0440\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/03HBlkH7tcNVnt0jsnHCmw"
@@ -7478,6 +7518,24 @@
       "duration_ms": 172500,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/5Nl4kEjbmDKQH2SiBUTnt4"
+    },
+    {
+      "album": {
+        "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267580,
+      "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln"
     },
     {
       "album": {
@@ -9380,7 +9438,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 152121,
       "name": "\u0421\u043a\u0430\u043d\u0434\u0430\u043b",
       "url": "https://open.spotify.com/track/71HOAjfKvsbJCEUc9LhHCS"
@@ -9532,6 +9590,24 @@
       "duration_ms": 139354,
       "name": "\u0421\u043f\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/50ZMU8uaMUmSVpFNQ1MT8r"
+    },
+    {
+      "album": {
+        "name": "\u0441\u043f\u043e\u043a\u0443\u0441\u043b\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT"
+      },
+      "artists": [
+        {
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142184,
+      "name": "\u0441\u043f\u043e\u043a\u0443\u0441\u043b\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/68KvH33avv12vQopmu3EdG"
     },
     {
       "album": {
@@ -10520,7 +10596,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 207187,
       "name": "\u0449\u043e \u0432 \u0442\u043e\u0431\u0456 \u0442\u0430\u043a\u043e\u0433\u043e",
       "url": "https://open.spotify.com/track/3ZrmyjESJ0r6wyoOQvSqtp"

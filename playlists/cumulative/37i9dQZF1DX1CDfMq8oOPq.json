@@ -1231,6 +1231,32 @@
     },
     {
       "album": {
+        "name": "Caminho do meio (Intro)",
+        "url": "https://open.spotify.com/album/35wdWWR1AKa1PaOkmc2h9o"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Caminho do meio (Intro)",
+      "url": "https://open.spotify.com/track/7CaAp4nH6ox0bJ4PePStRN"
+    },
+    {
+      "album": {
         "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
         "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
       },
@@ -2246,7 +2272,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 179000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
@@ -4370,7 +4396,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 137823,
       "name": "Mate Ou Morra",
       "url": "https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy"
@@ -7652,6 +7678,32 @@
       "duration_ms": 196173,
       "name": "Start",
       "url": "https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f"
+    },
+    {
+      "album": {
+        "name": "SUA FAVORITA",
+        "url": "https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "SUA FAVORITA",
+      "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
     },
     {
       "album": {

@@ -13248,7 +13248,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 216391,
       "name": "\u05d0\u05d9\u05df \u05db\u05d1\u05d5\u05d3",
       "url": "https://open.spotify.com/track/4WoKmBYVGyrf7t0SkHhMQ1"
@@ -14180,13 +14180,13 @@
       },
       "artists": [
         {
-          "name": "\u05de'",
+          "name": "\u05de\u05ea\u05df \u05d7\u05e1\u05df",
           "url": "https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7"
         }
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 197687,
       "name": "\u05d0\u05e0\u05d9 \u05d7\u05d5\u05d6\u05e8",
       "url": "https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB"
@@ -15240,7 +15240,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 200927,
       "name": "\u05d1\u05d9\u05ea \u05de\u05d6\u05db\u05d5\u05db\u05d9\u05ea",
       "url": "https://open.spotify.com/track/6jDEgEonMe0G9ysCeJH5eh"
@@ -16094,7 +16094,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192400,
       "name": "\u05d3\u05d9\u05d6\u05e0\u05d2\u05d5\u05e3 99",
       "url": "https://open.spotify.com/track/5WbQ04y4tJHty6WgyRKoHf"
@@ -16616,7 +16616,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 237000,
       "name": "\u05d4\u05d9\u05d0 \u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea \u05dc\u05de\u05d4",
       "url": "https://open.spotify.com/track/6Ma5wr8hndGkkjsk9rgVKS"
@@ -26426,7 +26426,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 254059,
       "name": "\u05e9\u05d5\u05e0\u05d0 \u05d0\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/14b2CiDmRjVaZjpIULxPNx"

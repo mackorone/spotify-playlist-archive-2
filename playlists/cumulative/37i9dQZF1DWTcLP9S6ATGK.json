@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: DIKTA",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Mario G Klau",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "BENCI KANGEN KAMU",
+        "url": "https://open.spotify.com/album/6FeGGLZvUPIvVO15O0kDV0"
+      },
+      "artists": [
+        {
+          "name": "Rombongan Bodonk Koplo",
+          "url": "https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205724,
+      "name": "BENCI KANGEN KAMU",
+      "url": "https://open.spotify.com/track/5NoGTEb3dBGGEZrOHulFZK"
+    },
+    {
+      "album": {
         "name": "Nanti Pasti Kan Ada",
         "url": "https://open.spotify.com/album/5R1jjqFGFD6NPMxIillbHO"
       },
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 272903,
       "name": "Cinta dan Doa",
       "url": "https://open.spotify.com/track/5Q1W1dU9l03A1kql9HNQej"
@@ -4895,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Gila Dangdut",
+        "url": "https://open.spotify.com/album/4kbsfq2Ef92ZNZ74K458Pa"
+      },
+      "artists": [
+        {
+          "name": "The Virgin",
+          "url": "https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220258,
+      "name": "Gila Dangdut",
+      "url": "https://open.spotify.com/track/4mBvGFKZRYo10ff44lzhoP"
+    },
+    {
+      "album": {
         "name": "Gila Dunia Ini Bercandanya",
         "url": "https://open.spotify.com/album/4xJozwYdmfpZZYM9wvDIv4"
       },
@@ -5514,6 +5550,28 @@
       "duration_ms": 347037,
       "name": "Hmmm - Aviary Live Session",
       "url": "https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/2YKlXbPogsdk61LAzCDphh"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Ekaputri",
+          "url": "https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui"
+        },
+        {
+          "name": "Paul Aro",
+          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/3xZvo0d7OAtzyBraUW4g2X"
     },
     {
       "album": {
@@ -6570,6 +6628,24 @@
       "duration_ms": 99187,
       "name": "Juni",
       "url": "https://open.spotify.com/track/1EsDLxgeOoZBF1LfsehIrU"
+    },
+    {
+      "album": {
+        "name": "Juni Nanti",
+        "url": "https://open.spotify.com/album/06IiWrgkQM8S0OzrtoFeLV"
+      },
+      "artists": [
+        {
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256016,
+      "name": "Juni Nanti",
+      "url": "https://open.spotify.com/track/3HSFKxZSA3m3g1BmXgZu79"
     },
     {
       "album": {
@@ -8192,7 +8268,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 204642,
       "name": "Layar Hati",
       "url": "https://open.spotify.com/track/7HQZE6UNNaIilgNNXWIyeJ"
@@ -8844,6 +8920,28 @@
       "duration_ms": 156428,
       "name": "Mantra Uang",
       "url": "https://open.spotify.com/track/0uw354IeZNXlCQXHYc5pPU"
+    },
+    {
+      "album": {
+        "name": "Manusia Indonesia",
+        "url": "https://open.spotify.com/album/6Xk3wZ29qTQ455jeFrrlMA"
+      },
+      "artists": [
+        {
+          "name": "Irang Arkad",
+          "url": "https://open.spotify.com/artist/7h5HvKaKgPmsuJKwTVc8FL"
+        },
+        {
+          "name": "Ranie Klees",
+          "url": "https://open.spotify.com/artist/5iYM2YntZ8J92IBu9Rzw3W"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206445,
+      "name": "Manusia Indonesia",
+      "url": "https://open.spotify.com/track/5Vy4awdE0BqvwY0g4pX31v"
     },
     {
       "album": {
@@ -14367,6 +14465,24 @@
     },
     {
       "album": {
+        "name": "Si Pemarah",
+        "url": "https://open.spotify.com/album/5YCDBvve93ConfwdNsSNWf"
+      },
+      "artists": [
+        {
+          "name": "Lilo Lilo",
+          "url": "https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Si Pemarah",
+      "url": "https://open.spotify.com/track/0CxqqEGUjYekqaqMvNJl9G"
+    },
+    {
+      "album": {
         "name": "Sia - Sia",
         "url": "https://open.spotify.com/album/7c6512sBpEfpIqxVbl9Y6v"
       },
@@ -15626,6 +15742,24 @@
       "duration_ms": 262251,
       "name": "Tanya Alasanmu",
       "url": "https://open.spotify.com/track/4HYo8gpZYQjffSiVy0Bwo3"
+    },
+    {
+      "album": {
+        "name": "Tarik Ulur",
+        "url": "https://open.spotify.com/album/4mj3PaRGg1PRxATzZqmXyR"
+      },
+      "artists": [
+        {
+          "name": "Mario G klau",
+          "url": "https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192431,
+      "name": "Tarik Ulur",
+      "url": "https://open.spotify.com/track/5Z8iOu5EMr3ejypU2E13We"
     },
     {
       "album": {
@@ -17107,6 +17241,24 @@
     },
     {
       "album": {
+        "name": "KONTRADILSKI +",
+        "url": "https://open.spotify.com/album/14j9p70YcRwPjhZnXmufqx"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "WAW! ( UNBELIEVABLE )",
+      "url": "https://open.spotify.com/track/6Xc4LfdC0dAaQBC5Rf7WJv"
+    },
+    {
+      "album": {
         "name": "We Love You",
         "url": "https://open.spotify.com/album/2QxfsW6ucj8ZOD1lEh4Yw8"
       },
@@ -17180,6 +17332,24 @@
       "duration_ms": 233034,
       "name": "Yang Tak Terucapkan (Original Soundtrack From \"Dulmuluk Dulmalik\")",
       "url": "https://open.spotify.com/track/3NT97T41YssMrqdL5WMXeB"
+    },
+    {
+      "album": {
+        "name": "OH THIS IS \"HOUSE MUSIC\"?",
+        "url": "https://open.spotify.com/album/737fYSAIjTNgqJVvXLb9Vn"
+      },
+      "artists": [
+        {
+          "name": "toxicdev!",
+          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217838,
+      "name": "YANK DIGOYANG!",
+      "url": "https://open.spotify.com/track/2NJGklrqmp4VKJTR0Bg5yB"
     },
     {
       "album": {

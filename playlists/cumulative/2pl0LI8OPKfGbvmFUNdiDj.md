@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-477 songs - 1 day 2 hr 44 min
+478 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
 | [Frost In The December](https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb) | [Grace Chia](https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By), [Mylo Stone](https://open.spotify.com/artist/64WCsmam1ea6C4cEnLq2DD), [DJ Thensum](https://open.spotify.com/artist/0yYonVonAHg1NIE1JuPiSZ) | [Frost In The December](https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR) | 3:38 | 2026-05-11 |  |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |
-| [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-13 |  |
+| [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-13 | 2026-05-22 |
 | [Game Of Us](https://open.spotify.com/track/5nPiP0lCO9s1ae4o1p0GuW) | [michéle](https://open.spotify.com/artist/0Mgy1tMudfj17qQ9qTiye5) | [Game Of Us](https://open.spotify.com/album/46QTCDq3eHV44nQhk2i1L3) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Gamification](https://open.spotify.com/track/30U8vus9dlgxmGHWiW3BK2) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [Gamification](https://open.spotify.com/album/6ZuRU3huqGcILmzAsqXT9K) | 1:53 | 2026-04-24 |  |
 | [Garden Again](https://open.spotify.com/track/5VSOcF7z8Kempq4yn16mpz) | [Evva Polak](https://open.spotify.com/artist/507ea9h4rltyLfB1fqpIfV) | [Garden Again](https://open.spotify.com/album/0NvOpi04hZyaswKLQGYOBT) | 4:19 | 2025-12-26 | 2026-01-15 |
@@ -398,6 +398,7 @@
 | [Testify](https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 5:34 | 2026-03-23 | 2026-05-17 |
 | [That Girl](https://open.spotify.com/track/0ckv5piv2C88O9zejIsY4V) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/5lCK0L28sGSnogU6t1Y6KG) | [That Girl](https://open.spotify.com/album/1ZVgF25vYEIAn9jA1C3rIQ) | 3:29 | 2025-11-01 | 2025-12-01 |
 | [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 | 2026-01-18 | 2026-02-21 |
+| [The Algorithm](https://open.spotify.com/track/6371cuqZyoz1FLvNDwgxmB) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Algorithm](https://open.spotify.com/album/4TRPXfGwYOtQtdy0JpmGkk) | 2:11 | 2026-05-21 |  |
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 | 2025-12-20 | 2026-01-15 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |

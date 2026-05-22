@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83e\ude90\ncover: Paris Paloma",
+  "description": "a playlist without boundaries \ud83d\udc1e\ncover: Maisie Peters",
   "name": "Our Generation",
   "tracks": [
     {
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6KqayUL2sguyEFph75YUK0"
+      },
+      "artists": [
+        {
+          "name": "Freddie Lewis",
+          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "All these places, all these hands",
+      "url": "https://open.spotify.com/track/3rdaCbZ9dfAux2nQhYRKDk"
+    },
+    {
+      "album": {
         "name": "Allegedly",
         "url": "https://open.spotify.com/album/5yFMiV3EyqQtoCzRduZowR"
       },
@@ -804,6 +822,24 @@
       "duration_ms": 159840,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST"
+    },
+    {
+      "album": {
+        "name": "engine heartbreak",
+        "url": "https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125849,
+      "name": "androgynous",
+      "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
     },
     {
       "album": {
@@ -5000,7 +5036,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192955,
       "name": "Everywhere Isn't Texas",
       "url": "https://open.spotify.com/track/20eJY9bryFWgVNUlZBUgGN"
@@ -5220,7 +5256,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 212188,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/7ad8Zwl5MSFPtPnht7cNpD"
@@ -5609,6 +5645,24 @@
     },
     {
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "album": {
         "name": "front seat honey",
         "url": "https://open.spotify.com/album/0OWpfv3K0BE5I7Ws9S2vA7"
       },
@@ -5754,7 +5808,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 260000,
       "name": "Garden (Bang Goes the Drum)",
       "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 173000,
       "name": "HEARTLESS DARLIN' !",
       "url": "https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A"
@@ -7400,7 +7454,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202448,
       "name": "i don't care",
       "url": "https://open.spotify.com/track/0IGerlTI4Lrvfyd51bXjc3"
@@ -8908,7 +8962,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
@@ -10023,6 +10077,24 @@
     },
     {
       "album": {
+        "name": "Mad House",
+        "url": "https://open.spotify.com/album/3yDCUVcYe7XsDUkPxBlXKn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bleu",
+          "url": "https://open.spotify.com/artist/73TFBwUOa5jk7ZvVNQ8WBn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Mad House",
+      "url": "https://open.spotify.com/track/62LAis8PVHATb0eqooUev1"
+    },
+    {
+      "album": {
         "name": "magic 8 ball",
         "url": "https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK"
       },
@@ -10936,7 +11008,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 281173,
       "name": "Nevagonna",
       "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"
@@ -11423,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "ONE of ONE",
+        "url": "https://open.spotify.com/album/5MYjtiBFrowd2rML0p8hyG"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "ONE of ONE",
+      "url": "https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup"
+    },
+    {
+      "album": {
         "name": "One Thing",
         "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
       },
@@ -11824,7 +11914,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 148000,
       "name": "PASTEL SKIES",
       "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"
@@ -12070,7 +12160,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 170571,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/7hYdXzMWqOCA5cih4aeFTi"
@@ -12428,6 +12518,24 @@
       "duration_ms": 126400,
       "name": "Q&A (feat. Lennixx)",
       "url": "https://open.spotify.com/track/71Dlunz5SJlgHlhyZZsf28"
+    },
+    {
+      "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
     },
     {
       "album": {
@@ -13398,7 +13506,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202311,
       "name": "sex dreams do cum tru",
       "url": "https://open.spotify.com/track/3OuiIicHPLEpTHKmc8Cw7q"
@@ -13654,6 +13762,24 @@
       "duration_ms": 161562,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/39reMRtfodkliiyAANelxs"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180172,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10"
     },
     {
       "album": {
@@ -15784,7 +15910,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 113044,
       "name": "things 2 make U smile",
       "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
@@ -16002,6 +16128,24 @@
       "duration_ms": 176897,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+    },
+    {
+      "album": {
+        "name": "Too Busy Missing You",
+        "url": "https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205743,
+      "name": "Too Busy Missing You",
+      "url": "https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR"
     },
     {
       "album": {
@@ -16880,7 +17024,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 128000,
       "name": "WAY U MOVE",
       "url": "https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP"
@@ -17446,7 +17590,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 125024,
       "name": "WRANGLER",
       "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"

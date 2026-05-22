@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 248389,
+  "num_followers": 248377,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -887,18 +887,26 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
         }
       ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+      "duration_ms": 151252,
+      "name": "10 Minutos - Remix",
+      "url": "https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -923,26 +931,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         }
       ],
-      "duration_ms": 151252,
-      "name": "10 Minutos - Remix",
-      "url": "https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh"
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Cavalo de Troia",
-        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
-      },
-      "artists": [
-        {
-          "name": "Reddy",
-          "url": "https://open.spotify.com/artist/7nOz5jOgDguue2Zbr7W603"
-        },
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        }
-      ],
-      "duration_ms": 165740,
-      "name": "Cavalo de Troia",
-      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "SEM FREIO",
         "url": "https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 201824,
       "name": "SEM FREIO",
       "url": "https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "Cavalo de Troia",
+        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
+      },
+      "artists": [
+        {
+          "name": "Reddy",
+          "url": "https://open.spotify.com/artist/7nOz5jOgDguue2Zbr7W603"
+        },
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "duration_ms": 165740,
+      "name": "Cavalo de Troia",
+      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
     },
     {
       "added_at": "2026-03-27 03:00:31",

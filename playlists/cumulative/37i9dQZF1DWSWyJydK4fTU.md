@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-363 songs - 18 hr 25 min
+364 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-06-20 | 2024-09-07 |
 | [Heavy Rain](https://open.spotify.com/track/1fDUCcQeisfsqr8gX0AI1W) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Heavy Rain](https://open.spotify.com/album/2KoWFCEVELO7bTiEx2fvNC) | 2:42 | 2024-12-18 | 2025-03-26 |
 | [Heimweh](https://open.spotify.com/track/3EKWorBKvdRrwpnMEwMHVK) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Heimweh](https://open.spotify.com/album/28KqFNNqJcJAg4hcuu92Tp) | 2:28 | 2024-11-27 | 2025-02-20 |
-| [Herz](https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu) | [BELA](https://open.spotify.com/artist/70Wk8uVX5q6U2xRwOXtWfU) | [Herz](https://open.spotify.com/album/4N1XDBc31gbfJQg6LkUlhz) | 2:12 | 2026-03-03 |  |
+| [Herz](https://open.spotify.com/track/6z0kKKHiOoAN8vDYdGFTLu) | [BELA](https://open.spotify.com/artist/70Wk8uVX5q6U2xRwOXtWfU) | [Herz](https://open.spotify.com/album/4N1XDBc31gbfJQg6LkUlhz) | 2:12 | 2026-03-03 | 2026-05-22 |
 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 | 2025-10-09 | 2026-02-27 |
 | [Herzschlag](https://open.spotify.com/track/5AT4QWxSfRSShw51ao7Zz5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Herzschlag](https://open.spotify.com/album/2DpUOA6w7OYhQnnOWDjY8Y) | 2:53 | 2024-09-13 | 2025-07-19 |
 | [Herztausch](https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Herztausch](https://open.spotify.com/album/07B9z4SkDWSEQWHJw0p4zS) | 2:29 | 2024-06-20 | 2024-08-03 |
@@ -276,6 +276,7 @@
 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 | 2026-03-26 | 2026-04-17 |
 | [Shadow](https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey](https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K) | 2:37 | 2024-06-20 | 2024-08-20 |
 | [Shadow](https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shadow](https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi) | 3:41 | 2026-02-19 | 2026-03-13 |
+| [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 | 2026-05-21 |  |
 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 | 2024-08-02 | 2024-08-31 |
 | [si tu me demandes](https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [si tu me demandes](https://open.spotify.com/album/5U3B2zbIx8XEXpy55hhOLl) | 2:45 | 2026-02-26 | 2026-05-15 |
 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 | 2024-06-20 | 2024-10-04 |

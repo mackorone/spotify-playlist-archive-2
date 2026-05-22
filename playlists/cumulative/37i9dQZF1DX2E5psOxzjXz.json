@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Natasha Humera Ejaz",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Ali Sethi",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 148965,
       "name": "Dhadke Jiya",
       "url": "https://open.spotify.com/track/1A3wI7VMCBaGn3ZTzWu3OZ"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 155714,
       "name": "Dil Mera",
       "url": "https://open.spotify.com/track/11uthFtN4FApACycx0RE9c"
@@ -3751,6 +3751,24 @@
     },
     {
       "album": {
+        "name": "Jee?",
+        "url": "https://open.spotify.com/album/5OotuZJ1aMU2xspAnOlX2C"
+      },
+      "artists": [
+        {
+          "name": "malick",
+          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178783,
+      "name": "Jee?",
+      "url": "https://open.spotify.com/track/3GikGQVGjphaJ06HZZrCcP"
+    },
+    {
+      "album": {
         "name": "Jeena Chahta Hon",
         "url": "https://open.spotify.com/album/2kESbO1uWTz6fSzFOvtUfg"
       },
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 194770,
       "name": "Kehdo Na",
       "url": "https://open.spotify.com/track/1Wj5vKeO5q8M9YEBsWA1Ft"
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 170991,
       "name": "Mauqe",
       "url": "https://open.spotify.com/track/5jIZ1t15F9pp0WV9eMHY1i"
@@ -6603,6 +6621,24 @@
     },
     {
       "album": {
+        "name": "Raastay",
+        "url": "https://open.spotify.com/album/7KK7CRKpDuOQQCpfkEwIwv"
+      },
+      "artists": [
+        {
+          "name": "The Tamaashbeens",
+          "url": "https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159937,
+      "name": "Raastay",
+      "url": "https://open.spotify.com/track/4uvi4t33sr6k5U3S6bl5by"
+    },
+    {
+      "album": {
         "name": "Raat Ki Rani",
         "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
       },
@@ -6754,7 +6790,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 204000,
       "name": "Rattiyaan",
       "url": "https://open.spotify.com/track/0ckmiYk2XBqK32NRjhryMf"
@@ -6864,6 +6900,28 @@
       "duration_ms": 130343,
       "name": "ROCKIT",
       "url": "https://open.spotify.com/track/3DAiQK6TbhTbF7pEDEdqL1"
+    },
+    {
+      "album": {
+        "name": "Room Jhoom",
+        "url": "https://open.spotify.com/album/2myOdI6BKnry6XkqLObC57"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Gregory Rogove",
+          "url": "https://open.spotify.com/artist/0ofyN5WkkugXvllYparXbP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343533,
+      "name": "Room Jhoom",
+      "url": "https://open.spotify.com/track/4aLfmpfrf9RWnOSNj1dO5U"
     },
     {
       "album": {
@@ -9264,6 +9322,28 @@
       "duration_ms": 198240,
       "name": "Youn Hi",
       "url": "https://open.spotify.com/track/5YQs0uhqlgQnkbWnI6mRnB"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/3xpjefQnUE9iw8w8vPO1xt"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        },
+        {
+          "name": "TAKEN",
+          "url": "https://open.spotify.com/artist/7vfZKwNrfJQZlpKmTc1BfQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/44JFeplF9uHMMSjXboCoqS"
     },
     {
       "album": {

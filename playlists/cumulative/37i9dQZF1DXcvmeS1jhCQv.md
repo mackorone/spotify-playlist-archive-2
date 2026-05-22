@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: THEATRE
+> New tunes from Ireland for your discovery\. Cover: Aby Coulibaly
 
-443 songs - 1 day 0 hr 23 min
+451 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Big Pharma \(Withdrawal\)](https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Big Pharma \(Withdrawal\)](https://open.spotify.com/album/49oxEaMua1ht601M4JTuos) | 2:53 | 2024-02-02 | 2024-04-19 |
 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 | 2024-03-29 | 2024-07-27 |
 | [Bittersweet \- Acoustic](https://open.spotify.com/track/3LtzKkXhFPuviPWtUx8Thy) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Bittersweet \(Acoustic\)](https://open.spotify.com/album/1K7Mj1kKBTuLWOko0LcIWv) | 4:23 | 2025-10-10 | 2026-03-18 |
+| [Bleach](https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf) | [mischa and the bear](https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6) | [Bleach](https://open.spotify.com/album/7KJ9r2YHllq5jnGCceHHEY) | 3:16 | 2026-05-21 |  |
 | [Blind Dem](https://open.spotify.com/track/7vEAT61DMYQKS3UqUch4ka) | [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blind Dem](https://open.spotify.com/album/5WKCmEKKdr1ox5oClJknrF) | 2:20 | 2024-10-18 | 2025-06-20 |
 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 | 2024-02-02 | 2024-09-20 |
 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 | 2024-04-11 | 2024-11-16 |
@@ -92,6 +93,7 @@
 | [Comedy Jam](https://open.spotify.com/track/0BJiQ5rBPpIEanpZCWumAV) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION \(Deluxe'd\)](https://open.spotify.com/album/2PDLo9TCl6ecDQTHlBXy9U) | 1:43 | 2024-11-15 | 2025-06-20 |
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-05-09 | 2024-09-06 |
 | [Constellation](https://open.spotify.com/track/3zphYDhxfrViN7anRq6Z7n) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Constellation](https://open.spotify.com/album/7iCCvhECnZ69poHy0r5fJR) | 4:03 | 2024-11-22 | 2025-05-31 |
+| [Control](https://open.spotify.com/track/2Ts6u2309VQVAgZtYkMfnW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Control](https://open.spotify.com/album/1X4nLRbFFwhVRfxwbuFDOT) | 2:42 | 2026-05-21 |  |
 | [Daisy](https://open.spotify.com/track/2TxreYevEng0mYbQ3QAfXP) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Daisy](https://open.spotify.com/album/5he4YExXfEiSXxGpTPOjsw) | 3:01 | 2024-05-30 | 2024-12-07 |
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-04 | 2025-01-10 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 | 2024-07-05 |
@@ -124,6 +126,7 @@
 | [Drive](https://open.spotify.com/track/3PNuir14XpWgxkqsiQBdKG) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Drive](https://open.spotify.com/album/3jsynQWVNaEqVzA4TkulJY) | 4:02 | 2024-05-23 | 2024-11-16 |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 | 2024-05-03 |
 | [eliana](https://open.spotify.com/track/0cL1vePQmfGl6GdqNFXrsf) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [for james](https://open.spotify.com/album/2BokFGMyNZrL9GEraM1Vho) | 2:20 | 2025-03-07 | 2025-11-14 |
+| [End of an Era](https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [End of an Era](https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO) | 3:38 | 2026-05-21 |  |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-30 | 2026-04-03 |
 | [EUROSTAR](https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [SPOOKY](https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ) | 3:40 | 2025-01-10 | 2025-11-14 |
@@ -138,6 +141,7 @@
 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 | 2026-04-02 |  |
 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 | 2025-11-14 |  |
 | [First Prize](https://open.spotify.com/track/0BMZKsQfwIknNMn7iDUFDc) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [A Crescendo Ending](https://open.spotify.com/album/5RPiTbxAmc4c7atFXFFd6l) | 2:49 | 2024-06-20 | 2024-12-07 |
+| [Fix Your Heart For Free](https://open.spotify.com/track/4vFwTZPdreC3ErXLKkOmKy) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [Fix Your Heart For Free](https://open.spotify.com/album/5u33OdTeeeGaTNUWxKwvBz) | 4:22 | 2026-05-21 |  |
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 | 2024-06-21 |
 | [Following the Night](https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy) | [Telebox](https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s) | [When Night Turns Into Day](https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE) | 3:10 | 2024-07-19 | 2025-02-01 |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-05-23 | 2024-11-16 |
@@ -152,6 +156,7 @@
 | [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 | 2024-08-22 | 2025-05-31 |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-05-16 | 2024-06-14 |
 | [gone girl](https://open.spotify.com/track/6N4Oazanr0gxYcThWKviCl) | [Siobhán Franks](https://open.spotify.com/artist/1szKdIebZ0JuD8OOHL4Mj0) | [gone girl](https://open.spotify.com/album/5VTAnvrRkHBm1P9Ne9zrM8) | 2:26 | 2024-06-06 | 2024-11-23 |
+| [Good Enough](https://open.spotify.com/track/1eFRNhkIbgraWITQdGs6Vl) | [Softdrink Millionaire](https://open.spotify.com/artist/34FSutSmj6A0cNPFdtGqD3) | [Good Enough](https://open.spotify.com/album/78KrEPkj2YtKwUIf28mbSk) | 4:38 | 2026-05-21 |  |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-19 | 2026-03-18 |
 | [GOT HOPE](https://open.spotify.com/track/54Nvsw9uaiadlFYhBcT77q) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [GOT HOPE](https://open.spotify.com/album/5LkZsJeMdyTH0pgCxuCerM) | 2:17 | 2024-11-15 | 2025-05-31 |
 | [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 | 2024-03-08 |
@@ -268,8 +273,10 @@
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-02 | 2024-06-07 |
 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 | 2025-07-30 | 2026-03-18 |
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 | 2024-06-01 |
+| [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 | 2026-05-21 |  |
 | [No Right Time](https://open.spotify.com/track/02VawMWSiIOTvzxRN1xVtj) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k), [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [No Right Time](https://open.spotify.com/album/59939dOiGsLhlQR3foHWYY) | 3:59 | 2024-10-18 | 2025-05-31 |
 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-01-23 |  |
+| [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 | 2026-05-21 |  |
 | [Nobu](https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Nobu](https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu) | 2:49 | 2024-05-16 | 2024-10-19 |
 | [NOSTALGIA](https://open.spotify.com/track/09syOnhRbYfMn3tXAIGdsl) | [Altara](https://open.spotify.com/artist/60SmuayMgvIsng1H1KrXwj) | [NOSTALGIA](https://open.spotify.com/album/7AeWUGyvrjLk3WZGHdj6Zh) | 3:42 | 2025-10-02 | 2026-03-18 |
 | [not hanging around](https://open.spotify.com/track/1nMPLcPz3PLeOed4tMRwCH) | [ghoulgirl](https://open.spotify.com/artist/7H2OUfnBrrJk52pNyDHN9l) | [not hanging around](https://open.spotify.com/album/6jLqApihEstPa84vOxUIoW) | 1:44 | 2025-04-23 | 2025-11-14 |
@@ -441,6 +448,7 @@
 | [Words](https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Words](https://open.spotify.com/album/1uRqKyjf4aSw8g68tXy754) | 2:40 | 2024-02-02 | 2024-03-22 |
 | [Wretched](https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Wretched](https://open.spotify.com/album/4fYvu8Dm4AHQtHeVJOprrH) | 3:36 | 2024-02-02 | 2024-07-05 |
 | [Yellow Dresser](https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Yellow Dresser](https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za) | 3:24 | 2024-04-11 | 2024-12-07 |
+| [You and Your Army](https://open.spotify.com/track/5sNq3ftyBFmOhfhG4u0JG5) | [Rowan Murphy](https://open.spotify.com/artist/6K2u0V48kHEDTC8yagRHZW) | [You and Your Army](https://open.spotify.com/album/35LQR0kw57cwA75YDvW0TJ) | 4:04 | 2026-05-21 |  |
 | [You Don't See It](https://open.spotify.com/track/7uAUeHxZaEI0yEiFdAVoLm) | [The Kates](https://open.spotify.com/artist/1HyAw4TPg3YfrA666IGhoK) | [You Don't See It](https://open.spotify.com/album/2XwMlBoJlBSnxUfsdHxdp3) | 3:06 | 2026-02-27 |  |
 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 | 2024-11-15 | 2025-08-08 |
 | [You'll Be The Last To Know](https://open.spotify.com/track/6rZk7MkrMCiW5KkrRw9zvO) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [You'll Be The Last To Know](https://open.spotify.com/album/2gYjwAgcvgTvJrbKtLgTuz) | 2:59 | 2024-04-18 | 2024-06-14 |

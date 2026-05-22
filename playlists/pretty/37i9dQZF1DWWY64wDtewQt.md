@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,672,346 likes - 99 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,674,933 likes - 99 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 19 | [MONTAGEM DOMER \- Super Slowed](https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ) | [Paizo](https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK), [DJ LXILL](https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY), [DJ FallThox](https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN) | [MONTAGEM DOMER](https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH) | 1:27 |
 | 20 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 |
 | 21 | [MONTAGEM ELDER \- SLOWED](https://open.spotify.com/track/2MzMxS2bByjQdbxt4tmkzI) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [MONTAGEM ELDER](https://open.spotify.com/album/0pMVU10qsFfwHu8fLpl6Ml) | 1:40 |
-| 22 | [MUTILATOR \(SLOWED\)](https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT) | [ZMAJOR](https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP) | [MUTILATOR](https://open.spotify.com/album/3cIfOF2VU2EpkZBhU7NHSR) | 1:49 |
+| 22 | [MUTILATOR \(SLOWED\)](https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT) | [ZMAJOR](https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP), [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [MUTILATOR](https://open.spotify.com/album/3cIfOF2VU2EpkZBhU7NHSR) | 1:49 |
 | 23 | [GOZALO \- Slowed](https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [GOZALO](https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b) | 2:00 |
 | 24 | [Vem Vem](https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vem Vem](https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV) | 1:23 |
 | 25 | [FUNK ABNORMAL \- SLOWED](https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2) | [DJ V12](https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD), [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [FUNK ABNORMAL](https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3) | 1:41 |

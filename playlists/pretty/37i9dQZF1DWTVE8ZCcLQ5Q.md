@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Bruna Lipiani e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,239 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,238 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 47 | [Aqui Dentro](https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP) | [Infinito Latente](https://open.spotify.com/artist/270Y49rx1FEELCqFPMIwBN) | [Sem Início Nem Fim](https://open.spotify.com/album/4X8OdTAgIsHiFYItSm1k5D) | 3:16 |
 | 48 | [Abre Caminhos](https://open.spotify.com/track/1GaBCbZpmi2OGLxF3lnauk) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Mangueman](https://open.spotify.com/artist/5tU6zdkKr3tp3fH2MyZYW4), [Hetz](https://open.spotify.com/artist/03C1V4kd6o8RkMGfxIHeP1) | [Abre Caminhos](https://open.spotify.com/album/6tIrd5Zd2YCZHj45a9cfaR) | 3:36 |
 | 49 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
-| 50 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:08 |
+| 50 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:07 |
 
 Snapshot ID: `AAAAAN5iUl8yyhwS5w6pZvpA0mUyjOef`

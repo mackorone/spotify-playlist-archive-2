@@ -1,13 +1,29 @@
 {
-  "description": "Al die nuutste Afrikaanse musiek met FATMAN, WG NEL, Schwabie en meer!",
-  "num_followers": 43520,
+  "description": "Al die nuutste Afrikaanse musiek met JAN JAN JAN, Dodo Nyoka, Hugh Lynn en meer!",
+  "num_followers": 43523,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAE/ot4QSZviPz+1/7/cek7dX5C",
+  "snapshot_id": "AAAAAAPvxhtJX1w0AX1lPecFhB6tChDe",
   "tracks": [
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Tant Tilla",
+        "url": "https://open.spotify.com/album/1I9M8qH9iv10YJAXFSCTJ7"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 232410,
+      "name": "Tant Tilla",
+      "url": "https://open.spotify.com/track/3BPGKfc4rJa2RZZQqWNdJO"
+    },
     {
       "added_at": "2026-05-15 04:07:12",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/1UhWHTeaZzx6t7tJUVdkJI"
     },
     {
-      "added_at": "2026-05-07 22:03:22",
+      "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Soet Wees",
-        "url": "https://open.spotify.com/album/2Q7DlBzVuCR9isU9eAHjQ5"
+        "name": "Juliet",
+        "url": "https://open.spotify.com/album/52fuSLI5eSLzmQLishb1FA"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 172773,
-      "name": "Soet Wees",
-      "url": "https://open.spotify.com/track/2YIT7j357KZ1gtjAsYPY5e"
+      "duration_ms": 163354,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/1ZIHYXmGjvRyeGq40uzrtQ"
     },
     {
       "added_at": "2026-05-15 04:07:12",
@@ -57,36 +73,20 @@
       "url": "https://open.spotify.com/track/4ojjfa2FnXCuJ1dVYWS2aX"
     },
     {
-      "added_at": "2026-05-07 22:03:22",
+      "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Ma",
-        "url": "https://open.spotify.com/album/6SiflBoV38mNVeHm37Ij5G"
+        "name": "Nah Nah Nah",
+        "url": "https://open.spotify.com/album/6IlIFV0iikZCD1qQ0sA1cC"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Hugh Lynn",
+          "url": "https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w"
         }
       ],
-      "duration_ms": 176500,
-      "name": "Ma",
-      "url": "https://open.spotify.com/track/74JMest8ypExSLwCEqCxSW"
-    },
-    {
-      "added_at": "2026-05-15 04:07:12",
-      "album": {
-        "name": "Alles",
-        "url": "https://open.spotify.com/album/5TTjQaudcFolxlySBtsBoa"
-      },
-      "artists": [
-        {
-          "name": "Schwabie",
-          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
-        }
-      ],
-      "duration_ms": 161718,
-      "name": "Alles",
-      "url": "https://open.spotify.com/track/79RQxL3pw7tpDQ4tQ5Qkhx"
+      "duration_ms": 163125,
+      "name": "Nah Nah Nah",
+      "url": "https://open.spotify.com/track/3uBAUQHlDAK7WnpmKS1oV6"
     },
     {
       "added_at": "2026-04-30 22:00:37",
@@ -105,6 +105,138 @@
       "url": "https://open.spotify.com/track/3D6Ze4ddap4cht3NsqWbvM"
     },
     {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Kaal Sigarette (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0UM1Y1NCkxDvfdyuYUw34Q"
+      },
+      "artists": [
+        {
+          "name": "FRANCO",
+          "url": "https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Kaal Sigarette - Acoustic Version",
+      "url": "https://open.spotify.com/track/1kHuu72jbpoFBRb2CPe64Q"
+    },
+    {
+      "added_at": "2026-05-07 22:03:22",
+      "album": {
+        "name": "Ma",
+        "url": "https://open.spotify.com/album/6SiflBoV38mNVeHm37Ij5G"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Ma",
+      "url": "https://open.spotify.com/track/74JMest8ypExSLwCEqCxSW"
+    },
+    {
+      "added_at": "2026-04-24 16:10:25",
+      "album": {
+        "name": "Hemel Op Tafelberg",
+        "url": "https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 224305,
+      "name": "Hemel Op Tafelberg",
+      "url": "https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Skaduwee",
+        "url": "https://open.spotify.com/album/5HvPuQu5YGnBcWHXEaAll8"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "duration_ms": 246050,
+      "name": "Skaduwee",
+      "url": "https://open.spotify.com/track/2aDTmfytBbasAk5j5mwmJa"
+    },
+    {
+      "added_at": "2026-04-30 22:00:37",
+      "album": {
+        "name": "As Jy My Roep",
+        "url": "https://open.spotify.com/album/4CBS9QMxHP7MgHTYk5dugL"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 175851,
+      "name": "As Jy My Roep",
+      "url": "https://open.spotify.com/track/6x4KoqbtWqm2IK2o18EYaC"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/4zLKU22mDOTw17MyaG6bPj"
+      },
+      "artists": [
+        {
+          "name": "Vreemd",
+          "url": "https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9"
+        }
+      ],
+      "duration_ms": 139198,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/3KHzvM9ZkHmSTUrKKQ6fjL"
+    },
+    {
+      "added_at": "2026-05-07 22:03:22",
+      "album": {
+        "name": "Soet Wees",
+        "url": "https://open.spotify.com/album/2Q7DlBzVuCR9isU9eAHjQ5"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Soet Wees",
+      "url": "https://open.spotify.com/track/2YIT7j357KZ1gtjAsYPY5e"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Ek Is",
+        "url": "https://open.spotify.com/album/6wF4tgcDCmnQzRwWOjue2P"
+      },
+      "artists": [
+        {
+          "name": "Dewald Gouws",
+          "url": "https://open.spotify.com/artist/6zM0X3d3RQrHHa3MoqPqoO"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Ek Is",
+      "url": "https://open.spotify.com/track/3qzlKvyu6tlbjAPwdpV1B5"
+    },
+    {
       "added_at": "2026-05-15 04:07:12",
       "album": {
         "name": "Doringdraad Daisies",
@@ -119,6 +251,58 @@
       "duration_ms": 225600,
       "name": "Doringdraad Daisies",
       "url": "https://open.spotify.com/track/5ZMlsNKUJ954qm3Eh9s3GP"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Sy is maar net stil",
+        "url": "https://open.spotify.com/album/6hdUfjVjJ425TwjE7cEZX1"
+      },
+      "artists": [
+        {
+          "name": "Petronel Baard",
+          "url": "https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG"
+        }
+      ],
+      "duration_ms": 232551,
+      "name": "Sy is maar net stil",
+      "url": "https://open.spotify.com/track/0Eu1DB1JnoQEPDmAxWPKlm"
+    },
+    {
+      "added_at": "2026-05-15 04:07:12",
+      "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/5TTjQaudcFolxlySBtsBoa"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "duration_ms": 161718,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/79RQxL3pw7tpDQ4tQ5Qkhx"
+    },
+    {
+      "added_at": "2026-05-07 22:03:22",
+      "album": {
+        "name": "Wil Jy Bly (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/6jmoZVhOls3BiLGeDAzere"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "duration_ms": 198399,
+      "name": "Wil Jy Bly - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/4uvIDGoQh4q8rhtDiNSxdG"
     },
     {
       "added_at": "2026-05-07 22:03:22",
@@ -171,6 +355,38 @@
     {
       "added_at": "2026-05-15 04:07:12",
       "album": {
+        "name": "Na Die Donker Nag",
+        "url": "https://open.spotify.com/album/4ZLTzN4yk7fDafP6Kwbrwx"
+      },
+      "artists": [
+        {
+          "name": "Benice",
+          "url": "https://open.spotify.com/artist/1RgGqCboNZvmpHwIT11StK"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Na Die Donker Nag",
+      "url": "https://open.spotify.com/track/0aGXtWQD63WCt2SyTk3bqg"
+    },
+    {
+      "added_at": "2026-04-23 22:02:21",
+      "album": {
+        "name": "Ek Kom Jou Haal",
+        "url": "https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Ek Kom Jou Haal",
+      "url": "https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos"
+    },
+    {
+      "added_at": "2026-05-15 04:07:12",
+      "album": {
         "name": "Gee My Jou Hart",
         "url": "https://open.spotify.com/album/7pciEn3pVUsKgsDmnCqlXN"
       },
@@ -183,22 +399,6 @@
       "duration_ms": 148800,
       "name": "Gee My Jou Hart",
       "url": "https://open.spotify.com/track/3wU2qoi1dOS7UzT7fGWWoU"
-    },
-    {
-      "added_at": "2026-04-30 22:00:37",
-      "album": {
-        "name": "As Jy My Roep",
-        "url": "https://open.spotify.com/album/4CBS9QMxHP7MgHTYk5dugL"
-      },
-      "artists": [
-        {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
-        }
-      ],
-      "duration_ms": 175851,
-      "name": "As Jy My Roep",
-      "url": "https://open.spotify.com/track/6x4KoqbtWqm2IK2o18EYaC"
     },
     {
       "added_at": "2026-05-15 04:07:12",
@@ -221,26 +421,6 @@
       "url": "https://open.spotify.com/track/6KPR5bSYszXv1RHy8gwj31"
     },
     {
-      "added_at": "2026-04-24 16:10:25",
-      "album": {
-        "name": "Hemel Op Tafelberg",
-        "url": "https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 224305,
-      "name": "Hemel Op Tafelberg",
-      "url": "https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P"
-    },
-    {
       "added_at": "2026-05-15 04:07:12",
       "album": {
         "name": "Hoe Lieflik",
@@ -259,26 +439,6 @@
       "duration_ms": 284879,
       "name": "Hoe Lieflik",
       "url": "https://open.spotify.com/track/079Y0KXn987B57QNwPFXBP"
-    },
-    {
-      "added_at": "2026-05-07 22:03:22",
-      "album": {
-        "name": "Wil Jy Bly (SENSASIE Remix)",
-        "url": "https://open.spotify.com/album/6jmoZVhOls3BiLGeDAzere"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        },
-        {
-          "name": "SENSASIE",
-          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
-        }
-      ],
-      "duration_ms": 198399,
-      "name": "Wil Jy Bly - SENSASIE Remix",
-      "url": "https://open.spotify.com/track/4uvIDGoQh4q8rhtDiNSxdG"
     },
     {
       "added_at": "2026-05-15 04:07:12",
@@ -381,22 +541,6 @@
       "url": "https://open.spotify.com/track/7wjW8OipCe7S0CD0VkxFGk"
     },
     {
-      "added_at": "2026-05-15 04:07:12",
-      "album": {
-        "name": "Na Die Donker Nag",
-        "url": "https://open.spotify.com/album/4ZLTzN4yk7fDafP6Kwbrwx"
-      },
-      "artists": [
-        {
-          "name": "Benice",
-          "url": "https://open.spotify.com/artist/1RgGqCboNZvmpHwIT11StK"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Na Die Donker Nag",
-      "url": "https://open.spotify.com/track/0aGXtWQD63WCt2SyTk3bqg"
-    },
-    {
       "added_at": "2026-04-30 22:00:37",
       "album": {
         "name": "Amper",
@@ -427,22 +571,6 @@
       "duration_ms": 167619,
       "name": "In Vlug",
       "url": "https://open.spotify.com/track/0p57UmcxdoqLydEVmZEO9j"
-    },
-    {
-      "added_at": "2026-04-23 22:02:21",
-      "album": {
-        "name": "Ek Kom Jou Haal",
-        "url": "https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Ek Kom Jou Haal",
-      "url": "https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos"
     },
     {
       "added_at": "2026-05-15 04:07:12",

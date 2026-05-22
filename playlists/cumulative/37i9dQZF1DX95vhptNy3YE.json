@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Diggo, L\u00e9o Santana e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
+  "description": "Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 172767,
       "name": "A Fila Anda - Ao Vivo",
       "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 240493,
       "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
@@ -6768,7 +6768,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 233898,
       "name": "Gan\u00e2ncia",
       "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
@@ -7784,7 +7784,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 171472,
       "name": "Interroga\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
@@ -10193,6 +10193,28 @@
     },
     {
       "album": {
+        "name": "MINA QUENTE",
+        "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151889,
+      "name": "MINA QUENTE",
+      "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
+    },
+    {
+      "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
@@ -10338,7 +10360,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
@@ -10578,7 +10600,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Mulher Adulta Faz Assim",
       "url": "https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo"
@@ -11222,7 +11244,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 92389,
       "name": "Nosso Lance - Ao Vivo",
       "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
@@ -11680,7 +11702,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 135165,
       "name": "N\u00e3o Temos Medo",
       "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
@@ -11928,7 +11950,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 156500,
       "name": "O que a Julia vai ser?",
       "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
@@ -13608,7 +13630,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "Pra Decidir (Os Caras Da Rua)",
       "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
@@ -16234,7 +16256,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
@@ -16565,6 +16587,32 @@
     },
     {
       "album": {
+        "name": "SUA FAVORITA",
+        "url": "https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "SUA FAVORITA",
+      "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
+    },
+    {
+      "album": {
         "name": "Superpoderes",
         "url": "https://open.spotify.com/album/1zts5MyDUDW8EKTVMM4UkS"
       },
@@ -16788,7 +16836,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"

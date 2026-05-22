@@ -4101,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Half Of Me",
+        "url": "https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV"
+    },
+    {
+      "album": {
         "name": "world's worst cowboy",
         "url": "https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l"
       },
@@ -11012,7 +11030,7 @@
       },
       "artists": [
         {
-          "name": "Jireel",
+          "name": "JIREEL",
           "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         },
         {

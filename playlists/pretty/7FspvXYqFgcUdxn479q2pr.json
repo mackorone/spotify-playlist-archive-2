@@ -1,13 +1,113 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31596,
+  "num_followers": 31595,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwSjKyoHhZzKa0lQoVPo1KXjbh8H9w",
+  "snapshot_id": "AAAwUPwbJiL5GQZpr9UyecWM5TTWt88r",
   "tracks": [
+    {
+      "added_at": "2026-05-21 13:16:10",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+    },
+    {
+      "added_at": "2026-05-21 22:00:02",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 222978,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
+    },
+    {
+      "added_at": "2026-05-21 13:16:07",
+      "album": {
+        "name": "Meet Me In The Dark",
+        "url": "https://open.spotify.com/album/4jM92VN44r0AGwSAXGfKI4"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Meet Me In The Dark",
+      "url": "https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6"
+    },
+    {
+      "added_at": "2026-05-21 13:16:13",
+      "album": {
+        "name": "Abasazi",
+        "url": "https://open.spotify.com/album/1Q91loVumQiTaolkqat2n9"
+      },
+      "artists": [
+        {
+          "name": "Maurya Sevak",
+          "url": "https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs"
+        }
+      ],
+      "duration_ms": 188913,
+      "name": "Abasazi",
+      "url": "https://open.spotify.com/track/3r8exiq2w9lU0A2rL5snyU"
+    },
+    {
+      "added_at": "2026-05-21 13:16:12",
+      "album": {
+        "name": "TimeWave Zero (Mark Sherry & Bill Neilson Remix)",
+        "url": "https://open.spotify.com/album/0T9MQEhtUU4rUwBSk09uti"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Mark Sherry",
+          "url": "https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH"
+        },
+        {
+          "name": "Bill Neilson",
+          "url": "https://open.spotify.com/artist/6Q9rXirIrWVB3UgWc113tY"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "TimeWave Zero - Mark Sherry & Bill Neilson Remix",
+      "url": "https://open.spotify.com/track/4nBrGuDxYCz4HAHvp7G27b"
+    },
     {
       "added_at": "2026-05-14 23:54:42",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952315,
+  "num_followers": 952328,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Resenha Piri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 165621,
+      "name": "At\u00e9 Ficar Velhin - Ao Vivo",
+      "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 187118,
       "name": "Eu, Voc\u00ea, O Mar e Ela",
       "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Escondendo o Ouro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Resenha Piri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
+        "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
       },
       "artists": [
         {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 165621,
-      "name": "At\u00e9 Ficar Velhin - Ao Vivo",
-      "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+      "duration_ms": 171207,
+      "name": "Escondendo o Ouro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Ana Castela - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Neon - Spotify Sessions",
-      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 243813,
       "name": "Escreve A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
-        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
-      },
-      "artists": [
-        {
-          "name": "Victor & Leo",
-          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Lembran\u00e7as de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Live-M\u00f3vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181512,
       "name": "Vingan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
+        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
+      },
+      "artists": [
+        {
+          "name": "Victor & Leo",
+          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Lembran\u00e7as de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
+      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
-      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
     },
     {
       "added_at": "2026-05-08 03:03:31",

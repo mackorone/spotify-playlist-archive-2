@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Rouge",
+  "description": "Only the hottest South African rap. \nCover: Cassper Nyovest",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 141875,
       "name": "Boss",
       "url": "https://open.spotify.com/track/5bcYvUiG6hsg2C7QHHRNHI"
@@ -10488,7 +10488,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 167627,
       "name": "IZONO",
       "url": "https://open.spotify.com/track/5oQDXT9KgV0jSKvcJ47apI"
@@ -16074,6 +16074,24 @@
       "duration_ms": 213000,
       "name": "Phone-Hello.",
       "url": "https://open.spotify.com/track/5CnZoLBaQ3j2OfhpzDKfyg"
+    },
+    {
+      "album": {
+        "name": "PHUNYUKA BAMPHETHE",
+        "url": "https://open.spotify.com/album/5SOfMsHVhpO1bgWZRjsuCP"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "PHUNYUKA BAMPHETHE",
+      "url": "https://open.spotify.com/track/6o1G4kPFdWF0PTpWKRtrxQ"
     },
     {
       "album": {
@@ -21710,6 +21728,24 @@
       "duration_ms": 150000,
       "name": "Today is a good day",
       "url": "https://open.spotify.com/track/2IOiEhA8VTT4gwel9HgJuu"
+    },
+    {
+      "album": {
+        "name": "Todii",
+        "url": "https://open.spotify.com/album/2jLNfrXLRaWBSJAz9B4999"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Todii",
+      "url": "https://open.spotify.com/track/553L54FQC1uA9rGscMUf7V"
     },
     {
       "album": {

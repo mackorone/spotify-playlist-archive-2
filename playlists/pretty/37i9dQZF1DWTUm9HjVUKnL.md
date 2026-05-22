@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,978 likes - 1,117 songs - 2 day 18 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,982 likes - 1,117 songs - 2 day 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -475,7 +475,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 465 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
 | 466 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 |
 | 467 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 468 | [En Stund \- Spotify Studio 100 Recording](https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [En Stund \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9) | 3:01 |
+| 468 | [En Stund \- Spotify Studio 100 Recording](https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [En Stund \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9) | 3:01 |
 | 469 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 |
 | 470 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 |
 | 471 | [IN THE END – Spotify Singles](https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [IN THE END – Spotify Singles](https://open.spotify.com/album/3ApfbSxxo8U8VGKQa0zVKi) | 3:33 |

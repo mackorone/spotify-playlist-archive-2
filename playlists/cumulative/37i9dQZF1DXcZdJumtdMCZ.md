@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Thamizh Aadhavan
 
-324 songs - 17 hr 9 min
+325 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Independent](https://open.spotify.com/track/5RF6esRlMiQAWhY7rFYslb) | [Kuruji](https://open.spotify.com/artist/3Kf5tlhWZLOBHe4BHtOX8k), [Princeten Charles](https://open.spotify.com/artist/00t3620x0j265j2wQheVQU) | [Independent](https://open.spotify.com/album/4IIeBOZk7qm4RTBI1twGPT) | 2:25 | 2024-12-29 | 2025-07-23 |
 | [Indha Padai \(From "Shakthi Thirumagan"\)](https://open.spotify.com/track/5Mh8AqUar3ZayUN773VBM2) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV), [Pradeep Vijayamala](https://open.spotify.com/artist/7EyGf4rabu6HF4nAZv25cw) | [Indha Padai \(From "Shakthi Thirumagan"\)](https://open.spotify.com/album/1OK7QYaiDivmTjyTnb6slY) | 3:24 | 2025-09-18 | 2025-11-05 |
 | [Inna Da](https://open.spotify.com/track/1dhM6kS94VbTRs68TFK0Rc) | [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu), [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI) | [Inna Da](https://open.spotify.com/album/3RSprpBDuSzZkBcYZv0m2S) | 3:48 | 2026-04-02 | 2026-05-16 |
+| [IRANTHA MANITHAN](https://open.spotify.com/track/3H0DhBKK6uMTHIDAGUwAzw) | [SHIVANZ](https://open.spotify.com/artist/4MBHszd8aiPzSPFbhVdgWd), [Khees](https://open.spotify.com/artist/1BHw3WBP5PMEK46dxleEU6), [Vassan](https://open.spotify.com/artist/45LqXqQ2O3hjKJOIR7IQNw) | [IRANTHA MANITHAN](https://open.spotify.com/album/4o3tcxuQMzk7VJYC80BdQI) | 2:46 | 2026-05-21 |  |
 | [Irumbile Oru Idhaiyam](https://open.spotify.com/track/2nw99OdSVWFWzEdbYuoOer) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lady Kash](https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a) | [Enthiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64fHKUIMRdOSsIpF6lLWqo) | 5:14 | 2022-02-08 | 2025-04-19 |
 | [Irumugan Settai](https://open.spotify.com/track/5f7PjIN9Pteq1wLcJSr04j) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Kavithai Gundar Emcee Jesz](https://open.spotify.com/artist/0IgjS3dLT0iIeicb9LUYtp), [Steeve Vatz](https://open.spotify.com/artist/3sLPM8QB88uAFkElbhJWCp), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Iru Mugan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uUbjHmv6CglcQkRnFyBsz) | 4:07 | 2022-02-08 | 2025-04-19 |
 | [Irunga Bhai \- Rithick J Remix](https://open.spotify.com/track/3dRCENAwGJqzOCn2vKUtxF) | [Rithick J](https://open.spotify.com/artist/5sNh00l51uyMWZgaCcflnq), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Irunga Bhai \(Remix\)](https://open.spotify.com/album/5oDtNpXdptB3nVS3G1uqHu) | 2:20 | 2025-05-02 | 2026-02-06 |

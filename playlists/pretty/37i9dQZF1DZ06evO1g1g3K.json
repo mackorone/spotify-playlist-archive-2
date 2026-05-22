@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7192,
+  "num_followers": 7201,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAAAfW1FquzBH5lXxzoaI35Kh",
+  "snapshot_id": "agz5gAAAAAAEaYHu2rE5x/Ox4ytRANFj",
   "tracks": [
     {
       "added_at": null,
@@ -310,15 +310,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 235221,
-      "name": "AYO!",
-      "url": "https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx"
+      "duration_ms": 189625,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
     },
     {
       "added_at": null,
@@ -386,11 +382,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 189625,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+      "duration_ms": 284562,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
     },
     {
       "added_at": null,
@@ -460,13 +460,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 284562,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
+      "duration_ms": 235221,
+      "name": "AYO!",
+      "url": "https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx"
     },
     {
       "added_at": null,

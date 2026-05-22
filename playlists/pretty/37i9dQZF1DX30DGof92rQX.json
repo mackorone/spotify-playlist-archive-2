@@ -1,13 +1,173 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Elijah Solo, JBinternational",
-  "num_followers": 18574,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Sheheryar Rehan",
+  "num_followers": 18578,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgJKUogvnytYVqOmAM3Dj32emvN",
+  "snapshot_id": "AAAAAMCsJBzTG0Mlyy0E/iYX+0FWFz90",
   "tracks": [
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Kya Kehnay",
+        "url": "https://open.spotify.com/album/3ZeViaOtD6B4gaCQiTrpRm"
+      },
+      "artists": [
+        {
+          "name": "Sheheryar Rehan",
+          "url": "https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Kya Kehnay",
+      "url": "https://open.spotify.com/track/370aTpm5frZGBvFp96hfxB"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Kami",
+        "url": "https://open.spotify.com/album/4RVPpahSbyKptR5HNyXBqZ"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6xA10nNluk8fggCxN1hoI7"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Lost In Love (feat. Shahid Hussain)",
+        "url": "https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "Damsaaz",
+          "url": "https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i"
+        },
+        {
+          "name": "Shahid Hussain",
+          "url": "https://open.spotify.com/artist/1P94Xkn1NMWS1uK4uGJ1x5"
+        }
+      ],
+      "duration_ms": 499723,
+      "name": "Lost In Love (feat. Shahid Hussain)",
+      "url": "https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Ambran De Taare",
+        "url": "https://open.spotify.com/album/0jB7gUuSgXDjy72P0NUrPr"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Ambran De Taare",
+      "url": "https://open.spotify.com/track/4Vv92d0E3lZIdjCblsag05"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Tanha",
+        "url": "https://open.spotify.com/album/19uOoW5bsgN8TOz1mogsJs"
+      },
+      "artists": [
+        {
+          "name": "Shahrukh Sarfraz",
+          "url": "https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm"
+        },
+        {
+          "name": "Sabat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        }
+      ],
+      "duration_ms": 207747,
+      "name": "Tanha",
+      "url": "https://open.spotify.com/track/3QCbyOLcS5vVoTMQhhyRT5"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "100x",
+        "url": "https://open.spotify.com/album/4nvYlfiD2PymVp5iOG8Rob"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        },
+        {
+          "name": "PDNY",
+          "url": "https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "100x",
+      "url": "https://open.spotify.com/track/7jfttcqRiosyIHHy943hDX"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Sink or Swim",
+        "url": "https://open.spotify.com/album/5SkbnMiSler2MvRXCULifT"
+      },
+      "artists": [
+        {
+          "name": "Khudgharz Official",
+          "url": "https://open.spotify.com/artist/6L2yfQRH3GMXE6WutO0CD8"
+        },
+        {
+          "name": "Usaid Zahid",
+          "url": "https://open.spotify.com/artist/0wyMXIvIhGIncSVRDa7rB4"
+        },
+        {
+          "name": "Asjad Khan",
+          "url": "https://open.spotify.com/artist/6DBJMpECQvexgaJBnqcHZU"
+        }
+      ],
+      "duration_ms": 195067,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/0b1ibGlvrvub69Brb090pI"
+    },
+    {
+      "added_at": "2026-05-22 03:00:17",
+      "album": {
+        "name": "Chaap Tilak",
+        "url": "https://open.spotify.com/album/4j9yeIcM21H52ujDGRU6KU"
+      },
+      "artists": [
+        {
+          "name": "Zaryab Sultan",
+          "url": "https://open.spotify.com/artist/0SCletlWI0dg6idiWNXi59"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/308i9qGA1EhPyfXMpxqWpB"
+    },
     {
       "added_at": "2026-05-19 10:19:25",
       "album": {
@@ -489,7 +649,7 @@
         },
         {
           "name": "Roshaan",
-          "url": "https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3"
+          "url": "https://open.spotify.com/artist/29VtRmd2SZF4mePMwlfFJI"
         },
         {
           "name": "Amna Riaz",
@@ -1531,66 +1691,6 @@
     {
       "added_at": "2026-05-19 10:19:25",
       "album": {
-        "name": "Makeen",
-        "url": "https://open.spotify.com/album/0KnBA6g5wijbHqX0du6Y67"
-      },
-      "artists": [
-        {
-          "name": "Salem Sandhu",
-          "url": "https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45"
-        },
-        {
-          "name": "Taimour Baig",
-          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
-        },
-        {
-          "name": "Nimit",
-          "url": "https://open.spotify.com/artist/3TdHRd70lcxwkOZwCiiCw3"
-        }
-      ],
-      "duration_ms": 235107,
-      "name": "Makeen",
-      "url": "https://open.spotify.com/track/7z57msE7DnUFuv2RA11GMC"
-    },
-    {
-      "added_at": "2026-05-19 10:19:25",
-      "album": {
-        "name": "Aise Kaise",
-        "url": "https://open.spotify.com/album/4ww9YpHkOnEUYaP3l2MgXc"
-      },
-      "artists": [
-        {
-          "name": "Hamzay",
-          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
-        },
-        {
-          "name": "Sajjal Zee",
-          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "Aise Kaise",
-      "url": "https://open.spotify.com/track/1d3Rjs8b9MR8MJLXyxWeRe"
-    },
-    {
-      "added_at": "2026-05-19 10:19:25",
-      "album": {
-        "name": "Awaara",
-        "url": "https://open.spotify.com/album/4C8jHXBFG09uQ4pI7fSKq5"
-      },
-      "artists": [
-        {
-          "name": "Fakhar Anjum",
-          "url": "https://open.spotify.com/artist/1nC5tVdFsI5uHCzZAyvH0p"
-        }
-      ],
-      "duration_ms": 146544,
-      "name": "Awaara",
-      "url": "https://open.spotify.com/track/5Ns4aGNInVLUTGv6FNMGrI"
-    },
-    {
-      "added_at": "2026-05-19 10:19:25",
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/4oRYqVWHzqOLvSioB67CZg"
       },
@@ -1603,46 +1703,6 @@
       "duration_ms": 236385,
       "name": "Gaata Nahi",
       "url": "https://open.spotify.com/track/0Wfc9EYr9b0EpU1wh9nVsc"
-    },
-    {
-      "added_at": "2026-05-19 10:19:25",
-      "album": {
-        "name": "Ikko Mik",
-        "url": "https://open.spotify.com/album/6HaMAHYuNLiNeqg6t7rtrv"
-      },
-      "artists": [
-        {
-          "name": "Star Shah",
-          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
-        },
-        {
-          "name": "Ezio",
-          "url": "https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Ikko Mik",
-      "url": "https://open.spotify.com/track/57Qq8JHugV4a1jsyAUdnGQ"
-    },
-    {
-      "added_at": "2026-05-19 10:19:25",
-      "album": {
-        "name": "Mahi",
-        "url": "https://open.spotify.com/album/1iMGhNKX3lB6atrVLU6Mcx"
-      },
-      "artists": [
-        {
-          "name": "Alymdr",
-          "url": "https://open.spotify.com/artist/5txRSR5ocSveUKY5iwltVD"
-        },
-        {
-          "name": "AliSoomroMusic",
-          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Mahi",
-      "url": "https://open.spotify.com/track/3Yy0SH5eCQV4uZKlwHPRu2"
     }
   ],
   "unique_name": "New Pakistani Pop",

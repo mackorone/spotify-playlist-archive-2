@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "18%",
+        "url": "https://open.spotify.com/album/2q5xlLcWDHtiXzi2x5mNU8"
+      },
+      "artists": [
+        {
+          "name": "Particle",
+          "url": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "18%",
+      "url": "https://open.spotify.com/track/3vL4g50ydwSWZzipKfq6NG"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
@@ -60,7 +82,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 226000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U"
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 180689,
       "name": "BK2U",
       "url": "https://open.spotify.com/track/3TRvpDW7AhcJ48Mr3OnFj6"
@@ -2128,7 +2150,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 211885,
       "name": "CHARGIE - Rendah Edit",
       "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
@@ -2835,6 +2857,32 @@
     },
     {
       "album": {
+        "name": "Detrimental",
+        "url": "https://open.spotify.com/album/2cbPBXtln8OSyB8GSxkE5d"
+      },
+      "artists": [
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
+        },
+        {
+          "name": "Kreed",
+          "url": "https://open.spotify.com/artist/7FDqjelq6VOFQ1Twv8SjLh"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Detrimental",
+      "url": "https://open.spotify.com/track/51KpGM5O4gfSuU0xH7db5K"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL"
       },
@@ -3144,7 +3192,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 133714,
       "name": "Do This",
       "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
@@ -6146,7 +6194,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 231724,
       "name": "Inside The Rider - TC & Original Sin 2000's Remix",
       "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
@@ -7028,7 +7076,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 191034,
       "name": "Lock Arf",
       "url": "https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ"
@@ -8609,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "Onyx / Rear View Mirror",
+        "url": "https://open.spotify.com/album/3ImmcfR5kl0clmGsbqVzJn"
+      },
+      "artists": [
+        {
+          "name": "Kasra",
+          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269086,
+      "name": "Onyx",
+      "url": "https://open.spotify.com/track/6Tx0JEmi2qanyvBpDCVG4l"
+    },
+    {
+      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
       },
@@ -8676,6 +8742,28 @@
       "duration_ms": 181343,
       "name": "Original Sound",
       "url": "https://open.spotify.com/track/4JJ1SUjJwPMGzwwQTzaB7K"
+    },
+    {
+      "album": {
+        "name": "Original Style",
+        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154566,
+      "name": "Original Style",
+      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
     },
     {
       "album": {
@@ -10288,7 +10376,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 225856,
       "name": "Rigid Lord",
       "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
@@ -10636,7 +10724,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 175522,
       "name": "Saints",
       "url": "https://open.spotify.com/track/28QTqDLE9jeOHNiMRtkquc"
@@ -10782,6 +10870,24 @@
       "duration_ms": 137333,
       "name": "Security",
       "url": "https://open.spotify.com/track/34XD74XzRNiojWYXAveUKj"
+    },
+    {
+      "album": {
+        "name": "Sekkle Down / Flashbang",
+        "url": "https://open.spotify.com/album/0RvkfjOx7yV5tWmCOvvH3I"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201771,
+      "name": "Sekkle Down",
+      "url": "https://open.spotify.com/track/4UvNpB34prfOcMKuF4fGWB"
     },
     {
       "album": {
@@ -11222,6 +11328,36 @@
       "duration_ms": 234731,
       "name": "SMASH",
       "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        },
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150653,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
     },
     {
       "album": {
@@ -12593,6 +12729,24 @@
     },
     {
       "album": {
+        "name": "Buff Voltage",
+        "url": "https://open.spotify.com/album/37FOFewVm8DNBQJ2UU5Amp"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
+    },
+    {
+      "album": {
         "name": "THE WAY I ROLL",
         "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
@@ -12660,6 +12814,32 @@
       "duration_ms": 219428,
       "name": "This Is Goodbye",
       "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
+    },
+    {
+      "album": {
+        "name": "Thriller / Good Ol' Days",
+        "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Logan D",
+          "url": "https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA"
+        },
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
     },
     {
       "album": {
@@ -12813,6 +12993,32 @@
     },
     {
       "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160172,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
+    },
+    {
+      "album": {
         "name": "Tour",
         "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
       },
@@ -12880,6 +13086,28 @@
       "duration_ms": 165560,
       "name": "Trouble You",
       "url": "https://open.spotify.com/track/05LJS5peVvEBurQfv6YzvB"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/7FKH6IYedYwXxLrl7xbwkO"
+      },
+      "artists": [
+        {
+          "name": "ATMOS",
+          "url": "https://open.spotify.com/artist/7ir5sEYh8dBWjSGwv2cA6r"
+        },
+        {
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307546,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5EYDGAOOQb4OGoC59TNHoP"
     },
     {
       "album": {
@@ -13076,7 +13304,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 214588,
       "name": "Vigilante Kru",
       "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
@@ -13796,7 +14024,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 157714,
       "name": "Yard Shop",
       "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"

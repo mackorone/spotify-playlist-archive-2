@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 206253,
+  "num_followers": 206258,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
-        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ladies Night - Single Version",
-      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 350240,
       "name": "Heart Of Glass [24-Bit Digitally Remastered 01] - Remastered 2001",
       "url": "https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
+        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ladies Night - Single Version",
+      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "T\u00e9l\u00e9phone-moi / Tu m'avais dit - Single",
-        "url": "https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "T\u00e9l\u00e9phone-moi",
-      "url": "https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Dancing Disco (Edition Deluxe) [Remasteris\u00e9 en 2004]",
         "url": "https://open.spotify.com/album/2tJBpkXgpcxb59u0Pi3FMi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 325520,
       "name": "Musique - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/0TrSWhokDH5OfUdvU2qIdJ"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "T\u00e9l\u00e9phone-moi / Tu m'avais dit - Single",
+        "url": "https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "T\u00e9l\u00e9phone-moi",
+      "url": "https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob"
     },
     {
       "added_at": "2026-03-19 15:33:21",

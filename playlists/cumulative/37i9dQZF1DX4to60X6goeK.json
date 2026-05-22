@@ -942,7 +942,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 183660,
       "name": "Brimstone Buckle",
       "url": "https://open.spotify.com/track/30QpRwLvwAuq6OYlzXRHIA"
@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+      },
+      "artists": [
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+    },
+    {
+      "album": {
         "name": "Feel The Pulse",
         "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
       },
@@ -2685,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+    },
+    {
+      "album": {
         "name": "Goose Chase",
         "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
@@ -2868,6 +2904,28 @@
       "duration_ms": 226206,
       "name": "Hello (feat. Maozon & Azumai)",
       "url": "https://open.spotify.com/track/23Vn7VE8KRQ8S97YtWqHQs"
+    },
+    {
+      "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "KRITIKAL",
+          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
     },
     {
       "album": {
@@ -3302,7 +3360,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 218057,
       "name": "Irresistible",
       "url": "https://open.spotify.com/track/7wGSVbWBbiLALD9Wst8tJs"
@@ -5142,7 +5200,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 167314,
       "name": "PURPOSE",
       "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
@@ -6052,7 +6110,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202971,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/1uPTyh9D2w6G1l6Hi6fU2k"
@@ -6704,6 +6762,32 @@
       "duration_ms": 181028,
       "name": "Thrill Seekers - Serum Remix",
       "url": "https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf"
+    },
+    {
+      "album": {
+        "name": "Thriller / Good Ol' Days",
+        "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Logan D",
+          "url": "https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA"
+        },
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
     },
     {
       "album": {

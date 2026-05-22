@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "All energy. Cover: DJ Seinfeld",
+  "description": "All energy. Cover: TOKiMONSTA",
   "name": "Open Air",
   "tracks": [
     {
@@ -7734,7 +7734,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 158709,
       "name": "Elktorn",
       "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
@@ -14271,6 +14271,24 @@
     },
     {
       "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/2iY3g0sYtGjooe98tq46MB"
       },
@@ -18172,6 +18190,24 @@
       "duration_ms": 276585,
       "name": "Move - Sam Shure Remix",
       "url": "https://open.spotify.com/track/1JXDtOUUuHubVMxdgUXpTZ"
+    },
+    {
+      "album": {
+        "name": "Move Fast",
+        "url": "https://open.spotify.com/album/1gj4TQsskHJ1J4AJGijJR0"
+      },
+      "artists": [
+        {
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169964,
+      "name": "Move Fast",
+      "url": "https://open.spotify.com/track/1tqWpGRSQBFoG3z7e9mzAz"
     },
     {
       "album": {
@@ -23111,6 +23147,24 @@
     },
     {
       "album": {
+        "name": "Sassy",
+        "url": "https://open.spotify.com/album/4WS9pJ9OgY1DGamXbo7grr"
+      },
+      "artists": [
+        {
+          "name": "Samantha Loveridge",
+          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186993,
+      "name": "Sassy",
+      "url": "https://open.spotify.com/track/6yDz1uegyUcVxwrcLUo1Ke"
+    },
+    {
+      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/3uI67VYBj1l3aq2q5Or0NH"
       },
@@ -26426,7 +26480,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 313500,
       "name": "Take Me To The Moon - Gerd Edit",
       "url": "https://open.spotify.com/track/4ygJ9RuE16fnMJby8yHJPg"

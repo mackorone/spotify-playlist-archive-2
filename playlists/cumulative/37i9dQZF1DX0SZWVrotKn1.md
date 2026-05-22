@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-128 songs - 7 hr 33 min
+129 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 | 2021-09-24 |  |
 | [En la Disco Bailoteo](https://open.spotify.com/track/0TPtgGLAnkza6zOQNKmJLm) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Desafio](https://open.spotify.com/album/0hJYOLvDjAzfXOrZkKoj4l) | 2:46 | 2021-09-24 |  |
 | [En la Disco Bailoteo](https://open.spotify.com/track/7cR0WA3PqJD25CNpTXklIn) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Desafio](https://open.spotify.com/album/0auLRTywoVrgvNauwp5clw) | 2:46 | 2022-02-11 | 2024-04-19 |
+| [En Las Noches Frias](https://open.spotify.com/track/0a0JiZejbYYem1W31fldde) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Real G 4 Life](https://open.spotify.com/album/4YvY8BtNomELHU0cdO3kMW) | 4:15 | 2026-05-21 |  |
 | [En Su Nota](https://open.spotify.com/track/3YT1coaqAGWLRBIBJOu8AN) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Mackie Ranks](https://open.spotify.com/artist/7McDZo4Ggmx1nSdgki7E0s) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:39 | 2021-09-24 |  |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-09-30 | 2024-04-19 |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2021-09-24 |  |
@@ -49,7 +50,7 @@
 | [Felina](https://open.spotify.com/track/7q3LolFezXFZttcirStxsD) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 3:37 | 2021-09-24 | 2022-02-12 |
 | [Freakytona \(feat\. Plan B\)](https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Boy Wonder Presents Chosen Few Grandes Exitos](https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN) | 3:05 | 2023-04-20 | 2024-04-19 |
 | [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2021-09-24 |  |
-| [Fuera Del Planeta \(Remix\)](https://open.spotify.com/track/3IAmbUs1NB8XwfhNYUXuLA) | [Eloy](https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Fuera Del Planeta \(Remix\)](https://open.spotify.com/album/2WL5elAhlbqOCSfMn586u5) | 3:42 | 2026-05-13 |  |
+| [Fuera Del Planeta \(Remix\)](https://open.spotify.com/track/3IAmbUs1NB8XwfhNYUXuLA) | [Eloy](https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Fuera Del Planeta \(Remix\)](https://open.spotify.com/album/2WL5elAhlbqOCSfMn586u5) | 3:42 | 2026-05-13 | 2026-05-22 |
 | [Gata Fiera](https://open.spotify.com/track/39FpzJz9HbSiTxe97cK4LE) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/2Ad0DfADp2tuavRPiB7h17) | 3:28 | 2021-09-24 |  |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/0xejnOURTSwXE4wuYshsxY) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 3:28 | 2023-04-20 | 2024-04-19 |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 | 2022-02-11 | 2023-11-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1563824,
+  "num_followers": 1564144,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 350723,
+      "name": "Diamonds on the Soles of Her Shoes",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 254020,
       "name": "Nervous Tics",
       "url": "https://open.spotify.com/track/2oJ8Il24SIiDCJv39RYzPp"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 350723,
-      "name": "Diamonds on the Soles of Her Shoes",
-      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 199160,
       "name": "Lady Brown (feat. Cise Starr from CYNE)",
       "url": "https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Existe Uma Voz",
-      "url": "https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 547983,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/7q3kkfAVpmcZ8g6JUThi3o"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Abattoir Blues / The Lyre of Orpheus",
-        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 411386,
-      "name": "O Children",
-      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 251253,
       "name": "The Logical Song - Remastered 2010",
       "url": "https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 411386,
+      "name": "O Children",
+      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "In Your Room",
+        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Situation - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "The Boatman's Call (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
       },
@@ -2283,18 +2299,18 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "In Your Room",
-        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+        "name": "Third",
+        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Situation - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+      "duration_ms": 270960,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2315,18 +2331,18 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 270960,
-      "name": "The Rip",
-      "url": "https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh"
+      "duration_ms": 308800,
+      "name": "So Far Away - Full Version",
+      "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2359,22 +2375,6 @@
       "duration_ms": 413947,
       "name": "Time - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Brothers In Arms (Remastered)",
-        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 308800,
-      "name": "So Far Away - Full Version",
-      "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2455,6 +2455,22 @@
       "duration_ms": 231453,
       "name": "Strict Machine",
       "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 480466,
+      "name": "Aja",
+      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2559,22 +2575,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 480466,
-      "name": "Aja",
-      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Ghost In The Machine (Remastered)",
         "url": "https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A"
       },
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 385520,
-      "name": "An Eagle In Your Mind",
-      "url": "https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 298400,
       "name": "Heaven Or Las Vegas",
       "url": "https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 385520,
+      "name": "An Eagle In Your Mind",
+      "url": "https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO"
     },
     {
       "added_at": "2026-05-15 12:32:26",

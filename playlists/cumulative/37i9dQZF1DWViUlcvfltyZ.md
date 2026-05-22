@@ -4,7 +4,7 @@
 
 > Brao Krano, te te si merità el David de Donateo par "Le città di pianura" 🎸
 
-1,962 songs - 4 day 13 hr 37 min
+1,967 songs - 4 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Preda dei venti](https://open.spotify.com/album/7B0UiGsUxljGcZd3qKLsDA) | 2:56 | 2025-10-23 | 2026-01-30 |
 | [Bright Black Hole](https://open.spotify.com/track/3cVTr5LRWm1ypwCUjfWN2t) | [Big Mountain County](https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm) | [Bright Black Hole](https://open.spotify.com/album/1B53G1w8WQBYc18ynX2waG) | 3:20 | 2024-11-14 | 2025-01-03 |
 | [Brilla](https://open.spotify.com/track/69794T4KbrULnP9yLn1nMW) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [Brilla](https://open.spotify.com/album/5PxxsDsiDpxzLdDtJf8YAS) | 2:50 | 2025-08-07 | 2025-08-22 |
+| [Bring beers and food](https://open.spotify.com/track/3qldGxGO2yO9fSDB9mfoke) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [Bring beers and food](https://open.spotify.com/album/7HxsPjxKYkERworsy4xi3J) | 2:22 | 2026-05-21 |  |
 | [Broccoletti Goes Punk](https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk) | [Marchiza](https://open.spotify.com/artist/1dyLjZ261DhTy6Qq2EmNJJ) | [Broccoletti Goes Punk](https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR) | 2:39 | 2023-06-08 | 2023-06-30 |
 | [Broken Nail](https://open.spotify.com/track/29kDL6QqnMUNkWIQcIebBA) | [Angel Names](https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1) | [Angel Names](https://open.spotify.com/album/1dkrGnnxviIKFebSeN5FMI) | 1:44 | 2026-05-07 |  |
 | [Brucia](https://open.spotify.com/track/43HCIcHLLc6VnoAlrb0P12) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:40 | 2024-10-24 | 2025-09-12 |
@@ -765,6 +766,7 @@
 | [i wish i was here first](https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [i wish i was here first](https://open.spotify.com/album/0mBwWspqqTgpK65iwSnM0t) | 3:40 | 2023-09-29 | 2023-10-27 |
 | [I Wish You Were Dead](https://open.spotify.com/track/6op6zm0kRq71pCpZhyEiNu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [I Wish You Were Dead](https://open.spotify.com/album/2uNibRozoqsBCjT6G3sJlI) | 2:52 | 2025-02-13 | 2025-06-06 |
 | [I Won't Give Up](https://open.spotify.com/track/2tS1ua5WnmQ2qvQGj1ZwyZ) | [Radio Days](https://open.spotify.com/artist/7LM0cY0xBymEhYollo3Zc6) | [I Won't Give Up](https://open.spotify.com/album/6a3jWiyOJr3UCOXg908udZ) | 2:30 | 2026-03-26 | 2026-04-24 |
+| [I'll be different](https://open.spotify.com/track/3rZrKLeYRDfslSrdUa3gmV) | [a nice noise](https://open.spotify.com/artist/0DLoI8l8Q2Pm4iPnk6H6RJ) | [I'll be different](https://open.spotify.com/album/0quZLEsTru6FnklFLXRhkT) | 4:28 | 2026-05-21 |  |
 | [I'm Not Holy \- Radio Edit](https://open.spotify.com/track/0YXLBeFiIN51J8VgnAjx9V) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [FOREVER PART ONE](https://open.spotify.com/album/2bXaWCdUz5Hm1ue2Zg9lAJ) | 3:24 | 2025-10-02 | 2025-11-14 |
 | [I've made big decision](https://open.spotify.com/track/4zfNlVDnK9H1UVtFdYYSbe) | [LELAND DID IT](https://open.spotify.com/artist/32QkiHU5uqxQVCPUU31M4b) | [I've made big decision](https://open.spotify.com/album/7yhlRcEfp6JaoOjCaxZM31) | 2:56 | 2024-07-18 | 2024-09-20 |
 | [I.KNOW.YOU.KNOW.IT.](https://open.spotify.com/track/7u14JXY85GbajBwcFPWbxD) | [Indigo Quest](https://open.spotify.com/artist/5faxdMwaZrv6bLYLWHhbrf) | [I.KNOW.YOU.KNOW.IT.](https://open.spotify.com/album/3nVkK5RaSLXYld21Z4t9re) | 3:07 | 2023-02-23 | 2023-03-18 |
@@ -1093,6 +1095,7 @@
 | [Mille pare](https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Mille pare](https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO) | 2:54 | 2023-04-27 | 2023-06-09 |
 | [Mille Piani](https://open.spotify.com/track/3o7EdyXqPAZPx36deUBCfd) | [loucani](https://open.spotify.com/artist/6pAFgV8euIo2uZ6RC8K3Gf) | [Mille Piani](https://open.spotify.com/album/6C1ZrVKAngW23paIN6bqJ6) | 3:51 | 2024-12-12 | 2025-01-24 |
 | [Minotauro](https://open.spotify.com/track/0LBVX7wOR1PBThlKHpoyLW) | [Serpenti](https://open.spotify.com/artist/7uGoFZlVfI0evNWPpZS0ea) | [Minotauro](https://open.spotify.com/album/0aTMRpWfh5BswfjfwqLDIz) | 3:18 | 2023-04-06 | 2023-05-05 |
+| [Mira](https://open.spotify.com/track/2cJQpVx6bUpqiR6y2PKUy7) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Mira](https://open.spotify.com/album/2piSSxwWGQmBXWAG2sK3K7) | 2:43 | 2026-05-21 |  |
 | [Mirada](https://open.spotify.com/track/36714QykWhcdZWxrDWmtY3) | [Flâneur](https://open.spotify.com/artist/1kP6YRt9BAq12i8bRSKYMw) | [Mirada](https://open.spotify.com/album/7kksBlEMHcf9VJtR0No9IT) | 3:37 | 2025-09-11 | 2025-09-19 |
 | [Miss U](https://open.spotify.com/track/1HQedoNPn1gVainuzupvx4) | [A Toys Orchestra](https://open.spotify.com/artist/05Z2LDnNWKPgdeYe8kngbf) | [Midnight Again](https://open.spotify.com/album/6WZH72yZ4bBIeLOiAKggch) | 4:18 | 2024-03-21 | 2024-05-10 |
 | [Miyazaki](https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI 2](https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu) | 3:02 | 2023-03-09 | 2023-04-14 |
@@ -1300,6 +1303,7 @@
 | [Pazienza](https://open.spotify.com/track/20SO4g5wd5zzlGnNs7ozx1) | [sugo!](https://open.spotify.com/artist/4XlwChJZMvD9wHlr9Q37EC) | [Pazienza / Moltisanti](https://open.spotify.com/album/1BRCoMeuxVbE5Z1zVrVhZO) | 3:36 | 2026-04-16 |  |
 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-02-07 | 2024-03-29 |
 | [Peace, Love & Baci](https://open.spotify.com/track/4PctvPj74TBnCxOV3enMNq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Peace, Love & Baci](https://open.spotify.com/album/4Y0Wt6sds3NlNilCUehZfK) | 4:03 | 2024-09-12 | 2024-10-25 |
+| [PEGGIO DI ME](https://open.spotify.com/track/3sSrXL7P0CY5XZ0W1FGoMb) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [PEGGIO DI ME](https://open.spotify.com/album/4RTxDIx7JnIKBmvB97KPYt) | 2:51 | 2026-05-21 |  |
 | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/album/6kN7YHy1mqESjJ64D8YQFD) | 6:17 | 2022-12-15 | 2023-01-20 |
 | [Penelope](https://open.spotify.com/track/2KIJudqFS0E1ZQD6Axo31w) | [Quiet for a While](https://open.spotify.com/artist/0DPuuuWTYZHL6kG5FuRiDd) | [Until Now](https://open.spotify.com/album/61orOsh8nLbhlwhkl3bKGx) | 3:32 | 2025-01-23 | 2025-04-04 |
 | [Penetration](https://open.spotify.com/track/7bR9gqiArXWDKX0VRC2quB) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Penetration](https://open.spotify.com/album/4l72zkQShk34uHPvNMTnnI) | 2:58 | 2024-09-26 | 2024-11-15 |
@@ -1555,6 +1559,7 @@
 | [Sexy solitudini](https://open.spotify.com/track/34WPnL7WsZfAlTc2CoX9dh) | [MIGLIO](https://open.spotify.com/artist/3hlMj1IgrGj38QOpyDVSj6) | [Sexy solitudini](https://open.spotify.com/album/0DJNBmiNV1FbNjvWpL9pVP) | 3:17 | 2023-01-26 | 2023-02-24 |
 | [Sfortuna](https://open.spotify.com/track/4xyYHVnivJt9gT9dMIH58H) | [ADA](https://open.spotify.com/artist/2uS7BJhs2VgVCgeFzMnecg) | [Sfortuna](https://open.spotify.com/album/30gsWWP9QKJ1qgVFMWuKQA) | 2:45 | 2025-03-20 | 2025-06-06 |
 | [shaolin master](https://open.spotify.com/track/5meiab2D8zG8Hcgxr81tT4) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [shaolin master](https://open.spotify.com/album/5eTdV9V55pm19dePxCHgKQ) | 2:50 | 2026-05-14 |  |
+| [She](https://open.spotify.com/track/7l8Ib7UVlzfZijEBe0zA90) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [She](https://open.spotify.com/album/5qJNYQbW8Q4LRo2ZHMVSPQ) | 2:55 | 2026-05-21 |  |
 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 | 2023-03-16 | 2023-05-26 |
 | [Shhh.](https://open.spotify.com/track/1o135lY1qAAupB72BNb8jK) | [Johnny Mox](https://open.spotify.com/artist/4XzJm38kgQbtmqhXP3yfsk) | [Anni Venti](https://open.spotify.com/album/6BWEyWZY8KZfuBPh0fhVgN) | 2:29 | 2023-11-16 | 2024-01-12 |
 | [Shirly](https://open.spotify.com/track/7elf321mzsREI27HuwWWGC) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [Humblekids](https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk) | 4:41 | 2022-06-30 | 2022-08-26 |

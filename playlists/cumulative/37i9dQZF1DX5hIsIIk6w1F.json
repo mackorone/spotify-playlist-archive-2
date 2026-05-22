@@ -14781,6 +14781,24 @@
     },
     {
       "album": {
+        "name": "MITI MITI",
+        "url": "https://open.spotify.com/album/1XtDNwrcvhbQU2fnJCv6ni"
+      },
+      "artists": [
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "MITI MITI",
+      "url": "https://open.spotify.com/track/50rcWumzsUYyfYzfSZWtSY"
+    },
+    {
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/3tjyZ0FLir461e9186THU5"
       },
@@ -16728,7 +16746,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 182842,
       "name": "PA LA DISCO",
       "url": "https://open.spotify.com/track/2M83lvvb4knAyXgyEqhXUl"

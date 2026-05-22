@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 277490,
+  "num_followers": 277873,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "The Best Of Snoop Dogg",
-        "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Uncle Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B"
-        }
-      ],
-      "duration_ms": 299146,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "The Best Of Snoop Dogg",
+        "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Uncle Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B"
+        }
+      ],
+      "duration_ms": 299146,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD"
     },
     {
       "added_at": "2024-07-15 07:37:26",

@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 215196,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Coisas da Vida",
+        "url": "https://open.spotify.com/album/1UJSIqXoXSgeZMGwrY0jT7"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/1jmlizXsOJiT8KNyOiQKEn"
+    },
+    {
+      "album": {
         "name": "Cole\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG"
       },
@@ -1054,6 +1072,24 @@
       "duration_ms": 132106,
       "name": "dear god",
       "url": "https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg"
+    },
+    {
+      "album": {
+        "name": "A, Vol. 1",
+        "url": "https://open.spotify.com/album/39WweArKti3Y2cvkVCi84M"
+      },
+      "artists": [
+        {
+          "name": "Fiuk",
+          "url": "https://open.spotify.com/artist/0SVSq6V4n9dDVeIZifohqN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "Dentro e Fora de Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Oooy53VLeg8KUejMG6OvH"
     },
     {
       "album": {
@@ -3284,7 +3320,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"

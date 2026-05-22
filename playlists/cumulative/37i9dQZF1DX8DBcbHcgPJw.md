@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Valentino Merlo & Marama
 
-717 songs - 1 day 11 hr 16 min
+718 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Fecha de Vencimiento](https://open.spotify.com/track/2eNsa5wa941kIVWzMEyScX) | [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Fecha de Vencimiento](https://open.spotify.com/album/3b1w2KsLPN1vHEpKOEB3jZ) | 2:16 | 2022-03-04 | 2022-07-29 |
 | [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 | 2022-11-18 |
 | [FINGI DEMENCIA](https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS) | [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [FINGI DEMENCIA](https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk) | 2:06 | 2025-01-10 |  |
+| [FINGIA](https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FINGIA](https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0) | 2:20 | 2026-05-22 |  |
 | [Flasheaste Amor](https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Flasheaste Amor](https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO) | 2:55 | 2021-12-23 | 2025-07-25 |
 | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0) | 2:28 | 2024-03-29 | 2024-10-11 |
 | [Flores](https://open.spotify.com/track/2ovnPmetxieq85ngPR8cTY) | [Fer Silvera](https://open.spotify.com/artist/5HUPhcBE9Bg1LLnFrhRcOy), [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Flores](https://open.spotify.com/album/7HPzHCqMLV5UgaCBDfbVAh) | 2:37 | 2022-03-18 | 2022-04-21 |
@@ -529,7 +530,7 @@
 | [Regresa Hermosa](https://open.spotify.com/track/7fl8i6VN8EHOBxCBK8Bxy4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Regresa Hermosa](https://open.spotify.com/album/6qs6N1TZjAZlkw9bjRK2nQ) | 3:01 | 2023-07-07 | 2023-08-19 |
 | [Resaca](https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Resaca](https://open.spotify.com/album/24dXMmQ2y8B7GAeNcZwHtt) | 2:15 | 2022-08-06 | 2022-11-19 |
 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 | 2022-06-10 | 2023-04-11 |
-| [Romantiko](https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Romantiko](https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh) | 3:14 | 2025-05-30 |  |
+| [Romantiko](https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Romantiko](https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh) | 3:14 | 2025-05-30 | 2026-05-22 |
 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 | 2022-01-07 | 2022-06-08 |
 | [Rubia Mala](https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rubia Mala](https://open.spotify.com/album/0zRpbAVfQ3XdRgtESyQGOg) | 2:18 | 2025-07-11 | 2025-10-10 |
 | [Runaway \- Remasterizado 2024](https://open.spotify.com/track/7yO6mzmybTQPMXOnI752Z2) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Porque Te Fuiste Amor \(Remasterizado 2024\)](https://open.spotify.com/album/6ULVlrnDPR22eOe8RWBglQ) | 3:33 | 2024-04-12 | 2024-04-19 |

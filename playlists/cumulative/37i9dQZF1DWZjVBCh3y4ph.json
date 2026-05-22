@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : SA\u00cfK",
+  "description": "Les hits zouk & kompa du moment. Photo : Na\u00efka x Kalash",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 195409,
       "name": "Bone Aw",
       "url": "https://open.spotify.com/track/4LyAkRVy7fYNeOU0afdJJI"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 238331,
       "name": "J'suis Fait Pour \u00c7a",
       "url": "https://open.spotify.com/track/08dk9ADMEA8QZpLnM05zTU"
@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Juste une night",
+      "url": "https://open.spotify.com/track/5KpNtMpYoA8TvCvfXqNFkr"
+    },
+    {
+      "album": {
         "name": "Kar\u00e9s\u00e9 Mwen (Toi et Moi)",
         "url": "https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5"
       },
@@ -3637,6 +3655,28 @@
     },
     {
       "album": {
+        "name": "LA PLUS BELLE",
+        "url": "https://open.spotify.com/album/2GCwWrc84skmUHojmjzbZQ"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "LA PLUS BELLE",
+      "url": "https://open.spotify.com/track/4MaknY8prcoOslpnvOSgNF"
+    },
+    {
+      "album": {
         "name": "La temp\u00e9rature",
         "url": "https://open.spotify.com/album/1xMMwPytg39U5DRs2lzXXB"
       },
@@ -3762,6 +3802,28 @@
       "duration_ms": 190344,
       "name": "Les autres filles",
       "url": "https://open.spotify.com/track/66GWd4w8J7xqU7cVQahAIU"
+    },
+    {
+      "album": {
+        "name": "Lets Go",
+        "url": "https://open.spotify.com/album/2l3r79SYbbpU5sUVNL55QU"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158017,
+      "name": "Lets Go",
+      "url": "https://open.spotify.com/track/5M9h9QcZIodUWPZ5neMSGe"
     },
     {
       "album": {
@@ -5160,10 +5222,32 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
+    },
+    {
+      "album": {
+        "name": "ONE TRACK MIND (PART II)",
+        "url": "https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "ONE TRACK MIND - PART II",
+      "url": "https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5"
     },
     {
       "album": {
@@ -5474,7 +5558,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 205583,
       "name": "Pap Kite",
       "url": "https://open.spotify.com/track/2ZOwWrwJT2mg0BSW8M8fY8"

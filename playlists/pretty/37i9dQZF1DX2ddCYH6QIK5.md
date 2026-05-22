@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: FLORA, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,487 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,486 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Lippenstift](https://open.spotify.com/track/2YsaM87TAqggQIhrJW2LYm) | [TumirWeh](https://open.spotify.com/artist/0mK80Ptz7OGDPVkyGmVmbS) | [Lippenstift](https://open.spotify.com/album/2XlIXEpDZz0yuOi58ti3KG) | 4:49 |
 | 50 | [Hot Pink Hollywood](https://open.spotify.com/track/31lLpCCw7yDHFPRAmUFiyX) | [fredman](https://open.spotify.com/artist/3Co1a5ANfIPc7gWSFUR0pC) | [Hot Pink Hollywood](https://open.spotify.com/album/6lvBDDbMkhLx0TRgwqUlTx) | 3:41 |
 
-Snapshot ID: `AAAAAGD0W/R/9fJ/OEiqz3aaBitBKHN7`
+Snapshot ID: `AAAAAL3T8casN46PB+6hGV4l5lmlK7fj`

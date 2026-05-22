@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 217249,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 322346,
       "name": "Chalk",
       "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "don't you miss me",
+        "url": "https://open.spotify.com/album/3926g3gdPUSeCr8oILWFVG"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "don't you miss me",
+      "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
+    },
+    {
+      "album": {
         "name": "DON\u2019T LISTEN",
         "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
       },
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 154979,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
@@ -2798,6 +2816,32 @@
       "duration_ms": 211409,
       "name": "Feel It For You",
       "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
+    },
+    {
+      "album": {
+        "name": "feel the flood",
+        "url": "https://open.spotify.com/album/3jZQbJJTBcMtzt9DBsorBs"
+      },
+      "artists": [
+        {
+          "name": "MXGPU",
+          "url": "https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273867,
+      "name": "feel the flood",
+      "url": "https://open.spotify.com/track/1nBtlKbI9hitpFQkJJJS93"
     },
     {
       "album": {
@@ -4117,6 +4161,42 @@
     },
     {
       "album": {
+        "name": "JOY (Light In The Dark)",
+        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298909,
+      "name": "JOY (Light In The Dark)",
+      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "album": {
         "name": "Jumpstart",
         "url": "https://open.spotify.com/album/0EmggiykaPJjUKY75ZC5Nr"
       },
@@ -4262,6 +4342,24 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "album": {
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
     },
     {
       "album": {
@@ -5212,7 +5310,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 219661,
       "name": "Move Time",
       "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
@@ -5958,7 +6056,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 174246,
       "name": "Pink Dress",
       "url": "https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq"
@@ -8164,7 +8262,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 182248,
       "name": "THIEF",
       "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
@@ -8328,6 +8426,24 @@
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"
+    },
+    {
+      "album": {
+        "name": "To Live",
+        "url": "https://open.spotify.com/album/6LYLyqgrvis2OMVkbEphmH"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "To Live",
+      "url": "https://open.spotify.com/track/6zUFj33kQovnQC5x49mwlt"
     },
     {
       "album": {

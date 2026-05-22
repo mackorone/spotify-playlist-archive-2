@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Vadesta",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -7111,6 +7111,28 @@
     },
     {
       "album": {
+        "name": "Pamit Rabi",
+        "url": "https://open.spotify.com/album/2oXecErIJ48hMAWnMgNmxX"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Ajeng Febria",
+          "url": "https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Pamit Rabi",
+      "url": "https://open.spotify.com/track/1dzZqPKyR5JC1yctaNRaM6"
+    },
+    {
+      "album": {
         "name": "Pangarepan",
         "url": "https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu"
       },
@@ -9160,6 +9182,24 @@
       "duration_ms": 360000,
       "name": "Segara Madu - Live",
       "url": "https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45"
+    },
+    {
+      "album": {
+        "name": "Sekip (Setia Kui Pekok)",
+        "url": "https://open.spotify.com/album/1tnRVtz5YEMb8eagnIkgz6"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328320,
+      "name": "Sekip (Setia Kui Pekok)",
+      "url": "https://open.spotify.com/track/4ZiayQbjKSz98hbUygBrc6"
     },
     {
       "album": {

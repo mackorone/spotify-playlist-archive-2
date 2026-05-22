@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 217840,
       "name": "Awaken - Remixed & Remastered",
       "url": "https://open.spotify.com/track/3FwCHASzIbrJu4AN0OfLla"
@@ -26338,6 +26338,24 @@
       "duration_ms": 265115,
       "name": "Go Into the Water - Gulf of Danzig Remix",
       "url": "https://open.spotify.com/track/4fxR8lCCAKs7qrzSXNTV75"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259648,
+      "name": "Go Into the Water - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/50kuGNlkyt5QQJYxhAWceV"
     },
     {
       "album": {

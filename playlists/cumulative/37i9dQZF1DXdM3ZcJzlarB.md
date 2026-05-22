@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Jay de Lys
 
-370 songs - 1 day 10 hr 47 min
+372 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [If I Lose Myself](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [If I Lose Myself](https://open.spotify.com/album/1g0uCrgBP9mMowv9kFyUUm) | 2:20 | 2023-11-17 | 2025-03-20 |
 | [Infieles \- Remix](https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j) | [Desconfiguración, Vol\. 3](https://open.spotify.com/album/2Tft9TpEiPB08wAXHx9HGS) | 7:12 | 2023-11-17 | 2024-05-25 |
 | [It's a Fact](https://open.spotify.com/track/3aJSp4vpoifHifMOtDDclb) | [This & That](https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [It's a Fact](https://open.spotify.com/album/7LyViX8VskJdtrLUX4gGkP) | 5:55 | 2025-06-27 |  |
-| [Itaewon](https://open.spotify.com/track/07zE3OGZPveHE8AHA1grlC) | [Sol Ortega](https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO) | [Itaewon](https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R) | 5:24 | 2025-06-06 |  |
+| [Itaewon](https://open.spotify.com/track/07zE3OGZPveHE8AHA1grlC) | [Sol Ortega](https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO) | [Itaewon](https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R) | 5:24 | 2025-06-06 | 2026-05-22 |
 | [Joyride \- Matias Chilano Remix](https://open.spotify.com/track/56uP20SR1BHfYp4uoVwpdT) | [Taylan](https://open.spotify.com/artist/155MbJrn0MCmFAgt8giNv9), [Matias Chilano](https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw) | [Joyride](https://open.spotify.com/album/5neTfNXLkD7liYQ7dN6wIw) | 7:50 | 2023-11-17 | 2025-06-27 |
 | [Kalamazoo](https://open.spotify.com/track/2ivLGHxaLq8xkJTQ81qpWy) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Kalamazoo](https://open.spotify.com/album/59hloy9hTj7ngQnqgEozpe) | 7:12 | 2025-02-28 | 2025-08-29 |
 | [Koira \- Original Mix](https://open.spotify.com/track/0CjDLYlwzA5fYodhiuz8ps) | [Interaxxis](https://open.spotify.com/artist/2zl4iyBXfZ3XT1imqFX83D) | [Sudbeat Showcrates 7](https://open.spotify.com/album/0oHD8j39LXjrga7A3xXntJ) | 8:10 | 2020-09-04 | 2023-11-18 |
@@ -242,6 +242,7 @@
 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2024-05-24 | 2025-03-20 |
 | [Nobody Knows \- Favio Inker Remix](https://open.spotify.com/track/22ipHLoSfcQF0nRrFV9Mu4) | [Anomali](https://open.spotify.com/artist/3d32u2636SCl64kGxhCkei), [Favio Inker](https://open.spotify.com/artist/64i7ahjMXrc6uxau5V5QuB) | [Nobody Knows](https://open.spotify.com/album/7baeJAKLQjBvkf39u3teM7) | 5:11 | 2025-07-11 |  |
 | [Nocturna](https://open.spotify.com/track/74TtX1Es2HAdJHXkv1pEBm) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr) | [Nocturna](https://open.spotify.com/album/2kNJbQjsJqLpoEHBhdMHZU) | 4:49 | 2025-07-25 | 2025-09-26 |
+| [Non Human Contact](https://open.spotify.com/track/5aTJGLxxM4T8Sy81GnHSy2) | [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s) | [Non Human Contact](https://open.spotify.com/album/4Amq0fOh15I6Nw5sQYbvCw) | 5:37 | 2026-05-22 |  |
 | [Not Need It](https://open.spotify.com/track/3JpR5yPvDNApZeLojtnDR8) | [Josefina Muñoz](https://open.spotify.com/artist/4Sgool8oQXvdpcjQIrS0RO) | [Parasol Palm](https://open.spotify.com/album/1sotqkFkgrgXkspn2Xqrzi) | 7:15 | 2024-01-05 | 2025-07-01 |
 | [Nox \- CAMILA \(AR\) Remix](https://open.spotify.com/track/4HgMvYPGzFsf3RGUtnMp9m) | [Abity](https://open.spotify.com/artist/7nCtQNuasxha0rt4ujHYbd), [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Nox \(CAMILA \(AR\) Remix\)](https://open.spotify.com/album/7aDmgfCeU5wibLvQs7HgPm) | 6:57 | 2025-07-11 | 2025-09-26 |
 | [Oceans](https://open.spotify.com/track/1tRY7bFvl7nNBTKe3Yusia) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came to Reality EP](https://open.spotify.com/album/4mq11SIe9O3SCwMuEIFMcc) | 6:31 | 2020-09-04 | 2023-11-18 |
@@ -282,6 +283,7 @@
 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 | 2023-11-18 |
 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 | 2023-11-17 | 2025-06-27 |
 | [Rockstar \- Giorgio Stefano & Figueredo \(AR\) Remix](https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S) | [Torazza](https://open.spotify.com/artist/0B7BhMVRUOzbqey0IGPlpI), [Figueredo \(AR\)](https://open.spotify.com/artist/4cyoKVb1COMRpx2QNZg8Rk), [Giorgio Stefano](https://open.spotify.com/artist/3NFTYeAHSkEWw2YOtBPQjM) | [Rockstar](https://open.spotify.com/album/4xqNNssTQ9AwP1pMk7gGPd) | 5:34 | 2025-08-29 | 2025-11-07 |
+| [ROLL BASS](https://open.spotify.com/track/2vPoK3jUB2MQurzdRtLISu) | [La Cintia](https://open.spotify.com/artist/1fNABhEytJVAJtJJQaejiP) | [ROLL BASS](https://open.spotify.com/album/0MgRWGzM4WRLj2VocHHvT5) | 6:10 | 2026-05-22 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Royal Road](https://open.spotify.com/track/4MCv2tKMjZ9umshBDKVnPz) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Impetus](https://open.spotify.com/album/33HW8bU05fylO4Dgea6LQj) | 6:22 | 2025-06-13 |  |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-02 | 2025-07-08 |

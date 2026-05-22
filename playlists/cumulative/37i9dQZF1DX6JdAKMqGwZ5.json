@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Tanxugueiras.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: vangoura.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Abrigo de drama",
+        "url": "https://open.spotify.com/album/0sLLkxvhJSax8yNdBxeZhw"
+      },
+      "artists": [
+        {
+          "name": "Cyclo",
+          "url": "https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267028,
+      "name": "Abrigo de drama",
+      "url": "https://open.spotify.com/track/5xAr61d3gfgKaJpP9VokP6"
+    },
+    {
+      "album": {
         "name": "Achantao en 80bpm",
         "url": "https://open.spotify.com/album/160ORYcPxX0QK9Tx49z7Vj"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 109977,
       "name": "Ah! Ah! Ah!",
       "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 180854,
       "name": "Descuidarme",
       "url": "https://open.spotify.com/track/41x6CHgGXKDKiSJxksPRvb"
@@ -4859,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "Eres un Criminal",
+        "url": "https://open.spotify.com/album/1lOGbn8QN7F0k0Qym9Lmmm"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Eres un Criminal",
+      "url": "https://open.spotify.com/track/2Pa22PUyNtcChB5W5Cr0vr"
+    },
+    {
+      "album": {
         "name": "Es una pena",
         "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
       },
@@ -5508,6 +5544,24 @@
       "duration_ms": 172966,
       "name": "Feria Ca\u00f1ete",
       "url": "https://open.spotify.com/track/1hBQfdDpfZ6nQYMH8Ji93R"
+    },
+    {
+      "album": {
+        "name": "Feria de Madrid",
+        "url": "https://open.spotify.com/album/47afrF89OfjEIAu6i2BOyG"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198912,
+      "name": "Feria de Madrid",
+      "url": "https://open.spotify.com/track/1lKVGFjOiZKHx1l8FWUeVB"
     },
     {
       "album": {
@@ -6404,7 +6458,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 145600,
       "name": "iGL\u00fa",
       "url": "https://open.spotify.com/track/4Yx33i7VKzJqimf3tXy6e6"
@@ -7131,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Retales III",
+        "url": "https://open.spotify.com/album/7ybbUW1vBJfbr06fV5wVf6"
+      },
+      "artists": [
+        {
+          "name": "Chica Sobresalto",
+          "url": "https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "La ley de Murphy",
+      "url": "https://open.spotify.com/track/26lCYSf4tymoo8zXx0ZFCV"
+    },
+    {
+      "album": {
         "name": "Los Perros no Entienden Internet (\u2026Y Yo no Entiendo de Sentimientos)",
         "url": "https://open.spotify.com/album/54ioPa0kudt4A9VPR0K3a2"
       },
@@ -7684,7 +7756,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 180556,
       "name": "Llegar a lo m\u00e1s alto",
       "url": "https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF"
@@ -8619,6 +8691,24 @@
     },
     {
       "album": {
+        "name": "Ma\u00f1anas de Euforia",
+        "url": "https://open.spotify.com/album/4o3VecJjnQ3wdrdWouIyqB"
+      },
+      "artists": [
+        {
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Ma\u00f1anas de Euforia",
+      "url": "https://open.spotify.com/track/4gjlcKTl9IifCFpHl1Hbyf"
+    },
+    {
+      "album": {
         "name": "ME ACUERDO DE TODO",
         "url": "https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ"
       },
@@ -9541,6 +9631,28 @@
     },
     {
       "album": {
+        "name": "Nada que decir",
+        "url": "https://open.spotify.com/album/5VWYcz67LH52s7mPivNW0m"
+      },
+      "artists": [
+        {
+          "name": "Ruto Ne\u00f3n",
+          "url": "https://open.spotify.com/artist/327WgTZ4vsVGhVliK40k5T"
+        },
+        {
+          "name": "A Mares",
+          "url": "https://open.spotify.com/artist/67D31GosVGtDFxsQl6DLA6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153883,
+      "name": "Nada que decir",
+      "url": "https://open.spotify.com/track/04VYhmJetbfaJ89fxXUz07"
+    },
+    {
+      "album": {
         "name": "Nada Que Perder",
         "url": "https://open.spotify.com/album/3If9g84i9PdsjEkFiiF0TH"
       },
@@ -9984,7 +10096,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 65321,
       "name": "no me queda energ\u00eda",
       "url": "https://open.spotify.com/track/1X8bOg3XDK38V0rN9sbKxY"
@@ -12024,7 +12136,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 123478,
       "name": "R.A.",
       "url": "https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU"
@@ -13034,7 +13146,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184624,
       "name": "Sobre tu ventana",
       "url": "https://open.spotify.com/track/1JtwJSA3g5fNAdpgoz269g"
@@ -14172,6 +14284,24 @@
       "duration_ms": 256423,
       "name": "tormenta",
       "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
+    },
+    {
+      "album": {
+        "name": "Tormenta de Verano",
+        "url": "https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134556,
+      "name": "Tormenta de Verano",
+      "url": "https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL"
     },
     {
       "album": {
@@ -15566,6 +15696,24 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+    },
+    {
+      "album": {
+        "name": "un viaje eterno",
+        "url": "https://open.spotify.com/album/7DOyGqS22SVN0k8fz8GSDI"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "yo quisiera",
+      "url": "https://open.spotify.com/track/6JW045I5tycJU6hAnCpuFh"
     },
     {
       "album": {

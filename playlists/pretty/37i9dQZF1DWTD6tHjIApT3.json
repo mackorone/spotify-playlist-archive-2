@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: 7co",
-  "num_followers": 136740,
+  "num_followers": 136773,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
+        "name": "LOVE BEAT",
+        "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        },
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "LOVE BEAT",
+      "url": "https://open.spotify.com/track/0RthaAjblef55kS5EoipNJ"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 199080,
       "name": "\u58f0\u306e\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
-        "name": "LOVE BEAT",
-        "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        },
-        {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "LOVE BEAT",
-      "url": "https://open.spotify.com/track/0RthaAjblef55kS5EoipNJ"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
+        "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 251548,
+      "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
         "name": "Words to Follow",
         "url": "https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 191706,
       "name": "Words to Follow",
       "url": "https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
-        "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 223641,
-      "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
-        "url": "https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG"
+        "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT"
       },
       "artists": [
         {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 251548,
-      "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
+      "duration_ms": 223641,
+      "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "DECOTORA15",
-        "url": "https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "DECOTORA15",
-      "url": "https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
         "name": "Sonare",
         "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 203712,
       "name": "Sonare",
       "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
+        "name": "DECOTORA15",
+        "url": "https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "DECOTORA15",
+      "url": "https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "\u7d50\u3005\u306e\u5504",
-        "url": "https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "\u7d50\u3005\u306e\u5504",
-      "url": "https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
         "name": "\u3042\u308f",
         "url": "https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 197066,
       "name": "\u3042\u308f",
       "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
+        "name": "\u7d50\u3005\u306e\u5504",
+        "url": "https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "\u7d50\u3005\u306e\u5504",
+      "url": "https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "Happy Ever After",
-        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
-      },
-      "artists": [
-        {
-          "name": "\u9df2\u5c3e\u4f36\u83dc",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
-        },
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Happy Ever After",
-      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
         "name": "\u7f8e\u8f9e\u5b66",
         "url": "https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 176906,
       "name": "DEAD CENTER",
       "url": "https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
+      },
+      "artists": [
+        {
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "\u685c\u307f\u305f\u3044\u306a\u604b\u306a\u3093\u3060",
-        "url": "https://open.spotify.com/album/03rGHXn48rNINzu3nl5lVf"
-      },
-      "artists": [
-        {
-          "name": "miwa",
-          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
-        }
-      ],
-      "duration_ms": 232652,
-      "name": "\u685c\u307f\u305f\u3044\u306a\u604b\u306a\u3093\u3060",
-      "url": "https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
         "name": "blue hour",
         "url": "https://open.spotify.com/album/1rUvBCJ8zqcXa2S2QbYfHN"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
+        "name": "\u685c\u307f\u305f\u3044\u306a\u604b\u306a\u3093\u3060",
+        "url": "https://open.spotify.com/album/03rGHXn48rNINzu3nl5lVf"
+      },
+      "artists": [
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "duration_ms": 232652,
+      "name": "\u685c\u307f\u305f\u3044\u306a\u604b\u306a\u3093\u3060",
+      "url": "https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
         "name": "star flower",
         "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 185246,
       "name": "star flower",
       "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
-    },
-    {
-      "added_at": "2026-05-19 15:00:39",
-      "album": {
-        "name": "\u6ce3\u3044\u3066\u3057\u307e\u3044\u305d\u3046",
-        "url": "https://open.spotify.com/album/7cDi9GvLWYQ6Lie0KNUcJf"
-      },
-      "artists": [
-        {
-          "name": "adieu",
-          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
-        }
-      ],
-      "duration_ms": 200749,
-      "name": "\u6ce3\u3044\u3066\u3057\u307e\u3044\u305d\u3046",
-      "url": "https://open.spotify.com/track/1V7xIhsDAk2GoITZFBHwAq"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-05-19 15:00:39",
       "album": {
-        "name": "Share",
-        "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
+        "name": "\u6ce3\u3044\u3066\u3057\u307e\u3044\u305d\u3046",
+        "url": "https://open.spotify.com/album/7cDi9GvLWYQ6Lie0KNUcJf"
       },
       "artists": [
         {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
         }
       ],
-      "duration_ms": 237746,
-      "name": "Share",
-      "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
+      "duration_ms": 200749,
+      "name": "\u6ce3\u3044\u3066\u3057\u307e\u3044\u305d\u3046",
+      "url": "https://open.spotify.com/track/1V7xIhsDAk2GoITZFBHwAq"
     },
     {
       "added_at": "2026-05-19 15:00:39",
@@ -1651,6 +1635,22 @@
       "duration_ms": 253800,
       "name": "\u30ea\u30d0\u30fc\u30b9\u30c7\u30a4",
       "url": "https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU"
+    },
+    {
+      "added_at": "2026-05-19 15:00:39",
+      "album": {
+        "name": "Share",
+        "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Share",
+      "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
     },
     {
       "added_at": "2026-05-19 15:00:39",

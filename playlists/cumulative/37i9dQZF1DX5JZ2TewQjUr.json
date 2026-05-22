@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: ZPOT ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: TELLER ",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 188032,
       "name": "Anti Gravity",
       "url": "https://open.spotify.com/track/59sVH0jMXyONQa2txKqP41"
@@ -1424,6 +1424,24 @@
       "duration_ms": 150000,
       "name": "As Long As U Know",
       "url": "https://open.spotify.com/track/65MD43YuHQ72PpOefGUdHg"
+    },
+    {
+      "album": {
+        "name": "Attachment Theory",
+        "url": "https://open.spotify.com/album/70ticPAO2mnUCE92A27vad"
+      },
+      "artists": [
+        {
+          "name": "XTIE",
+          "url": "https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188928,
+      "name": "Attachment Theory",
+      "url": "https://open.spotify.com/track/6tOoUarQ2WDf5UqrHkG6aw"
     },
     {
       "album": {
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 203410,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/7jV5OFmieh5iCMqErfDrdL"
@@ -6911,6 +6929,24 @@
     },
     {
       "album": {
+        "name": "Halves",
+        "url": "https://open.spotify.com/album/19eVWC5x9DFzuEPwEItyA5"
+      },
+      "artists": [
+        {
+          "name": "Juniper Care",
+          "url": "https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Halves",
+      "url": "https://open.spotify.com/track/5gPnZyCZNbaCABnwRdAGOm"
+    },
+    {
+      "album": {
         "name": "Hang\u4f60\u8001\u6bcd MeowMeow",
         "url": "https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J"
       },
@@ -9646,6 +9682,24 @@
       "duration_ms": 340698,
       "name": "Lagrange",
       "url": "https://open.spotify.com/track/0KUq7N42GfT5WgdmpbOYo1"
+    },
+    {
+      "album": {
+        "name": "LAISSEZ-MOI FAIRE",
+        "url": "https://open.spotify.com/album/02Id5DADzrmlXXRaWVk9ul"
+      },
+      "artists": [
+        {
+          "name": "Sunny Lukas",
+          "url": "https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "LAISSEZ-MOI FAIRE",
+      "url": "https://open.spotify.com/track/5zaVkttW58zQNI2FVQ2ivm"
     },
     {
       "album": {
@@ -12560,7 +12614,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184931,
       "name": "No Makeup",
       "url": "https://open.spotify.com/track/3im2Max5VzWD4v4MkHMluC"
@@ -13208,7 +13262,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 178014,
       "name": "omg\u6c92\u5c0d\u7126",
       "url": "https://open.spotify.com/track/0IQX7538Y7762GcazyuCKZ"
@@ -23848,7 +23902,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 266752,
       "name": "\u56de\u6eaf",
       "url": "https://open.spotify.com/track/2m4i5ReW4teN71ReCCP9DS"
@@ -25190,6 +25244,24 @@
       "duration_ms": 354000,
       "name": "\u5e78\u798f\u611f",
       "url": "https://open.spotify.com/track/4QL1lPme0EfQCocRXpIAqG"
+    },
+    {
+      "album": {
+        "name": "\u5e78\u798f\u6f2b\u6b65",
+        "url": "https://open.spotify.com/album/0ove2eAh6gxUP2agGlbeBu"
+      },
+      "artists": [
+        {
+          "name": "JUNI",
+          "url": "https://open.spotify.com/artist/5zedzpaSrdDgL8w7PnD5Q4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252321,
+      "name": "\u5e78\u798f\u6f2b\u6b65",
+      "url": "https://open.spotify.com/track/1LY6tMksN4i1W2TetCNGOh"
     },
     {
       "album": {
@@ -28494,6 +28566,28 @@
       "duration_ms": 162580,
       "name": "\u6eab\u98fd\u85dd\u8853\u5bb6Grounded",
       "url": "https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy"
+    },
+    {
+      "album": {
+        "name": "\u6eba\u611b Feat. JC \u9673\u8a60\u6850",
+        "url": "https://open.spotify.com/album/711iwV9TCSQegnMf6WI0Bv"
+      },
+      "artists": [
+        {
+          "name": "TELLER",
+          "url": "https://open.spotify.com/artist/23mpKE76RtF9bmcz18m88D"
+        },
+        {
+          "name": "JC \u9673\u8a60\u6850",
+          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187758,
+      "name": "\u6eba\u611b Feat. JC \u9673\u8a60\u6850",
+      "url": "https://open.spotify.com/track/0Rv4u7wFQtKmhZt1sCULGt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,348 likes - 100 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,390 likes - 100 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Security \(Live\) \- Remix](https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Security \(Live\) \[Remix\]](https://open.spotify.com/album/0N8AxAC0waqHqTMkw6vaIs) | 6:12 |
 | 100 | [CHAKAM \(EVIDENCE\) \- Live](https://open.spotify.com/track/5qgC6vCrLXTJ9sF0T6n05f) | [Psalmie Anthony](https://open.spotify.com/artist/5cMZ67HhxEy61GJ3oOs1KQ) | [CHAKAM \(EVIDENCE\) \[Live\]](https://open.spotify.com/album/7nAjVucWeOjt7nE7Wrvua4) | 5:09 |
 
-Snapshot ID: `AAAAAKx+586k0llWQY+Oy1Qcu2obGWKd`
+Snapshot ID: `AAAAAP13f752PSU8eFhg2SlZ7hYRpfvB`

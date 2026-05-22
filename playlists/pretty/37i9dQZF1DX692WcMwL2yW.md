@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic beats and dark ambient movements.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,669 likes - 166 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,812 likes - 166 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 29 | [Porcelain II](https://open.spotify.com/track/3D5uaMe1yGiTvdnsss3l3C) | [Lentia](https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb) | [Porcelain II](https://open.spotify.com/album/3AgpszNpUfq4EYKep8YOYy) | 2:29 |
 | 30 | [four walls](https://open.spotify.com/track/47CuKxF91sAclurDwKkIQM) | [fragmnts](https://open.spotify.com/artist/0sr2x2un7goOqJBmtiEKZP) | [four walls](https://open.spotify.com/album/6eoPOVDUPNbOULFfC0hS8B) | 1:41 |
 | 31 | [Lights Flickering](https://open.spotify.com/track/3Z2cu9eLzZf4cpfzIFRqfV) | [Resting Soil](https://open.spotify.com/artist/2cmeZEPxMfxw8NG2LGkraO) | [Lights Flickering](https://open.spotify.com/album/4iTBRdH5gHi59iJGJwMxmN) | 2:35 |
-| 32 | [In Motion](https://open.spotify.com/track/70nfaAtA0tqohCU52f5s3l) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [2014](https://open.spotify.com/album/3HesRVazqkvFh4JyKw0vve) | 2:01 |
+| 32 | [In Motion](https://open.spotify.com/track/70nfaAtA0tqohCU52f5s3l) | [Lost Memories](https://open.spotify.com/artist/0B53aPlWiJ4CVx4JU3cCCT) | [2014](https://open.spotify.com/album/3HesRVazqkvFh4JyKw0vve) | 2:01 |
 | 33 | [Umbrella Ghost](https://open.spotify.com/track/67uEnoj8joroo4CpA4SsPQ) | [Slumber Creek](https://open.spotify.com/artist/2o7CsjdbCrSDeev90xrV6K) | [Umbrella Ghost](https://open.spotify.com/album/3395KszSVPJKv47dGtuLMN) | 2:28 |
 | 34 | [keeping quiet](https://open.spotify.com/track/5XrzUKdIIO3IkoFU3rC0or) | [allbelow](https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4) | [keeping quiet](https://open.spotify.com/album/0B2f2RQcfWgYxFl2Gp9n7f) | 1:48 |
 | 35 | [fading into blue](https://open.spotify.com/track/6h00zUJRDbuJXHruo6g5BU) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [fading into blue](https://open.spotify.com/album/2vD1buMh8qN9ubo01HhJ8a) | 2:56 |

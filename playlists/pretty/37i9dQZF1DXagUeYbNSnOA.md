@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring aLex vs aLex\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,129 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,122 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [FINE SHYT](https://open.spotify.com/track/1Ts9jia9WabFB4tBIb29Ng) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [FINE SHYT](https://open.spotify.com/album/6m2t4BegNWlneZg6QS2Ydb) | 2:35 |
 | 50 | [Que Raro](https://open.spotify.com/track/4skfGeXHXJDRqaEScPN4OL) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Las Que Faltan de Amor](https://open.spotify.com/album/6WCRvcrf5EUxVeuZ1RUt9v) | 3:27 |
 
-Snapshot ID: `AAAAAKUisK7xsGS1+54buWGEXAd1eTVk`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

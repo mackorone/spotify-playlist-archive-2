@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! May ambassador: <a href="spotify:artist:5YHb2A9DThy2IFLn6z5bkA">NYVE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,158 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,157 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 88 | [Seatbelt](https://open.spotify.com/track/5EHgO0luXK71Fp93jalcYe) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [Racecars & Rockstars](https://open.spotify.com/album/14A7ZACDhicgniEM94qvPY) | 2:39 |
 | 89 | [Drank Voor De Grond](https://open.spotify.com/track/3KrYq39H6Xkb6trEgBWwcT) | [BEL](https://open.spotify.com/artist/3vqFkXlOwCdvAoTyisHzNu) | [Wie We Zijn](https://open.spotify.com/album/3IS7kRcozNdHNmXEssblJh) | 2:44 |
 
-Snapshot ID: `AAAAAJ6kowkX0WaFyEgLGdDPAFzxzHig`
+Snapshot ID: `AAAAAE7z5SPyyWEPg/oU7pgCMVpositw`

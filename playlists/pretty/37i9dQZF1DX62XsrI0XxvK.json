@@ -1,13 +1,181 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: BLINGOUTKID",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Ave",
   "num_followers": 14257,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJLJKBTfrehgDwcp6KwyhYl+8+l",
+  "snapshot_id": "AAAAAE3DOEr1w3yEfASfNCZclW1NKK5a",
   "tracks": [
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "GODSENT",
+        "url": "https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1"
+      },
+      "artists": [
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
+        },
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "GODSENT",
+      "url": "https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58"
+    },
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "EKLEKTIKO",
+        "url": "https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Kamga",
+          "url": "https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/05I8BGJrpzo3vrM07nungG"
+    },
+    {
+      "added_at": "2026-05-21 22:53:42",
+      "album": {
+        "name": "Rasa&Rasa",
+        "url": "https://open.spotify.com/album/4Q3EngYfM5IHtJq8fEgbqK"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "duration_ms": 198336,
+      "name": "Kurela",
+      "url": "https://open.spotify.com/track/7yA0mZGp8AzRLJRpOsojZD"
+    },
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "2001x",
+        "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "duration_ms": 204149,
+      "name": "2001x",
+      "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
+    },
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/3Ss8coQzcVWmYw6Ktt2ESn"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "The Soul & Rollers",
+          "url": "https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu"
+        }
+      ],
+      "duration_ms": 235378,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0k29oJUdY8BEtmeeL0snns"
+    },
+    {
+      "added_at": "2026-05-21 22:53:42",
+      "album": {
+        "name": "Don't Fall In Love With A Rockstar",
+        "url": "https://open.spotify.com/album/6sIn2kBU20TFGKkocQYiRi"
+      },
+      "artists": [
+        {
+          "name": "Karina Christy",
+          "url": "https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Don't Fall In Love With A Rockstar",
+      "url": "https://open.spotify.com/track/1G3rrZgog8LsbhHIWLwdLN"
+    },
+    {
+      "added_at": "2026-05-21 22:44:38",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7lT26idpV17nwtxrGbFwoi"
+      },
+      "artists": [
+        {
+          "name": "Song Brothers",
+          "url": "https://open.spotify.com/artist/4BroLk4RM2ZByrC7rpDb6V"
+        },
+        {
+          "name": "Annisya",
+          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
+        },
+        {
+          "name": "Tommy Pratomo",
+          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5Ofcz1eb8JZdTjghJ7vQ0a"
+    },
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "Tanpa Dirimu",
+        "url": "https://open.spotify.com/album/0A5OYXwLAKLkp1Ezu1VEY6"
+      },
+      "artists": [
+        {
+          "name": "Christo Edgar",
+          "url": "https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Tanpa Dirimu",
+      "url": "https://open.spotify.com/track/4LcClXMHZMGsEuYm4rOXRp"
+    },
+    {
+      "added_at": "2026-05-21 22:44:38",
+      "album": {
+        "name": "Negativity : Ngakunya Bercanda, Ternyata ?",
+        "url": "https://open.spotify.com/album/4dGjJ1RxbInQNdL1Cp6cbY"
+      },
+      "artists": [
+        {
+          "name": "Nadhira Suri",
+          "url": "https://open.spotify.com/artist/06wL6b72UhgDKo9nZM0J0g"
+        },
+        {
+          "name": "TRIOUT",
+          "url": "https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Negativity : Ngakunya Bercanda, Ternyata ?",
+      "url": "https://open.spotify.com/track/07r6bzr86jbSKtzik8crra"
+    },
     {
       "added_at": "2026-05-14 18:00:04",
       "album": {
@@ -39,6 +207,26 @@
       "duration_ms": 212800,
       "name": "Jatuh Pelan",
       "url": "https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK"
+    },
+    {
+      "added_at": "2026-05-21 22:44:38",
+      "album": {
+        "name": "Kau Yang Ku Tunggu",
+        "url": "https://open.spotify.com/album/4alohhT5dEehzGyTpmkYZN"
+      },
+      "artists": [
+        {
+          "name": "4Forty",
+          "url": "https://open.spotify.com/artist/2iPl5vIjxypuXafk4mxLZi"
+        },
+        {
+          "name": "Bona Pascal",
+          "url": "https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Kau Yang Ku Tunggu",
+      "url": "https://open.spotify.com/track/3cfcNcSHFCocpMJuKaKBIy"
     },
     {
       "added_at": "2026-05-07 18:00:21",
@@ -797,42 +985,6 @@
       "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
     },
     {
-      "added_at": "2025-12-11 18:00:19",
-      "album": {
-        "name": "THE WATCHMEN",
-        "url": "https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki"
-      },
-      "artists": [
-        {
-          "name": "Kay Sebastene",
-          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
-        },
-        {
-          "name": "PB GLAS",
-          "url": "https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "THE WATCHMEN",
-      "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
-    },
-    {
-      "added_at": "2025-11-20 17:00:10",
-      "album": {
-        "name": "Nyaman (24/7)",
-        "url": "https://open.spotify.com/album/24VfTPaMOtJ4EpDllK62Yl"
-      },
-      "artists": [
-        {
-          "name": "Dominique Adhadiaz",
-          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Nyaman (24/7)",
-      "url": "https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s"
-    },
-    {
       "added_at": "2025-11-27 17:30:01",
       "album": {
         "name": "Loving You Like This",
@@ -879,26 +1031,6 @@
       "duration_ms": 183370,
       "name": "BYE",
       "url": "https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH"
-    },
-    {
-      "added_at": "2025-11-20 17:00:10",
-      "album": {
-        "name": "Jaga Nafas",
-        "url": "https://open.spotify.com/album/4LNg3PmRJim465tTBQYD9d"
-      },
-      "artists": [
-        {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
-        },
-        {
-          "name": "White Chorus",
-          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
-        }
-      ],
-      "duration_ms": 214967,
-      "name": "Jaga Nafas",
-      "url": "https://open.spotify.com/track/0oidZ9wJZ8fRgdnXBhvI9J"
     },
     {
       "added_at": "2025-11-20 17:00:10",
@@ -1339,22 +1471,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "NONA",
-        "url": "https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V"
-      },
-      "artists": [
-        {
-          "name": "Ave",
-          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
-        }
-      ],
-      "duration_ms": 128020,
-      "name": "NONA",
-      "url": "https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Teach Me How To Love",
         "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
       },
@@ -1547,38 +1663,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "LOVE ME LIKE YOU",
-        "url": "https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8"
-      },
-      "artists": [
-        {
-          "name": "Rahmania Astrini",
-          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "LOVE ME LIKE YOU",
-      "url": "https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Di Balik Pertanda",
-        "url": "https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 216677,
-      "name": "Di Balik Pertanda",
-      "url": "https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Lesson Learned",
         "url": "https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8"
       },
@@ -1591,30 +1675,6 @@
       "duration_ms": 265737,
       "name": "Best Lesson",
       "url": "https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Djakarta",
-        "url": "https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX"
-      },
-      "artists": [
-        {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
-        },
-        {
-          "name": "Diskoria",
-          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
-        },
-        {
-          "name": "C\u00e9cil Yang",
-          "url": "https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP"
-        }
-      ],
-      "duration_ms": 236149,
-      "name": "Djakarta",
-      "url": "https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1651,38 +1711,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Melepaskanmu",
-        "url": "https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 250716,
-      "name": "Melepaskanmu",
-      "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Rusuk",
-        "url": "https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt"
-      },
-      "artists": [
-        {
-          "name": "Gery Gany",
-          "url": "https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e"
-        }
-      ],
-      "duration_ms": 255939,
-      "name": "Rusuk",
-      "url": "https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL"
     },
     {
       "added_at": "2025-06-05 17:05:22",

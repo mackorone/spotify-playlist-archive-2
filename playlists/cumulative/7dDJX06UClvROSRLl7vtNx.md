@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,315 songs - 2 day 8 hr 44 min
+1,316 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1241,6 +1241,7 @@
 | [We Can't Be Friends](https://open.spotify.com/track/3ha7L5WWZdhIpnNrzduKW8) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [We Can't Be Friends](https://open.spotify.com/album/3ge8qO6UbK84OmAK5Altae) | 2:26 | 2024-07-30 | 2024-10-11 |
 | [We Found Love](https://open.spotify.com/track/3wu3pSXJTrLCa3ErABOoqs) | [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li) | [We Found Love](https://open.spotify.com/album/4JcWCKocszNncmoRn2zkYD) | 2:28 | 2025-02-09 | 2025-12-08 |
 | [We Used To Be Better](https://open.spotify.com/track/6T85nEBgNDQwkAVgw88vu2) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ) | [We Used To Be Better](https://open.spotify.com/album/1GGu4Kii0ayQnM5q4e5P9B) | 3:02 | 2026-04-26 |  |
+| [We'll Be Okay](https://open.spotify.com/track/7aUKQW781gqq4aw9n4kKDD) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [We'll Be Okay](https://open.spotify.com/album/7DLMIpVKPFk2hbdidQYPoK) | 2:39 | 2026-05-21 |  |
 | [Weekend](https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Weekend](https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI) | 2:23 | 2024-06-09 | 2024-08-12 |
 | [Weyu](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Weyu](https://open.spotify.com/album/12xO5IhrP0lHtjue6If8S4) | 2:13 | 2024-09-25 |  |
 | [What Could've Been Love](https://open.spotify.com/track/4by9fjd5boKIgneGcXsxvN) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [What Could've Been Love](https://open.spotify.com/album/4bJN7g2Ep65gMycqc1gdb1) | 2:34 | 2025-01-18 | 2025-02-24 |

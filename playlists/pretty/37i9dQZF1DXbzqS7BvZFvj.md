@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,939 likes - 83 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,942 likes - 83 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 8 | [Play This](https://open.spotify.com/track/3zMDPyL6qy6DZUi5xKT7Io) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Play This](https://open.spotify.com/album/53p6iXTDbZIcIBRIEjYa7s) | 2:33 |
 | 9 | [XXXL](https://open.spotify.com/track/619AEMQYg7hc7Inrklp26T) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [XXXL](https://open.spotify.com/album/7e6P1Gf1oiyLJEn2uQRq0T) | 4:14 |
 | 10 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
-| 11 | [Her Her Her \(feat\. DJ Holiday\)](https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:01 |
+| 11 | [Her Her Her \(feat\. DJ Holiday\)](https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:01 |
 | 12 | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/track/4etccLWOrAyFrJbAFHNm0V) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/album/0gaiFeKSFESkhy4qLU5MLm) | 3:12 |
 | 13 | [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [babygirl](https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL) | 2:27 |
 | 14 | [MONEY RAIN \(feat\. YTG\)](https://open.spotify.com/track/0Cd2KkddZSxHn4hCu9qBo3) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c) | [Rich or Die 3](https://open.spotify.com/album/7JdfkXp1Hf4qC0z1PkzAWw) | 2:53 |

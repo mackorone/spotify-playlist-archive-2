@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u9673\u83ef ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u827e\u8587 Ivy",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 176428,
       "name": "100\u6b21\u8aaa\u5206\u624b",
       "url": "https://open.spotify.com/track/2UE9IkRluQUcWDEnBTkBZ4"
@@ -3716,6 +3716,32 @@
       "duration_ms": 190000,
       "name": "\u4e00\u5ff5 (\u5f71\u89c6\u5267\u300a\u9010\u7389\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u5ff5\u300a\u9010\u7389\u300b",
+        "url": "https://open.spotify.com/album/7uhGnYJACYDn3yCPIiSaAl"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u7d2b\u5b81",
+          "url": "https://open.spotify.com/artist/1V618lgufRCeR9ilSwZB7h"
+        },
+        {
+          "name": "\u674e\u946b\u4e00",
+          "url": "https://open.spotify.com/artist/6fLFLcYLgBTVuTqlGNIxQ2"
+        },
+        {
+          "name": "YKeophirun",
+          "url": "https://open.spotify.com/artist/74eThPH6FocvSxRjy1mdgl"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "\u4e00\u5ff5\u300a\u9010\u7389\u300b",
+      "url": "https://open.spotify.com/track/5uMBvdM7s18Enia6QmfmHN"
     },
     {
       "album": {
@@ -9284,7 +9310,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 208640,
       "name": "\u5929\u4f7f\u501f\u7684\u6eab\u67d4",
       "url": "https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk"
@@ -10524,7 +10550,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192023,
       "name": "\u5e03\u62c9\u683c\u5ee3\u5834 - JOLIN Version/ \u661f\u5b87\u822a\u7a7a\u5e03\u62c9\u683c\u958b\u822a\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0HnESxAFR5lTHioAlI7wo3"
@@ -16171,6 +16197,24 @@
     },
     {
       "album": {
+        "name": "\u6c92\u4eba\u559c\u6b61\u4f60 \u90a3\u53c8\u600e\u6a23",
+        "url": "https://open.spotify.com/album/218AJjHQbYXy12rrA9cdWq"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587 Ivy",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "\u6c92\u4eba\u559c\u6b61\u4f60 \u90a3\u53c8\u600e\u6a23",
+      "url": "https://open.spotify.com/track/4ITbpz325QVvYYRFOFGtrs"
+    },
+    {
+      "album": {
         "name": "\u6c92\u4ec0\u9ebc\u5927\u4e0d\u4e86\u7684\u5fc3\u60c5",
         "url": "https://open.spotify.com/album/51ZazKIk9VZJB8Ogt0m7gg"
       },
@@ -17480,6 +17524,24 @@
       "duration_ms": 232125,
       "name": "\u738b\u724c - fun cover",
       "url": "https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8"
+    },
+    {
+      "album": {
+        "name": "\u73bb\u7483",
+        "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "\u73bb\u7483",
+      "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
     },
     {
       "album": {
@@ -19218,7 +19280,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 245495,
       "name": "\u81ea\u5f9e",
       "url": "https://open.spotify.com/track/4xQq025auEHYMk7xspaNJb"
@@ -19848,7 +19910,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "\u897f\u5cb8\u5c0f\u6cd5\u5492",
       "url": "https://open.spotify.com/track/3CJXCELQP2I62NN6OgOyvA"

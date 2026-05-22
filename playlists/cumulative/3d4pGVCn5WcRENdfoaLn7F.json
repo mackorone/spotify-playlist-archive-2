@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "We Met In Our Eyes",
+        "url": "https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261035,
+      "name": "We Met In Our Eyes",
+      "url": "https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf"
+    },
+    {
+      "album": {
         "name": "We're Not Lovers",
         "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
       },

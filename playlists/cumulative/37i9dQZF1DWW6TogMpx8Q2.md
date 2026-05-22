@@ -4,7 +4,7 @@
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Gordon Flanders
 
-160 songs - 10 hr 10 min
+163 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2882點85✈︎](https://open.spotify.com/track/5dMsZz8qVYPsPmVVBNh4Pe) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [2882點85✈︎](https://open.spotify.com/album/273zRDjGRv0ox0yIzXiQvO) | 3:39 | 2025-11-20 |  |
 | [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 | 2025-08-13 |  |
 | [Alright!](https://open.spotify.com/track/0OmMUThuhDFGxVDbIf2ieL) | [Jade Sun](https://open.spotify.com/artist/3wOgiNce6emfZDZffDXaaD), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [Alright!](https://open.spotify.com/album/0wuEZ45YeACbUdfyrvxjl3) | 2:23 | 2026-04-30 |  |
+| [Colors in the Air 原色](https://open.spotify.com/track/3UwrZ7sZsZJ5TegrDz4cYP) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Colors in the Air 原色](https://open.spotify.com/album/0go8kV2bTcr8MTftVCf7Df) | 2:51 | 2026-05-21 |  |
 | [Dear My Friend,](https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dear My Friend,](https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3) | 3:52 | 2022-07-07 | 2025-08-14 |
 | [Diss你咪Diss你](https://open.spotify.com/track/12OzfJtPuAHVrlQzQTE9Px) | [FINALLY](https://open.spotify.com/artist/1uEfUcuO9CIMvWwXCyxmuu) | [Diss你咪Diss你](https://open.spotify.com/album/4Fvaw2m3vZYTMK4tMxlzQY) | 2:32 | 2025-08-13 |  |
 | [doodoodoo](https://open.spotify.com/track/0bqYvGR4vP2KstdMyemKYI) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [doodoodoo](https://open.spotify.com/album/5OxneUMRslWdTQlYpO8Wc9) | 3:23 | 2022-07-07 | 2025-08-14 |
@@ -44,6 +45,7 @@
 | [SOCIOPATH](https://open.spotify.com/track/4xh0iCUTm3voQWzYE77DX5) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [SOCIOPATH](https://open.spotify.com/album/3Qyh5Ho3m7iXO3Fm0pdlqA) | 3:37 | 2026-03-26 |  |
 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 | 2025-09-25 |  |
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-07-07 | 2025-08-14 |
+| [You know I love you?](https://open.spotify.com/track/0l5Wzr73fj3hz2eS6CRtUw) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You know I love you?](https://open.spotify.com/album/5lEyFVf3F126RspiH38jY9) | 2:43 | 2026-05-21 |  |
 | [一天](https://open.spotify.com/track/1sq0TDylcBZVzLRcTbcWQD) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [一天](https://open.spotify.com/album/4eSi0ipmdDkDoTsiF8SZA7) | 3:56 | 2025-11-20 |  |
 | [一家之主](https://open.spotify.com/track/5zSC7j1rQ6RaSUyvwcPH4l) | [KING 吳崇銘](https://open.spotify.com/artist/2znlSYU1ncZS9S3yTGx7Qo) | [一家之主](https://open.spotify.com/album/1AJy8Ve7WxVcFB96U0Pynz) | 4:28 | 2026-03-12 |  |
 | [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2022-07-07 | 2025-08-14 |
@@ -105,6 +107,7 @@
 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 | 2022-07-07 | 2024-04-19 |
 | [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-07-07 | 2025-08-14 |
 | [我所看見的未來](https://open.spotify.com/track/7H4kKWF9aM6qm3puVzcwy6) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [我所看見的未來](https://open.spotify.com/album/5KyjhnUaXk2qzoFUqT0niK) | 4:07 | 2025-08-13 |  |
+| [打工牛仔](https://open.spotify.com/track/1iNubMavbVtTtpjfUeYtID) | [F.JAE](https://open.spotify.com/artist/0U8QoUGD9K4oqoA5gaNTHC), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [打工牛仔](https://open.spotify.com/album/1jGPwUOAKii6qbvPjDuvCP) | 2:40 | 2026-05-21 |  |
 | [拜託](https://open.spotify.com/track/1wNJcZPwOanXp5YLU8ivC9) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [拜託](https://open.spotify.com/album/3gVFE0wdEnrwgD4fZi6lWu) | 3:55 | 2024-08-13 |  |
 | [掛念你 你好嗎](https://open.spotify.com/track/5JzEFdWA7vqNdWU4B0FUdJ) | [KING 吳崇銘](https://open.spotify.com/artist/2znlSYU1ncZS9S3yTGx7Qo) | [掛念你 你好嗎](https://open.spotify.com/album/6kvHg6nbWc2PpFv6V6sn7E) | 4:01 | 2025-08-13 |  |
 | [旁若無人](https://open.spotify.com/track/5JVFXmewwca6re1sYNNfp2) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [旁若無人](https://open.spotify.com/album/0ZvZ1txiy8kOuNihiJBSxe) | 4:01 | 2026-02-12 |  |

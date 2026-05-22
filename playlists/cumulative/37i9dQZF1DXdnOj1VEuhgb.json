@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: La\u00e7in",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Patron",
   "name": "NKVT",
   "tracks": [
     {
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "K\u0131\u015f Uykusu III",
+        "url": "https://open.spotify.com/album/0zffmb493zR8a1eiuuCJq2"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201359,
+      "name": "ad\u0131 mazi kald\u0131",
+      "url": "https://open.spotify.com/track/4Lj9p9vUYc8fCPraD3dBke"
+    },
+    {
+      "album": {
         "name": "AFACAN",
         "url": "https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR"
       },
@@ -1184,6 +1202,96 @@
       "duration_ms": 206769,
       "name": "Anakonda",
       "url": "https://open.spotify.com/track/5zhOvr9rLo3e29nhLDWSsm"
+    },
+    {
+      "album": {
+        "name": "Analar\u0131 A\u011flatan & Canlard\u0131r (Tribute)",
+        "url": "https://open.spotify.com/album/5MmAoEymkmkgjtEwAhhk2B"
+      },
+      "artists": [
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Gekko G",
+          "url": "https://open.spotify.com/artist/6nB1a3hqZj8y8uEa7SPMPJ"
+        },
+        {
+          "name": "Sansar Salvo",
+          "url": "https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9"
+        },
+        {
+          "name": "\u0130mpala",
+          "url": "https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF"
+        },
+        {
+          "name": "Boe B",
+          "url": "https://open.spotify.com/artist/1HafBEZmF4kHReDzh4GiOw"
+        },
+        {
+          "name": "komAdafakka",
+          "url": "https://open.spotify.com/artist/09CL0kyzL3JqMrK7qcAeJu"
+        },
+        {
+          "name": "H\u00fcseyin Yolda\u015f",
+          "url": "https://open.spotify.com/artist/13yUDIBbzz31b2OpFjIIcR"
+        },
+        {
+          "name": "Echo Masta",
+          "url": "https://open.spotify.com/artist/5udYRLeBIEo5oGn5qGBkkU"
+        },
+        {
+          "name": "G-Flash",
+          "url": "https://open.spotify.com/artist/4P1YhX7zU0e9OPFSwaKAwA"
+        },
+        {
+          "name": "Tomi Nite",
+          "url": "https://open.spotify.com/artist/6TbRtRib9HBcKBVCZBNmEq"
+        },
+        {
+          "name": "Tankurt Manas",
+          "url": "https://open.spotify.com/artist/4ESPwgMOkNWv8mZIfe2mdO"
+        },
+        {
+          "name": "rednozz",
+          "url": "https://open.spotify.com/artist/1j5wZSNs5slWvwjG6jK0Qf"
+        },
+        {
+          "name": "Cihangrey",
+          "url": "https://open.spotify.com/artist/6x9evbgYMKSdykqL741hKh"
+        },
+        {
+          "name": "Uni-Q",
+          "url": "https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf"
+        },
+        {
+          "name": "\u0130s\u00f6r",
+          "url": "https://open.spotify.com/artist/3Z9995VuB2LlLOJFwxfpMG"
+        },
+        {
+          "name": "Babakonda",
+          "url": "https://open.spotify.com/artist/3jIHW5EpxtnMYgpUUmffYz"
+        },
+        {
+          "name": "Toprak Karde\u015fler",
+          "url": "https://open.spotify.com/artist/6Y9NrUEStneJ7sGWE0gy5N"
+        },
+        {
+          "name": "OUZ AGA",
+          "url": "https://open.spotify.com/artist/0o1ZPBlhfmQDCZUXtusn3e"
+        },
+        {
+          "name": "18 Artist",
+          "url": "https://open.spotify.com/artist/1Xxcphx58AJbmbuYeU39lW"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458822,
+      "name": "Analar\u0131 A\u011flatan & Canlard\u0131r - Tribute",
+      "url": "https://open.spotify.com/track/2yH6yfobJRkyO47ULpefe1"
     },
     {
       "album": {
@@ -2608,7 +2716,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 107317,
       "name": "BBS 2.0 - Remix",
       "url": "https://open.spotify.com/track/6011fuKw2cHFX2up320Ppi"
@@ -3336,7 +3444,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184488,
       "name": "Blam x Alo - Live Acoustic Mashup",
       "url": "https://open.spotify.com/track/0hnRo4USzDhtMtUE8wmmUu"
@@ -5451,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "DVD",
+        "url": "https://open.spotify.com/album/3eo8Bg1zgmRawhtSWJSpbp"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
+    },
+    {
+      "album": {
         "name": "d\u00f6nd\u00fcm deliye",
         "url": "https://open.spotify.com/album/6BNssHan3y0kLzmHEQrCon"
       },
@@ -5935,6 +6061,32 @@
     },
     {
       "album": {
+        "name": "Extendo Reloaded",
+        "url": "https://open.spotify.com/album/5XVRGLHovDOzOr6ax2ExWt"
+      },
+      "artists": [
+        {
+          "name": "Metth",
+          "url": "https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf"
+        },
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        },
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Extendo Reloaded",
+      "url": "https://open.spotify.com/track/39dI0rgZxESJs3vQa86lbN"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor"
       },
@@ -6048,6 +6200,28 @@
       "duration_ms": 140884,
       "name": "FALLEN",
       "url": "https://open.spotify.com/track/0Z8tA2Z3OZNgTeddaI9lat"
+    },
+    {
+      "album": {
+        "name": "FAMILIA",
+        "url": "https://open.spotify.com/album/77awXfnlEhfuxt10d44YDO"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "FAMILIA",
+      "url": "https://open.spotify.com/track/36ONRDQkugvufGfiFiCDCF"
     },
     {
       "album": {
@@ -6570,6 +6744,28 @@
       "duration_ms": 211917,
       "name": "Geceleri Yak",
       "url": "https://open.spotify.com/track/0hZsxXnrkDzPQjGvxsyN39"
+    },
+    {
+      "album": {
+        "name": "GEL GEL GEL",
+        "url": "https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160087,
+      "name": "GEL GEL GEL",
+      "url": "https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR"
     },
     {
       "album": {
@@ -10891,6 +11087,28 @@
     },
     {
       "album": {
+        "name": "kurtuldum denizlerden",
+        "url": "https://open.spotify.com/album/6EEUmwb3ZIiuo04TNETPXy"
+      },
+      "artists": [
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        },
+        {
+          "name": "BAR BIA",
+          "url": "https://open.spotify.com/artist/6tpQwZFjeQbKo0B2S7fZGg"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "kurtuldum denizlerden",
+      "url": "https://open.spotify.com/track/1nPYA47qn8pqZsFlTOcMX8"
+    },
+    {
+      "album": {
         "name": "FAM",
         "url": "https://open.spotify.com/album/59wTR74ppNXF7o2nRvibvC"
       },
@@ -14952,7 +15170,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 142960,
       "name": "real life",
       "url": "https://open.spotify.com/track/15Ll2GvHhgWhHr97wtQzwz"
@@ -15940,7 +16158,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165428,
       "name": "SB",
       "url": "https://open.spotify.com/track/1lQYUY5Tt1UqSD4Qk0ASdH"
@@ -16272,7 +16490,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165901,
       "name": "Sevdin mi en berbat halimi?",
       "url": "https://open.spotify.com/track/2hsJGGz9VifPmGvYX5lDIa"
@@ -19498,7 +19716,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 138000,
       "name": "Yoktu",
       "url": "https://open.spotify.com/track/60ElzXtShuFeEEvNrLsEsd"
@@ -19734,7 +19952,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 120745,
       "name": "ZAMAN DARALIYO",
       "url": "https://open.spotify.com/track/1HuerSLYwbPmmgyvaz3iEu"
@@ -20398,7 +20616,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 127391,
       "name": "\u015faka m\u0131s\u0131n knk (merdobingo flip)",
       "url": "https://open.spotify.com/track/6rjGsaXcgH7cCvy5Fe58kr"

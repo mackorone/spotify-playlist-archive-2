@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 148200,
       "name": "All We Need Is Us",
       "url": "https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn"
@@ -432,6 +432,24 @@
       "duration_ms": 143161,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
+    },
+    {
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Kemmler",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Furax Barbarossa x Scylla",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 149354,
       "name": "50 piges",
       "url": "https://open.spotify.com/track/4qK7AT3mb1J5oLyALf5i8j"
+    },
+    {
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/0P7rPW82ygJzUZMeDCHtyk"
+      },
+      "artists": [
+        {
+          "name": "Anyahow",
+          "url": "https://open.spotify.com/artist/7K1X0KWA52yN7boWV4UE0Q"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "6 SUR UN TONC",
+      "url": "https://open.spotify.com/track/0Je4QjIy62nEG04bBRIRXl"
     },
     {
       "album": {
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 158653,
       "name": "Baisse d'un ton",
       "url": "https://open.spotify.com/track/2T1q5BsRghH2iuZbW8JeNn"
@@ -4991,6 +5009,24 @@
     },
     {
       "album": {
+        "name": "On a cueilli que les \u00e9pines",
+        "url": "https://open.spotify.com/album/4dWDCzwOtKWzHwsjmxdSmU"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/3DoomWQiOQlZxQieXpSVOm"
+    },
+    {
+      "album": {
         "name": "Le tour de la map",
         "url": "https://open.spotify.com/album/3NBiwkKAXokJHljprSHLaJ"
       },
@@ -6514,7 +6550,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 206782,
       "name": "On s'barre",
       "url": "https://open.spotify.com/track/7vWeM6QjFTKVlLNWgC3Ccr"

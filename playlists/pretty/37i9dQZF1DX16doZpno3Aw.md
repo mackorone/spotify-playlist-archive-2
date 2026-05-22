@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,347 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,603 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 99 | [I Can Do Anything / Finale](https://open.spotify.com/track/619p8Frf2gdv76xeN7At76) | [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [The Boys: Season 3 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/0UmSlRZUatcKfEAIZ7piYA) | 1:05 |
 | 100 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/61YM5SkqqeUjIBL7It56cs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Bordas](https://open.spotify.com/artist/3dfj7lu33WXUMWOlFcybXM) | [JUST THE BEST MUSIC Vol\. 2 Solo Piano Relax Playlist](https://open.spotify.com/album/5aftlLJi5cmXRnPQjwUak2) | 5:02 |
 
-Snapshot ID: `AAAAAF+fxlSTp7qYKb3GKmh7ATz+vCSY`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

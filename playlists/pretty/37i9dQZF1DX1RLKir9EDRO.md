@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Selen Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,036 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [İyi Ki Var](https://open.spotify.com/track/3eXv6uux50VDgA3XjNrmKx) | [Yeryüzü Tanıkları](https://open.spotify.com/artist/1SKKvDMopx9iXoK1CAa9AT) | [İyi Ki Var](https://open.spotify.com/album/2Hq0BH5mPJS9fgkfvTkUMs) | 2:27 |
 | 49 | [İşçi Blokları](https://open.spotify.com/track/4yoj7gsg78eFwIkvs0rRMh) | [Berke Çetiner](https://open.spotify.com/artist/6gjlZ5LzGJs34ZHzXC7dIB) | [İşçi Blokları](https://open.spotify.com/album/2t5p4U3FoKQtoDuEIFLhUj) | 4:08 |
 
-Snapshot ID: `AAAAAOt1b6gUifqjMYJdcXG46l4+P0dh`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

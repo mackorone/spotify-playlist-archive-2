@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,463 songs - 9 day 22 hr 14 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,474 songs - 9 day 22 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3703,7 +3703,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3693 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
 | 3694 | [After Destruction](https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:44 |
 | 3695 | [THE UNRAVELING](https://open.spotify.com/track/20jxpjgdcIEwqYf3w2aVOU) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [THE UNRAVELING](https://open.spotify.com/album/70JyYPvljig5pYCGazHkRY) | 2:52 |
-| 3696 | [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [disgraceful](https://open.spotify.com/artist/1IWITCkCLfZJjZTbAFxEIA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 |
+| 3696 | [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [cjjkacey](https://open.spotify.com/artist/3wy39yYanFS9cugAeA72dA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 |
 | 3697 | [Pilpala](https://open.spotify.com/track/20v5YZRwxbgvr704NlPXuv) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Pilpala](https://open.spotify.com/album/5aka3R5nmtqb1qVfAw80CY) | 5:12 |
 | 3698 | [Bring Me To Life](https://open.spotify.com/track/7zk7HMt6uwycBGKE3eslGO) | [BETHEL](https://open.spotify.com/artist/293nwwNqRa9eUynzHZ93om) | [Bring Me To Life](https://open.spotify.com/album/3KRERjbRpnkTCO2n65B2rG) | 4:36 |
 | 3699 | [Alone](https://open.spotify.com/track/1wSI1tfThOk4nwTMqWIxaH) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [The Vantages](https://open.spotify.com/album/2JHUDX78JZ6Cq7XAjW0Q2l) | 3:20 |
@@ -4471,5 +4471,16 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4461 | [Anna](https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp) | [Roan Grevel](https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627) | [Anna](https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs) | 4:30 |
 | 4462 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 |
 | 4463 | [Vanità, fatti in là!](https://open.spotify.com/track/5VRsl1mXt0bSQsFxh2t0NA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Vanità, fatti in là!](https://open.spotify.com/album/1PMRVsz5cNZ9m1ObwpEn7M) | 4:10 |
+| 4464 | [Golden Carnival Parade](https://open.spotify.com/track/6FqB0MqBpQrrJ0gNuFVzPQ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:26 |
+| 4465 | [Coniglietto DJ](https://open.spotify.com/track/2UpgpsWgYLlUiciZKbkOXq) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:40 |
+| 4466 | [DOG DAG BAU BAU](https://open.spotify.com/track/5SU8PgiAudB0sQrDKkSTLY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:06 |
+| 4467 | [Coffee in Barcelona](https://open.spotify.com/track/5ZWnfae4injvE3rLnwSr6L) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:48 |
+| 4468 | [Riding Dinamite](https://open.spotify.com/track/5tJNvlN9W3yH6xDAad0ilT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:36 |
+| 4469 | [Tuko Pamoja](https://open.spotify.com/track/4Gw3DF7RiAPUT9Cm4s9Lt4) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:57 |
+| 4470 | [Baila Sin Final](https://open.spotify.com/track/0KFLZJzXhlWkSANqamX4MU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:08 |
+| 4471 | [Moonlight of Muirin](https://open.spotify.com/track/29FwHGxW44dMicxBOskmKO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:13 |
+| 4472 | [Fire on the Black Flags](https://open.spotify.com/track/2BZvjrW4tUWtkdMzSgS6Ua) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:49 |
+| 4473 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 |
+| 4474 | [ENKI](https://open.spotify.com/track/78aPKQHPUrYPXvA9XteGcv) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [The Sun In The 12th House](https://open.spotify.com/album/3bMk0D70P4yVp4Zmn6Dey7) | 4:48 |
 
-Snapshot ID: `AAAIsEWGFCB6chkeWHCNJ2tnNny3s7bj`
+Snapshot ID: `AAAIsgT+UAAGSz4Fxj98+78LkDp1hce5`

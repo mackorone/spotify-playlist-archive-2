@@ -1,15 +1,15 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60145,
+  "num_followers": 60144,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRlvf56ZrqgHLSPHgj+3LXI0Ehv",
+  "snapshot_id": "AAAAAOiYsMYgzG8c/uLGNB/PSfuXWU+D",
   "tracks": [
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Juhannusvalssi",
         "url": "https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Sulhanen",
         "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
@@ -41,23 +41,23 @@
       "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
-        "name": "Pokaali",
-        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps"
       },
       "artists": [
         {
-          "name": "Pihlaja",
-          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Pokaali",
-      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
+      "duration_ms": 183693,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Mustat sunnuntait",
         "url": "https://open.spotify.com/album/5nEHG9euDNk3K0sXmbKUKA"
@@ -77,7 +77,27 @@
       "url": "https://open.spotify.com/track/5WXY2UveEaXUtJhVEXDpD0"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Rockstar (feat. Janna)",
+        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "Rockstar (feat. Janna)",
+      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -97,55 +117,23 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
-        "name": "Pallo jalast",
-        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+        "name": "Pokaali",
+        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
       },
       "artists": [
         {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Pallo jalast",
-      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+      "duration_ms": 187520,
+      "name": "Pokaali",
+      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Smuutti (Johanna) [feat. Nector Vordis]",
-        "url": "https://open.spotify.com/album/3SPRyuO4bSlbO1HEH1jbfi"
-      },
-      "artists": [
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/1yahk94j3shgcXKUyYk0Na"
-        }
-      ],
-      "duration_ms": 217802,
-      "name": "Smuutti (Johanna) [feat. Nector Vordis]",
-      "url": "https://open.spotify.com/track/3aBSChTFXVBcAMN8pEbVRW"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "110%",
-        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
-      },
-      "artists": [
-        {
-          "name": "Frans Harju",
-          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "110%",
-      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -161,7 +149,7 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -177,23 +165,23 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
-        "name": "Ainakaa s\u00e4",
-        "url": "https://open.spotify.com/album/5vAe47FkhAtoa18aE3HbkY"
+        "name": "Pallo jalast",
+        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
       },
       "artists": [
         {
-          "name": "LEFT",
-          "url": "https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG"
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
         }
       ],
-      "duration_ms": 178235,
-      "name": "Ainakaa s\u00e4",
-      "url": "https://open.spotify.com/track/4xssjWxaVGboNtqXbtZRqV"
+      "duration_ms": 138773,
+      "name": "Pallo jalast",
+      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -209,7 +197,55 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "110%",
+        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
+      },
+      "artists": [
+        {
+          "name": "Frans Harju",
+          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "110%",
+      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Tee Mulle Mit\u00e4 Vaan",
         "url": "https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj"
@@ -229,39 +265,7 @@
       "url": "https://open.spotify.com/track/225v95FOaSABtxkvndBTzk"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
@@ -277,7 +281,7 @@
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "DEADLINE",
         "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
@@ -293,7 +297,23 @@
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Liekinheitin",
         "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
@@ -313,23 +333,7 @@
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
@@ -345,7 +349,7 @@
       "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Who's That Calling?",
         "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
@@ -361,7 +365,7 @@
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
@@ -381,7 +385,7 @@
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Nightingale Lane.",
         "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
@@ -397,7 +401,7 @@
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
@@ -413,7 +417,7 @@
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "m0ti0n",
         "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
@@ -429,7 +433,7 @@
       "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
@@ -445,7 +449,7 @@
       "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Hei Supermario/Huudan taas",
         "url": "https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl"
@@ -461,7 +465,7 @@
       "url": "https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "KiLL iT QUEEN",
         "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
@@ -477,7 +481,7 @@
       "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Ja Eller Nej",
         "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
@@ -497,7 +501,7 @@
       "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Latu on auki",
         "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
@@ -517,7 +521,7 @@
       "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
@@ -533,7 +537,7 @@
       "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Economy PLUS",
         "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
@@ -549,7 +553,7 @@
       "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Lululai",
         "url": "https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Sen piti olla min\u00e4",
         "url": "https://open.spotify.com/album/3QuAfJctcfbyBKs8Bc6rnR"
@@ -581,7 +585,7 @@
       "url": "https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "SHOTIT",
         "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -617,7 +621,7 @@
       "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Sin\u00e4 ja se poitsu",
         "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
@@ -633,7 +637,7 @@
       "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
@@ -649,7 +653,7 @@
       "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Valoa varten",
         "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
@@ -665,7 +669,7 @@
       "url": "https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Kuudes aisti",
         "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
@@ -681,7 +685,7 @@
       "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "FATHER (I Will Never Confess)",
         "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
@@ -697,23 +701,7 @@
       "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "PETSHOP",
         "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
@@ -737,23 +725,23 @@
       "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
       "artists": [
         {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
         }
       ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg"
@@ -773,7 +761,23 @@
       "url": "https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Kaikki p\u00e4\u00e4ttyy meihin",
         "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Cherry Cake",
         "url": "https://open.spotify.com/album/0p0fEqkNKfcuPi4OOBUcpt"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/09cYHNcsOsUIDSXXWCOVQj"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Mun vuoro luovuttaa",
         "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Stand Back",
         "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
@@ -873,7 +877,7 @@
       "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Solmui",
         "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
@@ -889,7 +893,7 @@
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
@@ -909,7 +913,23 @@
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Vanhoja muistellaan",
+        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Vanhoja muistellaan",
+      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
         "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Limee ja suolaa",
         "url": "https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl"
@@ -945,23 +965,7 @@
       "url": "https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Vanhoja muistellaan",
-        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Vanhoja muistellaan",
-      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Pelkk\u00e4 kirosana",
         "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
@@ -977,7 +981,7 @@
       "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Feels Like Heaven",
         "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
@@ -993,7 +997,7 @@
       "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "PLAYBOY",
         "url": "https://open.spotify.com/album/43qo3eIxgyF0ckL7sRvUoE"
@@ -1009,7 +1013,39 @@
       "url": "https://open.spotify.com/track/1tWP6V183Ux1z2xkZa0WSE"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
         "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
@@ -1037,39 +1073,7 @@
       "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Toimitusjohtaja",
-        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        }
-      ],
-      "duration_ms": 165438,
-      "name": "Toimitusjohtaja",
-      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Valoa varten",
         "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
@@ -1085,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA"
@@ -1101,7 +1105,7 @@
       "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "\u00c4l\u00e4 sano sua rumaksi",
         "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
@@ -1117,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Sitke\u00e4 sissi",
         "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
@@ -1133,7 +1137,7 @@
       "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Cokis ja Mentos",
         "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
@@ -1149,7 +1153,7 @@
       "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Hullu nainen",
         "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
@@ -1165,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Carolina Herrera (feat. VilleGalle)",
         "url": "https://open.spotify.com/album/18gxa8D3F2DP27Hax1rBPC"
@@ -1185,23 +1189,7 @@
       "url": "https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
-      "album": {
-        "name": "Ready To Leave",
-        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Monte",
-          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "Ready To Leave",
-      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
-    },
-    {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Running Through My Head",
         "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
@@ -1217,7 +1205,23 @@
       "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
+      "album": {
+        "name": "Ready To Leave",
+        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Monte",
+          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "Ready To Leave",
+      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
+    },
+    {
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Napanuora",
         "url": "https://open.spotify.com/album/2Kzvf6oEIgP6qPdZwaKRb9"
@@ -1237,7 +1241,7 @@
       "url": "https://open.spotify.com/track/38SpIhdFBDfjuRHQkpbGBW"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Teatterii",
         "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
@@ -1253,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Oots\u00e4 n\u00e4hny mua?",
         "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
@@ -1269,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Ennen sua",
         "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
@@ -1285,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Ei kukaan muu",
         "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
@@ -1305,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Camouflage",
         "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
@@ -1321,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "OK (feat. ANI)",
         "url": "https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73"
@@ -1341,7 +1345,7 @@
       "url": "https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc"
@@ -1361,7 +1365,7 @@
       "url": "https://open.spotify.com/track/0QVaSbyIo8jPzrkU5exmE0"
     },
     {
-      "added_at": "2026-05-14 21:17:53",
+      "added_at": "2026-05-21 21:00:22",
       "album": {
         "name": "Radio p\u00e4\u00e4lle",
         "url": "https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq"

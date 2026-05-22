@@ -1,12 +1,12 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Igor ",
-  "num_followers": 1989,
+  "num_followers": 1990,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKe1bxlk4Q29GT9jC1ZtcGw+qrnI",
+  "snapshot_id": "AAAAABr4ht9FIwN4gfj5fFv95EHIjpkk",
   "tracks": [
     {
       "added_at": "2026-05-15 13:17:51",
@@ -95,26 +95,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Rewrite The Stars",
-        "url": "https://open.spotify.com/album/5EE8EfeK9dlScjMZWKDu3k"
-      },
-      "artists": [
-        {
-          "name": "Sterre Koning",
-          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
-        },
-        {
-          "name": "Menno Aben",
-          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
-        }
-      ],
-      "duration_ms": 247987,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/1T5EcQJDCp7pEa9ZlnQQK9"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Retromance",
         "url": "https://open.spotify.com/album/7xH89SNP041Yxp0vJDwPla"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 161325,
       "name": "Turn You On!",
       "url": "https://open.spotify.com/track/2rkFcQhAtNFlSSezIWCWjz"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Rewrite The Stars",
+        "url": "https://open.spotify.com/album/5EE8EfeK9dlScjMZWKDu3k"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        },
+        {
+          "name": "Menno Aben",
+          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
+        }
+      ],
+      "duration_ms": 247987,
+      "name": "Rewrite The Stars",
+      "url": "https://open.spotify.com/track/1T5EcQJDCp7pEa9ZlnQQK9"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -243,34 +243,6 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Waist 2.0 (feat. Roets)",
-        "url": "https://open.spotify.com/album/3GOHA8s0gRmFawjM2aLgc5"
-      },
-      "artists": [
-        {
-          "name": "De Formule",
-          "url": "https://open.spotify.com/artist/2NoHMGjfu8m1xl3hNIUwKo"
-        },
-        {
-          "name": "MADLUV Entertainment",
-          "url": "https://open.spotify.com/artist/4WLehs5JDvDdaQqqcCtW3g"
-        },
-        {
-          "name": "Jozzi Uganda",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Roets",
-          "url": "https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Waist 2.0 (feat. Roets)",
-      "url": "https://open.spotify.com/track/6kRe23QlN5NdiDBiS7eDYP"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -519,6 +491,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+      },
+      "artists": [
+        {
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+        }
+      ],
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -547,22 +535,6 @@
       "duration_ms": 307414,
       "name": "Snelle Planga",
       "url": "https://open.spotify.com/track/5lyCknaiX131J9SFbgLEGB"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
-      },
-      "artists": [
-        {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -715,22 +687,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
-      },
-      "artists": [
-        {
-          "name": "Grandad",
-          "url": "https://open.spotify.com/artist/3cYgV9Bxor0DFHme9eLbD0"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "GYL",
         "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
       },
@@ -743,6 +699,22 @@
       "duration_ms": 171023,
       "name": "GYL",
       "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
+      },
+      "artists": [
+        {
+          "name": "Grandad",
+          "url": "https://open.spotify.com/artist/3cYgV9Bxor0DFHme9eLbD0"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -795,54 +767,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Hin Orer",
-        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
-      },
-      "artists": [
-        {
-          "name": "Ara",
-          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Hin Orer",
-      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
-      },
-      "artists": [
-        {
-          "name": "JAH",
-          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Wannabe Superstar",
-        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
-      },
-      "artists": [
-        {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
-        }
-      ],
-      "duration_ms": 237218,
-      "name": "wannabe superstar",
-      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "kom is dromen",
         "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
       },
@@ -863,18 +787,66 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "BAD CHI",
-        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+        "name": "Hin Orer",
+        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
       "artists": [
         {
-          "name": "Kidd Nebula",
-          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+          "name": "Ara",
+          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
         }
       ],
-      "duration_ms": 223974,
-      "name": "BAD CHI - Single Version",
-      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
+      "duration_ms": 213167,
+      "name": "Hin Orer",
+      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Wannabe Superstar",
+        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
+      },
+      "artists": [
+        {
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+        }
+      ],
+      "duration_ms": 237218,
+      "name": "wannabe superstar",
+      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+      },
+      "artists": [
+        {
+          "name": "NEBULA",
+          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -899,18 +871,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Khochu Kupatis' (Original Soundtrack \"Durko\")",
-        "url": "https://open.spotify.com/album/7dpKLQxtIgmRSAszR7qq3u"
+        "name": "BAD CHI",
+        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
       },
       "artists": [
         {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+          "name": "Kidd Nebula",
+          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
         }
       ],
-      "duration_ms": 133287,
-      "name": "Khochu Kupatis' (Original Soundtrack \"Durko\")",
-      "url": "https://open.spotify.com/track/5XBLMpFV2yv0qjuljcQIT7"
+      "duration_ms": 223974,
+      "name": "BAD CHI - Single Version",
+      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -931,22 +903,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "see-through",
-        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
-      },
-      "artists": [
-        {
-          "name": "NEBULA",
-          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "see-through",
-      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
       },
@@ -963,6 +919,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "Khochu Kupatis' (Original Soundtrack \"Durko\")",
+        "url": "https://open.spotify.com/album/7dpKLQxtIgmRSAszR7qq3u"
+      },
+      "artists": [
+        {
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+        }
+      ],
+      "duration_ms": 133287,
+      "name": "Khochu Kupatis' (Original Soundtrack \"Durko\")",
+      "url": "https://open.spotify.com/track/5XBLMpFV2yv0qjuljcQIT7"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "WAS DIT ALLES?",
         "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
@@ -975,6 +947,22 @@
       "duration_ms": 132681,
       "name": "WAS DIT ALLES?",
       "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1007,22 +995,6 @@
       "duration_ms": 310015,
       "name": "Agony",
       "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1091,6 +1063,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+      },
+      "artists": [
+        {
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+        }
+      ],
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Make A Wish",
         "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
       },
@@ -1123,18 +1111,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+        "name": "Please you",
+        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
       "artists": [
         {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+          "name": "Angelo Benson",
+          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
         }
       ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+      "duration_ms": 242474,
+      "name": "Please you",
+      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1155,18 +1143,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Please you",
-        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
+        "name": "Vallen",
+        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
       "artists": [
         {
-          "name": "Angelo Benson",
-          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
+          "name": "YRSA",
+          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
         }
       ],
-      "duration_ms": 242474,
-      "name": "Please you",
-      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+      "duration_ms": 161226,
+      "name": "Vallen",
+      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1183,22 +1171,6 @@
       "duration_ms": 163620,
       "name": "April",
       "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Vallen",
-        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
-      },
-      "artists": [
-        {
-          "name": "YRSA",
-          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Vallen",
-      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1267,22 +1239,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
       },
@@ -1295,6 +1251,22 @@
       "duration_ms": 187787,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1427,22 +1399,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "On Top Of The World",
-        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
-      },
-      "artists": [
-        {
-          "name": "Misha Wong",
-          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Magnum Opus",
         "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
       },
@@ -1455,6 +1411,22 @@
       "duration_ms": 276000,
       "name": "Magnum Opus",
       "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "On Top Of The World",
+        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
+      },
+      "artists": [
+        {
+          "name": "Misha Wong",
+          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
     },
     {
       "added_at": "2026-05-15 13:17:51",

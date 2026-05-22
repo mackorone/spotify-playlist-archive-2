@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 301500,
       "name": "Arerey Manasa (From \"Falaknuma Das\")",
       "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 78597,
       "name": "Dacoit Kannepettaro Mix (From \"Dacoit\")",
       "url": "https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 232666,
       "name": "Koyila",
       "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
@@ -4224,10 +4224,32 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 329491,
       "name": "Malle Chettu",
       "url": "https://open.spotify.com/track/4CD07nbsz2PeaLJ5iodWlI"
+    },
+    {
+      "album": {
+        "name": "Andhrawala",
+        "url": "https://open.spotify.com/album/6Qbacy4YzjrODCmLOeZxro"
+      },
+      "artists": [
+        {
+          "name": "Chakri",
+          "url": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
+        },
+        {
+          "name": "Kousalya",
+          "url": "https://open.spotify.com/artist/1W9j3itOGw4WqyuZuErSqF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327340,
+      "name": "Malleteegaroi",
+      "url": "https://open.spotify.com/track/1PYVX0BNp4dR5lHKNknyOV"
     },
     {
       "album": {
@@ -4961,6 +4983,28 @@
     },
     {
       "album": {
+        "name": "Andhrawala",
+        "url": "https://open.spotify.com/album/6Qbacy4YzjrODCmLOeZxro"
+      },
+      "artists": [
+        {
+          "name": "Chakri",
+          "url": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
+        },
+        {
+          "name": "Kousalya",
+          "url": "https://open.spotify.com/artist/1W9j3itOGw4WqyuZuErSqF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283715,
+      "name": "Nairey Nairey",
+      "url": "https://open.spotify.com/track/59KYXV0sB3j617D6bbUuAv"
+    },
+    {
+      "album": {
         "name": "Samarasimha Reddy",
         "url": "https://open.spotify.com/album/6YXLhCltwciwzcth6xiA9z"
       },
@@ -5002,7 +5046,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 292826,
       "name": "Nee Yadalo Naaku",
       "url": "https://open.spotify.com/track/4wUOdPcYoqYZGM2wSdoLQu"
@@ -5090,6 +5134,28 @@
       "duration_ms": 281520,
       "name": "Neeve",
       "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
+    },
+    {
+      "album": {
+        "name": "Oosaravelli",
+        "url": "https://open.spotify.com/album/4C0tjIpNFfNtPh0htToFkW"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Nenante Naaku",
+      "url": "https://open.spotify.com/track/0DB231tVvkzOI5HO9U7xld"
     },
     {
       "album": {
@@ -5230,6 +5296,32 @@
       "duration_ms": 271964,
       "name": "Netho Cheppana",
       "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
+    },
+    {
+      "album": {
+        "name": "Oosaravelli",
+        "url": "https://open.spotify.com/album/4C0tjIpNFfNtPh0htToFkW"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257411,
+      "name": "Niharika",
+      "url": "https://open.spotify.com/track/5CJcRxKy346HnGXtQsdgah"
     },
     {
       "album": {
@@ -7738,6 +7830,24 @@
       "duration_ms": 275625,
       "name": "Urike Urike",
       "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
+    },
+    {
+      "album": {
+        "name": "Premikula Roju (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19JgOnpmRNNfEXdvtkStQJ"
+      },
+      "artists": [
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351973,
+      "name": "Vaalu Kanuladaanaa",
+      "url": "https://open.spotify.com/track/1cHdtngsRS7f2suwwQmxXg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-373 songs - 18 hr 25 min
+374 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,13 @@
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 | 2025-02-28 |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-06-08 | 2023-06-23 |
-| [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 | 2025-02-28 |  |
+| [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 | 2025-02-28 | 2026-05-22 |
 | [Alone](https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [Alone](https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3) | 2:51 | 2023-12-08 | 2024-03-21 |
 | [Alone With You](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp) | [Andrew Nagy](https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Alone With You](https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe) | 3:28 | 2024-11-08 |  |
 | [Anybody](https://open.spotify.com/track/1Q3n60SdTJ8uiQn0aNw59Z) | [Will Omit](https://open.spotify.com/artist/0K8j4074Sd01cxPiZflXFe) | [Anybody](https://open.spotify.com/album/0dz8Kbj6OD0DKrxiY1PxtI) | 2:47 | 2024-05-03 | 2024-10-04 |
 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 | 2022-09-15 | 2024-08-31 |
 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 | 2025-02-28 |  |
+| [Anywhere You Go](https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Anywhere You Go](https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk) | 3:00 | 2026-05-21 |  |
 | [Apologize](https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Apologize](https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR) | 2:39 | 2023-02-09 | 2024-09-11 |
 | [Are You Gonna Luv Me](https://open.spotify.com/track/6Y553ibqusRUUWQGA1Xia8) | [NEZZY](https://open.spotify.com/artist/2KLn6Uc0PfrLETzhNWWSDw) | [Chill Executive Officer \(CEO\), Vol\. 8 \[Selected by Maykel Piron\]](https://open.spotify.com/album/2GWbdANbXBXg9uFBf6fAnc) | 2:27 | 2024-07-26 | 2024-08-31 |
 | [Arise](https://open.spotify.com/track/0kJqFjYGa9S7sCxgbnWolm) | [Melandru](https://open.spotify.com/artist/1Ed6NjSI9E9UU2K46hOkTn) | [Arise](https://open.spotify.com/album/6ZflDrNe9rkvCy3q19Y1dI) | 4:05 | 2024-07-26 | 2024-08-31 |

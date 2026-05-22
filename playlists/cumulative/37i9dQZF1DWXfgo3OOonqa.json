@@ -346,7 +346,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 157714,
       "name": "100 g\u00e5nger",
       "url": "https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173"
@@ -1680,6 +1680,24 @@
       "duration_ms": 174545,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/4pE0Z4WnclhR1yvBQ6pIqy"
+    },
+    {
+      "album": {
+        "name": "ADONAI",
+        "url": "https://open.spotify.com/album/0RDgOjgHS40kBo3TSGy3jU"
+      },
+      "artists": [
+        {
+          "name": "Kristian Mecha",
+          "url": "https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130294,
+      "name": "ADONAI",
+      "url": "https://open.spotify.com/track/54JmOwxeiHWuCQg0ILYrB1"
     },
     {
       "album": {
@@ -9976,7 +9994,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 120000,
       "name": "DE E VAD DE E",
       "url": "https://open.spotify.com/track/16jHwVtMTky5cDhQPSmiLh"
@@ -10326,6 +10344,28 @@
       "duration_ms": 133674,
       "name": "DETALJER",
       "url": "https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH"
+    },
+    {
+      "album": {
+        "name": "Detaljer",
+        "url": "https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "Jay Giovann1",
+          "url": "https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "Detaljer",
+      "url": "https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw"
     },
     {
       "album": {
@@ -11192,7 +11232,7 @@
       },
       "artists": [
         {
-          "name": "Jireel",
+          "name": "JIREEL",
           "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         }
       ],
@@ -12222,7 +12262,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 133823,
       "name": "EKAR",
       "url": "https://open.spotify.com/track/7pE0wKNa5dkCEchtEhS1kx"
@@ -12898,6 +12938,24 @@
       "duration_ms": 256923,
       "name": "Ett s\u00e5nt liv",
       "url": "https://open.spotify.com/track/66BWBr4Tom5UfE9unLrgq7"
+    },
+    {
+      "album": {
+        "name": "Eyes Don't Lie",
+        "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
+      },
+      "artists": [
+        {
+          "name": "JIREEL",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207079,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/0QH0UeDEAhRpRqgD1e7cqU"
     },
     {
       "album": {
@@ -15960,7 +16018,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 176341,
       "name": "GiFT",
       "url": "https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9"
@@ -16718,7 +16776,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 139135,
       "name": "GSS",
       "url": "https://open.spotify.com/track/3sRjRxC55BEYMXCEi6n2eX"
@@ -20545,6 +20603,24 @@
     },
     {
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/46BB0CcFuzp0oWFK4MYyT2"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142696,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/5VxnBDUSCweTkyUxP32k3S"
+    },
+    {
+      "album": {
         "name": "ISHAG ADAM",
         "url": "https://open.spotify.com/album/5AmGWJO4G1OUzhf6ojGY9q"
       },
@@ -21370,7 +21446,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 145454,
       "name": "Kalla Sidan",
       "url": "https://open.spotify.com/track/6uX1f6PP0g4GXA4Ic0jPal"
@@ -26251,6 +26327,24 @@
     },
     {
       "album": {
+        "name": "Eyes Don't Lie",
+        "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
+      },
+      "artists": [
+        {
+          "name": "JIREEL",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
+    },
+    {
+      "album": {
         "name": "Man In The Mirror",
         "url": "https://open.spotify.com/album/1N8rjDhx0auy6sws8tqTHz"
       },
@@ -30008,7 +30102,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 147000,
       "name": "Nya Sverige 2026",
       "url": "https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B"
@@ -30735,6 +30829,24 @@
     },
     {
       "album": {
+        "name": "On Fleek",
+        "url": "https://open.spotify.com/album/4bwQwagkN1GhjAMfKHLtTd"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/5Yrq8wTAeBj5viFwFq5ffn"
+    },
+    {
+      "album": {
         "name": "One In A Million",
         "url": "https://open.spotify.com/album/1GY0BpuKMKyBVNxca0Qi9I"
       },
@@ -30750,7 +30862,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165616,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/71UklgFGz5HlsF4H6a1XHe"
@@ -35359,6 +35471,24 @@
     },
     {
       "album": {
+        "name": "Sena n\u00e4tter",
+        "url": "https://open.spotify.com/album/2rOf5wWXrzIwFgd3mz5vsf"
+      },
+      "artists": [
+        {
+          "name": "Saliboy",
+          "url": "https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Sena n\u00e4tter",
+      "url": "https://open.spotify.com/track/7wh6eCTjlgq9K7xJcGVdlA"
+    },
+    {
+      "album": {
         "name": "OC SESSIONS",
         "url": "https://open.spotify.com/album/5hsJZcK1bPqDmB6jnucnlj"
       },
@@ -37079,6 +37209,24 @@
     },
     {
       "album": {
+        "name": "Sonya",
+        "url": "https://open.spotify.com/album/3csU0vNyY7fBrFnZdVYTCr"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Sonya",
+      "url": "https://open.spotify.com/track/7ELeq4ReJcL4tlafps77OW"
+    },
+    {
+      "album": {
         "name": "DRILLOGI",
         "url": "https://open.spotify.com/album/2atzFyuCDPe3NWmYlX5Ngt"
       },
@@ -37644,6 +37792,28 @@
       "duration_ms": 158400,
       "name": "Stalledr\u00e4ng",
       "url": "https://open.spotify.com/track/5IISOE7rvmHMjhGrt57slY"
+    },
+    {
+      "album": {
+        "name": "tennisplanen",
+        "url": "https://open.spotify.com/album/7mjoasVeVpHbd4NH4wJfI4"
+      },
+      "artists": [
+        {
+          "name": "Viggo Nobis",
+          "url": "https://open.spotify.com/artist/3vE3OY3LIv4cbKmTVmCXxJ"
+        },
+        {
+          "name": "Bella Leonette",
+          "url": "https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234882,
+      "name": "stan",
+      "url": "https://open.spotify.com/track/0upjNBjuGftGLMnhXrmoc1"
     },
     {
       "album": {
@@ -38856,7 +39026,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 141473,
       "name": "SWG",
       "url": "https://open.spotify.com/track/0yxuY8iBQJ1F5FUdgdHiYP"
@@ -43703,6 +43873,24 @@
     },
     {
       "album": {
+        "name": "Djupare \u00c4n S\u00e5",
+        "url": "https://open.spotify.com/album/2Pu7iNap0044hnwX4KfSgd"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108600,
+      "name": "Vinsterna",
+      "url": "https://open.spotify.com/track/54jFE3lgUhRA6T8RGqJr5L"
+    },
+    {
+      "album": {
         "name": "Vintage Love",
         "url": "https://open.spotify.com/album/1KiUMNqxB2iaWDbdCsOXer"
       },
@@ -44784,7 +44972,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 141897,
       "name": "WINGMAN",
       "url": "https://open.spotify.com/track/1y5I9JZw8xzoAOzPWyrJxY"

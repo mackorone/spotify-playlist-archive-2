@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,676 songs - 6 day 11 hr 56 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,684 songs - 6 day 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2684,5 +2684,13 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2674 | [Ride On](https://open.spotify.com/track/3cOxGsyNbpVkdzVuR1CTSI) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [Walk Right Through](https://open.spotify.com/album/0hoQQdQJLWjowjSpoivAD0) | 2:35 |
 | 2675 | [Your Last Show](https://open.spotify.com/track/4iuVCdpNTQG7K5LiHWN0XN) | [JM LE COUEDIC](https://open.spotify.com/artist/2wr67doyBJOly96Gi8xv6X), [Larry Magee](https://open.spotify.com/artist/5z0kIziglW9RciMPdgLS6S) | [Your Last Show](https://open.spotify.com/album/6XNAvC8wsZoArV8H560MeT) | 4:00 |
 | 2676 | [Blue tune](https://open.spotify.com/track/0RNQne6RylKVUVhDqYwutN) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [Blue tune](https://open.spotify.com/album/37EchHk4bAJOhrEUMN7NAN) | 5:22 |
+| 2677 | [De volta filho pródigo](https://open.spotify.com/track/3GwixsYINpKC3zOlCM5gwK) | [Marcos De Jesus](https://open.spotify.com/artist/1OAc30WYXlrm7fs8M4NVOc), [Matheus Alves](https://open.spotify.com/artist/7GOGdXODSuySGQ6JStOXYR) | [De volta filho pródigo](https://open.spotify.com/album/1zeHwOKv4j6GFBjCUFUuhd) | 6:14 |
+| 2678 | [Young](https://open.spotify.com/track/7qE4BVVfJxu9GUz1s1Os0e) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Young](https://open.spotify.com/album/5sAKOqWaRQJdwC09lepwkw) | 2:22 |
+| 2679 | [Y SO HOT](https://open.spotify.com/track/1CwNsoCVFjUwTB5htCn0Ml) | [Leonnard Lowiz](https://open.spotify.com/artist/7sGqkc5ZU9FvWNJiNfjd6x) | [Y SO HOT](https://open.spotify.com/album/3Z525esUcEG2zHmdwX2G9T) | 4:04 |
+| 2680 | [Yacua](https://open.spotify.com/track/5Pnd4Gq1Qg9RXvPHsJTu7a) | [honguitofeliz](https://open.spotify.com/artist/6CpCPwbmVBaXBNtV9FLGaC) | [Yacua](https://open.spotify.com/album/5jvjK10jy083SRcKfcVOsp) | 2:31 |
+| 2681 | [Bad Guy](https://open.spotify.com/track/0imvH23leTUYy2bbSwPUPz) | [Dirty Noiz](https://open.spotify.com/artist/6MaxF1kLYOMgoBMuTjfBUu) | [Bad Guy](https://open.spotify.com/album/3jS2TuYSNGrKbV7FdhGPUj) | 3:03 |
+| 2682 | [Propensity](https://open.spotify.com/track/18Cl6qI1vHMUUrhv5pfDkQ) | [Zandyr](https://open.spotify.com/artist/0hKRlhijvE8WHCySSS92fE) | [Propensity](https://open.spotify.com/album/6ZKaCcYFVrDqeFTVIH2e4h) | 3:54 |
+| 2683 | [Hello Sunshine](https://open.spotify.com/track/1JtJ656UHbsmNYBMkqlPKU) | [Rain on Monday](https://open.spotify.com/artist/3WUdqOixoY5hkjvcAx2Cjp) | [Northern Memories](https://open.spotify.com/album/3GufxC0a1JzofHAJ4D46TY) | 3:55 |
+| 2684 | [Red Rose](https://open.spotify.com/track/4Z8U7coTzF2AcGpAfrMCOQ) | [Adina R](https://open.spotify.com/artist/20gyYigmFBuwiAW9VU0Z9P) | [Red Rose](https://open.spotify.com/album/23M8sNY7WUH4obb4JPeS4a) | 4:51 |
 
-Snapshot ID: `AAALDeAqJLgsOuRL+6PVMBQBN5d6i2f7`
+Snapshot ID: `AAALFda2YvYenVgJsCcrofaSemXiXcZb`

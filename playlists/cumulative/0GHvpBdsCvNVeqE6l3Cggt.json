@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv"
+      },
+      "artists": [
+        {
+          "name": "Atomic Ritual",
+          "url": "https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159879,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO"
+    },
+    {
+      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv"
       },

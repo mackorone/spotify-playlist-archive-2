@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Nik Makino
 
-415 songs - 22 hr 52 min
+416 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [TOTE BAG](https://open.spotify.com/track/1MqcQnd9KLBmQlq7ZgwKJA) | [Ohthreesosa](https://open.spotify.com/artist/3JRoPtrm59tN0yEY9eV1ZS) | [B4LUVSOSA \- DEMO](https://open.spotify.com/album/3Gm8lZjFrchKkqGF1r45yM) | 2:58 | 2026-04-22 |  |
 | [TOTOO AKO SAYO](https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [TOTOO AKO SAYO](https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr) | 2:43 | 2025-01-01 | 2025-06-26 |
 | [TREND](https://open.spotify.com/track/4saBJgL9i3HXrqAosg3dXY) | [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [TREND](https://open.spotify.com/album/4xcEfwjlrp45S105yHA0JT) | 2:29 | 2026-05-06 |  |
+| [TRIGGER FINGER](https://open.spotify.com/track/6nkEi7KOmRa6vz3Cbd63fG) | [PRAY](https://open.spotify.com/artist/7kSPW8j0U1sMy2AHpiGfuH), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [TRIGGER FINGER](https://open.spotify.com/album/6i6BHsxzCuZ8DA87L39106) | 3:00 | 2026-05-21 |  |
 | [Tugmang Preso](https://open.spotify.com/track/3iF6qURjmUsozda5wS6nkz) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Meron Na](https://open.spotify.com/album/4EIkAGjXLeIjP2IWzAQbDW) | 6:54 | 2024-01-17 | 2024-03-21 |
 | [Tuldok](https://open.spotify.com/track/5qmJxQ2jAYCgG3fidAyACT) | [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn) | [Tuldok](https://open.spotify.com/album/0ihrkE1fLBbJ8Jn3adznXB) | 6:21 | 2026-03-04 |  |
 | [TUMATAK](https://open.spotify.com/track/1btvfzHy40Lmg49DZ1fdZL) | [Barq](https://open.spotify.com/artist/4INBFlFRWAczJG69vNp1o2) | [TUMATAK](https://open.spotify.com/album/4ZgPKJtWd2Mpx8p38QuKa0) | 2:59 | 2026-03-04 |  |

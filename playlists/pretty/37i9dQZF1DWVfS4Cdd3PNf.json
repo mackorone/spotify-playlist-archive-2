@@ -1,6 +1,6 @@
 {
   "description": "Masterpieces from the world of opera.",
-  "num_followers": 579009,
+  "num_followers": 579136,
   "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
@@ -2252,18 +2252,6 @@
           "url": "https://open.spotify.com/artist/2Tag9xzrJR09YhLzpVddeM"
         },
         {
-          "name": "Hungarian Radio Chorus",
-          "url": "https://open.spotify.com/artist/4o2cKpvx2MSjV1hrq0XRvF"
-        },
-        {
-          "name": "Nicolaus Esterhazy Sinfonia",
-          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        },
-        {
           "name": "Alan Titus",
           "url": "https://open.spotify.com/artist/2F4vmF18bVqW6Dkw4i25Os"
         },
@@ -2294,6 +2282,18 @@
         {
           "name": "J\u00f3zsef Moldvay",
           "url": "https://open.spotify.com/artist/0Ta6mICTpEF0Ig4nIGhgb3"
+        },
+        {
+          "name": "Hungarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/4o2cKpvx2MSjV1hrq0XRvF"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
       "duration_ms": 383840,

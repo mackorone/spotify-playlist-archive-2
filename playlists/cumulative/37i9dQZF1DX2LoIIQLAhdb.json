@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DAKEEZ",
   "name": "R&Bae",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 170426,
       "name": "Anesth\u00e9sie",
       "url": "https://open.spotify.com/track/6ZdsPi8lY9GTFetA38bGyI"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 129600,
       "name": "Baby",
       "url": "https://open.spotify.com/track/764crxwqaxWFykvSIUtRGT"
@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "C'est Ko",
+        "url": "https://open.spotify.com/album/3djn5fTH0P15KeeO6e0OIu"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210652,
+      "name": "C'est Ko",
+      "url": "https://open.spotify.com/track/1c8IL1VDg2YbrPdH4NBBsz"
+    },
+    {
+      "album": {
         "name": "C'est ma vie",
         "url": "https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC"
       },
@@ -2258,6 +2276,24 @@
       "duration_ms": 142000,
       "name": "Cod\u00e9",
       "url": "https://open.spotify.com/track/6i2PUBNIUizHQUC2jai2gD"
+    },
+    {
+      "album": {
+        "name": "Coeur scell\u00e9",
+        "url": "https://open.spotify.com/album/3c1odpE7yJQ3JQ3tpoUZ2j"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157610,
+      "name": "Coeur scell\u00e9",
+      "url": "https://open.spotify.com/track/3PJKyR5vgiizGFs23yqq81"
     },
     {
       "album": {
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 142926,
       "name": "Essential",
       "url": "https://open.spotify.com/track/3EfXJuslmhgyMoJwVopEuO"
@@ -4392,6 +4428,24 @@
       "duration_ms": 133069,
       "name": "FIRST DATE",
       "url": "https://open.spotify.com/track/1hl3P1lMBTvAy484nf20t2"
+    },
+    {
+      "album": {
+        "name": "FLEUR BLEUE",
+        "url": "https://open.spotify.com/album/64VL8213ZKwqtt3BW3FPbw"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155297,
+      "name": "FLEUR BLEUE",
+      "url": "https://open.spotify.com/track/32PDB6No0y6U2GqoPska5I"
     },
     {
       "album": {
@@ -5786,7 +5840,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 161450,
       "name": "Je te connais",
       "url": "https://open.spotify.com/track/44Xl9nqFjHk6kKyu25w9Ol"
@@ -5826,7 +5880,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 124675,
       "name": "Jena",
       "url": "https://open.spotify.com/track/4rSYypyADMDC12pVtH99Gb"
@@ -7460,7 +7514,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 135929,
       "name": "Manqu\u00e9",
       "url": "https://open.spotify.com/track/1zYYIK43Czx6xhnOtflcmu"
@@ -7500,6 +7554,24 @@
       "duration_ms": 172107,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/5BthTKwBobneeWl7LYiZTK"
+    },
+    {
+      "album": {
+        "name": "MAUVAIS",
+        "url": "https://open.spotify.com/album/6vSn2ed9hC5ZCI1dv22wHg"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "MAUVAIS",
+      "url": "https://open.spotify.com/track/64RCEmdpaVJztI88OST78x"
     },
     {
       "album": {
@@ -9060,7 +9132,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192878,
       "name": "oyaa",
       "url": "https://open.spotify.com/track/3JhvBwGB5WCGrnjphHjqab"
@@ -10026,6 +10098,24 @@
       "duration_ms": 173142,
       "name": "Pression",
       "url": "https://open.spotify.com/track/2KLfIFfR1PLMXvMthsuAWK"
+    },
+    {
+      "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Pretty Mama",
+      "url": "https://open.spotify.com/track/6AYhLMFpbiNfQ2191WWyAz"
     },
     {
       "album": {
@@ -12893,6 +12983,24 @@
     },
     {
       "album": {
+        "name": "BACKSTAGE",
+        "url": "https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN"
+      },
+      "artists": [
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ"
+    },
+    {
+      "album": {
         "name": "Pi\u00e8ce Ma\u00eetresse",
         "url": "https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3"
       },
@@ -13520,6 +13628,24 @@
       "duration_ms": 136471,
       "name": "Zina",
       "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
+    },
+    {
+      "album": {
+        "name": "GINGERBOY Party",
+        "url": "https://open.spotify.com/album/6dwlw37qooKhMsH4K1EbAL"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Z\u00c9RO DEFAUT",
+      "url": "https://open.spotify.com/track/4JJpP2JWOL2hO4vx4WJQ0l"
     },
     {
       "album": {

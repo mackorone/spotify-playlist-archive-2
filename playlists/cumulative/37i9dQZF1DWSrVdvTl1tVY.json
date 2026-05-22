@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 175877,
       "name": "Dark & Light",
       "url": "https://open.spotify.com/track/1B0MxvOyEX7xX2zbu9Tiet"
@@ -6654,7 +6654,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 201913,
       "name": "Don't Stop (Keep On)",
       "url": "https://open.spotify.com/track/1lkEi8hPYvtnI5SUHckhmN"
@@ -8968,6 +8968,24 @@
       "duration_ms": 215040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7c1g2OQbw8G0LirGKYnlCm"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3usPfapBweLmb9XbdNB4Y6"
     },
     {
       "album": {
@@ -11818,7 +11836,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 185613,
       "name": "I Luv U",
       "url": "https://open.spotify.com/track/3aoClcyQLlgEvvohVmycO3"
@@ -13294,7 +13312,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 220753,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/1VERPTqfl7ddpETEj34WWC"
@@ -14529,6 +14547,28 @@
     },
     {
       "album": {
+        "name": "Like That (feat. DJ Dre)",
+        "url": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        },
+        {
+          "name": "DJ Dre",
+          "url": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Like That (feat. DJ Dre)",
+      "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
+    },
+    {
+      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri"
       },
@@ -15192,7 +15232,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 147374,
       "name": "Love On Me",
       "url": "https://open.spotify.com/track/3rBYmkOB8N1Z4bCa3DsdPK"
@@ -16570,6 +16610,24 @@
       "duration_ms": 179614,
       "name": "Move - Punctual Remix",
       "url": "https://open.spotify.com/track/384UShG9e4mFJTEO6f69wX"
+    },
+    {
+      "album": {
+        "name": "Move Fast",
+        "url": "https://open.spotify.com/album/1gj4TQsskHJ1J4AJGijJR0"
+      },
+      "artists": [
+        {
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169964,
+      "name": "Move Fast",
+      "url": "https://open.spotify.com/track/1tqWpGRSQBFoG3z7e9mzAz"
     },
     {
       "album": {
@@ -18120,7 +18178,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 199384,
       "name": "On A Wave",
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
@@ -19714,7 +19772,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 229619,
       "name": "Pop That",
       "url": "https://open.spotify.com/track/1aEzj3EUuKSBbJ5dkIlmou"
@@ -19992,6 +20050,32 @@
       "duration_ms": 359069,
       "name": "Pros & Cons",
       "url": "https://open.spotify.com/track/5g3CgzmhUtbMB2Kzrfl0tc"
+    },
+    {
+      "album": {
+        "name": "Puff Puff Pass (Elliot & Liam Remix)",
+        "url": "https://open.spotify.com/album/4TWTpxr9BacwvysULksOnk"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        },
+        {
+          "name": "Elliot Schooling",
+          "url": "https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu"
+        },
+        {
+          "name": "Liam Palmer",
+          "url": "https://open.spotify.com/artist/0X08iR3Fp37Hoa9b1pjHnR"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "Puff Puff Pass - Elliot & Liam Remix",
+      "url": "https://open.spotify.com/track/0w43eAiPy1Phxob97wvmMC"
     },
     {
       "album": {
@@ -22172,7 +22256,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 253395,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf"
@@ -25069,6 +25153,28 @@
     },
     {
       "album": {
+        "name": "The Pipe",
+        "url": "https://open.spotify.com/album/6pc2h6qSlReqKSZjITN6lN"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "The Pipe",
+      "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
+    },
+    {
+      "album": {
         "name": "The Sequel",
         "url": "https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST"
       },
@@ -25888,7 +25994,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 171048,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/415lA2XhW5cHc9qnzQ62s4"
@@ -27649,6 +27755,24 @@
     },
     {
       "album": {
+        "name": "What I Might Do",
+        "url": "https://open.spotify.com/album/7q2MMicMNbXrGzy3Snw7Mo"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172463,
+      "name": "What I Might Do",
+      "url": "https://open.spotify.com/track/2GLogZAAP1nmaqcvmgWrTX"
+    },
+    {
+      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/5npp6s0QfeM3bubLrePZVa"
       },
@@ -28316,6 +28440,24 @@
       "duration_ms": 200000,
       "name": "XXX",
       "url": "https://open.spotify.com/track/0soiFDRLcsO54jlv2ejrK4"
+    },
+    {
+      "album": {
+        "name": "YES YES",
+        "url": "https://open.spotify.com/album/463ZfMHYCzOI35xVnWdSAr"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "YES YES",
+      "url": "https://open.spotify.com/track/1qLr9Jm0ooVvPZp7zkfs5K"
     },
     {
       "album": {

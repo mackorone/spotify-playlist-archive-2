@@ -4,7 +4,7 @@
 
 > 
 
-8,631 songs - 21 day 23 hr 49 min
+8,632 songs - 21 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5949,6 +5949,7 @@
 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 | 2025-01-03 |  |
 | [Spaceship, Rocket](https://open.spotify.com/track/5oAz6M77AaQaOjcFTmvmOm) | [PE$O PETE](https://open.spotify.com/artist/5B6civtd7qkaJGy3W5Q4M9), [Matt Houston](https://open.spotify.com/artist/1AEcYuYaDNec9P78iZVhBL), [CTC](https://open.spotify.com/artist/1vPHqjdwnm6ZSnILroMcjg) | [Spaceship, Rocket](https://open.spotify.com/album/5piUabZodjUYB0yZx3na0L) | 2:42 | 2025-02-18 |  |
 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 | 2025-01-15 |  |
+| [Sparkle \- Original Version](https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 6:50 | 2026-05-22 |  |
 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 | 2025-01-15 |  |
 | [Special \(feat\. Offset and Solo Lucci\)](https://open.spotify.com/track/1DAl49mec3YC7a3Yc86Gz2) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Solo Lucci](https://open.spotify.com/artist/4IzkuUevCR7evTUwixiu25) | [I'm Up](https://open.spotify.com/album/4sAB9WulPpnAcig7alDGTg) | 4:23 | 2025-01-15 |  |
 | [specialist](https://open.spotify.com/track/6jEtoJEx2TuM5orLrP5kPQ) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/5Q3abTCaUaDZRDBM1BpVAr) | 2:13 | 2024-12-10 |  |

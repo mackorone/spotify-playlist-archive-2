@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AJ Tracey",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: MoStack, J Hus",
   "name": "Rap UK",
   "tracks": [
     {
@@ -832,6 +832,28 @@
       "duration_ms": 206036,
       "name": "22 Carats",
       "url": "https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
     },
     {
       "album": {
@@ -2470,6 +2492,24 @@
       "duration_ms": 118849,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/6jBy6OXWqs0UphUSUtOa8P"
+    },
+    {
+      "album": {
+        "name": "Terrified .",
+        "url": "https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197932,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/0kWAW8wkGQwepTKyYjJTu5"
     },
     {
       "album": {
@@ -6599,6 +6639,28 @@
     },
     {
       "album": {
+        "name": "Bulletproof Disc",
+        "url": "https://open.spotify.com/album/0X9zXdN9mAkszdZjsWWhKx"
+      },
+      "artists": [
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161656,
+      "name": "Body Tea (feat. J Hus)",
+      "url": "https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv"
+    },
+    {
+      "album": {
         "name": "BOLO",
         "url": "https://open.spotify.com/album/2gbdGVzaFJU5ODynhTFddu"
       },
@@ -6690,7 +6752,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 112733,
       "name": "Booga",
       "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
@@ -6886,6 +6948,24 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "Boyega",
+        "url": "https://open.spotify.com/album/3E2MuX9WbaxKuSbG4L0NVa"
+      },
+      "artists": [
+        {
+          "name": "Finessekid",
+          "url": "https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122072,
+      "name": "Boyega",
+      "url": "https://open.spotify.com/track/2SIFNfukEygTgvlrHsLjG6"
     },
     {
       "album": {
@@ -7590,7 +7670,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 144796,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/1MTKNG15TdQP6hLenlqlV5"
@@ -15567,6 +15647,24 @@
     },
     {
       "album": {
+        "name": "Finders Keepers",
+        "url": "https://open.spotify.com/album/2dj0441lb3yWRydVwijSJB"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Finders Keepers",
+      "url": "https://open.spotify.com/track/4xRJwngsBZMvfXPDwhD1ZW"
+    },
+    {
+      "album": {
         "name": "Finding Out",
         "url": "https://open.spotify.com/album/4HYLV8ifvg9TJMg4aeqscE"
       },
@@ -18367,6 +18465,28 @@
     },
     {
       "album": {
+        "name": "GTTB",
+        "url": "https://open.spotify.com/album/4JzycDdk3lVGnL5XAZOm1Q"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154748,
+      "name": "GTTB",
+      "url": "https://open.spotify.com/track/3Ea9fP2AS2QbQwtF1m4qGl"
+    },
+    {
+      "album": {
         "name": "Gucci Fabrics",
         "url": "https://open.spotify.com/album/2DX7uGGYvWulowtDz6vz4K"
       },
@@ -19278,6 +19398,24 @@
       "duration_ms": 101333,
       "name": "Henthai",
       "url": "https://open.spotify.com/track/2nZnnQqUXMvw9kH5PlDEY6"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2IX2U8C7cpuD0GYnJB17Q8"
+      },
+      "artists": [
+        {
+          "name": "Moriah Mensah",
+          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3q2LwSEKx9Tzt37FWAhcyC"
     },
     {
       "album": {
@@ -28023,6 +28161,28 @@
     },
     {
       "album": {
+        "name": "More Than Rhymes (feat. K-Trap)",
+        "url": "https://open.spotify.com/album/6R1YCiJnVPzBa5n3hsD2YY"
+      },
+      "artists": [
+        {
+          "name": "W1ZZY",
+          "url": "https://open.spotify.com/artist/4kTj2G65KbLiE8MRoFE3RO"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "More Than Rhymes (feat. K-Trap)",
+      "url": "https://open.spotify.com/track/2ry2UxSEBxLNFVRMGd9MpY"
+    },
+    {
+      "album": {
         "name": "More Than U Know",
         "url": "https://open.spotify.com/album/2l11S3y24CE9s3zeM5AunP"
       },
@@ -28438,7 +28598,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 104605,
       "name": "MR DND",
       "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
@@ -40036,7 +40196,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 180202,
       "name": "Straight Drop X6",
       "url": "https://open.spotify.com/track/1glsTkHUf9IOL3XwlVCtLv"

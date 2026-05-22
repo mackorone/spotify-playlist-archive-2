@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194901,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80"
+    },
+    {
+      "album": {
         "name": "Ma che Hit",
         "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
       },

@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Ad\u0131 \u0130ntikamd\u0131 (Mustafa Sandal Sayg\u0131 1)",
+        "url": "https://open.spotify.com/album/2zAb5EqzLC20ep1Cc96Rwj"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        },
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212528,
+      "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
+      "url": "https://open.spotify.com/track/4g2ixRBtPKBQA8TkKfB0JZ"
+    },
+    {
+      "album": {
         "name": "Mustafa Sandal Sayg\u0131 1",
         "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
       },
@@ -946,7 +968,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 212528,
       "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
       "url": "https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i"
@@ -2500,7 +2522,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 133090,
       "name": "Ar\u0131yo",
       "url": "https://open.spotify.com/track/2tn5ROyAtMeBg4NCQMTTnD"
@@ -6208,7 +6230,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 205706,
       "name": "Bu Y\u00fczden",
       "url": "https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX"
@@ -8776,6 +8798,24 @@
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
+    },
+    {
+      "album": {
+        "name": "DVD",
+        "url": "https://open.spotify.com/album/3eo8Bg1zgmRawhtSWJSpbp"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
     },
     {
       "album": {
@@ -18468,7 +18508,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
@@ -19984,7 +20024,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 185217,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb"
@@ -27148,7 +27188,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 194495,
       "name": "Vur Beni",
       "url": "https://open.spotify.com/track/2TSyYedWsuI7BDOOJx9CHl"
@@ -27188,7 +27228,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 157291,
       "name": "Vursunlar - Roman Version",
       "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
@@ -27666,7 +27706,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 195800,
       "name": "Yanar\u0131m",
       "url": "https://open.spotify.com/track/69dbmLAqR6BTHOvMpZ7XK3"

@@ -4,11 +4,12 @@
 
 > Mantras for meditation
 
-194 songs - 1 day 23 hr 25 min
+195 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [108 Om Chants](https://open.spotify.com/track/4cvFUTWRq0wFavHjWtOgTQ) | [Dr\. Ananda Balayogi Bhavanani](https://open.spotify.com/artist/1V15Qmcc8D4gYTHvzHYeQ9) | [Patanjali Yoga Sutra \(Chanting\)](https://open.spotify.com/album/5vLVE2qKObC0dsmlBUrf4U) | 23:42 | 2024-12-30 |  |
+| [Aditya Hridayam Stotram](https://open.spotify.com/track/4nmJEQJm47VIgcQxXtbONu) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl) | [Aditya Hridayam Stotram](https://open.spotify.com/album/5EnMGmc66Q5ZkFmc9v5G59) | 8:05 | 2026-05-20 |  |
 | [Adya Stotram](https://open.spotify.com/track/26n2T6Zy7PWoDO1ISWXOnX) | [Soumitra Bhattacharya](https://open.spotify.com/artist/1zUtY9pqnaJfZlYXRc3PFj) | [Adya Stotram](https://open.spotify.com/album/1bhUr8o8d1fgcuq8yuFnmW) | 5:50 | 2025-02-20 | 2025-03-08 |
 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 | 2022-01-24 |  |
 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 | 2025-02-07 |  |
@@ -143,7 +144,7 @@
 | [Rahu Mantra](https://open.spotify.com/track/25B8egbE1Q2ixRTnH5kVcB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Rahu Mantra](https://open.spotify.com/album/0hVTIR5nYASO1KnraFN6hm) | 12:54 | 2024-03-05 | 2024-09-06 |
 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 | 2025-02-07 | 2026-03-24 |
 | [Ram Mantra](https://open.spotify.com/track/0IbaAc6gs5Cgyen3ukuKbv) | [Neeaz](https://open.spotify.com/artist/4iXaAZ8jrf0naPbLsybt5a) | [Ram Mantra](https://open.spotify.com/album/1quclbQaKMxsQcOWP4FBWf) | 2:56 | 2024-04-05 | 2024-09-06 |
-| [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 | 2023-06-20 |  |
+| [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 | 2023-06-20 | 2026-05-22 |
 | [Ram Naam Dhun](https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Dhun](https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V) | 13:58 | 2023-10-23 |  |
 | [Ram Siya Ram](https://open.spotify.com/track/71hjdkWEDFxESRWPDvDMNb) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Adipurush](https://open.spotify.com/album/6E4a5L8GGEk560bbHlM2VP) | 3:50 | 2023-06-08 | 2023-12-27 |
 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 | 2023-03-17 |  |

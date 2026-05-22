@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,380 songs - 5 day 18 hr 52 min
+2,388 songs - 5 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-04-02 |  |
 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 | 2025-11-29 |  |
 | [Bad Girls \- Acoustic](https://open.spotify.com/track/70pfFtMi1w5qkReFQAFRKD) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Bad Girls \(Acoustic\)](https://open.spotify.com/album/1qzZAwOL6eCaYSCro4sBKt) | 3:38 | 2024-11-11 |  |
+| [Bad Guy](https://open.spotify.com/track/0imvH23leTUYy2bbSwPUPz) | [Dirty Noiz](https://open.spotify.com/artist/6MaxF1kLYOMgoBMuTjfBUu) | [Bad Guy](https://open.spotify.com/album/3jS2TuYSNGrKbV7FdhGPUj) | 3:03 | 2026-05-21 |  |
 | [Bad Habits](https://open.spotify.com/track/5hGx9CAgmf2tyghsQ96RVH) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [Bad Habits](https://open.spotify.com/album/1htxpFSx2SHvp4Q45J4KxE) | 2:58 | 2024-11-12 |  |
 | [BAD TOOTH PASTE](https://open.spotify.com/track/2xezcfbn2zKG4XljApFozF) | [bergamots](https://open.spotify.com/artist/3DtgbqGZ6tqMaUugQSHgnb) | [BAD TOOTH PASTE](https://open.spotify.com/album/580T67YfRD5P6Es0cfIlcs) | 2:18 | 2025-02-17 |  |
 | [Bailed](https://open.spotify.com/track/3pGT7xnqZcCJ05J8ZeGoeS) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx), [Leah Gillespie](https://open.spotify.com/artist/6umeJPId6AiDklTrv3kDP2) | [Bailed](https://open.spotify.com/album/25nGmCqu37ZhssMxMrj7k5) | 4:00 | 2025-01-22 |  |
@@ -438,6 +439,7 @@
 | [Daydream](https://open.spotify.com/track/4Q3PiVczMG1ZCa3mywL82e) | [Emi Araishi](https://open.spotify.com/artist/1WGexXVw9Qy9SGnIdN6sR1) | [Daydream](https://open.spotify.com/album/4ZItVevXm19r8mYVZ4gCDf) | 4:50 | 2024-08-21 |  |
 | [Days Of Nothing](https://open.spotify.com/track/3Q6QTPUFmz4x9bqEXyHMau) | [Damon Brock](https://open.spotify.com/artist/7iz3MiwbGRJxA94wTtNAEI) | [Resolute](https://open.spotify.com/album/1aCZ6o9oIzio4CPSyVtTwR) | 6:00 | 2024-07-12 |  |
 | [De Ronningen](https://open.spotify.com/track/2svqbzCX4Rk4Dt5uZipiL9) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW) | [Barcaza Boreal Plus Ultra](https://open.spotify.com/album/28JDXeqpl4jxkA6iXv0OK1) | 1:28 | 2025-11-25 |  |
+| [De volta filho pródigo](https://open.spotify.com/track/3GwixsYINpKC3zOlCM5gwK) | [Marcos De Jesus](https://open.spotify.com/artist/1OAc30WYXlrm7fs8M4NVOc), [Matheus Alves](https://open.spotify.com/artist/7GOGdXODSuySGQ6JStOXYR) | [De volta filho pródigo](https://open.spotify.com/album/1zeHwOKv4j6GFBjCUFUuhd) | 6:14 | 2026-05-21 |  |
 | [Dead Friends](https://open.spotify.com/track/3op93ySCVGjQdJmsK3W9t9) | [The Dream Eaters](https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf) | [Dead Friends](https://open.spotify.com/album/77336Ob8XEwoeeIfcJM5xM) | 3:12 | 2025-10-09 |  |
 | [Dead Maps](https://open.spotify.com/track/4fwi28PUijx79d4Ue0mi0p) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Dead Maps](https://open.spotify.com/album/7Lm97iW0QEuTxi5HS4Y076) | 2:20 | 2025-09-17 |  |
 | [Dead To Me](https://open.spotify.com/track/0P9XoT0xpvQUSU8PfkJ9Al) | [GATE49](https://open.spotify.com/artist/3H6d2Ium6kqak079Rg0LHG) | [Dead To Me](https://open.spotify.com/album/0naLIat48W6NkYybVCckCo) | 2:13 | 2025-06-13 |  |
@@ -815,6 +817,7 @@
 | [Hellbound](https://open.spotify.com/track/2GWalOSix9H9UgsDJRiQNS) | [Couching Distance](https://open.spotify.com/artist/6jGzXAWsNR1ylxmLK2z4G1) | [Hellbound](https://open.spotify.com/album/1Ff628nCaqhnmWgsfyAQzA) | 2:51 | 2025-04-16 |  |
 | [Hello](https://open.spotify.com/track/5RmWtdRIvAoZqwCYMcSxJf) | [Banu Dino](https://open.spotify.com/artist/3u5W9KLzkSBEVwKban2KTb) | [Hello](https://open.spotify.com/album/5kI8YJC7lGDZsY0ULQ0Y0q) | 3:44 | 2026-05-05 |  |
 | [Hello Baby](https://open.spotify.com/track/5yYjH2Yn6jBtZrZEWHkPSm) | [Raging Flowers](https://open.spotify.com/artist/68fjurQa2bBm3lwJLKf4nH) | [Hello Baby](https://open.spotify.com/album/5TtJc2H0Mh7jMibkFIlMUW) | 2:40 | 2024-05-23 |  |
+| [Hello Sunshine](https://open.spotify.com/track/1JtJ656UHbsmNYBMkqlPKU) | [Rain on Monday](https://open.spotify.com/artist/3WUdqOixoY5hkjvcAx2Cjp) | [Northern Memories](https://open.spotify.com/album/3GufxC0a1JzofHAJ4D46TY) | 3:55 | 2026-05-21 |  |
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-14 |  |
 | [Hep Cat Boogie \- Swing Version](https://open.spotify.com/track/7H3CFWwZoKjbiFPdar468T) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Sharon & The Shakin' Beast](https://open.spotify.com/artist/7dzyfD9RWbweK7XYmmUGdj) | [Hep Cat Boogie \(Swing Version\)](https://open.spotify.com/album/4piOu4qp6LtyM68Vj0iPkw) | 3:29 | 2024-08-12 |  |
 | [Here Come the Children](https://open.spotify.com/track/690JPo1lS4zjXCyTKoOWTh) | [Chris Fredrickson](https://open.spotify.com/artist/0xTq0H48UGF4cDDQQConmk), [Olivia Fredrickson](https://open.spotify.com/artist/3Ba2foHyWOrScmXIo0xTzL) | [It's About Time](https://open.spotify.com/album/2bmcgi5XbcJWNQS5dMEADr) | 2:44 | 2025-03-29 |  |
@@ -1573,6 +1576,7 @@
 | [promise you'll stay](https://open.spotify.com/track/2YlQpMecysTNKOla7hBZQg) | [daniyal](https://open.spotify.com/artist/3aLkcVjOGAtwYI1wcYjuoG) | [promise you'll stay](https://open.spotify.com/album/4bsQm5dT0vPABA98u0XJus) | 2:57 | 2024-08-12 |  |
 | [Proof](https://open.spotify.com/track/0ea8mQEsg6cbF5hPzZ5fKA) | [Curtis Lee](https://open.spotify.com/artist/5oPWLiR5I9BqjSNgjF7bhD) | [Proof](https://open.spotify.com/album/6Di4TL6FzDo5Pnl1V3PPgy) | 3:28 | 2025-07-24 |  |
 | [Proof of Love](https://open.spotify.com/track/67Ig6PY66hqzrKe8rSvHiD) | [Aella Moon](https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo) | [Proof of Love](https://open.spotify.com/album/1B5rexLLZZ0ZAx4Om6hyxv) | 4:19 | 2026-01-10 |  |
+| [Propensity](https://open.spotify.com/track/18Cl6qI1vHMUUrhv5pfDkQ) | [Zandyr](https://open.spotify.com/artist/0hKRlhijvE8WHCySSS92fE) | [Propensity](https://open.spotify.com/album/6ZKaCcYFVrDqeFTVIH2e4h) | 3:54 | 2026-05-21 |  |
 | [Prosciutto](https://open.spotify.com/track/2l5qT7dkSn68qkq0a4Fqqc) | [ESEHOMBRE](https://open.spotify.com/artist/1UyOWBHK9IYWq8oon0FPQo), [Matti](https://open.spotify.com/artist/6H0vuLmAlqwhYz4lDCSkwH) | [Raw Ham](https://open.spotify.com/album/4gIiGPYKzVUCVGI0AFbeQg) | 3:52 | 2026-02-02 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-08-22 |  |
 | [Psychedelic Summer](https://open.spotify.com/track/7MlxDaTrjoi6tpMxyxgm9j) | [Malibu Avenue](https://open.spotify.com/artist/2AJCsZKcqA4XwsJ7g5xtLb) | [Cosmic Playground](https://open.spotify.com/album/030rKE9SitSwPG5bSS6G3L) | 2:42 | 2024-04-28 |  |
@@ -1621,6 +1625,7 @@
 | [Rebuild](https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:40 | 2026-02-07 |  |
 | [Red Desert Road](https://open.spotify.com/track/3NgMcXGhe2EbRFx6vVpPsP) | [Pat Riel](https://open.spotify.com/artist/2xNmhXgczM1o9RvceSiKjU) | [Red Desert Road](https://open.spotify.com/album/3cgxxoKaJ9vpjthf5Y6xbi) | 4:36 | 2024-07-15 |  |
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2026-01-06 |  |
+| [Red Rose](https://open.spotify.com/track/4Z8U7coTzF2AcGpAfrMCOQ) | [Adina R](https://open.spotify.com/artist/20gyYigmFBuwiAW9VU0Z9P) | [Red Rose](https://open.spotify.com/album/23M8sNY7WUH4obb4JPeS4a) | 4:51 | 2026-05-21 |  |
 | [Red Sweater](https://open.spotify.com/track/3rMkxYm6zPtntipi2VMtmK) | [MARINSS](https://open.spotify.com/artist/4GrpcnM6IFTf7mWpADVnL5) | [Red Sweater](https://open.spotify.com/album/4gF3kSp5bHxx1xuYoTQR8p) | 3:08 | 2025-02-25 |  |
 | [Reef Rumblin'](https://open.spotify.com/track/0hq6DPl40WcVVgqmEQ9SPe) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Reef Rumblin'](https://open.spotify.com/album/3PwSgdncvieGtr0f4GUdXZ) | 2:06 | 2024-08-22 |  |
 | [Reflection](https://open.spotify.com/track/746UrIs3IQCAqtJXiJWHNl) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Reflection](https://open.spotify.com/album/19NhexiLvZ6t7tAUFc6r5d) | 3:07 | 2024-08-22 |  |
@@ -2291,6 +2296,8 @@
 | [Wreck My World](https://open.spotify.com/track/7HMPtbqlRF44pYwdeSq4DA) | [The Artist Mark](https://open.spotify.com/artist/24vLO476jl8RCdhZtQ4AHu) | [Wreck My World](https://open.spotify.com/album/6K296bPPFxg9cTPfLh92Is) | 2:36 | 2025-08-21 |  |
 | [Wrong Side](https://open.spotify.com/track/2LnDSbHdZ8xiWUjYUfk1Eq) | [Geoffrey Cedar](https://open.spotify.com/artist/3pAO58tLWQQ6aqWD0CAx5N) | [Wrong Side](https://open.spotify.com/album/5LdPbIVBKyDFddwQIQt8BO) | 4:17 | 2025-09-09 |  |
 | [Xao Xao](https://open.spotify.com/track/5m8DHNT0BT1YrxcaLx6PC3) | [Earcatching](https://open.spotify.com/artist/7IMF8yHoRzMUQIzMAY14tf) | [Xao Xao](https://open.spotify.com/album/7oveAL0U8wawMObbK9XWnk) | 3:04 | 2025-05-01 |  |
+| [Y SO HOT](https://open.spotify.com/track/1CwNsoCVFjUwTB5htCn0Ml) | [Leonnard Lowiz](https://open.spotify.com/artist/7sGqkc5ZU9FvWNJiNfjd6x) | [Y SO HOT](https://open.spotify.com/album/3Z525esUcEG2zHmdwX2G9T) | 4:04 | 2026-05-21 |  |
+| [Yacua](https://open.spotify.com/track/5Pnd4Gq1Qg9RXvPHsJTu7a) | [honguitofeliz](https://open.spotify.com/artist/6CpCPwbmVBaXBNtV9FLGaC) | [Yacua](https://open.spotify.com/album/5jvjK10jy083SRcKfcVOsp) | 2:31 | 2026-05-21 |  |
 | [Yamina](https://open.spotify.com/track/2MX150bfgDk8Xgi9JtduwH) | [Udo](https://open.spotify.com/artist/4KciVMCX2pCUJRiQRoNay6) | [Yamina](https://open.spotify.com/album/7EbYkqRXJATB2BMxHTu4Y8) | 2:56 | 2026-05-07 |  |
 | [Year fifty nine](https://open.spotify.com/track/53kpDvr3PaNWuPwItJOV59) | [Robby Rockabilly](https://open.spotify.com/artist/78kw6T4KRFQYZzL5ixXEcJ) | [Year fifty nine](https://open.spotify.com/album/0vosm83Pe3CauEZQKaO366) | 3:27 | 2026-03-04 |  |
 | [Yehoo](https://open.spotify.com/track/0oWwA3Ds49Ks9T9E5fdbAm) | [Mhmmd Shkri](https://open.spotify.com/artist/5v2XCFaYWA8UQG5WKhnbOo) | [Yehoo](https://open.spotify.com/album/0Wenmt176MHHhWL6lvPGeV) | 3:00 | 2025-11-06 |  |
@@ -2327,6 +2334,7 @@
 | [You're Supposed to Know](https://open.spotify.com/track/6Ei1u1Yn6JP151zDWUUt9O) | [Forest Veil](https://open.spotify.com/artist/2s9Zy6OuzaRKa6SsmyQe5r) | [You're Supposed to Know](https://open.spotify.com/album/5HNqVseTcqi0FqAOt0yezB) | 3:04 | 2024-08-05 |  |
 | [You've Got This!](https://open.spotify.com/track/0jP1cP68nrgzCUJgtYQWQY) | [Annette Davies](https://open.spotify.com/artist/1IKGoSyqjfq4xQLijteRpj) | [You've Got This!](https://open.spotify.com/album/2g5rQuX0J8CIhzboin3yau) | 3:58 | 2025-11-20 |  |
 | [You, Babe](https://open.spotify.com/track/2kwncHpBMva0AgIUoiMrZ0) | [Justin H.K.](https://open.spotify.com/artist/0g6KAUfXRADHRGajR1Lw2D) | [Dad Jazz](https://open.spotify.com/album/55Whm9rQ9Vuqo5vZGlo1Cf) | 1:58 | 2024-05-28 |  |
+| [Young](https://open.spotify.com/track/7qE4BVVfJxu9GUz1s1Os0e) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Young](https://open.spotify.com/album/5sAKOqWaRQJdwC09lepwkw) | 2:22 | 2026-05-21 |  |
 | [Young and Pretty](https://open.spotify.com/track/4qEGHTukgfzD7vkrUMmSNe) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Uninhibited 2006](https://open.spotify.com/album/705AOHOqDlHAl9JCYz1SWW) | 4:12 | 2026-01-02 |  |
 | [Young Man](https://open.spotify.com/track/3eKn7PQhijBQiQ8BRDIYtX) | [Highrise](https://open.spotify.com/artist/0K37X9yuGZbV6PVwjuDxtj) | [Young Man](https://open.spotify.com/album/2N3nmmxWQCQRZVZsjkL9XY) | 2:55 | 2025-11-06 |  |
 | [your fire](https://open.spotify.com/track/6klzgVBx8Xl2X4QwDrzBHQ) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [your fire](https://open.spotify.com/album/5KiH6DcXPPEPNY3A9vGHXk) | 3:04 | 2025-03-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49239,
+  "num_followers": 49240,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N"
+      },
+      "artists": [
+        {
+          "name": "Victoria West",
+          "url": "https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL"
+        }
+      ],
+      "duration_ms": 185270,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "isy",
         "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 150199,
       "name": "isy",
       "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N"
-      },
-      "artists": [
-        {
-          "name": "Victoria West",
-          "url": "https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL"
-        }
-      ],
-      "duration_ms": 185270,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "EVERMIND",
-        "url": "https://open.spotify.com/album/0SghnQMcfzIWHReazVlTHT"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 147077,
-      "name": "Evermind Loner",
-      "url": "https://open.spotify.com/track/5GmfTLclKGNeZld0jaXNdh"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "ARBAYT",
         "url": "https://open.spotify.com/album/0ZeN8VhIW5kzodEzXisUAr"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 132000,
       "name": "ARBAYT",
       "url": "https://open.spotify.com/track/0roqmhAUbYD2OpX413OXN1"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "EVERMIND",
+        "url": "https://open.spotify.com/album/0SghnQMcfzIWHReazVlTHT"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 147077,
+      "name": "Evermind Loner",
+      "url": "https://open.spotify.com/track/5GmfTLclKGNeZld0jaXNdh"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 206868,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 188560,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 206868,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Bl\u00f6dsinn",
+        "url": "https://open.spotify.com/album/271QvvfwnZ0k0RQDROUytQ"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Bl\u00f6dsinn",
+      "url": "https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Femi(ni)cide",
         "url": "https://open.spotify.com/album/5FWZXDqvAQWzqIFY2xdQEc"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 170146,
       "name": "ONE HEART",
       "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Bl\u00f6dsinn",
-        "url": "https://open.spotify.com/album/271QvvfwnZ0k0RQDROUytQ"
-      },
-      "artists": [
-        {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
-        },
-        {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
-        }
-      ],
-      "duration_ms": 157232,
-      "name": "Bl\u00f6dsinn",
-      "url": "https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf"
     },
     {
       "added_at": "2026-05-05 22:00:31",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Sabien",
+  "description": "Frisse Nederlandse pop. Cover: Bankzitters",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 139760,
       "name": "Alleen Met Mij",
       "url": "https://open.spotify.com/track/7qBnso24ioY5e2paJWFKTL"
@@ -1466,6 +1466,24 @@
       "duration_ms": 156470,
       "name": "Alles Staat Je",
       "url": "https://open.spotify.com/track/1GF5rnU8BgUqXQ6YILOx6V"
+    },
+    {
+      "album": {
+        "name": "Alles Uit Het Leven",
+        "url": "https://open.spotify.com/album/4oUd6BD5HnZ8y1YUZn01EX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me",
+          "url": "https://open.spotify.com/artist/5oFswemSXYTGDaghgbmE6y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148084,
+      "name": "Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/2p14t5hB09pBTEjA64RGaT"
     },
     {
       "album": {
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192181,
       "name": "Chaos Gedoofd",
       "url": "https://open.spotify.com/track/6D3xKROcP8dL9ECYNie96G"
@@ -9434,7 +9452,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 221291,
       "name": "HOE?",
       "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
@@ -11994,7 +12012,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 109564,
       "name": "Kan Niet Alleen",
       "url": "https://open.spotify.com/track/07Ps9tTIpjvErfsyNM2sev"
@@ -14481,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "Meer Dan Mooi",
+        "url": "https://open.spotify.com/album/31a7ZzsnTSEt5tjZsTvreT"
+      },
+      "artists": [
+        {
+          "name": "Donda",
+          "url": "https://open.spotify.com/artist/5a3DBd2KSJpNcYRKeG4rQT"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Meer Dan Mooi",
+      "url": "https://open.spotify.com/track/0RlbV33r7lt8IRb4UafByA"
+    },
+    {
+      "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7"
       },
@@ -15419,6 +15455,24 @@
     },
     {
       "album": {
+        "name": "Multimiljonair",
+        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Multimiljonair",
+      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+    },
+    {
+      "album": {
         "name": "Muziek",
         "url": "https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9"
       },
@@ -16204,7 +16258,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 181539,
       "name": "Niks is zeker",
       "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
@@ -17184,7 +17238,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 164776,
       "name": "Op Afstand",
       "url": "https://open.spotify.com/track/6Y4UvcMPmigB2masCY39Td"
@@ -17380,7 +17434,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 196329,
       "name": "over of niet?",
       "url": "https://open.spotify.com/track/5NjNvHLQHT2yP4kDBOBel1"
@@ -18500,7 +18554,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 175167,
       "name": "Saai",
       "url": "https://open.spotify.com/track/7GTTbP6Gz9Zu3qet2Rroga"
@@ -18576,6 +18630,24 @@
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
+    },
+    {
+      "album": {
+        "name": "Samen Blijven",
+        "url": "https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "Samen Blijven",
+      "url": "https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT"
     },
     {
       "album": {
@@ -19364,6 +19436,24 @@
       "duration_ms": 165535,
       "name": "Soldaat (feat. Tabitha)",
       "url": "https://open.spotify.com/track/4FGueWKt0aLl5G2GjjifIO"
+    },
+    {
+      "album": {
+        "name": "Soms",
+        "url": "https://open.spotify.com/album/5OupzoEuekilLgAEaNAfkq"
+      },
+      "artists": [
+        {
+          "name": "Nick Kruit",
+          "url": "https://open.spotify.com/artist/1mgurMrzrP5f9Z9q3UwJVl"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138970,
+      "name": "Soms",
+      "url": "https://open.spotify.com/track/26BBJb1jBKXFe6G4g5gkk3"
     },
     {
       "album": {
@@ -20415,6 +20505,24 @@
     },
     {
       "album": {
+        "name": "Theetje",
+        "url": "https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR"
+      },
+      "artists": [
+        {
+          "name": "LUUK",
+          "url": "https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155221,
+      "name": "Theetje",
+      "url": "https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x"
+    },
+    {
+      "album": {
         "name": "Therapie",
         "url": "https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO"
       },
@@ -20516,7 +20624,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 158008,
       "name": "Tijd Heelt de Pijn",
       "url": "https://open.spotify.com/track/6h2czGbgL4pxJYjyEx2FIx"
@@ -20712,6 +20820,24 @@
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
+    },
+    {
+      "album": {
+        "name": "Tranen In De Giftshop",
+        "url": "https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186437,
+      "name": "Tranen In De Giftshop",
+      "url": "https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF"
     },
     {
       "album": {
@@ -21460,6 +21586,28 @@
       "duration_ms": 182312,
       "name": "Vergeef Me",
       "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
+    },
+    {
+      "album": {
+        "name": "Vergeten",
+        "url": "https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Vergeten",
+      "url": "https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But"
     },
     {
       "album": {
@@ -22416,7 +22564,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 149073,
       "name": "Vrijdag",
       "url": "https://open.spotify.com/track/1prlNZt7NUi58uqzIAsgrR"
@@ -23734,7 +23882,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 186545,
       "name": "Wonderbaarlijk",
       "url": "https://open.spotify.com/track/74taNj89bwFHW4Xk8HyKrC"
@@ -24864,6 +25012,24 @@
       "duration_ms": 181034,
       "name": "Zwaaien Naar Het Verleden",
       "url": "https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l"
+    },
+    {
+      "album": {
+        "name": "Zwak Voor Jou",
+        "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
+      },
+      "artists": [
+        {
+          "name": "Denise Kroes",
+          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "Zwak Voor Jou",
+      "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"
     },
     {
       "album": {

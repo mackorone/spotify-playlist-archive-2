@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 203000,
       "name": "ABBYNORMAL VISION",
       "url": "https://open.spotify.com/track/1zfpdmv6yKN3F1gOCEt74M"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 244626,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/3wmN8ABDSwM3PlZLwPmeT9"
@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Commercializing The Mind",
+        "url": "https://open.spotify.com/album/5x9DsnrswPOhEff6DPsEZx"
+      },
+      "artists": [
+        {
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208848,
+      "name": "Commercializing The Mind",
+      "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
+    },
+    {
+      "album": {
         "name": "Concrete Jungle",
         "url": "https://open.spotify.com/album/6hsYqcS4ysvMBwVEaUSPdl"
       },
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 198373,
       "name": "DEFAULT",
       "url": "https://open.spotify.com/track/0mflbk2yQg9wCS9SuPsUj1"
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 257012,
       "name": "Fan The Flame",
       "url": "https://open.spotify.com/track/1XF6r3UxOwlpQO62d4hBIB"
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 144750,
       "name": "Flesh Machines",
       "url": "https://open.spotify.com/track/6l0mCYE5rXZFOMuqJBZb4e"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 282551,
       "name": "For Now",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -5614,7 +5632,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -6299,6 +6317,28 @@
     },
     {
       "album": {
+        "name": "Micro Pleasures",
+        "url": "https://open.spotify.com/album/2zcmGTWktIAuS2rU7DxAyC"
+      },
+      "artists": [
+        {
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "itcallsme i",
+          "url": "https://open.spotify.com/artist/4cNXNIM45F8r6ipv3yY8p6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "Knocking Down Your Door",
+      "url": "https://open.spotify.com/track/6Owpl9p8gD5N1EetFIGziX"
+    },
+    {
+      "album": {
         "name": "Thanks, I Hate It.",
         "url": "https://open.spotify.com/album/2KBbLAxHjWnHih4sabqYOn"
       },
@@ -6545,6 +6585,24 @@
     },
     {
       "album": {
+        "name": "Liberationizing Light",
+        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
+      },
+      "artists": [
+        {
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256894,
+      "name": "Liberationizing Light",
+      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
+    },
+    {
+      "album": {
         "name": "Lich Tree / Sei\u00f0r",
         "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
       },
@@ -6682,7 +6740,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -6718,7 +6776,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -7082,6 +7140,24 @@
       "duration_ms": 318634,
       "name": "Me vs You",
       "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
+    },
+    {
+      "album": {
+        "name": "DON'T FEED THE BAD WOLF",
+        "url": "https://open.spotify.com/album/6K2YBOHiXXNbWx9zuGW2aJ"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lee Patterson",
+          "url": "https://open.spotify.com/artist/2XWnSAamUUqiscQpt1X4b6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139456,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/3V6E5siQWGWny58jNgHJzP"
     },
     {
       "album": {
@@ -8226,7 +8302,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 222560,
       "name": "Pacific City",
       "url": "https://open.spotify.com/track/7FwdrtJQammXYwsJcr0LdQ"
@@ -8566,7 +8642,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 224396,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
@@ -9494,7 +9570,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 376000,
       "name": "September",
       "url": "https://open.spotify.com/track/1T2ty4xOFcAyV3nrmPfniv"
@@ -10412,7 +10488,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202875,
       "name": "Stay Golden",
       "url": "https://open.spotify.com/track/5Pjcc8Mt7JaKzARXjYNIUH"
@@ -10538,7 +10614,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -11012,7 +11088,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -11312,7 +11388,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -11564,7 +11640,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 220043,
       "name": "The Sacred Air",
       "url": "https://open.spotify.com/track/6JS3cvKJc3jkDMITVsknRl"
@@ -12044,7 +12120,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 341834,
       "name": "Thy Womb Full of Black Nectar",
       "url": "https://open.spotify.com/track/6Yhuv8w23vsF3m06bGIho0"
@@ -13084,7 +13160,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 230800,
       "name": "what the heart wants",
       "url": "https://open.spotify.com/track/3rCA6c9ydWYQi4hITkoZjd"
@@ -13352,6 +13428,24 @@
       "duration_ms": 195000,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/7t2RSXQcekvzIrMOEuFSlJ"
+    },
+    {
+      "album": {
+        "name": "Who Do You Belong to Now? (Great Southern Land)",
+        "url": "https://open.spotify.com/album/7yBjJErjP0w6o82kS2MtTv"
+      },
+      "artists": [
+        {
+          "name": "Paul Louis Villani",
+          "url": "https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Who Do You Belong to Now? (Great Southern Land)",
+      "url": "https://open.spotify.com/track/55BuiwR2joiVCdA6XJmDMg"
     },
     {
       "album": {

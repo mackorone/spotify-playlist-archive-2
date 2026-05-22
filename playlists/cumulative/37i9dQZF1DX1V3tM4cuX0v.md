@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: IVAN LIULENOV
+> 50 найгарячіших пісень в Україні\. Обкладинка: DARA
 
 204 songs - 10 hr 15 min
 

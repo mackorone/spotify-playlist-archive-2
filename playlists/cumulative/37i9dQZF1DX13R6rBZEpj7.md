@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-400 songs - 23 hr 5 min
+401 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Local \- Full Vocal VIP](https://open.spotify.com/track/1pnuXk6jGbRdq9uVd0bcuR) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [More Fire Crew](https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK), [Son of Sam \(UK\)](https://open.spotify.com/artist/5wgz9u9N0RWsspIHUKXz2D) | [Local \(Full Vocal VIP\)](https://open.spotify.com/album/0BCi6jk5L3PQlzMtqSy6jd) | 3:10 | 2025-03-14 | 2025-05-22 |
 | [Lock Arf](https://open.spotify.com/track/5FMYYFLAwaEBTHekZwCJwo) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL) | [Lock Arf](https://open.spotify.com/album/20w3IPynvRPDUR2shvupK3) | 4:48 | 2025-05-15 | 2025-08-09 |
 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 | 2023-12-01 | 2024-06-28 |
+| [Lose Control](https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [K Dot](https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb) | [Lose Control](https://open.spotify.com/album/5KLQOtW3tmMLCdMx16UGVv) | 2:34 | 2026-05-21 |  |
 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 | 2022-04-15 | 2023-05-19 |
 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 | 2023-04-04 | 2024-04-19 |
 | [Lost It](https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Mixtape 1: \#Heaters](https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt) | 3:35 | 2023-09-22 | 2023-12-22 |
@@ -406,7 +407,7 @@
 | [Wonder](https://open.spotify.com/track/6r3u99JfzeSrmnyHX5IB4A) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Wonder](https://open.spotify.com/album/0v1if7RJVBk2vjj2X9uMhx) | 4:27 | 2022-04-15 | 2022-06-01 |
 | [Wrong Answers Only](https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wrong Answers Only](https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2) | 3:05 | 2022-04-15 | 2023-12-22 |
 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 | 2023-08-10 | 2026-01-16 |
-| [You Could Be the One](https://open.spotify.com/track/0EFuNMasYGeMi4nYIWod4K) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Zibba](https://open.spotify.com/artist/5QiPfBDBHOGEdB8yCjNiEk) | [You Could Be the One](https://open.spotify.com/album/1DeVzwejnOXKBr8v4UQr4i) | 3:01 | 2025-10-31 |  |
+| [You Could Be the One](https://open.spotify.com/track/0EFuNMasYGeMi4nYIWod4K) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Zibba](https://open.spotify.com/artist/5QiPfBDBHOGEdB8yCjNiEk) | [You Could Be the One](https://open.spotify.com/album/1DeVzwejnOXKBr8v4UQr4i) | 3:01 | 2025-10-31 | 2026-05-22 |
 | [You Had It \- Sub Zero & Burntboi Remix](https://open.spotify.com/track/5DWdOBDdJNDRvVM4duGVor) | [Dope Ammo](https://open.spotify.com/artist/4PLyMikr67pzFRAIlplshI), [Kleu](https://open.spotify.com/artist/6Sc4Qn6vADfkumZcWtddxb), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT), [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR), [Burntboi](https://open.spotify.com/artist/7uYfrw47yzKgW22BtAPOQv) | [You Had It 2025 Part 1](https://open.spotify.com/album/5V6FMNCUcUU6x797prBEzf) | 3:23 | 2026-01-16 | 2026-01-22 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

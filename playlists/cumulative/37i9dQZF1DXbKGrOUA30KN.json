@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Wilhelmine",
+  "description": "Deutschpop, der jetzt passiert. Cover: Madeline Juno",
   "name": "POPLAND",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Adrenalin",
+        "url": "https://open.spotify.com/album/7iTcykBK8hCeMyp8AEyRpN"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "Adrenalin",
+      "url": "https://open.spotify.com/track/1qhQM6xJQuugFL0a8Tf663"
+    },
+    {
+      "album": {
         "name": "Leben \u00fcberleben EP",
         "url": "https://open.spotify.com/album/2umf9596Dfp4XcZkWydg9q"
       },
@@ -450,6 +468,24 @@
       "duration_ms": 131541,
       "name": "Alles nur f\u00fcr dich",
       "url": "https://open.spotify.com/track/0kk9ClYWK8rDwtfc5ORjNt"
+    },
+    {
+      "album": {
+        "name": "Alles nur geliehen",
+        "url": "https://open.spotify.com/album/5X6d4FzjoQOJbfn41uf96q"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193576,
+      "name": "Alles nur geliehen",
+      "url": "https://open.spotify.com/track/2AaXINpwssPOfArogQa4um"
     },
     {
       "album": {
@@ -734,7 +770,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 133754,
       "name": "AT THE SAME TIME",
       "url": "https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0"
@@ -1341,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "ciao bb",
+        "url": "https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141202,
+      "name": "ciao bb",
+      "url": "https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA"
+    },
+    {
+      "album": {
         "name": "Clair de Lune",
         "url": "https://open.spotify.com/album/3VTJOuOcxEIcYThh5kBLJ6"
       },
@@ -1388,7 +1442,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 142173,
       "name": "Dabei",
       "url": "https://open.spotify.com/track/45Fsbc4lZsOgoW4S0LpBQg"
@@ -1930,6 +1984,28 @@
       "duration_ms": 198634,
       "name": "Der schlimmste Ort ist in mir drin",
       "url": "https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE"
+    },
+    {
+      "album": {
+        "name": "Die Falschen gek\u00fcsst",
+        "url": "https://open.spotify.com/album/12b2GxR5a1c75iUuOtB0aY"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158661,
+      "name": "Die Falschen gek\u00fcsst",
+      "url": "https://open.spotify.com/track/0qnFwCW5AxQaEJXfACBTD8"
     },
     {
       "album": {
@@ -2849,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Funkstille",
+        "url": "https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177915,
+      "name": "Funkstille",
+      "url": "https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA"
+    },
+    {
+      "album": {
         "name": "f\u00fchlichzusehr?",
         "url": "https://open.spotify.com/album/7gZjmUnhZS41kqis2Itjqk"
       },
@@ -2994,6 +3088,24 @@
       "duration_ms": 172220,
       "name": "f\u00fcr mama",
       "url": "https://open.spotify.com/track/6hOLVMDdxBfEoGk1GuyIF7"
+    },
+    {
+      "album": {
+        "name": "f\u00fcr ne weile",
+        "url": "https://open.spotify.com/album/7L25qFFHAWrfHdZ2hZi3L3"
+      },
+      "artists": [
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "f\u00fcr ne weile",
+      "url": "https://open.spotify.com/track/4yTeSHTQJhrVpmfDwOGt9q"
     },
     {
       "album": {
@@ -3821,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Ich hab das nie gehabt",
+        "url": "https://open.spotify.com/album/0lPgVf2LlSTeLUNPIoZiGP"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ude",
+          "url": "https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141895,
+      "name": "Ich hab das nie gehabt",
+      "url": "https://open.spotify.com/track/73Rzc2roeMf1fmzLr8qnEc"
+    },
+    {
+      "album": {
         "name": "ICH HAB'S GUT, ICH HAB DICH",
         "url": "https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm"
       },
@@ -4016,7 +4146,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 162206,
       "name": "Immer mehr",
       "url": "https://open.spotify.com/track/06aKPl9djVOYNWj4WS2nCI"
@@ -4494,7 +4624,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 130202,
       "name": "Kein Schwein",
       "url": "https://open.spotify.com/track/6M9A8QF0pGfhtcztuvroQk"
@@ -4816,7 +4946,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 154485,
       "name": "KOKO BRAUN",
       "url": "https://open.spotify.com/track/1tIdM2hlXTftWoh4Nb7Ztg"
@@ -4846,6 +4976,24 @@
       "duration_ms": 216846,
       "name": "Komet",
       "url": "https://open.spotify.com/track/35GKgDcswCvp0569VYbcVi"
+    },
+    {
+      "album": {
+        "name": "Kommst du mit?",
+        "url": "https://open.spotify.com/album/4FGNa4vtCUm56sdc7e15Ff"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112880,
+      "name": "Kommst du mit?",
+      "url": "https://open.spotify.com/track/0JS8nbktkJihgnLRR0jNYM"
     },
     {
       "album": {
@@ -5222,7 +5370,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 129586,
       "name": "lichter aus",
       "url": "https://open.spotify.com/track/0jC0rMP0TjIoSGGubuj8dQ"
@@ -5948,7 +6096,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 172754,
       "name": "Na und ?!",
       "url": "https://open.spotify.com/track/6pNeV9j1tHgMtUXbJ7N6RA"
@@ -6230,7 +6378,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 109820,
       "name": "Nichts im Griff",
       "url": "https://open.spotify.com/track/4zQX1OCYqBcq384LitqVRd"
@@ -6566,6 +6714,24 @@
       "duration_ms": 186688,
       "name": "Odyssee",
       "url": "https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa"
+    },
+    {
+      "album": {
+        "name": "Ohne Dich",
+        "url": "https://open.spotify.com/album/1AemuUVvehdl5r4gxqk2Kg"
+      },
+      "artists": [
+        {
+          "name": "DELA",
+          "url": "https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131478,
+      "name": "Ohne Dich",
+      "url": "https://open.spotify.com/track/498PcOP9eNweJeRvvzuNgF"
     },
     {
       "album": {
@@ -7075,6 +7241,28 @@
     },
     {
       "album": {
+        "name": "STAMMTISCHPAROLEN",
+        "url": "https://open.spotify.com/album/191phiyLpFECFHOqVsOkAU"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/6hFOFBz6iqx5JTXli7h7di"
+    },
+    {
+      "album": {
         "name": "Regen",
         "url": "https://open.spotify.com/album/7qlFhEPvT4eHM3VxwMsTGg"
       },
@@ -7140,7 +7328,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 150109,
       "name": "Ring am Finger",
       "url": "https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW"
@@ -7432,7 +7620,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 137373,
       "name": "Sexy & Sad",
       "url": "https://open.spotify.com/track/3YTislS8mQHCWWx3cc82R8"
@@ -7891,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Tanz",
+        "url": "https://open.spotify.com/album/64zziqw3hnpTBYtRJLvgEG"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130337,
+      "name": "Tanz",
+      "url": "https://open.spotify.com/track/6EVLYCoGWC6D7hn61pzO2A"
+    },
+    {
+      "album": {
         "name": "tanz aus der reihe.",
         "url": "https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2"
       },
@@ -7996,6 +8202,24 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
+    },
+    {
+      "album": {
+        "name": "es ist okay, dass du f\u00fchlst",
+        "url": "https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d"
     },
     {
       "album": {
@@ -8864,7 +9088,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 146245,
       "name": "Weil ich dir begegnet bin",
       "url": "https://open.spotify.com/track/1TSVwkU1NlaVRIC5N8lSfW"
@@ -9074,7 +9298,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 173769,
       "name": "Wenn du mich fragst",
       "url": "https://open.spotify.com/track/0qMoR2ZhKTy3YhaNHooZkP"

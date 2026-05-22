@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Kuonechan\(구원찬\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 지셀 \(Jiselle\), SUMMER CAKE \(썸머케익\)\)
 
-642 songs - 1 day 10 hr 26 min
+644 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [chocolate love](https://open.spotify.com/track/4EHDIT0VwONdYdPZQJPgtn) | [Lee Seojin](https://open.spotify.com/artist/4P6UehecN74wOGkJKM77eW) | [chocolate love](https://open.spotify.com/album/52u7FyTB3CSBb8l6zyDebj) | 3:05 | 2024-09-27 | 2025-02-15 |
 | [Choose Me \(feat\. Vince\)](https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [Choose Me \(feat\. Vince\)](https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb) | 3:22 | 2023-04-04 | 2023-09-19 |
 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 | 2024-01-08 | 2024-05-01 |
+| [Circle in Me](https://open.spotify.com/track/3rrgpbGOFxvt2NdQ2KKuvW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [Circle in Me](https://open.spotify.com/album/33Xith90eCPxh1WqnSh3Jz) | 2:23 | 2026-05-21 |  |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 | 2024-09-14 |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 | 2023-01-21 |
 | [Close To You](https://open.spotify.com/track/1Roalb2lSrnNLAtaN4XZbt) | [KANG YUCHAN ](https://open.spotify.com/artist/5kI3iuTgSX5OxkWCbVyVwq) | [REBEL](https://open.spotify.com/album/7rwh5uToXwmuCJbMDh2lI3) | 2:39 | 2025-10-22 | 2026-04-13 |
@@ -247,6 +248,7 @@
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-28 | 2022-08-13 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2023-01-11 |
 | [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 | 2025-12-05 | 2026-05-15 |
+| [Heart To Fall](https://open.spotify.com/track/6AHrOU6Gw6eBVQx78ZTIof) | [soopie](https://open.spotify.com/artist/67TcqgP8aUJAf3hJ8S9n6Q) | [Heart To Fall](https://open.spotify.com/album/2DRJkndM4ojKSxpLLk2MZf) | 4:18 | 2026-05-21 |  |
 | [Heart to heart](https://open.spotify.com/track/2OikEjMn13Na4ciQLamuQb) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Heart to heart](https://open.spotify.com/album/5gZJYpnMA0nogHoAV3MtfU) | 3:01 | 2025-09-18 | 2026-04-13 |
 | [heartache](https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [heartache](https://open.spotify.com/album/3K83Uwok7tqoyzwxuxE2ug) | 2:44 | 2025-03-13 | 2025-06-21 |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-24 | 2025-05-21 |
@@ -365,7 +367,7 @@
 | [midsummer](https://open.spotify.com/track/0nNUG87yUlCJqGhpv5ney8) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [midsummer](https://open.spotify.com/album/4RzTyZL9B3fVK1X8M717de) | 2:28 | 2025-08-05 | 2026-02-23 |
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2025-01-25 |
 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 | 2024-09-05 | 2025-01-25 |
-| [Moan](https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Moan](https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY) | 2:24 | 2026-01-22 |  |
+| [Moan](https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Moan](https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY) | 2:24 | 2026-01-22 | 2026-05-22 |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
 | [Moments Like This](https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Tricycle](https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU) | 4:43 | 2025-09-25 | 2026-04-13 |
 | [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-13 | 2025-09-02 |
@@ -477,7 +479,7 @@
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 | 2026-03-20 |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Scream TT](https://open.spotify.com/track/1Rbbsova3KJ0dwqF79rtbZ) | [SUZU](https://open.spotify.com/artist/0zlvwCaqdYsdSrr5ZD22d5) | [B2B](https://open.spotify.com/album/581IpgL4QvytkHGGNCUjxo) | 2:01 | 2025-08-05 | 2026-02-23 |
-| [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-16 |  |
+| [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-16 | 2026-05-22 |
 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 | 2025-03-13 |
 | [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 | 2025-04-18 | 2025-08-21 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |

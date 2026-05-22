@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8oh7peUXg5S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8oh7peUXg5S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8oh7peUXg5S)
 
-### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
+### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Maria del Mar Bonet.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
 406 songs - 1 day 1 hr 51 min
 

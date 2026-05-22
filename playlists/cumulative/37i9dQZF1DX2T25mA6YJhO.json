@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Arde Bogot\u00e1.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
   "name": "Rock 2026",
   "tracks": [
+    {
+      "album": {
+        "name": "MIAU",
+        "url": "https://open.spotify.com/album/1mEdw3s13PLm62UWOnkgUv"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155645,
+      "name": "(casi no vivo para contarlo)",
+      "url": "https://open.spotify.com/track/6gClYf0O45RHWBuOk2Bnw4"
+    },
     {
       "album": {
         "name": "1 de enero",
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 173297,
       "name": "40 de mayo",
       "url": "https://open.spotify.com/track/05HBqcSM1SeixtdrWrp3Dm"
@@ -1220,6 +1238,28 @@
     {
       "album": {
         "name": "Barcelona",
+        "url": "https://open.spotify.com/album/5urMR36WqTaiQJkmz7h4kG"
+      },
+      "artists": [
+        {
+          "name": "Amygdala",
+          "url": "https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM"
+        },
+        {
+          "name": "Iced Coffeeboy",
+          "url": "https://open.spotify.com/artist/37vyOCKaeLQZKGtMd8iadR"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278868,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2gdrQcu6B5aaELPep6nzIy"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
         "url": "https://open.spotify.com/album/4nYtDMfJMwJLof80nZtGEn"
       },
       "artists": [
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 215514,
       "name": "Caen Imperios",
       "url": "https://open.spotify.com/track/6wJk3x2eRy7Fo6stBr0N6z"
@@ -2036,6 +2076,24 @@
       "duration_ms": 209878,
       "name": "Como el trigo",
       "url": "https://open.spotify.com/track/3d2T0VU0RHo5EakNtdykC0"
+    },
+    {
+      "album": {
+        "name": "Avenida Am\u00e9rica (Supra)",
+        "url": "https://open.spotify.com/album/034F3kLUrNx0feGIQkiINL"
+      },
+      "artists": [
+        {
+          "name": "Supercremalleras",
+          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229376,
+      "name": "Complicarme La Vida",
+      "url": "https://open.spotify.com/track/6GbQp4oUYvnSK0CwQ3UPMS"
     },
     {
       "album": {
@@ -3198,7 +3256,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 166757,
       "name": "el aWard es para:",
       "url": "https://open.spotify.com/track/0v03PeYZS5z0WSWKZ3VCNw"
@@ -3220,6 +3278,24 @@
       "duration_ms": 207539,
       "name": "El Bala",
       "url": "https://open.spotify.com/track/58W2NxqvhXYmSof6MYLgba"
+    },
+    {
+      "album": {
+        "name": "El Bar De Siempre",
+        "url": "https://open.spotify.com/album/5LrtFYW4kTAdMViN3g4Gz1"
+      },
+      "artists": [
+        {
+          "name": "Kitai",
+          "url": "https://open.spotify.com/artist/2TQyVG4JdI6hdRsOMEFOg4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189383,
+      "name": "El Bar De Siempre",
+      "url": "https://open.spotify.com/track/5buhwtea15sPVccG5Ulv41"
     },
     {
       "album": {
@@ -5162,7 +5238,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 147529,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
@@ -5917,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "La Plaza de La Mierda / La Trinidad No Paga Traidores",
+        "url": "https://open.spotify.com/album/0t7bxMRKhcLIHGjF98FamX"
+      },
+      "artists": [
+        {
+          "name": "La Trinidad",
+          "url": "https://open.spotify.com/artist/15KUuOUuBqWGiInJr8dZah"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160298,
+      "name": "La Plaza de La Mierda",
+      "url": "https://open.spotify.com/track/50QhLnpWe80FHxtJFcKOjq"
+    },
+    {
+      "album": {
         "name": "Vidas Modelo",
         "url": "https://open.spotify.com/album/6z9TIyTVz0vTAb8rvq0572"
       },
@@ -6260,6 +6354,28 @@
       "duration_ms": 180556,
       "name": "Llegar a lo m\u00e1s alto",
       "url": "https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF"
+    },
+    {
+      "album": {
+        "name": "Llevo Cuatro Horas Dando Vueltas, \u00bfQu\u00e9 Pasa en mi Cabeza?",
+        "url": "https://open.spotify.com/album/3MmN5ZUsNoYQnYsCknFX6a"
+      },
+      "artists": [
+        {
+          "name": "Txefas",
+          "url": "https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp"
+        },
+        {
+          "name": "Dumbmonei",
+          "url": "https://open.spotify.com/artist/1tW2MHiCKk8qcwfz3ChcTN"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Llevo Cuatro Horas Dando Vueltas, \u00bfQu\u00e9 Pasa en mi Cabeza?",
+      "url": "https://open.spotify.com/track/6eRKLMy6HbxSZRMJHn0k24"
     },
     {
       "album": {
@@ -7936,7 +8052,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 221000,
       "name": "No es nuestro momento",
       "url": "https://open.spotify.com/track/38fegshSXjJkOUUVTczvuk"
@@ -7998,6 +8114,24 @@
       "duration_ms": 183265,
       "name": "No me devuelvas la palabra",
       "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
+    },
+    {
+      "album": {
+        "name": "No me entero de nada",
+        "url": "https://open.spotify.com/album/0MmjAtNvqgN2tkPelnfrEq"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Vecino",
+          "url": "https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82323,
+      "name": "No me entero de nada",
+      "url": "https://open.spotify.com/track/03gnyrju9PnduPx5CWEaPd"
     },
     {
       "album": {
@@ -8976,7 +9110,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 106946,
       "name": "Peldanyos",
       "url": "https://open.spotify.com/track/6yH61MBS1NOn8jS7nNeE8z"
@@ -9056,6 +9190,24 @@
       "duration_ms": 166626,
       "name": "Perd\u00ed mi Centro",
       "url": "https://open.spotify.com/track/3CsbfAEf1KPxIkfXtdhqFe"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6x54J5EbpTnWC38tO8SWFk"
+      },
+      "artists": [
+        {
+          "name": "porfa",
+          "url": "https://open.spotify.com/artist/0KPfeqaroFvGNnBWs5W7xk"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186865,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4A41iuAw0bFXhsVQXHEdjq"
     },
     {
       "album": {
@@ -12230,7 +12382,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 154578,
       "name": "voy a destrozar tu piso",
       "url": "https://open.spotify.com/track/2LObFOHb1MdQ9PiDquWvE9"
@@ -12804,7 +12956,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 197383,
       "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
       "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"

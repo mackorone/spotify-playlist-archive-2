@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Cate Lumina",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Lorenzo Salvetti",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 176526,
       "name": "A parte me",
       "url": "https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL"
@@ -1424,6 +1424,28 @@
       "duration_ms": 171391,
       "name": "Arma Puntata (feat. 22simba)",
       "url": "https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG"
+    },
+    {
+      "album": {
+        "name": "Arrivederci mai pi\u00f9",
+        "url": "https://open.spotify.com/album/56bRBlr5JyJE62wmvgFSNh"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Arrivederci mai pi\u00f9",
+      "url": "https://open.spotify.com/track/1WXpLBUD2JZJ2OSMA3sa5r"
     },
     {
       "album": {
@@ -4397,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "Sogni di Vetro",
+        "url": "https://open.spotify.com/album/4D8nX9MZqFPgFnTWGPZTeu"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163421,
+      "name": "Controcorrente",
+      "url": "https://open.spotify.com/track/1mFKpK2i6Ls3oKPEWQDBa4"
+    },
+    {
+      "album": {
         "name": "Controluce",
         "url": "https://open.spotify.com/album/2r37LgDJnaxxWvODevcl4b"
       },
@@ -4670,7 +4710,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 147086,
       "name": "CREEPY",
       "url": "https://open.spotify.com/track/0ibZvSgfCIZMb4YXKbcjTm"
@@ -5452,7 +5492,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 207500,
       "name": "DISINCANTO",
       "url": "https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z"
@@ -5894,7 +5934,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
@@ -7005,6 +7045,28 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164262,
+      "name": "FLAMENCO PARANOIA",
+      "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"
+    },
+    {
+      "album": {
         "name": "fluo",
         "url": "https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt"
       },
@@ -7180,6 +7242,24 @@
       "duration_ms": 158048,
       "name": "FREE DRINK",
       "url": "https://open.spotify.com/track/0hB4HPrTepiK4cKruwqhgS"
+    },
+    {
+      "album": {
+        "name": "FTP",
+        "url": "https://open.spotify.com/album/0dWf1kMZGLNDuTcNVuIrLe"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161823,
+      "name": "FTP",
+      "url": "https://open.spotify.com/track/4GhGNXHf1ThHlsujvL3Jyl"
     },
     {
       "album": {
@@ -7524,7 +7604,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 164124,
       "name": "GIRA",
       "url": "https://open.spotify.com/track/46Ff4xuKRM7LmEXkYN290S"
@@ -8890,7 +8970,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 166015,
       "name": "Insieme soli",
       "url": "https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW"
@@ -9311,6 +9391,28 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "LA LEGGE DEL KARMA",
+      "url": "https://open.spotify.com/track/3fr8SqIWgQfqZcFijWN4re"
+    },
+    {
+      "album": {
         "name": "La maglia dei Guns",
         "url": "https://open.spotify.com/album/1hUT75m6CCBKfKOKwI0Wr8"
       },
@@ -9648,7 +9750,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 165524,
       "name": "LACRIME DI FANGO",
       "url": "https://open.spotify.com/track/7wGScXI4MlpwzlryDDDGUN"
@@ -9745,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "LIVIDI",
+        "url": "https://open.spotify.com/album/1IwXugQnE0zaDtZGcrco8u"
+      },
+      "artists": [
+        {
+          "name": "Gard",
+          "url": "https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209254,
+      "name": "Lasciami Gridare",
+      "url": "https://open.spotify.com/track/74JLTCngKpdrz4sHpZHEEj"
+    },
+    {
+      "album": {
         "name": "le cose che non sai di me",
         "url": "https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k"
       },
@@ -9778,6 +9898,28 @@
       "duration_ms": 151624,
       "name": "Le Cose In Comune",
       "url": "https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK"
+    },
+    {
+      "album": {
+        "name": "LE RAGAZZE",
+        "url": "https://open.spotify.com/album/5dGbct1c1422HZRyViiNR0"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        },
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179446,
+      "name": "LE RAGAZZE",
+      "url": "https://open.spotify.com/track/2YVIDa7ZPLtce3VLGNcxvv"
     },
     {
       "album": {
@@ -10151,6 +10293,24 @@
     },
     {
       "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194901,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80"
+    },
+    {
+      "album": {
         "name": "LOVE SONG",
         "url": "https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1"
       },
@@ -10339,6 +10499,24 @@
     },
     {
       "album": {
+        "name": "LUNED\u00cc NERO",
+        "url": "https://open.spotify.com/album/71wajF3ZJL5YVPdD6gVPl4"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141724,
+      "name": "LUNED\u00cc NERO",
+      "url": "https://open.spotify.com/track/06GjvENosCIhAzglC4bmOb"
+    },
+    {
+      "album": {
         "name": "Luoghi Perduti",
         "url": "https://open.spotify.com/album/1XlyOWkPvZd9mnUjhFcKLG"
       },
@@ -10350,7 +10528,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 182528,
       "name": "Luoghi Perduti",
       "url": "https://open.spotify.com/track/0buQEirKTKRWP0rPK4NaDl"
@@ -10536,6 +10714,24 @@
       "duration_ms": 154420,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE"
+    },
+    {
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139647,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/4VLr4Esg0hHSVoNjs19u3u"
     },
     {
       "album": {
@@ -10788,7 +10984,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 161886,
       "name": "Maledetta Voglia di Te",
       "url": "https://open.spotify.com/track/10C9pEsUFQ9Yv14wIwkzl1"
@@ -11052,7 +11248,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 218536,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1i41RQ2km1sO8JD6fFVCxX"
@@ -11972,7 +12168,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 181151,
       "name": "MORIRE DI ME",
       "url": "https://open.spotify.com/track/0zaHyWplrMOq51H7bShC4e"
@@ -11994,6 +12190,24 @@
       "duration_ms": 173151,
       "name": "Morire x te",
       "url": "https://open.spotify.com/track/1EnlnBwni7gpQOLpqwGVki"
+    },
+    {
+      "album": {
+        "name": "Fase REM",
+        "url": "https://open.spotify.com/album/0LDn7OMMabHJsk9BtvtWNg"
+      },
+      "artists": [
+        {
+          "name": "Leon Faun",
+          "url": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144943,
+      "name": "Morti d\u2019amore",
+      "url": "https://open.spotify.com/track/60oTJ0EITfK1XEhhf26HQT"
     },
     {
       "album": {
@@ -15243,6 +15457,32 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "PRIGIONE (feat. Federica Abbate)",
+      "url": "https://open.spotify.com/track/3qNEMIzq8O3z8ALVyubFpz"
+    },
+    {
+      "album": {
         "name": "Prima che",
         "url": "https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP"
       },
@@ -16230,7 +16470,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 237762,
       "name": "Risorgere",
       "url": "https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q"
@@ -18462,7 +18702,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 159000,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/3hj4cPJO3b2o1pm22H16jc"
@@ -19014,6 +19254,28 @@
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z"
+    },
+    {
+      "album": {
+        "name": "Ti Soffro",
+        "url": "https://open.spotify.com/album/3bgOurJrrjgmOjM8w8QQ6C"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
+        },
+        {
+          "name": "Il Pagante",
+          "url": "https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Ti Soffro",
+      "url": "https://open.spotify.com/track/2COQ6p6hLJtEZSWh7gj8SQ"
     },
     {
       "album": {
@@ -19814,6 +20076,24 @@
       "duration_ms": 275750,
       "name": "Un amore come il nostro - VENERE",
       "url": "https://open.spotify.com/track/2vyMb3lMiom9IHrUo3VhKp"
+    },
+    {
+      "album": {
+        "name": "Un Bel Casino",
+        "url": "https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154639,
+      "name": "Un Bel Casino",
+      "url": "https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz"
     },
     {
       "album": {
@@ -20741,6 +21021,24 @@
     },
     {
       "album": {
+        "name": "Stupida Vita",
+        "url": "https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Via Santini",
+      "url": "https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg"
+    },
+    {
+      "album": {
         "name": "Viole e Violini",
         "url": "https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y"
       },
@@ -21218,6 +21516,28 @@
       "duration_ms": 180000,
       "name": "YAMAMAI",
       "url": "https://open.spotify.com/track/1mwT1DAUwQU3sqWPFEIK0r"
+    },
+    {
+      "album": {
+        "name": "YEYEYE (feat. Yung Snapp)",
+        "url": "https://open.spotify.com/album/3yIK8SCooAqKPSIzJd5IM8"
+      },
+      "artists": [
+        {
+          "name": "DOBRO",
+          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164150,
+      "name": "YEYEYE (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/4AaMa5QSOyNOCWI28gqEmY"
     },
     {
       "album": {

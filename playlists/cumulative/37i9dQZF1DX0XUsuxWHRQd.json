@@ -53839,6 +53839,24 @@
     },
     {
       "album": {
+        "name": "Face Off",
+        "url": "https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU"
+      },
+      "artists": [
+        {
+          "name": "Pastor Troy",
+          "url": "https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "Vica Versa",
+      "url": "https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr"
+    },
+    {
+      "album": {
         "name": "vice city",
         "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
       },

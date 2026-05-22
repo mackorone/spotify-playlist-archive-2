@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 45643,
+  "num_followers": 45664,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAAAsscasZram9Dcdw0j+rVRd",
+  "snapshot_id": "agz5gAAAAADhNjON0JCod17F/hlG7qFt",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 252823,
-      "name": "Double Infinity",
-      "url": "https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z"
+      "duration_ms": 288818,
+      "name": "All Night All Day",
+      "url": "https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 288818,
-      "name": "All Night All Day",
-      "url": "https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI"
+      "duration_ms": 252823,
+      "name": "Double Infinity",
+      "url": "https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
+      "duration_ms": 330106,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 330106,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
+      "duration_ms": 184600,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
     },
     {
       "added_at": null,

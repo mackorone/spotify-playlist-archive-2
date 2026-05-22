@@ -1,13 +1,29 @@
 {
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Murtaza Qizilbash, Samar Jafri",
-  "num_followers": 82917,
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Samar Jafri",
+  "num_followers": 82941,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOu7Pbs7k6iysMOGviACjzLDoeto",
+  "snapshot_id": "AAAAANYpndJCZsstxDF2u05vdUK6cRmU",
   "tracks": [
+    {
+      "added_at": "2026-05-22 03:00:19",
+      "album": {
+        "name": "Kami",
+        "url": "https://open.spotify.com/album/4RVPpahSbyKptR5HNyXBqZ"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6xA10nNluk8fggCxN1hoI7"
+    },
     {
       "added_at": "2026-05-08 04:01:14",
       "album": {
@@ -523,30 +539,6 @@
       "duration_ms": 221986,
       "name": "Hona Tha Pyar",
       "url": "https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF"
-    },
-    {
-      "added_at": "2026-05-05 11:36:14",
-      "album": {
-        "name": "Lost;Found",
-        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
-      },
-      "artists": [
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Rauhan Malik",
-          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
-        },
-        {
-          "name": "Amir Ameer",
-          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Ishq",
-      "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
     },
     {
       "added_at": "2026-05-05 11:36:14",

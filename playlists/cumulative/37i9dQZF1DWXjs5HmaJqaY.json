@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Busy Ants (Olympe Remix)",
+        "url": "https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Olympe",
+          "url": "https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306461,
+      "name": "Busy Ants - Olympe Remix",
+      "url": "https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP"
+    },
+    {
+      "album": {
         "name": "Captain Nemo",
         "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
@@ -6534,6 +6556,24 @@
       "duration_ms": 295255,
       "name": "still here?",
       "url": "https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il"
+    },
+    {
+      "album": {
+        "name": "Stop Go",
+        "url": "https://open.spotify.com/album/3csLY843ytZcfqXEvAaVNW"
+      },
+      "artists": [
+        {
+          "name": "Philipp Lake",
+          "url": "https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Stop Go",
+      "url": "https://open.spotify.com/track/6RauiAfExVUKA7pM1JxHJE"
     },
     {
       "album": {

@@ -1,15 +1,47 @@
 {
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Nikos Apergis, Daphne Lawrence",
-  "num_followers": 52942,
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Akylas",
+  "num_followers": 52950,
   "original_name": "Greek Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQfBX0wB2wqyv5bwRRx2Ogk9Cd6",
+  "snapshot_id": "AAAAABtCGIXksW1AgLqlvUYaqzyPUMWB",
   "tracks": [
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
+      "album": {
+        "name": "Ixogenia",
+        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 140777,
+      "name": "Glyko Antio",
+      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
+    },
+    {
+      "added_at": "2026-05-21 21:01:05",
+      "album": {
+        "name": "Press Start",
+        "url": "https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "duration_ms": 139272,
+      "name": "PARTO",
+      "url": "https://open.spotify.com/track/1896xuYFhI4nycrx8SzFXV"
+    },
+    {
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Keno",
         "url": "https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Isos Avrio",
         "url": "https://open.spotify.com/album/7J0bbGUJ3bOUzIivoi2aLG"
@@ -49,23 +81,7 @@
       "url": "https://open.spotify.com/track/4KKlKLS7iGXyk2Mysaz3vV"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
-      "album": {
-        "name": "Ixogenia",
-        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 140777,
-      "name": "Glyko Antio",
-      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
-    },
-    {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Oneiro Vathi",
         "url": "https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "10 Lexeis",
         "url": "https://open.spotify.com/album/7oBgIXyeaVOw2QkkDvAZz2"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/23dr3z6SEt87AKtts97vny"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ax Kardia Mou (Remix)",
         "url": "https://open.spotify.com/album/5YYSstQqlAhcxo7VA5Z6og"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/30Hqr0nzbKLgkFsrmGQtG4"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Aigaio",
         "url": "https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Fotia Sti Nihta",
         "url": "https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "PAR\u00c9A",
         "url": "https://open.spotify.com/album/3jC6c4UCOOzX2DE6KGCxFV"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Vrexei",
         "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Anemos",
         "url": "https://open.spotify.com/album/1CHEOeLIjns4RCOMziny6E"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/1ot6Dg7Sn77aL45m7O6aYG"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Gia Panta",
         "url": "https://open.spotify.com/album/7Fw9abn6hgQYgypa7uIz3w"
@@ -253,7 +269,23 @@
       "url": "https://open.spotify.com/track/4U2WTa7KJImfnHiiCajzeq"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
+      "album": {
+        "name": "Diki Mou",
+        "url": "https://open.spotify.com/album/0VWCTu5xhJHvDNn3B6bWFP"
+      },
+      "artists": [
+        {
+          "name": "Claydee",
+          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
+        }
+      ],
+      "duration_ms": 191778,
+      "name": "Diki Mou",
+      "url": "https://open.spotify.com/track/6Mo8KakthlJPr6UnoOCVTX"
+    },
+    {
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Tulum",
         "url": "https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Kaigomai",
         "url": "https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/5HdggIsemsufKTS7guiZfh"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Polemos",
         "url": "https://open.spotify.com/album/3PrtVwGdi5aiDF6NFeXLEW"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/2iAp9vJZp7queqUFGr88kS"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Rebetiko",
         "url": "https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/6evd7cFqSRXyJ4t1Fimxit"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ti Kaneis?",
         "url": "https://open.spotify.com/album/0iPJLtcoMXpF1RPQDYXqaz"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/05Tponzfx2bk9wtpopsHSg"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2JW2g7KxgwI7udpgferDSM"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/4FKDGC1hp2ojXjgzf1oVG9"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "ASTEIO",
         "url": "https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Isos",
         "url": "https://open.spotify.com/album/7jMvYA8RxzBQ0o0nFJvY81"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/6Khu7menFiVNlj6938Qqv5"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Esena Mono (Malik Remix)",
         "url": "https://open.spotify.com/album/2hrw2ocOVRZhCt0UYwyqjc"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/5KNLxa9luSww08keMA65T0"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "EDO",
         "url": "https://open.spotify.com/album/1q9XTRduM5wwv8ky12UDrC"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/7wv6l1qAMRJywQtxZuhMIc"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Xanomai",
         "url": "https://open.spotify.com/album/0sNrsla1rrnkmEGignrS1v"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/6HZGBcrYHmc3cdGlpjkF0j"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/3HZbiNytGIXEhBFsuhKVAz"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/5s8xMpKgZAJseMqyqhJLiL"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Asteio",
         "url": "https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "De M' Agapouses",
         "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Tragoudao Dinata",
         "url": "https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ela Ela",
         "url": "https://open.spotify.com/album/1vUeRdWJUti83IytzQlExw"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/10FlcJhTdA0ubuTd2FWejq"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ferto",
         "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "sprite+",
         "url": "https://open.spotify.com/album/7h5FLXCeRsa25KQYA2uFVo"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/0EGvFsP3gdiDtZCWcCfOBF"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/3uAbQus7VRwa8kduF771DY"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Etsi Eimai Ego",
         "url": "https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/3hKzxwuHuAt4vUTJIFYBy8"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "To S' Agapo",
         "url": "https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "ASTO",
         "url": "https://open.spotify.com/album/6583W1cJew8azNxmRHS26l"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "NAYA",
         "url": "https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Femme Fatale (Remix)",
         "url": "https://open.spotify.com/album/2Ol7aFetVRNJjJa2l1hcZx"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/3K5NhnaUtG2pMWoFznWoNc"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "ELATOMA",
         "url": "https://open.spotify.com/album/3wNW6TYNZP0qLCq83zadeU"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/7mKZSn3sScAiLzlPeUk7NP"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ta Pagkakia",
         "url": "https://open.spotify.com/album/4sKble7tOl2ka7mAmLcbSB"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/15OwfEKAhTnQovplNkR0Ms"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "AUTOTAPINOSI",
         "url": "https://open.spotify.com/album/45Xo98XYG7DQUJf9i8LDSs"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/7fA0RUkZkQyXrbaoh5tAWt"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ola Gia Sena",
         "url": "https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb"
@@ -793,23 +825,7 @@
       "url": "https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
-      "album": {
-        "name": "S' Exo Varethei",
-        "url": "https://open.spotify.com/album/7hXYd9sOT2zRygQ8D5hSnq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Saravakou",
-          "url": "https://open.spotify.com/artist/6YWoDV05GqDoeuaFUDzqzH"
-        }
-      ],
-      "duration_ms": 210265,
-      "name": "S' Exo Varethei",
-      "url": "https://open.spotify.com/track/7HQGtCGeuuBid8cm90S1wO"
-    },
-    {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Gia Sena Pou Latrevo",
         "url": "https://open.spotify.com/album/4R8CJqVRPReE9rKhhM86hz"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/3ke3c38UR92nhiofYhQv5a"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1GxQ94lSCYcSPsghedTuCn"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/08dIKnRL0hADQh0jdlra6B"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Aisiodoksi Matia",
         "url": "https://open.spotify.com/album/5DmlVgu0g1HGI2Xai33BGT"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "To Sagapw",
         "url": "https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS"
@@ -877,23 +893,7 @@
       "url": "https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/0WzcMQnfXpFCIyYn8obzSR"
-      },
-      "artists": [
-        {
-          "name": "Joanne",
-          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
-        }
-      ],
-      "duration_ms": 172909,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/4o4EyHdcgUB7XWUWzEjlzf"
-    },
-    {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Ekeinos",
         "url": "https://open.spotify.com/album/7I5lgVW7EKY6x322AEoATa"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ"
     },
     {
-      "added_at": "2026-05-14 21:18:17",
+      "added_at": "2026-05-21 21:01:05",
       "album": {
         "name": "Xronomixani",
         "url": "https://open.spotify.com/album/4slQ6jKbvEP4KldHnawRH6"

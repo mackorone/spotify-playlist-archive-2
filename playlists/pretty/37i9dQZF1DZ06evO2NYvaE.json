@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 52124,
+  "num_followers": 52161,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aguoAAAAAABezbP4yZyrgshHbGg8u3gT",
+  "snapshot_id": "agz5gAAAAAC79YQCz1gTXsVs3sRD3V4S",
   "tracks": [
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 237693,
-      "name": "The Summit",
-      "url": "https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
+      "duration_ms": 237693,
+      "name": "The Summit",
+      "url": "https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf"
     },
     {
       "added_at": null,
@@ -343,18 +343,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
+        "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+        "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
       "artists": [
         {
+          "name": "2XKO",
+          "url": "https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq"
+        },
+        {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        },
+        {
+          "name": "Joe Ford",
+          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
         }
       ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+      "duration_ms": 231848,
+      "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+      "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
     },
     {
       "added_at": null,
@@ -411,30 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
-        "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
       },
       "artists": [
         {
-          "name": "2XKO",
-          "url": "https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq"
-        },
-        {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Courtney LaPlante",
-          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
-        },
-        {
-          "name": "Joe Ford",
-          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
-      "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 236320,
-      "name": "Everything's Eventual",
-      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 236320,
+      "name": "Everything's Eventual",
+      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 319255,
-      "name": "Trust Fall",
-      "url": "https://open.spotify.com/track/5iC5TeP2eSGLzcH1OwOhG1"
+      "duration_ms": 235906,
+      "name": "Belcarra",
+      "url": "https://open.spotify.com/track/2MvUfBlXqqdVdGwJKYxgFL"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Belcarra",
-      "url": "https://open.spotify.com/track/2MvUfBlXqqdVdGwJKYxgFL"
+      "duration_ms": 319255,
+      "name": "Trust Fall",
+      "url": "https://open.spotify.com/track/5iC5TeP2eSGLzcH1OwOhG1"
     },
     {
       "added_at": null,

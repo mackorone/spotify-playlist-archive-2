@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Tove Lo \- she's your girl, right?
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,998 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,987 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 73 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
 | 74 | [Kiss Me Better](https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 2:34 |
 | 75 | [Girls Together](https://open.spotify.com/track/3riULgwcP2JRaspwjqxHBz) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Girls Together](https://open.spotify.com/album/6GE1FVYD53jZ64VhKTVKDV) | 3:36 |
-| 76 | [INSTINCTS](https://open.spotify.com/track/4uIrNXesLeLjD8swQmqqGe) | [RACHELLE](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [INSTINCTS](https://open.spotify.com/album/45ocxngRtsjqKc0QOHIq8C) | 1:59 |
+| 76 | [INSTINCTS](https://open.spotify.com/track/4uIrNXesLeLjD8swQmqqGe) | [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [INSTINCTS](https://open.spotify.com/album/45ocxngRtsjqKc0QOHIq8C) | 1:59 |
 | 77 | [I Don't Know How to Say Goodbye](https://open.spotify.com/track/1P55o0qb6Q62ahNlrgnFfM) | [Isla\-Maria](https://open.spotify.com/artist/0UcBS2Tdt2sTfRM7VWwpr6) | [I Don't Know How to Say Goodbye](https://open.spotify.com/album/1zGLet0Mg2VTRJn3Z0mNQ1) | 2:46 |
 | 78 | [Why Angel](https://open.spotify.com/track/6GleBEmFymblh5ZAduEFky) | [Ari Rose](https://open.spotify.com/artist/5n4sq6QNs34OroSVLeDOFF) | [Why Angel](https://open.spotify.com/album/5oz4yyVqPt7rNyEVsY49YH) | 2:02 |
 | 79 | [Weigh You Down](https://open.spotify.com/track/2bi4wdaHb2RcGv4VF3nXIL) | [Jake Hope](https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78) | [Weigh You Down](https://open.spotify.com/album/3gV3WeKxM05G3cTy2HHTNw) | 2:53 |

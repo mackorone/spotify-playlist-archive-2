@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: Little Grandad
 
-348 songs - 20 hr 23 min
+351 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-03-22 | 2025-05-16 |
 | [I Like What You Bring Out In Me](https://open.spotify.com/track/0zkyVb1LLgDac3MTCfEReQ) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [I Like What You Bring Out In Me](https://open.spotify.com/album/6Fn80et6JctLBXtO8RDJok) | 3:52 | 2024-06-14 | 2024-10-07 |
 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 | 2024-07-26 | 2025-01-23 |
+| [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 | 2026-05-21 |  |
 | [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-17 | 2025-09-06 |
 | [I Was Just A Boy](https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 7:24 | 2026-01-30 |  |
 | [I'm Losing It](https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [I'm Losing It](https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL) | 3:06 | 2025-05-15 | 2025-09-06 |
@@ -201,6 +202,7 @@
 | [Lil' Horse](https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50) | [Kissing on Camera](https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU) | [Lil' Horse](https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ) | 2:14 | 2025-03-12 | 2025-07-18 |
 | [London, Out There](https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt) | [The New Cut](https://open.spotify.com/artist/5S5fjngXUQ6ZTBJJL1djIf) | [London, Out There](https://open.spotify.com/album/6QKhhDf9Cp3l0SQZgoMDeH) | 3:24 | 2026-01-30 | 2026-04-17 |
 | [Loving Feeling](https://open.spotify.com/track/2LikCq4xT7CO3X3HTeTanh) | [PARTICLS](https://open.spotify.com/artist/2B7GYX6sOts4KNiI6ZLjrK) | [Loving Feeling/ Face To Face](https://open.spotify.com/album/5BaAm9TcA9UYTkdyFXbY4w) | 3:27 | 2025-01-22 | 2025-03-18 |
+| [Lucid](https://open.spotify.com/track/1iUVzardq7OjXn3Zdl6N1t) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Lucid](https://open.spotify.com/album/1eU4QOnE0BSJ4yd952cOHJ) | 2:55 | 2026-05-21 |  |
 | [Lucky](https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [Lucky](https://open.spotify.com/album/12hBbCObC2UB756DKj6tca) | 3:12 | 2025-09-05 | 2026-03-20 |
 | [MadDog](https://open.spotify.com/track/141fl9M2mCLjtVzEKQuCRc) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [MadDog](https://open.spotify.com/album/2Q6eyFzIAGrfcacgBw3wMC) | 4:02 | 2025-05-15 | 2025-09-06 |
 | [madonna](https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [madonna](https://open.spotify.com/album/0xD50sOwEbUZQuIur3c3Pe) | 3:15 | 2025-08-07 | 2026-01-16 |
@@ -264,6 +266,7 @@
 | [Run Kid](https://open.spotify.com/track/2MIOg8OV9I7qxpXrCOPtNu) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Run Kid](https://open.spotify.com/album/7FMwvpxiU0ITuiVQSFlyLa) | 2:55 | 2026-03-20 |  |
 | [Saltspreader](https://open.spotify.com/track/2QvJ5GzPTZg2PEiPdPMdMp) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Saltspreader](https://open.spotify.com/album/0Qf68KWWjg6dMdgoXcTsog) | 3:48 | 2025-08-07 | 2026-03-06 |
 | [Same Old Story](https://open.spotify.com/track/5yK7FjhMRC2S1d7APaaeSm) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Same Old Story](https://open.spotify.com/album/309zf0om4yJm4XAN0sKcJm) | 3:45 | 2025-08-07 | 2026-01-16 |
+| [Screwdark](https://open.spotify.com/track/6jDEJCBicEVTQGK0N91iuU) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Screwdark](https://open.spotify.com/album/42P3ZVoYKElog78pE5qFFS) | 2:39 | 2026-05-21 |  |
 | [secondhand smoke](https://open.spotify.com/track/0XCwuw4uY2Yeq7ewt7REX1) | [Just Kids](https://open.spotify.com/artist/3VLhNXB2xLmwSHbrB8K8QN) | [secondhand smoke](https://open.spotify.com/album/1MqV48ZM6GVu3zBAKU9xmm) | 3:25 | 2024-06-14 | 2024-10-07 |
 | [See No Evil](https://open.spotify.com/track/4Gzo80WcwBGapbLQE0O1B9) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [See No Evil](https://open.spotify.com/album/3Q8MYb36jqudetFFTOS8Rc) | 4:10 | 2025-09-05 | 2025-11-29 |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-03-12 | 2025-05-16 |

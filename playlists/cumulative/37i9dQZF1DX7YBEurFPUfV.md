@@ -4,11 +4,11 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara, Blingos
 
-176 songs - 10 hr 10 min
+177 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [01:00 AM](https://open.spotify.com/track/5Ub8u3nZCOScStHTYWVPwI) | [7Baby](https://open.spotify.com/artist/0jabAkS3kTBEpQv6y2auhZ), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [It's ERROR](https://open.spotify.com/artist/3cQGlr2EF36wyYPWhDwoph) | [01:00 AM](https://open.spotify.com/album/7xjrGeugM7cjchbRv7avVR) | 2:26 | 2025-10-21 |  |
+| [01:00 AM](https://open.spotify.com/track/5Ub8u3nZCOScStHTYWVPwI) | [7Baby](https://open.spotify.com/artist/0jabAkS3kTBEpQv6y2auhZ), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [It's ERROR](https://open.spotify.com/artist/3cQGlr2EF36wyYPWhDwoph) | [01:00 AM](https://open.spotify.com/album/7xjrGeugM7cjchbRv7avVR) | 2:26 | 2025-10-21 | 2026-05-22 |
 | [10PM](https://open.spotify.com/track/69pInUCf67loAdr1DoNeMt) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [10PM](https://open.spotify.com/album/7wWcWmM7O58NvPHFS7en5j) | 3:10 | 2024-02-24 | 2024-11-09 |
 | [12:06 AM](https://open.spotify.com/track/7tCbH0PO69SbVLSKmyO2Xf) | [Pas Comme Eux](https://open.spotify.com/artist/2ijQUWrV6cLziaz08EYbRK), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO), [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N) | [GOLDEN GOD](https://open.spotify.com/album/1HGH52q8UdJqwwEmdy6ZKX) | 2:15 | 2025-10-21 |  |
 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 | 2024-10-31 | 2026-05-08 |
@@ -116,6 +116,7 @@
 | [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 | 2024-05-03 |
 | [Menich Kifek](https://open.spotify.com/track/4vaTwE03SH9sBUcrzZ8p8M) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Menich Kifek](https://open.spotify.com/album/2gbXvuONYEsEyp8oclz5Ug) | 3:15 | 2026-02-23 |  |
+| [Menich Lehi](https://open.spotify.com/track/3qxIKGYa8kqg86g9A8J0YG) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Menich Lehi](https://open.spotify.com/album/2ZFm9tfNs364OuzTfVIn5H) | 2:36 | 2026-05-21 |  |
 | [MERENGUE](https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p) | [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [MERENGUE](https://open.spotify.com/album/7fhrmMITLrEEyCCsQS8HLw) | 3:12 | 2024-09-13 | 2024-09-19 |
 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 | 2024-07-26 | 2025-03-13 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 | 2024-07-17 |

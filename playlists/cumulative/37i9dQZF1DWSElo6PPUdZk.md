@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-282 songs - 14 hr 10 min
+283 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Joda Natiyaan Da](https://open.spotify.com/track/4hB6WfzeMuHmUukqxCxmqn) | [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Joda Natiyaan Da](https://open.spotify.com/album/4x8KFNsMtmIXi6hOkYTPYo) | 2:29 | 2026-05-15 |  |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2023-03-18 | 2023-04-20 |
 | [Jodi Teri Meri](https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2) | [Ajooni Dhillon](https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa) | [Jodi Teri Meri](https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP) | 2:46 | 2024-11-26 | 2025-09-13 |
+| [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 | 2026-05-21 |  |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 | 2025-01-24 |  |
 | [Kachi Umar](https://open.spotify.com/track/1iFpF1YTNWKeDFe0bFhb5E) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Kachi Umar](https://open.spotify.com/album/5gFecZ1jVTSjkpQ5Dl4SSX) | 3:12 | 2025-01-09 | 2025-08-03 |
@@ -279,7 +280,7 @@
 | [Vibe](https://open.spotify.com/track/1EzXThhZcdM0zuSS1aSvxx) | [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [Vibe](https://open.spotify.com/album/55n0t6V6McXChgEA9nPlVn) | 2:05 | 2025-09-25 | 2025-11-22 |
 | [Vyaah](https://open.spotify.com/track/3V84R6k8bGkidWWTr0iKll) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX) | [Vyaah](https://open.spotify.com/album/1RD5GB59qtPfZg87v9YHRC) | 2:57 | 2026-05-15 |  |
 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 | 2025-01-10 | 2025-04-30 |
-| [Whip](https://open.spotify.com/track/124ZoG6gkV8TdLw9SS0Imt) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Whip](https://open.spotify.com/album/0jBp5NNMZRmhJaJp7X9vfy) | 2:19 | 2026-03-05 |  |
+| [Whip](https://open.spotify.com/track/124ZoG6gkV8TdLw9SS0Imt) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Whip](https://open.spotify.com/album/0jBp5NNMZRmhJaJp7X9vfy) | 2:19 | 2026-03-05 | 2026-05-22 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 | 2025-02-15 |
 | [Winning](https://open.spotify.com/track/18ixfNtdcpUWWUQJfPf0jg) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Legal Robbery](https://open.spotify.com/album/1eyna4oK9epImEisREJYu9) | 2:47 | 2025-10-17 | 2025-11-05 |
 | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/album/2BmYgLaefBdRQLoJy7oPFH) | 3:27 | 2025-09-17 | 2025-10-10 |

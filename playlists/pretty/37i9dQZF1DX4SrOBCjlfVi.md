@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring LUCKI, Drake, BashfortheWorld and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,335 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,383 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [Everyday](https://open.spotify.com/track/7JY9A68S8HKZP7AHsGeqIY) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Obii Say](https://open.spotify.com/artist/0tRnn1idLXmYxoPMdJZIDr) | [Everyday](https://open.spotify.com/album/3QH9pLkPLvPYZxr0cEe9rB) | 3:00 |
 | 45 | [Get Like You](https://open.spotify.com/track/3JnWRfZr9hAx6togM06icV) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Cookie](https://open.spotify.com/artist/2p9qW241w4tWxILtJyBmZc) | [Get Like You](https://open.spotify.com/album/6uq0uiGhA4TKWIPnk6AIev) | 6:42 |
 | 46 | [Brick By Brick](https://open.spotify.com/track/05OQlypgXYmgAdoFLdZ9Jk) | [Jay Montana](https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw) | [Brick By Brick](https://open.spotify.com/album/1heHKEPpZrwuBWwFl75y9q) | 2:04 |
-| 47 | [G $HIT](https://open.spotify.com/track/3g3P9BeIzNY94532rvyJzu) | [Mike DFG](https://open.spotify.com/artist/1Ey78vd38gqpWFeqiGlYfF), [Kilroy](https://open.spotify.com/artist/1QvyaUH7GXSfS0t6Xj4dUw), [Recoechi](https://open.spotify.com/artist/16RxzjUYa7obi9QXP02WO1), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [HEI$MAN](https://open.spotify.com/album/55hVq046XJQWKumiD0YNPz) | 5:11 |
+| 47 | [G $HIT](https://open.spotify.com/track/3g3P9BeIzNY94532rvyJzu) | [Mike DFG](https://open.spotify.com/artist/1Ey78vd38gqpWFeqiGlYfF), [KiLROY](https://open.spotify.com/artist/0lA7o5bTkTBNvYvhHOD3St), [Recoechi](https://open.spotify.com/artist/16RxzjUYa7obi9QXP02WO1), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [HEI$MAN](https://open.spotify.com/album/55hVq046XJQWKumiD0YNPz) | 5:11 |
 | 48 | [Get On The Ground \(ft\. B5luvfullys & AZ\)](https://open.spotify.com/track/1iYgPksnPmXF2pLScBAIoE) | [Mani2raww](https://open.spotify.com/artist/0PARQMfHj3CHR6Tkmj8UDi), [B5luvfullys](https://open.spotify.com/artist/3ZzZUc7dCga1ziusLVSOQs), [Az](https://open.spotify.com/artist/6mmaiQw1AnSP0Kz36DEbnV) | [Get On The Ground \(ft\. B5luvfullys & AZ\)](https://open.spotify.com/album/7jR2Y2PBbsNwkXncZFMpP8) | 2:17 |
 | 49 | [is this my life](https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [is this my life](https://open.spotify.com/album/4TdQqnYKKsou7eHxpPGrRK) | 3:49 |
 | 50 | [MIX AND MATCH](https://open.spotify.com/track/5PRwll0VexYIlSWS8GzLdL) | [Ronshach](https://open.spotify.com/artist/0EINQs1jKxovMVKKEmg3q4) | [Reaper's Son](https://open.spotify.com/album/0fDykxLvvemh71UKa6ssQ0) | 2:35 |

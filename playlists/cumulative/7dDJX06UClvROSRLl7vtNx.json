@@ -27931,6 +27931,24 @@
     },
     {
       "album": {
+        "name": "We'll Be Okay",
+        "url": "https://open.spotify.com/album/7DLMIpVKPFk2hbdidQYPoK"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "We'll Be Okay",
+      "url": "https://open.spotify.com/track/7aUKQW781gqq4aw9n4kKDD"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI"
       },

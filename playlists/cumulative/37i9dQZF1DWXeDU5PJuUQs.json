@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 194931,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
@@ -3592,6 +3592,28 @@
       "duration_ms": 251223,
       "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
       "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
+    },
+    {
+      "album": {
+        "name": "Que Nadie Sepa Mi Sufrir (En Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/56SJyHIbJly7e54cF1YsjJ"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290606,
+      "name": "Que Nadie Sepa Mi Sufrir - En Vivo en Buenos Aires",
+      "url": "https://open.spotify.com/track/16cYfImcLIqkK3MGrxKlqn"
     },
     {
       "album": {

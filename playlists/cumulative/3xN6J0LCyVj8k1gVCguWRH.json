@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 262012,
       "name": "Are You Down ?",
       "url": "https://open.spotify.com/track/1uLEDHlPsv0LvTw8VxwopD"
@@ -21582,7 +21582,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 345244,
       "name": "Craving Your Presence",
       "url": "https://open.spotify.com/track/2d14tI1bx1Hy4pcP87Kdpu"
@@ -24212,7 +24212,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 175386,
       "name": "Defenceless",
       "url": "https://open.spotify.com/track/2xycCj5aG7Hg6npjIPoD9Q"
@@ -28304,7 +28304,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 186733,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3WRc3HxkNeg9rkOl96QB5h"
@@ -36030,7 +36030,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 169404,
       "name": "FOUNTAINS",
       "url": "https://open.spotify.com/track/4FUMjCEa10sJfInvYS0UU4"
@@ -63288,7 +63288,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 214687,
       "name": "Meanwhile in Mexico",
       "url": "https://open.spotify.com/track/6vCxHNyANhB2XaVBcTJflb"
@@ -71636,7 +71636,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 190164,
       "name": "Ocean Eye",
       "url": "https://open.spotify.com/track/517ILJmXvub1bCni923XRx"
@@ -71976,7 +71976,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 246121,
       "name": "OK OK",
       "url": "https://open.spotify.com/track/0UQOmk9spkRJ8TLKn1UOUq"
@@ -72686,6 +72686,24 @@
       "duration_ms": 204210,
       "name": "once again",
       "url": "https://open.spotify.com/track/7zSbSZnW57BZWeSpuwezdn"
+    },
+    {
+      "album": {
+        "name": "The Tunnel + the Light",
+        "url": "https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Corey",
+          "url": "https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260625,
+      "name": "One",
+      "url": "https://open.spotify.com/track/10BhD6jyAt3oAv5qda6JVV"
     },
     {
       "album": {
@@ -73756,7 +73774,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 202250,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/6z1O5Ht3J8o1usWeAh9yIq"
@@ -88392,7 +88410,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 184261,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/2VUsVrKDbhwA04HFhVTN5Y"
@@ -99256,7 +99274,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 255654,
       "name": "The Promised Land",
       "url": "https://open.spotify.com/track/0gCTWPjLiFpaPTohBAUnOK"
@@ -101138,7 +101156,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 192494,
       "name": "Ticket Out of Town",
       "url": "https://open.spotify.com/track/12DC2t12ZVrKs4ntYSeXPC"
@@ -101771,6 +101789,24 @@
     },
     {
       "album": {
+        "name": "To Be Sexy",
+        "url": "https://open.spotify.com/album/276yBdzt3CV6kAuYv1WDeL"
+      },
+      "artists": [
+        {
+          "name": "Jo The Man The Music",
+          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181239,
+      "name": "To Be Sexy",
+      "url": "https://open.spotify.com/track/50Q1ca2b4zv6IgF3l4itQD"
+    },
+    {
+      "album": {
         "name": "To It",
         "url": "https://open.spotify.com/album/0CjifVdpPhTsHt4hR68u6Z"
       },
@@ -101934,7 +101970,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 248138,
       "name": "Toaster",
       "url": "https://open.spotify.com/track/0BMNKb9UunUS1ZNxcWWIC1"
@@ -107750,7 +107786,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 179989,
       "name": "Want It Back",
       "url": "https://open.spotify.com/track/1SDiIdsL9ualgArQrzd6YU"
@@ -110384,7 +110420,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 197608,
       "name": "Where Have You Been?",
       "url": "https://open.spotify.com/track/73wEPIaUx3YhCij9VgfVTe"

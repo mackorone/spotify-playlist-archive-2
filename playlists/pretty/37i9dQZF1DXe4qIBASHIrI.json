@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Austin TV en portada. ",
-  "num_followers": 180534,
+  "num_followers": 180565,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Monitor (Slidepac)",
-        "url": "https://open.spotify.com/album/7ocVUPDtRB9Vna4d29DvMd"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/6w0ZRnaxlWcpHTpJW3K4Ma"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Bar de Peter Pan",
         "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 280853,
       "name": "Fiesta Permanente",
       "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Monitor (Slidepac)",
+        "url": "https://open.spotify.com/album/7ocVUPDtRB9Vna4d29DvMd"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/6w0ZRnaxlWcpHTpJW3K4Ma"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
-      },
-      "artists": [
-        {
-          "name": "60 Tigres",
-          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
-        }
-      ],
-      "duration_ms": 255869,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Menonita Rock",
         "url": "https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 220293,
       "name": "Voltage Is O.K.",
       "url": "https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
+      },
+      "artists": [
+        {
+          "name": "60 Tigres",
+          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
+        }
+      ],
+      "duration_ms": 255869,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Buffalo Beat EP",
+        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+      },
+      "artists": [
+        {
+          "name": "Timothy The Master",
+          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+        }
+      ],
+      "duration_ms": 315447,
+      "name": "Psicomagia",
+      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Madre M\u00eda",
         "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Buffalo Beat EP",
-        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+        "name": "Tortugas",
+        "url": "https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD"
       },
       "artists": [
         {
-          "name": "Timothy The Master",
-          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+          "name": "Colores Santos",
+          "url": "https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA"
         }
       ],
-      "duration_ms": 315447,
-      "name": "Psicomagia",
-      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
+      "duration_ms": 239322,
+      "name": "Mexa",
+      "url": "https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Tortugas",
-        "url": "https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD"
-      },
-      "artists": [
-        {
-          "name": "Colores Santos",
-          "url": "https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA"
-        }
-      ],
-      "duration_ms": 239322,
-      "name": "Mexa",
-      "url": "https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Natsuko",
         "url": "https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "A Casa Voy - EP",
-        "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
-      },
-      "artists": [
-        {
-          "name": "Furland",
-          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Buffalo Beat EP",
         "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 229000,
       "name": "Jugo De Frutas",
       "url": "https://open.spotify.com/track/4YgU6ASjpMsb71QwSBgmtW"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "A Casa Voy - EP",
+        "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
+      },
+      "artists": [
+        {
+          "name": "Furland",
+          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ"
     },
     {
       "added_at": "2023-09-01 16:42:45",

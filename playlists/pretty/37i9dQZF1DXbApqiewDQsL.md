@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Vanita Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,632 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,643 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [CAPITAN](https://open.spotify.com/track/3hB89I0nNsBU2wZhhgvvAZ) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Danny Talavera](https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV) | [CAPITAN](https://open.spotify.com/album/0WewY62tKhjGvwMq6RF2YE) | 3:21 |
 | 50 | [Wockesha](https://open.spotify.com/track/7az77OXM7O08RsEvtmQSRd) | [Khris Guzman](https://open.spotify.com/artist/75BN8g4JzXFiUiLAz21zDx) | [Wockesha](https://open.spotify.com/album/5k1fjLwMSsuetWNrafhiOr) | 2:32 |
 
-Snapshot ID: `AAAAAN2SdglrrZVRTICsHWhvMLNWfz4y`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

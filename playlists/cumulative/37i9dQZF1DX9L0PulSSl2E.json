@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Kalla Kalla Taara",
+        "url": "https://open.spotify.com/album/0UVhcHIqIDQFyrcsSt9Vuo"
+      },
+      "artists": [
+        {
+          "name": "Kulbir Jhinjer",
+          "url": "https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205486,
+      "name": "Kalla Kalla Taara",
+      "url": "https://open.spotify.com/track/6qrZ6fu864a4lB0LXhxdbY"
+    },
+    {
+      "album": {
         "name": "KI HAAL AA",
         "url": "https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 158823,
       "name": "Tu Hi Tu",
       "url": "https://open.spotify.com/track/6CJJrzYY70oy6cxA8BkVIL"

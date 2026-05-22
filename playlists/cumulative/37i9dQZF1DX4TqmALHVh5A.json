@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Dynamite Shakers",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Camille Yembe",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -558,6 +558,28 @@
       "duration_ms": 120000,
       "name": "Autisme",
       "url": "https://open.spotify.com/track/2LDmzuSF1E6EeUiHBrj7OK"
+    },
+    {
+      "album": {
+        "name": "Jeune & Laide",
+        "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        },
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160070,
+      "name": "Autod\u00e9fense",
+      "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
     },
     {
       "album": {
@@ -2415,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/6uMK3M8ugtSiyL7FSO5wbi"
+      },
+      "artists": [
+        {
+          "name": "NAVA",
+          "url": "https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/4VVqf8rxt0CDVRUzDtEEij"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ"
       },
@@ -2910,6 +2950,28 @@
       "duration_ms": 212293,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY"
+    },
+    {
+      "album": {
+        "name": "Hula Hoop",
+        "url": "https://open.spotify.com/album/1BzAQOd3jvo0ZRAkcjQVFv"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        },
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "Hula Hoop",
+      "url": "https://open.spotify.com/track/1z4KHoU4euYqA84FE5986Q"
     },
     {
       "album": {
@@ -4980,7 +5042,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 156609,
       "name": "Maya",
       "url": "https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s"
@@ -6236,7 +6298,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 172674,
       "name": "Plus rien dans la t\u00eate",
       "url": "https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd"
@@ -8890,7 +8952,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 137026,
       "name": "\u00e7a pik un peu quand m\u00eame",
       "url": "https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc"

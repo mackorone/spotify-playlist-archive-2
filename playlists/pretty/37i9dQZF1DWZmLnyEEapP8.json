@@ -1,0 +1,550 @@
+{
+  "description": "Adventure begins at retirement. The official soundtrack and score of The Boroughs, where you'll have the time of your life! Now streaming on Netflix. \n",
+  "num_followers": 27,
+  "original_name": "The Boroughs Official Playlist",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAJLywFmJUnJtB/xjicdd/N6SAAPG",
+  "tracks": [
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Station to Station (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Golden Years - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 260229,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170212,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 324422,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "This Is One Girl",
+        "url": "https://open.spotify.com/album/4MtN4gD0ZSoj0aJ7zGmBoU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Bell",
+          "url": "https://open.spotify.com/artist/3Eiku2RFtR4xvfYi9kNO4D"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/47HUb2xHvqryVwx7kmdocM"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Behold & See",
+        "url": "https://open.spotify.com/album/467fZ0ZCXQ8r5GH3Mh0JUP"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Spinach",
+          "url": "https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM"
+        }
+      ],
+      "duration_ms": 349273,
+      "name": "Visions of Your Reality",
+      "url": "https://open.spotify.com/track/4fDdnrhISWWFMOXCI49Ijd"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "The Vintage Disco Era",
+        "url": "https://open.spotify.com/album/4ZjhtOd26X27OPAR7n6SAS"
+      },
+      "artists": [
+        {
+          "name": "The Mellophonics",
+          "url": "https://open.spotify.com/artist/5uIa61tLLjR08hXpeOjCYb"
+        }
+      ],
+      "duration_ms": 226325,
+      "name": "Champagne Nights",
+      "url": "https://open.spotify.com/track/4qNabxrdgTT6XE288oFo1K"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Gothic Essential Tracks",
+        "url": "https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5"
+      },
+      "artists": [
+        {
+          "name": "Sexbeat",
+          "url": "https://open.spotify.com/artist/5ZsfZFUna02U49FvUzNlTA"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sex Beat",
+      "url": "https://open.spotify.com/track/0jY3JksZbbKdbRb1ZpadtT"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 323716,
+      "name": "Back On You",
+      "url": "https://open.spotify.com/track/50xPaSwYLoKZrLhPyuHwvC"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 296626,
+      "name": "\"You Got A Killer Scene There, Man...\"",
+      "url": "https://open.spotify.com/track/6ZZiYOTFuZC1XLJjMiEnvS"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 275240,
+      "name": "Lose Your Soul",
+      "url": "https://open.spotify.com/track/2Tp3uEfVC5FNiIdGFWQxOC"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/6AMKMSkHyzBE7D1T7uX3rI"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Vintage Country",
+        "url": "https://open.spotify.com/album/57ir5xsYyEk2EtB5K3UNFP"
+      },
+      "artists": [
+        {
+          "name": "David Lawrence",
+          "url": "https://open.spotify.com/artist/5OwbuiNScVunjVVbckgYU0"
+        },
+        {
+          "name": "Velma Valentina",
+          "url": "https://open.spotify.com/artist/5AEJI2H1XX4ErXvxVOoVQb"
+        }
+      ],
+      "duration_ms": 125731,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0oF6IC1VLxTHthjZnAegtY"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Illustration",
+        "url": "https://open.spotify.com/album/5yC9POQuNxOky6qaYl2e9k"
+      },
+      "artists": [
+        {
+          "name": "Illustration",
+          "url": "https://open.spotify.com/artist/3o7fxlH13xngIxXCyxPaUd"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Upon The Earth",
+      "url": "https://open.spotify.com/track/414xbMnl5hpJgBMvxARSGV"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Private Dancer (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "I Can't Stand the Rain - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1SZGyNgogDBIwycw5v5QKg"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Black Night b/w I'm On The Mountain",
+        "url": "https://open.spotify.com/album/0nJgnNLA0jqNI02fDdLPTs"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Thompson",
+          "url": "https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V"
+        }
+      ],
+      "duration_ms": 120694,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/4Tq3ZmWCiqGG6hZGeoDIiM"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Get Rhythm",
+        "url": "https://open.spotify.com/album/1PTIjtJVDWsj0kB2BZhevW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 143984,
+      "name": "Belshazzar",
+      "url": "https://open.spotify.com/track/06x5lMcLFe8mWfwQDhE7JO"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Tear Down the Grand Ole Opry",
+        "url": "https://open.spotify.com/album/0luZQRc1lrJXJs6ZSkpvcw"
+      },
+      "artists": [
+        {
+          "name": "Tompall & The Glaser Brothers",
+          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Words Come Easy",
+      "url": "https://open.spotify.com/track/6Lu3uxRWqvfjzeGt8jOza5"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Up, Up And Away",
+      "url": "https://open.spotify.com/track/51OV8BtjCOPxTVLrbHBTeN"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "50 Years of Country USA, Vol. 1: 1941-1961",
+        "url": "https://open.spotify.com/album/59gft5yD1WturmkoFw9ZU9"
+      },
+      "artists": [
+        {
+          "name": "Jim Wolfe",
+          "url": "https://open.spotify.com/artist/1oiMATyIRES0AwQohWS9Nh"
+        }
+      ],
+      "duration_ms": 170530,
+      "name": "Comin' Back to You",
+      "url": "https://open.spotify.com/track/56N0jFFIebttkVVN0zgdUL"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "The Undisputed Truth",
+        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "The Essential Fred Astaire",
+        "url": "https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261495,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "More Today Than Yesterday",
+        "url": "https://open.spotify.com/album/2QDy2Qhxc5r1XlLRpNF18f"
+      },
+      "artists": [
+        {
+          "name": "The Spiral Starecase",
+          "url": "https://open.spotify.com/artist/7yICbxtb8buBAJECvQbRPb"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "More Today Than Yesterday",
+      "url": "https://open.spotify.com/track/4UOWkmOtb3DgMaSmI8rTaC"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2026-05-21 13:00:05",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    }
+  ],
+  "unique_name": "The Boroughs Official Playlist",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZmLnyEEapP8"
+}

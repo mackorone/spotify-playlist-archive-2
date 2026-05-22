@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. scene queen
+> welcome to our universe ft\. westislonely
 
-1,292 songs - 2 day 15 hr 41 min
+1,294 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [back off](https://open.spotify.com/track/0plJogJkP6ebQz5CQGON5g) | [tracey brakes](https://open.spotify.com/artist/4HxJn7KUC4EOTekD9BPEq2), [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP) | [back off](https://open.spotify.com/album/1EGCtKynGx4BW1iILmPCkz) | 2:35 | 2024-05-28 | 2024-06-07 |
 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 | 2024-10-29 | 2025-07-04 |
 | [BAD COMPANY](https://open.spotify.com/track/3STX7vqrhBOpkV2VV5KcCB) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [PETTY CASH AND CHANGE](https://open.spotify.com/album/66Np3N0rVez0DUU8QUWmOw) | 2:46 | 2026-02-20 | 2026-05-08 |
+| [Bad Dog](https://open.spotify.com/track/0OiIkiaS11BG7LAns0IHgl) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Bad Dog](https://open.spotify.com/album/0EnU1PTVHSsqVyCfkGpPyE) | 3:25 | 2026-05-21 |  |
 | [bad luck](https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [bad luck](https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub) | 2:49 | 2022-01-05 | 2022-02-13 |
 | [bad things](https://open.spotify.com/track/51DVbtD1BziDPKP0kbHcQN) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things](https://open.spotify.com/album/5P2ahNLmrGy9JHJEJgkjon) | 2:01 | 2022-04-28 | 2022-08-05 |
 | [Bang On](https://open.spotify.com/track/3wQ6fO1azubOo02JgOdNxi) | [DeadWax](https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP) | [Bang On](https://open.spotify.com/album/14PDG51SSrTTvDRG4rNukc) | 2:37 | 2026-03-27 |  |
@@ -864,6 +865,7 @@
 | [Oops \(it's a bad idea\)](https://open.spotify.com/track/2hsilQOlgcV5QtlBFuhhDK) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Oops \(it's a bad idea\)](https://open.spotify.com/album/5g1uxRDXBGvrzAruK4OXxa) | 3:22 | 2026-04-23 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 | 2025-09-11 |  |
+| [Our World](https://open.spotify.com/track/1tmMaJNVjGwAA0EhrfRKQ0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Our World \- EP](https://open.spotify.com/album/36ZmpjjPDtSJkkxlsh3AiI) | 3:16 | 2026-05-21 |  |
 | [Out Of My Reach](https://open.spotify.com/track/52V8PYxelw5uo1HWlaccFM) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [You Heartbreaker, You](https://open.spotify.com/album/7tr3cQyR38oOHQzIVwZ3IY) | 3:31 | 2025-08-28 | 2025-12-09 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-09 | 2024-08-23 |

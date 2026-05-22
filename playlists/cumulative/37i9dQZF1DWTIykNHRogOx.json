@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec TeddyBear",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Oscar Anton",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -798,7 +798,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 160267,
       "name": "Charade",
       "url": "https://open.spotify.com/track/2TXNsK2zjC72HSDA944rCv"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 181680,
       "name": "Des Tonnes",
       "url": "https://open.spotify.com/track/4cyVElYmQIgyrloXUXR9dQ"
@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "le dernier verre",
+        "url": "https://open.spotify.com/album/77hFDBhBnkgsuH2h8OA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Lili Em",
+          "url": "https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "le dernier verre",
+      "url": "https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab"
+    },
+    {
+      "album": {
         "name": "Le d\u00e9part",
         "url": "https://open.spotify.com/album/1x4k4x8KnV5jxe6ayO3VwF"
       },
@@ -3549,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Les roses",
+        "url": "https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "Les roses",
+      "url": "https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT"
+    },
+    {
+      "album": {
         "name": "Les tours d'horloge",
         "url": "https://open.spotify.com/album/6S455vueaUSjsktIQgovkK"
       },
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 222751,
       "name": "lily rose",
       "url": "https://open.spotify.com/track/5aB5RkgtA34pFL5ZhRKdlx"
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 207000,
       "name": "mayday",
       "url": "https://open.spotify.com/track/1b5t2zmmKtMUIecVdg61Vb"
@@ -5600,7 +5636,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 168597,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae"
@@ -5853,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "wow",
+        "url": "https://open.spotify.com/album/2KpveXuktDa0smRM2rgh7P"
+      },
+      "artists": [
+        {
+          "name": "Jean Castel",
+          "url": "https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100666,
+      "name": "wow",
+      "url": "https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp"
+    },
+    {
+      "album": {
         "name": "Y en a encore",
         "url": "https://open.spotify.com/album/17GF2d30VLO5Ssq1oshJDa"
       },
@@ -6067,6 +6121,24 @@
     },
     {
       "album": {
+        "name": "\u00c9cran total",
+        "url": "https://open.spotify.com/album/7dCtiqG1147qsZmnll8L5f"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "\u00c9cran total",
+      "url": "https://open.spotify.com/track/1sVhDL2OQUKItkk56OBGRw"
+    },
+    {
+      "album": {
         "name": "Une autre vie",
         "url": "https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA"
       },
@@ -6082,6 +6154,24 @@
       "duration_ms": 179800,
       "name": "\u00c9t\u00e9 19",
       "url": "https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok"
+    },
+    {
+      "album": {
+        "name": "\u00c9t\u00e9 indien",
+        "url": "https://open.spotify.com/album/071IfO6HQAdFPOVXlW2qPQ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "\u00c9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/3Yplad4pUttI1nNpTXqOLB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "100% rock brasileiro. Foto: Tangolo Mangos",
+  "description": "100% rock brasileiro. Foto: Di Ferrero, Jenni Mosello",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 147447,
       "name": "Champs",
       "url": "https://open.spotify.com/track/7pZvDhII3FYfTb5RtKhxcD"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 395213,
       "name": "Colosso",
       "url": "https://open.spotify.com/track/1KdlRw0cywui4V05yaDsxg"
@@ -2688,6 +2688,28 @@
       "duration_ms": 184500,
       "name": "Deixa Eu Te Ver",
       "url": "https://open.spotify.com/track/4cuf3PsfyQamv4b5AKqJBX"
+    },
+    {
+      "album": {
+        "name": "SE7E",
+        "url": "https://open.spotify.com/album/5PTpgnRIjhygJOwKf324o1"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161318,
+      "name": "Deixa Sonhar",
+      "url": "https://open.spotify.com/track/6lSwNTSZUc0WP6hnvG7Oyy"
     },
     {
       "album": {
@@ -3148,6 +3170,28 @@
       "duration_ms": 203077,
       "name": "DISC\u00d3RDIA",
       "url": "https://open.spotify.com/track/3uJ7nGe0COVBFMWcoUvTmD"
+    },
+    {
+      "album": {
+        "name": "Dispara",
+        "url": "https://open.spotify.com/album/7dklXVW4rVuMNIZ7RBNcIb"
+      },
+      "artists": [
+        {
+          "name": "Viralata",
+          "url": "https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn"
+        },
+        {
+          "name": "QuatroK",
+          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Dispara",
+      "url": "https://open.spotify.com/track/2P5FdfGXE9ADHzfBUGQ0M0"
     },
     {
       "album": {
@@ -8408,7 +8452,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 170880,
       "name": "Perigoso",
       "url": "https://open.spotify.com/track/2S5RlUF5a1A6dLOJdWzvrr"
@@ -8598,6 +8642,24 @@
       "duration_ms": 146920,
       "name": "Pode Crer (Ao Vivo no Sonast\u00e9rio)",
       "url": "https://open.spotify.com/track/1HVRQk7cVPqS0YZ8WjCklH"
+    },
+    {
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/7t6pXYGYw7NxZm3NV542dP"
+      },
+      "artists": [
+        {
+          "name": "Vespas Mandarinas",
+          "url": "https://open.spotify.com/artist/39wvetWmzobDSXSkCHPEcv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178152,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7oNwJbxxC6tUwWqYud9bG4"
     },
     {
       "album": {

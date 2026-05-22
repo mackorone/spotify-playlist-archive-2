@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-148 songs - 6 hr 48 min
+149 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Pompous](https://open.spotify.com/track/4EfHXHVSCcWt64s8EkBQ0j) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow) | [Pompous](https://open.spotify.com/album/11ICxLbYsJT0eZ4mIJ0upJ) | 2:39 | 2026-02-20 |  |
 | [Popping Tonight](https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Before The Feast](https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI) | 2:04 | 2024-06-28 | 2025-02-22 |
 | [Prettier in person](https://open.spotify.com/track/17or0UA8HyXzg1MkGIXHI7) | [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo), [Erinie](https://open.spotify.com/artist/04dWhtMOwGIoTmS655UZTD), [bengatzeal](https://open.spotify.com/artist/7tjCXOrDtu0pAsoxdTdJfg) | [Prettier in person](https://open.spotify.com/album/1I3ZeliAd5PQDC1FrSb51J) | 2:19 | 2025-05-16 | 2025-06-28 |
+| [Prodigy](https://open.spotify.com/track/2ilGOknOLQd70l4ynK13WL) | [Tiepo](https://open.spotify.com/artist/39GW3AzyVHp8QcrzoelaY8) | [Prodigy](https://open.spotify.com/album/1LBIuw0Qz9fbEoBpftMRcK) | 1:58 | 2026-05-22 |  |
 | [PTSD 2 USDT](https://open.spotify.com/track/4iKu9Gpg6PBVIqyTPRbA2U) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [PTSD 2 USDT](https://open.spotify.com/album/2VQ2DECgvCMdJC0oQNmIHh) | 3:20 | 2025-08-29 |  |
 | [Puff Puff Pass](https://open.spotify.com/track/4IUJeJoEnzeVbBHQybYqMS) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Puff Puff Pass](https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo) | 2:31 | 2024-06-28 | 2025-04-01 |
 | [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 | 2024-09-20 | 2024-09-28 |

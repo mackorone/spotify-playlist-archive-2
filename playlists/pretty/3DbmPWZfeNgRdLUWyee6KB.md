@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,303 likes - 149 songs - 8 hr 56 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,308 likes - 157 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [Retorno do Dito Pródigo](https://open.spotify.com/track/2D6oww1SkDRuGu88srxGFT) | [Lóca](https://open.spotify.com/artist/2ECfxEdcFBvof4Ny6PCwBY) | [Retorno do Dito Pródigo](https://open.spotify.com/album/5oEtMWsJPd3s939btoWTuc) | 4:05 |
 | 148 | [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 |
 | 149 | [IL MALE NON TI PASSA](https://open.spotify.com/track/48QrKRIFZM9LCaOi1N2M7v) | [Blue Houze](https://open.spotify.com/artist/1J8h5KYRqthEHV2gVwm43q), [Mid Case](https://open.spotify.com/artist/3qCgJyDMPuDYvhbjJY7O5p) | [IL MALE NON TI PASSA](https://open.spotify.com/album/0LyOyMZsN6UNNdm9jFEiYE) | 2:48 |
+| 150 | [Enquanto o Barco Vai](https://open.spotify.com/track/5fyOZOcCKnGBoCBo4KL1Vi) | [Banda Brie](https://open.spotify.com/artist/6Lo7AVZ4XTvgTtutMlUg7v) | [Enquanto o Barco Vai](https://open.spotify.com/album/6kloriwaRmezwjJCYK9IuB) | 3:04 |
+| 151 | [Dying Alone!](https://open.spotify.com/track/0MVZaq5sejk2eTOa8PcmrC) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [Dying Alone!](https://open.spotify.com/album/6kHIMfzflJssAB9d4NA4FP) | 2:50 |
+| 152 | [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 |
+| 153 | [No One](https://open.spotify.com/track/4KaGZuhrSOGtiKcBqN6tZS) | [Alexandra Hesse](https://open.spotify.com/artist/754oVDQocIr6Vx7KI4SYLV) | [No One](https://open.spotify.com/album/22uHGLhI2IjNuwo0KO9G2n) | 3:36 |
+| 154 | [Come lei](https://open.spotify.com/track/7pWSs58SctIWBRe6bWspQX) | [Manu](https://open.spotify.com/artist/5AK9t3BFB3I1Qp2rY2RVZj) | [Come lei](https://open.spotify.com/album/2I3Ck3pqjouTkDMlHSQEtN) | 3:26 |
+| 155 | [Lucky](https://open.spotify.com/track/2lMn6SCGmnDfZNs9KaaO6a) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Wrote You in My Heart](https://open.spotify.com/album/0KZL4Ft4BeL8A5ynO5ql3d) | 3:14 |
+| 156 | [Gather Ye Low Buzz](https://open.spotify.com/track/15e4jWmhuh6MXnsgEGgMWV) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Ata Sato](https://open.spotify.com/artist/7c3ZuJHFKA2hYp5DtGXwLA) | [Gather Ye Low Buzz](https://open.spotify.com/album/59WESmGVeCeWQ3FIXCFkOI) | 2:07 |
+| 157 | [Mon enfant](https://open.spotify.com/track/0nGbGDH2kiMd4btVblyhUv) | [Sibylle](https://open.spotify.com/artist/5hAlzbE4V8znD67rPigl2j) | [Mon enfant](https://open.spotify.com/album/6nnP90eFP5Zb4F1mePVYZw) | 3:04 |
 
-Snapshot ID: `AAAUPNOPtIBzMVBwCUKC1sGXId4Rb8a3`
+Snapshot ID: `AAAURCKIYeMVdZJBdkGXnev6tRpUJ0yU`

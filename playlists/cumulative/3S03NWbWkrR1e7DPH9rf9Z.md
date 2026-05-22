@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-236 songs - 11 hr 31 min
+238 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2025-07-04 |  |
 | [Heavy On My Heart](https://open.spotify.com/track/7lMEsgC7KiaLQ3FtBQEK1d) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Orbis](https://open.spotify.com/artist/4HYWjPOqDtpJNoCJpusu2o), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Heavy On My Heart](https://open.spotify.com/album/5UYWLEDqfWQBrcKncS6cs5) | 2:41 | 2025-11-20 |  |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6eCGHBR1irzeSUdOLuqV6J) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5bitCrIgU2AoIY6Lp53s3k) | 3:12 | 2025-07-04 |  |
+| [Hideaway](https://open.spotify.com/track/6y1mZOvZIWVy8hkVgbIlju) | [Jarred](https://open.spotify.com/artist/7vpO8c2Ver8gJHCcRskbjF) | [Hideaway](https://open.spotify.com/album/5t2L4ibMq3mkXDhAvxKJ5a) | 2:48 | 2026-05-21 |  |
 | [Hundred](https://open.spotify.com/track/3RasBrU0G82p2ijgt8ni0c) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t), [Mark Roma](https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq), [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Hundred](https://open.spotify.com/album/1mCNOl9G907hE7ysri3FEq) | 2:45 | 2025-07-04 |  |
 | [I](https://open.spotify.com/track/6kBxq7uYuttkNPUnXlXYzb) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [I](https://open.spotify.com/album/43SGAgwZFgSA9j47MVIM7g) | 2:49 | 2025-07-04 |  |
 | [I Don't Like You](https://open.spotify.com/track/4g6Vuzzu7vXMt31BN2DxLg) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [I Don't Like You](https://open.spotify.com/album/4zCedXFg8Xg6Lx6RBCwnUD) | 2:23 | 2025-07-04 |  |
@@ -162,6 +163,7 @@
 | [Power](https://open.spotify.com/track/7jwEHAH903dO2gO2eX9t4A) | [LUSSO](https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR) | [Power](https://open.spotify.com/album/3D1nEf1iwpNGXr41LzQUHI) | 2:20 | 2025-07-04 |  |
 | [Powerhouse](https://open.spotify.com/track/44qhkWQvfoSVJ8Aa4EPtUs) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Powerhouse](https://open.spotify.com/album/7lIbGOvM7puHbyLssuCB7c) | 2:55 | 2026-04-24 |  |
 | [Prominent](https://open.spotify.com/track/4pms9OjqQ5FdU4dXjPEm8r) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Joop](https://open.spotify.com/artist/787pjl8QjVnQzg7GgINf9r) | [Prominent](https://open.spotify.com/album/0sBSi2fL73hHfLfUMNdXQy) | 2:00 | 2025-07-04 |  |
+| [Pyro Wasp](https://open.spotify.com/track/3S6ZiAgiBiIdCFOHuLUKw8) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Pyro Wasp](https://open.spotify.com/album/67UTLWI6WChtcUtqUKdzoH) | 2:55 | 2026-05-21 |  |
 | [Ravers Of The Night](https://open.spotify.com/track/2MhVERzSRYyWlyuCnQbQ6H) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [ALEJANDRO](https://open.spotify.com/artist/04qwzk49excRTxwyOJ66KR) | [Ravers Of The Night](https://open.spotify.com/album/0qiOQ5yVlLsBegEmeVUvFv) | 2:52 | 2025-07-04 | 2025-10-30 |
 | [Ready To The Grave](https://open.spotify.com/track/4jVl7BfcMfesbi3fT2utk2) | [Prilho](https://open.spotify.com/artist/1F1MraLAdnpa7Pqg5K3Eg8), [D4NIM](https://open.spotify.com/artist/1TtbViLPtFWt264Ym5g3Ci) | [Ready To The Grave](https://open.spotify.com/album/4UVsQRXrd48sk1HoQzzPBz) | 2:58 | 2025-07-04 |  |
 | [Reality](https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Reality](https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2) | 3:20 | 2025-07-04 | 2026-01-23 |

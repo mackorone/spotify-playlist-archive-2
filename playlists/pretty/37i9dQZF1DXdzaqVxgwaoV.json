@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145113,
+  "num_followers": 145108,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Amor Oculto",
+        "url": "https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx"
+      },
+      "artists": [
+        {
+          "name": "El Andariego",
+          "url": "https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Amor Oculto",
+      "url": "https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "La Voz Popular de Am\u00e9rica",
         "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 215346,
       "name": "Que Sufra, Que Chupe y Que Llore",
       "url": "https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Amor Oculto",
-        "url": "https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx"
-      },
-      "artists": [
-        {
-          "name": "El Andariego",
-          "url": "https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Amor Oculto",
-      "url": "https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Usted Se\u00f1or",
-        "url": "https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz"
-      },
-      "artists": [
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Que Hablen de M\u00ed",
-      "url": "https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Reminiscencias",
         "url": "https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 146186,
       "name": "Alma de Mujer",
       "url": "https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Usted Se\u00f1or",
+        "url": "https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Que Hablen de M\u00ed",
+      "url": "https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Reina Sin Rey",
-        "url": "https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49"
-      },
-      "artists": [
-        {
-          "name": "Arelys Henao",
-          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Un Amor Nuevo",
-      "url": "https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Coleccion Grandes Figuras",
         "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 156933,
       "name": "Amor Indio",
       "url": "https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Reina Sin Rey",
+        "url": "https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Un Amor Nuevo",
+      "url": "https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
-      },
-      "artists": [
-        {
-          "name": "Romulo Caicedo",
-          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Coleccion Grandes Figuras",
         "url": "https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 113133,
       "name": "Viejo Juguete",
       "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
+      },
+      "artists": [
+        {
+          "name": "Romulo Caicedo",
+          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Grandes \u00c9xitos de Jose Miguel Class",
-        "url": "https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt"
-      },
-      "artists": [
-        {
-          "name": "Jose Miguel Class",
-          "url": "https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 157866,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Los Grandes \u00c9xitos de Jose Miguel Class",
+        "url": "https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt"
+      },
+      "artists": [
+        {
+          "name": "Jose Miguel Class",
+          "url": "https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -875,26 +875,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Por Siempre, Vol. 5",
-        "url": "https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7"
+        "name": "Macondo",
+        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
       },
       "artists": [
         {
-          "name": "Los Relicarios",
-          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
-        },
-        {
-          "name": "Jose Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy"
-        },
-        {
-          "name": "Germ\u00e1n Rengifo",
-          "url": "https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT"
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
         }
       ],
-      "duration_ms": 170566,
-      "name": "Tumba Sin Doliente",
-      "url": "https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M"
+      "duration_ms": 237369,
+      "name": "Macondo",
+      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -931,18 +923,26 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Macondo",
-        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
+        "name": "Por Siempre, Vol. 5",
+        "url": "https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7"
       },
       "artists": [
         {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+          "name": "Los Relicarios",
+          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
+        },
+        {
+          "name": "Jose Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy"
+        },
+        {
+          "name": "Germ\u00e1n Rengifo",
+          "url": "https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT"
         }
       ],
-      "duration_ms": 237369,
-      "name": "Macondo",
-      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
+      "duration_ms": 170566,
+      "name": "Tumba Sin Doliente",
+      "url": "https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -963,22 +963,6 @@
       "duration_ms": 204560,
       "name": "Sobre las Olas",
       "url": "https://open.spotify.com/track/1noDxnTrhCblZDWYuGSrtz"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Mano a Mano",
-        "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
-      },
-      "artists": [
-        {
-          "name": "Los Relicarios",
-          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Mujer Traidora",
-      "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1027,6 +1011,22 @@
       "duration_ms": 173413,
       "name": "El Negro Picante",
       "url": "https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Mano a Mano",
+        "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
+      },
+      "artists": [
+        {
+          "name": "Los Relicarios",
+          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Mujer Traidora",
+      "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Exitos Populares",
-        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
-      },
-      "artists": [
-        {
-          "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Como Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Que Gran Relajo",
         "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 169400,
       "name": "El Mecedor",
       "url": "https://open.spotify.com/track/33Kh403s4v1rrOiOOHkja7"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Exitos Populares",
+        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Como Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
     },
     {
       "added_at": "2026-02-23 16:04:48",

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111639,
+  "num_followers": 111653,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "OLORIN PACK",
         "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -967,30 +967,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Second Thoughts",
-        "url": "https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        },
-        {
-          "name": "Naya Akanji",
-          "url": "https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Second Thoughts",
-      "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Lust In Lagos",
         "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
@@ -1015,18 +991,26 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Twin Peaks",
-        "url": "https://open.spotify.com/album/7MWF2QqZsOEMuwCcD8Fvvq"
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw"
       },
       "artists": [
         {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "Naya Akanji",
+          "url": "https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Twin Peaks",
-      "url": "https://open.spotify.com/track/3ShgDnsDUt3p8gp8eg7K3O"
+      "duration_ms": 137692,
+      "name": "Second Thoughts",
+      "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1047,6 +1031,42 @@
       "duration_ms": 192000,
       "name": "Novacaine",
       "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Twin Peaks",
+        "url": "https://open.spotify.com/album/7MWF2QqZsOEMuwCcD8Fvvq"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Twin Peaks",
+      "url": "https://open.spotify.com/track/3ShgDnsDUt3p8gp8eg7K3O"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Cavy In The City",
         "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 151529,
       "name": "General",
       "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "SAME TIME",
+        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
+      },
+      "artists": [
+        {
+          "name": "Chie",
+          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
+        }
+      ],
+      "duration_ms": 116869,
+      "name": "SAME TIME",
+      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "SAME TIME",
-        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
-      },
-      "artists": [
-        {
-          "name": "Chie",
-          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "SAME TIME",
-      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "My letter to Zayn",
         "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 237000,
       "name": "My letter to Zayn",
       "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
-      },
-      "artists": [
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        },
-        {
-          "name": "Sabrina Bellaouel",
-          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
+      },
+      "artists": [
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        },
+        {
+          "name": "Sabrina Bellaouel",
+          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "DUA PA",
         "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 148137,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 148137,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Pray for the Kids",
-        "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
+        "name": "Emefa's Revenge",
+        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
       },
       "artists": [
         {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
         }
       ],
-      "duration_ms": 186636,
-      "name": "Pray for the Kids",
-      "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
+      "duration_ms": 211636,
+      "name": "Emefa's Revenge",
+      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

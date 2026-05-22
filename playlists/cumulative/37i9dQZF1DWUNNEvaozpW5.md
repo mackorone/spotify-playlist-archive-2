@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Ultraligera.
+> Lo mejor del rock de aquí, como Siloé.
 
-786 songs - 2 day 2 hr 10 min
+788 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Cheques falsos](https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [1973](https://open.spotify.com/album/1Lotfo5byxZL9S3teWnwhd) | 5:11 | 2025-10-02 | 2025-11-07 |
 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 | 2022-05-19 |  |
 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 | 2022-05-26 |  |
-| [Cielo hermético](https://open.spotify.com/track/5aWREznXDTWJ046mUoT162) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cielo hermético](https://open.spotify.com/album/33KEwlFbYi94OnXeDHruHl) | 3:59 | 2022-05-19 |  |
+| [Cielo hermético](https://open.spotify.com/track/5aWREznXDTWJ046mUoT162) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cielo hermético](https://open.spotify.com/album/33KEwlFbYi94OnXeDHruHl) | 3:59 | 2022-05-19 | 2026-05-22 |
 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 | 2022-05-19 |  |
 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 | 2022-08-18 |  |
 | [Cigüeñas](https://open.spotify.com/track/5ui7UcsKn8439rz5fN9Ln1) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Cigüeñas](https://open.spotify.com/album/3m67gj12DgNuijCJWzoL0q) | 3:27 | 2025-02-06 | 2025-02-14 |
@@ -202,6 +202,7 @@
 | [Dime Que Me Quieres \- Versión 2023](https://open.spotify.com/track/4M0QpqN0H0ZY9PbxqiqeLk) | [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n) | [Dime Que Me Quieres \(Versión 2023\)](https://open.spotify.com/album/74rxfPoSqb7R86oIuaSAx9) | 3:33 | 2023-02-16 | 2023-03-03 |
 | [Diría Que Estaría Bueno](https://open.spotify.com/track/2eu2lN6u1Y3AXBNRJHfTKr) | [Pablo Lesuit](https://open.spotify.com/artist/4lA8TrVb4WS2bcyqaokXaT) | [Diría Que Estaría Bueno](https://open.spotify.com/album/3IAyepCPjsN8GKGcDTk88L) | 2:59 | 2025-03-06 | 2025-03-14 |
 | [Disimular](https://open.spotify.com/track/5uDRcbIs7YONCB7zGNbZk9) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Disimular](https://open.spotify.com/album/64FVJdVf0XVuEhIySK5Fl2) | 2:56 | 2024-11-21 | 2024-11-29 |
+| [Dolor y Gloria](https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Dolor y Gloria](https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL) | 3:12 | 2026-05-21 |  |
 | [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 | 2023-05-11 | 2024-04-19 |
 | [Dolores Se Llamaba Lola \- Remastered](https://open.spotify.com/track/2R8705oC8pTL8JwvpidmMT) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese Día Piensa en Mí \(Remastered\)](https://open.spotify.com/album/6RkLfsx8IskPcVGZybrd5y) | 5:09 | 2022-05-19 | 2022-07-29 |
 | [Dos clavos a mis alas \- Versión Molinos](https://open.spotify.com/track/0iPW5ZPxZhqPk9K1Z8VAxk) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Dos clavos a mis alas \(Versión Molinos\)](https://open.spotify.com/album/36pVtmmtG5MvQoBdyL9T5Q) | 4:45 | 2022-10-06 | 2022-10-28 |
@@ -289,6 +290,7 @@
 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 | 2022-05-19 |  |
 | [Especie en extinción](https://open.spotify.com/track/5FQFqSwJLdFZpdte4Mh08y) | [Nat Simons](https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn) | [Especie en extinción](https://open.spotify.com/album/1UOINYqe6iPGwkBVcJSZkf) | 4:10 | 2026-02-12 | 2026-02-20 |
 | [Espejo, Espejito](https://open.spotify.com/track/4EUirKhyTAerYc29rWhYhP) | [La Broma Negra](https://open.spotify.com/artist/0LnbHWQdiXZy0aoOtNEWgL) | [Espejo, Espejito](https://open.spotify.com/album/15EAOmw3pvQJB6gE6MEI78) | 4:26 | 2025-01-31 | 2025-02-07 |
+| [Estado 03](https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Estado 03](https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa) | 4:01 | 2026-05-21 |  |
 | [Estamos como queremos](https://open.spotify.com/track/1hM8IkhmSWyrpGcCkH7yNE) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [Estamos como queremos](https://open.spotify.com/album/2nyRW2bGiETkzWPqO2qQe5) | 2:42 | 2025-06-12 | 2025-07-18 |
 | [Estamos listos para golpear](https://open.spotify.com/track/492F7s7EnwiGupycYgULdC) | [Los Estanques](https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos), [El Canijo de Jerez](https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7) | [Lágrimas de plomo fundido](https://open.spotify.com/album/4Pd5O6omPXENEjIuj8jfre) | 5:00 | 2025-09-18 | 2025-10-22 |
 | [Estamos Vivos](https://open.spotify.com/track/3wsZQNPdugfNpX6ViGbWKE) | [Edu el Podenco](https://open.spotify.com/artist/4PfBGxI8L74b8oYllcDupX) | [Estamos Vivos](https://open.spotify.com/album/5lg0nCNDMuEn0DLTgwmFVB) | 3:57 | 2025-05-16 | 2025-05-24 |
@@ -359,7 +361,7 @@
 | [Juguemos](https://open.spotify.com/track/7MnS8sUKTd3Vk1Erk2V20D) | [Simón Salinas](https://open.spotify.com/artist/5ogm4ORgtWxbH7ZJPuCiEC), [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Juguemos](https://open.spotify.com/album/4aO6QrQQwNWnFnY4lmZiUn) | 2:58 | 2024-08-29 | 2024-09-06 |
 | [Juliette \- Versión 2005](https://open.spotify.com/track/5J07Go5VORFPvKsN5tzcXe) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Hay mucho Rock & Roll\- Resumen](https://open.spotify.com/album/0JbOeNFwRRzFZva6WYwQnC) | 3:37 | 2022-05-26 | 2022-06-08 |
 | [Juramentos](https://open.spotify.com/track/2zHaMO7wdWosy8s7ergneM) | [Les Camisetes](https://open.spotify.com/artist/0NfzJL4JCERuUD6GOqacGl) | [Juramentos](https://open.spotify.com/album/55osmIpcwzTDe6fo82C5VB) | 3:10 | 2025-05-16 | 2025-05-24 |
-| [King´s Road](https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [LA 03010](https://open.spotify.com/album/6TSIpW2B1o6CJIaG3CJd8U) | 5:12 | 2026-04-16 |  |
+| [King´s Road](https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [LA 03010](https://open.spotify.com/album/6TSIpW2B1o6CJIaG3CJd8U) | 5:12 | 2026-04-16 | 2026-05-22 |
 | [Kokagram](https://open.spotify.com/track/2bmnmJUy235wkJHFGJ28wy) | [Isma Romero](https://open.spotify.com/artist/5tGFnFD0dIxKMG8uuR9p89) | [Tira y afloja](https://open.spotify.com/album/6HzmGMkmXh5MYTE7AH1sPG) | 2:38 | 2026-03-05 | 2026-03-13 |
 | [Ké Más Nos Da](https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 3:20 | 2024-03-14 |  |
 | [La cabecita loca \- Directo Botánico](https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [La cabecita loca \- Directo Botánico](https://open.spotify.com/album/59NpAQaaPqOV3LUIwxi6sd) | 3:53 | 2024-09-05 | 2024-09-13 |
@@ -516,7 +518,7 @@
 | [Music Free](https://open.spotify.com/track/6R2xf7kifqcJQTOc7QUSqh) | [Gatoperro](https://open.spotify.com/artist/5mSo1c0ixJtIJxCQBmWAWl) | [Music Free](https://open.spotify.com/album/0fP8MlNUVtijmh9RfFztGD) | 3:25 | 2024-08-12 | 2024-08-20 |
 | [Muérdeme](https://open.spotify.com/track/4C4F7r2as1mPaDWrNT44PD) | [Los Romeos](https://open.spotify.com/artist/2wKNa6ACDrmf72trZtC8Bu), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Muérdeme](https://open.spotify.com/album/1Kcw4eZVazTL1pJdiunYRC) | 3:00 | 2026-03-26 | 2026-04-10 |
 | [Más que el tiempo](https://open.spotify.com/track/5z6ojHd8iKBuNtHovjHuMU) | [Sulivan? Nunca he estado ahí](https://open.spotify.com/artist/0qjulMsP59DrQJN1qLSuVw) | [Más que el tiempo](https://open.spotify.com/album/09q6zqJBmmeiM62ODkwpWB) | 4:36 | 2023-07-13 | 2023-07-28 |
-| [Mírame](https://open.spotify.com/track/7BFsE5Lxh17BI7FT8KU2tg) | [Mala Reputación](https://open.spotify.com/artist/6Y6pF5eEgYW8XwEDebMk1R) | [Queda entre nosotros](https://open.spotify.com/album/6jYuikJYeSt6EAZuPJlZqo) | 3:43 | 2026-05-07 |  |
+| [Mírame](https://open.spotify.com/track/7BFsE5Lxh17BI7FT8KU2tg) | [Mala Reputación](https://open.spotify.com/artist/6Y6pF5eEgYW8XwEDebMk1R) | [Queda entre nosotros](https://open.spotify.com/album/6jYuikJYeSt6EAZuPJlZqo) | 3:43 | 2026-05-07 | 2026-05-22 |
 | [Na de na](https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Na de na](https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt) | 3:47 | 2025-09-11 | 2025-10-24 |
 | [Nada](https://open.spotify.com/track/5tnIkOu6Fyh4dYFUMX5fJu) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR) | [Todas las luces](https://open.spotify.com/album/7MgiZLcqlzL4c0WrP5ahE9) | 4:11 | 2026-04-23 | 2026-05-08 |
 | [Nada conmigo](https://open.spotify.com/track/5eVwhSR37ARRpz97eoCgEz) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Gente Estridente](https://open.spotify.com/album/2FWtIR7EW8caMUjm7LweWL) | 3:08 | 2026-02-05 | 2026-02-20 |
@@ -640,7 +642,7 @@
 | [Rock and Roll Star \- Remaster 2017](https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Los tiempos están cambiando \(Remaster 2017\)](https://open.spotify.com/album/1sLl4Mj1wY4FSVzRhIT99m) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 | 2023-07-27 | 2023-08-25 |
 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 | 2022-05-19 |  |
-| [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 | 2022-05-19 | 2025-10-24 |
+| [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 | 2022-05-19 |  |
 | [Romance de la Cautiva](https://open.spotify.com/track/2UQSi2b10AELUDmjIQXs78) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Romance de la Cautiva](https://open.spotify.com/album/0LTCok68A2bZZXeNE8Lghk) | 3:23 | 2023-04-13 | 2023-04-28 |
 | [Romasanta](https://open.spotify.com/track/6tAHymsLLWYPmoLpmcq0Rr) | [La Broma Negra](https://open.spotify.com/artist/0LnbHWQdiXZy0aoOtNEWgL) | [Romasanta](https://open.spotify.com/album/1TnCzYi7cSGjZkCZrsQDXx) | 3:56 | 2025-03-14 | 2025-03-21 |
 | [Rosa la Barbitúrica](https://open.spotify.com/track/6RIdIMxYzRFb5tqk0z8KNy) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Rosa la Barbitúrica](https://open.spotify.com/album/3FEwDQIBxLmawMjscqJ6A0) | 3:56 | 2025-01-31 | 2025-02-07 |

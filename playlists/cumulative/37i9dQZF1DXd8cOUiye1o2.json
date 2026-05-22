@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Cocktail 2",
+  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Chand Mera Dil",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -5435,6 +5435,32 @@
     },
     {
       "album": {
+        "name": "Guzara",
+        "url": "https://open.spotify.com/album/6FFtYqnYhQ8K23D2HEKQwC"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Guzara",
+      "url": "https://open.spotify.com/track/5llGxmF2mDHmormgVmWiIY"
+    },
+    {
+      "album": {
         "name": "Raja Hindustani",
         "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
       },
@@ -6272,7 +6298,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 211400,
       "name": "Husn Ke Lakhon Rang - From \"Toaster\"",
       "url": "https://open.spotify.com/track/4m20rRVI0u4hvcK3noOOuI"
@@ -6364,7 +6390,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 178124,
       "name": "Inaam (Ft. Badshah)",
       "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
@@ -9148,7 +9174,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 206900,
       "name": "Lage Na Jiya",
       "url": "https://open.spotify.com/track/206eKkJVhhIOH41MTmV9Vm"
@@ -9646,6 +9672,28 @@
       "duration_ms": 345120,
       "name": "Mahavtar Narasimha",
       "url": "https://open.spotify.com/track/4ygNAxAGUn2KdjcPlxWs7s"
+    },
+    {
+      "album": {
+        "name": "Clashyamical",
+        "url": "https://open.spotify.com/album/2hTeJWNOYYzCua5zwwDNRg"
+      },
+      "artists": [
+        {
+          "name": "Shyam Jain",
+          "url": "https://open.spotify.com/artist/4SReAY299rUeDixw2OBhjP"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192157,
+      "name": "Mai Na Jaau",
+      "url": "https://open.spotify.com/track/3cUpK2czLuOB9BhwBu4LYM"
     },
     {
       "album": {
@@ -11198,6 +11246,32 @@
       "duration_ms": 214163,
       "name": "Naina Bole",
       "url": "https://open.spotify.com/track/5jZr81szIls0tXowLvAG6c"
+    },
+    {
+      "album": {
+        "name": "Naina Ra Lobhi",
+        "url": "https://open.spotify.com/album/66EOriStuuPVVFSRyweQ2o"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sidhawat",
+          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
+        },
+        {
+          "name": "Rutvij Joshi",
+          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217779,
+      "name": "Naina Ra Lobhi",
+      "url": "https://open.spotify.com/track/2dVUPUGaJpoMOUKIHzWfC3"
     },
     {
       "album": {

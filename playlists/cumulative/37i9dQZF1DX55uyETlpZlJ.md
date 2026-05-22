@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-663 songs - 1 day 13 hr 43 min
+664 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Ee Ghalige](https://open.spotify.com/track/7shQ0hDfaXvd5AKug5bNZQ) | [Suprabha B R](https://open.spotify.com/artist/1aJDIXGlfXO27HaizmQv27), [Staccato cafe](https://open.spotify.com/artist/2IPywP7nZXjsuGfohtjzVZ) | [Ee Ghalige](https://open.spotify.com/album/0jJZBPXfvt96nQhEYpP4Te) | 3:30 | 2024-11-04 | 2025-03-18 |
 | [Ee Gungalli](https://open.spotify.com/track/20FyYI3BKbdMQiWnUceUdF) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Ee Gungalli](https://open.spotify.com/album/7GNN2ddgGwGIe1KU5D0CwD) | 2:56 | 2025-09-15 | 2026-02-07 |
 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 | 2024-10-04 |
+| [Ee Payanavoo Ninnade](https://open.spotify.com/track/4qXzFgtx9UuzUM3se30ZjB) | [Abhilash Shet](https://open.spotify.com/artist/4wFDd225kodWn0RMXeq57D) | [Ee Payanavoo Ninnade](https://open.spotify.com/album/03kk1OCP352PHGaQgxCD10) | 4:45 | 2026-05-21 |  |
 | [ejawa](https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Vishakh](https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV), [Chaithra M](https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y) | [ejawa](https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO) | 2:45 | 2024-06-24 | 2024-11-30 |
 | [Elle Hodaru](https://open.spotify.com/track/1aR6HAkxlQT2O2dBuJVNBW) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Elle Hodaru](https://open.spotify.com/album/5VQ8AboHL2qQBYx7KrvxET) | 2:45 | 2024-08-27 | 2025-02-27 |
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
@@ -214,7 +215,7 @@
 | [HANTHAKA](https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [HANTHAKA](https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX) | 2:34 | 2024-06-11 | 2024-11-27 |
 | [Hara Hara Ne](https://open.spotify.com/track/2GFFss8LtxhdQn6hatYbxw) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Manju Mahadev](https://open.spotify.com/artist/5yT5O67BcW3BUlCatWHS9V) | [Hara Hara Ne](https://open.spotify.com/album/139SXL2RAoHnVOMRhPEMhG) | 3:17 | 2025-01-31 | 2025-05-10 |
 | [Heartinalli](https://open.spotify.com/track/6RBOUvGyjz2Kzm4XmHf605) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Ramachandran](https://open.spotify.com/artist/5fS0OA36uHvRKbLpHzPP61) | [Heartinalli](https://open.spotify.com/album/7d3AUemw6wKoRpO75Bjx5m) | 3:18 | 2026-04-01 |  |
-| [HEY](https://open.spotify.com/track/019LcgwlEBzMcuBpBAMNth) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [HEY](https://open.spotify.com/album/2q66NPP0EiJ5pOTN7MUOyI) | 2:59 | 2025-11-20 |  |
+| [HEY](https://open.spotify.com/track/019LcgwlEBzMcuBpBAMNth) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [HEY](https://open.spotify.com/album/2q66NPP0EiJ5pOTN7MUOyI) | 2:59 | 2025-11-20 | 2026-05-22 |
 | [Hey Driver Ni Nanna Lover](https://open.spotify.com/track/2ipAtn4D1d7SeHf2UFBID7) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Trupti Uk Singer](https://open.spotify.com/artist/2SGoL6BKOPX2XUfaxj6Dt4), [Dj Sagar Rbg](https://open.spotify.com/artist/5KnADowrXi4jni5TWAuCR1) | [Hey Driver Ni Nanna Lover](https://open.spotify.com/album/5mM28MXmGyotFWLCHQOkjb) | 6:23 | 2025-11-03 | 2026-05-16 |
 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 | 2024-06-11 | 2024-12-20 |
 | [Hey Nalle](https://open.spotify.com/track/6Iw6LNeRsjDGMrCRqR8Xxo) | [Shreyas Shetty](https://open.spotify.com/artist/0HoV7hquGIujUeBi085UZH) | [Hey Nalle](https://open.spotify.com/album/2QshlvOsfTzmOPhO5T6LJF) | 3:11 | 2025-04-11 | 2025-11-05 |

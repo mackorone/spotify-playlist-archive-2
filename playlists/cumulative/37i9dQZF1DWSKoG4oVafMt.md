@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,172 songs - 2 day 15 hr 11 min
+1,173 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 | 2022-12-16 |
 | [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-09-26 | 2025-10-10 |
 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-25 | 2025-04-23 |
-| [IJAZAT](https://open.spotify.com/track/4h9UT0UOnoJP9JRBD5XxMQ) | [Harsh Nussi](https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy), [Deep Klair](https://open.spotify.com/artist/3tndvj19OOtC227DV8z0oI), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [IJAZAT](https://open.spotify.com/album/0j8KieX2R8uQ7xZ8H7augj) | 2:06 | 2026-04-30 |  |
+| [IJAZAT](https://open.spotify.com/track/4h9UT0UOnoJP9JRBD5XxMQ) | [Harsh Nussi](https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy), [Deep Klair](https://open.spotify.com/artist/3tndvj19OOtC227DV8z0oI), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [IJAZAT](https://open.spotify.com/album/0j8KieX2R8uQ7xZ8H7augj) | 2:06 | 2026-04-30 | 2026-05-22 |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2022-10-11 | 2023-02-02 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Kookh](https://open.spotify.com/track/2RXYl5dl1FeTDFH3MGbXEo) | [Shivam Vashisht](https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy) | [Ik Kookh](https://open.spotify.com/album/1OK9DHvsFxSt7oO5myKiAZ) | 4:00 | 2025-03-05 | 2025-03-26 |
@@ -1172,6 +1172,7 @@
 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 | 2025-10-15 | 2026-01-30 |
 | [You N’ I](https://open.spotify.com/track/4hg7dDYEK3Mc1fLVBPbzpl) | [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [You N’ I](https://open.spotify.com/album/4oppIoX5vEptnhXE3VcU3x) | 2:48 | 2022-04-11 | 2022-04-29 |
 | [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 | 2022-01-08 | 2022-04-06 |
+| [Your Thoughts](https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U) | [Nav Singh](https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z), [Arjan Gill](https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy) | [Your Thoughts](https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8) | 3:02 | 2026-05-21 |  |
 | [Zara Faasley Te](https://open.spotify.com/track/4C88RSd7XYdOnqKUi1IZfc) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Zara Faasley Te \- Single](https://open.spotify.com/album/6x752sdmpSQagdtzUMv31Q) | 4:24 | 2022-11-07 | 2023-02-04 |
 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2025-03-05 | 2025-06-27 |
 | [Zaruri Nai](https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Zaruri Nai](https://open.spotify.com/album/2ohc2qpaaUPHlLLhxj1q7V) | 2:30 | 2022-06-24 | 2022-06-29 |

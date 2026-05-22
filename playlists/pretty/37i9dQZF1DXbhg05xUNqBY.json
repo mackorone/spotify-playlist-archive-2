@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346448,
+  "num_followers": 346445,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Surpasses My Understanding",
+        "url": "https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Surpasses My Understanding",
+      "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Yesterday, Today, & Tomorrow",
         "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 202333,
       "name": "Yesterday, Today, & Tomorrow",
       "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Surpasses My Understanding",
-        "url": "https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc"
-      },
-      "artists": [
-        {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Surpasses My Understanding",
-      "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Walking Each Other Home",
         "url": "https://open.spotify.com/album/66MK44Etnba6obuePImbiy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 186374,
       "name": "Walking Each Other Home",
       "url": "https://open.spotify.com/track/0bKRWcR62BCpaUxKqumMdh"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Harp Worship: Volume 1",
+        "url": "https://open.spotify.com/album/06mtH83NDvDfuSQvGOZKhM"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 318965,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3FvpX0zfooH9UbIhwvLNnk"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "At The Table",
         "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 94783,
       "name": "At The Table",
       "url": "https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Harp Worship: Volume 1",
-        "url": "https://open.spotify.com/album/06mtH83NDvDfuSQvGOZKhM"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 318965,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/3FvpX0zfooH9UbIhwvLNnk"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Faithful (To The End)",
-        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Faithful (To The End)",
-      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Table for 2 - EP",
         "url": "https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 181481,
       "name": "Zero Time",
       "url": "https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Faithful (To The End)",
+        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Faithful (To The End)",
+      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Heavenly Places",
-        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+        "name": "Belovedness (Lullaby)",
+        "url": "https://open.spotify.com/album/50oTpxuB6Vb5OmdE5BzKx9"
       },
       "artists": [
         {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 194332,
-      "name": "Heavenly Places",
-      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
+      "duration_ms": 232800,
+      "name": "Belovedness - Lullaby",
+      "url": "https://open.spotify.com/track/4otbUxvuD7PdY5gK3tZkSg"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Belovedness (Lullaby)",
-        "url": "https://open.spotify.com/album/50oTpxuB6Vb5OmdE5BzKx9"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Belovedness - Lullaby",
-      "url": "https://open.spotify.com/track/4otbUxvuD7PdY5gK3tZkSg"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "All Blessing",
         "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 256190,
       "name": "All Blessing",
       "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Heavenly Places",
+        "url": "https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "duration_ms": 194332,
+      "name": "Heavenly Places",
+      "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "interlude",
-        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "it all belongs to You",
-      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Do it Afraid",
         "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "interlude",
+        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 322813,
+      "name": "it all belongs to You",
+      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Give Me Rest",
-        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 243704,
-      "name": "Give Me Rest",
-      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "I Choose To Love You",
         "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 344723,
       "name": "I Choose To Love You",
       "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Give Me Rest",
+        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 243704,
+      "name": "Give Me Rest",
+      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2099,18 +2099,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "It's So Good to Need You",
-        "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
       },
       "artists": [
         {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
         }
       ],
-      "duration_ms": 243294,
-      "name": "It's So Good to Need You",
-      "url": "https://open.spotify.com/track/3QVm9Y5wLCsVBHfK2D6HpE"
+      "duration_ms": 290526,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+        "name": "It's So Good to Need You",
+        "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
       },
       "artists": [
         {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
         }
       ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+      "duration_ms": 243294,
+      "name": "It's So Good to Need You",
+      "url": "https://open.spotify.com/track/3QVm9Y5wLCsVBHfK2D6HpE"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "How Long?",
-        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "How Long?",
-      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Jesus Cries",
         "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 206530,
       "name": "Jesus Cries - Unplugged Version",
       "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "How Long?",
+        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "How Long?",
+      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "'Tis So Sweet to Trust in Jesus",
-        "url": "https://open.spotify.com/album/7rl9IXPfsyEU1bzvD005mI"
-      },
-      "artists": [
-        {
-          "name": "Logan and Katie",
-          "url": "https://open.spotify.com/artist/29mBJluOiESLCXX9eFpkJs"
-        }
-      ],
-      "duration_ms": 206470,
-      "name": "'Tis So Sweet to Trust in Jesus",
-      "url": "https://open.spotify.com/track/2LLF8eOLgBs4lgBxkEgH04"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Feel It All",
         "url": "https://open.spotify.com/album/3qF1BKqphh0Cmcf5i55Kqe"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 265000,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "'Tis So Sweet to Trust in Jesus",
+        "url": "https://open.spotify.com/album/7rl9IXPfsyEU1bzvD005mI"
+      },
+      "artists": [
+        {
+          "name": "Logan and Katie",
+          "url": "https://open.spotify.com/artist/29mBJluOiESLCXX9eFpkJs"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "'Tis So Sweet to Trust in Jesus",
+      "url": "https://open.spotify.com/track/2LLF8eOLgBs4lgBxkEgH04"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "By The Grace Of God",
-        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
-      },
-      "artists": [
-        {
-          "name": "Nick Herbert",
-          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "By The Grace Of God",
-      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "It Is Done",
         "url": "https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 157894,
       "name": "It Is Done",
       "url": "https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "By The Grace Of God",
+        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
     },
     {
       "added_at": "2026-04-17 06:49:13",

@@ -4,7 +4,7 @@
 
 > New music from Drake.
 
-2,761 songs - 5 day 23 hr 24 min
+2,762 songs - 5 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2561,6 +2561,7 @@
 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-01 | 2022-09-12 |
 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 | 2022-09-09 | 2022-10-08 |
 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 | 2019-09-27 | 2020-01-31 |
+| [Vica Versa](https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr) | [Pastor Troy](https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY) | [Face Off](https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU) | 4:23 | 2026-05-21 |  |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-28 | 2022-02-12 |
 | [Viking](https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 | 2024-12-20 | 2025-03-15 |
 | [Viral Moment](https://open.spotify.com/track/2vuIvaMhGOFI6f1G1sTMye) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Viral Moment](https://open.spotify.com/album/111wy5iF0AxDYV7gU4BlLr) | 3:12 | 2020-05-01 | 2020-05-15 |

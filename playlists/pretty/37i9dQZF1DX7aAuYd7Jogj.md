@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,732 likes - 225 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,211 likes - 225 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 224 | [Cosmic Serenity](https://open.spotify.com/track/0ZLt4QptoyWaWM4msHb8Qg) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Cosmic Serenity](https://open.spotify.com/album/78RUALVvkYyalZVdHHQHuN) | 2:56 |
 | 225 | [Hundtjärnen](https://open.spotify.com/track/4tn7t8wZfxr2j9MHSWm9d4) | [Frida Ljungh](https://open.spotify.com/artist/5pMgQ0HYdoWQOVaGd0eRvm) | [Hundtjärnen](https://open.spotify.com/album/6ItolMFcLGu3prRZKo1j3x) | 2:35 |
 
-Snapshot ID: `AAAAAInsWtN1xc9LYvseQff4l+zNoGka`
+Snapshot ID: `AAAAAGCtSKpE335PBEKX+D1yGK+kqZEE`

@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Sayf in cover.
 
-218 songs - 10 hr 20 min
+219 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-08-31 | 2023-04-12 |
 | [llamando](https://open.spotify.com/track/2I6xlXAr8N360bE5RS1XOY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [glory](https://open.spotify.com/album/7xZTjW4Soxw9Mp1E7mMKoT) | 2:36 | 2025-05-13 |  |
 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 | 2024-08-22 | 2025-05-14 |
+| [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 | 2026-05-21 |  |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-03-08 | 2023-04-12 |
 | [MA COME SI FA](https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Scraby](https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL) | [MA COME SI FA](https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL) | 2:19 | 2024-04-23 | 2025-05-14 |
 | [MADAME](https://open.spotify.com/track/53xkDo7dg0zC4QKb2wuwtz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [MADAME](https://open.spotify.com/album/6nwJDmta15pOlC1Ne7wfrW) | 2:28 | 2023-09-01 | 2024-04-24 |

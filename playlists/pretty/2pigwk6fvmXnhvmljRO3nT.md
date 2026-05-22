@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,442 songs - 21 day 12 hr 17 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,443 songs - 21 day 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8450,5 +8450,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8440 | [LONELY NIGHTS](https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [FANTASY CLUB \(International Version\)](https://open.spotify.com/album/0aW5Sks2Bix7Gy1M4VlhY0) | 3:56 |
 | 8441 | [恋愛裁判 \(feat\. 花里みのり&桃井愛莉&初音ミク\)](https://open.spotify.com/track/59y5HeIYw7yU6BdKzjrZzX) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM Vol.1](https://open.spotify.com/album/00fT0wiS5WgGx9Q8O3koaz) | 3:42 |
 | 8442 | [恋愛裁判](https://open.spotify.com/track/22TCGj2RUe9GuXmufUYA4U) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 3:42 |
+| 8443 | [Sparkle \- Original Version](https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 6:50 |
 
-Snapshot ID: `AAAL1iwMXRAeKniwy+1JdQl/KstGlJ26`
+Snapshot ID: `AAAL1z55MJdIO6/cJDwyfrwdZNSKDxod`

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: J308
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
 
-315 songs - 17 hr 10 min
+316 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Come My Way](https://open.spotify.com/track/0DokETHZlncyL1KZZ8uAvV) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:58 | 2024-12-04 | 2025-04-16 |
 | [Come My Way](https://open.spotify.com/track/5tMRRy9BsAIFN75a3t5mky) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:58 | 2024-06-27 | 2024-12-05 |
 | [Cosmic](https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Cosmic](https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR) | 2:31 | 2026-04-06 |  |
+| [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 | 2026-05-21 |  |
 | [crawling back to you.flp](https://open.spotify.com/track/03oARKM2eOeljp6NH63Tpt) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ) | [WARD 13A's DEATH RESUME](https://open.spotify.com/album/3kvxbcYgBtM3MZdEPOODYL) | 3:06 | 2026-04-06 |  |
 | [crush on me?](https://open.spotify.com/track/4WKud3RIFXg2bD2D4KXPUU) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 2:55 | 2025-04-15 | 2026-04-07 |
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 | 2025-04-16 |

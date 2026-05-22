@@ -4589,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Something Went Wrong",
+        "url": "https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186602,
+      "name": "Something Went Wrong",
+      "url": "https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW"
+    },
+    {
+      "album": {
         "name": "\u8a31\u5149\u6f22",
         "url": "https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp"
       },
@@ -10409,6 +10427,28 @@
     },
     {
       "album": {
+        "name": "\u6211\u4e0d\u518d\u60f3\u4f60\u4e86",
+        "url": "https://open.spotify.com/album/7EdaFy5N9gsHgQLwAYHxqy"
+      },
+      "artists": [
+        {
+          "name": "\u5b8f\u5152 Kuan Hong",
+          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
+        },
+        {
+          "name": "\u5c0f\u9f20",
+          "url": "https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269779,
+      "name": "\u6211\u4e0d\u518d\u60f3\u4f60\u4e86",
+      "url": "https://open.spotify.com/track/1JKOzEZxRmwOipGu2ySHOW"
+    },
+    {
+      "album": {
         "name": "\u6211\u4e0d\u60f3\u88ab\u8cb7",
         "url": "https://open.spotify.com/album/6Z75cvwgzT4SmKOZlOa5yF"
       },
@@ -14008,6 +14048,28 @@
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
+    },
+    {
+      "album": {
+        "name": "\u7fbd\u7d68\u5916\u5957",
+        "url": "https://open.spotify.com/album/0z7LpSZ6HplK9IGNGHorz1"
+      },
+      "artists": [
+        {
+          "name": "Kouky",
+          "url": "https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya"
+        },
+        {
+          "name": "Quanzo",
+          "url": "https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150623,
+      "name": "\u7fbd\u7d68\u5916\u5957",
+      "url": "https://open.spotify.com/track/3o2eKQe0bQgmGuqD0CL7uT"
     },
     {
       "album": {

@@ -1,15 +1,63 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE\">Zo\u00eb Livay</a> en <a href=\"spotify:artist:67Hs92fNnRAgFBfL6EePwb\">Aaron Blommaert</a>",
-  "num_followers": 8025,
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:2qVi7G7OjgVXyl9zxabzTQ\">Sarah Julia</a> ",
+  "num_followers": 8027,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGaE/nVXQCfKs6Yxd8GzyD1a4T7",
+  "snapshot_id": "AAAAALo2X/YRwq+0Kv1Q3lcoQJLNOHL2",
   "tracks": [
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
+      "album": {
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:21",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "added_at": "2026-05-21 22:00:21",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Tranen Van Goud",
         "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Sluit Me In Je Armen",
         "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Huisje Aan De Zee",
         "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Ik Zing (feat. Snelle)",
         "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
@@ -81,7 +129,7 @@
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Beter Zo",
         "url": "https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI"
@@ -97,7 +145,7 @@
       "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "WIE?",
         "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
@@ -161,7 +209,7 @@
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Slow Death Of A Good Girl",
         "url": "https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Bowie's Pressure",
         "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Youman",
         "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Kleine Vogel",
         "url": "https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp"
@@ -261,7 +309,7 @@
       "url": "https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Alles Wat Ik Nodig Heb",
         "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
@@ -277,55 +325,7 @@
       "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-05-11 12:57:55",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
-    },
-    {
-      "added_at": "2026-05-11 12:57:55",
-      "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Zijkant",
         "url": "https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Op Een Go",
         "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "De Laatste Sprint",
         "url": "https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-05-11 12:57:55",
+      "added_at": "2026-05-21 22:00:21",
       "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"

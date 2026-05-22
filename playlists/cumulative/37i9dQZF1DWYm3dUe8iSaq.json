@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-22",
       "duration_ms": 236033,
       "name": "Just Be Simple",
       "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
@@ -6344,6 +6344,32 @@
       "duration_ms": 219934,
       "name": "The Art Of Getting By",
       "url": "https://open.spotify.com/track/2vfZqRshDRTKm8unBA0o9W"
+    },
+    {
+      "album": {
+        "name": "The Art of Letting Go",
+        "url": "https://open.spotify.com/album/5aKPvUCvdHRnsZw5tF3eqA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Smith",
+          "url": "https://open.spotify.com/artist/3d5yHKlN3BwzkKvixyoXDr"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332920,
+      "name": "The Art of Letting Go",
+      "url": "https://open.spotify.com/track/1nOn8lnDihgN5VJIWJwgj0"
     },
     {
       "album": {
