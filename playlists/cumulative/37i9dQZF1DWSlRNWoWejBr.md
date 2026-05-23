@@ -4,7 +4,7 @@
 
 > ginga y balança
 
-463 songs - 19 hr 47 min
+464 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Tipo Insta do Buzeira](https://open.spotify.com/track/2kap2PwtaXA1OeDBlNw5wZ) | [Jhow](https://open.spotify.com/artist/25OOXt52LeFqr5wwv5cYcI), [MC Makauli](https://open.spotify.com/artist/3yEYK0ziQxY02hCEZwpR9w), [GP DA ZL](https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3) | [Tipo Insta do Buzeira](https://open.spotify.com/album/7t355sjxyYwWth3RmyfPJF) | 1:41 | 2025-08-11 | 2025-12-14 |
 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 | 2025-06-11 | 2025-12-14 |
 | [Toma Botada](https://open.spotify.com/track/00Tc75VYeZltOVnVfCYKFx) | [Eo Chapa](https://open.spotify.com/artist/6jd3Ete5Mn4DPKY3ab8Fix), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [Toma Botada](https://open.spotify.com/album/5OPhKjuXYRmbNFpubEPVNZ) | 2:12 | 2025-09-29 | 2025-12-09 |
+| [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8) | [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE) | [TOMA NO CU \(Maria Gasolina\)](https://open.spotify.com/album/4BbzXZrZxvRxcyB0MZzGiB) | 1:31 | 2026-05-22 |  |
 | [Toma Que Toma](https://open.spotify.com/track/6T75k8RdUYiAbrjnOgSlYU) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi), [Mc Fidelis](https://open.spotify.com/artist/35u49FPLiVvk4TmpPLbJGu), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO) | [Toma Que Toma](https://open.spotify.com/album/5xVl95R6DL0cdg0lN6jaDG) | 7:41 | 2025-01-24 | 2025-09-30 |
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2023-10-06 | 2023-11-07 |
 | [Traje do Colorado](https://open.spotify.com/track/1bYFk4vBqAW4xIpkHpbtmO) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [DJ Neeh](https://open.spotify.com/artist/2SDYnXWEAiTFyyKyRDy79I) | [Traje do Colorado](https://open.spotify.com/album/4ir9nHMrO7Ger4QrzKpm83) | 2:49 | 2024-04-19 | 2024-06-12 |

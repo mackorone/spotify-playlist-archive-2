@@ -1,12 +1,12 @@
 {
   "description": "New music from Camille, Berre, Lola Young, Amelie Lens, Camille Yembe and more...",
-  "num_followers": 50751,
+  "num_followers": 50943,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2Hvrc1AeduNOuEXQ8fAV/noTqz",
+  "snapshot_id": "AAAAACo3yF02eQvS4Na3Dw0Tgc+wQ2Jz",
   "tracks": [
     {
       "added_at": "2026-05-21 22:01:55",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/31yC03QGDrq41epy9OCKap"
       },
@@ -170,10 +186,14 @@
         {
           "name": "JeanJass",
           "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+        },
+        {
+          "name": "H JeuneCrack",
+          "url": "https://open.spotify.com/artist/6Gm6S6XDUo6un4aPrRNeOj"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 151000,
+      "name": "Le pays de mon p\u00e8re",
       "url": "https://open.spotify.com/track/2zWdSsO3gvngZPKusXCFM0"
     },
     {
@@ -1015,26 +1035,6 @@
       "duration_ms": 144000,
       "name": "Labess",
       "url": "https://open.spotify.com/track/3ABaFrJ3t2HwetrntvHRIk"
-    },
-    {
-      "added_at": "2026-05-21 22:01:55",
-      "album": {
-        "name": "Mon Nom",
-        "url": "https://open.spotify.com/album/0zl9vdLIQMYiudl6tkCvbl"
-      },
-      "artists": [
-        {
-          "name": "Singuila",
-          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Mon Nom",
-      "url": "https://open.spotify.com/track/260Bx637B9nxl1LNsp31ag"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -1968,8 +1968,8 @@
           "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 250596,
+      "name": "Bullshit",
       "url": "https://open.spotify.com/track/1BNVFucw40F08CYPbH3Ufy"
     },
     {
@@ -2104,8 +2104,8 @@
           "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 167000,
+      "name": "J'OUBLIERAI",
       "url": "https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ"
     },
     {

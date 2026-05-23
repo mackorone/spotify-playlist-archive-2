@@ -2185,6 +2185,64 @@
     },
     {
       "album": {
+        "name": "Telemann: Christmas Oratorios",
+        "url": "https://open.spotify.com/album/0QHbSkVHMQJOL52sgj72XT"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Monika Mauch",
+          "url": "https://open.spotify.com/artist/4O91wN3EqMOOwiAU8Tfatl"
+        },
+        {
+          "name": "Nicole Pieper",
+          "url": "https://open.spotify.com/artist/0BhmuwazoPrcrXetsRM71J"
+        },
+        {
+          "name": "Georg Poplutz",
+          "url": "https://open.spotify.com/artist/2aBPQkuQeknrDnUScUDNuN"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Raimonds Spogis",
+          "url": "https://open.spotify.com/artist/4S3d4pKFPFvmEf5wCW6d9b"
+        },
+        {
+          "name": "Manfred Buhl",
+          "url": "https://open.spotify.com/artist/36pAP8ncU6hKz64mEPLgPv"
+        },
+        {
+          "name": "Joel Urch",
+          "url": "https://open.spotify.com/artist/7JxfqS1YFRaaboIs94pGcC"
+        },
+        {
+          "name": "Chor der K\u00f6lner Akademie",
+          "url": "https://open.spotify.com/artist/7BbtpTBXRzDoOe2YDI1Aee"
+        },
+        {
+          "name": "K\u00f6lner Akademie",
+          "url": "https://open.spotify.com/artist/2EuaWz2LnVKvUcygvMhBnw"
+        },
+        {
+          "name": "Michael Alexander Willens",
+          "url": "https://open.spotify.com/artist/57Gzkes3RHKDd60RYVEEGL"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "II. Kommt, sehet!",
+      "url": "https://open.spotify.com/track/2x7JimvQ5xGWt3kpMQK9QQ"
+    },
+    {
+      "album": {
         "name": "In dulci jubilo",
         "url": "https://open.spotify.com/album/4y2DzO82PTUIxzHQCC4JUv"
       },
@@ -3492,64 +3550,6 @@
       "duration_ms": 244320,
       "name": "Quand Dieu naquit \u00e0 No\u00ebl",
       "url": "https://open.spotify.com/track/6tS6FhWXiso2VCfDT0jAuu"
-    },
-    {
-      "album": {
-        "name": "Telemann: Christmas Oratorios",
-        "url": "https://open.spotify.com/album/0QHbSkVHMQJOL52sgj72XT"
-      },
-      "artists": [
-        {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
-        },
-        {
-          "name": "Monika Mauch",
-          "url": "https://open.spotify.com/artist/4O91wN3EqMOOwiAU8Tfatl"
-        },
-        {
-          "name": "Nicole Pieper",
-          "url": "https://open.spotify.com/artist/0BhmuwazoPrcrXetsRM71J"
-        },
-        {
-          "name": "Georg Poplutz",
-          "url": "https://open.spotify.com/artist/2aBPQkuQeknrDnUScUDNuN"
-        },
-        {
-          "name": "Klaus Mertens",
-          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
-        },
-        {
-          "name": "Raimonds Spogis",
-          "url": "https://open.spotify.com/artist/4S3d4pKFPFvmEf5wCW6d9b"
-        },
-        {
-          "name": "Manfred Buhl",
-          "url": "https://open.spotify.com/artist/36pAP8ncU6hKz64mEPLgPv"
-        },
-        {
-          "name": "Joel Urch",
-          "url": "https://open.spotify.com/artist/7JxfqS1YFRaaboIs94pGcC"
-        },
-        {
-          "name": "Chor der K\u00f6lner Akademie",
-          "url": "https://open.spotify.com/artist/7BbtpTBXRzDoOe2YDI1Aee"
-        },
-        {
-          "name": "K\u00f6lner Akademie",
-          "url": "https://open.spotify.com/artist/2EuaWz2LnVKvUcygvMhBnw"
-        },
-        {
-          "name": "Michael Alexander Willens",
-          "url": "https://open.spotify.com/artist/57Gzkes3RHKDd60RYVEEGL"
-        }
-      ],
-      "date_added": "2025-12-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203360,
-      "name": "Schmecket und sehet, wie freundlich, TWV 1:1251: II. Kommt, sehet!",
-      "url": "https://open.spotify.com/track/2x7JimvQ5xGWt3kpMQK9QQ"
     },
     {
       "album": {

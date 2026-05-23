@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 123041,
+  "num_followers": 123056,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Hallelujah Feeling",
         "url": "https://open.spotify.com/album/2dTbnuV1z5Nk5W8oaWPK3S"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 187056,
       "name": "Hallelujah Feeling",
       "url": "https://open.spotify.com/track/5Gyg9RufRKGzTtzafw2bK6"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Prinz",
+          "url": "https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 171923,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 214000,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB"
-      },
-      "artists": [
-        {
-          "name": "Dr. Prinz",
-          "url": "https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 171923,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
     }
   ],
   "unique_name": "GOoD Morning",

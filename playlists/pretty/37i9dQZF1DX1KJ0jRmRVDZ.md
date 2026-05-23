@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: maeshima soshi & はしメロ
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,907 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,913 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 34 | [ブレインロット](https://open.spotify.com/track/1C1skAeFtnguXNlCYRQoCr) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [ブレインロット](https://open.spotify.com/album/1JLclTNvD2eXpJ0BiJXmpy) | 2:02 |
 | 35 | [浴す](https://open.spotify.com/track/2x0D7WKnU2pxNE9l6MwrsI) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [aero](https://open.spotify.com/album/2IFLkSxv2u8ISZTEl0Ba4o) | 3:06 |
 | 36 | [愛包ダンスホール](https://open.spotify.com/track/0xgcNz442ZEz4djFVp1wWB) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Bubblin](https://open.spotify.com/album/43uAC6aGS5L3oGg2bC19gb) | 3:38 |
-| 37 | [天上天下唯我独Song](https://open.spotify.com/track/34uez9IrlrJjvSSOQ4qDpx) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [天上天下唯我独Song](https://open.spotify.com/album/3nWS5vKA4bJKd75KeS0nlF) | 3:10 |
+| 37 | [天上天下唯我独Song](https://open.spotify.com/track/34uez9IrlrJjvSSOQ4qDpx) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [天上天下唯我独Song](https://open.spotify.com/album/3nWS5vKA4bJKd75KeS0nlF) | 3:10 |
 | 38 | [懐古主義わたし](https://open.spotify.com/track/3sDXtCWoXLKfm6HW5ZGwLi) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [平塚紗依](https://open.spotify.com/artist/4DI1zqy80eTUd7Oknjn0aN) | [CULTURE DRUG ORCHESTRA](https://open.spotify.com/album/2ioUq1md32nccnkPYDogWc) | 3:53 |
 | 39 | [ending routine](https://open.spotify.com/track/5BCZDj5WGgRcIIk6EY2Vs9) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [ending routine](https://open.spotify.com/album/7qpwptCGMBqKBfGx92D5Hi) | 3:29 |
 | 40 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |

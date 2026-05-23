@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. $HUPE e Ian Cordova en portada",
+  "description": "Shawty lo que necesitas es darle flow.  Jombriel en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -3509,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "COMBI COMPLETA",
+        "url": "https://open.spotify.com/album/4RFEkwT3HHXy0YV5knLKAr"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168052,
+      "name": "COMBI COMPLETA",
+      "url": "https://open.spotify.com/track/0u6dxoJ20nzArhetm4WUFX"
+    },
+    {
+      "album": {
         "name": "Comernos",
         "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
       },
@@ -5062,7 +5084,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 162516,
       "name": "DIME ALGO",
       "url": "https://open.spotify.com/track/0c7u2B6Kj0K8ukuS5aAtGL"
@@ -5656,6 +5678,24 @@
       "duration_ms": 215000,
       "name": "EL HUBIERA NO EXISTE",
       "url": "https://open.spotify.com/track/5xb2KC2nksF2fbcjscN3zH"
+    },
+    {
+      "album": {
+        "name": "El Juguete",
+        "url": "https://open.spotify.com/album/7hR4zr90IwCXj4c8T56uQ1"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "El Juguete",
+      "url": "https://open.spotify.com/track/6dC7eo82vwjcJakyuroZs3"
     },
     {
       "album": {
@@ -9784,6 +9824,24 @@
       "duration_ms": 187200,
       "name": "La Trinidad",
       "url": "https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6"
+    },
+    {
+      "album": {
+        "name": "In God We Trust (Deluxe)",
+        "url": "https://open.spotify.com/album/5kPAV26dFEHJGxcLzwiH7Z"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "La Visita",
+      "url": "https://open.spotify.com/track/17yaOBQXZjOtQC2FZRNVM8"
     },
     {
       "album": {
@@ -14877,6 +14935,28 @@
     },
     {
       "album": {
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243319,
+      "name": "PERDISTE EL EMMY.",
+      "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
+    },
+    {
+      "album": {
         "name": "La Joia",
         "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
       },
@@ -15602,7 +15682,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209541,
       "name": "Portate Bonito",
       "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
@@ -17428,7 +17508,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 181421,
       "name": "SCANDIC",
       "url": "https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi"

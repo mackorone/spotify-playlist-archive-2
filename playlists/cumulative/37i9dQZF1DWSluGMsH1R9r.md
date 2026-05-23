@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-792 songs - 1 day 9 hr 56 min
+796 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2022-07-16 |
 | [Once Upon an Autumn](https://open.spotify.com/track/19Ngdrq60emLeiLvGLnwbY) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Once Upon an Autumn](https://open.spotify.com/album/0DAq1lRzcSb2BCgeksrb2A) | 1:57 | 2021-12-07 | 2023-01-27 |
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-03-01 | 2025-05-31 |
+| [Oneiro](https://open.spotify.com/track/1hmRh3YO7xeob60MdFW8UT) | [Santi Soriano](https://open.spotify.com/artist/4KIocXDbQlMFqKPa0i1QZd) | [Oneiro](https://open.spotify.com/album/7CapUWiuLckg4cliKUe8oY) | 2:16 | 2026-05-22 |  |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 | 2024-04-04 |
 | [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-15 |  |
 | [Op Die Fiets](https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Op Die Fiets](https://open.spotify.com/album/7uyWIPr7QyFjo1bdSeQKls) | 2:21 | 2021-12-07 | 2023-07-05 |
@@ -501,6 +502,7 @@
 | [Ordinary Thoughts](https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Ordinary Thoughts](https://open.spotify.com/album/1QEAfHDzflVLqXUkckRzMw) | 2:23 | 2025-05-13 | 2025-09-17 |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 | 2025-04-10 |
 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 | 2023-10-19 |
+| [Overseas](https://open.spotify.com/track/0JUMYfwgrUdd5GtAGtQiAu) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Overseas](https://open.spotify.com/album/69fZyItEkoker9n2FNey1x) | 1:51 | 2026-05-22 |  |
 | [Overveje](https://open.spotify.com/track/4tmpm2A85m5c4dp2ix2zs9) | [Val Rumarch](https://open.spotify.com/artist/0QOkoA1DxnobWEUmjtpnbR) | [Overveje](https://open.spotify.com/album/1QvyTJDJmztYg0f1GApwNF) | 2:35 | 2026-05-08 |  |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 | 2025-01-16 |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 | 2024-04-19 |
@@ -641,6 +643,7 @@
 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-07-24 |  |
 | [Southern Air](https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Southern Air](https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G) | 3:46 | 2024-12-17 |  |
 | [Spirits](https://open.spotify.com/track/4I7TrIEVN4Gxs1u3cBvxLz) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Spirits](https://open.spotify.com/album/2BQH1owpSPBENTEseEAkdb) | 1:59 | 2024-01-09 | 2024-03-07 |
+| [Sprout On The Vines](https://open.spotify.com/track/0znqwpJAKR7i2xx9TLcXNY) | [Kitt River](https://open.spotify.com/artist/79CdA7sDrqRL3FJymXgjM8) | [Sprout On The Vines](https://open.spotify.com/album/4Ls55yuS7ji7RKyfIDHq4E) | 2:47 | 2026-05-22 |  |
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2022-04-07 | 2023-07-25 |
 | [Steady](https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Steady](https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp) | 2:20 | 2024-11-19 |  |
 | [Stigen](https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Stigen](https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0) | 2:54 | 2025-03-28 |  |
@@ -773,6 +776,7 @@
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2021-12-07 | 2022-07-16 |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-28 | 2023-01-27 |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-07-29 |
+| [Where Ice Thins](https://open.spotify.com/track/3scTfvjIPRRhxOPZxpUkSQ) | [Oliver Dunham](https://open.spotify.com/artist/6RMFEePcAbs3CC6qvi44QL) | [Where Ice Thins](https://open.spotify.com/album/58O8yWslkKDOOTPxe81a8z) | 2:20 | 2026-05-22 |  |
 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-07-15 | 2025-05-31 |
 | [Whirlwind](https://open.spotify.com/track/7LrSlEs718sY5CbZ3z4Ra9) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Whirlwind](https://open.spotify.com/album/0eghO1S8oHi2VvKAkcjBfZ) | 2:48 | 2024-03-05 | 2025-05-31 |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 | 2023-01-27 |

@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAPmkeQ3S749qzT1Y6kt1RwluHEilZH",
+  "snapshot_id": "AAAPpuqAhbdRXMOmCPonkF7Y2ATToV7Y",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -159,6 +159,22 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-05-22 06:12:26",
+      "album": {
+        "name": "Gorebage Truck",
+        "url": "https://open.spotify.com/album/1Tpx3ZdMbASFVpuzmThuaS"
+      },
+      "artists": [
+        {
+          "name": "Fuck Tomb",
+          "url": "https://open.spotify.com/artist/70VzYMqJrUHmA7F8soZr9Y"
+        }
+      ],
+      "duration_ms": 157398,
+      "name": "Gorebage Truck",
+      "url": "https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z"
     },
     {
       "added_at": "2026-05-22 04:13:31",
@@ -1575,22 +1591,6 @@
       "duration_ms": 194605,
       "name": "Bipolaroid",
       "url": "https://open.spotify.com/track/3EsdBloxOhc9swUOeBoEuO"
-    },
-    {
-      "added_at": "2026-04-21 04:32:49",
-      "album": {
-        "name": "Inconsistency",
-        "url": "https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE"
-      },
-      "artists": [
-        {
-          "name": "This World Stands Still",
-          "url": "https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t"
-        }
-      ],
-      "duration_ms": 152899,
-      "name": "No Escape",
-      "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
     },
     {
       "added_at": "2026-03-31 11:19:08",
@@ -4339,6 +4339,166 @@
       "duration_ms": 243448,
       "name": "RESTLESS MIND",
       "url": "https://open.spotify.com/track/5UYC4twFJAikqJGWEinLIb"
+    },
+    {
+      "added_at": "2026-05-22 08:34:38",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/4yhWf284wIaajxUJphgkxc"
+      },
+      "artists": [
+        {
+          "name": "Boneripper",
+          "url": "https://open.spotify.com/artist/6N5IU9LkU4ogtq88WIwDYe"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/348sLULN7wJB1dIKrACj3L"
+    },
+    {
+      "added_at": "2026-05-22 12:39:52",
+      "album": {
+        "name": "Lost Space",
+        "url": "https://open.spotify.com/album/3UFzsop35G4pdbc4HZoDXz"
+      },
+      "artists": [
+        {
+          "name": "Intensea",
+          "url": "https://open.spotify.com/artist/0ueR7qZuaIY7tQrDHcDJxc"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Lost Space",
+      "url": "https://open.spotify.com/track/6FgSIcRaYUXjxeR0bAxeq5"
+    },
+    {
+      "added_at": "2026-05-22 12:41:34",
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/1ERq85r9VyUwrDkSyXjgCj"
+      },
+      "artists": [
+        {
+          "name": "Re:Instinct",
+          "url": "https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/5G7MHyXAaAPf1DHbdmSsK6"
+    },
+    {
+      "added_at": "2026-05-22 12:42:16",
+      "album": {
+        "name": "12|12|12",
+        "url": "https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1"
+      },
+      "artists": [
+        {
+          "name": "Faceless DIVERSUM",
+          "url": "https://open.spotify.com/artist/4bmj6GZWAkZhD2syFEuNXG"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "12.12.12 - Metal",
+      "url": "https://open.spotify.com/track/57pPSP64a0wCkcxCotqv9R"
+    },
+    {
+      "added_at": "2026-05-22 12:52:51",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/6TIFaHPRLDXgT77OSLMvCs"
+      },
+      "artists": [
+        {
+          "name": "Banner Of The Sun",
+          "url": "https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq"
+        }
+      ],
+      "duration_ms": 278459,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5HSrz3cGMEcTRQMgl3hQpu"
+    },
+    {
+      "added_at": "2026-05-22 12:56:01",
+      "album": {
+        "name": "A Perfect Lie",
+        "url": "https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gavl\u00e9n",
+          "url": "https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL"
+        }
+      ],
+      "duration_ms": 220736,
+      "name": "A Perfect Lie",
+      "url": "https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b"
+    },
+    {
+      "added_at": "2026-05-22 20:45:37",
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 301333,
+      "name": "Mr. Collision",
+      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
+    },
+    {
+      "added_at": "2026-05-22 20:48:56",
+      "album": {
+        "name": "Something to Believe",
+        "url": "https://open.spotify.com/album/05cZtARQmJgtUC1SQTHbXk"
+      },
+      "artists": [
+        {
+          "name": "MILK Band",
+          "url": "https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9"
+        }
+      ],
+      "duration_ms": 209287,
+      "name": "Something to Believe",
+      "url": "https://open.spotify.com/track/1J4rPfNgavY56kbLpK3mEh"
+    },
+    {
+      "added_at": "2026-05-22 20:49:43",
+      "album": {
+        "name": "Clown & Creator",
+        "url": "https://open.spotify.com/album/0UUY9cHNWzamnuvKSl7hSo"
+      },
+      "artists": [
+        {
+          "name": "Chaos Clown",
+          "url": "https://open.spotify.com/artist/17x1AVVVuYn9ztVV3MQ3p5"
+        }
+      ],
+      "duration_ms": 191279,
+      "name": "Clown & Creator",
+      "url": "https://open.spotify.com/track/6Qws1w87eGrmgLlj1dDa5C"
+    },
+    {
+      "added_at": "2026-05-22 20:50:47",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4npDY6tFGLNToFUMfFNOmx"
+      },
+      "artists": [
+        {
+          "name": "Mystery Art Orchestra",
+          "url": "https://open.spotify.com/artist/5kBF3oksrLBRCukTWymNWz"
+        }
+      ],
+      "duration_ms": 191309,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/16OgybtlMOAaJe9gk7oyJu"
     }
   ],
   "unique_name": "Shuffle Roulette",

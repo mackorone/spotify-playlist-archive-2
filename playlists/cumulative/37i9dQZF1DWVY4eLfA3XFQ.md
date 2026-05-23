@@ -2,9 +2,9 @@
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> 50% techno, 50% house 🙌 Tech house operators, featuring Vintage Culture + Volkoder
+> 50% techno, 50% house 🙌 Tech house operators, featuring Michael Bibi
 
-2,801 songs - 6 day 8 hr 54 min
+2,805 songs - 6 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-05 | 2022-11-29 |
 | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Madam Parker](https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K) | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284) | 2:45 | 2024-03-15 | 2024-05-28 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-09 | 2025-05-17 |
+| [Bootay](https://open.spotify.com/track/1s0xmXddfQzw33uQ7eR0Cu) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Bootay](https://open.spotify.com/album/3zRetCsgHcvLrnEdaRiZsk) | 2:58 | 2026-05-22 |  |
 | [Boots 'N' Cats](https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc), [MVRT](https://open.spotify.com/artist/4o6dSaEQPjuz9CgVomOekK) | [Boots 'N' Cats](https://open.spotify.com/album/21ad01B7nsTGlFcWyFBAwX) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [Booty Call](https://open.spotify.com/track/5ewAgjDoLSaRIkRNKSrulv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Booty Call](https://open.spotify.com/album/5i6flFpD41g9ne7XBItO1n) | 2:40 | 2021-11-26 | 2022-01-06 |
 | [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 | 2023-08-15 |
@@ -1625,6 +1626,7 @@
 | [MOVE](https://open.spotify.com/track/1mVXr9um4w2NF7EXl2DWRc) | [Oli Benz](https://open.spotify.com/artist/5PQBlpbK5BgNoz1Q1fAL7d) | [MOVE](https://open.spotify.com/album/5Lg0samDXhAbpmJt9ibzDE) | 3:54 | 2025-06-27 | 2025-08-02 |
 | [Move](https://open.spotify.com/track/0ShLohNPR72EKJx6yOwqQE) | [Owen Andrews](https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s) | [Move](https://open.spotify.com/album/6rSj9S5X7MVf6itp70URER) | 2:10 | 2025-06-27 | 2025-07-26 |
 | [Move](https://open.spotify.com/track/0DTRPo8y1AYs8AsueVu1FP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [Move](https://open.spotify.com/album/2TsZWIgZEkp1VoVYnCxDwc) | 2:23 | 2022-10-21 | 2022-12-17 |
+| [Move Fast](https://open.spotify.com/track/1tqWpGRSQBFoG3z7e9mzAz) | [Mad.Again](https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V) | [Move Fast](https://open.spotify.com/album/1gj4TQsskHJ1J4AJGijJR0) | 2:49 | 2026-05-22 |  |
 | [Move For Me \(feat\. Libutti\)](https://open.spotify.com/track/3pudOjhDm3vefFKF8m94Mk) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Libutti](https://open.spotify.com/artist/1fEfIYXYGmx071NXbmns9Y) | [Move For Me \(feat\. Libutti\)](https://open.spotify.com/album/5MFmUZY8joxWEVLhECz3V2) | 3:52 | 2023-02-10 | 2023-03-25 |
 | [Move It](https://open.spotify.com/track/6Q6azhdz0iwaHhcCLsj9k5) | [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Move It](https://open.spotify.com/album/1Q45n2hY2QgvXrZrJJkmgn) | 3:34 | 2026-01-09 | 2026-02-21 |
 | [Move Like That](https://open.spotify.com/track/5eOX9mAXxkfWCq5LLVAIje) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [Close Friends Only](https://open.spotify.com/artist/12TskTYVyjY7GU8v6niFoz) | [Move Like That](https://open.spotify.com/album/30SwUIylcu9P5bYdJ6l4mT) | 2:55 | 2026-04-17 |  |
@@ -1768,6 +1770,7 @@
 | [Ohh LALA](https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Ooh LALA](https://open.spotify.com/album/6YNwQIGlbGbHdgGH0aucVs) | 2:43 | 2023-10-13 | 2024-02-25 |
 | [Oiga Morena](https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena](https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q) | 2:49 | 2022-09-09 | 2022-12-03 |
 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 | 2024-04-26 | 2025-02-08 |
+| [Oldskool Flavor](https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3) | [Oldskool Flavor](https://open.spotify.com/album/0djGGJfuvFT7ytIj9acRYD) | 3:32 | 2026-05-22 |  |
 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 | 2023-02-17 | 2023-02-26 |
 | [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 | 2023-02-17 | 2023-06-10 |
 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 | 2023-09-15 | 2023-12-09 |
@@ -1896,6 +1899,7 @@
 | [Pick & Choose \- Radio Edit](https://open.spotify.com/track/2E5coMHUBjZwlkTD3eFXZz) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7), [MON MON](https://open.spotify.com/artist/2Clxh2YR59GJA8mzLMDtuC), [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Pick & Choose](https://open.spotify.com/album/6hsHuXzJ60F1vJwMmPEbse) | 4:05 | 2024-11-29 | 2024-12-07 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-05-31 | 2025-04-26 |
 | [Pink Shoes](https://open.spotify.com/track/6dSJ3T3dMTGMvMdAkvEBxl) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Pink Shoes](https://open.spotify.com/album/4NEHGFE8a44yBMA4Dy5qwK) | 3:51 | 2022-05-20 | 2022-06-25 |
+| [Pipe Down](https://open.spotify.com/track/2t3nlL9xffoBaPBOzl4jYr) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Pipe Down \- EP](https://open.spotify.com/album/2z38ebZd2cGP8t8OCkskBF) | 3:07 | 2026-05-22 |  |
 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 | 2023-03-17 | 2023-06-10 |
 | [Places](https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Places](https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe) | 3:34 | 2024-07-05 | 2024-07-13 |
 | [Places](https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Places](https://open.spotify.com/album/0S4W1NStyjziSiahGs1DHQ) | 4:16 | 2026-05-08 |  |

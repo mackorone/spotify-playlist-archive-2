@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fern\u00e1ndez \ud83d\udcf8",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
   "name": "Mariachi 2026",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196416,
       "name": "Amarte A La Medida",
       "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 171529,
       "name": "As\u00ed Son Las Cosas",
       "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204850,
       "name": "Bailando De A Cart\u00f3n",
       "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185000,
       "name": "Carita de Cielo",
       "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
@@ -2699,6 +2699,50 @@
     },
     {
       "album": {
+        "name": "Run G\u016bey",
+        "url": "https://open.spotify.com/album/1uPT6nqizAziQXfE3asZqt"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218752,
+      "name": "El Conejo De La Luna",
+      "url": "https://open.spotify.com/track/0mOoIPkofPXdxAC4ZIjt34"
+    },
+    {
+      "album": {
+        "name": "El Conejo De La Luna",
+        "url": "https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218752,
+      "name": "El Conejo De La Luna",
+      "url": "https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql"
+    },
+    {
+      "album": {
         "name": "El Destino",
         "url": "https://open.spotify.com/album/6nCfvMK4IZvjZGiVXyoZ0f"
       },
@@ -3376,7 +3420,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 228965,
       "name": "Esta vez te digo adios",
       "url": "https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d"
@@ -4034,7 +4078,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 158600,
       "name": "Juro Que Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr"
@@ -4176,6 +4220,24 @@
       "duration_ms": 171392,
       "name": "La Catedral",
       "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
+    },
+    {
+      "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/1zliC8iWgvCw8gfk6LyIrs"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143834,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/1I9c5rB7LhXkxGX06leVyE"
     },
     {
       "album": {
@@ -4382,7 +4444,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 410307,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1vXiscTkiwtQR9pAE35Qwy"
@@ -5179,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/2k1hKIkmF8vR6t8jkYY1BA"
+      },
+      "artists": [
+        {
+          "name": "Arturo Vargas",
+          "url": "https://open.spotify.com/artist/41k2bKYXNI4V7S69ArLvId"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258894,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/7LmtJqK1YDkHRsafCnVmCR"
+    },
+    {
+      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
       },
@@ -5220,6 +5300,32 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "album": {
+        "name": "Me Enloqueces",
+        "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        },
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Oscar De La Rosa",
+          "url": "https://open.spotify.com/artist/2e5i16ptrbh2wxZCYU4Pfc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Me Enloqueces",
+      "url": "https://open.spotify.com/track/4Y8rJousZ5XtxyzJsJrvV2"
     },
     {
       "album": {
@@ -5785,6 +5891,28 @@
     },
     {
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
+      },
+      "artists": [
+        {
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        },
+        {
+          "name": "Ray El Ingeniero",
+          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217735,
+      "name": "Monarca",
+      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+    },
+    {
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -5836,6 +5964,24 @@
       "duration_ms": 177226,
       "name": "M\u00e1talas",
       "url": "https://open.spotify.com/track/5xjg71UeRdVABR0khi7E1w"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212309,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
     },
     {
       "album": {
@@ -5976,7 +6122,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 205400,
       "name": "Ning\u00fan Color Tiene Due\u00f1o",
       "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
@@ -7474,7 +7620,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193058,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN"
@@ -9409,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
+    },
+    {
+      "album": {
         "name": "Tengo Ganas De Olvidarte",
         "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
       },
@@ -9955,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "Bandera Blanca",
+        "url": "https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214233,
+      "name": "Una Mujer Como la Suya",
+      "url": "https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH"
+    },
+    {
+      "album": {
         "name": "Una Tarde De Abril",
         "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
       },
@@ -10096,7 +10278,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 222236,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
@@ -10346,6 +10528,24 @@
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "album": {
+        "name": "Ya Es Muy Tarde",
+        "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227987,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
     },
     {
       "album": {

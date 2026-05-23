@@ -2,7 +2,7 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> The best indie of then and the best of now\. Cover: Daniela Andrade
+> "Wait have you heard of The Beaches?"
 
 843 songs - 2 day 2 hr 43 min
 

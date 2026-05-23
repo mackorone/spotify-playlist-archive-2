@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Adriel Favela ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Jaziel Avilez, Codiciado, Rey Quinto",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 165957,
       "name": "7x7",
       "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
+    },
+    {
+      "album": {
+        "name": "A La Orden",
+        "url": "https://open.spotify.com/album/3LupoDx7BJIYwhk9D1VbZz"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139692,
+      "name": "A La Orden",
+      "url": "https://open.spotify.com/track/5ERFjbUT2UNZ2PrVl1tTW2"
     },
     {
       "album": {
@@ -1168,6 +1186,32 @@
       "duration_ms": 151000,
       "name": "Aunque Digan",
       "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
+    },
+    {
+      "album": {
+        "name": "Ay Les Va",
+        "url": "https://open.spotify.com/album/2zXuq4hyK7GnMxkMsfDETI"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147527,
+      "name": "Ay Les Va",
+      "url": "https://open.spotify.com/track/1phpJXtmfCYClKiCSIwLrl"
     },
     {
       "album": {
@@ -2138,7 +2182,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 150466,
       "name": "Chuy Y Mauricio",
       "url": "https://open.spotify.com/track/1wee1tqjUvbGyWf7HJUb0B"
@@ -3102,7 +3146,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 164609,
       "name": "Despegando",
       "url": "https://open.spotify.com/track/64BxJ8fgZqbvwBRd61GR5e"
@@ -3562,7 +3606,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 143738,
       "name": "EFECTO BARBAS",
       "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
@@ -5970,7 +6014,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 177038,
       "name": "EL SENTRITA",
       "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
@@ -6366,7 +6410,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 143031,
       "name": "En La Monta\u00f1a",
       "url": "https://open.spotify.com/track/3Yv8rH6g6OElRW8dLyLN9q"
@@ -6739,7 +6783,7 @@
     },
     {
       "album": {
-        "name": "FILOSO",
+        "name": "Filoso",
         "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
       },
       "artists": [
@@ -6756,7 +6800,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163983,
-      "name": "FILOSO",
+      "name": "Filoso",
       "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
     },
     {
@@ -7132,7 +7176,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 147567,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
@@ -7622,7 +7666,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 192661,
       "name": "H\u00e1ganse Hombres",
       "url": "https://open.spotify.com/track/4pKEBpnKaSpWiC5C1C2mHW"
@@ -8321,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "LA FES",
+        "url": "https://open.spotify.com/album/6dP9DNTw9qYgmmJo33BVzP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183221,
+      "name": "LA FES",
+      "url": "https://open.spotify.com/track/545MwEy3nhHa0qZ5Hhafeu"
+    },
+    {
+      "album": {
         "name": "La Firma del Flaquito",
         "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
       },
@@ -8835,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "Yo Soy La Ley",
+        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211721,
+      "name": "La Tierra Del Corrido",
+      "url": "https://open.spotify.com/track/2g2eJLyrj6w6YnxLNSjmVw"
+    },
+    {
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -9226,7 +9306,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
@@ -10462,6 +10542,28 @@
       "duration_ms": 153086,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "MLP",
+      "url": "https://open.spotify.com/track/2vXkeL7j9VMqLsY4niFIFQ"
     },
     {
       "album": {
@@ -12838,7 +12940,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 131920,
       "name": "Shifu",
       "url": "https://open.spotify.com/track/799gqz8zC15jHkQHxIywd3"
@@ -13754,7 +13856,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
@@ -13830,7 +13932,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170880,
       "name": "Tolerancia Zero (Banda)",
       "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
@@ -14626,6 +14728,24 @@
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Ley",
+        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177729,
+      "name": "Yo Soy La Ley",
+      "url": "https://open.spotify.com/track/7HVqHq9lr5cHsoXrIOW8ah"
     },
     {
       "album": {

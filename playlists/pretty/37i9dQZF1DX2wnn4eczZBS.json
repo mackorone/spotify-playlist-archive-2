@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Eva van Manen",
-  "num_followers": 11391,
+  "num_followers": 11392,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -663,30 +663,6 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
-        "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        },
-        {
-          "name": "IJSLAND",
-          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
-        }
-      ],
-      "duration_ms": 218945,
-      "name": "DON'T BELIEVE DE KRANT",
-      "url": "https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q"
-    },
-    {
-      "added_at": "2026-05-05 22:00:35",
-      "album": {
         "name": "Wie de fak is Sophie Straat",
         "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 181970,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
+    },
+    {
+      "added_at": "2026-05-05 22:00:35",
+      "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "duration_ms": 218945,
+      "name": "DON'T BELIEVE DE KRANT",
+      "url": "https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q"
     },
     {
       "added_at": "2026-05-05 22:00:35",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
-        "name": "Nederland",
-        "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
-      },
-      "artists": [
-        {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
-        },
-        {
-          "name": "Vinkenoog",
-          "url": "https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Nederland",
-      "url": "https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4"
-    },
-    {
-      "added_at": "2026-05-05 22:00:35",
-      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-05-05 22:00:35",
+      "album": {
+        "name": "Nederland",
+        "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        },
+        {
+          "name": "Vinkenoog",
+          "url": "https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Nederland",
+      "url": "https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4"
     },
     {
       "added_at": "2026-05-05 22:00:35",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
+        "name": "In NL Mag Je Een Vrouw Slaan",
+        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "In NL Mag Je Een Vrouw Slaan",
+      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
+    },
+    {
+      "added_at": "2026-05-05 22:00:35",
+      "album": {
         "name": "Bang Dat Ik Spring",
         "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 186093,
       "name": "Bang Dat Ik Spring",
       "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
-    },
-    {
-      "added_at": "2026-05-05 22:00:35",
-      "album": {
-        "name": "In NL Mag Je Een Vrouw Slaan",
-        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "In NL Mag Je Een Vrouw Slaan",
-      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
     }
   ],
   "unique_name": "indie.nl",

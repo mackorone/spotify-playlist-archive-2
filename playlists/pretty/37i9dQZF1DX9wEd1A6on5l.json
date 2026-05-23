@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 115934,
+  "num_followers": 115976,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2026-05-22 00:02:02",
       "album": {
-        "name": "Mofe",
-        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
       "artists": [
         {
           "name": "Mavo",
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Mofe",
-      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-05-22 00:02:02",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-05-22 00:02:02",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
       },
       "artists": [
         {
           "name": "Mavo",
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
       "added_at": "2026-05-22 00:02:02",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-05-22 00:02:02",
       "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-05-22 00:02:02",
+      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-05-22 00:02:02",
-      "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
     },
     {
       "added_at": "2026-05-22 00:02:02",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2026-05-22 00:02:02",
       "album": {
+        "name": "UNDISCLOSED",
+        "url": "https://open.spotify.com/album/3iwrDAWoUmeCHqryfB29xM"
+      },
+      "artists": [
+        {
+          "name": "KODEE",
+          "url": "https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 155575,
+      "name": "UNDISCLOSED",
+      "url": "https://open.spotify.com/track/6Ay2uPSszn352nL1bqiTcj"
+    },
+    {
+      "added_at": "2026-05-22 00:02:02",
+      "album": {
         "name": "Dirty Mind",
         "url": "https://open.spotify.com/album/5RaUHKr8bRf9Aq6pYjykSZ"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 232269,
       "name": "Superfuji(GOBE)",
       "url": "https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji"
-    },
-    {
-      "added_at": "2026-05-22 00:02:02",
-      "album": {
-        "name": "UNDISCLOSED",
-        "url": "https://open.spotify.com/album/3iwrDAWoUmeCHqryfB29xM"
-      },
-      "artists": [
-        {
-          "name": "KODEE",
-          "url": "https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 155575,
-      "name": "UNDISCLOSED",
-      "url": "https://open.spotify.com/track/6Ay2uPSszn352nL1bqiTcj"
     },
     {
       "added_at": "2026-05-22 00:02:02",

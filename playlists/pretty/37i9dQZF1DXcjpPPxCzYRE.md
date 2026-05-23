@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,761 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,783 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 67 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
 | 68 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 |
 | 69 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
-| 70 | [Árboles](https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Árboles](https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW) | 3:46 |
-| 71 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
-| 72 | [Pictures](https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Pictures](https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu) | 3:56 |
-| 73 | [Mandela Place](https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mandela Place](https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb) | 3:33 |
-| 74 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 |
-| 75 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 |
+| 70 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
+| 71 | [Árboles](https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Árboles](https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW) | 3:46 |
+| 72 | [Mandela Place](https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mandela Place](https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb) | 3:33 |
+| 73 | [Pictures](https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Pictures](https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu) | 3:56 |
+| 74 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 |
+| 75 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 |
 | 76 | [Me Vas A Matar](https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Me Vas A Matar](https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj) | 3:08 |
 | 77 | [ERES GUAPA \(✿´‿\`\) \- Taranta](https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [SANGRE SUCIA](https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM) | 3:44 |
 | 78 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 88 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
 | 89 | [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 |
 | 90 | [nada nada](https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr) | [Kris Tena](https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [mai adeu](https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY) | 1:43 |
-| 91 | [Algo Fugaz](https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12) | [John Squalo](https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Algo Fugaz](https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe) | 2:17 |
-| 92 | [Ada Road](https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Ada Road](https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn) | 4:38 |
+| 91 | [Ada Road](https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Ada Road](https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn) | 4:38 |
+| 92 | [Algo Fugaz](https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12) | [John Squalo](https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Algo Fugaz](https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe) | 2:17 |
 | 93 | [I Feel Good](https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [I Feel Good](https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68) | 3:49 |
 | 94 | [Hoguera](https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ), [Isa Izquierdo](https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd) | [Hoguera](https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq) | 3:54 |
 | 95 | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 |
-| 96 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 |
-| 97 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
+| 96 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
+| 97 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 |
 | 98 | [Misma Liga](https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Misma Liga](https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs) | 2:47 |
 | 99 | [1 Dolor](https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [Junnio](https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6) | [1 Dolor](https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG) | 3:06 |
 | 100 | [Pladur](https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux) | [Pladur](https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm) | 2:42 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 124 | [Dúas lontras](https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo) | [Lontras](https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X) | [Caras no lume](https://open.spotify.com/album/6qbKrvxATF1kRlikDTkIjP) | 2:36 |
 | 125 | [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 |
 
-Snapshot ID: `AAAAALI8roYAoqX9D0uXL4YeQzBWdNnx`
+Snapshot ID: `AAAAAEITkk8Q+//5uszcl61tqOBExmgE`

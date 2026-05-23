@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115776,
+  "num_followers": 115790,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Toro",
         "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 206613,
       "name": "Toro",
       "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Perd\u00f3name, Madre",
-        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 246657,
-      "name": "Perd\u00f3name, Madre",
-      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Ni Descanso, Ni Paz!",
         "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
+        "name": "Perd\u00f3name, Madre",
+        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 172360,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
+      "duration_ms": 246657,
+      "name": "Perd\u00f3name, Madre",
+      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -667,6 +651,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Ya No Me Divierto",
-        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Ya No Me Divierto",
-      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Ya No Me Divierto",
+        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Ya No Me Divierto",
+      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Putos Nazis",
-        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "Putos Nazis",
-      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 289367,
       "name": "Maki Navaja, El \u00daltimo Chorisso",
       "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Mi Herencia",
-        "url": "https://open.spotify.com/album/3JH0qU8UH94Bq5JxH4KuNd"
-      },
-      "artists": [
-        {
-          "name": "Fatiga",
-          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Mi Herencia",
-      "url": "https://open.spotify.com/track/436MiHmo8eKY8NOFlYR8Wo"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "A Las Mariscadas (Directo Kafe Antzokia)",
         "url": "https://open.spotify.com/album/2e6waJ1iTxP8Ipl2zdDnkw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 124030,
       "name": "A Las Mariscadas - Directo Kafe Antzokia",
       "url": "https://open.spotify.com/track/7a0dWy6BZfWNI8Yy5UIdvZ"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Mi Herencia",
+        "url": "https://open.spotify.com/album/3JH0qU8UH94Bq5JxH4KuNd"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Mi Herencia",
+      "url": "https://open.spotify.com/track/436MiHmo8eKY8NOFlYR8Wo"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
+        "name": "ANTIFASCISTA",
+        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 273052,
+      "name": "ANTIFASCISTA",
+      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "ANTIFASCISTA",
-        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
+        "name": "La Prospe",
+        "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Gautxori",
+          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
         }
       ],
-      "duration_ms": 273052,
-      "name": "ANTIFASCISTA",
-      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+      "duration_ms": 122640,
+      "name": "La Prospe",
+      "url": "https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1127,22 +1143,6 @@
       "duration_ms": 223950,
       "name": "Borratxos y Orgullosos",
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
-        "name": "La Prospe",
-        "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
-      },
-      "artists": [
-        {
-          "name": "Gautxori",
-          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
-        }
-      ],
-      "duration_ms": 122640,
-      "name": "La Prospe",
-      "url": "https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 249719,
       "name": "Kualkier D\u00eda",
       "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 170686,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2026-05-07 22:02:22",

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: GIU
 
-939 songs - 2 day 3 hr 56 min
+939 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Right Here](https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Right Here](https://open.spotify.com/album/5Zlbsn63qOeWzxsWGBcKvu) | 2:39 | 2023-08-25 | 2023-12-09 |
 | [RIOT](https://open.spotify.com/track/3M9Ec4VZNCTXgXgpoFHgxj) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/4v3soxxbbiKWfdIrSExxNH) | 3:02 | 2023-08-28 | 2023-11-25 |
 | [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-25 | 2023-08-30 |
+| [Rise Together](https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Rise Together EP](https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD) | 3:02 | 2026-05-22 |  |
 | [RITZ](https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [RITZ](https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP) | 3:02 | 2026-01-23 | 2026-04-14 |
 | [Road To Nowhere](https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Road To Nowhere](https://open.spotify.com/album/5ac8bG69seB2u4qEeCwtkl) | 3:11 | 2023-11-10 | 2024-03-23 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-07-21 | 2023-09-16 |
@@ -863,7 +864,6 @@
 | [Too Much](https://open.spotify.com/track/415lA2XhW5cHc9qnzQ62s4) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT) | [Too Much](https://open.spotify.com/album/2lb0y0VAXYrZUHOfEXEVAN) | 2:51 | 2026-03-06 | 2026-05-22 |
 | [Top Of The Crowd](https://open.spotify.com/track/2NcKDnBIn0bxeSUrJabAys) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR) | [Top Of The Crowd](https://open.spotify.com/album/0RE22Tf6vjOTz8hLgFrCaD) | 2:34 | 2024-11-15 | 2025-03-18 |
 | [Toxic](https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Toxic](https://open.spotify.com/album/09tF1xi5z2C8J7uzynH2xX) | 3:56 | 2023-12-22 | 2024-01-20 |
-| [Track 1](https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Rise Together EP](https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD) | 0:00 | 2026-05-22 |  |
 | [Trajadão](https://open.spotify.com/track/3DNROV85RpzdQP7E1Erpa0) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Trajadão / Everybody](https://open.spotify.com/album/5vXC2kXKghDQeXT33Sv3Au) | 3:08 | 2026-04-24 |  |
 | [Trapped](https://open.spotify.com/track/4c1t2huQZh2Q2wddgJ6wMB) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Trapped](https://open.spotify.com/album/2lkHOBwCKdKX2SveShtSji) | 2:27 | 2024-02-09 | 2024-05-25 |
 | [Treme](https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Treme](https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P) | 3:30 | 2024-10-25 | 2024-11-16 |

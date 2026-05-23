@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Mayukh Velagapudi
 
-528 songs - 1 day 7 hr 36 min
+529 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Soundarya Lahari](https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX) | [Anirudh Joshi](https://open.spotify.com/artist/6AqbTkpCtH1Tb8hwGgIC7l) | [Soundarya Lahari](https://open.spotify.com/album/2GqhuwmW6iptfgG0p2Zvuy) | 2:58 | 2024-11-25 | 2025-01-31 |
 | [SPICYGANG](https://open.spotify.com/track/5hjOo3JUkew4wosrTIkGa1) | [DRUGMNKY](https://open.spotify.com/artist/4RXpE2bory1fuh8X3xkrOo), [Avz](https://open.spotify.com/artist/3163PWVpDu4G2ItJhauoLb) | [SPICYGANG](https://open.spotify.com/album/434BNjErUFORKbT2kT0hcR) | 2:24 | 2026-04-24 |  |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |
+| [Step Vey](https://open.spotify.com/track/3xlfOfGSZBxmBfu5oe34RG) | [Yo STAR KRISH](https://open.spotify.com/artist/1lO7kwj88vBhvLqktA06tn) | [Step Vey](https://open.spotify.com/album/7K6nDnG7QdiD928bpZ8ic4) | 2:43 | 2026-05-22 |  |
 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 | 2024-10-16 | 2025-11-20 |
 | [Sukkalanti Pilla](https://open.spotify.com/track/5ju8QKjaAVfjUhScNSVJjD) | [Pavan Kalyan](https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi) | [Kousalya Tanaya Raghava](https://open.spotify.com/album/2DF0wrCT08UuosNBffUufB) | 2:56 | 2025-01-06 | 2025-02-13 |
 | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7) | [VuSe](https://open.spotify.com/artist/71I1aowbFdmoD5ydQ4TObT) | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY) | 1:29 | 2024-03-26 | 2024-04-19 |

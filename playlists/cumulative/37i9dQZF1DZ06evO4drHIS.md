@@ -4,11 +4,12 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 47 min
+108 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/track/6H36P2H784fay5czIbRyBw) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/album/1z1xhHvkd8OQ6fg01d9fqC) | 3:48 | 2025-12-17 |  |
+| [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/track/6H36P2H784fay5czIbRyBw) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/album/1z1xhHvkd8OQ6fg01d9fqC) | 3:48 | 2025-12-17 | 2026-05-23 |
+| [16437 Días \(con Majo Aguilar\)](https://open.spotify.com/track/4zDX5ypydPvhGrtKjh9shy) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 3:48 | 2026-05-23 |  |
 | [A Ningún Lugar](https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Ningún Lugar](https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR) | 2:47 | 2025-02-02 |  |
 | [A Través Del Vaso](https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Través Del Vaso](https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ) | 3:02 | 2026-04-26 |  |
 | [A Tu Lado \- En Vivo](https://open.spotify.com/track/3kbGKVSXvxgA04evWzb4cw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo \(En Vivo\)](https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI) | 4:53 | 2025-05-25 | 2025-06-21 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-646 songs - 1 day 14 hr 13 min
+648 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 | 2024-12-12 |  |
 | [Nublado](https://open.spotify.com/track/4H6Nq1nMoqPpjoH2eKEJfo) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:23 | 2023-10-25 |  |
 | [NWO](https://open.spotify.com/track/3KfiI3V6V1RAkrPThLFEj0) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:51 | 2024-11-14 |  |
+| [Oh My World](https://open.spotify.com/track/6gy47ICkG9ejWcsTh5sXDG) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Oh My World](https://open.spotify.com/album/2IijwnM5ZUfVBneZr89uV9) | 3:35 | 2026-05-22 |  |
 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 | 2023-10-25 |  |
 | [On Edge](https://open.spotify.com/track/5joJ2RbMO3jlQpgbN3m6Ay) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [On Edge](https://open.spotify.com/album/4i5kwe4vbjH0nxDNJVSKWW) | 3:50 | 2024-06-12 |  |
 | [On the Line](https://open.spotify.com/track/2cgwJaz7Pwt4bm06xOpcAY) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [On the Line](https://open.spotify.com/album/6HwgtqegmPLdyCZcdmfnCW) | 4:41 | 2023-10-25 |  |
@@ -555,6 +556,7 @@
 | [Surrender](https://open.spotify.com/track/45aN0iCBL2gI5Ynj6C9VJd) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Surrender](https://open.spotify.com/album/3ej7W2e6VBty9PGjowpPB1) | 3:42 | 2024-09-27 |  |
 | [Sushi](https://open.spotify.com/track/6BSq9HDPqweaowVNTqTjZF) | [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Nice Guys Love You \(Vol\. 1\)](https://open.spotify.com/album/4eW7jDOFO874ue4vEmf1qL) | 3:40 | 2023-10-25 |  |
 | [Sushi](https://open.spotify.com/track/4UKFXQsh5tpXf5sjXw8zvF) | [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Sushi](https://open.spotify.com/album/0xG05obVSm5KV5BGkBGdW5) | 3:40 | 2023-10-25 |  |
+| [Swallows](https://open.spotify.com/track/0WLnrsmhALslw59evSN1uB) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Swallows](https://open.spotify.com/album/3dXc2gUqgr28Y5kZ93SYzI) | 2:57 | 2026-05-22 |  |
 | [Swim](https://open.spotify.com/track/6up5sjQiW3z6zdmVZhcriM) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 4:03 | 2024-11-15 |  |
 | [Syncro](https://open.spotify.com/track/0ZK74IJO10o8XzZBz22UPV) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [El Año del Syncro](https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf) | 4:10 | 2024-11-15 |  |
 | [Take It Home](https://open.spotify.com/track/7suvezHyTpVgXt0sJduC5K) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 3:09 | 2023-10-25 |  |

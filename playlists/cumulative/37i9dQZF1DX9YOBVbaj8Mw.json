@@ -759,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
+    },
+    {
+      "album": {
         "name": "Central Park",
         "url": "https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx"
       },
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 426280,
       "name": "Give It a Rest",
       "url": "https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ"

@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
+> The very best of Punjabi romance featuring Sukha & Tanu Grewal
 
-1,173 songs - 2 day 15 hr 14 min
+1,174 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,7 +844,7 @@
 | [Rang Chadheya](https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG) | [Rang Chadheya](https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR) | 3:35 | 2024-03-26 | 2024-05-24 |
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |
 | [Ranga Wargi](https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Sikander](https://open.spotify.com/artist/04vyYm9kJkl2YjCP9qcv3g) | [Ranga Wargi](https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT) | 3:26 | 2022-02-04 | 2022-02-12 |
-| [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 | 2024-12-12 |  |
+| [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 | 2024-12-12 | 2026-05-23 |
 | [Rangreza \(from Lover\)](https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Rangreza \(from Lover\)](https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU) | 3:02 | 2022-06-28 | 2022-07-06 |
 | [Rani Haar](https://open.spotify.com/track/1mWvTGvCfvaw8UVLlPjFAb) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rani Haar](https://open.spotify.com/album/76dpB9VA6Uoa07CrW3bidi) | 2:16 | 2024-11-19 | 2024-11-27 |
 | [Ranjha](https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Ranjha](https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX) | 2:46 | 2025-09-18 |  |
@@ -1132,6 +1132,7 @@
 | [Wafa \- From "Jind Mahi"](https://open.spotify.com/track/3q1MY7KBL8NsLcjphsnB2L) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Wafa \(From "Jind Mahi"\)](https://open.spotify.com/album/43vXwZ0A0uqm7AlTEZQkSk) | 3:33 | 2022-07-29 | 2023-02-04 |
 | [Waja](https://open.spotify.com/track/1xrYjUmXmbJRCNuTGqBmS2) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Waja](https://open.spotify.com/album/5Op1WZIYTjQTlqXVYMyZDN) | 3:00 | 2022-02-03 | 2022-03-11 |
 | [Walk Talk](https://open.spotify.com/track/7hCXra10hAFhcziuZhgeWt) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Walk Talk](https://open.spotify.com/album/3KK9YfVhqfmd73O72iub8T) | 3:42 | 2023-12-18 | 2024-01-31 |
+| [WANG](https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:22 | 2026-05-22 |  |
 | [Wang Tut Gyi](https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Wang Tut Gyi](https://open.spotify.com/album/6mALhy205IRnUevHx7mk43) | 2:19 | 2022-07-05 | 2022-07-08 |
 | [Wanga](https://open.spotify.com/track/7jio2ibU8YYrlKzWzmdgXU) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Wanga](https://open.spotify.com/album/1tmjTkjz5XPlMCiSB0d95L) | 3:39 | 2022-11-07 | 2023-02-02 |
 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 | 2025-02-15 |  |

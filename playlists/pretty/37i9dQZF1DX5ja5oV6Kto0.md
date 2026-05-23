@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Siraheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,653 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,661 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 42 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
 | 43 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 44 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |
-| 45 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
-| 46 | [Nasty](https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Nasty](https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z) | 2:41 |
+| 45 | [Nasty](https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Nasty](https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z) | 2:41 |
+| 46 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
 | 47 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 |
 | 48 | [SHAKE'A](https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [SHAKE'A](https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF) | 2:20 |
 | 49 | [Rewind \(feat\. Boj, Smada & Genio Bambino\)](https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW) | [Vivendii Sound](https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Rewind \(feat\. Boj, Smada & Genio Bambino\)](https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ) | 2:08 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 64 | [Princessa](https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh) | [Indi](https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF) | [Princessa](https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU) | 1:58 |
 | 65 | [My letter to Zayn](https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [King Wizard](https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc) | [My letter to Zayn](https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ) | 3:57 |
 | 66 | [MOSQUITOES](https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0) | [Amanya](https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh) | [MOSQUITOES](https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS) | 1:47 |
-| 67 | [Imperfect Daughters](https://open.spotify.com/track/481OshZ1RPTStU15tZLic7) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Imperfect Daughters](https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK) | 3:41 |
+| 67 | [follow](https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [follow](https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm) | 2:29 |
 | 68 | [infrunayou](https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [infrunayou](https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf) | 2:24 |
-| 69 | [follow](https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [follow](https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm) | 2:29 |
+| 69 | [Imperfect Daughters](https://open.spotify.com/track/481OshZ1RPTStU15tZLic7) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Imperfect Daughters](https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK) | 3:41 |
 | 70 | [STYLO](https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [BayO](https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [STYLO](https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj) | 3:22 |
 | 71 | [Paris](https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Paris](https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1) | 3:20 |
 | 72 | [RUSH](https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Hunter Drake](https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8) | [RUSH](https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX) | 4:13 |

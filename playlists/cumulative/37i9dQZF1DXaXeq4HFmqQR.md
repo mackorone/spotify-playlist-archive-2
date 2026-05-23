@@ -4,7 +4,7 @@
 
 > 5 años de mujeres a todo volumen\. Curada por  Catalina Plaza 💚
 
-1,088 songs - 2 day 12 hr 38 min
+1,089 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 | 2023-11-29 | 2024-01-11 |
 | [No Es Vals](https://open.spotify.com/track/2Uq0VR9ovk3xRg9A4Jf4qb) | [LaFé](https://open.spotify.com/artist/1GwRXLSJnHHkC9B8zsj9UV) | [No Sé Que Sé Pero Sé](https://open.spotify.com/album/5SkYEEJoUlPr9uRjrVF8xi) | 3:35 | 2025-07-02 | 2025-11-04 |
 | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\) \- Tema Central de la Serie "La Jauría"](https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\)](https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1) | 2:53 | 2023-03-02 | 2023-04-06 |
+| [No he dejado de pensar en ti](https://open.spotify.com/track/5S6Qc8KAKz9xIdUanX8Lc4) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [No he dejado de pensar en ti](https://open.spotify.com/album/2EiPPhTirq8qjp6ng1jrUo) | 4:36 | 2026-05-22 |  |
 | [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 | 2023-05-03 | 2023-06-06 |
 | [No Make Up](https://open.spotify.com/track/6bvr1FoiUbkXqoTJQG3iUb) | [Rena Brunette](https://open.spotify.com/artist/1HaP5CF8Zjwx7WzUnPgcsF) | [Renacer](https://open.spotify.com/album/5HSgSdVh8PcaN2KHp6XEnp) | 2:02 | 2021-12-17 | 2022-02-01 |
 | [No me dejaré caer](https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [No me dejaré caer](https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR) | 2:36 | 2022-09-07 | 2023-01-05 |
@@ -705,7 +706,7 @@
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2023-03-02 | 2023-04-06 |
 | [Noche](https://open.spotify.com/track/1UHI3IYKZB16ghHdFPppjy) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 2:29 | 2023-09-06 | 2023-10-05 |
 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 | 2025-02-05 | 2025-04-02 |
-| [Noche no te vayas](https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Noche no te vayas](https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs) | 3:41 | 2026-04-08 |  |
+| [Noche no te vayas](https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Noche no te vayas](https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs) | 3:41 | 2026-04-08 | 2026-05-23 |
 | [Noche y Día](https://open.spotify.com/track/2FadPlaESFEYfx2zpfdVFh) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Noche y Día](https://open.spotify.com/album/1DJsKqINHySzfZDcHeFK2j) | 3:30 | 2022-06-01 | 2022-07-24 |
 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 | 2023-09-06 | 2024-03-07 |
 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 | 2022-09-07 | 2024-05-10 |

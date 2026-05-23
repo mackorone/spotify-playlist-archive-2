@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Artie in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,719 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,717 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 35 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
 | 36 | [Mu'Ammar Gheddafi \(feat\. Simba La Rue\)](https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:29 |
 | 37 | [NULLNEUN](https://open.spotify.com/track/3lIZO0nzkPw8ArCOZNX8l6) | [Alkhazar](https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF), [Rheda](https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct), [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR), [Harmann](https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [NULLNEUN](https://open.spotify.com/album/5LyNSu2wr3jg8PNnTm1ikI) | 2:48 |
-| 38 | [Track 2](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 0:00 |
+| 38 | [Victoria](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 2:48 |
 | 39 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
 | 40 | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY) | 3:15 |
 | 41 | [BALLAS 3 \(feat\. LILCR\)](https://open.spotify.com/track/3sSZ2ECjVnxSFhmLAKCV2r) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 3:09 |

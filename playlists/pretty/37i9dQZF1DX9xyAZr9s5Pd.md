@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,785 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,791 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [no pienses que me da igual](https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no pienses que me da igual](https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E) | 2:38 |
-| 2 | [azul](https://open.spotify.com/track/6npsvD105b2pUp5XMUudT7) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [azul](https://open.spotify.com/album/4vrG1SGcwyDL9HFI2hTP9e) | 3:29 |
-| 3 | [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 |
+| 2 | [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 |
+| 3 | [noquieroquemequieras](https://open.spotify.com/track/56pZj00RITsiBK8A8X9xWP) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [noquieroquemequieras](https://open.spotify.com/album/4wZEfakLhS6cSmz8DDvGEJ) | 3:27 |
 | 4 | [Cebolla](https://open.spotify.com/track/2gfuOzB9tTCOSwxhVM3lLf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Dualismo Mágico](https://open.spotify.com/album/4Y1Fqu8m46YL22sT4YJcMI) | 2:58 |
 | 5 | [DATE CUENTA](https://open.spotify.com/track/6pSo6xFiXAl9hNbYT64SFn) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [VALKIRIA](https://open.spotify.com/album/3tZz2VreBTSSmv8RADz0Zh) | 2:55 |
 | 6 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 58 | [Radio Capital](https://open.spotify.com/track/4RryeZ8UEUYuN4K6x4Quxr) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/6e5qfLCN4V5x4aH0cMX4dO) | 4:32 |
 | 59 | [Heart of Thunder](https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z), [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Heart of Thunder](https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX) | 3:31 |
 
-Snapshot ID: `AAAAALX9KrFApR8DzfVSkvHZPhpkQNUT`
+Snapshot ID: `AAAAAHWR+pOn39GOgTKp7Gtjv3QwMdN0`

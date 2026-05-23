@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193477,
+  "num_followers": 193482,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Um dia eu te encontro",
-        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Um dia eu te encontro",
-      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Todas Elas (Deluxe)",
         "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 283293,
       "name": "Nada Mais",
       "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Um dia eu te encontro",
+        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Um dia eu te encontro",
+      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Noites de Gala, Samba Na Rua",
-        "url": "https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 296506,
-      "name": "Beatriz",
-      "url": "https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "BEM VINDOS DE VOLTA",
         "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 268000,
       "name": "MAPA MUNDI",
       "url": "https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Noites de Gala, Samba Na Rua",
+        "url": "https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 296506,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal"
     },
     {
       "added_at": "2026-04-01 03:00:06",

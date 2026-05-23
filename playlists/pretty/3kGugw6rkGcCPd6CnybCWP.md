@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 98 songs - 5 hr 41 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 96 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 |
 | 97 | [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 |
 | 98 | [bad boys](https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [bad boys](https://open.spotify.com/album/6NPZtpg2T9s09EQubLdFGr) | 4:09 |
+| 99 | [Godstruck](https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD) | [kneeshake](https://open.spotify.com/artist/7Doc8VYJPdWcMthl4c2C9l) | [Godstruck](https://open.spotify.com/album/3Jv9c1emzRLP7eH7PrA1on) | 2:49 |
+| 100 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 |
+| 101 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 |
+| 102 | [PRONE](https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw) | [TNO NIKO](https://open.spotify.com/artist/61Iz8BdGNL4kbMED0ik4D0) | [PRONE](https://open.spotify.com/album/0jh7WYJiBllbzMOLa0f4ei) | 2:26 |
 
-Snapshot ID: `AAAO6dXGugUp807QuI3mnK6iLTInDJe/`
+Snapshot ID: `AAAO7dNP2sqYUWM2wyyiYEKaj6FSUSYO`

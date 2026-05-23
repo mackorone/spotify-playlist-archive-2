@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-506 songs - 1 day 5 hr 32 min
+507 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Be Life](https://open.spotify.com/track/6tzlSbv5DXJUbQNR7ohFC9) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Years](https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB) | 4:43 | 2021-12-03 | 2022-05-07 |
 | [Better Off](https://open.spotify.com/track/0ucPJRg36w8HDRwi1GzYlQ) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Better Off](https://open.spotify.com/album/2Fl0KLMRuSOjCsUMKACIKJ) | 2:54 | 2022-11-25 | 2023-03-04 |
 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-01-19 | 2024-02-17 |
-| [BLACK JAMES DEAN](https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [BLACK JAMES DEAN](https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6) | 2:33 | 2023-09-29 |  |
+| [BLACK JAMES DEAN](https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [BLACK JAMES DEAN](https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6) | 2:33 | 2023-09-29 | 2026-05-23 |
 | [Blame It On The Moon](https://open.spotify.com/track/1dVkXJh3lQnnybKKbKyT65) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Blame It On The Moon](https://open.spotify.com/album/2UBLrV1nUoxMq8n8pYQPRC) | 3:00 | 2025-12-12 |  |
 | [Blast Off](https://open.spotify.com/track/0szDyQC4IcwNJZVwgagtrm) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs) | [Blast Off](https://open.spotify.com/album/4H3PVX3Zks7zFo7fj252J0) | 1:48 | 2022-04-22 | 2023-04-29 |
 | [Bloom](https://open.spotify.com/track/6fpIcWxRGGqa681gUHJonh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Horizons](https://open.spotify.com/album/3wmbsIFbLZ5FLT55iqB9KL) | 3:03 | 2020-11-20 | 2022-04-09 |
@@ -310,6 +310,7 @@
 | [Monoxide](https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/06lzzmqcqpzK6Ga4VpXrof) | 3:12 | 2024-01-19 | 2024-03-26 |
 | [Monoxide](https://open.spotify.com/track/7DjW87ErMGMT2PIstq7gYG) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 3:12 | 2024-01-19 | 2024-04-19 |
 | [Monoxide](https://open.spotify.com/track/03sMq9PruH6F0jJQFufYPT) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/4vYq3fmB2F9GGY26RgTSja) | 3:12 | 2024-01-19 | 2024-06-15 |
+| [Mood](https://open.spotify.com/track/1i29QJiUT65rVEiibSJCVr) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Velvet Vibrations](https://open.spotify.com/artist/7w6qQs086ApwY9eAGEIzGV) | [Home Is No Place For A Riot](https://open.spotify.com/album/69zrewrJrgNJOEEMVKqPtT) | 2:52 | 2026-05-22 |  |
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-01-29 |
 | [more than a Luva](https://open.spotify.com/track/3aJXEytbdB7YPYKnGD2io5) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [more than a Luva](https://open.spotify.com/album/3qbXSocni3gE2JTOUGRcQ2) | 3:00 | 2025-06-13 |  |
 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 |  |

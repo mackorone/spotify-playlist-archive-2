@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Bestia Bebé
+> rock alternativo argentino\. <br/>📷 RYAN
 
-336 songs - 19 hr 1 min
+339 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 | 2024-09-14 |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
+| [Bendiciones](https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Bendiciones](https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf) | 2:44 | 2026-05-22 |  |
 | [Bichos en tu boca](https://open.spotify.com/track/41KMMzYfHLsgbBZutvnAz1) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Bichos en tu boca](https://open.spotify.com/album/7FqS5U399n8NcgcH5W4yM3) | 3:32 | 2023-11-10 | 2023-12-16 |
 | [bienteveo](https://open.spotify.com/track/03tgdlEEiSX0vDxeH8Oyzq) | [estrella](https://open.spotify.com/artist/62o0W0A16F9qAPxmFni3jR) | [estrella](https://open.spotify.com/album/7HOfFzAFbh7cidLv3bwAEI) | 3:55 | 2026-04-03 |  |
 | [Bitcha](https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Bitcha](https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK) | 3:34 | 2023-09-01 | 2025-05-17 |
@@ -139,6 +140,7 @@
 | [Esquivando Balas](https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Esquivando Balas](https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3) | 2:23 | 2023-09-01 | 2026-04-04 |
 | [Estrellate Estrellita](https://open.spotify.com/track/2wIvD1QzMVlshMuMk4QMWN) | [FLETES RAKEL](https://open.spotify.com/artist/1tTem1ochSScdXVMZnXVJD) | [NO](https://open.spotify.com/album/3GDRzdZnEjkT4WUBykPWLT) | 5:39 | 2025-11-14 |  |
 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 | 2023-10-20 | 2024-06-29 |
+| [Excepcional](https://open.spotify.com/track/2BhscWWOTsNtLUk4H8Xg4t) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [El Color del Mar](https://open.spotify.com/album/1tvVYNHhsaychq5azdt6rX) | 4:33 | 2026-05-22 |  |
 | [Excursiones](https://open.spotify.com/track/33tJxss4O7BWrAM4sDSkMa) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Excursiones](https://open.spotify.com/album/4Cd1vQB8eqsz58K2mMuiFE) | 4:40 | 2026-04-03 |  |
 | [Fan](https://open.spotify.com/track/7nEgmIahpsJgoTrDTIfS3q) | [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt) | [Fan](https://open.spotify.com/album/2ImtZm3B4rmzFXp1hTatGW) | 4:00 | 2025-07-25 | 2026-04-04 |
 | [Fantasies \- Acoustic](https://open.spotify.com/track/7jXHB0oiaOwhwrGuPoSTaG) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene: NAK Sessions](https://open.spotify.com/album/78c3cZ4RQJDdjIifB9burx) | 2:43 | 2024-03-08 | 2024-08-24 |
@@ -149,6 +151,7 @@
 | [Frikidadidou](https://open.spotify.com/track/1sZs4kFiJhCxLXNGHSxYdx) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Mariana Enriquez](https://open.spotify.com/artist/01NAGA1oV4Pbp9VW0E0u69) | [Frikidadidou](https://open.spotify.com/album/7hOpzL3rbfcLBLuQUfOsno) | 3:22 | 2026-05-01 |  |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 | 2025-10-25 |
 | [Gracias a Vos](https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Gracias a Vos](https://open.spotify.com/album/3xz4R5OjrGatQdKv3lBrbw) | 3:15 | 2026-02-27 | 2026-04-04 |
+| [Gringa Gringa](https://open.spotify.com/track/561pFwIK3pcEg4MIgZVFrz) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Gringa Gringa](https://open.spotify.com/album/19w6WAIKzdEImIdLeYlyAs) | 4:59 | 2026-05-22 |  |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
 | [Guerrero Atípico](https://open.spotify.com/track/5JcF5s0zg7kpeEXg7Iwrgq) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Todo lo Sólido se Desvanece en el Aire](https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl) | 4:11 | 2025-11-14 |  |
 | [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 | 2023-05-19 | 2025-10-25 |
@@ -161,7 +164,7 @@
 | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 | 2026-02-28 |
 | [Humberta T.](https://open.spotify.com/track/1uMjAFV2XLumcZ9usvp7NS) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Humberta T.](https://open.spotify.com/album/7yng9iBynNm3GTZBctTPpt) | 2:28 | 2025-08-08 | 2026-04-04 |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
-| [IDEAS MALAS +](https://open.spotify.com/track/6bpePYpOPcMLSrQwAMdXWq) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [IDEAS MALAS +](https://open.spotify.com/album/7A1BOdLD6yyGnaJCu3uaBM) | 3:45 | 2025-02-28 |  |
+| [IDEAS MALAS +](https://open.spotify.com/track/6bpePYpOPcMLSrQwAMdXWq) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [IDEAS MALAS +](https://open.spotify.com/album/7A1BOdLD6yyGnaJCu3uaBM) | 3:45 | 2025-02-28 | 2026-05-23 |
 | [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-21 | 2026-04-04 |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 | 2025-10-25 |
 | [Imaginación](https://open.spotify.com/track/3VJSyskDmUm115nQaDhlHr) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 3:21 | 2024-09-27 | 2025-05-17 |
@@ -254,7 +257,7 @@
 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 | 2025-11-14 | 2026-04-04 |
 | [piso 20](https://open.spotify.com/track/41IgY1X91cTDj1qwlvKiqS) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [piso 20](https://open.spotify.com/album/2NGY5QHTcAjg68I9XkiBJ1) | 2:21 | 2025-07-25 | 2026-04-04 |
 | [PITER \- Versión Hardcore](https://open.spotify.com/track/74BsstrLSfPxh7xZ9a3kQL) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PITER \(Versión Hardcore\)](https://open.spotify.com/album/28idG6EmqHFGcD5R7syB4O) | 2:27 | 2023-03-23 | 2023-06-17 |
-| [Policía](https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Policía](https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd) | 3:08 | 2024-02-09 |  |
+| [Policía](https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Policía](https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd) | 3:08 | 2024-02-09 | 2026-05-23 |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-03-25 | 2023-03-25 |
 | [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-21 | 2024-03-16 |
 | [Proba no llamar al Transa](https://open.spotify.com/track/69vEsEYVMS5ypme9lpjNkA) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Plano Virtual](https://open.spotify.com/album/4wUSt3QoeJpdzUNvkX4Ujl) | 3:00 | 2026-04-24 |  |
@@ -337,7 +340,7 @@
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-03-25 |  |
 | [Y no me digan nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y no me digan nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 | 2023-05-19 | 2025-10-25 |
 | [ya nada es igual](https://open.spotify.com/track/1wazR5obN3REn4RM70n0py) | [sunlid](https://open.spotify.com/artist/2hC9i9ExbMJICVFHLRV1hF) | [no mires atrás](https://open.spotify.com/album/5frDRBOmPziPlEkD6JuLD4) | 3:07 | 2024-09-27 |  |
-| [Ya No Quiero Bailar](https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Varias Paredes Pintadas](https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6) | 3:59 | 2024-07-26 |  |
+| [Ya No Quiero Bailar](https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Varias Paredes Pintadas](https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6) | 3:59 | 2024-07-26 | 2026-05-23 |
 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 | 2024-07-26 | 2026-04-04 |
 | [Yoyaki](https://open.spotify.com/track/5WvRtLWuwBTUfGB0spXFqC) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 3:15 | 2022-03-25 | 2023-03-25 |
 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 | 2023-11-10 | 2026-04-04 |

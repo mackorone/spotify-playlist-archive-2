@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Baby Rose",
-  "num_followers": 231816,
+  "description": "New music from your favorite women.  Cover: Ana\u00efs Cardot",
+  "num_followers": 231834,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkGLtGK+glhwZeKidCt6Xo+I6lF",
+  "snapshot_id": "AAAAAA/kHMnNk3Kgn1S6WRhVVZ/v8AV7",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
+    },
     {
       "added_at": "2026-05-15 06:21:37",
       "album": {
@@ -73,24 +89,20 @@
       "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
     },
     {
-      "added_at": "2026-05-15 06:21:37",
+      "added_at": "2026-05-22 04:01:55",
       "album": {
-        "name": "idea of love - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es"
+        "name": "Left on RED",
+        "url": "https://open.spotify.com/album/5xBGTsaGc3BlKQweyj5PZw"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
         }
       ],
-      "duration_ms": 154314,
-      "name": "idea of love - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ"
+      "duration_ms": 145274,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
     },
     {
       "added_at": "2026-05-08 06:30:18",
@@ -109,24 +121,28 @@
       "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
-      "added_at": "2026-05-08 06:30:18",
+      "added_at": "2026-05-22 04:01:55",
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/0obVlj0DotwfVCpOkVCbbS"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Courtnie",
+          "url": "https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn"
         },
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
         }
       ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+      "duration_ms": 177045,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/7MVgBwgPIToyFKbLStFSw9"
     },
     {
       "added_at": "2026-05-15 06:21:37",
@@ -143,6 +159,38 @@
       "duration_ms": 159250,
       "name": "Ain\u2019t That Deep",
       "url": "https://open.spotify.com/track/0PokJfPldX6FgGR7covt03"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-05-15 06:21:37",
+      "album": {
+        "name": "Break Me Off",
+        "url": "https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "Break Me Off",
+      "url": "https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -163,78 +211,6 @@
     {
       "added_at": "2026-05-08 06:30:18",
       "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 214390,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
-    },
-    {
-      "added_at": "2026-05-15 06:21:37",
-      "album": {
-        "name": "Break Me Off",
-        "url": "https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "Break Me Off",
-      "url": "https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF"
-    },
-    {
-      "added_at": "2026-04-17 06:37:17",
-      "album": {
-        "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
-        "url": "https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "SALIMATA",
-          "url": "https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD"
-        }
-      ],
-      "duration_ms": 171251,
-      "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
-      "url": "https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn"
-    },
-    {
-      "added_at": "2026-05-15 06:21:37",
-      "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/4uK9z9SbUMMjA7ZwPBACRg"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 138423,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/6mYtOaYZJ9MT2ndegk5Xdu"
-    },
-    {
-      "added_at": "2026-05-08 06:30:18",
-      "album": {
         "name": "Therapy at the Club",
         "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
       },
@@ -247,26 +223,6 @@
       "duration_ms": 167000,
       "name": "Therapy at the Club",
       "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
-    },
-    {
-      "added_at": "2026-04-24 04:03:02",
-      "album": {
-        "name": "Beautiful Tragedy",
-        "url": "https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb"
-      },
-      "artists": [
-        {
-          "name": "Ebony Riley",
-          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "You Better Know (feat. Skilla Baby)",
-      "url": "https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -309,6 +265,118 @@
       "url": "https://open.spotify.com/track/1LlC7dIDXXmduGZWJMsxKJ"
     },
     {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
+        "url": "https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "SALIMATA",
+          "url": "https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD"
+        }
+      ],
+      "duration_ms": 171251,
+      "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
+      "url": "https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "what did you think love would be?",
+        "url": "https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "duration_ms": 203514,
+      "name": "what did you think love would be?",
+      "url": "https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB"
+    },
+    {
+      "added_at": "2026-05-08 06:30:18",
+      "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+    },
+    {
+      "added_at": "2026-04-24 04:03:02",
+      "album": {
+        "name": "Beautiful Tragedy",
+        "url": "https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb"
+      },
+      "artists": [
+        {
+          "name": "Ebony Riley",
+          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "You Better Know (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "Cold Summer",
+        "url": "https://open.spotify.com/album/2LUxcIEqoNcuQlfhJQLRyd"
+      },
+      "artists": [
+        {
+          "name": "Qui",
+          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
+        }
+      ],
+      "duration_ms": 192956,
+      "name": "If I Was You",
+      "url": "https://open.spotify.com/track/0TSNYgNN06hEKIKce2jlxW"
+    },
+    {
+      "added_at": "2026-05-15 06:21:37",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/4uK9z9SbUMMjA7ZwPBACRg"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 138423,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/6mYtOaYZJ9MT2ndegk5Xdu"
+    },
+    {
       "added_at": "2026-05-08 06:30:18",
       "album": {
         "name": "Shallow",
@@ -339,6 +407,42 @@
       "duration_ms": 296616,
       "name": "Window To The Soul",
       "url": "https://open.spotify.com/track/7wNqcryc6nxY7fXKm9Y6cr"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "Cinere",
+        "url": "https://open.spotify.com/album/4YTRghwdWL2lm2bMhDiRl1"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140148,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4H7FGmMhIxBNKYMjqgqOpp"
+    },
+    {
+      "added_at": "2026-05-15 06:21:37",
+      "album": {
+        "name": "idea of love - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 154314,
+      "name": "idea of love - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -585,26 +689,6 @@
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
-      "added_at": "2026-04-24 04:03:02",
-      "album": {
-        "name": "All U Need (with Jaymin)",
-        "url": "https://open.spotify.com/album/1uT1i8IG2RWghnnPXC49sL"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        },
-        {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
-        }
-      ],
-      "duration_ms": 185807,
-      "name": "All U Need (with Jaymin)",
-      "url": "https://open.spotify.com/track/3prJRFb6nICR3uC7mqhkjs"
-    },
-    {
       "added_at": "2026-05-08 06:30:18",
       "album": {
         "name": "sehuli",
@@ -829,22 +913,6 @@
       "url": "https://open.spotify.com/track/64Qcuf6O7SXqH8bsyLer0c"
     },
     {
-      "added_at": "2026-04-17 06:37:17",
-      "album": {
-        "name": "Getaway Driver",
-        "url": "https://open.spotify.com/album/5cXaO4eP64kTqYm4AQd7st"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Getaway Driver",
-      "url": "https://open.spotify.com/track/0n4RvRmDQ88NLjhesbbDSx"
-    },
-    {
       "added_at": "2026-04-03 06:17:19",
       "album": {
         "name": "DND",
@@ -971,26 +1039,6 @@
       "duration_ms": 233320,
       "name": "LUber",
       "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
-    },
-    {
-      "added_at": "2026-03-27 05:57:52",
-      "album": {
-        "name": "Waiting Room (feat. Jordan Ward)",
-        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 201854,
-      "name": "Waiting Room (feat. Jordan Ward)",
-      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
       "added_at": "2026-04-17 06:37:17",
@@ -1143,22 +1191,6 @@
       "duration_ms": 180959,
       "name": "Bother Me (feat. Victony)",
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "added_at": "2026-04-03 06:17:19",
@@ -1537,22 +1569,6 @@
       "url": "https://open.spotify.com/track/4EsAbdTsIA1ldBmPygFKyt"
     },
     {
-      "added_at": "2026-02-27 08:07:16",
-      "album": {
-        "name": "Miss That",
-        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Miss That",
-      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
-    },
-    {
       "added_at": "2026-03-06 05:18:12",
       "album": {
         "name": "Deposit",
@@ -1635,22 +1651,6 @@
       "duration_ms": 126982,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/3AKXYHa9w1gyX1fEAwDssN"
-    },
-    {
-      "added_at": "2026-03-06 05:18:12",
-      "album": {
-        "name": "Nothing To Say",
-        "url": "https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr"
-      },
-      "artists": [
-        {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
-        }
-      ],
-      "duration_ms": 189227,
-      "name": "Nothing To Say",
-      "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -1821,38 +1821,6 @@
       "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
     },
     {
-      "added_at": "2026-02-20 06:05:29",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
-      "added_at": "2026-02-27 08:07:16",
-      "album": {
-        "name": "Maybe...",
-        "url": "https://open.spotify.com/album/6q6meFNQnJyNwiT5PQWZEu"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 224273,
-      "name": "Maybe...",
-      "url": "https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ"
-    },
-    {
       "added_at": "2026-02-13 05:40:53",
       "album": {
         "name": "Cupid's Call",
@@ -1867,22 +1835,6 @@
       "duration_ms": 178346,
       "name": "Cupid's Call",
       "url": "https://open.spotify.com/track/5cSdjzp4MuWf5wRjWm5eGU"
-    },
-    {
-      "added_at": "2026-02-13 05:40:53",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/0Xg7mjikHBTIdeaH8Te4OV"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        }
-      ],
-      "duration_ms": 213689,
-      "name": "SAFE",
-      "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
     },
     {
       "added_at": "2026-02-20 06:05:29",
@@ -2053,22 +2005,6 @@
       "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
-      "added_at": "2025-12-19 05:00:40",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
-      },
-      "artists": [
-        {
-          "name": "Qui",
-          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
-        }
-      ],
-      "duration_ms": 104020,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
-    },
-    {
       "added_at": "2026-01-23 05:42:11",
       "album": {
         "name": "Nothing Is Impossible With You",
@@ -2189,30 +2125,6 @@
       "url": "https://open.spotify.com/track/317VQsXiqvzQjUp9DDuIAh"
     },
     {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Is It Alright?",
-        "url": "https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 196548,
-      "name": "Is It Alright?",
-      "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
-    },
-    {
       "added_at": "2025-11-14 09:13:01",
       "album": {
         "name": "CiCi (Deluxe)",
@@ -2285,22 +2197,6 @@
       "url": "https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy"
     },
     {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/7sOimIUM5jqiDGAQ0WOR8n"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 221228,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
-    },
-    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "HEARTS SOLD SEPARATELY",
@@ -2347,22 +2243,6 @@
       "duration_ms": 155530,
       "name": "Options",
       "url": "https://open.spotify.com/track/0DW2oDjvCpHYWAGPboo3jr"
-    },
-    {
-      "added_at": "2025-11-21 11:20:02",
-      "album": {
-        "name": "Officer, Pt. 2",
-        "url": "https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Officer, Pt. 2",
-      "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
     },
     {
       "added_at": "2025-11-14 09:13:01",
@@ -2491,26 +2371,6 @@
       "duration_ms": 206793,
       "name": "Thank You (feat. Yukimi)",
       "url": "https://open.spotify.com/track/2ZXstywlOq3OrFDhxXGHyo"
-    },
-    {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "Move feat. H.E.R.",
-        "url": "https://open.spotify.com/album/7lgytNepplkbVKRQoaE2Dg"
-      },
-      "artists": [
-        {
-          "name": "Tiara Thomas",
-          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Move feat. H.E.R.",
-      "url": "https://open.spotify.com/track/1cGkWVL1FvmMgV4zqJsQfS"
     },
     {
       "added_at": "2025-10-24 04:00:29",

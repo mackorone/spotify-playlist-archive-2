@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: LUCKI",
+  "description": "The Midwest is always on time. Cover: Veeze",
   "name": "CST",
   "tracks": [
     {
@@ -2463,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "Upper Vol.2",
+        "url": "https://open.spotify.com/album/0vDSNmUQ7k7NQE47CgXFA3"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Bac & Forth (feat. Babyfxce E)",
+      "url": "https://open.spotify.com/track/3DKHCzK5jRqokifYAQ6E2l"
+    },
+    {
+      "album": {
         "name": "Back 2 The Ba$ics",
         "url": "https://open.spotify.com/album/2LJIISapdPQWbfGOVDb74U"
       },
@@ -4509,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "Y'all Won",
+        "url": "https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Bruce Wayne Coupe",
+      "url": "https://open.spotify.com/track/4ZzlWpCX6q91quafbej5gH"
+    },
+    {
+      "album": {
         "name": "BTA Freestyle",
         "url": "https://open.spotify.com/album/0Ix0SU13lJvY1ZFNcfiPL4"
       },
@@ -5580,7 +5620,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 186336,
       "name": "Cheesing",
       "url": "https://open.spotify.com/track/2yWIyPvtG5YwgURnBReWuw"
@@ -6387,6 +6427,28 @@
     },
     {
       "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/123VcCW5kKLsPY0uYe3Ct8"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115992,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/7zrmLyqhJOPxyh2e8uwoNL"
+    },
+    {
+      "album": {
         "name": "ERROR 404",
         "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
       },
@@ -6826,6 +6888,24 @@
       "duration_ms": 146855,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/6OaDh6LbMSh7Wvz1Me7xwn"
+    },
+    {
+      "album": {
+        "name": "HEI$MAN",
+        "url": "https://open.spotify.com/album/55hVq046XJQWKumiD0YNPz"
+      },
+      "artists": [
+        {
+          "name": "Mike DFG",
+          "url": "https://open.spotify.com/artist/1Ey78vd38gqpWFeqiGlYfF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95927,
+      "name": "Detonated Free$tyle.",
+      "url": "https://open.spotify.com/track/2ccXxfSBa50NfT6OPl2j13"
     },
     {
       "album": {
@@ -7793,6 +7873,24 @@
     },
     {
       "album": {
+        "name": "Mastiff : Pink Tiles",
+        "url": "https://open.spotify.com/album/3IoCwcwQulzAmXCKhRIXG2"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182622,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/0xO0kAjiOjS5GElpgKRmhs"
+    },
+    {
+      "album": {
         "name": "Olympic Shit Talking",
         "url": "https://open.spotify.com/album/2StcMYF0c94euVHyEQX3Y9"
       },
@@ -8556,7 +8654,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 158400,
       "name": "Fetty, Mula, Gwalla",
       "url": "https://open.spotify.com/track/4z5fUVKzFrcvqlCFJ1cXqS"
@@ -9691,6 +9789,24 @@
     },
     {
       "album": {
+        "name": "Game Six",
+        "url": "https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Game Six",
+      "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
+    },
+    {
+      "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf"
       },
@@ -9822,7 +9938,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 177235,
       "name": "Get Geeked",
       "url": "https://open.spotify.com/track/6siwX3kCcPSVpVipT5jkqa"
@@ -11626,7 +11742,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 94702,
       "name": "Head Turner",
       "url": "https://open.spotify.com/track/3vgHXXOYNm2dydVn8pYbWs"
@@ -12108,6 +12224,28 @@
       "duration_ms": 138946,
       "name": "Hoe Friends",
       "url": "https://open.spotify.com/track/65BwIfCNyTEHbLOnIVC4rk"
+    },
+    {
+      "album": {
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "album": {
@@ -19614,7 +19752,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185400,
       "name": "One of Them Ones",
       "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
@@ -20374,7 +20512,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 127281,
       "name": "Paygrade Demo",
       "url": "https://open.spotify.com/track/7mzdCImhLEVrDsO3WrET38"
@@ -21936,7 +22074,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 164154,
       "name": "RAMBO",
       "url": "https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN"
@@ -27199,6 +27337,24 @@
     },
     {
       "album": {
+        "name": "Y'all Won",
+        "url": "https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Tesla Pill",
+      "url": "https://open.spotify.com/track/5s8PZ9iYgPGkdkhu6BVRTj"
+    },
+    {
+      "album": {
         "name": "Tez & Tone 1",
         "url": "https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd"
       },
@@ -27885,6 +28041,32 @@
     },
     {
       "album": {
+        "name": "Thick One (with Skilla Baby & Kash Doll) [Remix]",
+        "url": "https://open.spotify.com/album/300TtHqLZ25gqKHvg0KPIE"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Thick One (with Skilla Baby & Kash Doll) - Remix",
+      "url": "https://open.spotify.com/track/5KBmIlmWz3qU5JnICetxcq"
+    },
+    {
+      "album": {
         "name": "Part 3",
         "url": "https://open.spotify.com/album/2G8DTVj9PSnCzaVzIuH4Me"
       },
@@ -27900,7 +28082,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 169696,
       "name": "Thick One (with Skilla Baby)",
       "url": "https://open.spotify.com/track/1qgL5JjuAgU4BEldI43vzp"
@@ -30150,7 +30332,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 113637,
       "name": "Waterboy",
       "url": "https://open.spotify.com/track/471AFAOz9yShdQGEKzB5y5"
@@ -31458,7 +31640,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200347,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW"
@@ -31562,6 +31744,24 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+    },
+    {
+      "album": {
+        "name": "Y'all Won",
+        "url": "https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Wrong Place, Wrong time",
+      "url": "https://open.spotify.com/track/0Iwtp6RIjd92YaWA7snJoX"
     },
     {
       "album": {

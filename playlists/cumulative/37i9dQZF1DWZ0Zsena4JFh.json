@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 313417,
       "name": "100,000",
       "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Bally",
+        "url": "https://open.spotify.com/album/3BnUqVvasOJeFZyggI6tJO"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211038,
+      "name": "Bally",
+      "url": "https://open.spotify.com/track/0vFwQDpQPSFb3j2IVlr7Ik"
+    },
+    {
+      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
@@ -2114,6 +2132,24 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "album": {
+        "name": "Wasted Potential",
+        "url": "https://open.spotify.com/album/6nmffO3cnvEQW6CFMzltql"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250596,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/1BNVFucw40F08CYPbH3Ufy"
     },
     {
       "album": {
@@ -2982,6 +3018,24 @@
       "duration_ms": 228100,
       "name": "Control",
       "url": "https://open.spotify.com/track/0akKL1hulKVS09ExZAZg41"
+    },
+    {
+      "album": {
+        "name": "From a Hole in the Floor to a Fountain of Youth",
+        "url": "https://open.spotify.com/album/5vNGqucLimBBsqYw7xdpdJ"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233483,
+      "name": "Cotton Flower",
+      "url": "https://open.spotify.com/track/7roEwG3ctp2ZqIlXU55qJt"
     },
     {
       "album": {
@@ -4035,6 +4089,28 @@
     },
     {
       "album": {
+        "name": "Dug a Hole",
+        "url": "https://open.spotify.com/album/62vFAXm0OfnbNfqZvNnjZo"
+      },
+      "artists": [
+        {
+          "name": "Scattrbrain",
+          "url": "https://open.spotify.com/artist/6lWIyq5Kx1LORlaoCeDoIB"
+        },
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "Dug a Hole",
+      "url": "https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh"
+    },
+    {
+      "album": {
         "name": "Dumb",
         "url": "https://open.spotify.com/album/5cEpFqMuVm8N1cZkGyfvjQ"
       },
@@ -4281,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/72tLWsrFP3iw0NbwQZ2yt6"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331232,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1CWyaQ8abKOSClzWzdeiM0"
+    },
+    {
+      "album": {
         "name": "Eucalyptus",
         "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
       },
@@ -4448,6 +4542,24 @@
       "duration_ms": 210054,
       "name": "Everything Is Peaceful Love",
       "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225229,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
     },
     {
       "album": {
@@ -6006,7 +6118,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
@@ -6404,7 +6516,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 184220,
       "name": "I Never See Her",
       "url": "https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8"
@@ -7181,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "Teen of Denial: Joe\u2019s Story",
+        "url": "https://open.spotify.com/album/4lIrDPBBYbYiYWM4qExb1T"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Joe Drives Again",
+      "url": "https://open.spotify.com/track/6ePnlprG50uQkYp5GTzVdY"
+    },
+    {
+      "album": {
         "name": "JOHNNYSCOTT",
         "url": "https://open.spotify.com/album/2paVRUpTK7DeVBBfExvTG4"
       },
@@ -7810,7 +7940,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 218093,
       "name": "Like Heaven",
       "url": "https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq"
@@ -9438,7 +9568,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175746,
       "name": "No Place to Be",
       "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
@@ -10860,7 +10990,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
@@ -11122,7 +11252,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178381,
       "name": "Red Siren Pick Up",
       "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
@@ -11552,7 +11682,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 186200,
       "name": "Say That You Will",
       "url": "https://open.spotify.com/track/1RnOfKNZGMyAyBJtGXdeHy"
@@ -13807,6 +13937,28 @@
     },
     {
       "album": {
+        "name": "The Waves (feat. Solann)",
+        "url": "https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329440,
+      "name": "The Waves (feat. Solann)",
+      "url": "https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD"
+    },
+    {
+      "album": {
         "name": "The World Above",
         "url": "https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO"
       },
@@ -14192,7 +14344,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 201475,
       "name": "Time Waster",
       "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
@@ -14571,6 +14723,24 @@
     },
     {
       "album": {
+        "name": "Twizzler",
+        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174349,
+      "name": "Twizzler",
+      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+    },
+    {
+      "album": {
         "name": "Typical",
         "url": "https://open.spotify.com/album/2DjjY1hhVEV4B6X6cEUCc6"
       },
@@ -14845,6 +15015,24 @@
     },
     {
       "album": {
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217672,
+      "name": "Versailles Flow",
+      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
+    },
+    {
+      "album": {
         "name": "Victim Of Luck",
         "url": "https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B"
       },
@@ -14914,7 +15102,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
@@ -15148,6 +15336,24 @@
       "duration_ms": 170541,
       "name": "WE DONT COUNT",
       "url": "https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW"
+    },
+    {
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,197 songs - 1 day 22 hr 2 min
+1,199 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Amnesia](https://open.spotify.com/track/3HbAR7ZxhLZjlBN84UaitM) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Amnesia](https://open.spotify.com/album/4ZED8KjLfnr4NdXHnEOYKD) | 1:55 | 2023-09-04 | 2023-10-13 |
 | [Angels](https://open.spotify.com/track/6lfVI7z6flsco36BPAeXXP) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Home](https://open.spotify.com/album/4xqPGPk7GA4kZspCS9od5T) | 2:32 | 2022-04-15 | 2022-12-10 |
 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 | 2022-04-15 | 2022-07-29 |
+| [Another Day](https://open.spotify.com/track/0q22CJLCsZDSM7eYnT7MWX) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Another Day](https://open.spotify.com/album/2JA960IeUR2mAJNIyuaTCC) | 2:12 | 2026-05-22 |  |
 | [Antiquity](https://open.spotify.com/track/3wOduxGta83TqKRcZHXXD9) | [Purple Bike](https://open.spotify.com/artist/74vRXGqTgjiQGqnpFjFE2M) | [Antiquity](https://open.spotify.com/album/1EK96vQu11uj6BoZkE1dEH) | 3:17 | 2022-04-15 | 2023-07-20 |
 | [aquatic dreams](https://open.spotify.com/track/2ovRozE2MFU29FKcRhiGVT) | [$imba](https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP) | [aquatic dreams](https://open.spotify.com/album/1ghtZfEeR7HEBDemlnBekI) | 2:22 | 2025-12-04 |  |
 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 | 2025-06-30 |  |
@@ -156,6 +157,7 @@
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2022-09-30 | 2023-10-20 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-04-15 | 2022-07-08 |
 | [Chai](https://open.spotify.com/track/66Kny7gNhHrvLUnasMVSl7) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Chai](https://open.spotify.com/album/3pqrE6A2UA3uhU5SgrtKeh) | 2:24 | 2024-06-05 | 2024-06-29 |
+| [Change](https://open.spotify.com/track/3zxAz89ATcP9Wsd1IS0In0) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Change](https://open.spotify.com/album/6PefnS2via1rgV9lwekE7R) | 2:00 | 2026-05-22 |  |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-04-15 | 2025-07-10 |
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-04-15 | 2022-08-19 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-15 | 2023-01-20 |
@@ -359,7 +361,7 @@
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 | 2025-07-19 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 | 2024-08-31 |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 | 2025-08-30 |
-| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 |  |
+| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 | 2026-05-23 |
 | [Future Feline](https://open.spotify.com/track/5wkEOqy092lfdf247rko8x) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2023-07-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
@@ -1119,7 +1121,7 @@
 | [Unity](https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/38pRruNPK6CWlpASV8FnPb) | 2:13 | 2022-04-15 | 2022-11-20 |
 | [Until Morning Comes](https://open.spotify.com/track/13vIPV9gmRakQ0yJk5S81g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Until Morning Comes](https://open.spotify.com/album/0DbqxCggCsx7rXA2c1ZLAf) | 2:52 | 2025-10-16 | 2026-03-18 |
 | [unwind rewind](https://open.spotify.com/track/2het2Gw9kQZKOZl2ATnog3) | [Mambojambo](https://open.spotify.com/artist/5adQ9F1bTccUHKfePr6khI) | [unwind rewind](https://open.spotify.com/album/3FEZtS1ZfqgrCaDbsc3Wsi) | 2:06 | 2025-05-06 |  |
-| [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 |  |
+| [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 | 2026-05-23 |
 | [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 | 2025-09-05 |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-15 | 2025-07-10 |
 | [Valentina](https://open.spotify.com/track/34rlm9wkmSqrlN794BjwQk) | [Belinellie](https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5) | [Valentina](https://open.spotify.com/album/03SOg6LS7UfQfhnNYLcagj) | 1:55 | 2024-09-13 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-601 songs - 1 day 12 hr 3 min
+602 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,11 +227,12 @@
 | [I SEE ME IN YOU](https://open.spotify.com/track/3mH9LRyLT6z2njcC6DuSOz) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [I SEE ME IN YOU](https://open.spotify.com/album/6vzgAjr04x7Ijw19UdXL4h) | 5:14 | 2023-07-07 | 2024-10-26 |
 | [I Wanna Love](https://open.spotify.com/track/4Dk6Knrvqxp3aYARRGieaj) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Wanna Love](https://open.spotify.com/album/78T8IZb2NrmSNtItn2fiWd) | 3:56 | 2023-06-02 | 2024-03-02 |
 | [I Will](https://open.spotify.com/track/4ugagKi9JkkuuDP9X95phk) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [I Will](https://open.spotify.com/album/5X5AlSm63j575hOo1687co) | 4:27 | 2021-10-22 | 2022-07-25 |
-| [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-18 |  |
+| [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-18 | 2026-05-23 |
 | [I'll Never Say No](https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [I'll Never Say No](https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR) | 2:39 | 2025-08-22 |  |
 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 | 2021-07-09 | 2023-01-28 |
 | [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 | 2023-08-25 | 2025-04-26 |
 | [I'm Curious](https://open.spotify.com/track/5wl4ycUNQn2SWhW9nDh3Oe) | [Wilson Meadows](https://open.spotify.com/artist/1kJpdoVAFnAbIywNd5JVro) | [I'm Curious](https://open.spotify.com/album/6ZEX1dLRi1PfRkLmrbS44l) | 3:10 | 2022-04-15 | 2024-03-30 |
+| [I'm Just A Girl](https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP) | 2:49 | 2026-05-22 |  |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 | 2025-01-04 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 | 2024-04-19 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-31 |

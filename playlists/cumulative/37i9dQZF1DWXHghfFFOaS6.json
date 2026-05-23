@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 275320,
       "name": "Nakamarra (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
@@ -2132,6 +2132,28 @@
       "duration_ms": 298722,
       "name": "Niassam",
       "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
+    },
+    {
+      "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/0sTb6or2R8hpdFojnV3Xaa"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        },
+        {
+          "name": "DJ Serafin",
+          "url": "https://open.spotify.com/artist/43GvgXUcA9XHbVyvjJiAke"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177928,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/2UfOOwLr8zhdLAAhE6IIo6"
     },
     {
       "album": {

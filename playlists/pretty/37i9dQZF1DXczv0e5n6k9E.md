@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: 12os Pithikos
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,231 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,246 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 7 | [Kara Tepe](https://open.spotify.com/track/6pHdnVVeWPLvRR4H4WF6Vf) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Tenacity](https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW) | 2:58 |
 | 8 | [FUCK LOVE](https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [FOREVER RICH DELUXE](https://open.spotify.com/album/2rmS4kn1agG4geVVS3Tppo) | 3:08 |
 | 9 | [KOLOTOUBA](https://open.spotify.com/track/2xHSrVzLU1PTDp66zPlN35) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Tsabi](https://open.spotify.com/artist/4JRX8483ymGAlPeXABD88m) | [KOLOTOUBA](https://open.spotify.com/album/3fFDHxoK5gxtsbZJX47Aqe) | 2:30 |
-| 10 | [Xaderfaki](https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Xaderfaki](https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA) | 2:14 |
+| 10 | [Xaderfaki](https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Xaderfaki](https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA) | 2:10 |
 | 11 | [OP TI EGINE?](https://open.spotify.com/track/46PHloRvhwUO728FcaQmzx) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN) | [OP TI EGINE?](https://open.spotify.com/album/6eFzC6wdmHur0gFcjINLL0) | 2:58 |
 | 12 | [JALAPENOS](https://open.spotify.com/track/1SRW4kHjz0DcjnSfnLHbAs) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 2:09 |
 | 13 | [HENNY](https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [HENNY](https://open.spotify.com/album/1FVSzUegRkpVHSuShyr4Qt) | 2:44 |

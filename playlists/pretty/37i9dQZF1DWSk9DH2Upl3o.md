@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,276 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,286 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Now and Then](https://open.spotify.com/track/60vWJQbZiM54JApQwfwwP8) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Now and Then](https://open.spotify.com/album/3ilbEpyXEoJ8CHadIp6fqP) | 4:02 |
+| 1 | [Luck](https://open.spotify.com/track/2spAzcHCzJ5FW9IoNGcpx6) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Luck](https://open.spotify.com/album/5Jq2dJmhqU17iERQjEIt32) | 4:59 |
 | 2 | [Short Skirt/Long Jacket](https://open.spotify.com/track/1QScMADrwCqpuNyTPmUGzH) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Short Skirt/Long Jacket](https://open.spotify.com/album/4TbGsFL6OrJ4m4nyCmt8TP) | 3:15 |
 | 3 | [Fantasy](https://open.spotify.com/track/6kIOK0wehQcuKux8whAD42) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl), [Here Come The Mummies](https://open.spotify.com/artist/2pXFmyqPm7wHJ1HGAwyR3L) | [Fantasy](https://open.spotify.com/album/0uJrjLgpbXYm1oZuYveQTC) | 4:21 |
 | 4 | [Song For Salma](https://open.spotify.com/track/6jZfmUOykbnKR5WjqalthT) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Song For Salma](https://open.spotify.com/album/5vKmKaoHFSfxwRCdn7kAX6) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `AAAAAEe9Rg2F2+6Bmd6EkC1u38MRYA1o`
+Snapshot ID: `AAAAAHH1RZ6oIZcz5x1eUeJJVwHHegc6`

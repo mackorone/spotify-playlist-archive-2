@@ -134079,6 +134079,28 @@
     },
     {
       "album": {
+        "name": "Yakuza",
+        "url": "https://open.spotify.com/album/3sqPCt9Mt2FJHzpIm9hGdW"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Yakuza",
+      "url": "https://open.spotify.com/track/1FCKLkYcg3blfx5ntvJ4Lw"
+    },
+    {
+      "album": {
         "name": "Yak\u0131yorum Ge\u00e7mi\u015fimi",
         "url": "https://open.spotify.com/album/5OviDt6W0bYdGIy3MBJcvG"
       },

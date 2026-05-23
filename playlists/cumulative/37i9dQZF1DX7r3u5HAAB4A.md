@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: Drake
 
-351 songs - 17 hr 15 min
+352 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Ginger](https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Ginger](https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af) | 2:33 | 2025-07-04 | 2025-07-12 |
 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 | 2026-03-20 |  |
 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 | 2024-08-29 |  |
-| [Good Good](https://open.spotify.com/track/69xsImgaWVgZ4fiCo1rkBf) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Good Good](https://open.spotify.com/album/4L5VT0M3x3erBVmtaFVqDF) | 3:16 | 2026-04-17 |  |
+| [Good Good](https://open.spotify.com/track/69xsImgaWVgZ4fiCo1rkBf) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Good Good](https://open.spotify.com/album/4L5VT0M3x3erBVmtaFVqDF) | 3:16 | 2026-04-17 | 2026-05-23 |
 | [Good Like Jesus](https://open.spotify.com/track/06HHRkb1vkskeKJZq4nNpB) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Good Like Jesus](https://open.spotify.com/album/4rB4Zu1eQrb3MZybj0Uu6a) | 2:40 | 2024-11-08 | 2024-12-07 |
 | [Grimey](https://open.spotify.com/track/7pFPV349uEN6BQ0BxC94im) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Grimey](https://open.spotify.com/album/2Essm8ZknWrj3hHmEf6hjb) | 3:17 | 2025-01-17 | 2025-05-24 |
 | [Guapi](https://open.spotify.com/track/3yNI1o1FqHkiIU62tS31qj) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Guapi](https://open.spotify.com/album/2vEIpqj9zZiX9HNqUQLuv8) | 2:39 | 2025-11-21 | 2026-04-18 |
@@ -251,6 +251,7 @@
 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-04-04 | 2025-06-28 |
 | [Queen of the Dancehall](https://open.spotify.com/track/5CEnoMHORDefHCnsQsgf94) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Mirror 25](https://open.spotify.com/album/7qqyAiQzjvCQiBf8yg9HsG) | 2:36 | 2024-08-29 | 2024-09-14 |
 | [R&B \(feat\. Shenseea & 450\)](https://open.spotify.com/track/5W2NXp5DIYj8Pb99rvKELG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:12 | 2025-04-18 | 2025-07-26 |
+| [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 | 2026-05-22 |  |
 | [Ratatata](https://open.spotify.com/track/3dr4W9loR9Gd8qv6bQ6MfD) | [1Ski OG](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo) | [Ratatata](https://open.spotify.com/album/2QZobmIU3FeNZDMFcuPK9d) | 2:23 | 2025-10-17 | 2025-11-16 |
 | [Ready for the Ride](https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Ready for the Ride](https://open.spotify.com/album/0rSKLa2MWT7QVQLdczMGuk) | 3:27 | 2026-02-27 | 2026-04-18 |
 | [Really Like U](https://open.spotify.com/track/5Ph0B4BDJQM7RipTy75EEk) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Really Like U](https://open.spotify.com/album/61Ueu7TdmorehxJMhRXPFP) | 3:50 | 2024-08-29 |  |

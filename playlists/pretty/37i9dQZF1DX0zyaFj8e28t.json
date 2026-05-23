@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 404968,
+  "num_followers": 405023,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Les inoubliables de Herv\u00e9 Cristiani - Best Of",
-        "url": "https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA"
-      },
-      "artists": [
-        {
-          "name": "Herv\u00e9 Cristiani",
-          "url": "https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Il est libre Max",
-      "url": "https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Pop Satori (2006 Remaster)",
         "url": "https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 261360,
       "name": "Duel au soleil - 2006 Remaster",
       "url": "https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Les inoubliables de Herv\u00e9 Cristiani - Best Of",
+        "url": "https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Cristiani",
+          "url": "https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Il est libre Max",
+      "url": "https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K"
     },
     {
       "added_at": "2026-05-19 09:20:45",

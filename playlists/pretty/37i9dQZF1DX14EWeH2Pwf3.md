@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Tedua aka Ted aka Ryan aka Ryan Ted in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,901 likes - 55 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,848 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 22 | [XXDONO \(feat\. Lazza\)](https://open.spotify.com/track/1vkDKchOzwZM4rXsJTdtGs) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SONO UN GRANDE](https://open.spotify.com/album/3Lp0Pv6BZDcPgiBKjPi0Az) | 3:04 |
 | 23 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
 | 24 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
-| 25 | [Track 3](https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 0:00 |
+| 25 | [Carillon](https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 2:46 |
 | 26 | [RICORDI \(feat\. Geolier\)](https://open.spotify.com/track/0Yro5gpdvHMyaFGlZHYZIH) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:50 |
 | 27 | [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 |
 | 28 | [ARCOBALENO \(feat\. Anuel AA\)](https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:13 |

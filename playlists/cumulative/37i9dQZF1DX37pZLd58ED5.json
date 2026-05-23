@@ -7325,24 +7325,6 @@
     },
     {
       "album": {
-        "name": "Chic Nisello 2",
-        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
-    },
-    {
-      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
       },
@@ -7684,6 +7666,28 @@
       "duration_ms": 166528,
       "name": "Via da qua (feat. Rhove)",
       "url": "https://open.spotify.com/track/53SDtSpjwyoocEp7WDtx0E"
+    },
+    {
+      "album": {
+        "name": "Chic Nisello 2",
+        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
     },
     {
       "album": {

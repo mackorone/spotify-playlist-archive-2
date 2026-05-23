@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Pluck D, TheJovemJota, Lenco
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,005 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,001 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Evil](https://open.spotify.com/track/20pzteRHEMzVfaNfItDcta) | [Lamar](https://open.spotify.com/artist/7nhonYMPyCNw05h1NBAuLx), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Evil](https://open.spotify.com/album/6AU8jYEc5Q31wApFiFZArH) | 2:36 |
 | 75 | [SABOR TRAP](https://open.spotify.com/track/37p3zjEaoKlmoMPHdIwPYP) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [SABOR TRAP](https://open.spotify.com/album/7HymlkDKnqKG3acOpY9zz4) | 2:49 |
 
-Snapshot ID: `AAAAAEYpaNqfMVomXOwN7UV7ZP8X9EZZ`
+Snapshot ID: `AAAAAJSlvizm9eS1M/Vkyzh45Ryed2Au`

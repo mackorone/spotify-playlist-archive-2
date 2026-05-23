@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Hildah Watiri",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: We are Nubia & Xenia Manasseh",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 216561,
       "name": "Available",
       "url": "https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt"
@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Longo Longo",
+        "url": "https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm"
+      },
+      "artists": [
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Longo Longo",
+      "url": "https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn"
+    },
+    {
+      "album": {
         "name": "M.O.T.O",
         "url": "https://open.spotify.com/album/1z3vDn9mlXrNfJgXeXIdwb"
       },
@@ -1949,6 +1971,32 @@
     },
     {
       "album": {
+        "name": "Mjiekee",
+        "url": "https://open.spotify.com/album/6nnibv2Nq4eo83Wa5mCbrJ"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Mjiekee",
+      "url": "https://open.spotify.com/track/3I7h52OZb7eokVCFoWBGFp"
+    },
+    {
+      "album": {
         "name": "MONEY OVER LOVE",
         "url": "https://open.spotify.com/album/1b91cls5Jm2s4naoWKtMKp"
       },
@@ -2140,6 +2188,28 @@
       "duration_ms": 181395,
       "name": "Nasinzia II",
       "url": "https://open.spotify.com/track/1nm8oLMHs19tqKU9QoeSPM"
+    },
+    {
+      "album": {
+        "name": "Nataka",
+        "url": "https://open.spotify.com/album/2FPgNbV0eftA74o1ZJryhN"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        },
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199242,
+      "name": "Nataka",
+      "url": "https://open.spotify.com/track/57vwMMVn3yZxqQQTJcZZYu"
     },
     {
       "album": {
@@ -2941,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Shika Shika",
+        "url": "https://open.spotify.com/album/07BqesCEIbC6SN4fAIt9aJ"
+      },
+      "artists": [
+        {
+          "name": "Savinnah",
+          "url": "https://open.spotify.com/artist/3cd1tAs8P9mpjE4e4kBbQb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144672,
+      "name": "Shika Shika",
+      "url": "https://open.spotify.com/track/51rVXtE39Uz0vXFnJsaQwc"
+    },
+    {
+      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
       },
@@ -3252,7 +3340,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 132765,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3gTgsjVGiBb0TvNg01lU4P"
@@ -3288,7 +3376,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 142210,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/3sHSigMkhROnRI1Q8kxRTU"
@@ -3514,7 +3602,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175714,
       "name": "Umenibamba",
       "url": "https://open.spotify.com/track/2EQCYkxZYcQjDyuBIii7EN"
@@ -3770,7 +3858,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 164318,
       "name": "We Don't Need Money to Be Rich",
       "url": "https://open.spotify.com/track/7vePbKLSXCGiz8Mx82PNs0"
@@ -3906,6 +3994,24 @@
       "duration_ms": 225333,
       "name": "Za Mabuda",
       "url": "https://open.spotify.com/track/6OPKqbBsS6C0zyaotWUJzg"
+    },
+    {
+      "album": {
+        "name": "Zuzu (Kompa Edit)",
+        "url": "https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Zuzu (Kompa Edit)",
+      "url": "https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP"

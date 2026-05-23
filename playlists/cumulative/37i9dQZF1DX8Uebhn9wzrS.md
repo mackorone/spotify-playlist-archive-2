@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,502 songs - 3 day 23 hr 14 min
+2,503 songs - 3 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2455,6 +2455,7 @@
 | [Why, Yes My Good Sir](https://open.spotify.com/track/1D5NGDRg9CFCIm6WXgjtd8) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [GROOVE!](https://open.spotify.com/album/3I9rHSvSEZ782noOlXTJZG) | 1:43 | 2022-04-15 | 2023-08-18 |
 | [Wiggy joe](https://open.spotify.com/track/206c8AjWo0t21vS4YkvKuT) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Wiggy joe](https://open.spotify.com/album/2wM4Pd3us7eIBJxtHfQAO2) | 2:08 | 2025-01-17 | 2025-11-26 |
 | [Wilderness](https://open.spotify.com/track/7t2DFNrwmYM3mDGn6LlQJp) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49) | [Wilderness](https://open.spotify.com/album/5sG6hkrHjTRFVKZO4KMIs1) | 2:17 | 2022-08-19 | 2022-12-17 |
+| [Willow](https://open.spotify.com/track/3MZmaGfOVkw0tWW6ubYI1E) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Willow](https://open.spotify.com/album/4H3PxXlJr1KOlaj90u9bx1) | 2:33 | 2026-05-22 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-06-10 |
 | [wind chimes](https://open.spotify.com/track/4ZerYi8XUvfDttgjHunuvf) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [wind chimes](https://open.spotify.com/album/2yVAYaHuL9Ta5WWiDFP1Ec) | 2:15 | 2025-07-11 |  |
 | [Windmills](https://open.spotify.com/track/2f4mTu5Y6I3wVApqhy5wbV) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Windmills](https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl) | 1:58 | 2022-04-15 | 2022-08-12 |
@@ -2492,7 +2493,7 @@
 | [Yellow Cab Conversations](https://open.spotify.com/track/1lBL6xxGxERtu699sTR54u) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Yellow Cab Conversations](https://open.spotify.com/album/6M0eFWazhJIkTw2gUE1sHF) | 3:29 | 2022-12-23 | 2025-07-11 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Yesterday's Tomorrow](https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa) | 2:20 | 2023-09-22 | 2025-11-26 |
 | [Yesterdays](https://open.spotify.com/track/2lJPaHVoe2GIBPu2ww3x01) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [City Lights](https://open.spotify.com/album/3i29Rz5lAlqjjq3txARRRi) | 2:09 | 2022-04-15 | 2022-10-14 |
-| [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
+| [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 | 2026-05-23 |
 | [Yolofi](https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S) | [Digga Mindz](https://open.spotify.com/artist/3Lv7ncqaGnKo3E1z81unqU) | [Yolofi](https://open.spotify.com/album/0KAzECmokbzDwfQCYidVPk) | 2:06 | 2022-04-15 | 2022-05-27 |
 | [Yorkshire](https://open.spotify.com/track/3wVhElU6kT7unhanN3TtYF) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Yorkshire](https://open.spotify.com/album/35i2jflWfu8pX3TfOave87) | 1:55 | 2025-02-28 | 2025-04-19 |
 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 | 2022-08-12 | 2025-07-11 |

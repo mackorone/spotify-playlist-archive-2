@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Natasya Sabella
 
-3,013 songs - 7 day 6 hr 27 min
+3,015 songs - 7 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2695,6 +2695,7 @@
 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-27 | 2025-03-28 |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-13 | 2025-07-18 |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 | 2024-06-14 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2026-01-15 |
 | [The Day After You Said Goodbye](https://open.spotify.com/track/0037eQ5YPvX3aHBrLGVmB9) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [The Day After You Said Goodbye](https://open.spotify.com/album/5TP1Cq3t085WiwLzGg5o3l) | 3:37 | 2024-01-18 | 2024-01-26 |
 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-14 | 2025-12-05 |
@@ -2975,6 +2976,7 @@
 | [Yang Kutakuti](https://open.spotify.com/track/4vwzUbemA5HWtNj3ID3dC3) | [BAALE](https://open.spotify.com/artist/62CEo98IwJIKhJ9fQ4Emta) | [Yang Kutakuti](https://open.spotify.com/album/3vfr7AhB7K1auBLyqXTUo1) | 3:03 | 2025-08-08 | 2025-08-29 |
 | [Yang Salah](https://open.spotify.com/track/7mW9Rerft64G9WACKralWU) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Yang Salah](https://open.spotify.com/album/6C3zxCC6BbR9pPdUDsEWAT) | 3:49 | 2024-05-30 | 2024-06-07 |
 | [Yang Tertulis \- From "Akad Yang Hilang"](https://open.spotify.com/track/1fvqcHQmMQAWJ4FS5oXx0T) | [Dinda Dania](https://open.spotify.com/artist/6zA8TCZT3O5MRvbyh50kxo) | [Yang Tertulis \(From "Akad Yang Hilang"\)](https://open.spotify.com/album/0tegVzr36bicERLoxRPQ9r) | 3:53 | 2026-01-15 | 2026-04-03 |
+| [YANK DIGOYANG!](https://open.spotify.com/track/2NJGklrqmp4VKJTR0Bg5yB) | [toxicdev!](https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev) | [OH THIS IS "HOUSE MUSIC"?](https://open.spotify.com/album/737fYSAIjTNgqJVvXLb9Vn) | 3:37 | 2026-05-22 |  |
 | [Yank..\. \(Bersama Basboi\)](https://open.spotify.com/track/23vd8ot3ljRzJlnzww1TtU) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Yank..\. \(Bersama Basboi\)](https://open.spotify.com/album/2s2OmSP51Z7Ika0nnIQng1) | 3:34 | 2026-03-27 | 2026-04-24 |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 | 2024-04-19 |
 | [Yatim](https://open.spotify.com/track/4sqCvHIBWofULOhDr78XCX) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Omnivora](https://open.spotify.com/artist/7ukcn8ST1mQ3ULIMRfoBlQ) | [Yatim](https://open.spotify.com/album/2HyzEOr9rcmeahvVFTfjPv) | 5:06 | 2025-02-27 | 2025-03-22 |

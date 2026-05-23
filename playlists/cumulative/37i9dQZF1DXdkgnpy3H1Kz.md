@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-1,083 songs - 3 day 22 hr 21 min
+1,084 songs - 3 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [In Cold Water](https://open.spotify.com/track/3KWgfzQxARbQOIaykBoTpX) | [Hante.](https://open.spotify.com/artist/5PhSiNjHZevtfAj9zmvVkU) | [This Fog That Never Ends](https://open.spotify.com/album/1RUEWkyvpzuJao8caTPaIy) | 4:25 | 2022-12-03 | 2023-02-11 |
 | [In Death It Ends](https://open.spotify.com/track/4pJpOgo6ynhIlOxUYDtAYd) | [adak](https://open.spotify.com/artist/3Re5yg7TIY9L6IBLNwwOj2) | [In Death It Ends](https://open.spotify.com/album/77OZ4JwKx0lwgKizaNszVX) | 5:30 | 2025-01-10 | 2025-05-10 |
 | [In Eternity](https://open.spotify.com/track/5p7mqvfxsEtC2cpf3VWCNc) | [Linn Elisabet](https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP), [Stina Francina](https://open.spotify.com/artist/7u3hkUd6I6zTYAcADON0BK) | [Secrets EP](https://open.spotify.com/album/3u8ztFsOmcYx1vBwj9DorT) | 5:26 | 2024-05-10 | 2024-10-05 |
-| [In Music I Trust](https://open.spotify.com/track/4uAlIo0E62ySyKOvJqCoNS) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Auraa](https://open.spotify.com/album/7sm3zuZvJzilOotl9TXLic) | 4:36 | 2026-04-07 |  |
+| [In Music I Trust](https://open.spotify.com/track/4uAlIo0E62ySyKOvJqCoNS) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Auraa](https://open.spotify.com/album/7sm3zuZvJzilOotl9TXLic) | 4:36 | 2026-04-07 | 2026-05-23 |
 | [In Negative](https://open.spotify.com/track/29Up9rALAFSpfx71RRYLgy) | [Endlec](https://open.spotify.com/artist/2hmhdVW7jKsHtxp0vrTkkA) | [Eternal](https://open.spotify.com/album/2eyzdMMJ2TWBq0l6O8lKcD) | 5:43 | 2025-07-18 | 2025-10-25 |
 | [In the Dark of Night](https://open.spotify.com/track/5ayPtwXERm0fCqny2CVelt) | [Adam X](https://open.spotify.com/artist/4puKiwP3DNIzEaxPCheUbj) | [Creative Vandalism \(Re\-Issue\)](https://open.spotify.com/album/6APOGVrlSNAinUI86NyCX9) | 6:23 | 2024-03-13 | 2024-04-13 |
 | [In The End](https://open.spotify.com/track/24jlIAagLVIhD1hM0Rmgrz) | [Obstructor](https://open.spotify.com/artist/5suUzo3By6I3aPI1YLIzJ8) | [In The End EP \(incl\. Nørbak Remix\)](https://open.spotify.com/album/3BTiKgiGWIpSOyvvzUenwo) | 6:09 | 2025-04-04 | 2025-05-10 |
@@ -878,6 +878,7 @@
 | [Stay Like This](https://open.spotify.com/track/3BtQonhyEHVJvUgVBZd7hz) | [KUSS](https://open.spotify.com/artist/0NsnEUL9qY2SpkmrZipI7a) | [Stay Like This](https://open.spotify.com/album/1mweld3iCMMVflOVXwF3gZ) | 4:38 | 2025-04-04 | 2025-10-25 |
 | [Steady](https://open.spotify.com/track/5AYRYWxy5SI5Pr0gcWX4PZ) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Steady](https://open.spotify.com/album/15D16C7xOZCxs0YZrLyuWg) | 4:48 | 2024-03-13 | 2024-04-13 |
 | [Steep](https://open.spotify.com/track/2Riu3orGTj9vKXdM61KNhB) | [Holden Federico](https://open.spotify.com/artist/6Ifp3vvfgBvT85i5GvAg0u) | [Dust](https://open.spotify.com/album/4X5z6xBe6a9rRYGJnvhpUt) | 6:39 | 2024-05-17 | 2024-07-16 |
+| [Steh Auf](https://open.spotify.com/track/7x2LZ36JN2mGoM6JOq74fO) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Steh Auf](https://open.spotify.com/album/6EoAQqxgIvCCEs7lXwV7F3) | 3:15 | 2026-05-22 |  |
 | [Stimulation](https://open.spotify.com/track/1UKtwkT1i5ahiW3HZWReZo) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 5:42 | 2023-03-17 | 2023-04-15 |
 | [Stone Rinse](https://open.spotify.com/track/40arn1BuB2OXBdvHxyJukx) | [Erik Jabari](https://open.spotify.com/artist/20ArEUQggCIXqz2lO2Odt0) | [Soft Spikes](https://open.spotify.com/album/7CbQh4FLfL7vklfP0kdJSU) | 5:58 | 2024-12-13 | 2025-01-11 |
 | [stop being deep](https://open.spotify.com/track/3w1NqcZAriiv47w3DXfMVT) | [xupid](https://open.spotify.com/artist/1k15LyQDa0zJQEWYnP69Rz) | [xenolith v2.0](https://open.spotify.com/album/5TSzXeu84Qfunp221lHhnF) | 7:13 | 2023-02-10 | 2023-03-18 |

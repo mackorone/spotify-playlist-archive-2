@@ -12385,6 +12385,32 @@
     },
     {
       "album": {
+        "name": "VOLCAN",
+        "url": "https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154857,
+      "name": "M\u00c8TRE CARR\u00c9",
+      "url": "https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9 Kow",
         "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
       },
@@ -18432,24 +18458,6 @@
       "duration_ms": 155064,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq"
-    },
-    {
-      "album": {
-        "name": "VOLCAN",
-        "url": "https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4"
-      },
-      "artists": [
-        {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK"
     },
     {
       "album": {

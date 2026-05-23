@@ -1,13 +1,77 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Kevin Morby",
-  "num_followers": 166938,
+  "description": "A laid-back trip in the folk scene. Cover: Le Ren",
+  "num_followers": 166932,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGt5D3uFzrzQrlY0IqpZMUW6zk1a",
+  "snapshot_id": "AAAAANu3g+kfdnBK7mo768Mrg1waMKjR",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "duration_ms": 222221,
+      "name": "Who Do You Wanna Be",
+      "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+    },
     {
       "added_at": "2026-05-15 04:03:16",
       "album": {
@@ -25,6 +89,42 @@
       "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
     },
     {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Sea to the Moon",
+        "url": "https://open.spotify.com/album/1gEAi1OTC5hPLhZbvNn3TA"
+      },
+      "artists": [
+        {
+          "name": "Mia Kelly",
+          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
+        },
+        {
+          "name": "Blair Dunlop",
+          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
+        }
+      ],
+      "duration_ms": 214274,
+      "name": "Sea to the Moon",
+      "url": "https://open.spotify.com/track/2H2FUa45oMvBbouDGubfq8"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "As I Was",
+        "url": "https://open.spotify.com/album/07EaJNBPpgbmeC2N0nzi97"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 187478,
+      "name": "As I Was",
+      "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
+    },
+    {
       "added_at": "2026-05-15 04:03:16",
       "album": {
         "name": "Face The Feeling",
@@ -39,6 +139,106 @@
       "duration_ms": 256755,
       "name": "A Little at a Time",
       "url": "https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Rabbits",
+        "url": "https://open.spotify.com/album/0hbpIIHxUA6oCIi4pEgDuC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Rabbits",
+      "url": "https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Where Do You Want To Be?",
+        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Where Do You Want To Be?",
+      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Chewing On The Rind",
+        "url": "https://open.spotify.com/album/1vdcz31wKOcndAyRDFrwQw"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "duration_ms": 196661,
+      "name": "Chewing On The Rind",
+      "url": "https://open.spotify.com/track/5qs5PqqKmUdVE4QvNFiLfK"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Calls Me Mine",
+        "url": "https://open.spotify.com/album/5VM7zUXsGLk9nnnFOvcM2h"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "duration_ms": 138227,
+      "name": "Calls Me Mine",
+      "url": "https://open.spotify.com/track/2RkA9CsLZxFTjwfbb9kJw5"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Character Traits Deluxe",
+        "url": "https://open.spotify.com/album/4RYcWdYrsnDSlPKJjtgOmy"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        },
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 190587,
+      "name": "Up From Here",
+      "url": "https://open.spotify.com/track/3Lf8Szyqy78a9FFa6NMirL"
     },
     {
       "added_at": "2026-05-15 04:03:16",
@@ -2323,202 +2523,6 @@
       "duration_ms": 188988,
       "name": "Best of Our Possible Lives",
       "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
-      "added_at": "2026-02-13 05:01:21",
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 225017,
-      "name": "Javelin",
-      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
-    },
-    {
-      "added_at": "2026-02-13 13:40:13",
-      "album": {
-        "name": "Somewhere down in Georgia",
-        "url": "https://open.spotify.com/album/6oqU4dtT2mOAw9FMrqJUCu"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 177702,
-      "name": "Somewhere down in Georgia",
-      "url": "https://open.spotify.com/track/6sPBl3XK5xx1dLWmUmD5SY"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7EFRZB2ih19Af7Y8Au1N81"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 253575,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6kBwPPG1Vdhh3mnApOk1XA"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Living With It",
-        "url": "https://open.spotify.com/album/4LUtFFdFmvzCbNpu7e4Mka"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cornfield",
-          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 200367,
-      "name": "Living With It",
-      "url": "https://open.spotify.com/track/1QBGCMSazaEBciECTDYIUr"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Don't Fret",
-        "url": "https://open.spotify.com/album/7m1wE3742PUKaLk440vpSB"
-      },
-      "artists": [
-        {
-          "name": "Slow Leaves",
-          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
-        }
-      ],
-      "duration_ms": 258384,
-      "name": "Don't Fret",
-      "url": "https://open.spotify.com/track/4qmninG31y5XGkkxX3UgIA"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Everyone Around Me Dancing",
-        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "Everyone Around Me Dancing",
-      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Never Not",
-        "url": "https://open.spotify.com/album/6AriL7MQubZ4yGAVHflQnu"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Never Not",
-      "url": "https://open.spotify.com/track/2X5dAgIlovQnGKliRhl2hb"
-    },
-    {
-      "added_at": "2026-01-30 05:01:54",
-      "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-01-30 05:01:54",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 214825,
-      "name": "Define You",
-      "url": "https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md"
-    },
-    {
-      "added_at": "2026-01-30 05:01:54",
-      "album": {
-        "name": "The Hunt in Edson",
-        "url": "https://open.spotify.com/album/3lhCRHe62kJsXiUw0YQOu9"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "The Hunt in Edson",
-      "url": "https://open.spotify.com/track/23lVXWQIiQh87hWExCoDCX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:27",
-      "album": {
-        "name": "I Talk About You",
-        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "I Talk About You",
-      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     }
   ],
   "unique_name": "Folk & Friends",

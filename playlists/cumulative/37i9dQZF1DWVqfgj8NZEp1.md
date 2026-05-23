@@ -4,12 +4,12 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-357 songs - 1 day 8 hr 8 min
+358 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [>>>>>>Becoming](https://open.spotify.com/track/07BmM24UshepfB2PeBxu7Y) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [A Wall Becomes A Bridge](https://open.spotify.com/album/6x36FYMhcxlEjJB97ikwA3) | 4:52 | 2020-10-09 | 2023-06-15 |
-| [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 | 2023-04-20 |  |
+| [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 | 2023-04-20 | 2026-05-23 |
 | [A Child Not Yet Born](https://open.spotify.com/track/1oK3iRgQrsfVjPPCRf9KoG) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Boris Kozlov](https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5), [Joe Strasser](https://open.spotify.com/artist/2pAeDu7ejJdbpsxwJm1nhE), [Brandon Wright](https://open.spotify.com/artist/5mqnoc3ceU0OebStAoldPL) | [Feel the Love](https://open.spotify.com/album/5B12r1hEUg8WiJN3GYdFTS) | 5:13 | 2021-10-15 | 2025-03-15 |
 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 | 2022-10-06 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2020-10-09 |  |
@@ -110,6 +110,7 @@
 | [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 | 2022-05-12 | 2023-05-24 |
 | [Fair Weather](https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Fair Weather](https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd) | 4:44 | 2025-01-10 |  |
 | [Fallen \- Jazzed](https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O) | [Fallen \(Jazzed\)](https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l) | 4:24 | 2022-01-07 | 2022-08-17 |
+| [Falling Leaves](https://open.spotify.com/track/4xMuBuO98eVLJqj8CTuHjB) | [Max Merseny](https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Falling Leaves](https://open.spotify.com/album/3drz6BTTYRXLpT6HvrP8Sv) | 2:12 | 2026-05-22 |  |
 | [Far Away](https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Far Away](https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7) | 7:13 | 2020-12-04 | 2022-12-21 |
 | [Fatamorgana](https://open.spotify.com/track/5wsvrblb3ooRyJQol7A2tN) | [Rasmus Holm Quartet](https://open.spotify.com/artist/6Uipo5JiSrwG7oeHHE1E3Q) | [FATAMORGANA](https://open.spotify.com/album/2pK0HHq3Rc7WHfjNelmvTD) | 4:32 | 2021-06-18 | 2023-10-11 |
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-08 |  |

@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156446,
       "name": "Minimize",
       "url": "https://open.spotify.com/track/4SbrFeLfIYHgBiFvBEndBp"
@@ -2846,6 +2846,24 @@
       "duration_ms": 113874,
       "name": "morningtime",
       "url": "https://open.spotify.com/track/1Er4VMo96PxQ6XWb75PBki"
+    },
+    {
+      "album": {
+        "name": "Moulding",
+        "url": "https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Moulding",
+      "url": "https://open.spotify.com/track/4VdkE87ZahjkBxDxzlHelB"
     },
     {
       "album": {
@@ -3692,6 +3710,24 @@
       "duration_ms": 190000,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko"
+    },
+    {
+      "album": {
+        "name": "River Lea",
+        "url": "https://open.spotify.com/album/1KBUxCk8jmiHAWSMGyEYxj"
+      },
+      "artists": [
+        {
+          "name": "Lavona",
+          "url": "https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149569,
+      "name": "River Lea",
+      "url": "https://open.spotify.com/track/38BJ9avnbwbACSAxRKdnhK"
     },
     {
       "album": {

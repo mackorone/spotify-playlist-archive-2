@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
+> The very best of Punjabi romance featuring Sukha & Tanu Grewal
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,905 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,987 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 |
+| 1 | [WANG](https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:22 |
 | 2 | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/416V9hPUHyM30URol93F8M) | 4:03 |
 | 3 | [Your Thoughts](https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U) | [Nav Singh](https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z), [Arjan Gill](https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy) | [Your Thoughts](https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8) | 3:02 |
 | 4 | [FIRST LOVE](https://open.spotify.com/track/0i4m3NaYFt8MCLid2PRgRx) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd) | [MOODBOARD](https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 | 100 | [Tere Layi](https://open.spotify.com/track/58rlJQKF6RyDfkAxiCqVEO) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Tere Layi](https://open.spotify.com/album/3FMJraUH21tY0jTbNdlHP9) | 6:40 |
 
-Snapshot ID: `AAAAAIhnwIqnn5IJLohN2WNw2LKIe3CL`
+Snapshot ID: `AAAAAFvpU8xM+F+yFJ/2u0tei2oewsfE`

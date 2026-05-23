@@ -21907,24 +21907,6 @@
     },
     {
       "album": {
-        "name": "Chic Nisello 2",
-        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
-    },
-    {
-      "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
       },
@@ -22778,6 +22760,28 @@
       "duration_ms": 130615,
       "name": "Via dei Mille",
       "url": "https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn"
+    },
+    {
+      "album": {
+        "name": "Chic Nisello 2",
+        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
     },
     {
       "album": {

@@ -1,13 +1,301 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Shakey Graves",
-  "num_followers": 875226,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sarah Julia",
+  "num_followers": 875697,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZNBbWPkMO+wWNNojhz9Hwqwmt2",
+  "snapshot_id": "AAAAANFIixIYB+7VrNqDwpIjfWqxI2Dp",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "As I Was",
+        "url": "https://open.spotify.com/album/07EaJNBPpgbmeC2N0nzi97"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 187478,
+      "name": "As I Was",
+      "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Masks Off",
+        "url": "https://open.spotify.com/album/2UPRZN5yCe0o7xQZ7teXEz"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 204559,
+      "name": "Masks Off",
+      "url": "https://open.spotify.com/track/6KAPMJ5hQTPtOFkagbb7Z7"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Love Is Overtaking Me (Redux)",
+        "url": "https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN"
+      },
+      "artists": [
+        {
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+        }
+      ],
+      "duration_ms": 331130,
+      "name": "Apple to the Orange",
+      "url": "https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Rites Of Spring",
+        "url": "https://open.spotify.com/album/4fUg02GfgTiJPEcE1A3kO0"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/2qyznQN0mLjsQsPQX3USHJ"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/5cBjdcpW07cLLQxoeVMVZ0"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/2SkwNeTapLdCHh7jSnAQSz"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Light You Up",
+        "url": "https://open.spotify.com/album/40pp3uJVipDn2CEbAApfDl"
+      },
+      "artists": [
+        {
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+        },
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        }
+      ],
+      "duration_ms": 217953,
+      "name": "Light You Up",
+      "url": "https://open.spotify.com/track/0Qt9kAwwqqJy1rRCGmAy9U"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Whale Songz, Vol. 2",
+        "url": "https://open.spotify.com/album/0z93f8tXR2tAll0mfyTqDT"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        },
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+        },
+        {
+          "name": "Whale Songz",
+          "url": "https://open.spotify.com/artist/1wIfqgWfK5i7riRt4W55Df"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Cast Iron",
+      "url": "https://open.spotify.com/track/6XB41gwtS5ZOOFvI168wgD"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Franklin",
+        "url": "https://open.spotify.com/album/6BOCRbGRatfJBxNheHWSSu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 191619,
+      "name": "Franklin",
+      "url": "https://open.spotify.com/track/4PBYnFnnCG8iRHXpMicpiH"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Where Do You Want To Be?",
+        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Where Do You Want To Be?",
+      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Just My Friend",
+        "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Just My Friend",
+      "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:31",
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "duration_ms": 222221,
+      "name": "Who Do You Wanna Be",
+      "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
+    },
     {
       "added_at": "2026-05-15 04:01:56",
       "album": {
@@ -2355,198 +2643,6 @@
       "duration_ms": 210000,
       "name": "cowboy cologne",
       "url": "https://open.spotify.com/track/4DNSzh4zhyJPQ5qsp7INPj"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "I'll Go Home From Here",
-        "url": "https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "I'll Go Home From Here",
-      "url": "https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "I Once Was an Ocean",
-        "url": "https://open.spotify.com/album/048IgUcIFVUNbfIR79N1CM"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 314366,
-      "name": "I Once Was an Ocean",
-      "url": "https://open.spotify.com/track/6FLkYfDEYULha4y3YHZaH1"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "In My Own Time",
-        "url": "https://open.spotify.com/album/2C3Lsqxlaw1KNQL7eeIdwp"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "In My Own Time",
-      "url": "https://open.spotify.com/track/045O6kPuw1wMGpvLI6stzn"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 321431,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/33wEfMAeQatCfZ77VgYj4T"
-      },
-      "artists": [
-        {
-          "name": "Sluice",
-          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
-        }
-      ],
-      "duration_ms": 212943,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/3YQ3oBkCkDeRiKhf11mCYQ"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "House of Mirrors",
-        "url": "https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "House of Mirrors",
-      "url": "https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "Headlamp",
-        "url": "https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F"
-      },
-      "artists": [
-        {
-          "name": "Ivy Knight",
-          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Headlamp",
-      "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "like peace",
-        "url": "https://open.spotify.com/album/1Xq56F1nUy3VMtJubGpYme"
-      },
-      "artists": [
-        {
-          "name": "Daniel Nunnelee",
-          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
-        }
-      ],
-      "duration_ms": 256088,
-      "name": "like peace",
-      "url": "https://open.spotify.com/track/7HHWKlBUV0FK2esc79Juqq"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "blackout",
-        "url": "https://open.spotify.com/album/3gRu77mh76AtUG8xH6HWL8"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        }
-      ],
-      "duration_ms": 173009,
-      "name": "blackout",
-      "url": "https://open.spotify.com/track/6mY1s0I7DLrZGfkNnKHPbx"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "Roll On Thru",
-        "url": "https://open.spotify.com/album/1NWh2rL03LEQ6rGuRmwXYC"
-      },
-      "artists": [
-        {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
-        }
-      ],
-      "duration_ms": 231971,
-      "name": "Roll On Thru",
-      "url": "https://open.spotify.com/track/2QGoteSfbn6zzWOrWUeQjw"
-    },
-    {
-      "added_at": "2026-05-08 13:04:53",
-      "album": {
-        "name": "If It Ain't You",
-        "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
-      },
-      "artists": [
-        {
-          "name": "Marfa",
-          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "If It Ain't You",
-      "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
     }
   ],
   "unique_name": "Fresh Folk",

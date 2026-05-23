@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,233 songs - 2 day 20 hr 35 min
+1,234 songs - 2 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,6 +1002,7 @@
 | [Starchild](https://open.spotify.com/track/0Tc7wokiNSXzOkaQrakz57) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Starchild](https://open.spotify.com/album/6o9JVjW0gznZ4Dzd34pbLZ) | 3:44 | 2025-01-30 | 2025-05-01 |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 | 2022-10-19 |
 | [started over](https://open.spotify.com/track/6kQZXVO8AoN5KBh1QcJesG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:41 | 2025-11-13 | 2026-02-19 |
+| [Stay](https://open.spotify.com/track/18StJiwbTUOylOsh8J2nBt) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay](https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik) | 2:52 | 2026-05-22 |  |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
 | [Stay Focused](https://open.spotify.com/track/4XJflZeNOUAIhm09BSEsJu) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Stay Focused](https://open.spotify.com/album/52TpkDuLJnr60jik1BSeOb) | 3:47 | 2025-07-25 | 2025-10-24 |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-11 | 2024-01-26 |

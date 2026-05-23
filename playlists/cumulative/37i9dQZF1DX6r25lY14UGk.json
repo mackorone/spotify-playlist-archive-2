@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Blippi & Yellowcard",
+  "description": "New releases for the kids. Cover: Laurie Berkner & MC Grammar",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 157909,
       "name": "A is for Adventure",
       "url": "https://open.spotify.com/track/20IZcXj4sKrtuUaTnwKi9w"
+    },
+    {
+      "album": {
+        "name": "A Pup Like Me",
+        "url": "https://open.spotify.com/album/47zv556Z5jDezCi2O6NWZN"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38240,
+      "name": "A Pup Like Me",
+      "url": "https://open.spotify.com/track/5rXYiX6mtRH1sKe0NuIvWs"
     },
     {
       "album": {
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 145250,
       "name": "Bananaphone",
       "url": "https://open.spotify.com/track/1Fh2PROW4TNdcopM8Q3n8M"
@@ -1824,7 +1846,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198457,
       "name": "Big Baby Go Boom",
       "url": "https://open.spotify.com/track/50yETw5lScuoGZSTEyefv1"
@@ -3077,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Choose To Be Kind",
+        "url": "https://open.spotify.com/album/4JK6sXObBfgZ0HmzLWRbCa"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        },
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156612,
+      "name": "Choose To Be Kind",
+      "url": "https://open.spotify.com/track/1FZUCbQEkO9jqbcrqeTHXZ"
+    },
+    {
+      "album": {
         "name": "Mickey and the Very Many Christmases (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L"
       },
@@ -3918,7 +3962,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 84360,
       "name": "Dance Party (From Elmo's World: Dance Party!)",
       "url": "https://open.spotify.com/track/3s7S90hKK1bdKPHycWIaHd"
@@ -4084,7 +4128,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 191196,
       "name": "Diamonds (Peppa's Version)",
       "url": "https://open.spotify.com/track/36PSXTGz1YtzRRCGt8tgpd"
@@ -5702,6 +5746,24 @@
       "duration_ms": 95948,
       "name": "Fireman Sam Theme Song",
       "url": "https://open.spotify.com/track/0kJ1JsR0QWNXddEsCqzSs4"
+    },
+    {
+      "album": {
+        "name": "Five Little Ducks",
+        "url": "https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149223,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU"
     },
     {
       "album": {
@@ -8805,6 +8867,24 @@
     },
     {
       "album": {
+        "name": "I Love Eating Vegetables",
+        "url": "https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122827,
+      "name": "I Love Eating Vegetables",
+      "url": "https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19"
+    },
+    {
+      "album": {
         "name": "I Love My Bed",
         "url": "https://open.spotify.com/album/1vNZnkX0b5BcXpQbWyOm1L"
       },
@@ -8870,7 +8950,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 131784,
       "name": "I Love My Pet",
       "url": "https://open.spotify.com/track/0F8f1rbVwFPo16GG9APmqj"
@@ -9292,6 +9372,24 @@
       "duration_ms": 123800,
       "name": "I've Got You",
       "url": "https://open.spotify.com/track/0j9oLqBINAOh82kdylXILK"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (One More Scoop)",
+        "url": "https://open.spotify.com/album/4w9eQRCkshZ0sj6wQANBMf"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142880,
+      "name": "Ice Cream (One More Scoop)",
+      "url": "https://open.spotify.com/track/6Nn6iskRFVZQtIYx8UHyPk"
     },
     {
       "album": {
@@ -11278,7 +11376,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 127302,
       "name": "Living With Liberty - Skye's Music Party",
       "url": "https://open.spotify.com/track/1XgXjUS4bFzdSWZFt8vl2A"
@@ -15448,7 +15546,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 122920,
       "name": "Shape Safari Train Ride",
       "url": "https://open.spotify.com/track/2mMpiuAq9yyknR5QaBfmZo"
@@ -15793,6 +15891,24 @@
     },
     {
       "album": {
+        "name": "Sing-A-Song of Colours",
+        "url": "https://open.spotify.com/album/6cyqvWOci6FbcKY65GJ881"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118208,
+      "name": "Sing-A-Song of Colours",
+      "url": "https://open.spotify.com/track/6WLLudNDuuAe3r9CNrV1U0"
+    },
+    {
+      "album": {
         "name": "Singalong",
         "url": "https://open.spotify.com/album/0K3pspJhMgEYP7HgXQaisq"
       },
@@ -15880,7 +15996,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 141153,
       "name": "Skidamarink",
       "url": "https://open.spotify.com/track/7cDekGSiU1Ms6jbUksFSwG"
@@ -16787,6 +16903,24 @@
     },
     {
       "album": {
+        "name": "Summer Starts Now",
+        "url": "https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137153,
+      "name": "Summer Starts Now",
+      "url": "https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP"
+    },
+    {
+      "album": {
         "name": "Summer's at the Door",
         "url": "https://open.spotify.com/album/2JpJHIwwmgLQT5Fr7ZUUfv"
       },
@@ -17256,7 +17390,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 115440,
       "name": "Thank You Is Enough",
       "url": "https://open.spotify.com/track/2Sd40M08Vr9QKOIZ14usFt"
@@ -18933,6 +19067,28 @@
     },
     {
       "album": {
+        "name": "Thomas & Percy Learn About Colours",
+        "url": "https://open.spotify.com/album/3czV1vee11oyTUxp6VUxSb"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135648,
+      "name": "Thomas & Percy Learn About Colours",
+      "url": "https://open.spotify.com/track/0WRB7ZOplKZJ6YCrrUPMIm"
+    },
+    {
+      "album": {
         "name": "Thread of Hope (in aid of BBC Children In Need)",
         "url": "https://open.spotify.com/album/7Epwa8teYhcdGEp6IY1fCP"
       },
@@ -19572,6 +19728,28 @@
       "duration_ms": 165163,
       "name": "Until We Meet Again",
       "url": "https://open.spotify.com/track/33FDL5RB2mDnVnSCOAuUWG"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/5rynVdl1J02sgADT4JWAFk"
+      },
+      "artists": [
+        {
+          "name": "Emmie's Wonder Wardrobe",
+          "url": "https://open.spotify.com/artist/1qIM7v8YWqonfMc9y63Twg"
+        },
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/7c3bHjqsM6oqErC67gNz1U"
     },
     {
       "album": {

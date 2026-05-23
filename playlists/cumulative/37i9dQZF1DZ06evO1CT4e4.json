@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 614333,
       "name": "Fratres (Version for Strings & Percussion)",
       "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
@@ -1620,6 +1620,28 @@
       "duration_ms": 650000,
       "name": "O Holy Father Nicholas",
       "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
+    },
+    {
+      "album": {
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126090,
+      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
+      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
     },
     {
       "album": {

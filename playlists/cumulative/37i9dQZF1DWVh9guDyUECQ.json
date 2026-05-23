@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Tommy Royale",
+  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. Foto: Redimi2",
   "name": "Flow Cristiano",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 470000,
       "name": "12 Discipulos",
       "url": "https://open.spotify.com/track/2ClupMWE8ebE5DhWEQtnl3"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198686,
       "name": "AMOR INIGUALABLE",
       "url": "https://open.spotify.com/track/6JbdBGyzPNvjHPkHSFbuge"
@@ -1115,6 +1115,32 @@
     },
     {
       "album": {
+        "name": "Bendiceme Tu",
+        "url": "https://open.spotify.com/album/4LpfLmXevEeuTQlMAtRO7m"
+      },
+      "artists": [
+        {
+          "name": "Albert Miliano",
+          "url": "https://open.spotify.com/artist/7ofAYf298XeFeUCLMzseYf"
+        },
+        {
+          "name": "Esteban Music",
+          "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        },
+        {
+          "name": "DC del Rosario",
+          "url": "https://open.spotify.com/artist/0YDXIFDon8EqhAzaQ44SlU"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Bendiceme Tu",
+      "url": "https://open.spotify.com/track/4lAg5VKWgFtKGBtMUo0sPu"
+    },
+    {
+      "album": {
         "name": "BEST NIGHT",
         "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
@@ -1360,7 +1386,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 276278,
       "name": "Caminando",
       "url": "https://open.spotify.com/track/1lx7HWFP5OD6DiYAhPIRil"
@@ -1404,6 +1430,28 @@
       "duration_ms": 224285,
       "name": "Canta y no llores",
       "url": "https://open.spotify.com/track/1r88NULqPe2zuuONEYNCAk"
+    },
+    {
+      "album": {
+        "name": "Carta a un religioso",
+        "url": "https://open.spotify.com/album/7jmZiBofnUraE1wG2662IY"
+      },
+      "artists": [
+        {
+          "name": "La Tribu Santa",
+          "url": "https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY"
+        },
+        {
+          "name": "Memo y Maker",
+          "url": "https://open.spotify.com/artist/71FIBcvoqpWdj8PxWNrysL"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Carta a un religioso",
+      "url": "https://open.spotify.com/track/02kGJttKTm5VI0NpPB9fNx"
     },
     {
       "album": {
@@ -1558,6 +1606,24 @@
       "duration_ms": 229598,
       "name": "Cielo Perdido",
       "url": "https://open.spotify.com/track/1OnJP2Aed5r50I4FXz0TW5"
+    },
+    {
+      "album": {
+        "name": "Cintur\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/3d7dnQmDqvoaUkqlm7M32f"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166817,
+      "name": "Cintur\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/1AGYIU2PsPYD5dkj4lyRW0"
     },
     {
       "album": {
@@ -2050,7 +2116,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
@@ -2336,7 +2402,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 167633,
       "name": "Desde Peque",
       "url": "https://open.spotify.com/track/1VtwvgO99Q3UDR2gs0arpU"
@@ -2424,7 +2490,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 206800,
       "name": "Diles que les Amo - Intro",
       "url": "https://open.spotify.com/track/6rzQAH1tGL7MIcZxX03Uot"
@@ -2632,6 +2698,28 @@
       "duration_ms": 254000,
       "name": "Donde Quiera Que Estes",
       "url": "https://open.spotify.com/track/5n3wuWDLAp466ZdO07x4mS"
+    },
+    {
+      "album": {
+        "name": "UN\u00c1NIMES",
+        "url": "https://open.spotify.com/album/65jOUWwYfFrFX431zvoi7T"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        },
+        {
+          "name": "Meyn Nova",
+          "url": "https://open.spotify.com/artist/0nmmSCikOFAhu3UIQFKG8m"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237753,
+      "name": "Dones",
+      "url": "https://open.spotify.com/track/6zx1xG0BiBNQkXycZ6962a"
     },
     {
       "album": {
@@ -2900,7 +2988,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 173333,
       "name": "El Verbo",
       "url": "https://open.spotify.com/track/3nCGMi3Qm0EGMI386ai9GR"
@@ -3908,6 +3996,28 @@
       "duration_ms": 181732,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
+    },
+    {
+      "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
     },
     {
       "album": {
@@ -5006,7 +5116,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 541826,
       "name": "Kings And Queens",
       "url": "https://open.spotify.com/track/2FsiRBP3WoBkfEO7mQuout"
@@ -5368,7 +5478,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172000,
       "name": "LINAJE PURO",
       "url": "https://open.spotify.com/track/7fGTDdUGhPYCAvcaPbR6yG"
@@ -5424,7 +5534,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 270388,
       "name": "Llama - Remix",
       "url": "https://open.spotify.com/track/2Vljoc3nf8IoCX1OYUxzIp"
@@ -5756,7 +5866,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 206959,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
@@ -5948,7 +6058,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 165900,
       "name": "Made In GOD",
       "url": "https://open.spotify.com/track/6CjxnZfFZoXdfVkfg5Lj69"
@@ -6046,7 +6156,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 243225,
       "name": "Mayordomo de la rima",
       "url": "https://open.spotify.com/track/6TtCtlCj6Kgkk28u8l18xP"
@@ -6312,7 +6422,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 291428,
       "name": "MexCypher San Luis Potos\u00ed",
       "url": "https://open.spotify.com/track/3gulmlvJV1CKV91BUPgdD0"
@@ -6653,6 +6763,28 @@
     },
     {
       "album": {
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2i6tIuFjPHqSmnXvy58Pdj"
+      },
+      "artists": [
+        {
+          "name": "Elemento",
+          "url": "https://open.spotify.com/artist/18cY0XRBki7XQXG2Sd5Fwd"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Mis Deseos",
+      "url": "https://open.spotify.com/track/24XfsnB4nzaCmmuaQqjahA"
+    },
+    {
+      "album": {
         "name": "Misi\u00f3n Tierra",
         "url": "https://open.spotify.com/album/0hGv1UABze93Drtxhdc3lp"
       },
@@ -6821,6 +6953,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1scara",
+        "url": "https://open.spotify.com/album/26eDfi3zSXwubdtw76sRa0"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "M\u00e1scara",
+      "url": "https://open.spotify.com/track/6k9GJ0gm4nsuAVmLdNzCaf"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5"
       },
@@ -6986,6 +7140,24 @@
       "duration_ms": 160000,
       "name": "NADIE COMO DIOS",
       "url": "https://open.spotify.com/track/5pBYlzZbm716Qaul0tz3kH"
+    },
+    {
+      "album": {
+        "name": "NCB 20A",
+        "url": "https://open.spotify.com/album/3gtgcIfZdL1OrdkCrplLMP"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323712,
+      "name": "NCB 20A",
+      "url": "https://open.spotify.com/track/2eHa6JvvteLRCrYgX4drOv"
     },
     {
       "album": {
@@ -7691,6 +7863,32 @@
     },
     {
       "album": {
+        "name": "Otro Pana Ma",
+        "url": "https://open.spotify.com/album/181ACKoRGngMLI6h4rBkW7"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dr. Roca",
+          "url": "https://open.spotify.com/artist/5gHzgHg9sEAWIClpJNgZ2J"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Otro Pana Ma",
+      "url": "https://open.spotify.com/track/4CDBPBeYeD3Twigx5lGxyL"
+    },
+    {
+      "album": {
         "name": "Oveja Negra",
         "url": "https://open.spotify.com/album/2KoPkGN6lxcuWXqpIFIfjd"
       },
@@ -7970,7 +8168,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178005,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/5uJzVCRAqwYlxg8hb7bWOf"
@@ -8329,6 +8527,24 @@
     },
     {
       "album": {
+        "name": "Por \u00c9l",
+        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Por \u00c9l",
+      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
+    },
+    {
+      "album": {
         "name": "Prendia",
         "url": "https://open.spotify.com/album/4UuKcpmrE0bYKYzqS74VzV"
       },
@@ -8607,6 +8823,28 @@
     },
     {
       "album": {
+        "name": "Grand Slam",
+        "url": "https://open.spotify.com/album/0uSSuVeTOffqVsNsd7WWOJ"
+      },
+      "artists": [
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Daffy El Audio",
+          "url": "https://open.spotify.com/artist/7cb0BxBtbvOtgWH3tS6MRJ"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190735,
+      "name": "Renac\u00ed",
+      "url": "https://open.spotify.com/track/31QRdZo960ddyEHGEzpFhY"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6BuLQ2he4aH0yStDvscbXx"
       },
@@ -8676,7 +8914,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196000,
       "name": "Riqueza",
       "url": "https://open.spotify.com/track/78PqDddX9dnUPCpSdiAmKH"
@@ -10912,7 +11150,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 257385,
       "name": "Van God",
       "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
@@ -11298,6 +11536,24 @@
       "duration_ms": 130871,
       "name": "Who Is Y'all",
       "url": "https://open.spotify.com/track/2NGC89nTaUOuMB3u6nZT2H"
+    },
+    {
+      "album": {
+        "name": "WORK trabajando y Joseando",
+        "url": "https://open.spotify.com/album/04Rj75y7QLdFOiGUE9vyqk"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "WORK trabajando y Joseando",
+      "url": "https://open.spotify.com/track/7kbGPxLZnMBp1SJJY8xFkC"
     },
     {
       "album": {

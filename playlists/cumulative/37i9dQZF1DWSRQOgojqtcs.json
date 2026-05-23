@@ -3433,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "Bach, J.S.: Sonatas and Partitas for Solo Violin, Bwv 1001-1006",
+        "url": "https://open.spotify.com/album/7DD3JOUPtmlQqkVjFXZh4u"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634520,
+      "name": "II. Fuga",
+      "url": "https://open.spotify.com/track/2bPoPA8Gu5UAFrCMjNPtBf"
+    },
+    {
+      "album": {
         "name": "Illusion (Remixes)",
         "url": "https://open.spotify.com/album/0URwzPXZApCnRMnSgpBeFv"
       },
@@ -6464,28 +6486,6 @@
       "duration_ms": 230103,
       "name": "Vente pac\u00e1",
       "url": "https://open.spotify.com/track/3KD75T7TjCZBFAJ2GyFoFj"
-    },
-    {
-      "album": {
-        "name": "Bach, J.S.: Sonatas and Partitas for Solo Violin, Bwv 1001-1006",
-        "url": "https://open.spotify.com/album/7DD3JOUPtmlQqkVjFXZh4u"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Ilya Kaler",
-          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
-        }
-      ],
-      "date_added": "2026-03-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 634520,
-      "name": "Violin Sonata No. 3 in C Major, BWV 1005: II. Fuga",
-      "url": "https://open.spotify.com/track/2bPoPA8Gu5UAFrCMjNPtBf"
     },
     {
       "album": {

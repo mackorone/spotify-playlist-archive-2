@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104335,
+  "num_followers": 104334,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -831,30 +831,6 @@
     {
       "added_at": "2026-05-21 21:00:19",
       "album": {
-        "name": "YLH\u00c4\u00c4L JA ALHAAL",
-        "url": "https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb"
-      },
-      "artists": [
-        {
-          "name": "VITUN ISO ROTSI",
-          "url": "https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv"
-        },
-        {
-          "name": "Sairas T",
-          "url": "https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK"
-        },
-        {
-          "name": "K\u00e4sipuoli",
-          "url": "https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "YLH\u00c4\u00c4L JA ALHAAL",
-      "url": "https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo"
-    },
-    {
-      "added_at": "2026-05-21 21:00:19",
-      "album": {
         "name": "Pelleilly",
         "url": "https://open.spotify.com/album/16v1GWCwpx2oSFNqjCVH7o"
       },
@@ -887,22 +863,42 @@
     {
       "added_at": "2026-05-21 21:00:19",
       "album": {
-        "name": "Mr Nice Guy",
-        "url": "https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX"
+        "name": "YLH\u00c4\u00c4L JA ALHAAL",
+        "url": "https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb"
+      },
+      "artists": [
+        {
+          "name": "VITUN ISO ROTSI",
+          "url": "https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv"
+        },
+        {
+          "name": "Sairas T",
+          "url": "https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK"
+        },
+        {
+          "name": "K\u00e4sipuoli",
+          "url": "https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "YLH\u00c4\u00c4L JA ALHAAL",
+      "url": "https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo"
+    },
+    {
+      "added_at": "2026-05-21 21:00:19",
+      "album": {
+        "name": "ADHD ANTHEM",
+        "url": "https://open.spotify.com/album/5IH1KBdP7E1xeCxqlnvzpC"
       },
       "artists": [
         {
           "name": "Kube",
           "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
-        },
-        {
-          "name": "The Chemodan",
-          "url": "https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby"
         }
       ],
-      "duration_ms": 154698,
-      "name": "Mr Nice Guy",
-      "url": "https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc"
+      "duration_ms": 108333,
+      "name": "ADHD ANTHEM",
+      "url": "https://open.spotify.com/track/3pIHXZRqbkqcmO8LZfF2U9"
     }
   ],
   "unique_name": "100 Suomi",

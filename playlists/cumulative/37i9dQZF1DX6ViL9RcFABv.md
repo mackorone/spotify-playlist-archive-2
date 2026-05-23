@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop selecionada por Bárbara Tinoco.
 
-520 songs - 1 day 3 hr 24 min
+521 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Drama](https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Drama](https://open.spotify.com/album/4O4Z2HgACr41aZ66X0jmL7) | 3:33 | 2025-09-04 | 2026-01-23 |
 | [Dá Cá Um Bacalhau](https://open.spotify.com/track/7caPKea4LdKLgZbj8y5ZnN) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Dá Cá Um Bacalhau](https://open.spotify.com/album/69RGd1xW6QsLVTfLwdNgGu) | 2:18 | 2025-11-21 | 2026-01-16 |
 | [Dói](https://open.spotify.com/track/2YUyNW6Im8CJiEti9LYRvy) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Dói](https://open.spotify.com/album/5j9j5FJyTsUbpSx7yofANe) | 3:03 | 2026-02-27 | 2026-04-17 |
-| [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 | 2026-05-21 |  |
+| [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 | 2026-05-21 | 2026-05-23 |
+| [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/7B6teQtsPrPQlnlXNf1HH9) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Dónde, Cómo y Cuándo?](https://open.spotify.com/album/4lmRCmCPFsY9XPjdOrtFFD) | 3:03 | 2026-05-22 |  |
 | [E Se Eu Contasse](https://open.spotify.com/track/15qg7SydFWVsZIJutk2MhO) | [Francisca Borges](https://open.spotify.com/artist/3i4JBITfITnV1AqwemC8Po) | [Monomania](https://open.spotify.com/album/2KoNL68KekN1E4aGsHhdio) | 3:41 | 2026-02-13 | 2026-02-27 |
 | [El corazón por delante](https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Sílvia & Salvador](https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS) | 4:59 | 2025-05-15 | 2025-06-27 |
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 | 2025-11-14 |

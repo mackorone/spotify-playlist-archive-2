@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "TV Animation My Hero Academia 7th Original Soundtrack",
+        "url": "https://open.spotify.com/album/6u7u6gaokipiDoPPxnJ2z1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255746,
+      "name": "OCHAKO URARAKA VS HIMIKO TOGA",
+      "url": "https://open.spotify.com/track/7wn3pmiAfLS8eWkHE7NhZr"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30b8\u30c6\u30ec\u30d3\u7cfb\u30c9\u30e9\u30de\u300c\u30aa\u30af\u30e9\uff5e\u8ff7\u5bae\u5165\u308a\u4e8b\u4ef6\u635c\u67fb\uff5e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5Af7quoPsLy9Msbsd1CMwt"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 141160,
       "name": "\u8105\u8feb(\u3057\u3093\u3089\u3044)",
       "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"

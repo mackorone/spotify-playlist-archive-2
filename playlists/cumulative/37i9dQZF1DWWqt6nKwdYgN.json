@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Omar Camacho y Santa Fe Klan en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Uni\u00f3n Fatal en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 124411,
       "name": "ALO ALO ALO",
       "url": "https://open.spotify.com/track/40rIR3TbJdALbjhBK9tzzr"
@@ -6617,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Futbolera",
+        "url": "https://open.spotify.com/album/5nKAWKb2okcjxgEP5TLHvc"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Cumbia Futbolera",
+      "url": "https://open.spotify.com/track/4pBSIGb2pTbYaln6wcf9w0"
+    },
+    {
+      "album": {
         "name": "Cumbia Guanajuato",
         "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
       },
@@ -8002,6 +8020,32 @@
       "duration_ms": 265747,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+    },
+    {
+      "album": {
+        "name": "No Molestar",
+        "url": "https://open.spotify.com/album/2ji8BKS0Hdruroz16YUQsL"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        },
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        },
+        {
+          "name": "Cum Laudes",
+          "url": "https://open.spotify.com/artist/3FedzlVN6xViNomkQAIgCd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Don de la palabra",
+      "url": "https://open.spotify.com/track/1IdSAcPu1buAPUlLND0B8U"
     },
     {
       "album": {
@@ -10383,6 +10427,24 @@
     },
     {
       "album": {
+        "name": "Fijate Bien",
+        "url": "https://open.spotify.com/album/6SSAJkqPAKxzyGvYlKOLV4"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230558,
+      "name": "Fijate Bien",
+      "url": "https://open.spotify.com/track/4uPObbvvoElrwI3ItquqLD"
+    },
+    {
+      "album": {
         "name": "Finomeno",
         "url": "https://open.spotify.com/album/23QhipR0Q0pm1tPW9zMJgD"
       },
@@ -11128,7 +11190,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 223529,
       "name": "Get This Money",
       "url": "https://open.spotify.com/track/2ocfalOJGX8lmNSRccFOZX"
@@ -11836,6 +11898,28 @@
       "duration_ms": 181132,
       "name": "HIJO DE P",
       "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl"
     },
     {
       "album": {
@@ -14545,6 +14629,32 @@
     },
     {
       "album": {
+        "name": "Las Cuchas Ten\u00edan Raz\u00f3n",
+        "url": "https://open.spotify.com/album/4jv8isW3knaosEfpfhcrsC"
+      },
+      "artists": [
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Anlly Mar\u00edn",
+          "url": "https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/4llOn6AWn6fSG738WDSahS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Las Cuchas Ten\u00edan Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0RMBWyOliXTv6Fczr4NjZW"
+    },
+    {
+      "album": {
         "name": "Las Cuentas",
         "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
       },
@@ -15256,7 +15366,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178563,
       "name": "LOS FINOS",
       "url": "https://open.spotify.com/track/4BeXb3R8yPBSHnyJ6WRq8u"
@@ -17782,6 +17892,24 @@
       "duration_ms": 185624,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
+    },
+    {
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/6lHAR0CR6EGZTJyj2v3Cap"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/4B1XEA19YZ9K78NC8vFsVY"
     },
     {
       "album": {
@@ -20890,7 +21018,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 176756,
       "name": "Perfume ar\u00e1bico",
       "url": "https://open.spotify.com/track/1RJm6R0YdjTDBbI5fWdn3f"
@@ -24680,7 +24808,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 199500,
       "name": "Sol De Agua",
       "url": "https://open.spotify.com/track/0xeH0UXLWNfHuJt1Ne7Ewf"
@@ -26728,7 +26856,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 138161,
       "name": "TURRAZO",
       "url": "https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0"
@@ -28326,7 +28454,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170666,
       "name": "X LAS REDES",
       "url": "https://open.spotify.com/track/59RPLvrLa5bjf74GZDEm0s"
@@ -28812,7 +28940,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170721,
       "name": "ZXM-YR Mami",
       "url": "https://open.spotify.com/track/7GoNA4Sbq9RDycYtiKe5dF"

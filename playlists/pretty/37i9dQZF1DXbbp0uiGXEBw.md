@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Thiều Bảo Trâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,030 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,034 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 3 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
 | 4 | [Kỵ Sĩ Và Ánh Sao](https://open.spotify.com/track/62oJI8qLl1kFx77NQiCFo7) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [THEATER OF DREAMS \(Volume 4\)](https://open.spotify.com/album/3E21KthaeTgJgTWrqkME9t) | 3:26 |
 | 5 | [không lời](https://open.spotify.com/track/4sUO0zmF9LZL1XNe1LjHvV) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [không lời](https://open.spotify.com/album/2PjaqoehMZIbSElnjllie2) | 3:42 |
-| 6 | [Ước anh nhiều nỗi buồn](https://open.spotify.com/track/0bD5LqMbhO8SQse1U7gKoV) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Phao Cứu Sinh](https://open.spotify.com/album/2llLWIZxt8caxIdMc5PHrV) | 4:32 |
+| 6 | [Ước anh nhiều nỗi buồn](https://open.spotify.com/track/0bD5LqMbhO8SQse1U7gKoV) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO), [Hương Tràm](https://open.spotify.com/artist/5jjeTAyLmoYBzwA9ypoKFT) | [Phao Cứu Sinh](https://open.spotify.com/album/2llLWIZxt8caxIdMc5PHrV) | 4:32 |
 | 7 | [Đi Giữa Trời Rực Rỡ \- From "Đi Giữa Trời Rực Rỡ"](https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(From "Đi Giữa Trời Rực Rỡ"\)](https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J) | 3:40 |
 | 8 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 |
 | 9 | [Ai Ngoài Anh](https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Triệu \(Phase 1 of 3\)](https://open.spotify.com/album/4P4Hymi1F14y3jj1wM9Zlo) | 3:19 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 29 | [EM ĐAU](https://open.spotify.com/track/317Lh6QCAz9JpWbV3oxrCf) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 5:00 |
 | 30 | [Ướt Lòng](https://open.spotify.com/track/3e83hKQLYG116od0SJUhPd) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [Giai Nhân](https://open.spotify.com/album/0IW25nk5enhweeMgB13a0b) | 4:39 |
 | 31 | [Đợi em được không](https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [YÊU THẬT](https://open.spotify.com/album/0MmmI3L7FRv9dw4dO3kGfO) | 4:00 |
-| 32 | [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 |
+| 32 | [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO), [Hương Tràm](https://open.spotify.com/artist/5jjeTAyLmoYBzwA9ypoKFT) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 |
 | 33 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 |
 | 34 | [Missing You](https://open.spotify.com/track/7D5hQQZXK33EpJdn1zdLch) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Missing You](https://open.spotify.com/album/6glbutLmt19rxMZYe4QFVi) | 4:02 |
 | 35 | [Chằn Tinh](https://open.spotify.com/track/5qQ5rZkL8iu3ZT8fEs6RLj) | [LYHAN](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Tâm Linh](https://open.spotify.com/album/1o1BR5ZS0sJWDeKavKrgSy) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [phases of the moon](https://open.spotify.com/track/7kmuy7PgxxXxavSCn1rGwj) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [phases of the moon](https://open.spotify.com/album/28gPrPbtLBPV8Fh0fCTnQ3) | 4:42 |
 | 50 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
 
-Snapshot ID: `AAAAAFoFQXif9kTYnXYuc0rWfbFMF/1K`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

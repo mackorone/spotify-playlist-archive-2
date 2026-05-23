@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Nelis Leeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,794 likes - 105 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,847 likes - 105 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 91 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 92 | [Veel Leuker Met Jou](https://open.spotify.com/track/73nmRgRJboLydYZkLh9emE) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ), [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Veel Leuker Met Jou](https://open.spotify.com/album/0f6oKEY6gwR9MCL7MUeV9q) | 2:53 |
 | 93 | [We Doen 't Gewoon](https://open.spotify.com/track/01bup6sVPbSxTpE2pZGRuK) | [Jan Witlox](https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ) | [We Doen 't Gewoon](https://open.spotify.com/album/6pGuaKG4txWBzhGIXqIJga) | 3:04 |
-| 94 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
+| 94 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 95 | [Het Is Nooit Goed](https://open.spotify.com/track/7rG5ZsdzBvwd3QwBbxZddr) | [De Havenzangers](https://open.spotify.com/artist/52Q4TyDwkpvHsKdx5aPPEn) | [Het Is Nooit Goed](https://open.spotify.com/album/7HjCx8g2gJbLyYW4SKksvp) | 3:33 |
 | 96 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |
 | 97 | [Italiani](https://open.spotify.com/track/22ydZvCmXM32vaiJI5jN66) | [Jeffrey Leunenberg](https://open.spotify.com/artist/3ovpmWdzEO3rkAWdEanDht) | [Italiani](https://open.spotify.com/album/7EKE8BVRsZzzg3iDF7bqRD) | 2:51 |

@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,313 songs - 4 day 2 hr 26 min
+2,314 songs - 4 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1260,6 +1260,7 @@
 | [Love you](https://open.spotify.com/track/5M3tQgs9ALYXBJewdTQENt) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Love you](https://open.spotify.com/album/1azC0GjXz6kFbJ5yLlAoWN) | 2:51 | 2023-06-22 | 2023-07-21 |
 | [Lover](https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 2:07 | 2024-08-22 | 2025-02-21 |
 | [Lover & Protector \(feat\. Shiro\)](https://open.spotify.com/track/0mSKldI7AFqqpRNPcP2cpf) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Lover & Protector \(feat\. Shiro\)](https://open.spotify.com/album/45x0RStfiSluKzjg2PJw4D) | 2:19 | 2023-08-24 | 2023-10-06 |
+| [LOVERS](https://open.spotify.com/track/0xpSswkE72wh9JGi0v0P4z) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [LOVERS](https://open.spotify.com/album/5vuCQgBk4dj0JawNwtfaex) | 2:16 | 2026-05-22 |  |
 | [Low](https://open.spotify.com/track/6zCGPshBCmaPHxZkbc5hfv) | [Aybe](https://open.spotify.com/artist/3yG6CR4mQZD2clhwnyr778) | [Low](https://open.spotify.com/album/4UzwnDEM314zlw0zwfboxy) | 2:34 | 2023-06-15 | 2023-07-07 |
 | [LOW](https://open.spotify.com/track/5qjqNL7GPySGbK57Sv5HMt) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [LOW](https://open.spotify.com/album/7mBlD9QyoFL0M3hTcNyCSt) | 2:37 | 2023-01-26 | 2023-02-28 |
 | [Lowkey](https://open.spotify.com/track/2DyO7Q6rKLXhEdvYeMRtZH) | [Emma Hernandez](https://open.spotify.com/artist/2qBEvdTfmW2yuAibpR9XEk) | [In My Feels](https://open.spotify.com/album/7tDIPsuFbEXURPn6Fih6HQ) | 2:48 | 2022-04-07 | 2022-04-29 |

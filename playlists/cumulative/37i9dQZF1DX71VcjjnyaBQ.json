@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 258906,
       "name": "A.M. Hours",
       "url": "https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
@@ -710,6 +710,24 @@
       "duration_ms": 306826,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN"
+    },
+    {
+      "album": {
+        "name": "BUT BEAUTIFUL",
+        "url": "https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "BUT BEAUTIFUL",
+      "url": "https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo"
     },
     {
       "album": {
@@ -1364,6 +1382,24 @@
       "duration_ms": 328266,
       "name": "Diggin' Around",
       "url": "https://open.spotify.com/track/5B69Su8TPKwAoIhHN2HOVp"
+    },
+    {
+      "album": {
+        "name": "Dream Dancing",
+        "url": "https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277474,
+      "name": "Dream Dancing",
+      "url": "https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD"
     },
     {
       "album": {
@@ -2476,7 +2512,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
@@ -4710,6 +4746,24 @@
       "duration_ms": 308525,
       "name": "These Simple Things",
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "album": {
+        "name": "They Can't Take That Away from Me",
+        "url": "https://open.spotify.com/album/4ukxaPeX9MKJNRkdET7b1w"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453384,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/5vt4J8miM4Pfy4l3q8NeFA"
     },
     {
       "album": {

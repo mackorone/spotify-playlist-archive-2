@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La playlist sin fronteras, elevando a la M\u00fasica Mexicana. Cover: Rey Quinto & El Randal",
+  "description": "La playlist sin fronteras, elevando a la M\u00fasica Mexicana. Cover: Xavi",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -730,6 +730,24 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "album": {
+        "name": "A La Orden",
+        "url": "https://open.spotify.com/album/3LupoDx7BJIYwhk9D1VbZz"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139692,
+      "name": "A La Orden",
+      "url": "https://open.spotify.com/track/5ERFjbUT2UNZ2PrVl1tTW2"
     },
     {
       "album": {
@@ -2212,6 +2230,32 @@
       "duration_ms": 170284,
       "name": "Ay Dieguito",
       "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
+    },
+    {
+      "album": {
+        "name": "Ay Les Va",
+        "url": "https://open.spotify.com/album/2zXuq4hyK7GnMxkMsfDETI"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147527,
+      "name": "Ay Les Va",
+      "url": "https://open.spotify.com/track/1phpJXtmfCYClKiCSIwLrl"
     },
     {
       "album": {
@@ -3734,7 +3778,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185717,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
@@ -5874,6 +5918,24 @@
       "duration_ms": 238560,
       "name": "DOS MORRITAS",
       "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
+    },
+    {
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/6VUGq7Gi6q5luloeeROI6W"
     },
     {
       "album": {
@@ -8547,7 +8609,7 @@
     },
     {
       "album": {
-        "name": "FILOSO",
+        "name": "Filoso",
         "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
       },
       "artists": [
@@ -8564,7 +8626,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163983,
-      "name": "FILOSO",
+      "name": "Filoso",
       "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
     },
     {
@@ -9880,7 +9942,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 153842,
       "name": "INTOCABLE",
       "url": "https://open.spotify.com/track/54brOymWBGRCDOWhBWzA5m"
@@ -12350,6 +12412,24 @@
       "duration_ms": 166801,
       "name": "M&M",
       "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
+    },
+    {
+      "album": {
+        "name": "M3",
+        "url": "https://open.spotify.com/album/49oC0tmZZleBnSkuATUfAv"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "M3",
+      "url": "https://open.spotify.com/track/4VvN46NZxQdCYaW4LdlMVq"
     },
     {
       "album": {
@@ -15684,7 +15764,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156256,
       "name": "PANIKI",
       "url": "https://open.spotify.com/track/0fF5mK8NIiMOehvmg0Xqq9"
@@ -16710,7 +16790,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 161258,
       "name": "Por Si Las Dudas",
       "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
@@ -18566,6 +18646,28 @@
       "duration_ms": 154640,
       "name": "Se Manda Sola",
       "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
+    },
+    {
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214403,
+      "name": "Se Me Amanece",
+      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
     },
     {
       "album": {
@@ -21732,6 +21834,24 @@
       "duration_ms": 182380,
       "name": "Una Mentirosa",
       "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+    },
+    {
+      "album": {
+        "name": "Bandera Blanca",
+        "url": "https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214233,
+      "name": "Una Mujer Como la Suya",
+      "url": "https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Calvin Harris & Jazzy",
+  "description": "House music lives here. United under one roof, featuring Max Styler & Greggio",
   "name": "Housewerk",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 225000,
       "name": "Ain't Nobody (Goosey Remix)",
       "url": "https://open.spotify.com/track/41BP9oPAIS8sWWSH362V8Y"
@@ -3088,7 +3088,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 163000,
       "name": "Big Space",
       "url": "https://open.spotify.com/track/6Uhy569s1JlYKwqI5k06ui"
@@ -3728,6 +3728,32 @@
       "duration_ms": 179047,
       "name": "BOTTLE IT",
       "url": "https://open.spotify.com/track/18Pa7snKXnwhYPyzrosIxO"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/33mZtANyHQu7rdOlgwqpdy"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        },
+        {
+          "name": "T-Puse",
+          "url": "https://open.spotify.com/artist/015GbNLBf6vKVstww5m8ch"
+        },
+        {
+          "name": "Oi",
+          "url": "https://open.spotify.com/artist/1YnBIMhfm5E4tbpOHjB5Hr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206428,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/70q857tiye8tZ57Tau00jW"
     },
     {
       "album": {
@@ -6888,7 +6914,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200881,
       "name": "Disco Cherry",
       "url": "https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t"
@@ -9188,7 +9214,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 191250,
       "name": "Feels Good to Move",
       "url": "https://open.spotify.com/track/4fwk872cWwrip94xAViYtv"
@@ -10422,7 +10448,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 405076,
       "name": "Funky Bassline - Beltran Remix",
       "url": "https://open.spotify.com/track/5GPYnIENkMxbgcURXWChkb"
@@ -13092,7 +13118,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 192000,
       "name": "Hypa",
       "url": "https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW"
@@ -15267,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -15860,6 +15904,36 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/2IBPM3ympEL7o5vkWYEJfv"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "ESSENTIA",
+          "url": "https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
     },
     {
       "album": {
@@ -19895,6 +19969,32 @@
     },
     {
       "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "album": {
         "name": "Moving All Around (Jumpin') (feat. Kim English) [John Summit Remix]",
         "url": "https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU"
       },
@@ -21410,6 +21510,28 @@
       "duration_ms": 190118,
       "name": "ok",
       "url": "https://open.spotify.com/track/30j17PGHg0vmx4IgKpZsWu"
+    },
+    {
+      "album": {
+        "name": "Oldskool Flavor",
+        "url": "https://open.spotify.com/album/0djGGJfuvFT7ytIj9acRYD"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Oldskool Flavor",
+      "url": "https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y"
     },
     {
       "album": {
@@ -23026,7 +23148,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174330,
       "name": "Push The Vibe",
       "url": "https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53"
@@ -24537,6 +24659,24 @@
     },
     {
       "album": {
+        "name": "Sassy",
+        "url": "https://open.spotify.com/album/4WS9pJ9OgY1DGamXbo7grr"
+      },
+      "artists": [
+        {
+          "name": "Samantha Loveridge",
+          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186993,
+      "name": "Sassy",
+      "url": "https://open.spotify.com/track/6yDz1uegyUcVxwrcLUo1Ke"
+    },
+    {
+      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -24856,6 +24996,28 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "album": {
+        "name": "See-Line Woman (Mochakk Mix)",
+        "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288021,
+      "name": "See-Line Woman - Mochakk Mix",
+      "url": "https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B"
     },
     {
       "album": {
@@ -27337,6 +27499,28 @@
     },
     {
       "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Mr Virgo",
+          "url": "https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160025,
+      "name": "Swagger Sound",
+      "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
+    },
+    {
+      "album": {
         "name": "Sway (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf"
       },
@@ -28457,6 +28641,28 @@
     },
     {
       "album": {
+        "name": "The Ceiling",
+        "url": "https://open.spotify.com/album/4O7TcNg3Kn7mSW4Ouhakgt"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198524,
+      "name": "The Ceiling",
+      "url": "https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb"
+    },
+    {
+      "album": {
         "name": "The Chant",
         "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
       },
@@ -28908,7 +29114,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209516,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/5cRdTKuFFjXX2CV8AZN8R0"

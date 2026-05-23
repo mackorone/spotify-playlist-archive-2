@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 589857,
+  "num_followers": 589890,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Sketches From An Island 2",
         "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 224428,
       "name": "Brunch With Suki",
       "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 233051,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "anaiis & Grupo Cosmo",
-        "url": "https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        },
-        {
-          "name": "Grupo Cosmo",
-          "url": "https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO"
-        }
-      ],
-      "duration_ms": 220959,
-      "name": "B.P.E",
-      "url": "https://open.spotify.com/track/0AvHKpI768IrIR6QC6Irue"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Playing Robots Into Heaven",
         "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "anaiis & Grupo Cosmo",
+        "url": "https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Grupo Cosmo",
+          "url": "https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO"
+        }
+      ],
+      "duration_ms": 220959,
+      "name": "B.P.E",
+      "url": "https://open.spotify.com/track/0AvHKpI768IrIR6QC6Irue"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "In The Half Light",
         "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 248400,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "After Hours (Yu Su Remix)",
         "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 348094,
       "name": "After Hours - Yu Su Remix",
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "To Unknownia",
         "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 135900,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1655,6 +1639,22 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 135900,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
     },
     {
       "added_at": "2026-02-20 16:14:28",

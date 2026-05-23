@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Kevin Morby",
+  "description": "A laid-back trip in the folk scene. Cover: Le Ren",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1908,6 +1908,24 @@
       "duration_ms": 193654,
       "name": "Armour",
       "url": "https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898"
+    },
+    {
+      "album": {
+        "name": "As I Was",
+        "url": "https://open.spotify.com/album/07EaJNBPpgbmeC2N0nzi97"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187478,
+      "name": "As I Was",
+      "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
     },
     {
       "album": {
@@ -3945,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Calls Me Mine",
+        "url": "https://open.spotify.com/album/5VM7zUXsGLk9nnnFOvcM2h"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138227,
+      "name": "Calls Me Mine",
+      "url": "https://open.spotify.com/track/2RkA9CsLZxFTjwfbb9kJw5"
+    },
+    {
+      "album": {
         "name": "The Circle Remains",
         "url": "https://open.spotify.com/album/7Df1VBSYFcpF0tORYYeE6D"
       },
@@ -4602,6 +4638,24 @@
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
+    },
+    {
+      "album": {
+        "name": "Chewing On The Rind",
+        "url": "https://open.spotify.com/album/1vdcz31wKOcndAyRDFrwQw"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196661,
+      "name": "Chewing On The Rind",
+      "url": "https://open.spotify.com/track/5qs5PqqKmUdVE4QvNFiLfK"
     },
     {
       "album": {
@@ -5870,7 +5924,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214825,
       "name": "Define You",
       "url": "https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md"
@@ -6488,7 +6542,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 258384,
       "name": "Don't Fret",
       "url": "https://open.spotify.com/track/4qmninG31y5XGkkxX3UgIA"
@@ -7868,7 +7922,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185955,
       "name": "Everyone Around Me Dancing",
       "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
@@ -9580,6 +9634,24 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
     },
     {
       "album": {
@@ -12504,7 +12576,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 213483,
       "name": "I Should Know Better",
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
@@ -12522,7 +12594,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 210430,
       "name": "I Talk About You",
       "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
@@ -13578,7 +13650,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 225017,
       "name": "Javelin",
       "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
@@ -14819,6 +14891,24 @@
     },
     {
       "album": {
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2878AXAVVxRpftI4g2Kjh2"
       },
@@ -15210,7 +15300,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200367,
       "name": "Living With It",
       "url": "https://open.spotify.com/track/1QBGCMSazaEBciECTDYIUr"
@@ -17808,7 +17898,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 205226,
       "name": "Never Not",
       "url": "https://open.spotify.com/track/2X5dAgIlovQnGKliRhl2hb"
@@ -19883,6 +19973,24 @@
     },
     {
       "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -20825,6 +20933,24 @@
     },
     {
       "album": {
+        "name": "Rabbits",
+        "url": "https://open.spotify.com/album/0hbpIIHxUA6oCIi4pEgDuC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Rabbits",
+      "url": "https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ"
+    },
+    {
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt"
       },
@@ -21490,7 +21616,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 253575,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6kBwPPG1Vdhh3mnApOk1XA"
@@ -22118,6 +22244,28 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "Sea to the Moon",
+        "url": "https://open.spotify.com/album/1gEAi1OTC5hPLhZbvNn3TA"
+      },
+      "artists": [
+        {
+          "name": "Mia Kelly",
+          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
+        },
+        {
+          "name": "Blair Dunlop",
+          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214274,
+      "name": "Sea to the Moon",
+      "url": "https://open.spotify.com/track/2H2FUa45oMvBbouDGubfq8"
     },
     {
       "album": {
@@ -23456,7 +23604,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 177702,
       "name": "Somewhere down in Georgia",
       "url": "https://open.spotify.com/track/6sPBl3XK5xx1dLWmUmD5SY"
@@ -25504,7 +25652,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -25580,7 +25728,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195311,
       "name": "The Hunt in Edson",
       "url": "https://open.spotify.com/track/23lVXWQIiQh87hWExCoDCX"
@@ -26042,6 +26190,24 @@
       "duration_ms": 264422,
       "name": "The Way You Can",
       "url": "https://open.spotify.com/track/1WgNdsLpFXb7ycFcM9Cldk"
+    },
+    {
+      "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
     },
     {
       "album": {
@@ -27435,6 +27601,28 @@
     },
     {
       "album": {
+        "name": "Character Traits Deluxe",
+        "url": "https://open.spotify.com/album/4RYcWdYrsnDSlPKJjtgOmy"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        },
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190587,
+      "name": "Up From Here",
+      "url": "https://open.spotify.com/track/3Lf8Szyqy78a9FFa6NMirL"
+    },
+    {
+      "album": {
         "name": "Us All",
         "url": "https://open.spotify.com/album/1nC9qJ8PCE5bkkHG5w8jcL"
       },
@@ -28711,6 +28899,24 @@
     },
     {
       "album": {
+        "name": "Where Do You Want To Be?",
+        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Where Do You Want To Be?",
+      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+    },
+    {
+      "album": {
         "name": "Where I'm Coming From",
         "url": "https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN"
       },
@@ -28870,6 +29076,24 @@
       "duration_ms": 264926,
       "name": "White Lies, White Jesus And You",
       "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
+    },
+    {
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222221,
+      "name": "Who Do You Wanna Be",
+      "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
     },
     {
       "album": {

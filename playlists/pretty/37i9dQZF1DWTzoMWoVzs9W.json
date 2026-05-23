@@ -1,15 +1,15 @@
 {
   "description": "Listen to all of her hits right here!",
-  "num_followers": 1102578,
+  "num_followers": 1102609,
   "original_name": "This Is Anitta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALE+f9abPtNYNbNmTFYthDdkIUjI",
+  "snapshot_id": "AAAAALBxfA4ImE5AdfB/bDnaC2VuWrbx",
   "tracks": [
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Choka Choka",
         "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
@@ -29,10 +29,106 @@
       "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
-        "name": "Pinterest (Portuguese)",
-        "url": "https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP"
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 170581,
+      "name": "Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
+    },
+    {
+      "added_at": "2026-05-22 13:06:16",
+      "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 146708,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/0PdE8XqWrtlWxDG8FEjvy0"
+    },
+    {
+      "added_at": "2026-05-22 13:06:16",
+      "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 179674,
+      "name": "Ternura",
+      "url": "https://open.spotify.com/track/5FOy6KydSZWIJwdtLUj0FS"
+    },
+    {
+      "added_at": "2026-05-22 13:06:16",
+      "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Deus Existe",
+      "url": "https://open.spotify.com/track/7mxojgcpmGboRM1TH1uzmQ"
+    },
+    {
+      "added_at": "2026-05-22 13:06:16",
+      "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 135688,
+      "name": "Bemba",
+      "url": "https://open.spotify.com/track/3CRbffdoBzqDqp8h1G5qti"
+    },
+    {
+      "added_at": "2026-05-22 13:06:16",
+      "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
       },
       "artists": [
         {
@@ -41,11 +137,11 @@
         }
       ],
       "duration_ms": 134833,
-      "name": "Pinterest - (Portuguese)",
-      "url": "https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK"
+      "name": "Pinterest (Spanish)",
+      "url": "https://open.spotify.com/track/2Uh9fm1gYV9hurhiTRYMor"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "GOSTOSIN",
         "url": "https://open.spotify.com/album/3Hwq6GIamdmAb5jVk1I3DS"
@@ -69,7 +165,7 @@
       "url": "https://open.spotify.com/track/08WX097zEdZviqKqfp7S1x"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -85,7 +181,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
@@ -125,7 +221,7 @@
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
@@ -145,7 +241,7 @@
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -161,7 +257,7 @@
       "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx"
@@ -185,7 +281,7 @@
       "url": "https://open.spotify.com/track/5gUFvcHTgDNthj7DmZl2L7"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
         "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
@@ -217,7 +313,7 @@
       "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Girl From Rio",
         "url": "https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ"
@@ -233,7 +329,7 @@
       "url": "https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
@@ -273,7 +369,7 @@
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
@@ -301,7 +397,7 @@
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
@@ -321,7 +417,7 @@
       "url": "https://open.spotify.com/track/3xKxxF4yQ7WBgxCtG9LASw"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6obOtGQ9VkQEg8q73peY7d"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/1azGAlMz4aaKg3CbiLSxjL"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Me Gusta [Remix (feat. Cardi B & 24kGoldn)]",
         "url": "https://open.spotify.com/album/3TRdcUb9S2862uVEHGYWlh"
@@ -369,7 +465,7 @@
       "url": "https://open.spotify.com/track/6vrsT2dvgbttZXmPYNfY8i"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Combatchy (feat. MC Rebecca)",
         "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
         "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
@@ -417,7 +513,7 @@
       "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "MODO TURBO",
         "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
@@ -441,7 +537,7 @@
       "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/3JoGZZobxsyQghxcAoW013"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Gata Only (Remix)",
         "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
@@ -505,7 +601,7 @@
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Mon soleil",
         "url": "https://open.spotify.com/album/5szsPNHmsoR2J8ZrcHIEhA"
@@ -525,7 +621,7 @@
       "url": "https://open.spotify.com/track/5iwsC32iiJ1IqJgcg6vkiI"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
@@ -541,7 +637,7 @@
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Fala Quem \u00c9",
         "url": "https://open.spotify.com/album/4h0SG1pqYG18d3sjT4O9uJ"
@@ -565,7 +661,7 @@
       "url": "https://open.spotify.com/track/09JiYC3EAggTwYHNwTIJnb"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Machika",
         "url": "https://open.spotify.com/album/4MfcoFGKYMLgn66cJtwRc0"
@@ -589,7 +685,7 @@
       "url": "https://open.spotify.com/track/4vKltMFviBKMdhYu3FDLY0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Mala M\u00eda (Remix)",
         "url": "https://open.spotify.com/album/2Vuq0IsELmGGmdoBqvgaYC"
@@ -613,7 +709,7 @@
       "url": "https://open.spotify.com/track/6sAwJPgaSQ9Q4XGnbx1gZb"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Lobby",
         "url": "https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu"
@@ -633,7 +729,7 @@
       "url": "https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
@@ -661,7 +757,7 @@
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Vai Vendo",
         "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
@@ -681,7 +777,7 @@
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -701,7 +797,7 @@
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Ai Papai",
         "url": "https://open.spotify.com/album/1TjWJ7uLNCTytSKEPLyMsa"
@@ -725,7 +821,7 @@
       "url": "https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Mi Ni\u00f1a (Remix)",
         "url": "https://open.spotify.com/album/4k1207fs79vZjnRWxRjBfO"
@@ -757,7 +853,7 @@
       "url": "https://open.spotify.com/track/43PXER25C9JkExLBd5dObG"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
@@ -777,7 +873,7 @@
       "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
@@ -809,7 +905,7 @@
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "En 4",
         "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
@@ -829,7 +925,7 @@
       "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Sede De Voc\u00ea",
         "url": "https://open.spotify.com/album/06gDphjfZZng3H1PMlAyQc"
@@ -853,7 +949,7 @@
       "url": "https://open.spotify.com/track/6vP0ERh2C0zRctT53VmFnv"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -869,7 +965,7 @@
       "url": "https://open.spotify.com/track/4HxoWPjMudl0ZT7GSQG5Ax"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -885,7 +981,7 @@
       "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -901,7 +997,7 @@
       "url": "https://open.spotify.com/track/5ZfMBw3QdSMAHSEDa8FoA0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Madame X (Deluxe)",
         "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
@@ -921,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
@@ -945,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Avisa L\u00e1 (feat. Rebecca)",
         "url": "https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8"
@@ -973,7 +1069,7 @@
       "url": "https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "NO CH\u00c3O NOVINHA",
         "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
@@ -993,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
@@ -1013,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Alegr\u00eda",
         "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
@@ -1037,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "SIMPLY THE BEST",
         "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
@@ -1061,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
@@ -1085,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Cheio De Vontade",
         "url": "https://open.spotify.com/album/2TQk8jyfpi7aYCa3WSR625"
@@ -1105,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3EUHRIMFUrG5s8Qm9P93b7"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
@@ -1125,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Faking Love (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
@@ -1145,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
@@ -1181,7 +1277,7 @@
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -1197,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -1217,7 +1313,7 @@
       "url": "https://open.spotify.com/track/6jPFaBQGvDFrcyf5kQAJ6G"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation: A Favela Love Story",
         "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
@@ -1233,7 +1329,7 @@
       "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation: A Favela Love Story",
         "url": "https://open.spotify.com/album/79aPxNaQQcPBAdJnvixHEg"
@@ -1249,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0gCHqjj5dwE6empPqvU5AJ"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
@@ -1281,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "El Que Espera",
         "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
@@ -1301,7 +1397,7 @@
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5uDlGlnMIye9dIW7u9yU1S"
@@ -1317,7 +1413,7 @@
       "url": "https://open.spotify.com/track/1KFN3kB4hc6r7ILpifFsqf"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Rave de Favela (feat. BEAM)",
         "url": "https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy"
@@ -1345,7 +1441,7 @@
       "url": "https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
@@ -1369,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Some que ele vem atr\u00e1s",
         "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
@@ -1389,7 +1485,7 @@
       "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -1405,7 +1501,7 @@
       "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
@@ -1421,7 +1517,7 @@
       "url": "https://open.spotify.com/track/5urmjhy5zPVXDluQZ1WKmG"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
@@ -1441,7 +1537,7 @@
       "url": "https://open.spotify.com/track/53y0mmxDWZ0oBIpBgDVI4T"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Kisses",
         "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
@@ -1461,7 +1557,7 @@
       "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -1477,7 +1573,7 @@
       "url": "https://open.spotify.com/track/05bzJIGgdNTEOvt6bBJAej"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -1493,7 +1589,7 @@
       "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Unico",
         "url": "https://open.spotify.com/album/10mL7dRowuOaQUjaS6MXB8"
@@ -1513,7 +1609,7 @@
       "url": "https://open.spotify.com/track/0pmtvLQaPHx6nqZmi2KDbr"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
@@ -1533,7 +1629,7 @@
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Paloma (feat. Anitta)",
         "url": "https://open.spotify.com/album/5Fbm6ol0DhVbsBeRsr2fYw"
@@ -1553,7 +1649,7 @@
       "url": "https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
@@ -1577,7 +1673,7 @@
       "url": "https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "KRACK DELUXE",
         "url": "https://open.spotify.com/album/20jm8zrqWsVXKWBhhiOT0I"
@@ -1597,7 +1693,7 @@
       "url": "https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
@@ -1613,7 +1709,7 @@
       "url": "https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
@@ -1637,7 +1733,7 @@
       "url": "https://open.spotify.com/track/7JsIEz27QU9kk7z1EEp9kt"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -1657,7 +1753,7 @@
       "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
@@ -1677,7 +1773,7 @@
       "url": "https://open.spotify.com/track/66wc7tEC6OapOuvRx1ncbD"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Brincadeira Gostosa",
         "url": "https://open.spotify.com/album/6i5AAqaLoQn6ouAKOVofIv"
@@ -1701,7 +1797,7 @@
       "url": "https://open.spotify.com/track/7MZkGKcVLev5WaZmX2XpPX"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me (Deluxe)",
         "url": "https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef"
@@ -1725,7 +1821,7 @@
       "url": "https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Envolver Remix",
         "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
@@ -1745,7 +1841,7 @@
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
     },
     {
-      "added_at": "2026-04-11 13:48:25",
+      "added_at": "2026-05-22 13:06:16",
       "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"

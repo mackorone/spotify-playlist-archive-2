@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAALFda2YvYenVgJsCcrofaSemXiXcZb",
+  "snapshot_id": "AAALF25FgD9jqvmK5Sfv4JYdAJggjxjP",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -44547,6 +44547,42 @@
       "duration_ms": 291288,
       "name": "Red Rose",
       "url": "https://open.spotify.com/track/4Z8U7coTzF2AcGpAfrMCOQ"
+    },
+    {
+      "added_at": "2026-05-22 20:56:47",
+      "album": {
+        "name": "TIRED",
+        "url": "https://open.spotify.com/album/4cOafjG643Mo8kJKTxJ88T"
+      },
+      "artists": [
+        {
+          "name": "74DEN",
+          "url": "https://open.spotify.com/artist/0a5Gjv3Kvy5VaFkD4xLIa3"
+        }
+      ],
+      "duration_ms": 134695,
+      "name": "TIRED",
+      "url": "https://open.spotify.com/track/46I6GgqCcnrSk2DiBRqvmZ"
+    },
+    {
+      "added_at": "2026-05-22 21:02:57",
+      "album": {
+        "name": "Drop It Clear It",
+        "url": "https://open.spotify.com/album/7orRCgcrwUm4NRj5QZbdcx"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        },
+        {
+          "name": "Lolita Fiamma",
+          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
+        }
+      ],
+      "duration_ms": 192102,
+      "name": "Drop It Clear It",
+      "url": "https://open.spotify.com/track/349iLKh4Cd1pUcsYjlfU3P"
     }
   ],
   "unique_name": "Cruise Music",

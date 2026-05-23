@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-298 songs - 15 hr 59 min
+299 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Thank You for the Music](https://open.spotify.com/track/1hh9bpvDAaF2qGEF36bWxC) | [Lemon Cash](https://open.spotify.com/artist/2QgUS0sRpv7kBOad5vhy7n) | [Thank You for the Music](https://open.spotify.com/album/5DzUuOF4W29ywVtCyOjIhc) | 3:46 | 2024-02-09 | 2024-07-23 |
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 | 2024-03-23 |
 | [The Cards I've Been Dealt](https://open.spotify.com/track/2BBPapdfx0q8TALGexmwnC) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:48 | 2024-07-22 | 2025-09-13 |
+| [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 | 2026-05-22 |  |
 | [The Day Gets Too Long](https://open.spotify.com/track/58oyQA6hp1T68X0JNef9lJ) | [Catie St.Germain](https://open.spotify.com/artist/5CNov9zScAO79WvNww2tdv) | [The Day Gets Too Long](https://open.spotify.com/album/3M1E598QHH2lEwGD1qAXpT) | 3:04 | 2024-01-19 | 2024-11-02 |
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2024-01-26 | 2025-03-20 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-19 | 2026-05-05 |

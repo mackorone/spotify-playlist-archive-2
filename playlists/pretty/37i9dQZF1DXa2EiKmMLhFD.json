@@ -1,12 +1,12 @@
 {
   "description": "Hits terpanas dari enau, Ari Lesmana, Idigtaf, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
-  "num_followers": 2448246,
+  "num_followers": 2448350,
   "original_name": "Hot Hits Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGCwTMBHnTbxGSndbEmv4uHHiWg",
+  "snapshot_id": "AAAAAF/72L0lpFe4ibVsMOeApVquPMlk",
   "tracks": [
     {
       "added_at": "2026-05-15 02:35:42",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
+      "added_at": "2026-05-22 04:01:44",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
       "added_at": "2026-05-15 02:35:42",
       "album": {
         "name": "Resonance",
@@ -47,22 +63,6 @@
     {
       "added_at": "2026-05-15 02:35:42",
       "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 305357,
-      "name": "Ada titik-titik di ujung doa",
-      "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
-    },
-    {
-      "added_at": "2026-05-15 02:35:42",
-      "album": {
         "name": "Nadhif (laman berikutnya)",
         "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
       },
@@ -75,6 +75,22 @@
       "duration_ms": 279649,
       "name": "kota ini tak sama tanpamu",
       "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
+    {
+      "added_at": "2026-05-15 02:35:42",
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 305357,
+      "name": "Ada titik-titik di ujung doa",
+      "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
     },
     {
       "added_at": "2026-05-15 02:35:42",
@@ -539,30 +555,6 @@
       "duration_ms": 118248,
       "name": "EEEE A",
       "url": "https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i"
-    },
-    {
-      "added_at": "2026-05-15 02:35:42",
-      "album": {
-        "name": "Kasih Aba Aba",
-        "url": "https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM"
-      },
-      "artists": [
-        {
-          "name": "Naykilla",
-          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
-        },
-        {
-          "name": "Tenxi",
-          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
-        },
-        {
-          "name": "Jemsii",
-          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
-        }
-      ],
-      "duration_ms": 176608,
-      "name": "Kasih Aba Aba",
-      "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
     },
     {
       "added_at": "2026-05-15 02:35:42",

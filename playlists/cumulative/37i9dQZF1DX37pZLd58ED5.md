@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-366 songs - 18 hr 42 min
+366 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,6 @@
 | [TOUR](https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [TOUR](https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc) | 2:30 | 2025-09-11 | 2025-10-10 |
 | [Tra Le Nuvole](https://open.spotify.com/track/0VwOV4xeQ7OWCuRMlgHPf7) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Il Tre Beats](https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 2:45 | 2025-12-12 |  |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2026-02-03 |
-| [Track 2](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 0:00 | 2026-05-21 |  |
 | [Tre Winston \(feat\. Chakra & Yung Snapp\) \- prod\. Kanesh](https://open.spotify.com/track/6CCFwUKqPxiR48VoU2paUa) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:18 | 2023-03-17 | 2023-04-21 |
 | [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 | 2026-02-02 |  |
 | [Tu ed io \(feat\. thasup, Finesse\)](https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:59 | 2025-06-26 | 2025-10-10 |
@@ -363,6 +362,7 @@
 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 | 2022-04-28 | 2025-10-04 |
 | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/track/3NLE4ioQE8aWxoJjk2IQTC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/album/00yrlb5Oun1DVBxkAwthTx) | 2:51 | 2022-04-28 | 2023-12-01 |
 | [Via da qua \(feat\. Rhove\)](https://open.spotify.com/track/53SDtSpjwyoocEp7WDtx0E) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Via da qua \(feat\. Rhove\)](https://open.spotify.com/album/5OtGukxMtqPJfnx0jTSfql) | 2:46 | 2025-08-07 | 2025-09-19 |
+| [Victoria](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 2:48 | 2026-05-21 |  |
 | [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 | 2023-07-14 |
 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 | 2025-07-03 | 2025-09-05 |
 | [Vita nuova \(feat\. Gheba\)](https://open.spotify.com/track/3N2s9VIfSU6ApdIeTZVZD5) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju), [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Vita nuova \(feat\. Gheba\)](https://open.spotify.com/album/00GskigtC8i6zKlgjBuW4Q) | 2:36 | 2026-03-19 | 2026-05-09 |

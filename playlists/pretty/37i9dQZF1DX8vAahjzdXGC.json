@@ -1,13 +1,29 @@
 {
-  "description": "Rilisan baru pekan ini dari Adrian Khalif, Isyana Sarasvati, Fabio Asher, Lola Young dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 242692,
+  "description": "Rilisan baru pekan ini dari Olivia Rodrigo, Adrian Khalif, Isyana Sarasvati, Fabio Asher, Lola Young dan masih banyak lagi dari dalam dan mancanegara.",
+  "num_followers": 243017,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH4K6nLX6L8FUmWb+Q8vvgzvW5Qn",
+  "snapshot_id": "AAAAAKc8njYKqBmqckZpqTLTDDsJupUw",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:14",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
     {
       "added_at": "2026-05-21 23:00:38",
       "album": {
@@ -115,6 +131,22 @@
       "duration_ms": 178144,
       "name": "Daydreamin\u2019",
       "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
+    },
+    {
+      "added_at": "2026-05-22 04:01:14",
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
     },
     {
       "added_at": "2026-05-21 17:00:29",

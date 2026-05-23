@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> 🇳🇴🤝🇸🇪
+> 🇫🇮🤝🇸🇪
 
 1,655 songs - 2 day 20 hr 39 min
 

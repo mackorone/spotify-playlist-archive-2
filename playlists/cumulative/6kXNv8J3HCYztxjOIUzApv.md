@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-325 songs - 20 hr 11 min
+326 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Lifeline](https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Lifeline](https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv) | 3:13 | 2021-09-08 | 2023-01-04 |
 | [Lightning Strike](https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Chemical Warfare](https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca) | 2:46 | 2021-08-20 |  |
 | [Living Dangerous \(feat\. Dorothy\)](https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk), [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:58 | 2022-09-21 | 2023-01-04 |
+| [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX) | 4:23 | 2026-05-22 |  |
 | [Mad World](https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Sounds From Beyond The Abyss \(Vol\. 1\)](https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v) | 3:35 | 2023-10-13 |  |
 | [Misery](https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:12 | 2023-07-25 |  |
 | [Money, Sex, or God](https://open.spotify.com/track/694R5GadE4oSFvn8uk0pEE) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Money, Sex, or God](https://open.spotify.com/album/3rEfQMNIq9ZXeJZg61dFA6) | 3:39 | 2024-05-10 |  |

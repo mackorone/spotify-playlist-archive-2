@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28159,
+  "num_followers": 28164,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agz5gAAAAADi3jJIXuR2b0ORWbknZGQr",
+  "snapshot_id": "ag5LAAAAAAB6fKZsvuUfvuC9d7G8R/4U",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Regrets (feat. Krewella)",
-        "url": "https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D"
+        "name": "Alibi & Runaway (Remixes)",
+        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
         }
       ],
-      "duration_ms": 184000,
-      "name": "No Regrets (feat. Krewella)",
-      "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
+      "duration_ms": 219553,
+      "name": "Alibi (Far Out Remix)",
+      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
     },
     {
       "added_at": null,
@@ -127,22 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alibi & Runaway (Remixes)",
-        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
+        "name": "No Regrets (feat. Krewella)",
+        "url": "https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Far Out",
-          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 219553,
-      "name": "Alibi (Far Out Remix)",
-      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
+      "duration_ms": 184000,
+      "name": "No Regrets (feat. Krewella)",
+      "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
     },
     {
       "added_at": null,

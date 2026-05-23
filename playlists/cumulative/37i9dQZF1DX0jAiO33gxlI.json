@@ -13242,8 +13242,8 @@
           "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
         },
         {
-          "name": "Dj Saci",
-          "url": "https://open.spotify.com/artist/7qofKUsbiGhdNku4TaVcGf"
+          "name": "DJ Saci",
+          "url": "https://open.spotify.com/artist/1MtiMkKE1nbJQjBfJtuvJt"
         },
         {
           "name": "Chris Beats Zn",
@@ -13254,7 +13254,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 133846,
-      "name": "Fragmentos da Noite",
+      "name": "Fragmento da Noite",
       "url": "https://open.spotify.com/track/3tqs6a258zCjBXx4l7uKq4"
     },
     {
@@ -26763,6 +26763,60 @@
     },
     {
       "album": {
+        "name": "Poetas no Topo 5",
+        "url": "https://open.spotify.com/album/0Oc5j300LAfWzKkbfpes8k"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "AR Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723219,
+      "name": "Poetas no Topo 5",
+      "url": "https://open.spotify.com/track/0HlfxfVXJE8jZqrAM6PRua"
+    },
+    {
+      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -30898,6 +30952,10 @@
         {
           "name": "Link do Zap",
           "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+        },
+        {
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
         }
       ],
       "date_added": "2026-05-15",
@@ -35346,7 +35404,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 91200,
       "name": "Ursinhos Carinhosos Freestyle",
       "url": "https://open.spotify.com/track/3cKBE4s1HzBGcKxYKSjt0a"

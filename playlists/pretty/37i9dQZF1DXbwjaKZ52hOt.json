@@ -1,13 +1,29 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 54510,
+  "num_followers": 54528,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4nxXVOWeHictEUdGILuthuKiLx",
+  "snapshot_id": "AAAAAPiuMMMRKRCVv9zzGntCWNwJ95S8",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:16",
+      "album": {
+        "name": "Five Little Ducks",
+        "url": "https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 149223,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU"
+    },
     {
       "added_at": "2026-05-01 04:00:54",
       "album": {
@@ -1383,22 +1399,6 @@
       "duration_ms": 81970,
       "name": "Little Bo Peep",
       "url": "https://open.spotify.com/track/15qL2xjgda2mNOTym9XO41"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
-      },
-      "artists": [
-        {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
-        }
-      ],
-      "duration_ms": 154361,
-      "name": "Five Little Ducks",
-      "url": "https://open.spotify.com/track/2RBSfeOv7KWXjt7K17JBr1"
     },
     {
       "added_at": "2023-04-26 14:21:34",

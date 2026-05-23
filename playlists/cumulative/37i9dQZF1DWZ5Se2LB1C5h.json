@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00danete a la extravaganza del ne\u00f3n. TOMORA en portada. ",
+  "description": "\u00danete a la extravaganza del ne\u00f3n. R\u00d8Z en portada. ",
   "name": "EUPHORIA",
   "tracks": [
     {
@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Get Busy Time",
+        "url": "https://open.spotify.com/album/3XJSZnYL3SIPSDhO0G3mRP"
+      },
+      "artists": [
+        {
+          "name": "Vertigini",
+          "url": "https://open.spotify.com/artist/60le92YZ1Nbf59c65NQIEV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Get Busy Time",
+      "url": "https://open.spotify.com/track/0wOICjGsWChJZBYRZvJy6L"
+    },
+    {
+      "album": {
         "name": "Gimme That Bounce",
         "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
       },
@@ -1900,6 +1918,28 @@
       "duration_ms": 271968,
       "name": "Havana Bounce",
       "url": "https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u"
+    },
+    {
+      "album": {
+        "name": "HBU",
+        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248391,
+      "name": "HBU",
+      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Genezio.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Naza.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 140667,
       "name": "Corps \u00e0 Corps",
       "url": "https://open.spotify.com/track/0pDCPrK2MzBtLUfuYOzlSL"
@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 155689,
       "name": "Mwasi Chou",
       "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
@@ -13376,6 +13376,24 @@
       "duration_ms": 211854,
       "name": "Temps Eza Te",
       "url": "https://open.spotify.com/track/2I4MIsNTZQQP8tQuVx4RWJ"
+    },
+    {
+      "album": {
+        "name": "Tentation",
+        "url": "https://open.spotify.com/album/3C0G1SjT04gvGoc34GE15P"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179948,
+      "name": "Tentation",
+      "url": "https://open.spotify.com/track/18M04FaA1qU3GYrynMMz2j"
     },
     {
       "album": {

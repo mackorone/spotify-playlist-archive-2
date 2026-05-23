@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-546 songs - 1 day 14 hr 40 min
+547 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Absolutely!](https://open.spotify.com/track/1HNnwy8YxzS3lQo062OJ0n) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg), [Kyle Schroeder](https://open.spotify.com/artist/0bMyCP9f8RvsY6Oe8LkiRC) | [Absolutely!](https://open.spotify.com/album/3hMTyoSx31EbQ5TKx883f5) | 3:42 | 2024-02-16 |  |
 | [Affirmation \(feat\. Tony Terry\)](https://open.spotify.com/track/3rtX3etPKWkFttflEePOgY) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Affirmation \(feat\. Tony Terry\)](https://open.spotify.com/album/1h53j1u4uzF4QQOc6r33WN) | 5:20 | 2021-05-21 | 2022-03-10 |
 | [After Party](https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After Party](https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4) | 3:50 | 2022-09-23 | 2023-06-24 |
+| [After The Rain](https://open.spotify.com/track/0cuxmdFNcW3NmruPfAdxsO) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After The Rain](https://open.spotify.com/album/7DonH7wMVpu50RIvCNMPhi) | 3:44 | 2026-05-22 |  |
 | [All For You \(feat\. Walter Beasley\) \- Radio Edit](https://open.spotify.com/track/5a76unheMGhjq1eDMcQ7z7) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [All for You \(feat\. Walter Beasley\) \[Radio Edit\]](https://open.spotify.com/album/6MdTFdgWikxM32dHFu0inb) | 3:49 | 2025-04-25 | 2026-03-14 |
 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 | 2023-01-27 | 2024-06-08 |
 | [All That Matters](https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [All That Matters](https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN) | 4:37 | 2021-06-25 | 2022-09-17 |
@@ -159,7 +160,7 @@
 | [Essence](https://open.spotify.com/track/0GXwCLCJgQZEEIBDjk3apT) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Essence](https://open.spotify.com/album/2llyTuGKwp8AoqfEOrFMtg) | 4:06 | 2022-01-14 | 2023-08-26 |
 | [Evenin'](https://open.spotify.com/track/56D07KIdzMm1qGRuCwnta6) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Evenin'](https://open.spotify.com/album/6q074jUw32mni0dWflPXHl) | 4:04 | 2021-05-28 | 2022-03-14 |
 | [Everybody Groove](https://open.spotify.com/track/5Rml9CE4KJnj06zjRnLT8P) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Everybody Groove](https://open.spotify.com/album/6MO3gM1jc8Pb9pV4wMhDtM) | 3:32 | 2023-06-23 | 2024-02-10 |
-| [Fancy Footwork](https://open.spotify.com/track/3AEZpQORvCwBWMURTQwmeu) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Fancy Footwork](https://open.spotify.com/album/37TmZNPoy6g2JbhWY8t39Y) | 4:09 | 2025-08-01 |  |
+| [Fancy Footwork](https://open.spotify.com/track/3AEZpQORvCwBWMURTQwmeu) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Fancy Footwork](https://open.spotify.com/album/37TmZNPoy6g2JbhWY8t39Y) | 4:09 | 2025-08-01 | 2026-05-23 |
 | [Feel Flows](https://open.spotify.com/track/1zrMpVPjvooyqOsjPZZrlC) | [Gentleman Professional](https://open.spotify.com/artist/0LXqQL6oACVpXh9S49sn5h) | [Feel Flows](https://open.spotify.com/album/5waUq656AW2oTIsSaYFPnz) | 4:02 | 2024-02-16 |  |
 | [Feel Like Making Love / Night Crawler](https://open.spotify.com/track/1gqPg9GEtilsmtewS1fqTB) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Feel Like Making Love / Night Crawler](https://open.spotify.com/album/3prD0xRzK9E4AGjtjC0gNU) | 9:16 | 2021-10-01 | 2022-09-17 |
 | [Feels Like Friday Night](https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq) | 4:19 | 2020-10-30 | 2022-03-17 |

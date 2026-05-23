@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168377,
+  "num_followers": 168369,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,18 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/5xhtKAwzlpmRIyQAla6upK"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
       },
       "artists": [
         {
-          "name": "blaank",
-          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
-        },
-        {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO"
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -367,6 +363,26 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/5xhtKAwzlpmRIyQAla6upK"
+      },
+      "artists": [
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 127868,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -535,6 +535,30 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "All In One",
         "url": "https://open.spotify.com/album/5b7t6LQrYvDVAnsPf6wf4A"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
-        "name": "Young Folks",
-        "url": "https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Horxata",
-          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
-        },
-        {
-          "name": "Alex Grey",
-          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Love You So",
         "url": "https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 124000,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Thinking About Us",
-        "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Gavin Jones",
-          "url": "https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Thinking About Us",
-      "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/65SfjWg7fnUSzwGN9MuJd9"
       },
@@ -955,6 +935,22 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7"
       },
@@ -971,18 +967,22 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+        "name": "Thinking About Us",
+        "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
       },
       "artists": [
         {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Gavin Jones",
+          "url": "https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru"
         }
       ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+      "duration_ms": 173500,
+      "name": "Thinking About Us",
+      "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 133565,
       "name": "Electric",
       "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        }
-      ],
-      "duration_ms": 144412,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "You Have To Have A Goal",
         "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 133924,
       "name": "You Have To Have A Goal",
       "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        }
+      ],
+      "duration_ms": 144412,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG"
     },
     {
       "added_at": "2026-05-21 22:00:24",

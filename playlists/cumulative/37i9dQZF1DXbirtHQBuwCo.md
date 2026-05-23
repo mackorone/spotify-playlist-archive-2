@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Olivia Marsh \(올리비아 마쉬\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: Gemini\)
 
-912 songs - 2 day 0 hr 8 min
+913 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [No Blueberries](https://open.spotify.com/track/0sGuE1QPupKA3D0LyZbTaN) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [No Blueberries](https://open.spotify.com/album/0b2gjEKztBkBBhQ16bM1JS) | 3:05 | 2022-04-19 | 2022-07-29 |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-03-28 |
 | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh) | 2:56 | 2022-04-19 | 2022-06-26 |
+| [No Sugar in My Coffee](https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [No Sugar in My Coffee](https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne) | 3:11 | 2026-05-22 |  |
 | [No Type \(Prod\. hayul\)](https://open.spotify.com/track/022vyzDtNPZjI72vVyt66x) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2022-11-23 |
 | [No way](https://open.spotify.com/track/3HXqyLcx0FcD6qZrFZ6GFf) | [Ban Estin](https://open.spotify.com/artist/3VphqJqtfCgQT3Sc5spgUR), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [No way](https://open.spotify.com/album/5b4Pzx6dW9s4cbIuAMYqCi) | 3:11 | 2022-07-24 | 2022-07-28 |
 | [No worries, I'm good](https://open.spotify.com/track/4knaEneI5Aus0Iro4Kn6PA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/2FP4cEo5GPPe1HnQDuOE6C) | 2:49 | 2022-12-03 | 2022-12-10 |
@@ -676,7 +677,7 @@
 | [Risk \(Prod\. By Devine Channel\)](https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Devine Channel](https://open.spotify.com/artist/7ESF8rsuKXKPvD1HEFWJfU) | [Risk](https://open.spotify.com/album/0zxAIBeIBvmk0qjsujNwXY) | 2:58 | 2024-09-25 | 2024-10-09 |
 | [RIZZ](https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:44 | 2025-02-05 | 2026-05-07 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 | 2026-04-13 |
-| [Roll](https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/3cVnrjdKcNZuHqY3diBud7) | 2:10 | 2026-05-14 |  |
+| [Roll](https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/3cVnrjdKcNZuHqY3diBud7) | 2:10 | 2026-05-14 | 2026-05-23 |
 | [Rollercoaster](https://open.spotify.com/track/5vQtp2D5HRfqZ1FKmFx9r0) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 2:29 | 2022-12-19 | 2023-01-11 |
 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 | 2024-04-30 | 2024-05-22 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-12 | 2024-12-06 |

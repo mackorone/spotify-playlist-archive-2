@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "C'EST CHAUD (+HOT)",
+        "url": "https://open.spotify.com/album/6tRBX3djX7xkVUBiBhabRs"
+      },
+      "artists": [
+        {
+          "name": "Mitsou",
+          "url": "https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "C'EST CHAUD (+HOT)",
+      "url": "https://open.spotify.com/track/2BDg5rVMGIuaiHKt1PVeI0"
+    },
+    {
+      "album": {
         "name": "Grouillades",
         "url": "https://open.spotify.com/album/4v00M4ceOB1ZNO6Hq3xcty"
       },
@@ -1506,6 +1528,24 @@
       "duration_ms": 187605,
       "name": "Casse-cou",
       "url": "https://open.spotify.com/track/6UyBgaJE770ydCWQiU4fGO"
+    },
+    {
+      "album": {
+        "name": "Ce soir",
+        "url": "https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113110,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3"
     },
     {
       "album": {
@@ -4862,7 +4902,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
@@ -5188,6 +5228,28 @@
       "duration_ms": 190973,
       "name": "M'enfer",
       "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
+    },
+    {
+      "album": {
+        "name": "Ma chanson pr\u00e9f\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/7ar4ggbBmvZyrWXtT2EdpY"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Emmanuelle Querry",
+          "url": "https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165899,
+      "name": "Ma chanson pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69"
     },
     {
       "album": {
@@ -7064,7 +7126,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 141947,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK"
@@ -7380,7 +7442,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 157605,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"

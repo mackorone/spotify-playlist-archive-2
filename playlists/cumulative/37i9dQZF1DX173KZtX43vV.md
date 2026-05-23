@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Stormzy, Odeal
 
-851 songs - 1 day 17 hr 29 min
+853 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 | 2026-04-24 | 2026-05-08 |
 | [back two it](https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [back two it](https://open.spotify.com/album/4CiUB1H0CvjTLkpJMIYWvW) | 1:30 | 2026-01-23 | 2026-02-06 |
 | [Backie](https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Backie](https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz) | 2:08 | 2026-01-02 | 2026-01-16 |
+| [BACKKA](https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:30 | 2026-05-21 |  |
 | [BACKWARDS, INTO U](https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [The Elephant](https://open.spotify.com/album/1fML3Ns0a3fXw8A4Y7CPiK) | 3:28 | 2026-02-13 | 2026-02-27 |
 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:41 | 2026-01-16 | 2026-01-30 |
 | [BAD BIT\*HES](https://open.spotify.com/track/59PzAZnukiRBQJnbPEWzjb) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [BAD BIT\*HES](https://open.spotify.com/album/7v7FPD08cAGFdHhrMro5bD) | 2:06 | 2026-04-17 | 2026-04-25 |
@@ -228,6 +229,7 @@
 | [does it still rain?](https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [does it still rain?](https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B) | 3:34 | 2026-04-17 | 2026-05-01 |
 | [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 | 2025-11-28 | 2025-12-19 |
 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 | 2026-04-17 | 2026-05-01 |
+| [don't be sad :\)!](https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Outsider Music Vol 1: you don't know what you want, do you?](https://open.spotify.com/album/4f5t578repKV8L5eVA75GL) | 2:15 | 2026-05-21 |  |
 | [Don't Hate Me](https://open.spotify.com/track/6ukI0t8qlc8fC6jB4SBG8j) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Don't Hate Me](https://open.spotify.com/album/3mpiUuk113l19V7QIWHOWP) | 2:47 | 2025-10-23 | 2025-11-07 |
 | [Don't Leave](https://open.spotify.com/track/2x40xfY2xAFkKjp3xEHsy8) | [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK) | [Tell Them, I'm Here](https://open.spotify.com/album/12lCMwMaUEb7nWf3yAzmEi) | 4:03 | 2025-11-14 | 2025-11-28 |
 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 | 2026-02-20 | 2026-03-06 |
@@ -414,6 +416,7 @@
 | [July](https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [July](https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO) | 2:32 | 2026-04-10 | 2026-04-25 |
 | [Jump Shot](https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [Jump Shot](https://open.spotify.com/album/4C0Eo4wzTSL8PJwo3mLFnS) | 3:07 | 2026-02-20 | 2026-02-27 |
 | [Just](https://open.spotify.com/track/0A2e8STVNFky2l228Pct1J) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Just](https://open.spotify.com/album/7gbAWb22OT8VotyMzYpFjO) | 2:06 | 2026-04-10 | 2026-04-17 |
+| [Just My Type](https://open.spotify.com/track/2gNlXEKVALGg73k51Ord3x) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Just My Type](https://open.spotify.com/album/21yuAJjTiB2TWc1hoH1iKa) | 2:40 | 2026-05-21 |  |
 | [KAMNESIA](https://open.spotify.com/track/7B5X6FiC3wzImVhO1ht9Kr) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [KAMNESIA](https://open.spotify.com/album/5D1ZO32xR36zp9s6lj331G) | 2:04 | 2025-11-21 | 2025-12-05 |
 | [Keep Coming Back To You](https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Keep Coming Back To You](https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT) | 3:29 | 2026-02-27 | 2026-03-06 |
 | [Keep It Together](https://open.spotify.com/track/0PWuiDpeIQBE3bMhYCOOuB) | [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr), [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Keep It Together](https://open.spotify.com/album/44Q5nZiBOuTcoFIhAB4TEX) | 2:38 | 2026-01-30 | 2026-02-13 |
@@ -630,6 +633,7 @@
 | [Respectfully Yours](https://open.spotify.com/track/5vInsjdXaM5ikAeRr1s1VK) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Respectfully Yours](https://open.spotify.com/album/4WMBflGiNa3ntuXWq4PdHA) | 2:32 | 2025-11-21 | 2025-12-12 |
 | [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 | 2026-03-20 | 2026-04-03 |
 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 | 2026-04-24 | 2026-05-08 |
+| [Ride or Die](https://open.spotify.com/track/1eBWz6s8aMzM3znrbeTYhM) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Ride or Die](https://open.spotify.com/album/08TUmWFX8lSdEYJFc6N4mq) | 2:32 | 2026-05-21 |  |
 | [risky](https://open.spotify.com/track/5yz9WYVGhteTugXMM1WmGG) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [risky](https://open.spotify.com/album/1ZQ8UxrinfnaemqED89I4X) | 2:35 | 2025-12-05 | 2025-12-19 |
 | [Rivers End](https://open.spotify.com/track/4iU6dFUo07jr6jBuwaUUk8) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Rivers End](https://open.spotify.com/album/4GejwOc0Vi6eRZJzw05i6X) | 3:29 | 2026-05-15 |  |
 | [Roll Alone](https://open.spotify.com/track/11lcv4htXgtnCnRpxh0sZi) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Roll Alone](https://open.spotify.com/album/6tnTPfF27aFxyljlThizSY) | 2:34 | 2025-12-12 | 2026-01-15 |
@@ -776,8 +780,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 3](https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Outsider Music Vol 1: you don't know what you want, do you?](https://open.spotify.com/album/4f5t578repKV8L5eVA75GL) | 0:00 | 2026-05-21 |  |
-| [Track 4](https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 0:00 | 2026-05-21 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |

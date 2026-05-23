@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-299 songs - 19 hr 30 min
+300 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All I Needed](https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00) | [Alex Baird](https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX) | [Lemon Tree](https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7) | 5:48 | 2022-05-19 |  |
 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 | 2022-09-08 | 2022-11-13 |
 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 | 2022-03-28 |  |
+| [As If \(feat\. Vanisha Gould\)](https://open.spotify.com/track/3mwk7xlvg8cq6SHhWkkFVS) | [Chris McCarthy](https://open.spotify.com/artist/6QKrf1lY7kAGshQ5TTuFNA), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [As If \(feat\. Vanisha Gould\)](https://open.spotify.com/album/6ZPg8lJwVk2SQ45Z9NzpNH) | 5:01 | 2026-05-22 |  |
 | [At Last](https://open.spotify.com/track/0fJ561ClK3pIJBr0c6dtUX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Both Sides Now](https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ) | 4:28 | 2021-12-21 | 2022-02-25 |
 | [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 | 2021-12-21 |  |
 | [Autumn Leaves \(Songbird 20\)](https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird 20](https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ) | 4:42 | 2021-12-21 |  |
@@ -189,7 +190,7 @@
 | [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH) | 2:07 | 2023-02-02 | 2023-08-19 |
 | [My Ideal](https://open.spotify.com/track/62SIDT5kuZ7whlVegVGkrT) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [My Ideal](https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36) | 4:39 | 2024-08-09 |  |
 | [My Kind of Girl](https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 4:06 | 2021-12-21 | 2022-10-26 |
-| [My Romance](https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [My Romance](https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb) | 2:50 | 2024-08-30 |  |
+| [My Romance](https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [My Romance](https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb) | 2:50 | 2024-08-30 | 2026-05-23 |
 | [My Way](https://open.spotify.com/track/29wGQwGblvBlUbKuS79f25) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Classic Songs, My Way](https://open.spotify.com/album/6Wnovhi56DG9BpxufQLSER) | 5:19 | 2021-12-21 | 2022-09-27 |
 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-09 |  |
 | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO) | 3:37 | 2024-03-20 |  |

@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 132786,
       "name": "Amalgam",
       "url": "https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP"
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/1khUFaN4jTXgQiTetmktiA"
+      },
+      "artists": [
+        {
+          "name": "Carl Faber",
+          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chronos",
+      "url": "https://open.spotify.com/track/3ZtkWvduKbKLyLZoQJesNs"
+    },
+    {
+      "album": {
         "name": "Chute De Neige",
         "url": "https://open.spotify.com/album/1jGeso4zdhTekE74udbEli"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 135124,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/50nkap2cbLP4X1VzDt1qtR"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 140124,
       "name": "Fiume",
       "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182613,
       "name": "Flock of birds",
       "url": "https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT"
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 152850,
       "name": "Particle rise",
       "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
@@ -4964,7 +4982,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 134263,
       "name": "Persante - Upright Reframings",
       "url": "https://open.spotify.com/track/3XYRWuuhTJjuZliSwjOrpg"
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 179500,
       "name": "Refraction",
       "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 124604,
       "name": "Senses",
       "url": "https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f"
@@ -6736,7 +6754,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 159596,
       "name": "The Optimist",
       "url": "https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ"
@@ -6988,7 +7006,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 213828,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f"

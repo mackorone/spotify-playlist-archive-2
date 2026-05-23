@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 59793,
+  "num_followers": 59824,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -60,12 +60,12 @@
           "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
       "duration_ms": 183947,
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-22 00:02:00",
       "album": {
-        "name": "Lala",
-        "url": "https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Lala",
-      "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
-    },
-    {
-      "added_at": "2026-05-22 00:02:00",
-      "album": {
         "name": "Diamond Baby",
         "url": "https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 192000,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/1QijvlQODtLRdeyhL6M5Uy"
+    },
+    {
+      "added_at": "2026-05-22 00:02:00",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
     },
     {
       "added_at": "2026-05-22 00:02:00",

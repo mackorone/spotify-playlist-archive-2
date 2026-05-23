@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "<a href=\"spotify:artist:2SNzxY1OsSCHBLVi77mpPQ\">Joe Bonamassa</a> is taking over to share his blues favorites",
-  "name": "In the Name of the Blues: Joe Bonamassa Takeover",
+  "description": "<a href=\"spotify:artist:2gFsmDBM0hkoZPmrO5EdyO\">Tedeschi Trucks Band</a> is taking over to share their blues favorites",
+  "name": "In the Name of the Blues: Tedeschi Trucks Band Takeover",
   "tracks": [
     {
       "album": {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 376602,
       "name": "Aim To Please",
       "url": "https://open.spotify.com/track/2dW1rXLh6rNd0sEKKWYklb"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Already Free",
+        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "Already Free",
+      "url": "https://open.spotify.com/track/7b1RRRTgpcaGvZF67HuMyZ"
+    },
+    {
+      "album": {
         "name": "Ancestors",
         "url": "https://open.spotify.com/album/3aWCveWoOV0ELaCK5SKrEr"
       },
@@ -248,6 +266,24 @@
       "duration_ms": 270329,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/2ILNpVJ177m2QOGZUaUxHb"
+    },
+    {
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "album": {
@@ -360,7 +396,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 217160,
       "name": "Back To What Feels Right",
       "url": "https://open.spotify.com/track/5d7DlOz4W7snQiDrRYGqKp"
@@ -494,6 +530,28 @@
       "duration_ms": 225073,
       "name": "Belfast Blues",
       "url": "https://open.spotify.com/track/0vPmL8Ny1ruNSGCMY9TOir"
+    },
+    {
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291841,
+      "name": "Bell Bottom Blues - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/60sdSxvEoAvOm8lbokakcA"
     },
     {
       "album": {
@@ -660,7 +718,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 289603,
       "name": "Blues Chase The Blues Away",
       "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
@@ -804,10 +862,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 250453,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (Remaster)",
+        "url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259741,
+      "name": "Bring It on Home - Remaster",
+      "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76"
     },
     {
       "album": {
@@ -862,7 +938,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 418120,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT"
@@ -1036,6 +1112,24 @@
       "duration_ms": 172306,
       "name": "Come On In My Kitchen",
       "url": "https://open.spotify.com/track/10W125nMbncRGcXRBoACOx"
+    },
+    {
+      "album": {
+        "name": "D & B Together",
+        "url": "https://open.spotify.com/album/3YdU6tV7NwMprX9NcC612g"
+      },
+      "artists": [
+        {
+          "name": "Delaney & Bonnie",
+          "url": "https://open.spotify.com/artist/6dTCMsjfH2odCFlNb36SCG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/7ad6wbYbJEfYsrEKSGmOzh"
     },
     {
       "album": {
@@ -1354,6 +1448,24 @@
       "duration_ms": 323613,
       "name": "Devil And The Deep Blue Sea",
       "url": "https://open.spotify.com/track/4IujrVjoA1iAzq3NdhxZC7"
+    },
+    {
+      "album": {
+        "name": "Future Soul",
+        "url": "https://open.spotify.com/album/0IIclpU7Lzvz71AILfMNo1"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275053,
+      "name": "Devil Be Gone",
+      "url": "https://open.spotify.com/track/3dpjlyxt49s3uXVPf7P8G2"
     },
     {
       "album": {
@@ -1799,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "album": {
         "name": "Everything You Got",
         "url": "https://open.spotify.com/album/2fivjdy1mXHmWC6SamrCxv"
       },
@@ -1976,7 +2106,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209508,
       "name": "Feel That Sting",
       "url": "https://open.spotify.com/track/4sHytClqeMxD1XI5CWXRqT"
@@ -2074,7 +2204,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 344388,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/688joP02CmoHbjB5GpQlpd"
@@ -2132,6 +2262,24 @@
       "duration_ms": 201621,
       "name": "Full Moon, Half Crazy",
       "url": "https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z"
+    },
+    {
+      "album": {
+        "name": "Future Soul",
+        "url": "https://open.spotify.com/album/0IIclpU7Lzvz71AILfMNo1"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199288,
+      "name": "Future Soul",
+      "url": "https://open.spotify.com/track/22g6ynqvlLeCWbSivatCBT"
     },
     {
       "album": {
@@ -2229,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Knew",
+        "url": "https://open.spotify.com/album/4leuiqELjDGFALrfHcEZyn"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Get Out of My Life Woman",
+      "url": "https://open.spotify.com/track/2lEf6XmMxXMjHZQnoG3O8S"
+    },
+    {
+      "album": {
         "name": "BLU JA VU",
         "url": "https://open.spotify.com/album/34ZSuZxvmju7MSHd8K9kCQ"
       },
@@ -2258,10 +2424,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 187701,
       "name": "Get Up And Go",
       "url": "https://open.spotify.com/track/24BQJuprw8xZ48JM0Y6ctp"
+    },
+    {
+      "album": {
+        "name": "Already Free",
+        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/01I5FcVMxQVK82Or8ptxjI"
     },
     {
       "album": {
@@ -2276,7 +2460,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 252602,
       "name": "Gold Tooth Devil Blues",
       "url": "https://open.spotify.com/track/672J6RmsEo29L8CPKULe4S"
@@ -2359,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
+    },
+    {
+      "album": {
         "name": "Preacher Kids",
         "url": "https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV"
       },
@@ -2370,7 +2572,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 293760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6SBBUPEqojwKTEJUZkXFzJ"
@@ -2460,10 +2662,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 152038,
       "name": "Hate the Bite",
       "url": "https://open.spotify.com/track/4SxC5JgtEf7Z0Dz7fBFj4Q"
+    },
+    {
+      "album": {
+        "name": "I Am The Moon: I. Crescent",
+        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334600,
+      "name": "Hear My Dear",
+      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
       "album": {
@@ -2646,7 +2866,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 227455,
       "name": "Hold Of My Heart (Acoustic)",
       "url": "https://open.spotify.com/track/3HlPerCgO0rf8kaB9FaWBs"
@@ -2664,7 +2884,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 163038,
       "name": "Hold On I'm Coming",
       "url": "https://open.spotify.com/track/2g571V5ZiJwrPjKPfmBuMl"
@@ -2722,6 +2942,24 @@
       "duration_ms": 238173,
       "name": "Hope You Realize It (Goodbye Again)",
       "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
+    },
+    {
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1luQwXgJMgF7rs0mYg5uXa"
     },
     {
       "album": {
@@ -2987,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350133,
+      "name": "I Walk On Guilded Splinters",
+      "url": "https://open.spotify.com/track/4QZazZRZRj9NlJzdXgSv6W"
+    },
+    {
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -3114,7 +3370,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214640,
       "name": "I'll Take The Blame",
       "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
@@ -3295,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311865,
+      "name": "Idle Wind",
+      "url": "https://open.spotify.com/track/3iqAC1HBYU2woWa4XH0DxY"
+    },
+    {
+      "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
       },
@@ -3451,6 +3725,46 @@
     },
     {
       "album": {
+        "name": "An Anthology Vol. 2",
+        "url": "https://open.spotify.com/album/7mCM1UranNTwExJX9flWPU"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "It Ain't Fair",
+      "url": "https://open.spotify.com/track/4y4KGkGp6qoewYhQdcQfT3"
+    },
+    {
+      "album": {
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "It Hurt So Bad",
+      "url": "https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8"
+    },
+    {
+      "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -3599,6 +3913,46 @@
     },
     {
       "album": {
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286226,
+      "name": "Just Won't Burn",
+      "url": "https://open.spotify.com/track/5omrod7aSABIjugObd9gKK"
+    },
+    {
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 721965,
+      "name": "Keep On Growing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/2QuTtUV6l2ZS3jxydfx6IX"
+    },
+    {
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd"
       },
@@ -3675,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292043,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "album": {
         "name": "Let Me Down Easy: Bettye LaVette In Memphis (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/6U3CYjgNkTs2EUnQ30favQ"
       },
@@ -3690,6 +4062,50 @@
       "duration_ms": 172000,
       "name": "Let Me Down Easy - Remastered 2022",
       "url": "https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH"
+    },
+    {
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/4ylypWE9ilh1z0T794bx42"
+    },
+    {
+      "album": {
+        "name": "Tedeschi Trucks Band and Leon Russell Present: Mad Dogs & Englishmen Revisited Live at LOCKN'",
+        "url": "https://open.spotify.com/album/27FphgeICQ3ebMdqJOYbMp"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Leon Russell",
+          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342760,
+      "name": "Let's Go Get Stoned [Feat. Susan Tedeschi] - Live at LOCKN' / 2015",
+      "url": "https://open.spotify.com/track/63oQf8SGQnxKrxYibdG22H"
     },
     {
       "album": {
@@ -3740,7 +4156,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 295373,
       "name": "Life After Dark",
       "url": "https://open.spotify.com/track/1asRUKGIpkIyxUhH6by0T6"
@@ -3874,7 +4290,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193600,
       "name": "Long Way From Home",
       "url": "https://open.spotify.com/track/1vVdPBhhh6GV8D4NC5JbjE"
@@ -3997,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Back To The River",
+        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "Love Will",
+      "url": "https://open.spotify.com/track/5kz7r7z8EWPkYcUYfGLgR2"
+    },
+    {
+      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -4016,6 +4450,24 @@
       "duration_ms": 231800,
       "name": "Love, The Time Is Now",
       "url": "https://open.spotify.com/track/2Q0hoSQVjyzyRbzNKzCRB7"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Loving Cup",
+      "url": "https://open.spotify.com/track/05BcisbhFsmVpTZ0kGD7gK"
     },
     {
       "album": {
@@ -4637,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/0ToHhkK4qtwEyKOxhQpMbJ"
+    },
+    {
+      "album": {
         "name": "Traveling Wildfire",
         "url": "https://open.spotify.com/album/3Y2fPIAIS0ETZGTECBvgj3"
       },
@@ -4768,7 +5238,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 346413,
       "name": "Pain's On Me",
       "url": "https://open.spotify.com/track/1PsuXNLxsQbBPShaXMrBmu"
@@ -4984,7 +5454,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 216001,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/0hxKn7ONOzNsTO0kEX4Rbc"
@@ -5082,6 +5552,42 @@
       "duration_ms": 167866,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/1miwQNADgNEBikbUBful7z"
+    },
+    {
+      "album": {
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "album": {
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "Rock Me Right",
+      "url": "https://open.spotify.com/track/2krLmoJZp1Wfa3ovYp3UUx"
     },
     {
       "album": {
@@ -5548,7 +6054,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 211685,
       "name": "Six String Baby",
       "url": "https://open.spotify.com/track/6qlhUpeKhob6WJksrTOshl"
@@ -5700,7 +6206,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 239160,
       "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
       "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
@@ -5718,7 +6224,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
@@ -6057,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "Already Free",
+        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278906,
+      "name": "Sweet Inspiration",
+      "url": "https://open.spotify.com/track/6RMhGW31lycj4UqKsLIJyr"
+    },
+    {
+      "album": {
         "name": "Live In Cook County Jail",
         "url": "https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ"
       },
@@ -6289,6 +6813,32 @@
     },
     {
       "album": {
+        "name": "Tedeschi Trucks Band and Leon Russell Present: Mad Dogs & Englishmen Revisited Live at LOCKN'",
+        "url": "https://open.spotify.com/album/27FphgeICQ3ebMdqJOYbMp"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Leon Russell",
+          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255920,
+      "name": "The Letter [Feat. Susan Tedeschi] - Live at LOCKN' / 2015",
+      "url": "https://open.spotify.com/track/7GW2TwGvIvHwRT3BjmEkNI"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -6322,6 +6872,24 @@
       "duration_ms": 204600,
       "name": "The Right Time",
       "url": "https://open.spotify.com/track/1piX68vNesm5gA3ZRM3z6Y"
+    },
+    {
+      "album": {
+        "name": "Elmore James Blues Legends",
+        "url": "https://open.spotify.com/album/6HvDWzm2tXimysskeET6YI"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170254,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/7mW3XmWeDUo02M4GbO0fiC"
     },
     {
       "album": {
@@ -6514,7 +7082,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 287998,
       "name": "Three Hundred Pounds of Joy (feat. Los Lobos)",
       "url": "https://open.spotify.com/track/6apS9KyNIEpZTLwwxHkEEk"
@@ -6572,6 +7140,36 @@
       "duration_ms": 427480,
       "name": "Time Clocks",
       "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
+    },
+    {
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330920,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR"
     },
     {
       "album": {
@@ -6716,7 +7314,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 257733,
       "name": "Try To Be A Good Man",
       "url": "https://open.spotify.com/track/5gnQVADFxuqnktZ6JLb9xr"
@@ -6738,6 +7336,24 @@
       "duration_ms": 177360,
       "name": "Uncloudy Day",
       "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
+    },
+    {
+      "album": {
+        "name": "Future Soul",
+        "url": "https://open.spotify.com/album/0IIclpU7Lzvz71AILfMNo1"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212730,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/0anrWEEtnk0zWkOY3jxQev"
     },
     {
       "album": {
@@ -6796,7 +7412,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 275500,
       "name": "Vibe With Me",
       "url": "https://open.spotify.com/track/1doli38doVA6Ypm5Z1TnzR"
@@ -6832,7 +7448,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 227000,
       "name": "Voodoo Charm",
       "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
@@ -7077,6 +7693,42 @@
     },
     {
       "album": {
+        "name": "Hot Rats",
+        "url": "https://open.spotify.com/album/0WYYrC9My9rYWigac003hw"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563400,
+      "name": "Willie The Pimp",
+      "url": "https://open.spotify.com/track/3toxxSU3TcvzgmeR8LLUiX"
+    },
+    {
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Woman Across The River",
+      "url": "https://open.spotify.com/track/3KNaBpyqvJUQxT4NHsK5eP"
+    },
+    {
+      "album": {
         "name": "The Traveler",
         "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
@@ -7154,7 +7806,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 189226,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/0VQaWR6CMXM5TqI9uAAFKu"

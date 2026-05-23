@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Isaiah Rashad",
+  "description": "Chillout hip-hop vibes. Cover: 6LACK",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -240,6 +240,28 @@
       "duration_ms": 325833,
       "name": "1019",
       "url": "https://open.spotify.com/track/6rOLIMHvCZtpJWl0N9oP3F"
+    },
+    {
+      "album": {
+        "name": "11:49",
+        "url": "https://open.spotify.com/album/6EO7FdR5aPzJYhte0C6JVk"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "11:49",
+      "url": "https://open.spotify.com/track/1HlqlxPrjSAVePuTXyRW0q"
     },
     {
       "album": {
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168275,
       "name": "Always Us",
       "url": "https://open.spotify.com/track/6JLGyejXhQpkFfojlvYk8f"
@@ -3111,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/4LzeEOcoLYARhdnO7KcdS3"
+    },
+    {
+      "album": {
         "name": "Beautiful Madness",
         "url": "https://open.spotify.com/album/50vg1WAgdsvSdGfqydIqlm"
       },
@@ -3508,7 +3548,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178520,
       "name": "Bird Flu",
       "url": "https://open.spotify.com/track/3qzYpnWOvJKRAqN6QBZRro"
@@ -4521,6 +4561,28 @@
     },
     {
       "album": {
+        "name": "EXPERIMENTAL RAP",
+        "url": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Buzzy Lee",
+          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "Bridges on Fire",
+      "url": "https://open.spotify.com/track/6gkXRvq7zdF5tupL7wpXXo"
+    },
+    {
+      "album": {
         "name": "Bring Your Lungs (feat. Smoke DZA)",
         "url": "https://open.spotify.com/album/2cJt7TdxGyYN1AGgQNwBmV"
       },
@@ -5124,6 +5186,24 @@
       "duration_ms": 228872,
       "name": "CAMERAS",
       "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj"
+    },
+    {
+      "album": {
+        "name": "Can We Just",
+        "url": "https://open.spotify.com/album/68aKuLqmxV3jHfeYmXulnN"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Can We Just",
+      "url": "https://open.spotify.com/track/5AIGohUSnJO7Eoj1OuB8I8"
     },
     {
       "album": {
@@ -9772,7 +9852,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 189176,
       "name": "Family Issues (starring B Free)",
       "url": "https://open.spotify.com/track/0nJaKSedawRSJJwYmFY6ag"
@@ -11584,7 +11664,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 222528,
       "name": "Give It All 4 My B****_PINK",
       "url": "https://open.spotify.com/track/38HOBD25hhwDTJABkyB1cG"
@@ -13604,7 +13684,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 243664,
       "name": "Home Improvement",
       "url": "https://open.spotify.com/track/2d43GqzAv02VspjBnsOJ4y"
@@ -15864,7 +15944,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 131661,
       "name": "Just Like Cole",
       "url": "https://open.spotify.com/track/6PQVTFShtMSMHcmpt4TDll"
@@ -17284,7 +17364,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 142335,
       "name": "LOADING SCREEN...",
       "url": "https://open.spotify.com/track/4Ec84slspGxVZDsJS8MMZ0"
@@ -22888,7 +22968,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 224661,
       "name": "PT Cruiser",
       "url": "https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse"
@@ -24170,6 +24250,28 @@
       "duration_ms": 205925,
       "name": "RUNITUP.",
       "url": "https://open.spotify.com/track/08OT6WJFsBHUXfSXLDTizK"
+    },
+    {
+      "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "RUNNING LATE FREESTYLE (with Mereba)",
+      "url": "https://open.spotify.com/track/5hLkU81w49KwwSdvLbOm4y"
     },
     {
       "album": {
@@ -27347,6 +27449,28 @@
     },
     {
       "album": {
+        "name": "Summer's Eve",
+        "url": "https://open.spotify.com/album/0OIrIgDnitB9yMYLYyf41e"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246205,
+      "name": "Summer's Eve",
+      "url": "https://open.spotify.com/track/0oxiKdGSTfVNfK1flDbDD7"
+    },
+    {
+      "album": {
         "name": "God Does Like Ugly (Alternate Version)",
         "url": "https://open.spotify.com/album/1wD9BC4z0nChaws7elZs4F"
       },
@@ -28294,6 +28418,24 @@
       "duration_ms": 192071,
       "name": "That's Not Your Path (feat. Babyface Ray & Sango)",
       "url": "https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX"
+    },
+    {
+      "album": {
+        "name": "The $triker",
+        "url": "https://open.spotify.com/album/4jVjrpt7IloeMoySROYE5y"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154540,
+      "name": "The $triker",
+      "url": "https://open.spotify.com/track/2FtDaDbCDpIHur0OHF8hHp"
     },
     {
       "album": {
@@ -29912,7 +30054,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182972,
       "name": "Trade Places",
       "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
@@ -31727,6 +31869,24 @@
     },
     {
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "Wifey Baby Mama",
+      "url": "https://open.spotify.com/track/5TnUFoJwuOyb3XZDanOnrO"
+    },
+    {
+      "album": {
         "name": "wimhof",
         "url": "https://open.spotify.com/album/74KkMGjWKz63qfraiEdrNX"
       },
@@ -32134,7 +32294,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 166956,
       "name": "Yoppenheimer - Remix",
       "url": "https://open.spotify.com/track/39tC2YIcSYKqA5kdpL5ZqP"

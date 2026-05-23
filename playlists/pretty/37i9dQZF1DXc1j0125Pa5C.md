@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan, Kamisa 10
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,057 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,080 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Valeu pra Aprender / Pra Gente Ficar Numa Boa \- Ao Vivo](https://open.spotify.com/track/2kHuEHBarkDHAcsBVk2vEm) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Pagodom 2 \(Ao Vivo\)](https://open.spotify.com/album/2lfaXvVCTVbKu9GEGEiyjp) | 3:55 |
 | 75 | [Placa de Perigo / Valeu Pra Aprender](https://open.spotify.com/track/4OlFz6Bt8XbDsOQ3W3R7u8) | [Puro Clima](https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq) | [Placa de Perigo / Valeu Pra Aprender](https://open.spotify.com/album/60tScWc5iTl1mgJlEHJHml) | 3:49 |
 
-Snapshot ID: `AAAAAGjxdVY9hhGQQ2y4dRF9RkbLRFfW`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

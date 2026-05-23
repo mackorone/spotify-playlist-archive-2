@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
@@ -4286,6 +4286,24 @@
       "duration_ms": 190167,
       "name": "I'm Curious",
       "url": "https://open.spotify.com/track/5wl4ycUNQn2SWhW9nDh3Oe"
+    },
+    {
+      "album": {
+        "name": "Di Hotel Malibu",
+        "url": "https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169439,
+      "name": "I'm Just A Girl",
+      "url": "https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA"
     },
     {
       "album": {

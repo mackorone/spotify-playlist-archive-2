@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : DAKEEZ
 
-717 songs - 1 day 9 hr 48 min
+717 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [J'FAIS COMMENT](https://open.spotify.com/track/2DBIkYuS4PvDaXEJqj2vTn) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [AI](https://open.spotify.com/album/6RcthwbXq2HDWUfIQ2jcmB) | 3:44 | 2025-05-08 | 2025-05-30 |
 | [J'hallucine](https://open.spotify.com/track/0wqcFuj737U2r1Sa0R6Pi2) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [J'hallucine](https://open.spotify.com/album/4krPzYrwDwC2bWhNJvqvdZ) | 2:36 | 2025-01-30 | 2025-02-28 |
 | [J'la connais, Pt\. 2 \- Jamais](https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 2 \(Jamais\)](https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt) | 2:49 | 2023-02-02 | 2023-04-14 |
+| [J'OUBLIERAI](https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BACKSTAGE](https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN) | 2:47 | 2026-05-21 |  |
 | [J'PENSE À TOI](https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:11 | 2026-03-26 |  |
 | [J'æ aççepté](https://open.spotify.com/track/5DN6GhHoXrZlWh1qN6T3yW) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [J'æ aççepté](https://open.spotify.com/album/3EDmTC0V0Wj64XIxIrmNkQ) | 3:30 | 2025-01-02 | 2025-09-12 |
 | [J'élimine](https://open.spotify.com/track/1U13A13YafzmqthKXiul91) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [J'élimine](https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo) | 2:17 | 2022-11-24 | 2023-04-28 |
@@ -681,7 +682,6 @@
 | [Tout se sait](https://open.spotify.com/track/3AwtCxUXJfQqy2mwWVRzTl) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Tout se sait](https://open.spotify.com/album/4HopVoWJplseTouNu1qJnU) | 3:32 | 2026-01-15 | 2026-02-27 |
 | [Toxic](https://open.spotify.com/track/69YKkqBo1RGZzW6z3cBfiQ) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Djene's Room](https://open.spotify.com/album/2Cw6MkVoG0jxOfywMc9zyE) | 2:48 | 2024-12-05 | 2025-01-17 |
 | [TPMP](https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [TPMP](https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT) | 2:42 | 2024-01-11 | 2024-05-17 |
-| [Track 6](https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BACKSTAGE](https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN) | 0:00 | 2026-05-21 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
 | [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 | 2024-03-01 |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |

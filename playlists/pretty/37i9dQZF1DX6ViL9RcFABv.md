@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop selecionada por Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,274 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,319 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 11 | [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 |
 | 12 | [Rapariga \(feat\. Amália Rodrigues\)](https://open.spotify.com/track/12FmYEHJy6B13Mg1THQoAG) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Lusa: ato II](https://open.spotify.com/album/7kDPFNG3yYCLjhIElwAWJh) | 2:50 |
 | 13 | [Dancemos Um Slow](https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Recantigas \- As Canções de Miguel Araújo](https://open.spotify.com/album/39eVM72MnmYcyNIiDVLmwj) | 3:46 |
-| 14 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
+| 14 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/7B6teQtsPrPQlnlXNf1HH9) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Dónde, Cómo y Cuándo?](https://open.spotify.com/album/4lmRCmCPFsY9XPjdOrtFFD) | 3:03 |
 | 15 | [Tu Não Fazes Ideia](https://open.spotify.com/track/2xueUU3rWCIjfPgi7AQbtV) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [FELIZ\(MENTE\) TRISTE](https://open.spotify.com/album/6LnTI1UXriKylO3z4H8PIN) | 3:48 |
 | 16 | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/track/2Wx3KYVPj7OxIPPcCwQqMl) | [Elisa](https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh), [Tiago Nogueira](https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF) | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/album/0Oj590VuDO7PDwHnlz8Cq1) | 2:46 |
 | 17 | [Nem Tudo É Mágoa](https://open.spotify.com/track/0CTQMav4Gjx1ngZSrZGibo) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [Foz](https://open.spotify.com/album/1CFdSUlqKZ7bwHZjYanvOZ) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 79 | [um do outro](https://open.spotify.com/track/6gw8EpXw9txLByfBqqDUL2) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [8/80](https://open.spotify.com/album/02jJwgULkZZtk7iuwr71xz) | 2:44 |
 | 80 | [Olá Amor](https://open.spotify.com/track/4qCffxC8QBjX9C6OGYIdgQ) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8) | [Olá Amor](https://open.spotify.com/album/2SeyKQhmsQKqT2LMVD03F0) | 2:37 |
 
-Snapshot ID: `AAAAACnVVzNo9A+FqXVfLAROU4hO+4sb`
+Snapshot ID: `AAAAAHCG6Hi8uzMep7Wio0GF5tcH8V9k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen x Limitlezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,962 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,978 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 5 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
 | 6 | [NO EX NO STRESS \(feat\. Tiitof\)](https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS) | [NO EX NO STRESS \(feat\. Tiitof\)](https://open.spotify.com/album/7f7XKdVoTuxT8od0CDVSs4) | 2:09 |
 | 7 | [Gwan So](https://open.spotify.com/track/6usphpoSCVuYUVSMq8sHkt) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Gwan So](https://open.spotify.com/album/0JUTmX8JSjLz3wbSrZe688) | 2:18 |
-| 8 | [Track 3](https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [VOLCAN](https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4) | 0:00 |
+| 8 | [MÈTRE CARRÉ](https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [VOLCAN](https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4) | 2:34 |
 | 9 | [Boombastic](https://open.spotify.com/track/708OVhCZdIviGsdRWBHhhE) | [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/3xuMTE4mIKXdwlbpS6BioK) | 2:02 |
 | 10 | [Elle veut du Shatta](https://open.spotify.com/track/4ZLSVl3840bEdk7dZ6Iymr) | [Lagess](https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [Elle veut du Shatta](https://open.spotify.com/album/4mVmjFfjYEjJ5m4FXeBg5Z) | 2:31 |
 | 11 | [FIGHTER](https://open.spotify.com/track/0FVe8CyoA52R8qzknHIfup) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Badbay Mono](https://open.spotify.com/artist/057IZtL2EQtspbfn8zIe4w), [ZOE LUCY](https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2) | [FIGHTER](https://open.spotify.com/album/0f5MpprJcycYhoRsvWMz6x) | 3:26 |

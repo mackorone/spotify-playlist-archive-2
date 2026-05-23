@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Omar Camacho y Santa Fe Klan \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Bohemio \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 158898,
       "name": "4ME",
       "url": "https://open.spotify.com/track/012XWqY8ubhf0Sh3bM3r7k"
@@ -2930,6 +2930,24 @@
       "duration_ms": 158804,
       "name": "AUNQUE SEA EN DOS",
       "url": "https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4g5yoaktsAGTvAroISQBkk"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135833,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/7DTge7ZIrqW6gvcCt67xsl"
     },
     {
       "album": {
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 167562,
       "name": "DM",
       "url": "https://open.spotify.com/track/23bkRjp7mkcFOAoALE6ZmZ"
@@ -13182,7 +13200,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 241500,
       "name": "Fue tu ex o q?",
       "url": "https://open.spotify.com/track/0UlUmRwm9J6XjZ0ja9uTIy"
@@ -14550,6 +14568,24 @@
       "duration_ms": 302968,
       "name": "Huelo A Logro (Live)",
       "url": "https://open.spotify.com/track/4wQlgWVHhzzci6pkPrqK1G"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed A Caer",
+        "url": "https://open.spotify.com/album/6xnjKQ5RzgxxcOUT6LdgmE"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154563,
+      "name": "Huevito",
+      "url": "https://open.spotify.com/track/4APsOYa3gOPJZo0cCpqyiu"
     },
     {
       "album": {
@@ -16483,6 +16519,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Cena",
+        "url": "https://open.spotify.com/album/3mbcRvQ37IVTUnFRVPwvAq"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191850,
+      "name": "La \u00daltima Cena",
+      "url": "https://open.spotify.com/track/1RIMcxAYKCbg3xYvsW7Idt"
+    },
+    {
+      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -17806,7 +17860,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196586,
       "name": "Los D\u00edas",
       "url": "https://open.spotify.com/track/58ywp1imKiUkend4q6UaSl"
@@ -19726,6 +19780,32 @@
       "duration_ms": 218960,
       "name": "Mi Corrido",
       "url": "https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy"
+    },
+    {
+      "album": {
+        "name": "MI CUERNO",
+        "url": "https://open.spotify.com/album/21GlXlFLPqtfNaBjQi0gAk"
+      },
+      "artists": [
+        {
+          "name": "Distinto",
+          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
+        },
+        {
+          "name": "Yng H",
+          "url": "https://open.spotify.com/artist/73fECKkmLG1JhM4FeWmOib"
+        },
+        {
+          "name": "KVYN",
+          "url": "https://open.spotify.com/artist/1xznCruZ0AWbDzsPXTX3d6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220056,
+      "name": "MI CUERNO",
+      "url": "https://open.spotify.com/track/7uudc322twEMQnJiFL1KNL"
     },
     {
       "album": {
@@ -22725,6 +22805,24 @@
     },
     {
       "album": {
+        "name": "A Mi Modo, Pt. 2",
+        "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183317,
+      "name": "No Se Lo Digas A Ella",
+      "url": "https://open.spotify.com/track/32eOUym8jszwzTiFjq9L7K"
+    },
+    {
+      "album": {
         "name": "CERO MIEDO",
         "url": "https://open.spotify.com/album/1haYUGKyZ79gGcSFjBTyCg"
       },
@@ -23457,6 +23555,24 @@
     },
     {
       "album": {
+        "name": "ODIAME",
+        "url": "https://open.spotify.com/album/09JlIT8ovsV0REEQyO3Czk"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184948,
+      "name": "ODIAME",
+      "url": "https://open.spotify.com/track/4hOmngnx0sfz96914mdBd4"
+    },
+    {
+      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -23982,7 +24098,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196946,
       "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
@@ -25230,7 +25346,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 149027,
       "name": "PLAKOZONA INVENTADA",
       "url": "https://open.spotify.com/track/7n8en2dDawQ9flafWLoqPz"
@@ -27333,6 +27449,24 @@
     },
     {
       "album": {
+        "name": "regalametutiempo",
+        "url": "https://open.spotify.com/album/2ZamtazBIQlLM8pPcJvPZs"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181916,
+      "name": "regalametutiempo",
+      "url": "https://open.spotify.com/track/67dAEz6RgbY2v3sc6cSc04"
+    },
+    {
+      "album": {
         "name": "Reina De Mi Amor",
         "url": "https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP"
       },
@@ -28382,7 +28516,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196766,
       "name": "Se Me Va A Pasar",
       "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
@@ -32876,6 +33010,24 @@
       "duration_ms": 168878,
       "name": "Varios A\u00f1os",
       "url": "https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q"
+    },
+    {
+      "album": {
+        "name": "Vasito en mano",
+        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Vasito en mano",
+      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "album": {

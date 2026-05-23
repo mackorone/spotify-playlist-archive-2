@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agz5gAAAAAB6IA33/6qWWVKBeu8FHn9L",
+  "snapshot_id": "ag5LAAAAAAAIdmRKOlQaoQFmRCnNKj9R",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 251544,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
+      "duration_ms": 288750,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 288750,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 171733,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/0rmS4JGPXQuXUk8ZCIksIJ"
+      "duration_ms": 198306,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+        "name": "Bullet Head",
+        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 178232,
+      "name": "Psycho - Demo",
+      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 169764,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullet Head",
-        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 178232,
-      "name": "Psycho - Demo",
-      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,573 likes - 91 songs - 4 hr 56 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,572 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 89 | [Celestial](https://open.spotify.com/track/5IxhL7v0vuNE2ByiBvpHXd) | [Charlotte MacInnes](https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb) | [Celestial](https://open.spotify.com/album/4WYnPpC3He0g4cimByJMfw) | 3:03 |
 | 90 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 | 91 | [Time to Time \(Annie\)](https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Time to Time \(Annie\)](https://open.spotify.com/album/05USGegWxbTPtVePsT3oru) | 2:52 |
+| 92 | [Sentimental Letter](https://open.spotify.com/track/5adGRhI6B086KTZworLOCB) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Sentimental Letter](https://open.spotify.com/album/6kj7KM5Mh4YaRv5Z2BnI2T) | 3:15 |
 
-Snapshot ID: `AAAIEZqqPRVwU5y1TZGu/TYP1HqNz6Z9`
+Snapshot ID: `AAAIEjuRkZRXIulHW2UNAgF2+J3jG43t`

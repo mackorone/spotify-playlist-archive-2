@@ -1755,6 +1755,32 @@
     },
     {
       "album": {
+        "name": "Uematsu: Merregnon: Heart of Ice: The Ice Labyrinth",
+        "url": "https://open.spotify.com/album/40boqzCo33r93RMhx1xlDj"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Eckehard Stier",
+          "url": "https://open.spotify.com/artist/6TKr9lhopxSd6jE1aOwHx5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Merregnon: Heart of Ice: The Ice Labyrinth",
+      "url": "https://open.spotify.com/track/08J96cMj76zpraZDbtSRFE"
+    },
+    {
+      "album": {
         "name": "Middle Of The Night (Violin)",
         "url": "https://open.spotify.com/album/4q133kwwkwcrxDTPmd4Nsd"
       },

@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190798,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6r7oPntmW7s4wOmLJIeWOa"
@@ -1856,6 +1856,24 @@
       "duration_ms": 172239,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI"
+    },
+    {
+      "album": {
+        "name": "Summer Starts Now",
+        "url": "https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137153,
+      "name": "Summer Starts Now",
+      "url": "https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP"
     },
     {
       "album": {

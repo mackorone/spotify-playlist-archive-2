@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Melhor Que Imaginei (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/665wxUWY7WxZmywBWF9VpO"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "90/10 - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/0OoK8jd334ch4BSuZxp1B0"
+    },
+    {
+      "album": {
         "name": "Melhor Que Imaginei | EP01 (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/3W1RDXIugXi6OKDTlaNAAw"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 186547,
       "name": "90/10 - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4DqwiZjicetHqqxl9cUID5"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -6750,7 +6768,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -7034,6 +7052,32 @@
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
+        "name": "Sertanejo S\u00e9rie A | Vol.1 (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2FdsBPfEu76xPyQB3F1eR9"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322772,
+      "name": "J\u00e1 N\u00e3o Sei Mais Nada / Juras de Amor - Sertanejo S\u00e9rie A | Vol.1",
+      "url": "https://open.spotify.com/track/6hUlmMhFpJRXRbijm58jTS"
     },
     {
       "album": {
@@ -12183,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Ruim de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4iqE4CaEJZ1tUCTOwU8fxO"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125871,
+      "name": "Ruim de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3cnjsCWAaqoDvNVDEUbOgA"
+    },
+    {
+      "album": {
         "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
         "url": "https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB"
       },
@@ -14046,10 +14108,28 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 163207,
       "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
       "url": "https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs"
+    },
+    {
+      "album": {
+        "name": "Sertanejo Respira (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf"
     },
     {
       "album": {
@@ -14478,7 +14558,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 441141,
       "name": "TIRA FOTO FAZ A POSE (feat. MC Rodrigo do CN, Mc Jacar\u00e9, Mc Lek\u00e3o, Dj Alanzin & Mc Lele JP)",
       "url": "https://open.spotify.com/track/4x2y9fbjXx3LXLqll6dphW"

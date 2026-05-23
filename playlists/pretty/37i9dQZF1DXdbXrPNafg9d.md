@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,597 likes - 187 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,768 likes - 187 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

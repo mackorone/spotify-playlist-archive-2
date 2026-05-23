@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,573 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,523 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 55 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 |
 | 56 | [Blood](https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq) | 3:04 |
 | 57 | [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 |
-| 58 | [Andrea Chénier, Andrea Chenier, Act III: La mamma morta](https://open.spotify.com/track/3P4e1dv3d6YKza0Oizok6r) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Cinema Classics, Vol\. 11](https://open.spotify.com/album/6hafDvy6SyNMm0c3STcVLF) | 4:55 |
+| 58 | [La mamma morta](https://open.spotify.com/track/3P4e1dv3d6YKza0Oizok6r) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Cinema Classics, Vol\. 11](https://open.spotify.com/album/6hafDvy6SyNMm0c3STcVLF) | 4:55 |
 | 59 | [De O De O Doe De O](https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb) | [Skip Easterling](https://open.spotify.com/artist/7Ljeb35EACw2LCUxhvRHtY) | [Shoo Fly Pop Rock & Folk from the Bayou Vol\. 2](https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg) | 3:01 |
 | 60 | [Sciuri Sciura](https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Blonde Redhead](https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp) | 3:22 |
 | 61 | [Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 4:53 |

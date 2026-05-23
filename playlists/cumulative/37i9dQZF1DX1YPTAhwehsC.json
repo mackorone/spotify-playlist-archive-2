@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: BIA",
+  "description": "Up and down I-95. Cover: French Montana and Max B",
   "name": "State of Mind",
   "tracks": [
     {
@@ -544,6 +544,24 @@
       "duration_ms": 151000,
       "name": "2024 (feat. TJ Porter)",
       "url": "https://open.spotify.com/track/7hcqv31Jc6a8td13pmGetO"
+    },
+    {
+      "album": {
+        "name": "2025LOVESTORY (Digital)",
+        "url": "https://open.spotify.com/album/0V7ax0SGR6nxCtGtgnMiex"
+      },
+      "artists": [
+        {
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102217,
+      "name": "2025LOVESTORY (Digital)",
+      "url": "https://open.spotify.com/track/7BDxIQSoV6ESO3UCGpRXKI"
     },
     {
       "album": {
@@ -6398,7 +6416,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 151833,
       "name": "Break It To You",
       "url": "https://open.spotify.com/track/5zx7zk5BBbrIzyCMopwm2q"
@@ -8524,6 +8542,28 @@
       "duration_ms": 221016,
       "name": "Coke Bottle Body",
       "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
+    },
+    {
+      "album": {
+        "name": "Cold War",
+        "url": "https://open.spotify.com/album/2TXv67pbVlPRu1Il3rwXAz"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/7FXoQ98t27eX3RpJrK1qLv"
     },
     {
       "album": {
@@ -11837,6 +11877,24 @@
     },
     {
       "album": {
+        "name": "Eat, Work, Pray",
+        "url": "https://open.spotify.com/album/2JOSg38pTBkGBwJgiyXFIa"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Eat, Work, Pray",
+      "url": "https://open.spotify.com/track/0odBzHeiTPX4RzniDNIJDd"
+    },
+    {
+      "album": {
         "name": "HEELS HAVE EYES",
         "url": "https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3"
       },
@@ -13592,7 +13650,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195789,
       "name": "FMB pt 2 (feat. Hurricane Wisdom)",
       "url": "https://open.spotify.com/track/1kRGYmeLf3vkKaMwD0pYpd"
@@ -15790,7 +15848,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190792,
       "name": "Gone",
       "url": "https://open.spotify.com/track/45jsFbRoGY7Wjoufgpn9zc"
@@ -16258,7 +16316,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 219745,
       "name": "GSV",
       "url": "https://open.spotify.com/track/54Nm7OpPxuARq7zZQu2w2b"
@@ -17172,7 +17230,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 127439,
       "name": "Him",
       "url": "https://open.spotify.com/track/76GaSF8c4ZJG0OSKU015ET"
@@ -17444,6 +17502,24 @@
       "duration_ms": 245052,
       "name": "Home When Im Not Home/Gangsta P's Outro",
       "url": "https://open.spotify.com/track/5DtZzv4y638cD4Ti85VJgA"
+    },
+    {
+      "album": {
+        "name": "Homerunner",
+        "url": "https://open.spotify.com/album/0yjBsm5hu8OAL38wcMokmH"
+      },
+      "artists": [
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Homerunner",
+      "url": "https://open.spotify.com/track/56fsLnISnxD0FdJAzzgcDt"
     },
     {
       "album": {
@@ -19033,6 +19109,32 @@
     },
     {
       "album": {
+        "name": "In The Car",
+        "url": "https://open.spotify.com/album/32DM1J365BeRgOSHPQFBPs"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "In The Car",
+      "url": "https://open.spotify.com/track/6c1GvfdzNGxeWWIyvvexXq"
+    },
+    {
+      "album": {
         "name": "IN THIS (feat. Cash Cobain)",
         "url": "https://open.spotify.com/album/3N9nENhwITwssTP88KMxl3"
       },
@@ -19584,7 +19686,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 157500,
       "name": "JAT (Remix) [with Stunna Sandy]",
       "url": "https://open.spotify.com/track/3vn4cW1r3BWVWv0NamDIP3"
@@ -23004,7 +23106,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 156471,
       "name": "Make It Look Sexy",
       "url": "https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh"
@@ -24818,7 +24920,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 101725,
       "name": "MVP",
       "url": "https://open.spotify.com/track/4LilDeaE1G6Y2fGhtzYub2"
@@ -30489,6 +30591,24 @@
     },
     {
       "album": {
+        "name": "R.I.P Peace",
+        "url": "https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "R.I.P Peace",
+      "url": "https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS"
+    },
+    {
+      "album": {
         "name": "Radioactive",
         "url": "https://open.spotify.com/album/047ykT34pfdijw5HeU02cy"
       },
@@ -34142,7 +34262,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 201467,
       "name": "Smoking pt. 2",
       "url": "https://open.spotify.com/track/53b8uZzAN04bh91gZzZt8O"
@@ -36659,6 +36779,24 @@
     },
     {
       "album": {
+        "name": "The $triker",
+        "url": "https://open.spotify.com/album/4jVjrpt7IloeMoySROYE5y"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154540,
+      "name": "The $triker",
+      "url": "https://open.spotify.com/track/2FtDaDbCDpIHur0OHF8hHp"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -36888,7 +37026,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178648,
       "name": "The Main Line",
       "url": "https://open.spotify.com/track/7BrBJUSNar65p4N6TxFynI"
@@ -37829,6 +37967,28 @@
     },
     {
       "album": {
+        "name": "Wave Gods 2: Cosmos Brothers",
+        "url": "https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "Toastee",
+      "url": "https://open.spotify.com/track/61l0rngjY01On8ZlgiLYCL"
+    },
+    {
+      "album": {
         "name": "Told Ya",
         "url": "https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz"
       },
@@ -38050,7 +38210,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 269875,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua"
@@ -38072,6 +38232,24 @@
       "duration_ms": 203687,
       "name": "Toxic Ish",
       "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
+    },
+    {
+      "album": {
+        "name": "Trackstar",
+        "url": "https://open.spotify.com/album/4w4Mje6jxwfWLtuPksdEol"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165717,
+      "name": "Trackstar",
+      "url": "https://open.spotify.com/track/2TxT0QE5l9Kq7qUTreTYss"
     },
     {
       "album": {
@@ -38228,7 +38406,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214586,
       "name": "TRICERATOPS",
       "url": "https://open.spotify.com/track/2OG0gKRIsTbtP2niZqpKs3"
@@ -38876,6 +39054,32 @@
       "duration_ms": 225088,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv"
+    },
+    {
+      "album": {
+        "name": "Wave Gods 2: Cosmos Brothers",
+        "url": "https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169396,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/10EP78ev0p6wbQc8lEZjzb"
     },
     {
       "album": {

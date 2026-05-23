@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-468 songs - 23 hr 32 min
+469 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Recount the Stars](https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5) | [TAKEOFFANDFLY](https://open.spotify.com/artist/38cnnPZnUjRbSEcvvnZNlW) | [Recount the Stars](https://open.spotify.com/album/4ztlaCtCCYQ1QYlZbTI0MU) | 3:16 | 2023-01-09 | 2023-02-07 |
 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 | 2024-08-16 |  |
 | [Renegades](https://open.spotify.com/track/7DUd7RxFvD07eKR2n0x9LV) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Renegades](https://open.spotify.com/album/7GBjJgA2a7EI1wII8efEDC) | 2:58 | 2024-01-16 | 2024-06-29 |
+| [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 | 2026-05-22 |  |
 | [Return to Rave](https://open.spotify.com/track/0dHUlFclEzLXbbMtPpxoQk) | [AndyG](https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3), [MK8](https://open.spotify.com/artist/56P4MWXXtmCt1Zam2oLaeU) | [Acid EP](https://open.spotify.com/album/5gK8htmk5sE0Nu5BGOR5a6) | 2:30 | 2023-08-11 | 2024-09-28 |
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 | 2023-05-13 |
 | [Rising From The Ashes](https://open.spotify.com/track/2G0c7Z3il9Evj9BrwJ9sT0) | [DJ POTXO](https://open.spotify.com/artist/6EiXpidsKYPFYYn1oDklTr) | [Rising From The Ashes](https://open.spotify.com/album/4XhoWJYRX4dENHNidXIYuH) | 2:11 | 2025-06-20 |  |

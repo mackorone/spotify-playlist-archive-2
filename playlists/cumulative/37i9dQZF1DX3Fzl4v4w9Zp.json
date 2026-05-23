@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Coleman Jennings",
+  "description": "Where roots meet what\u2019s next. Cover: Brandi Carlile",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 244823,
       "name": "American Romance",
       "url": "https://open.spotify.com/track/6vS3l6JjTOp8LOZfDcKWDX"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209535,
       "name": "Ballad of The Texas Gentlemen",
       "url": "https://open.spotify.com/track/7nG4lfE9RnpqxZcXmsTZza"
@@ -1698,6 +1698,24 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "album": {
+        "name": "Tender Country",
+        "url": "https://open.spotify.com/album/6e9HYZgj3mcCHji7HTovYQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197728,
+      "name": "Bigger Wheels",
+      "url": "https://open.spotify.com/track/5FlZKPsXPPf5z1wHmYWWKR"
     },
     {
       "album": {
@@ -4767,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Everyday Singing",
+        "url": "https://open.spotify.com/album/6sV4THDB5uRtiHKiu56yD4"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254934,
+      "name": "Everyday Singing",
+      "url": "https://open.spotify.com/track/619wrEClKmJ6HRJZyesFTR"
+    },
+    {
+      "album": {
         "name": "Everyone But You",
         "url": "https://open.spotify.com/album/6L3nLBtCelt2STcaWoMu5l"
       },
@@ -5704,6 +5740,24 @@
       "duration_ms": 181493,
       "name": "Game For Guessing (feat. Robert Ellis)",
       "url": "https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq"
+    },
+    {
+      "album": {
+        "name": "Gentle Man",
+        "url": "https://open.spotify.com/album/7aI9KL8jzxMzGroiGTDrCI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333346,
+      "name": "Gentle Man",
+      "url": "https://open.spotify.com/track/52p5TAe8JAbSKQXpT5xlgl"
     },
     {
       "album": {
@@ -9403,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+    },
+    {
+      "album": {
         "name": "Light Over the Hill (from Reminders of Him)",
         "url": "https://open.spotify.com/album/3xMWMgRB83AwY5d4fDmTiX"
       },
@@ -10422,7 +10494,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 259688,
       "name": "Mockingbird - Unplugged",
       "url": "https://open.spotify.com/track/5dRewWsWyXotwvImE5jzq3"
@@ -11568,7 +11640,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 289480,
       "name": "One Hell of a Woman",
       "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
@@ -13447,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "Sad Country Songs",
+        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184322,
+      "name": "Sad Country Songs",
+      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
+    },
+    {
+      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -15122,7 +15212,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 218293,
       "name": "tailspin",
       "url": "https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78"
@@ -15976,7 +16066,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 242875,
       "name": "The Other Side Of Blue",
       "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
@@ -17592,6 +17682,24 @@
       "duration_ms": 244659,
       "name": "When the Love Is New",
       "url": "https://open.spotify.com/track/0M7ReoGtrZMZsfyOuPCVwU"
+    },
+    {
+      "album": {
+        "name": "When The Scaffolds Fall",
+        "url": "https://open.spotify.com/album/1jRoMdCiUUwM3FLaaMLfrH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301007,
+      "name": "When The Scaffolds Fall",
+      "url": "https://open.spotify.com/track/48IXq6DgRCoOhI4pt7YSOl"
     },
     {
       "album": {

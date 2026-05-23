@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Reggaeton pero al sabor de Cristo! Foto: Niko Eme",
+  "description": "Reggaeton pero al sabor de Cristo! Foto: Mireyli Rosa & Indiomar",
   "name": "Reggaeton Cristiano",
   "tracks": [
     {
@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5axNvtpJA9e3KDnGYZkC29"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/7o3HEFyBKe5cebegQammWs"
+    },
+    {
+      "album": {
         "name": "Cuando Me Ves",
         "url": "https://open.spotify.com/album/2j0dWJIWZjxynM4uBnH2BO"
       },
@@ -2103,6 +2125,32 @@
     },
     {
       "album": {
+        "name": "Full",
+        "url": "https://open.spotify.com/album/4souUcjqJjC245DxpZJob8"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Diamnd El Cientifico",
+          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
+        },
+        {
+          "name": "DesXa",
+          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/3dQAGoOi5KA39kS4ptHl6Q"
+    },
+    {
+      "album": {
         "name": "UPGRADE (Level 2)",
         "url": "https://open.spotify.com/album/1uyN8qnF6kkoAVS7YvZgY9"
       },
@@ -2434,6 +2482,24 @@
       "duration_ms": 221962,
       "name": "Hambre",
       "url": "https://open.spotify.com/track/7gXy7UL90pN9zXEpyz0Rf6"
+    },
+    {
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/69Afs62nAzZ2Y1uzTrbtMB"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167547,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/5Vjfk6mP6HkEwxR36SEYuL"
     },
     {
       "album": {
@@ -4478,7 +4544,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209302,
       "name": "Si Tu Me Llamas",
       "url": "https://open.spotify.com/track/45y9NL7IashrWa2SLlZ4DY"
@@ -4580,7 +4646,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193000,
       "name": "Sin Presi\u00f3n",
       "url": "https://open.spotify.com/track/5oOLytrzLxm2GH7g5xXpFi"
@@ -5148,7 +5214,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 159450,
       "name": "Tu Eres Mi Todo",
       "url": "https://open.spotify.com/track/6I209lcw5sv4mHWVF6LpSp"

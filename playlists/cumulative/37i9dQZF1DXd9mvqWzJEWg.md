@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Still That Combo
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Goldmax
 
-543 songs - 2 day 0 hr 7 min
+544 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Phuza](https://open.spotify.com/track/6DgeOWorz34itoisMBlezJ) | [King\-Mono](https://open.spotify.com/artist/2R5nSmcYWwGBuIVk4FbA3z), [Afikah](https://open.spotify.com/artist/0G3Tzl6KGLx5oBABRKdnIR), [Mtheezo](https://open.spotify.com/artist/1hgT3o1sGbl2yIZYwKpqWV), [Absolutes Muziq](https://open.spotify.com/artist/4S6ZqccXjELZuRqMyyvO9P), [Vlexx](https://open.spotify.com/artist/2mTJv7xms8OgxakcavAZKJ) | [Phuza](https://open.spotify.com/album/3orZf5fDEPCLUd9p5UEw4G) | 5:09 | 2022-01-27 | 2022-11-08 |
 | [Phuze](https://open.spotify.com/track/1kny8eA0I5sU4deUq8dqfi) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Phuze](https://open.spotify.com/album/4LjhAwYIgU7lqqcM1hUZjv) | 6:06 | 2021-07-23 | 2022-11-08 |
 | [Pieces of Heart](https://open.spotify.com/track/4j7qxstAev8UTrlPVOBA8C) | [DJ LOOPZz](https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8) | [Pieces of Heart](https://open.spotify.com/album/0wBtbr7TLfT5f31qwGjkpP) | 7:12 | 2025-07-10 | 2025-07-18 |
+| [Ping Pong](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 4:45 | 2026-05-22 |  |
 | [Point Blank](https://open.spotify.com/track/6bsyJoejvsiSqeK7OhUYoW) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [Vanger Boyz](https://open.spotify.com/artist/7wrUNh6A0jObL609mZLNIH), [blaq kiidd](https://open.spotify.com/artist/76LbByG4CFCcV72OfVLRaW) | [Archives](https://open.spotify.com/album/0i2Lo4Afu9WzaOuQXQCpwK) | 5:09 | 2025-02-06 | 2025-02-21 |
 | [Poison](https://open.spotify.com/track/2GDDuKr6qgpIZD9lOOvVUl) | [Amatycooler](https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw) | [Poison](https://open.spotify.com/album/0tINZW0OD4a6FXoEfe8XTU) | 4:53 | 2025-06-26 | 2025-07-25 |
 | [Poison](https://open.spotify.com/track/4l8odlgftXYtqsIFtlyyy1) | [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Emotic](https://open.spotify.com/artist/1nPtfW23Nm5eGdv9xpOf7P), [STATE OFFF](https://open.spotify.com/artist/3Mx399qUEgWmUscD8KKYZ7) | [Poison](https://open.spotify.com/album/3xj5tiCaXrg5A3Y2AGQqRJ) | 6:04 | 2025-02-06 | 2025-02-21 |
@@ -473,7 +474,7 @@
 | [Umdlalo](https://open.spotify.com/track/4u3KsApnRhmtC7JdZEQZSD) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu), [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL) | [DURBAN BANG](https://open.spotify.com/album/190rUz6bQctegEJipev2pk) | 4:24 | 2025-08-14 | 2025-08-20 |
 | [Umentshisi](https://open.spotify.com/track/75yfJbUSOCxxzuuk0BAMW6) | [IRohn Dwgs](https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U), [Mtaka Tee](https://open.spotify.com/artist/6cKAA4ItTTcO3G3al2DOaL) | [Area 51](https://open.spotify.com/album/08dxDjvS78ikVFQdyxgLt8) | 5:44 | 2025-05-15 | 2025-05-23 |
 | [Umentshisi](https://open.spotify.com/track/5hl9sZNvX34S3now28kvVR) | [Shisa Sterling](https://open.spotify.com/artist/1men7AqmsSnafCJkDKSnKi), [Naked Souls](https://open.spotify.com/artist/4utsdI4qLLjT6Ye2SVAP4B) | [Umentshisi](https://open.spotify.com/album/14JvExS7lKQuwZlxEBYGL1) | 5:08 | 2024-12-05 | 2025-01-17 |
-| [Umgido](https://open.spotify.com/track/4QXQDH5NxmXOIVlSXS3I4b) | [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Umgido](https://open.spotify.com/album/58TazIihHF2fB9kiDcXjGu) | 4:06 | 2025-07-17 |  |
+| [Umgido](https://open.spotify.com/track/4QXQDH5NxmXOIVlSXS3I4b) | [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Umgido](https://open.spotify.com/album/58TazIihHF2fB9kiDcXjGu) | 4:06 | 2025-07-17 | 2026-05-23 |
 | [Umgijimi \- Original](https://open.spotify.com/track/7cQWs4Z6YvGQmyfrY4j5su) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu) | [District 1](https://open.spotify.com/album/5IoslCxyAQ6LKp0h4LzsYz) | 5:43 | 2025-08-14 | 2025-08-20 |
 | [Umgqibelo](https://open.spotify.com/track/3z5InwVHOlj7b9KvActfuT) | [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL), [Mtaka Tee](https://open.spotify.com/artist/1pp0itDo6gixPuPebqngnf) | [Umkhuleko](https://open.spotify.com/album/0vZbgIb62F6P1sV9dlsQbJ) | 5:56 | 2023-08-24 | 2025-06-20 |
 | [uMgqibelo](https://open.spotify.com/track/6oOESqnGfjidIGm9hvczPZ) | [DJ Sandiso](https://open.spotify.com/artist/2o7oc7fiP2eeLgKzKROgVg), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Omagoqa](https://open.spotify.com/artist/1oCjN8hhziP39N373DqmQn) | [Nande 2.0](https://open.spotify.com/album/4Z7cviz5RPiOFwke0SQ8NH) | 5:09 | 2022-06-30 | 2023-05-26 |

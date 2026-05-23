@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 999,
+  "num_followers": 1003,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGFkYj6KOwyP16y9OM1V1/LN4M4U5n",
+  "snapshot_id": "AAAGGACuWajnTN9wnjm73C+1bft5QoAB",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1775,6 +1775,38 @@
       "duration_ms": 232800,
       "name": "Gone Awry",
       "url": "https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi"
+    },
+    {
+      "added_at": "2026-05-22 14:25:56",
+      "album": {
+        "name": "O Acaso N\u00e3o Costuma Falhar",
+        "url": "https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG"
+      },
+      "artists": [
+        {
+          "name": "LAVOLTA",
+          "url": "https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i"
+        }
+      ],
+      "duration_ms": 212071,
+      "name": "O Acaso N\u00e3o Costuma Falhar",
+      "url": "https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z"
+    },
+    {
+      "added_at": "2026-05-22 14:27:34",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb"
+      },
+      "artists": [
+        {
+          "name": "Summer's Brother",
+          "url": "https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe"
+        }
+      ],
+      "duration_ms": 205921,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs"
     }
   ],
   "unique_name": "Unsigned Rock",

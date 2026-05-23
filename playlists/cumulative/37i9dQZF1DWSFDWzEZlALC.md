@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: anaïs
 
-1,782 songs - 3 day 12 hr 3 min
+1,782 songs - 3 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [Hätten wir sein können](https://open.spotify.com/track/4jzPnqCTNdlMNMn9BW1RdI) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Trettmann](https://open.spotify.com/album/03iNJiD9tUpIdBLvHYwZwT) | 2:57 | 2025-02-13 | 2025-02-15 |
 | [Höhenflug](https://open.spotify.com/track/59mWhcCe79JH9zHSbYNKTk) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Höhenflug](https://open.spotify.com/album/6bRWYDNv4JRt2YBFksMIki) | 2:07 | 2025-04-03 | 2025-05-16 |
 | [Hör auf keinen mehr](https://open.spotify.com/track/64wojHBwwRr4rDTUrNu1DV) | [Florin](https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO) | [Hör auf keinen mehr](https://open.spotify.com/album/7hjQNHIK1z4UWGjiSYlyoV) | 1:57 | 2026-02-26 | 2026-03-27 |
+| [Hör Nie Auf](https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Komm, wir bleiben stehen](https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk) | 3:04 | 2026-05-21 |  |
 | [I Can Make It Better](https://open.spotify.com/track/068mFiQyluBeSrWZRcQa66) | [AB Syndrom](https://open.spotify.com/artist/6L8qZVWC4sWuYRSDXMLpsc), [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [I Can Make It Better](https://open.spotify.com/album/5G9VCLWEXlSXxIxsM4wZTw) | 2:45 | 2025-01-30 | 2025-02-14 |
 | [Ich brauch mehr Zeit](https://open.spotify.com/track/2f9ethWe2yXppKLG68u3BZ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Stix Omar](https://open.spotify.com/artist/6x3JdKsbvxtHtUuomWdiZI), [Philipp Johann Thimm](https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96) | [Heartbreakerei](https://open.spotify.com/album/5XUCJcBY0F7t9RCxdsnNTE) | 2:57 | 2023-02-02 | 2023-03-10 |
 | [ich brenn für dich](https://open.spotify.com/track/5UvAg513TL86E8JWdJrGeV) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [ich brenn für dich](https://open.spotify.com/album/5PDHCtutPfFupwRrAW4bjW) | 2:51 | 2024-04-18 | 2024-06-21 |
@@ -1504,7 +1505,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 12](https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Komm, wir bleiben stehen](https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk) | 0:00 | 2026-05-21 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

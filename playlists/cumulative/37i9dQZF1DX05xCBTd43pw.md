@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-545 songs - 1 day 4 hr 12 min
+545 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Prosecco](https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Prosecco](https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug) | 3:19 | 2024-10-03 |  |
 | [QUI M'APPELLE](https://open.spotify.com/track/2WVY3E945SuzOgCrEBh3xm) | [KT Gorique](https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh), [Riga](https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX) | [QUI M'APPELLE](https://open.spotify.com/album/3hN28XdylNFqwwqb3oBA59) | 2:12 | 2025-04-24 | 2025-05-02 |
 | [rabbit holes](https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [rabbit holes](https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE) | 3:36 | 2024-06-27 | 2024-10-04 |
+| [Ready](https://open.spotify.com/track/0bQxBiXkXeM8bvNKrJ2z9q) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Have I Lost My Magic?](https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22) | 3:58 | 2026-05-21 |  |
 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 | 2024-06-27 | 2025-03-29 |
 | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71) | [LOU KAENA](https://open.spotify.com/artist/69Tf6ABMtbfliXm4FHNhUH), [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr) | 3:26 | 2025-06-05 | 2025-10-10 |
 | [Release Me](https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Release Me](https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR) | 3:10 | 2025-06-26 | 2025-12-06 |
@@ -488,7 +489,6 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 2](https://open.spotify.com/track/0bQxBiXkXeM8bvNKrJ2z9q) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Have I Lost My Magic?](https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22) | 0:00 | 2026-05-21 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |

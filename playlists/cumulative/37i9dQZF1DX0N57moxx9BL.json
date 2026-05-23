@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj"
+    },
+    {
+      "album": {
+        "name": "Acts of Piety",
+        "url": "https://open.spotify.com/album/0k7oPFu3vU71na759mh0zu"
+      },
+      "artists": [
+        {
+          "name": "amen",
+          "url": "https://open.spotify.com/artist/4oYfyBavNX48RqJIPLbIsP"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247431,
+      "name": "Acts of Piety",
+      "url": "https://open.spotify.com/track/0a5ecbwi5na0yP5dhF1VVJ"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9"
       },
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 211120,
       "name": "Enough!",
       "url": "https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ"
@@ -1556,6 +1592,24 @@
       "duration_ms": 224638,
       "name": "Everything You Ever Wanted",
       "url": "https://open.spotify.com/track/7p7qgUCeFGKs3KKI73UKuF"
+    },
+    {
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/5Iu0iD1eNXus3IwYhc0m6R"
+      },
+      "artists": [
+        {
+          "name": "Wavorly",
+          "url": "https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263254,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/5Wv0yx3Q5KrOzKQnxA46W6"
     },
     {
       "album": {

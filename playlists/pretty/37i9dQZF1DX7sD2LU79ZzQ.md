@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: TheOvertunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,108 likes - 98 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,244 likes - 98 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

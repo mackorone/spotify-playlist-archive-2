@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 234751,
       "name": "Hierba Mala",
       "url": "https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 216014,
       "name": "Hijas de Barrio (Ft. La Farmakos)",
       "url": "https://open.spotify.com/track/4sCfPSSufXRSSfT9OUFIPt"
@@ -1726,6 +1726,28 @@
       "duration_ms": 192232,
       "name": "Hijas de Barrio 2",
       "url": "https://open.spotify.com/track/7CeMnPUN6V2N63VzREf3Co"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl"
     },
     {
       "album": {
@@ -2198,6 +2220,32 @@
       "duration_ms": 160085,
       "name": "Las Calles Son Clases",
       "url": "https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7"
+    },
+    {
+      "album": {
+        "name": "Las Cuchas Ten\u00edan Raz\u00f3n",
+        "url": "https://open.spotify.com/album/4jv8isW3knaosEfpfhcrsC"
+      },
+      "artists": [
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Anlly Mar\u00edn",
+          "url": "https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/4llOn6AWn6fSG738WDSahS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Las Cuchas Ten\u00edan Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0RMBWyOliXTv6Fczr4NjZW"
     },
     {
       "album": {
@@ -2892,6 +2940,24 @@
       "duration_ms": 146202,
       "name": "Mucha Salsa",
       "url": "https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3"
+    },
+    {
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/6lHAR0CR6EGZTJyj2v3Cap"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/4B1XEA19YZ9K78NC8vFsVY"
     },
     {
       "album": {
@@ -4594,7 +4660,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 243069,
       "name": "Tranquilidad",
       "url": "https://open.spotify.com/track/69mqkLgOrYdJFMtf5bltXM"

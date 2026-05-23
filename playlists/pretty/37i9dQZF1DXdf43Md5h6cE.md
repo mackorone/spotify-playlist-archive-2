@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain](/playlists/plain/37i9dQZF1DXdf43Md5h6cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdf43Md5h6cE)
 
-### [Ambient Dreamscapes](https://open.spotify.com/playlist/37i9dQZF1DXdf43Md5h6cE)
+### [Ambient Dreams](https://open.spotify.com/playlist/37i9dQZF1DXdf43Md5h6cE)
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,459 likes - 233 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,578 likes - 233 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 232 | [Limitless Vision](https://open.spotify.com/track/6Jzgt4DSw4sRjpUDIIMVX9) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Limitless Vision](https://open.spotify.com/album/2wiMxLcSe3j7zk9uaXIl2F) | 3:02 |
 | 233 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
 
-Snapshot ID: `AAAAANBvh7hA334JrZD3JYkxNfZvdBj7`
+Snapshot ID: `AAAAAJvhxqchhcjJO6U4AvbXBjpv1huI`

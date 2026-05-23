@@ -13371,6 +13371,24 @@
     },
     {
       "album": {
+        "name": "Komm, wir bleiben stehen",
+        "url": "https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk"
+      },
+      "artists": [
+        {
+          "name": "OK KID",
+          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184007,
+      "name": "H\u00f6r Nie Auf",
+      "url": "https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe"
+    },
+    {
+      "album": {
         "name": "I Can Make It Better",
         "url": "https://open.spotify.com/album/5G9VCLWEXlSXxIxsM4wZTw"
       },
@@ -28226,24 +28244,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "Komm, wir bleiben stehen",
-        "url": "https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk"
-      },
-      "artists": [
-        {
-          "name": "OK KID",
-          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe"
     },
     {
       "album": {

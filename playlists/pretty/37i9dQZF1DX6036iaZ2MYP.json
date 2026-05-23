@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover:   CKay",
-  "num_followers": 181428,
+  "num_followers": 181824,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALDa8wXBZYivYMaLg0je7+c+E3mK",
+  "snapshot_id": "AAAAAOWbCpXyJujrhDyd65cV0MqP2HLW",
   "tracks": [
     {
       "added_at": "2026-05-21 22:00:28",
@@ -206,10 +206,14 @@
         {
           "name": "NSG",
           "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 210373,
+      "name": "BACKKA",
       "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
     },
     {
@@ -355,22 +359,6 @@
       "duration_ms": 125046,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/36G89SJXnRgcXtwl9HOzB3"
-    },
-    {
-      "added_at": "2026-05-21 22:00:28",
-      "album": {
-        "name": "\u00c7a Give",
-        "url": "https://open.spotify.com/album/47jPbCLMtU1fUzgWqQua68"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00eblle",
-          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "\u00c7a Give",
-      "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"
     },
     {
       "added_at": "2026-05-21 22:00:28",

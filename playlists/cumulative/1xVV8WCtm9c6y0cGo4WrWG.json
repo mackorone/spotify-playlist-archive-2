@@ -7283,6 +7283,24 @@
     },
     {
       "album": {
+        "name": "RED ROOM FREESTYLE",
+        "url": "https://open.spotify.com/album/27sUfBAJsvB2qA2G1DQ2uk"
+      },
+      "artists": [
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128166,
+      "name": "RED ROOM FREESTYLE",
+      "url": "https://open.spotify.com/track/47hRNF6AA2dUw29LSgYw4C"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },

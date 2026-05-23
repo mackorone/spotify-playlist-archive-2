@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa.  En portada: Sack Baby, Young King y Krusha G ",
+  "description": "Bienvenidx a la trampa mexa.  En portada: FLVCKKA",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 234399,
       "name": "BIGBABYKING",
       "url": "https://open.spotify.com/track/0OBuhsR0csbDGJysupuMcg"
@@ -1773,6 +1773,36 @@
     },
     {
       "album": {
+        "name": "CAPIRUCHA",
+        "url": "https://open.spotify.com/album/4lW0qSC6yrG2Pxu3mtL2Lk"
+      },
+      "artists": [
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        },
+        {
+          "name": "Freddy Moreno",
+          "url": "https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf"
+        },
+        {
+          "name": "GlobalBoy Da Glowop",
+          "url": "https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq"
+        },
+        {
+          "name": "GoldenVato",
+          "url": "https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155834,
+      "name": "CAPIRUCHA",
+      "url": "https://open.spotify.com/track/5jEkKKjtt24v2WLpVZS3RF"
+    },
+    {
+      "album": {
         "name": "Capitulo 1",
         "url": "https://open.spotify.com/album/37XP1tJL093lknUuURHTqZ"
       },
@@ -2032,7 +2062,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 146000,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/246uR35q5efO72pHHOeotR"
@@ -2611,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "CUELLO BLANCO",
+        "url": "https://open.spotify.com/album/3Zxwq4hX6ZZI4txPet9S91"
+      },
+      "artists": [
+        {
+          "name": "El Belicoso",
+          "url": "https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166158,
+      "name": "CUELLO BLANCO",
+      "url": "https://open.spotify.com/track/7IOaPqdJ4ZUSuSGe3iLt9a"
+    },
+    {
+      "album": {
         "name": "D3Monio Millonari0",
         "url": "https://open.spotify.com/album/4lUwMU1weH9ALUdtmExaX3"
       },
@@ -2640,7 +2688,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 151950,
       "name": "Dafuk",
       "url": "https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g"
@@ -2794,7 +2842,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154282,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz"
@@ -3174,6 +3222,28 @@
       "duration_ms": 193246,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5CwwhMCOPGIX8srDnYqtQs"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/3SYbBq0Md87F0XmNXy5R79"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Wesos El Savage",
+          "url": "https://open.spotify.com/artist/2Ei5kNvEc7wSrdaJDu3coa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "Drones",
+      "url": "https://open.spotify.com/track/1sh3c2leKZjdaWCCLjvip8"
     },
     {
       "album": {
@@ -4364,7 +4434,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 124100,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq"
@@ -5742,6 +5812,32 @@
       "duration_ms": 132283,
       "name": "Le tir\u00e9",
       "url": "https://open.spotify.com/track/6cBeF1NWjZBfN3sLZ8kCRh"
+    },
+    {
+      "album": {
+        "name": "Lejos de Mi",
+        "url": "https://open.spotify.com/album/4791VDEVmcVZQBLqins1wS"
+      },
+      "artists": [
+        {
+          "name": "Ezzlaer",
+          "url": "https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83"
+        },
+        {
+          "name": "Loveudani",
+          "url": "https://open.spotify.com/artist/5x3BsMh9dAVENBP83VKVW9"
+        },
+        {
+          "name": "Kxrl",
+          "url": "https://open.spotify.com/artist/5q0nE5Dwg9TtlGROsLLaKK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160262,
+      "name": "Lejos de Mi",
+      "url": "https://open.spotify.com/track/5pob4xiBpIDxUdXOOSMLcM"
     },
     {
       "album": {
@@ -9643,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "SOY EL YNG",
+        "url": "https://open.spotify.com/album/1vh5NBMNRL3cTPgRlEYL6d"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "SOY EL YNG",
+      "url": "https://open.spotify.com/track/6vBvS3lt8vJDBilnw7TPr3"
+    },
+    {
+      "album": {
         "name": "Steak",
         "url": "https://open.spotify.com/album/561BRGezvIkWghm2xh6Iym"
       },
@@ -9750,6 +9864,28 @@
       "duration_ms": 218449,
       "name": "syrup",
       "url": "https://open.spotify.com/track/1iudZfPx23Zqc1ArGgVUFj"
+    },
+    {
+      "album": {
+        "name": "t a l v e z : /",
+        "url": "https://open.spotify.com/album/32af1nLMntBhNyM2oH6iYs"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "t a l v e z : /",
+      "url": "https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO"
     },
     {
       "album": {

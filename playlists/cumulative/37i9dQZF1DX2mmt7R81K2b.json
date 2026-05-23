@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Facile-Batiste",
+        "url": "https://open.spotify.com/album/0rqIDFQjiHT3sohMYV0KS5"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295330,
+      "name": "Facile-Batiste",
+      "url": "https://open.spotify.com/track/6uzw70lkJtUrkrC2VWQujf"
+    },
+    {
+      "album": {
         "name": "Classical Jazz: Swingin' Jazz Interpretations of the Classics",
         "url": "https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn"
       },

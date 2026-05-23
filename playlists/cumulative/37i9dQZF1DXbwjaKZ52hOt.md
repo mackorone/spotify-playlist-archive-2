@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-334 songs - 10 hr 9 min
+335 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 | 2022-02-25 | 2024-04-19 |
 | [Five Finger Family](https://open.spotify.com/track/5WVc6IZN4vjCdcr2DkxiJ4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 0:58 | 2022-02-25 | 2024-04-19 |
 | [Five Fingered Family](https://open.spotify.com/track/44VN9upYxkcF1NL5g3J5CA) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 0:58 | 2022-02-25 |  |
-| [Five Little Ducks](https://open.spotify.com/track/2RBSfeOv7KWXjt7K17JBr1) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 2:34 | 2022-02-25 |  |
+| [Five Little Ducks](https://open.spotify.com/track/2RBSfeOv7KWXjt7K17JBr1) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 2:34 | 2022-02-25 | 2026-05-23 |
+| [Five Little Ducks](https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Five Little Ducks](https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh) | 2:29 | 2026-05-22 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Sing\-Along](https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg) | 2:04 | 2025-04-18 |  |
 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:49 | 2022-02-25 | 2024-04-19 |
 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/2qRyTtFON2leDTtP98e72H) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:49 | 2022-02-25 | 2022-11-13 |

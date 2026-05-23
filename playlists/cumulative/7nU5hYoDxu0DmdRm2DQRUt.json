@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9taphysique Du Hit-Parade",
+        "url": "https://open.spotify.com/album/6KwMNeQm5o4X7yroCcD4aQ"
+      },
+      "artists": [
+        {
+          "name": "Pascal Comelade",
+          "url": "https://open.spotify.com/artist/1S8bX9opXYLkPIp7WPhySa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "Egyptian Reggae",
+      "url": "https://open.spotify.com/track/0s1VriJCALwcVQ8jJ3EaRw"
+    },
+    {
+      "album": {
         "name": "El Fantasma / El Esp\u00edritu",
         "url": "https://open.spotify.com/album/1hKrasHK5FDOw0CwGtwOtl"
       },
@@ -3408,6 +3426,24 @@
       "duration_ms": 289700,
       "name": "Gesamtkl\u00e4rwerk Deutschland",
       "url": "https://open.spotify.com/track/3TANXnwPsMzUdsxNitWswQ"
+    },
+    {
+      "album": {
+        "name": "Get Closer",
+        "url": "https://open.spotify.com/album/7Ml11hhi8fe7rxGzNGO7v9"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "Get Closer",
+      "url": "https://open.spotify.com/track/4MEadO3tY6PM6jksMMMkYY"
     },
     {
       "album": {
@@ -4469,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "Three Phase",
+        "url": "https://open.spotify.com/album/7eT61FAdaYvBUaTm3BGACG"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Lane",
+          "url": "https://open.spotify.com/artist/5Dqao2Fv0VVUaPE2gnQQmh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359007,
+      "name": "L2",
+      "url": "https://open.spotify.com/track/0DCV1q4FCEjAVoixneY3Y7"
+    },
+    {
+      "album": {
         "name": "La Isla De Margarita (Johannes Albert Remix)",
         "url": "https://open.spotify.com/album/7baGJw25bx6QHKvw8zEJvS"
       },
@@ -4608,6 +4662,24 @@
       "duration_ms": 293813,
       "name": "Layer 001",
       "url": "https://open.spotify.com/track/3TR6dG23WkTS4LMGela6UC"
+    },
+    {
+      "album": {
+        "name": "Personal Rock",
+        "url": "https://open.spotify.com/album/6mli4NYFfaKhr4J12Xxjtg"
+      },
+      "artists": [
+        {
+          "name": "Gramm",
+          "url": "https://open.spotify.com/artist/7rJ3Myc4crprUmH9vfOzLY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "Legends / Nugroove TM",
+      "url": "https://open.spotify.com/track/0FZf8jL1nRQEVlkzS85uZb"
     },
     {
       "album": {
@@ -5881,6 +5953,24 @@
     },
     {
       "album": {
+        "name": "Sustained",
+        "url": "https://open.spotify.com/album/6lsMqvKS3W28eyhN12sNFa"
+      },
+      "artists": [
+        {
+          "name": "Jungst\u00f6tter",
+          "url": "https://open.spotify.com/artist/5SZDvUjUgJk2EFEPxaL3oP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Overturn",
+      "url": "https://open.spotify.com/track/56uoFmilkzm5jYPsIUopOZ"
+    },
+    {
+      "album": {
         "name": "Paean",
         "url": "https://open.spotify.com/album/2eyt8edbVI5cXsiHD5L6Ru"
       },
@@ -6445,6 +6535,24 @@
     },
     {
       "album": {
+        "name": "SLIMSUN EP",
+        "url": "https://open.spotify.com/album/6XSubMpH4X5HPDp4H8zQYk"
+      },
+      "artists": [
+        {
+          "name": "Mike Dehnert",
+          "url": "https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373085,
+      "name": "Primband",
+      "url": "https://open.spotify.com/track/5BOigFK9kRf40fbV7W1suM"
+    },
+    {
+      "album": {
         "name": "Pulse Echo EP",
         "url": "https://open.spotify.com/album/65s546D9JTDUOLzgJ4o8BN"
       },
@@ -6764,10 +6872,28 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 366592,
       "name": "Retina Burn",
       "url": "https://open.spotify.com/track/2m4DJhDxpg9eEe7YpCE77c"
+    },
+    {
+      "album": {
+        "name": "Planetary People",
+        "url": "https://open.spotify.com/album/68hjodhi4prwS2Az9eJ1ya"
+      },
+      "artists": [
+        {
+          "name": "Planetary Assault Systems",
+          "url": "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366592,
+      "name": "Retina Burn",
+      "url": "https://open.spotify.com/track/79vvs99IA3ujCq4mMqxsEC"
     },
     {
       "album": {
@@ -8045,6 +8171,24 @@
     },
     {
       "album": {
+        "name": "Return 2 Dust EP",
+        "url": "https://open.spotify.com/album/4SRSEbxJhsZMapYEpEwjpR"
+      },
+      "artists": [
+        {
+          "name": "Dust-e-1",
+          "url": "https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435692,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/7KbaDxrJ7rSmjzvaolmjm0"
+    },
+    {
+      "album": {
         "name": "The Motion (Club Edit) / Help (DJ Version)",
         "url": "https://open.spotify.com/album/6q0gysa6ZQ0Dt2nUjXAg3f"
       },
@@ -8433,6 +8577,24 @@
     },
     {
       "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/0a3jkaF5j3200xysahBGiE"
+      },
+      "artists": [
+        {
+          "name": "John Monkman",
+          "url": "https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247193,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/6hmZIlkn18WhOdpUDZSVtD"
+    },
+    {
+      "album": {
         "name": "In and Out EP",
         "url": "https://open.spotify.com/album/5E9mSGi09f1Zae7OCMavYp"
       },
@@ -8564,6 +8726,24 @@
       "duration_ms": 366000,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/4exjIVd2rMY5j8hRl9aM5v"
+    },
+    {
+      "album": {
+        "name": "Urwald",
+        "url": "https://open.spotify.com/album/1e7t4Sap3zQPnPSp6Ltu2o"
+      },
+      "artists": [
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440145,
+      "name": "Urwald",
+      "url": "https://open.spotify.com/track/6VH4ZtN0INoA2n5tMJXzqT"
     },
     {
       "album": {
@@ -9232,6 +9412,24 @@
       "duration_ms": 362908,
       "name": "Y.A.A.M. - Soulwax Version",
       "url": "https://open.spotify.com/track/6YgwSAvkEnNtb18NsyIppN"
+    },
+    {
+      "album": {
+        "name": "The Human Scientific Vessel",
+        "url": "https://open.spotify.com/album/6kDBvwcqcuJkrpLbn5uzKZ"
+      },
+      "artists": [
+        {
+          "name": "Zeta Reticula",
+          "url": "https://open.spotify.com/artist/79g45NRpVmRk2oF76VyruN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378416,
+      "name": "Yellow Dwarfs",
+      "url": "https://open.spotify.com/track/5lJnt2mzpMOPXwi2KtamyP"
     },
     {
       "album": {

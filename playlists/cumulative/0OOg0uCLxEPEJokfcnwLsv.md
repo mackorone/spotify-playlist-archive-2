@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-498 songs - 1 day 6 hr 42 min
+500 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 | 2026-05-05 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |
+| [O Acaso Não Costuma Falhar](https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [O Acaso Não Costuma Falhar](https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG) | 3:32 | 2026-05-22 |  |
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-01-29 | 2026-02-18 |
 | [Obsession](https://open.spotify.com/track/5aaoiX4NB1mm65vh3uBi6N) | [Love N'Dirtt](https://open.spotify.com/artist/3mRYs0sLOI5IOBYiOYMLG6) | [Give It Time](https://open.spotify.com/album/2Ru9L8vtPvvSfcSCcENjRj) | 3:51 | 2026-02-22 | 2026-03-22 |
 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 | 2026-04-06 | 2026-05-08 |
@@ -374,6 +375,7 @@
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-21 | 2025-12-12 |
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
+| [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 | 2026-05-22 |  |
 | [Solitario](https://open.spotify.com/track/5ASTeFNSL8IqOU165b9pRF) | [Hot Dog](https://open.spotify.com/artist/7zqoqGmLGianOlJo47jQ1f) | [Ardiente \(EP\)](https://open.spotify.com/album/7vDeWBbCQIqssX6YPbKLuy) | 4:34 | 2026-03-05 | 2026-04-20 |
 | [Sombre Delight](https://open.spotify.com/track/5sLGwXtLsRRCZqEhKoD12i) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Dogs & Roses](https://open.spotify.com/album/3wCaudFRpeeXZXnh066Lek) | 5:33 | 2026-03-05 | 2026-05-08 |
 | [Someone Gotta Hold](https://open.spotify.com/track/3B3PRVnQ7lcwXMUlBNiUje) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/17IiSKvoILI4Yc0qnqQZzH) | 3:17 | 2026-04-06 | 2026-05-08 |

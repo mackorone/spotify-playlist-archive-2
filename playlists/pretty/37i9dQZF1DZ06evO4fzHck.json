@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 601486,
+  "num_followers": 601606,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agz5gAAAAABgDSp2UJ5aOnHCXTBSlZyz",
+  "snapshot_id": "ag5LAAAAAAA7zvSBR2/O/E4QLJCpMlWD",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mood Swings",
-        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Mint Car",
-      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
+      "duration_ms": 142733,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 142733,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
+      "duration_ms": 212533,
+      "name": "Mint Car",
+      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
     },
     {
       "added_at": null,

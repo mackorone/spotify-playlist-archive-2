@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,957,275 likes - 180 songs - 9 hr 9 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,957,738 likes - 180 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Run](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [We Run](https://open.spotify.com/album/5U0ILMp243WIMY4dTX9MPO) | 2:42 |
 | 2 | [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 |
-| 3 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 |
-| 4 | [When the Feeling Is Gone](https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [When the Feeling Is Gone](https://open.spotify.com/album/3uNFCRskNLz2W8zKBDXxhM) | 2:36 |
-| 5 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
-| 6 | [99 Eyes](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [99 Eyes](https://open.spotify.com/album/0nmQxTbmZUI5uzva3xIA9L) | 2:34 |
-| 7 | [Silver Lines](https://open.spotify.com/track/75X2LLppcaCG2mm6RcxyoI) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Silver Lines](https://open.spotify.com/album/3bYQbjzkFPmTiqEd9vXV1u) | 3:37 |
-| 8 | [Satellite Signal](https://open.spotify.com/track/4PYX2NIrOiFmtpPPCBmZpD) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [First Contact](https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb) | 2:51 |
-| 9 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 |
-| 10 | [sweet love](https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [sweet love](https://open.spotify.com/album/4qLmdP0OQb9TR0RtFoIyTZ) | 3:06 |
+| 3 | [sweet love](https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [sweet love](https://open.spotify.com/album/4qLmdP0OQb9TR0RtFoIyTZ) | 3:06 |
+| 4 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 |
+| 5 | [When the Feeling Is Gone](https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [When the Feeling Is Gone](https://open.spotify.com/album/3uNFCRskNLz2W8zKBDXxhM) | 2:36 |
+| 6 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
+| 7 | [99 Eyes](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [99 Eyes](https://open.spotify.com/album/0nmQxTbmZUI5uzva3xIA9L) | 2:34 |
+| 8 | [Silver Lines](https://open.spotify.com/track/75X2LLppcaCG2mm6RcxyoI) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Silver Lines](https://open.spotify.com/album/3bYQbjzkFPmTiqEd9vXV1u) | 3:37 |
+| 9 | [Satellite Signal](https://open.spotify.com/track/4PYX2NIrOiFmtpPPCBmZpD) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [First Contact](https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb) | 2:51 |
+| 10 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 |
 | 11 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
 | 12 | [Daylight](https://open.spotify.com/track/1xfSYfJT1YRSUQbzXDHUwq) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [When the Feeling Is Gone](https://open.spotify.com/album/3uNFCRskNLz2W8zKBDXxhM) | 3:26 |
 | 13 | [cloud chaser](https://open.spotify.com/track/4KXVEMVQngyfj6I3MlVOGJ) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [cloud chaser](https://open.spotify.com/album/342X45kLqqM3sz0VeFnBgr) | 3:33 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 179 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 180 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `AAARGHYbKIDWGKEs+7QOCk0nA8yiKni9`
+Snapshot ID: `AAARGxulQDWGv0YKtw5mERBrvCobuiby`

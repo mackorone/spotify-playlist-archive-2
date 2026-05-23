@@ -699,6 +699,36 @@
     },
     {
       "album": {
+        "name": "Rounds From The K, Vol. 2",
+        "url": "https://open.spotify.com/album/3Y4DCWWPo1qDhFCuU45mr2"
+      },
+      "artists": [
+        {
+          "name": "AK47",
+          "url": "https://open.spotify.com/artist/2E68BYCz4PE0BYM0r9JYSo"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "KastroMoney B",
+          "url": "https://open.spotify.com/artist/6jYJFaSdFFQzcYpOqjqh2Y"
+        },
+        {
+          "name": "Macadoshis",
+          "url": "https://open.spotify.com/artist/2kkqvvIFR7AE2U9qtjYgTj"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256914,
+      "name": "Can't Kill My Pride (feat. Young Noble, KastroMoney B & Macadoshis)",
+      "url": "https://open.spotify.com/track/40dmcC8iVBzzqmAa1XFp95"
+    },
+    {
+      "album": {
         "name": "Noble Justice: The Lost Songs",
         "url": "https://open.spotify.com/album/6bjW7AymdOPfmO3Ve1CGXz"
       },
@@ -1352,7 +1382,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 290722,
       "name": "Foo Fambino",
       "url": "https://open.spotify.com/track/5nv2npB23rED5Vihxj3wPg"
@@ -2622,7 +2652,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195082,
       "name": "Loyalty Don't Exist",
       "url": "https://open.spotify.com/track/56JVWYbVd47YF5EHIrUSmb"
@@ -3156,6 +3186,32 @@
       "duration_ms": 176551,
       "name": "OUTLAWS (feat. Young Noble, E.D.I. Mean & Pete Rock)",
       "url": "https://open.spotify.com/track/7iVGb8x2VLF68ffmEOn5ln"
+    },
+    {
+      "album": {
+        "name": "Legendary Status",
+        "url": "https://open.spotify.com/album/2G168cGgMn2R8tTqE6sllG"
+      },
+      "artists": [
+        {
+          "name": "Hussein Fatal",
+          "url": "https://open.spotify.com/artist/320OQx68FlvfJiPGSx5mxW"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Keisha Hussein",
+          "url": "https://open.spotify.com/artist/7HlpBkBfYkXE0ejc8FYYXW"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214872,
+      "name": "Outlawz Everywhere (feat. Young Noble & Keisha Hussein)",
+      "url": "https://open.spotify.com/track/1gOW3160UvgEOomiEXdzI0"
     },
     {
       "album": {
@@ -4234,7 +4290,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 182130,
       "name": "THE FACE",
       "url": "https://open.spotify.com/track/6GVgOJeqTemuXcHvvOHxI3"
@@ -4330,7 +4386,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 242798,
       "name": "The Life (feat. Young Noble, Boldy James)",
       "url": "https://open.spotify.com/track/3H5kWJTkBpkQzXmYrvZRvD"
@@ -4506,7 +4562,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 40176,
       "name": "Thuggish",
       "url": "https://open.spotify.com/track/1wpqqsHmb9jk9RPLuVl2zM"
@@ -4756,7 +4812,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174979,
       "name": "Want It",
       "url": "https://open.spotify.com/track/5hBQcL2Zoo21tjkq8yMZfr"

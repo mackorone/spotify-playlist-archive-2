@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wmMl3hU0gR.md) - [plain]
 
 > enjoy the DAY6 10th Anniversary Tour \[The DECADE\] LIVE SET including the voices of them on stage! \(데이식스의 무대 멘트와 목소리가 포함된 \[The DECADE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,039 likes - 37 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,058 likes - 37 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

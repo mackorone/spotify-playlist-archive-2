@@ -43243,6 +43243,24 @@
     },
     {
       "album": {
+        "name": "Splinter Cell",
+        "url": "https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Splinter Cell",
+      "url": "https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK"
+    },
+    {
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/6mufSdKht2eiUgYGnMrpRi"
       },
@@ -43366,7 +43384,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145459,
-      "name": "STA T**** MI GUARDA",
+      "name": "STA T**** MI MANCA",
       "url": "https://open.spotify.com/track/2yto71cyV3FiGUvLYLikSP"
     },
     {

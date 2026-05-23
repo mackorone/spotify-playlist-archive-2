@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66250,
+  "num_followers": 66259,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Eigen Wereld",
+        "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
+      },
+      "artists": [
+        {
+          "name": "Opgezwolle",
+          "url": "https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "HoedenPlank",
+      "url": "https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Tijdmachine",
         "url": "https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 209120,
       "name": "Tijdmachine - Edit",
       "url": "https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Eigen Wereld",
-        "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
-      },
-      "artists": [
-        {
-          "name": "Opgezwolle",
-          "url": "https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "HoedenPlank",
-      "url": "https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Hefvermogen",
-        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
-      },
-      "artists": [
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Feunen",
-      "url": "https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Eigen Wereld",
         "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 197520,
       "name": "Regendans",
       "url": "https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Hefvermogen",
+        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
+      },
+      "artists": [
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Feunen",
+      "url": "https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Regen Op Warm Asfalt",
-      "url": "https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Vloeistof",
         "url": "https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 286973,
       "name": "Verre Oosten",
       "url": "https://open.spotify.com/track/1GhbUw7skwCjSzLB3tWtMj"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Regen Op Warm Asfalt",
+      "url": "https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Hefvermogen",
-        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
-      },
-      "artists": [
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 265253,
       "name": "Klein, Klein Jongetje",
       "url": "https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Hefvermogen",
+        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
+      },
+      "artists": [
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Zwarte Koffie",
-      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "De Ark De Triomf",
         "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 243760,
       "name": "Ik Heb Je",
       "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Zwarte Koffie",
+      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
-      },
-      "artists": [
-        {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
-        }
-      ],
-      "duration_ms": 388840,
-      "name": "Klokkenluiders",
-      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Ambiance",
         "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 240170,
       "name": "Ambiance",
       "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+      },
+      "artists": [
+        {
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+        }
+      ],
+      "duration_ms": 388840,
+      "name": "Klokkenluiders",
+      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Hotel Beschaving",
-      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Fakkelteit",
         "url": "https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 250840,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Hotel Beschaving",
+      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
-      },
-      "artists": [
-        {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Ik Ben De Man",
-      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Bang To The Boogie EP",
         "url": "https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 268920,
       "name": "Steppin' On My Rhyme (feat. Tienus)",
       "url": "https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+      },
+      "artists": [
+        {
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Ik Ben De Man",
+      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
     },
     {
       "added_at": "2024-09-09 11:56:35",

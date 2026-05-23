@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: El Manu, ORIGIN",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: ALYSON",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 213428,
       "name": "1999",
       "url": "https://open.spotify.com/track/2VPFmPbdgKbU2FJ2caXMC5"
+    },
+    {
+      "album": {
+        "name": "AFTER OURS",
+        "url": "https://open.spotify.com/album/6srbe8nEL2jwrVag9c6j8j"
+      },
+      "artists": [
+        {
+          "name": "ALYSON",
+          "url": "https://open.spotify.com/artist/0TkeMndS0mrWcPcQzbfIp5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274840,
+      "name": "24/7 LOVE & CARE",
+      "url": "https://open.spotify.com/track/2UJAVgKdz24BrEUjKo2Aiq"
     },
     {
       "album": {
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209072,
       "name": "Ayaw ko na sana sa Love Song",
       "url": "https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg"
@@ -4509,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "gud ppl",
+        "url": "https://open.spotify.com/album/3K4da946zuDcBYNJGFUgbS"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "gud ppl",
+      "url": "https://open.spotify.com/track/7z9TVbK9PCvOCQxSox2CuL"
+    },
+    {
+      "album": {
         "name": "Guhit",
         "url": "https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q"
       },
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175135,
       "name": "Habang Buhay",
       "url": "https://open.spotify.com/track/0Qh83ZBzUkV6nb0pqlF4S6"
@@ -5808,7 +5844,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 180500,
       "name": "idk !",
       "url": "https://open.spotify.com/track/5onzTNDQ8MUuVzWiQhDwyc"
@@ -5848,6 +5884,28 @@
       "duration_ms": 208295,
       "name": "Ikaw",
       "url": "https://open.spotify.com/track/38KbpxXHaVIFApcm1M7nHR"
+    },
+    {
+      "album": {
+        "name": "ikaw (3x)",
+        "url": "https://open.spotify.com/album/6ehAPwikNemI3CG2wqfSUo"
+      },
+      "artists": [
+        {
+          "name": "Jensen Gomez",
+          "url": "https://open.spotify.com/artist/3xZCL7YJQySq6zYycUfdSv"
+        },
+        {
+          "name": "M00N",
+          "url": "https://open.spotify.com/artist/6e7xPnl4XriUKX5vtXO6er"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "ikaw (3x)",
+      "url": "https://open.spotify.com/track/5zoxWoYVXBVBFNTGRzjhNt"
     },
     {
       "album": {
@@ -6112,7 +6170,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 210000,
       "name": "Ipaalam Sana",
       "url": "https://open.spotify.com/track/76UGTkNqk1DfNn889CORwv"
@@ -6494,7 +6552,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 218461,
       "name": "Kailan Ka Aamin",
       "url": "https://open.spotify.com/track/6RZMDe1W0oEqPCnzDn3qJD"
@@ -7470,7 +7528,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 237352,
       "name": "Lagi na lang",
       "url": "https://open.spotify.com/track/7IlyDcoAwdFFeNOXA6ny1H"
@@ -12096,7 +12154,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 130064,
       "name": "Pilit Pinili",
       "url": "https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ"
@@ -12226,6 +12284,24 @@
       "duration_ms": 238526,
       "name": "Piyesa",
       "url": "https://open.spotify.com/track/4Dqxx2U0SSQvWnWcsQ3iop"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1WiZseSOEpGzkfxQlVTvAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/5tR2mt4gJ5JDMDfHg7EYTL"
     },
     {
       "album": {
@@ -13490,7 +13566,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 272938,
       "name": "Sangkalangitan",
       "url": "https://open.spotify.com/track/6DKFuvUtpsbil4puB2sd8m"
@@ -13638,7 +13714,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 281056,
       "name": "Sayang",
       "url": "https://open.spotify.com/track/5n1CTRri3vQSVRXfcXEW3N"
@@ -14057,6 +14133,24 @@
     },
     {
       "album": {
+        "name": "Sinisigaw",
+        "url": "https://open.spotify.com/album/0xN7A7fOJdq6z3nKsv7eqp"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Sinisigaw",
+      "url": "https://open.spotify.com/track/3fANJ35TEIhdkyifPzw1ww"
+    },
+    {
+      "album": {
         "name": "Sink",
         "url": "https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m"
       },
@@ -14216,6 +14310,24 @@
       "duration_ms": 286500,
       "name": "Sori",
       "url": "https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq"
+    },
+    {
+      "album": {
+        "name": "PERSONA:2000",
+        "url": "https://open.spotify.com/album/7Cyor4TuAVIk5EMlTUuxLN"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/3azKk9HATst4jPYVlduMIa"
     },
     {
       "album": {
@@ -14400,6 +14512,24 @@
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "album": {
+        "name": "SULFUR",
+        "url": "https://open.spotify.com/album/5H9Iuf3McUmRNFSgjmrfEO"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SULFUR",
+      "url": "https://open.spotify.com/track/57PX7Ks8AsC1vIoadnHUS3"
     },
     {
       "album": {
@@ -16311,6 +16441,24 @@
     },
     {
       "album": {
+        "name": "LOVER BOY: CHAPTER 1: Una",
+        "url": "https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5"
+      },
+      "artists": [
+        {
+          "name": "Yudino",
+          "url": "https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Una",
+      "url": "https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90"
+    },
+    {
+      "album": {
         "name": "Unang Halik",
         "url": "https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG"
       },
@@ -16758,6 +16906,24 @@
       "duration_ms": 256500,
       "name": "Weyvs",
       "url": "https://open.spotify.com/track/7aknzRiIoP0iuMBBGDGfcR"
+    },
+    {
+      "album": {
+        "name": "LAB SONGS NG MGA TANGA",
+        "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186577,
+      "name": "What if I miss you for the rest of my life?",
+      "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
     },
     {
       "album": {

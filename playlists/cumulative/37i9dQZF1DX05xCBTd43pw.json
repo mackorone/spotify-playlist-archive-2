@@ -6913,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "Have I Lost My Magic?",
+        "url": "https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22"
+      },
+      "artists": [
+        {
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238112,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0bQxBiXkXeM8bvNKrJ2z9q"
+    },
+    {
+      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -8962,24 +8980,6 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "album": {
-        "name": "Have I Lost My Magic?",
-        "url": "https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22"
-      },
-      "artists": [
-        {
-          "name": "To Athena",
-          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0bQxBiXkXeM8bvNKrJ2z9q"
     },
     {
       "album": {

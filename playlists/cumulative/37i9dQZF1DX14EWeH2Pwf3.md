@@ -4,7 +4,7 @@
 
 > Tedua aka Ted aka Ryan aka Ryan Ted in cover della playlist urban più grande d'Italia 🔥
 
-1,074 songs - 2 day 4 hr 0 min
+1,074 songs - 2 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Caramel](https://open.spotify.com/track/1qd3VDzfheygZf4m7lygoV) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Caramel](https://open.spotify.com/album/4dVaqGJejR0tcnwIgdaWpJ) | 3:00 | 2025-10-23 | 2025-11-14 |
 | [Caramelo](https://open.spotify.com/track/12DTLo6iqsIhzLZ53CPMf4) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Caramelo](https://open.spotify.com/album/3hxUAd6Nbyz4hGOOq3iwfk) | 3:32 | 2023-07-27 | 2023-12-01 |
 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 | 2022-06-12 | 2023-03-25 |
+| [Carillon](https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 2:46 | 2026-05-21 |  |
 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 | 2022-09-08 | 2022-09-29 |
 | [CARTINE CORTE](https://open.spotify.com/track/78BKeWWuHQ8T5kmwQKoeMk) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:28 | 2025-05-15 | 2025-05-23 |
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 | 2023-03-08 |
@@ -984,7 +985,6 @@
 | [TOPBOY \(feat\. Noyz Narcos\)](https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:26 | 2022-05-09 | 2022-05-28 |
 | [Totoro 2](https://open.spotify.com/track/2Br5XZZK8B5cYELcUV0ctM) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:08 | 2023-12-07 | 2024-01-12 |
 | [TOUR](https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [TOUR](https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc) | 2:30 | 2025-09-11 | 2025-09-26 |
-| [Track 3](https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 0:00 | 2026-05-21 |  |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-10-27 | 2023-05-19 |
 | [Trappala](https://open.spotify.com/track/41A3UzjnfsiDSuhZ4dhMtw) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 2:37 | 2025-10-30 | 2025-12-12 |

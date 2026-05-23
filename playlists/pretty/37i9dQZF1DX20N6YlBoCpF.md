@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met JAN JAN JAN, Dodo Nyoka, Hugh Lynn en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,523 likes - 108 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,553 likes - 108 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "40 Years Of Fuckin' Up",
+        "url": "https://open.spotify.com/album/40GqQCxBnK9IUqLgNNrAsC"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215038,
+      "name": "40 Years Of Fuckin' Up",
+      "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
+    },
+    {
+      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 125000,
       "name": "She's Nubs",
       "url": "https://open.spotify.com/track/04ufgAK1Fo9Ns7VWHDQPXr"

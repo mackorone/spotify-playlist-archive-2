@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "always changing",
+        "url": "https://open.spotify.com/album/1lJBEM3M3nIgKXS3fXmvq2"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145068,
+      "name": "always changing",
+      "url": "https://open.spotify.com/track/7yNZb7qHL5cfmDdnvNadk3"
+    },
+    {
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/09oiPmDA0i9SnayMdHZ3dq"
       },
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 150857,
       "name": "Amber Skies",
       "url": "https://open.spotify.com/track/0zRQHbtFAVBXBI9zbURwsn"
@@ -1412,6 +1434,24 @@
       "duration_ms": 97082,
       "name": "Anime Love",
       "url": "https://open.spotify.com/track/1j9iVY1pFIUm1wUlwhgQxx"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/2JA960IeUR2mAJNIyuaTCC"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/0q22CJLCsZDSM7eYnT7MWX"
     },
     {
       "album": {
@@ -2541,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Before It's Over",
+        "url": "https://open.spotify.com/album/4BITkzZjCHP1asHUJkjt34"
+      },
+      "artists": [
+        {
+          "name": "tatsuo",
+          "url": "https://open.spotify.com/artist/0yW4uPjl7S5Rk0sjOzVRTb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Before It's Over",
+      "url": "https://open.spotify.com/track/3UarXXaTIWcNfDthy8iQF7"
+    },
+    {
+      "album": {
         "name": "The Life in Between",
         "url": "https://open.spotify.com/album/4Y0iVYxyTFyheAzIwVfjR8"
       },
@@ -2600,6 +2658,28 @@
       "duration_ms": 115764,
       "name": "before the snow",
       "url": "https://open.spotify.com/track/6Yq2ZU37szmFSwGN0qNh5y"
+    },
+    {
+      "album": {
+        "name": "Beginning to End",
+        "url": "https://open.spotify.com/album/3SYNDDjw7BTQDhCDn6iiK7"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "Beginning to End",
+      "url": "https://open.spotify.com/track/3A7U2PXeG0XD383MoE4wcY"
     },
     {
       "album": {
@@ -3090,7 +3170,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 114461,
       "name": "Bloom 5.40pm",
       "url": "https://open.spotify.com/track/1uymbxlOBhprDDZwLqzY6r"
@@ -4014,7 +4094,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154434,
       "name": "Caf\u00e9 Noir",
       "url": "https://open.spotify.com/track/5lWrRfL9AWvIyS6Lx4HDby"
@@ -4524,7 +4604,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 113607,
       "name": "caught in yellow",
       "url": "https://open.spotify.com/track/0Tan63emaarh6MCrIlL5aQ"
@@ -6496,7 +6576,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 120374,
       "name": "Detention",
       "url": "https://open.spotify.com/track/4j7U5NSFsCMLj2mFEFvKjc"
@@ -8049,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "aetheric",
+        "url": "https://open.spotify.com/album/159iTTKV23F3sOo7mApdl3"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "end of time",
+      "url": "https://open.spotify.com/track/4WQl6cI7wdBdJWpP21bKiI"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ijTFD3sB9h3JpvMIgEvg1"
       },
@@ -8158,7 +8256,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 114857,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2hZb9pzwQ19l4sZ1KYA3mu"
@@ -13120,7 +13218,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 141666,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2hkNPXIhrHRQmUe5b3E2H2"
@@ -16921,6 +17019,24 @@
     },
     {
       "album": {
+        "name": "Messing Around",
+        "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Messing Around",
+      "url": "https://open.spotify.com/track/489OiHYbTILQSOAYcskBKB"
+    },
+    {
+      "album": {
         "name": "METRO",
         "url": "https://open.spotify.com/album/3gJDQZhEyFqH7XaMp2GwMP"
       },
@@ -17924,7 +18040,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 96000,
       "name": "my safe place",
       "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
@@ -18120,7 +18236,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 166400,
       "name": "Near Mint",
       "url": "https://open.spotify.com/track/77x62cL8Aqqv4Dmu4VKcao"
@@ -18541,6 +18657,24 @@
     },
     {
       "album": {
+        "name": "no jacket",
+        "url": "https://open.spotify.com/album/1EzPeq6QueZ9yZuWcTTkiE"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139487,
+      "name": "no jacket",
+      "url": "https://open.spotify.com/track/68dTTGp5eMBKPlnxsRkXoC"
+    },
+    {
+      "album": {
         "name": "No Longer Lost",
         "url": "https://open.spotify.com/album/5qgZhT0ptaF4c4aScEpeQA"
       },
@@ -18852,6 +18986,24 @@
       "duration_ms": 130132,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/55rpggUw8f6zKhg7qTwyOF"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/2FkO1b7WTlvDpMWA3yIP7x"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120468,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/38OAWFc0Rhc8zLryBOtmOz"
     },
     {
       "album": {
@@ -19368,7 +19520,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 137142,
       "name": "on a sunny day",
       "url": "https://open.spotify.com/track/3UaInQTeFE6yzGmH8YbWzc"
@@ -22167,6 +22319,28 @@
     },
     {
       "album": {
+        "name": "riverbank",
+        "url": "https://open.spotify.com/album/6rTwGDheAREX2b6jS3Vb1j"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128873,
+      "name": "riverbank",
+      "url": "https://open.spotify.com/track/5Tx5ykxAHNY2B5nSKpoNfQ"
+    },
+    {
+      "album": {
         "name": "Rivers and Roads",
         "url": "https://open.spotify.com/album/3ttFSibInUUJ215JU63viS"
       },
@@ -22356,6 +22530,24 @@
       "duration_ms": 182057,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/1kucaC8tydySyX4KfL4awx"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5HKBl1GAzV6yIEsjkbMKgh"
+      },
+      "artists": [
+        {
+          "name": "Mac Kay",
+          "url": "https://open.spotify.com/artist/2KgHaeIdNreTeUWwhfcmlE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147481,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/7feaIBQTD3W2UImEkC9DUN"
     },
     {
       "album": {
@@ -25998,7 +26190,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 123196,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/6VVw1EElwMRwRJPFRfCstX"
@@ -26578,7 +26770,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 116863,
       "name": "Sun Phase",
       "url": "https://open.spotify.com/track/4DToBu1BtTunAzuDjPS3hz"
@@ -28804,7 +28996,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 130909,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/3fUtq1a94nGEcmRMJ1E6hI"
@@ -29931,6 +30123,28 @@
     },
     {
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101538,
+      "name": "Views",
+      "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
+    },
+    {
+      "album": {
         "name": "Vinyl and Wine",
         "url": "https://open.spotify.com/album/3N6j6tBf39yBK83JmteGL1"
       },
@@ -30861,6 +31075,32 @@
     },
     {
       "album": {
+        "name": "When Nougat Comes To Play",
+        "url": "https://open.spotify.com/album/2jTtqkkLJIfDnHE29iacA6"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208192,
+      "name": "When Nougat Comes To Play",
+      "url": "https://open.spotify.com/track/0ArMJYc0yqzx4fGeha2wCs"
+    },
+    {
+      "album": {
         "name": "when the leaves",
         "url": "https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6"
       },
@@ -31402,6 +31642,28 @@
       "duration_ms": 71111,
       "name": "Will You Stay Here with Me",
       "url": "https://open.spotify.com/track/6RUIaR18qGtO1TYS4m3q8b"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/4H3PxXlJr1KOlaj90u9bx1"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3MZmaGfOVkw0tWW6ubYI1E"
     },
     {
       "album": {

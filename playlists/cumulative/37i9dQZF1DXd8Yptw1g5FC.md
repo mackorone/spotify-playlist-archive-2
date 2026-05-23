@@ -4,7 +4,7 @@
 
 > Motive ve haftanın en iyi çıkışları!
 
-7,818 songs - 16 day 16 hr 25 min
+7,819 songs - 16 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6945,6 +6945,7 @@
 | [Yaktın Beni](https://open.spotify.com/track/1cRESCLMIKY7mTct98dFKu) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yaktın Beni](https://open.spotify.com/album/5YEpx59voDoo8f7SU5QjZc) | 5:26 | 2025-05-08 | 2025-05-16 |
 | [Yaktın Gönlümü](https://open.spotify.com/track/7eIDNlvi0SMV8lGoaaw17u) | [Valens](https://open.spotify.com/artist/0SpunIVb5qLYeDkWNyP1f4) | [Yaktın Gönlümü](https://open.spotify.com/album/4PMJFAjS4eSn4WuAdrLjK5) | 2:22 | 2025-06-05 | 2025-06-13 |
 | [Yaktığım Son Sigaram](https://open.spotify.com/track/6dJtWbqBG2OqW5LA5CLBef) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Yaktığım Son Sigaram](https://open.spotify.com/album/4EwSoJf8bhRd0eXmVccI7e) | 3:15 | 2025-06-19 | 2025-06-27 |
+| [Yakuza](https://open.spotify.com/track/1FCKLkYcg3blfx5ntvJ4Lw) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Yakuza](https://open.spotify.com/album/3sqPCt9Mt2FJHzpIm9hGdW) | 2:38 | 2026-05-21 |  |
 | [Yakıyorum Geçmişimi](https://open.spotify.com/track/18Dd81dOX2ywCW53zGus5o) | [Gazi](https://open.spotify.com/artist/0kTlCXFKrfinDFb5eEBsp4) | [Yakıyorum Geçmişimi](https://open.spotify.com/album/5OviDt6W0bYdGIy3MBJcvG) | 2:44 | 2026-02-12 | 2026-02-20 |
 | [Yakıştı Sana](https://open.spotify.com/track/5QE5NQYYdQ2PRtqF0X9eKu) | [Tamer Deniz](https://open.spotify.com/artist/2iPLjgLMUes7lGI5QopMld) | [Yakıştı Sana](https://open.spotify.com/album/4mX7gWHe3qMvOnHKuIBCGD) | 3:23 | 2025-10-16 | 2025-10-24 |
 | [Yalan](https://open.spotify.com/track/4V98Bxo13Dp12xfCsLDtkv) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Yalan](https://open.spotify.com/album/0HZmpprqBiHXUtBJO56N4K) | 3:12 | 2025-02-27 | 2025-03-07 |

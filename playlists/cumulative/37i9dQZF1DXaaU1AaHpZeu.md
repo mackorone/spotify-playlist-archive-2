@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con Judeline en portada.
 
-7,430 songs - 16 day 23 hr 1 min
+7,430 songs - 16 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [25°37′40″N 100°14′21″O \(Coordenadas\)](https://open.spotify.com/track/4V9RdXgCPb4QOHsBVo9n5C) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [25°37′40″N 100°14′21″O \(Coordenadas\)](https://open.spotify.com/album/6ovZTOAg4im2LfeWLhZI4T) | 2:36 | 2025-10-17 | 2025-11-08 |
 | [27](https://open.spotify.com/track/3JuzfghHDjsC9bcfl24AqD) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH), [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu) | [27](https://open.spotify.com/album/502bqVzLk4AfXn2jvirZkf) | 3:10 | 2023-06-23 | 2023-07-01 |
 | [2:22](https://open.spotify.com/track/7mgzohKzB75wL8lkjEhASo) | [Ela](https://open.spotify.com/artist/4M1vqmIoggb1ZuP9yW9mWM), [Amalia](https://open.spotify.com/artist/3a33bysPiMfgsNJj0D5ZHc) | [2:22](https://open.spotify.com/album/3yUxstmk4l7JbXOvvjSxS7) | 2:31 | 2022-07-08 | 2022-09-03 |
+| [2AM](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 2:41 | 2026-05-22 |  |
 | [2mil horas](https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [2mil horas](https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC) | 3:27 | 2024-05-17 | 2024-05-25 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-03-04 |
 | [3 Horas](https://open.spotify.com/track/7DmYt4pPPgBVzakjPavhJz) | [Nepal Nepal](https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc) | [Romper en caso de emergencia](https://open.spotify.com/album/0K40ZyzO7Metrzgw2IeRt5) | 3:09 | 2024-11-15 | 2024-11-22 |
@@ -6690,7 +6691,6 @@
 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 | 2025-10-17 | 2025-11-08 |
 | [tquiero](https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [tquiero](https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk) | 2:33 | 2026-02-20 | 2026-02-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-30 |
-| [Track 3](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 0:00 | 2026-05-22 |  |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-03-31 | 2023-04-15 |
 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 | 2024-09-06 | 2024-09-14 |
 | [Traición](https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW) | [Barbacius](https://open.spotify.com/artist/6ammhQoFZnVNk5n8qqagyv), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Big Apple](https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe) | [3 Pasos Para Sanar un Corazón Roto](https://open.spotify.com/album/1tDZPLGY1uTtON1SLq8PHO) | 2:33 | 2026-02-27 | 2026-03-07 |

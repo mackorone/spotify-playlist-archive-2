@@ -2,7 +2,7 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Sidhu Moose Wala
+> India's Rap Scene\. Cover \- Karan Aujla
 
 399 songs - 21 hr 22 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Konyikeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,223 likes - 79 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,240 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 12 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
 | 13 | [suffer](https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [suffer](https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I) | 3:23 |
 | 14 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 |
-| 15 | [Track 3](https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Outsider Music Vol 1: you don't know what you want, do you?](https://open.spotify.com/album/4f5t578repKV8L5eVA75GL) | 0:00 |
+| 15 | [don't be sad :\)!](https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Outsider Music Vol 1: you don't know what you want, do you?](https://open.spotify.com/album/4f5t578repKV8L5eVA75GL) | 2:15 |
 | 16 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 17 | [Money Tree](https://open.spotify.com/track/0iPXVhghWoomfvp0hvpryd) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Money Tree](https://open.spotify.com/album/0aX6eaOq49NsjZyZBWtNZ2) | 2:39 |
 | 18 | [Rain in July](https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Rain in July / Be the One](https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg) | 3:00 |

@@ -1,12 +1,12 @@
 {
-  "description": "you met me at a very indie twang time in my life...This Is Lorelei on the cover",
-  "num_followers": 97221,
+  "description": "you met me at a very indie twang time in my life... Thomas Dollbaum on the cover",
+  "num_followers": 97241,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPvj7bG+GRM6nUBdVM7pfQoUFhM",
+  "snapshot_id": "AAAAAOwbL1c+EjD/DfVQFJ05GwRDUydW",
   "tracks": [
     {
       "added_at": "2026-04-10 04:01:51",
@@ -45,20 +45,40 @@
       "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
-      "added_at": "2026-05-08 04:03:31",
+      "added_at": "2026-05-22 04:01:28",
       "album": {
-        "name": "Zoom 97",
-        "url": "https://open.spotify.com/album/4zOyn3wSSeUjeMNQQykfEb"
+        "name": "Rabbits",
+        "url": "https://open.spotify.com/album/0hbpIIHxUA6oCIi4pEgDuC"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
         }
       ],
-      "duration_ms": 294720,
-      "name": "Zoom 97",
-      "url": "https://open.spotify.com/track/7JhMqx0s2GFSl8RvTPlMtK"
+      "duration_ms": 170200,
+      "name": "Rabbits",
+      "url": "https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ"
+    },
+    {
+      "added_at": "2026-05-22 04:01:28",
+      "album": {
+        "name": "Tear Your Heart Out",
+        "url": "https://open.spotify.com/album/3vfup65wOwzrN5ImXLcBwm"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        },
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 221912,
+      "name": "Neverrr Everrr",
+      "url": "https://open.spotify.com/track/7FKlskl1w198kcL3urv4XW"
     },
     {
       "added_at": "2026-04-10 04:01:51",
@@ -77,20 +97,20 @@
       "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
     },
     {
-      "added_at": "2026-04-10 04:01:51",
+      "added_at": "2026-05-08 04:03:31",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+        "name": "Zoom 97",
+        "url": "https://open.spotify.com/album/4zOyn3wSSeUjeMNQQykfEb"
       },
       "artists": [
         {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 261533,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
+      "duration_ms": 294720,
+      "name": "Zoom 97",
+      "url": "https://open.spotify.com/track/7JhMqx0s2GFSl8RvTPlMtK"
     },
     {
       "added_at": "2026-04-10 04:01:51",
@@ -219,6 +239,22 @@
       "duration_ms": 179440,
       "name": "Spirit Manger",
       "url": "https://open.spotify.com/track/6XMZCoxwWeNRC3bAtX699y"
+    },
+    {
+      "added_at": "2026-04-10 04:01:51",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
     },
     {
       "added_at": "2026-04-10 04:01:51",

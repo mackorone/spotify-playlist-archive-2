@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Madeline Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,384 likes - 90 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,364 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 2 | [Die Falschen geküsst](https://open.spotify.com/track/0qnFwCW5AxQaEJXfACBTD8) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Die Falschen geküsst](https://open.spotify.com/album/12b2GxR5a1c75iUuOtB0aY) | 2:38 |
 | 3 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 4 | [STOLZ AUF DICH](https://open.spotify.com/track/4Zppu4rQXAsTwIM2AFsM0y) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [STOLZ AUF DICH](https://open.spotify.com/album/20k84KeK6g6VPnz6MdWt8T) | 2:31 |
-| 5 | [Track 1](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 0:00 |
+| 5 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
 | 6 | [Alles nur geliehen](https://open.spotify.com/track/2AaXINpwssPOfArogQa4um) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Alles nur geliehen](https://open.spotify.com/album/5X6d4FzjoQOJbfn41uf96q) | 3:13 |
 | 7 | [Elefantastisch](https://open.spotify.com/track/0VwQrqWfGbuUjSjTaWB7Ac) | [Basti Stein](https://open.spotify.com/artist/5srjoLQYI0dv9Fyf0JkXRG) | [Elefantastisch](https://open.spotify.com/album/5MWACh8onVSHkNQbEjRlSL) | 2:17 |
 | 8 | [Tanz](https://open.spotify.com/track/6EVLYCoGWC6D7hn61pzO2A) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Tanz](https://open.spotify.com/album/64zziqw3hnpTBYtRJLvgEG) | 2:10 |

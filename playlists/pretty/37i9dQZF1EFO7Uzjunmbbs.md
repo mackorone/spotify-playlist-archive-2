@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 215 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,036 likes - 215 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 96 | [Fine](https://open.spotify.com/track/7hIrgsg6Krb5dbNMFyXuPO) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Fine](https://open.spotify.com/album/3UxX8rPUgVZA2auFNFH9QB) | 3:25 |
 | 97 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
 | 98 | [Stronger Than We Think \- Bryan Todd Remix](https://open.spotify.com/track/1DjwMsNXUCrcSYlqsaCo6r) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Bryan Todd](https://open.spotify.com/artist/7yJeHSz1S2NKnNwONqETZ5) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:52 |
-| 99 | [Temporary Feeling](https://open.spotify.com/track/4G6EM7lW6jCUb0p7ZmcBxa) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Hannah Ellis](https://open.spotify.com/album/7lVEZS5JAm6gmm5Vo0KwQF) | 2:59 |
-| 100 | [You See Me](https://open.spotify.com/track/7vcW06rPkpF7RRFP40XQrz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:16 |
+| 99 | [You See Me](https://open.spotify.com/track/7vcW06rPkpF7RRFP40XQrz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:16 |
+| 100 | [Temporary Feeling](https://open.spotify.com/track/4G6EM7lW6jCUb0p7ZmcBxa) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Hannah Ellis](https://open.spotify.com/album/7lVEZS5JAm6gmm5Vo0KwQF) | 2:59 |
 | 101 | [Outlaw Love](https://open.spotify.com/track/0WdDt6MDfrsp7kVXhyKKhv) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Outlaw Love](https://open.spotify.com/album/4NWSNWO1EfJvB8Af7Gb0nu) | 2:55 |
 | 102 | [Mixed Emotions](https://open.spotify.com/track/0JeyuSyhArti8bf31ZvTyJ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 2:40 |
 | 103 | [This Too Shall Pass](https://open.spotify.com/track/2dH6WEGWUvieo01KThGYzh) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:28 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 214 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 215 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcSHvAAAAAAi4d8mZOadSKYYoSqD8vJh`
+Snapshot ID: `AcSNXAAAAACJTz4PmQaG+iui2diNVGgh`

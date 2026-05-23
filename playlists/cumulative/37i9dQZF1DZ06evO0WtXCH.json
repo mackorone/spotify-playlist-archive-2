@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Crystallize",
+        "url": "https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
+    },
+    {
+      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },

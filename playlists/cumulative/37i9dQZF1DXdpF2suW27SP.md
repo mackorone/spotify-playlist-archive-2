@@ -4,7 +4,7 @@
 
 > Richie Campbell entra na zona.
 
-1,016 songs - 2 day 5 hr 29 min
+1,017 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,7 @@
 | [Pengthing](https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W) | [Mside](https://open.spotify.com/artist/7Ddg0uyT8fliPrQwQn89pT), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Pengthing](https://open.spotify.com/album/3sy9rlGAiDOegbBAIJ5lIh) | 3:48 | 2024-01-26 | 2024-02-16 |
 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 | 2023-09-28 | 2025-01-31 |
 | [PERAR](https://open.spotify.com/track/7ypr4HKCTl2QHYLvhbCuda) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [LSD](https://open.spotify.com/album/0jTTydIhEi4RM75zIYblMS) | 3:43 | 2026-05-14 |  |
-| [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 | 2026-04-02 |  |
+| [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 | 2026-04-02 | 2026-05-23 |
 | [Peso](https://open.spotify.com/track/0jqh2tqBk2MSTP3E16ns2E) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Peso](https://open.spotify.com/album/5wDWNP3B0t6ptHtUGNIhza) | 2:52 | 2022-07-16 | 2022-10-14 |
 | [Peso Nas Jeans](https://open.spotify.com/track/2N2uJjFiqiWTgX2lnvuRu8) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [Das G](https://open.spotify.com/artist/2nfpKkxHs0XE9aKrlXE6pm), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Peso Nas Jeans](https://open.spotify.com/album/0uFargCyrXxgXtvSzupqlb) | 2:00 | 2024-11-29 | 2025-01-03 |
 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 | 2023-12-22 | 2024-04-19 |
@@ -750,6 +750,7 @@
 | [POPULAR](https://open.spotify.com/track/7vZzEZxbFvj5FBllvx65rJ) | [YUNGVICY](https://open.spotify.com/artist/2yxgpvjFUJIxuxEJUfk17Q) | [POPULAR](https://open.spotify.com/album/1ah8MSjxQ49EoI3Cnyk51y) | 2:41 | 2025-08-07 | 2025-09-13 |
 | [Por Aqui](https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Por Aqui](https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ) | 2:19 | 2023-09-14 | 2023-10-13 |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-16 | 2023-04-07 |
+| [Por Vocês](https://open.spotify.com/track/4XTDWuo0jSxFdrPOe2MNQW) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Linguagem](https://open.spotify.com/album/3xNATeSVaqSFGPPUCPrFpK) | 3:01 | 2026-05-22 |  |
 | [Porta Mal](https://open.spotify.com/track/27eOuofdxwzMERDkY9ajpU) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [A Beleza Das Coisas Feias](https://open.spotify.com/album/3ShSoKzdo69etCFTtUbZKN) | 2:19 | 2024-02-23 | 2024-03-15 |
 | [Possibilidade](https://open.spotify.com/track/3UZrZ4fJ8EIRfLzmt4Mu4D) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Possibilidade](https://open.spotify.com/album/7qI6YCd1HxQG7OO99od009) | 3:32 | 2025-01-24 | 2025-04-04 |
 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 | 2023-08-04 |

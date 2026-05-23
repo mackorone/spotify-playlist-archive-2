@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,773 likes - 250 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,078 likes - 250 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 249 | [Buttercup](https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Buttercup](https://open.spotify.com/album/0Q3YP5gmFJMQO2HqL3Becv) | 1:38 |
 | 250 | [Summer Rain Lullaby](https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD) | [Moa Schooner](https://open.spotify.com/artist/0bVphTIhvj7rQlDw7z6v2R) | [Summer Rain Lullaby](https://open.spotify.com/album/5kr9AhpIeh3IThdTKwRzXR) | 1:52 |
 
-Snapshot ID: `AAAAAC1AlyQpvF/DPRqR6c9XBp2LRamo`
+Snapshot ID: `AAAAAMmBEjcxNir0A0/Rp7YK44Ov1JH0`

@@ -4,7 +4,7 @@
 
 > Éxitos de Trap Latino  📸  Eladio Carrion
 
-628 songs - 1 day 10 hr 52 min
+629 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Muñeca \- Remix](https://open.spotify.com/track/4nCFetlMi0TgG6bwbORg8B) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Muñeca \(Remix\)](https://open.spotify.com/album/4XhJvgJr7UWOnw6rWFMIJe) | 5:10 | 2024-03-01 | 2024-04-13 |
 | [Mvp](https://open.spotify.com/track/2G3QPsYBPa1X4UjNIm5h5f) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Incrédulo](https://open.spotify.com/album/2vUPgoByWDx8yJlNIrOhu4) | 2:30 | 2025-10-17 |  |
 | [MY BLOOD](https://open.spotify.com/track/4KAZuTL234Q5CIRW5nhVbi) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [My Blood](https://open.spotify.com/album/4iGqw6rofNIq2DpWeQl4gM) | 3:00 | 2023-03-03 | 2023-03-18 |
+| [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 | 2026-05-01 |  |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2021-12-06 |  |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-06-03 | 2022-09-03 |
 | [Na Oficial](https://open.spotify.com/track/5bWqWZMZQanGyoUvCwAUEA) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Na Oficial](https://open.spotify.com/album/4BY13m0zpvQaNOWICBWNRR) | 4:00 | 2022-12-23 | 2023-04-09 |

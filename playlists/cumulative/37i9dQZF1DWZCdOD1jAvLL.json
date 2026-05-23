@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Stank face activated. Cover: Rezz",
+  "description": "Stank face activated. Cover: DCR MILDA",
   "name": "Bangers",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
@@ -706,6 +706,28 @@
       "duration_ms": 197903,
       "name": "All Around The World",
       "url": "https://open.spotify.com/track/4EVzwXDKm3YW3KgF9imoco"
+    },
+    {
+      "album": {
+        "name": "All Day (Jackie Hollander Remix)",
+        "url": "https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "All Day - Jackie Hollander Remix",
+      "url": "https://open.spotify.com/track/4Jy1rvDyPYkRP74TGXciBN"
     },
     {
       "album": {
@@ -1554,6 +1576,32 @@
       "duration_ms": 199384,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG"
+    },
+    {
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/2DAIBfAmPuDv1zSi5n4hAS"
+      },
+      "artists": [
+        {
+          "name": "DCR MILDA",
+          "url": "https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64"
+        },
+        {
+          "name": "Jesse Lucas",
+          "url": "https://open.spotify.com/artist/1PNjiSxJdQsWiSbvYP4GXl"
+        },
+        {
+          "name": "DR MAD",
+          "url": "https://open.spotify.com/artist/6LQguxTz5ZsPAAdN6eVPuj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155185,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/2WmkpuyietH1Wj2YBKdyL1"
     },
     {
       "album": {
@@ -4117,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Crown Control",
+        "url": "https://open.spotify.com/album/6PL33iUp35UVa4TZzYUVTa"
+      },
+      "artists": [
+        {
+          "name": "HUMANSION",
+          "url": "https://open.spotify.com/artist/6VN0cbu6VBJn4RMPNDWsma"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157763,
+      "name": "Crown Control",
+      "url": "https://open.spotify.com/track/0C3VVIvR4CeqEY7I4dn3Bk"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
       },
@@ -4628,7 +4694,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193273,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
@@ -6928,7 +6994,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
@@ -14148,7 +14214,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
@@ -14316,7 +14382,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204545,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/752jwWUjjewYUdkyXQbUMe"
@@ -15987,6 +16053,24 @@
     },
     {
       "album": {
+        "name": "REZORECTA II",
+        "url": "https://open.spotify.com/album/5lFYwo7MQufGrPGe5Uka1J"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270996,
+      "name": "REZORECTA II",
+      "url": "https://open.spotify.com/track/2TTLm6EM65GtJq2E7Fup8o"
+    },
+    {
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
@@ -16282,7 +16366,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 231300,
       "name": "Rome Is Burning",
       "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
@@ -18273,6 +18357,28 @@
     },
     {
       "album": {
+        "name": "SURGE",
+        "url": "https://open.spotify.com/album/0w70TDSfkeqRlCoHEutHZe"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "SURGE",
+      "url": "https://open.spotify.com/track/4ZgjsB7wOo7GYjOVGZtEY5"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2RlTxicWPSu1Z4sWXXWPrV"
       },
@@ -19106,6 +19212,24 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "album": {
@@ -20845,6 +20969,28 @@
     },
     {
       "album": {
+        "name": "We Stay Inside",
+        "url": "https://open.spotify.com/album/7LmIk78HRfonEIQVnbDzCX"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "We Stay Inside",
+      "url": "https://open.spotify.com/track/07ZNFGNSzM5LNK5ZpwW2kf"
+    },
+    {
+      "album": {
         "name": "What Is Life",
         "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
       },
@@ -21252,7 +21398,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185215,
       "name": "World Of The Rave",
       "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"

@@ -11959,7 +11959,7 @@
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184761,
+      "duration_ms": 184285,
       "name": "Dream Out Loud",
       "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
     },
@@ -39321,6 +39321,24 @@
     },
     {
       "album": {
+        "name": "PASH",
+        "url": "https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221632,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ"
+    },
+    {
+      "album": {
         "name": "the wild, the innocent & the raging",
         "url": "https://open.spotify.com/album/5HRTO3VPXz185L1l7DxSvu"
       },
@@ -43495,6 +43513,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
       },
@@ -46244,24 +46280,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "PASH",
-        "url": "https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ"
     },
     {
       "album": {

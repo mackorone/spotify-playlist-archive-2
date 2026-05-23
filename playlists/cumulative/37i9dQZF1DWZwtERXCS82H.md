@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-883 songs - 1 day 14 hr 6 min
+884 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 | 2022-11-18 | 2024-11-20 |
 | [After Everything](https://open.spotify.com/track/1oBoHVBfw2E4WlV706LFgJ) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [After Everything](https://open.spotify.com/album/2RXqgmdddhg1Qu7SAiXBuR) | 2:20 | 2026-03-20 |  |
 | [After Everything](https://open.spotify.com/track/5ysSZFdbEH1dZWemGixdYG) | [Solvaen](https://open.spotify.com/artist/3MnAxd630Net7OBynwqSP2) | [After Everything](https://open.spotify.com/album/6oNmwowB6pCsNpkkg3Md7N) | 2:46 | 2026-05-15 |  |
+| [After the Frost](https://open.spotify.com/track/0lDQpkH7iyZrUcUFta70MC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [After the Frost](https://open.spotify.com/album/421vVDfZQ3ZQ0rc09re3TJ) | 2:56 | 2026-05-22 |  |
 | [After You](https://open.spotify.com/track/5q2e0d0VSn56TotgKbQvaW) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [After You](https://open.spotify.com/album/073NqGkD4cWeDwWlREHGv1) | 2:53 | 2026-05-08 |  |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-15 | 2024-04-04 |

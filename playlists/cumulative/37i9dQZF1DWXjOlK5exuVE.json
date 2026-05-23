@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Historias que hacen historia. Diferente Nivel en portada. ",
+  "description": "Historias que hacen historia. Los Tucanes de Tijuana en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Grupo Laberinto De Corridos",
+        "url": "https://open.spotify.com/album/7xbkpXPLmUhlYL2FgsFqso"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162504,
+      "name": "Arbol De La Horca",
+      "url": "https://open.spotify.com/track/00Arfy7zhXmtnAUb5vlWGP"
+    },
+    {
+      "album": {
         "name": "HNOS ESPINOZA, VOL. 5",
         "url": "https://open.spotify.com/album/30SeBiikKTNNzmWzPWLPRo"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 162560,
       "name": "Borracho Y Escandaloso",
       "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 162720,
       "name": "Cristaleros Michoacanos - Banda",
       "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 191333,
       "name": "Dos Pa\u2019 Llevar",
       "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 207333,
       "name": "EL BO",
       "url": "https://open.spotify.com/track/3WR4YxkDZlKLiBSlg7oNxD"
@@ -1700,6 +1718,24 @@
       "duration_ms": 146146,
       "name": "El Chulo",
       "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
+    },
+    {
+      "album": {
+        "name": "El Chuma",
+        "url": "https://open.spotify.com/album/1K8ii4p0vvgdXtBgGm9DV8"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170527,
+      "name": "El Chuma",
+      "url": "https://open.spotify.com/track/15WFWS5ny35IAVsCzDoxiD"
     },
     {
       "album": {
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 191669,
       "name": "Hace Falta Alfredo",
       "url": "https://open.spotify.com/track/3c7VK84Okpyjd2sm31yuee"
@@ -4219,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "Yo Soy La Ley",
+        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211721,
+      "name": "La Tierra Del Corrido",
+      "url": "https://open.spotify.com/track/2g2eJLyrj6w6YnxLNSjmVw"
+    },
+    {
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -4572,7 +4626,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 217650,
       "name": "Legado Beltran",
       "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
@@ -6176,6 +6230,24 @@
       "duration_ms": 200849,
       "name": "Ya Nos Va Mejor",
       "url": "https://open.spotify.com/track/6OXp9rUM32eWH8nd9TPDBp"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Ley",
+        "url": "https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177729,
+      "name": "Yo Soy La Ley",
+      "url": "https://open.spotify.com/track/7HVqHq9lr5cHsoXrIOW8ah"
     },
     {
       "album": {

@@ -8683,6 +8683,24 @@
     },
     {
       "album": {
+        "name": "Oneiro",
+        "url": "https://open.spotify.com/album/7CapUWiuLckg4cliKUe8oY"
+      },
+      "artists": [
+        {
+          "name": "Santi Soriano",
+          "url": "https://open.spotify.com/artist/4KIocXDbQlMFqKPa0i1QZd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136903,
+      "name": "Oneiro",
+      "url": "https://open.spotify.com/track/1hmRh3YO7xeob60MdFW8UT"
+    },
+    {
+      "album": {
         "name": "Onironautas",
         "url": "https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy"
       },
@@ -8896,6 +8914,24 @@
       "duration_ms": 132900,
       "name": "Over and over again",
       "url": "https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr"
+    },
+    {
+      "album": {
+        "name": "Overseas",
+        "url": "https://open.spotify.com/album/69fZyItEkoker9n2FNey1x"
+      },
+      "artists": [
+        {
+          "name": "Alix Claude",
+          "url": "https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111769,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/0JUMYfwgrUdd5GtAGtQiAu"
     },
     {
       "album": {
@@ -11419,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "Sprout On The Vines",
+        "url": "https://open.spotify.com/album/4Ls55yuS7ji7RKyfIDHq4E"
+      },
+      "artists": [
+        {
+          "name": "Kitt River",
+          "url": "https://open.spotify.com/artist/79CdA7sDrqRL3FJymXgjM8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Sprout On The Vines",
+      "url": "https://open.spotify.com/track/0znqwpJAKR7i2xx9TLcXNY"
+    },
+    {
+      "album": {
         "name": "Lavender Dreams",
         "url": "https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz"
       },
@@ -13796,6 +13850,24 @@
       "duration_ms": 158500,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD"
+    },
+    {
+      "album": {
+        "name": "Where Ice Thins",
+        "url": "https://open.spotify.com/album/58O8yWslkKDOOTPxe81a8z"
+      },
+      "artists": [
+        {
+          "name": "Oliver Dunham",
+          "url": "https://open.spotify.com/artist/6RMFEePcAbs3CC6qvi44QL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140502,
+      "name": "Where Ice Thins",
+      "url": "https://open.spotify.com/track/3scTfvjIPRRhxOPZxpUkSQ"
     },
     {
       "album": {

@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 127200,
       "name": "Hawawan",
       "url": "https://open.spotify.com/track/2jh0PkYbStyXpz3YC4Srjg"
@@ -12964,6 +12964,32 @@
       "duration_ms": 140752,
       "name": "You Talking To Me?",
       "url": "https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ"
+    },
+    {
+      "album": {
+        "name": "Your Thoughts",
+        "url": "https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8"
+      },
+      "artists": [
+        {
+          "name": "Nav Singh",
+          "url": "https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs"
+        },
+        {
+          "name": "Dachamp",
+          "url": "https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z"
+        },
+        {
+          "name": "Arjan Gill",
+          "url": "https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Your Thoughts",
+      "url": "https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U"
     },
     {
       "album": {

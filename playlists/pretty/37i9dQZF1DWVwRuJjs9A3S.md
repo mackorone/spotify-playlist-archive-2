@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Jelly Crystal
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,168 likes - 269 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 269 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

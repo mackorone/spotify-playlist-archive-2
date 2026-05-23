@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-229 songs - 20 hr 47 min
+230 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63), [Michael Burton](https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7) | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67) | 5:40 | 2024-06-07 |  |
 | [Love Line](https://open.spotify.com/track/0svZOna20LwtbhIAL8HD1o) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [Kanika Moore](https://open.spotify.com/artist/7l3wgJeWp7SWHnRG8WQ10V) | [Love Line](https://open.spotify.com/album/4kmktRozz840aJjfCQvv2n) | 3:21 | 2025-04-11 | 2025-08-16 |
 | [Love Time](https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Love Time](https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD) | 4:19 | 2024-03-01 | 2024-07-27 |
+| [Luck](https://open.spotify.com/track/2spAzcHCzJ5FW9IoNGcpx6) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Luck](https://open.spotify.com/album/5Jq2dJmhqU17iERQjEIt32) | 4:59 | 2026-05-22 |  |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
 | [Mamacita](https://open.spotify.com/track/2JMaOgTxoHn8zqpBYmy7FO) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Mamacita](https://open.spotify.com/album/5ipPpwKIN4P0Pi7lEJ2rF4) | 4:08 | 2025-02-07 |  |
@@ -149,7 +150,7 @@
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 | 2023-05-06 |
 | [New Sol](https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [New Sol](https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE) | 4:20 | 2024-07-12 | 2024-08-03 |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 | 2023-06-03 |
-| [Now and Then](https://open.spotify.com/track/60vWJQbZiM54JApQwfwwP8) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Now and Then](https://open.spotify.com/album/3ilbEpyXEoJ8CHadIp6fqP) | 4:02 | 2026-03-13 |  |
+| [Now and Then](https://open.spotify.com/track/60vWJQbZiM54JApQwfwwP8) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Now and Then](https://open.spotify.com/album/3ilbEpyXEoJ8CHadIp6fqP) | 4:02 | 2026-03-13 | 2026-05-23 |
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 | 2025-04-12 |
 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 | 2024-05-24 | 2024-06-15 |
 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 | 2025-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > @ozzyviceversa 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,501 likes - 35 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,504 likes - 35 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 29 | [HIMMELSENDT](https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [HIMMELSENDT](https://open.spotify.com/album/1SLP82qp6FDgLFmCJGiqjN) | 2:13 |
 | 30 | [Gone](https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Gone](https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D) | 2:30 |
 | 31 | [ALLEREDE](https://open.spotify.com/track/7zemG7X02GuBnJEUiKj2RN) | [AMRO](https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ) | [ALLEREDE](https://open.spotify.com/album/2JyzgAsW974AJslkCtyGs4) | 2:52 |
-| 32 | [Fjender](https://open.spotify.com/track/5sxOJi8K19JswhPSjCQ1js) | [Dj Static](https://open.spotify.com/artist/1RhA8EPYlpcfkyz08MTnjv), [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [Nella](https://open.spotify.com/artist/3WFqow9aZYSITeULSMS5xe) | [Stadig Rolig](https://open.spotify.com/album/1v8yoUwVGGlhUulMd4uLzq) | 4:15 |
+| 32 | [Fjender](https://open.spotify.com/track/5sxOJi8K19JswhPSjCQ1js) | [Dj Static](https://open.spotify.com/artist/1RhA8EPYlpcfkyz08MTnjv), [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [Nella](https://open.spotify.com/artist/4DvWaQm4FBP8ykYbOOZflA) | [Stadig Rolig](https://open.spotify.com/album/1v8yoUwVGGlhUulMd4uLzq) | 4:15 |
 | 33 | [Er du med mig?](https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [Er du med mig?](https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC) | 2:57 |
 | 34 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 | 35 | [DOKU](https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [DOKU](https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d) | 1:53 |

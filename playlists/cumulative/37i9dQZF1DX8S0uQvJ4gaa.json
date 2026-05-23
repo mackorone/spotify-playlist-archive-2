@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Charles Wesley Godwin and Luke Combs",
+  "description": "Break them in, wear them out. Cover: Tyler Hubbard",
   "name": "New Boots",
   "tracks": [
     {
@@ -1994,6 +1994,24 @@
       "duration_ms": 213320,
       "name": "All She Wants Is the Moon",
       "url": "https://open.spotify.com/track/0OtaWC90HUZiR3hOB5hNLl"
+    },
+    {
+      "album": {
+        "name": "All The Best",
+        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198340,
+      "name": "All The Best",
+      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
     },
     {
       "album": {
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 225884,
       "name": "Better That Way (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
@@ -9965,6 +9983,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "album": {
         "name": "Dale Jr.",
         "url": "https://open.spotify.com/album/3ieOkLgEJWVADeBeqIXPs1"
       },
@@ -13508,6 +13544,24 @@
       "duration_ms": 219192,
       "name": "Every Other Memory",
       "url": "https://open.spotify.com/track/3t2xlkvPsrcyia0eBaCZ53"
+    },
+    {
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/04kjTLTshcdlB4BTey2vAA"
+      },
+      "artists": [
+        {
+          "name": "McCoy Moore",
+          "url": "https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "Every Single Summer",
+      "url": "https://open.spotify.com/track/5goZ77KeX08Iii1KG1ukZO"
     },
     {
       "album": {
@@ -27357,6 +27411,24 @@
     },
     {
       "album": {
+        "name": "Land",
+        "url": "https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
+    },
+    {
+      "album": {
         "name": "Lasso",
         "url": "https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc"
       },
@@ -35992,6 +36064,28 @@
     {
       "album": {
         "name": "One Of Us",
+        "url": "https://open.spotify.com/album/5IThojfEyKNcJy9Tf38goe"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215410,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/0mgZUlVCNim3iAtlmhXWOJ"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
         "url": "https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8"
       },
       "artists": [
@@ -40261,6 +40355,28 @@
     },
     {
       "album": {
+        "name": "Say I'm Wrong",
+        "url": "https://open.spotify.com/album/4d4dZyykwzBgFheuGrQCBD"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197886,
+      "name": "Say I'm Wrong",
+      "url": "https://open.spotify.com/track/6yrP0qntZJTzJCEAMKzRCJ"
+    },
+    {
+      "album": {
         "name": "Say in This",
         "url": "https://open.spotify.com/album/5ZMI7ewNkpA5JKgitZnHVT"
       },
@@ -40326,7 +40442,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 201146,
       "name": "Say So",
       "url": "https://open.spotify.com/track/29cQXi1TarDW44CxOKfjuc"
@@ -45926,7 +46042,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198813,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
@@ -49118,7 +49234,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 207878,
       "name": "Traitor (Roles Reversed)",
       "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
@@ -49808,7 +49924,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 139459,
       "name": "Two Steppin\u2019 (feat. Adrien Nunez)",
       "url": "https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h"
@@ -54276,7 +54392,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 166735,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
@@ -54759,6 +54875,28 @@
     },
     {
       "album": {
+        "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+        "url": "https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156318,
+      "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l"
+    },
+    {
+      "album": {
         "name": "Wouldn't Be a Country Boy",
         "url": "https://open.spotify.com/album/7wr4PlHmGy21Ztrf5gSh4B"
       },
@@ -55160,7 +55298,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 169278,
       "name": "You and I",
       "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"

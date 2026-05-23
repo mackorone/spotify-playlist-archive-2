@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Trap Dickey",
+  "description": "The hottest out the South. Cover: 6LACK",
   "name": "No Cap",
   "tracks": [
     {
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 213067,
       "name": "Alicia (with Lil Baby)",
       "url": "https://open.spotify.com/track/6LU2Kbm1QiNx3LgFNwQEbH"
@@ -4851,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+    },
+    {
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -5024,6 +5046,24 @@
       "duration_ms": 186720,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV"
+    },
+    {
+      "album": {
+        "name": "Beautiful Demon",
+        "url": "https://open.spotify.com/album/7fy6CHWzaFygKR8IQ3irKz"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169273,
+      "name": "Beautiful Demon",
+      "url": "https://open.spotify.com/track/36B064djhtVwoYogqL520H"
     },
     {
       "album": {
@@ -5690,7 +5730,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172008,
       "name": "Big Homie",
       "url": "https://open.spotify.com/track/2ZPYbVLJ9Nrjzsild0RQ7p"
@@ -6936,6 +6976,24 @@
       "duration_ms": 158117,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
+    },
+    {
+      "album": {
+        "name": "Body Dangerous",
+        "url": "https://open.spotify.com/album/57FC6ySq2MsiL8i7C9quKF"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104581,
+      "name": "Body Dangerous",
+      "url": "https://open.spotify.com/track/2E0i6a505azpLGarDsNMv7"
     },
     {
       "album": {
@@ -13240,7 +13298,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195918,
       "name": "Dogshit",
       "url": "https://open.spotify.com/track/30fkvEGw8aFiLwlWN26v4v"
@@ -14806,7 +14864,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 102000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/0f5EhuNMwbizCKWPxo4j6s"
@@ -18434,6 +18492,24 @@
       "duration_ms": 256105,
       "name": "Generation",
       "url": "https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo"
+    },
+    {
+      "album": {
+        "name": "GET + OUT + MY + WAY",
+        "url": "https://open.spotify.com/album/1HAPGgKnCCT17VzKILkBSR"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138226,
+      "name": "GET + OUT + MY + WAY",
+      "url": "https://open.spotify.com/track/5YFK5y7RUxlrLSMzl9bWrJ"
     },
     {
       "album": {
@@ -22456,6 +22532,24 @@
       "duration_ms": 112207,
       "name": "How I'm Livin",
       "url": "https://open.spotify.com/track/4k6sLrwnabcM6AiUza1qKb"
+    },
+    {
+      "album": {
+        "name": "How I\u2019m Livin",
+        "url": "https://open.spotify.com/album/72GDSw32j4MDjrXrALQA9X"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110875,
+      "name": "How I'm Livin",
+      "url": "https://open.spotify.com/track/0sNkVVkBnJRQmIe40tntqg"
     },
     {
       "album": {
@@ -30452,7 +30546,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 107333,
       "name": "Misconceptions",
       "url": "https://open.spotify.com/track/2AG0KnrrNUK1t1EvuEa7cn"
@@ -34320,7 +34414,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154469,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
@@ -41257,6 +41351,28 @@
     },
     {
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "RUNNING LATE FREESTYLE (with Mereba)",
+      "url": "https://open.spotify.com/track/5hLkU81w49KwwSdvLbOm4y"
+    },
+    {
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -42349,6 +42465,28 @@
     },
     {
       "album": {
+        "name": "Like Yay 2",
+        "url": "https://open.spotify.com/album/4NtgzQDcCTRsWZFM0g1kqw"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198791,
+      "name": "Shake It (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/1rdsj0XHRALG1xGTQwQDZC"
+    },
+    {
+      "album": {
         "name": "CALL DA FIREMAN",
         "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
       },
@@ -43176,7 +43314,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 142250,
       "name": "Sid Vicious",
       "url": "https://open.spotify.com/track/3jYdlvaxBOHG7Rl4yvJXji"
@@ -44486,7 +44624,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 181391,
       "name": "Spend Dat",
       "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
@@ -45098,6 +45236,32 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
+        "name": "Steak With Lobster (feat. Fenix Flexin & Diego Ave)",
+        "url": "https://open.spotify.com/album/0YvXDTZLOl8dGkF2oGXQ2S"
+      },
+      "artists": [
+        {
+          "name": "RNB.FOEMOB",
+          "url": "https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Diego Ave",
+          "url": "https://open.spotify.com/artist/18X4zEWkSrcO0yj7onxoYu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140019,
+      "name": "Steak With Lobster (feat. Fenix Flexin & Diego Ave)",
+      "url": "https://open.spotify.com/track/4jetJeyh834UzJuCOz2QAc"
     },
     {
       "album": {
@@ -46800,6 +46964,24 @@
       "duration_ms": 179933,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
+    },
+    {
+      "album": {
+        "name": "Swing The Sword",
+        "url": "https://open.spotify.com/album/2tKUGAucoesjQZCB4TQKEw"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124734,
+      "name": "Swing The Sword",
+      "url": "https://open.spotify.com/track/1mN0DRnhkiZmvYnirrfpWu"
     },
     {
       "album": {
@@ -49632,6 +49814,24 @@
       "duration_ms": 177983,
       "name": "Trappin N Rappin (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg"
+    },
+    {
+      "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/5qBrHyWbr6YCJgJMSU9IHH"
     },
     {
       "album": {

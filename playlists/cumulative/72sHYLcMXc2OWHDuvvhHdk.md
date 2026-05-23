@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,388 songs - 5 day 19 hr 23 min
+2,390 songs - 5 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Driving at night \- Original](https://open.spotify.com/track/3lprZOKe5LtbHEejIfUvfM) | [Jurt the Gurt](https://open.spotify.com/artist/05S1R7dGgMGfAjiYEz9eut) | [Driving at night \(Original\)](https://open.spotify.com/album/78dr2tCDSpWNaNEHoRUPrM) | 2:24 | 2026-05-05 |  |
 | [Driving Home](https://open.spotify.com/track/1MMwxbRpjzg4NDFRAwcrLU) | [Brotha Jazz](https://open.spotify.com/artist/6Vz2h9UYOyHYaQCW1Ogrhq) | [Driving Home](https://open.spotify.com/album/5ce5TgMTiWCbqtDpSrktfT) | 4:14 | 2024-07-03 |  |
 | [Driving In The Small Hours](https://open.spotify.com/track/4KaFxecTqmRPof1sHvWnZx) | [Claudio Charles Mougnaud](https://open.spotify.com/artist/70PBjonaBqdqdheT38wTsU) | [Driving In The Small Hours](https://open.spotify.com/album/1BWmJSnEnm1A6BrD7LLNEG) | 5:41 | 2026-03-04 |  |
+| [Drop It Clear It](https://open.spotify.com/track/349iLKh4Cd1pUcsYjlfU3P) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE), [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW) | [Drop It Clear It](https://open.spotify.com/album/7orRCgcrwUm4NRj5QZbdcx) | 3:12 | 2026-05-22 |  |
 | [Drugs Don't Lie](https://open.spotify.com/track/2tI5pdLnYDjKp21ukpqtkq) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Drugs Don't Lie](https://open.spotify.com/album/44qy1HWJne1NqmhrKY9Ulo) | 2:29 | 2026-01-19 |  |
 | [Drunk Decisions](https://open.spotify.com/track/0qIE5vbRlnKoQejkUFvumz) | [The Breslauers](https://open.spotify.com/artist/0UXdYQbmxW65DYw2nrvm5l) | [Drunk Decisions](https://open.spotify.com/album/4DTEMN70ujnzDZf3M07lRK) | 4:15 | 2025-10-30 |  |
 | [Duelo](https://open.spotify.com/track/6QbCjuW1FTqvbxgF7xlHc3) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Duelo](https://open.spotify.com/album/14gzvNFcKZKwnB1NNU4SWG) | 2:57 | 2025-03-03 |  |
@@ -2086,6 +2087,7 @@
 | [time to part\(y\)](https://open.spotify.com/track/0ZU8QOJ00sgMaUFh7YFpm5) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [time to part\(y\)](https://open.spotify.com/album/2jCGwUJdfsyBUzO3Kr0qTD) | 2:25 | 2025-10-13 |  |
 | [Timeless Whispers](https://open.spotify.com/track/4nrN61XwaMmMjtzSVYGjz2) | [Timeless Hits](https://open.spotify.com/artist/5pt1CO0JaBB2s5WrRI464M) | [Timeless Whispers](https://open.spotify.com/album/2JHvYIyqdi24jbuBNsSv1c) | 3:02 | 2025-07-09 |  |
 | [tipica \- Original](https://open.spotify.com/track/4DLlkLkwxEW2tGJrGkadvd) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [MonaH](https://open.spotify.com/artist/2QZGSHS4ELMqPflnlBVyST) | [Ti Pi Ca2 \(italia\)](https://open.spotify.com/album/71lupJWSCYX00GgvI7VWgx) | 2:50 | 2025-08-25 |  |
+| [TIRED](https://open.spotify.com/track/46I6GgqCcnrSk2DiBRqvmZ) | [74DEN](https://open.spotify.com/artist/0a5Gjv3Kvy5VaFkD4xLIa3) | [TIRED](https://open.spotify.com/album/4cOafjG643Mo8kJKTxJ88T) | 2:14 | 2026-05-22 |  |
 | [Titanium](https://open.spotify.com/track/68ZVSBWI4xsWV2DP3feLSr) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Ghost Town and Haunted Love](https://open.spotify.com/album/0jL0TKspnlMs5F4zlEBm2c) | 4:16 | 2025-12-29 |  |
 | [To the Bone](https://open.spotify.com/track/6y5TlPVFsa9zKKhcwHBLMN) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [To the Bone](https://open.spotify.com/album/2DkpKqIWeVwMGgpbsuvrX3) | 3:06 | 2025-03-03 |  |
 | [To Win](https://open.spotify.com/track/2zMjal9dFnHUb7tN3tpvt1) | [Rusty Jaz Motorfunk](https://open.spotify.com/artist/1c5blDTt2OKHT2JR8ZT9hj) | [Talkshow](https://open.spotify.com/album/1LpcrxDEiqeMVX4clKbIBl) | 5:34 | 2025-11-25 |  |

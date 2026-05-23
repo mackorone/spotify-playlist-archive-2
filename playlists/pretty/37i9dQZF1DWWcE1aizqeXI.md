@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,317 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,319 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 6 | [Energy](https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Kendra Foster](https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi) | [Energy](https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa) | 2:52 |
 | 7 | [That's My Ish](https://open.spotify.com/track/59Ytlj1b0GhpWGsWvZKavV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [That's My Ish](https://open.spotify.com/album/3sz3C74fnAZPn2ZosZ9l7q) | 2:51 |
 | 8 | [Lie 2 U](https://open.spotify.com/track/7CAFN6e4u1hiX3PYrJBrCA) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Lie 2 U](https://open.spotify.com/album/2LUONhxC0PIuZIwD32uKba) | 3:00 |
-| 9 | [Work It Out \- Original Mix](https://open.spotify.com/track/1l2OB0EN0bBKkg5RffynXf) | [Matte](https://open.spotify.com/artist/4sA5pabvsUnAFWjtTXyAWV) | [Work It Out](https://open.spotify.com/album/0vUZSNMLxaZ0A3JpVnFIiA) | 5:04 |
+| 9 | [Work It Out \- Original Mix](https://open.spotify.com/track/1l2OB0EN0bBKkg5RffynXf) | [Matte](https://open.spotify.com/artist/5M9SW0FuYUJxZf6zxybp6I) | [Work It Out](https://open.spotify.com/album/0vUZSNMLxaZ0A3JpVnFIiA) | 5:04 |
 | 10 | [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 |
 | 11 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
 | 12 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |

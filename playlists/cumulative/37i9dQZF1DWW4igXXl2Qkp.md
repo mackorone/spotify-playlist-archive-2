@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1zEHBw7xQf0drXZagRkciU">Molly Santana</a>
 
-2,334 songs - 4 day 3 hr 11 min
+2,335 songs - 4 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Fvck Dat](https://open.spotify.com/track/1NkdoERbj6QzO7XUr4RMPk) | [Jabb](https://open.spotify.com/artist/7pqRXXauuwGQqzrvvz0Azl) | [Square Bizness](https://open.spotify.com/album/2tV3NFS6hJd7g5ejr9h2gW) | 2:33 | 2021-12-01 | 2022-01-14 |
 | [FWTTB](https://open.spotify.com/track/6fVTPLuToPxzZfM3eKdTqJ) | [Border Baby](https://open.spotify.com/artist/6OJ5w3wUAgyzVCQZBIn1Yg) | [FWTTB](https://open.spotify.com/album/3C0kJhct0nZMnHQ9SxDKPN) | 1:30 | 2026-03-04 | 2026-05-14 |
 | [FYM](https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [FYM](https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK) | 2:53 | 2022-04-06 | 2022-05-19 |
+| [G $HIT](https://open.spotify.com/track/3g3P9BeIzNY94532rvyJzu) | [Mike DFG](https://open.spotify.com/artist/1Ey78vd38gqpWFeqiGlYfF), [KiLROY](https://open.spotify.com/artist/0lA7o5bTkTBNvYvhHOD3St), [Recoechi](https://open.spotify.com/artist/16RxzjUYa7obi9QXP02WO1), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [HEI$MAN](https://open.spotify.com/album/55hVq046XJQWKumiD0YNPz) | 5:11 | 2026-05-22 |  |
 | [G for Global](https://open.spotify.com/track/2CMxwWsN3hF7wYnMTZ5aOB) | [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [mndyrmm](https://open.spotify.com/artist/5jhwJJQwIV1e0EAmeZLXuY), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [G for Global](https://open.spotify.com/album/7njJqFY6vYET25XQY5rclJ) | 1:51 | 2024-06-14 | 2024-06-27 |
 | [Gahh Damm](https://open.spotify.com/track/4EVjmexIAizd0RYPDCdc1E) | [bdifferent](https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG) | [Gahh Damm](https://open.spotify.com/album/2InBqsQXUANXTsG0T0es8q) | 3:15 | 2025-04-23 | 2025-05-01 |
 | [GAME ON LOCK](https://open.spotify.com/track/1gK93HaJnBsIGtWp2H1nsw) | [Jay Willy](https://open.spotify.com/artist/2sEFH0VuUle6GCsSxm0vkG) | [GAME ON LOCK](https://open.spotify.com/album/6H7TJfC91nDB7KGG5HHW0Z) | 1:58 | 2023-03-22 | 2023-05-18 |
@@ -1373,7 +1374,7 @@
 | [MR.WACKO](https://open.spotify.com/track/3SeK8Uo9442ObZxZ641kjF) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [GAME OVER](https://open.spotify.com/album/5wsPuEr4WtaKncEmOwD8WF) | 1:57 | 2025-11-07 | 2025-12-04 |
 | [ms crashout](https://open.spotify.com/track/3vXvywI0ftfu7EES5M22Tc) | [k3](https://open.spotify.com/artist/6FhM9cnSGHVmJ7qNLJndMx) | [ms crashout](https://open.spotify.com/album/538L6Z6wtCTQ7o3ySrSPwx) | 1:59 | 2025-01-22 | 2025-04-10 |
 | [ms\. beautiful V!](https://open.spotify.com/track/2xLgAD3wLIhkOjpnlnEbgs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:12 | 2024-10-09 | 2024-10-24 |
-| [Ms\. Jackson](https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [Ms\. Jackson](https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U) | 2:03 | 2026-05-20 |  |
+| [Ms\. Jackson](https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [Ms\. Jackson](https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U) | 2:03 | 2026-05-20 | 2026-05-23 |
 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 | 2024-02-28 | 2025-01-16 |
 | [mtv cribs](https://open.spotify.com/track/0s8c3f6yUH9jgVNfcannHC) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [mtv cribs](https://open.spotify.com/album/2ELQEOtuB2PfW60s5walBE) | 2:18 | 2024-05-29 | 2025-01-16 |
 | [Mud Brothers](https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Mud Brothers](https://open.spotify.com/album/42uCYsRhcqIsEmL3anu3FH) | 2:46 | 2022-01-13 | 2022-02-10 |

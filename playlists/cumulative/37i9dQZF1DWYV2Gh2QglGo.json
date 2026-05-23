@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Shania Twain",
+  "description": "The home of Canadian country music. Cover: Brandi Caroline",
   "name": "North Country",
   "tracks": [
     {
@@ -312,10 +312,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 189583,
       "name": "Almost Alright",
       "url": "https://open.spotify.com/track/4AtuIdWryzF1oo9ycRbJ8S"
+    },
+    {
+      "album": {
+        "name": "Alone in Good Company",
+        "url": "https://open.spotify.com/album/3IhQf9TBQJAiIv9ZOv0JOK"
+      },
+      "artists": [
+        {
+          "name": "Graham Bedard",
+          "url": "https://open.spotify.com/artist/7361cS4653cmgewy0OOFLR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195664,
+      "name": "Alone in Good Company",
+      "url": "https://open.spotify.com/track/62PZKyOahhcVMuOfSnAPMw"
     },
     {
       "album": {
@@ -348,7 +366,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190550,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 299453,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 194744,
       "name": "Bar And Back",
       "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 187461,
       "name": "Better Hands",
       "url": "https://open.spotify.com/track/4uhCcIOwPAMkjINsVy7Hrn"
@@ -1189,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Break the Bronco",
+        "url": "https://open.spotify.com/album/6mopZVRgp9DY2PbfKPlCJF"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191824,
+      "name": "Break the Bronco",
+      "url": "https://open.spotify.com/track/0snJCP2rCRPurMXdoWIx0M"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 173785,
       "name": "Call Again",
       "url": "https://open.spotify.com/track/689BrIveR3izCSttLw9UUh"
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 184546,
       "name": "Don't Ruin Flowers",
       "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198048,
       "name": "enabling",
       "url": "https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw"
@@ -2856,7 +2892,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 194640,
       "name": "END OF THE LINE",
       "url": "https://open.spotify.com/track/33u5l8opT7NXk0y62piOEv"
@@ -3004,7 +3040,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178510,
       "name": "Feel the Heat",
       "url": "https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia"
@@ -3741,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Good Ol' Boys",
+        "url": "https://open.spotify.com/album/0ygq4LVEBPps5t31dQc6M2"
+      },
+      "artists": [
+        {
+          "name": "Travis Dolter",
+          "url": "https://open.spotify.com/artist/3f8JdOIWSgRL3vTYDGjejl"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173120,
+      "name": "Good Ol' Boys",
+      "url": "https://open.spotify.com/track/5eipg5JP2iA2WCgGOwADkN"
+    },
+    {
+      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/5XHFbRRGdwqRMNKMejtLAm"
       },
@@ -3914,7 +3968,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 211774,
       "name": "Growing Down (Into the Roots)",
       "url": "https://open.spotify.com/track/1nDLfDERfvlmj9k6TZqFRH"
@@ -4536,7 +4590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193228,
       "name": "honey, have i lost my mind?",
       "url": "https://open.spotify.com/track/5je62XgKGO5LLHklklRR3l"
@@ -4865,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want Somebody",
+        "url": "https://open.spotify.com/album/2hPt2EoUv3TKRuH6X0CxMb"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213618,
+      "name": "I Don't Want Somebody",
+      "url": "https://open.spotify.com/track/6aYwrzbyUVcErtiSFe1D2k"
+    },
+    {
+      "album": {
         "name": "I Grew Up On A Farm",
         "url": "https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv"
       },
@@ -5146,7 +5218,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 235518,
       "name": "I Won't Be Sorry",
       "url": "https://open.spotify.com/track/33OBCvKwUDzxBGA8NvwIFQ"
@@ -6228,7 +6300,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209375,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/5ZWayyXEDiSrYy6fD9qYDd"
@@ -6452,7 +6524,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175946,
       "name": "Love Hate Love",
       "url": "https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA"
@@ -7373,6 +7445,24 @@
     },
     {
       "album": {
+        "name": "Nothing On Me",
+        "url": "https://open.spotify.com/album/7hwI2tNyQeVRShLYQrVoxv"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156754,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T"
+    },
+    {
+      "album": {
         "name": "Nothing To Do",
         "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
       },
@@ -7874,7 +7964,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174549,
       "name": "Overstaying My Welcome",
       "url": "https://open.spotify.com/track/21eJo2KfBqtQjYjpn5brUN"
@@ -8138,7 +8228,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 210915,
       "name": "Portland, Maine (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
@@ -8160,6 +8250,24 @@
       "duration_ms": 161543,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
+    },
+    {
+      "album": {
+        "name": "Pretty Country",
+        "url": "https://open.spotify.com/album/25VAXgSMa6Z24SY9FpmgPe"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145759,
+      "name": "Pretty Country",
+      "url": "https://open.spotify.com/track/5P5I1gsKoV0YTXLwJxObwn"
     },
     {
       "album": {
@@ -8376,7 +8484,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188296,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
@@ -8596,6 +8704,24 @@
       "duration_ms": 228101,
       "name": "River Runnin' Wide",
       "url": "https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m"
+    },
+    {
+      "album": {
+        "name": "Robot Girl",
+        "url": "https://open.spotify.com/album/1LM3D1wTwOMMmf11f0KzkC"
+      },
+      "artists": [
+        {
+          "name": "Kerrington Gillespie",
+          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166293,
+      "name": "Robot Girl",
+      "url": "https://open.spotify.com/track/1qTpO2fMLDLSbnIsFWfHbe"
     },
     {
       "album": {
@@ -8938,7 +9064,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172295,
       "name": "She Stole My Truck",
       "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
@@ -10052,7 +10178,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188663,
       "name": "That's Just Love For Ya",
       "url": "https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L"
@@ -10207,6 +10333,24 @@
     },
     {
       "album": {
+        "name": "The Homesteader's Song",
+        "url": "https://open.spotify.com/album/3FDnGB0TjFKbllyg3ETb7x"
+      },
+      "artists": [
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "The Homesteader's Song",
+      "url": "https://open.spotify.com/track/3xi9941jmONLIJuE9WPnMQ"
+    },
+    {
+      "album": {
         "name": "The Hunter",
         "url": "https://open.spotify.com/album/1oL4MxV3uJOeDeMfIU1BMR"
       },
@@ -10294,10 +10438,28 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195471,
       "name": "The Other",
       "url": "https://open.spotify.com/track/7pHBLvFot6YzbDH4M0am8j"
+    },
+    {
+      "album": {
+        "name": "Going Somewhere",
+        "url": "https://open.spotify.com/album/0sgRIyiod5Bc7Zy67ToYms"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190044,
+      "name": "The Pilot",
+      "url": "https://open.spotify.com/track/2BSphwlA17BfMQtFfnCCKg"
     },
     {
       "album": {
@@ -10460,7 +10622,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204667,
       "name": "This Old House",
       "url": "https://open.spotify.com/track/0S5aZGrjwYDvNKBaaHVe7J"
@@ -11056,7 +11218,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 212715,
       "name": "we could use a little more",
       "url": "https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn"
@@ -11890,7 +12052,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 229174,
       "name": "You and I Tonight",
       "url": "https://open.spotify.com/track/3whnvzF7IoyO9DICzAlhq9"

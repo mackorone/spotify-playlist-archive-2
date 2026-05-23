@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-251 songs - 13 hr 51 min
+254 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [MAXIMAAL](https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [MAXIMAAL](https://open.spotify.com/album/4p3yfT7bwha4i8kwT8EKrk) | 2:30 | 2025-11-14 | 2026-02-07 |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-07-18 |  |
 | [Medusa \(Acoustic\)](https://open.spotify.com/track/4MnYLHydHtkAF9CrIIcjHU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa \(Acoustic\)](https://open.spotify.com/album/75qB8x7iB50qcq00Y5thmR) | 3:03 | 2025-07-18 | 2026-01-15 |
+| [Meer Dan Mooi](https://open.spotify.com/track/0RlbV33r7lt8IRb4UafByA) | [Donda](https://open.spotify.com/artist/5a3DBd2KSJpNcYRKeG4rQT) | [Meer Dan Mooi](https://open.spotify.com/album/31a7ZzsnTSEt5tjZsTvreT) | 2:54 | 2026-05-22 |  |
 | [Million Things](https://open.spotify.com/track/7GPoBSDnyWWLhoj9HwoKba) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Half Moon](https://open.spotify.com/album/6Y5FuncoXFAnpN988bQE0D) | 4:13 | 2026-03-13 |  |
 | [Miracle](https://open.spotify.com/track/1BxvWP9iODgryOG53TojYS) | [Mufaro](https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU) | [Wayfindr](https://open.spotify.com/album/1NE21Tiitf0unIlXMnSJXf) | 2:49 | 2025-09-05 | 2025-11-22 |
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2026-04-10 |  |
@@ -187,6 +188,7 @@
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-12 | 2025-12-13 |
 | [Shadow](https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shadow](https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi) | 3:41 | 2026-02-20 |  |
 | [Sheets](https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Sheets](https://open.spotify.com/album/618meN4oNgOw0RVYpiVZof) | 2:23 | 2025-11-14 |  |
+| [Shuffily](https://open.spotify.com/track/2aU5QLs9rGGPCMBtIfrenf) | [Where's Dillie?](https://open.spotify.com/artist/0M1z5gimfGZNmf2EO1qPGj) | [Shuffily](https://open.spotify.com/album/5EnxmQFzRQIQUVnerjTP9b) | 3:56 | 2026-05-22 |  |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-08-22 | 2026-01-15 |
 | [Signs](https://open.spotify.com/track/52D5HEMZJFT2w0mUxtIGQp) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 4:41 | 2025-11-14 | 2026-02-07 |
 | [Simple Life](https://open.spotify.com/track/27LKcnqzk6ckyQylQNUv91) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/7uen16WfzBE3uzKdIgei4y) | 1:33 | 2025-08-29 |  |
@@ -233,6 +235,7 @@
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 |  |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-07-18 |  |
 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2025-09-12 | 2025-10-11 |
+| [Trying to Prove](https://open.spotify.com/track/2RyCiQ95pANJvcCaZhmxlQ) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Trying to Prove](https://open.spotify.com/album/0FYNW3XKDpiXG9LEr6zIgu) | 2:57 | 2026-05-22 |  |
 | [two hundred thousand words](https://open.spotify.com/track/3XGG4OhIYtghkava46qo4o) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [two hundred thousand words](https://open.spotify.com/album/1PTphEMl40gfNj2vHJ6JPO) | 3:13 | 2026-03-20 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-07-18 |  |
 | [Unlocks Me](https://open.spotify.com/track/59z7gCZXcS4O2CFsUuzzGy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Unlocks Me](https://open.spotify.com/album/1fXWUMbvnd1ZpGvfUbLtwa) | 3:24 | 2025-12-12 |  |

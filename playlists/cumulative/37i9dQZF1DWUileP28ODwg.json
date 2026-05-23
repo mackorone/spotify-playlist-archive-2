@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Amy Grant",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Consumed By Fire",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 197153,
       "name": "Again",
       "url": "https://open.spotify.com/track/4YHMY70kUL2DNAC6mfDRu3"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 203229,
       "name": "God's Way",
       "url": "https://open.spotify.com/track/45nUmxdwpjdkosuOCmywu9"
@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/55GprigdNQ1rqhIFLB7M7J"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208856,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1iWM9AyTmVcXTwkWTQ3Z7V"
+    },
+    {
+      "album": {
         "name": "Hard Fought Hallelujah",
         "url": "https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5"
       },
@@ -4630,7 +4652,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172702,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
@@ -4688,6 +4710,24 @@
       "duration_ms": 224423,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/48s5Mvr0pVqXlvXKEmArDx"
+    },
+    {
+      "album": {
+        "name": "Hill To Die On",
+        "url": "https://open.spotify.com/album/1A13wPIDw1R2iTusMzT5k4"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218623,
+      "name": "Hill To Die On",
+      "url": "https://open.spotify.com/track/5ImiVXfwGw5OBvzYUodubR"
     },
     {
       "album": {
@@ -6611,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "Lake Of Fire",
+        "url": "https://open.spotify.com/album/1eUbv2vRwcVboQI53tcuuZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200765,
+      "name": "Lake Of Fire",
+      "url": "https://open.spotify.com/track/1zrh3tlviFYxXH47gOURPe"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -8305,6 +8363,24 @@
     },
     {
       "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Oklahoma",
+      "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
+    },
+    {
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -9060,6 +9136,28 @@
       "duration_ms": 214648,
       "name": "Promised Land (Collab New) (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf"
+    },
+    {
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6Oi4KYQZ1Hd9ptDVqyeJV5"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        },
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207330,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/2oMYjV0wZsF1SqA8oObeLx"
     },
     {
       "album": {
@@ -11838,7 +11936,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195218,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/6bsdgtmFKy5P9YAQORQ3Zv"
@@ -11914,6 +12012,28 @@
       "duration_ms": 265781,
       "name": "Though War Break Out Against Me",
       "url": "https://open.spotify.com/track/2mVKWnnVVULQKkQGDFGmC1"
+    },
+    {
+      "album": {
+        "name": "Through The Fire",
+        "url": "https://open.spotify.com/album/4Jsl5J5qaRkQ7R7r2uIwef"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Ashleigh Crabb Brown",
+          "url": "https://open.spotify.com/artist/1JObURmpxnNjSaLuyKDy4H"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209458,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/6S8CrWrDVYPCvh9fqjAQ8r"
     },
     {
       "album": {
@@ -13216,7 +13336,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 171579,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/6PUttXfO7izVlSBB1GiCl0"
@@ -13606,7 +13726,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 233910,
       "name": "You Are I Am",
       "url": "https://open.spotify.com/track/3AcT5dawDnFalcBILMAwvv"

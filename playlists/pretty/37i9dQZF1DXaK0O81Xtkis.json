@@ -1,13 +1,93 @@
 {
-  "description": "a little indie, a little pop, soda featuring MICO",
-  "num_followers": 229896,
+  "description": "a little indie, a little pop, soda featuring Will Swinton",
+  "num_followers": 229911,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZgMjG2s7mVRn56CE2seyW1KvA3",
+  "snapshot_id": "AAAAAPzvS2w1KsriZGLbUcDNbpdq5Zez",
   "tracks": [
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/7wXdnWZsezOlWML2CNCtAm"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 166780,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/1bJX1R4D9xJtZZpc1VAUXY"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "Debbie Don't Cry",
+        "url": "https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 180128,
+      "name": "Debbie Don't Cry",
+      "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "Dream Ride",
+        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "only if it matters",
+        "url": "https://open.spotify.com/album/3iYDC93uCzrNFoX87zbWZl"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "does it still mean something?",
+      "url": "https://open.spotify.com/track/6wOnFsTCN2e8owgWdn3HJ1"
+    },
     {
       "added_at": "2026-05-15 04:08:25",
       "album": {
@@ -55,6 +135,22 @@
       "duration_ms": 166439,
       "name": "Word Vomit",
       "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "PASH",
+        "url": "https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 221632,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ"
     },
     {
       "added_at": "2026-05-15 04:08:25",
@@ -135,6 +231,22 @@
       "duration_ms": 167770,
       "name": "round and round",
       "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
+    },
+    {
+      "added_at": "2026-05-22 05:08:21",
+      "album": {
+        "name": "A SWAN FROM GATORLAND (Return of the Swan)",
+        "url": "https://open.spotify.com/album/7GgvEcpfL8PNghkY57XMVF"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 254424,
+      "name": "FLORIDA MAN",
+      "url": "https://open.spotify.com/track/7C5bt32X9IwDZqH3UNHZcU"
     },
     {
       "added_at": "2026-05-15 04:08:25",
@@ -509,54 +621,6 @@
       "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
     },
     {
-      "added_at": "2026-04-10 04:46:07",
-      "album": {
-        "name": "Bad To Worse",
-        "url": "https://open.spotify.com/album/6gdwsqzqDAlDszwx2lRnlj"
-      },
-      "artists": [
-        {
-          "name": "Tanner Grigoli",
-          "url": "https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd"
-        }
-      ],
-      "duration_ms": 157684,
-      "name": "Bad To Worse",
-      "url": "https://open.spotify.com/track/4jLRHYDOrPnHMIFGLkV4OY"
-    },
-    {
-      "added_at": "2026-04-17 06:03:18",
-      "album": {
-        "name": "i just get worse",
-        "url": "https://open.spotify.com/album/1WIJm4X12wNQC6v1eoL6Sk"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 205919,
-      "name": "i just get worse",
-      "url": "https://open.spotify.com/track/6hlWEgVDcf5TTkFeVlQNKg"
-    },
-    {
-      "added_at": "2026-04-10 04:46:07",
-      "album": {
-        "name": "East End Girls",
-        "url": "https://open.spotify.com/album/6sYmd0zjCOp4UFsQqCxjEz"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "East End Girls",
-      "url": "https://open.spotify.com/track/34oA9agkYSp4RgzoHYODbc"
-    },
-    {
       "added_at": "2026-04-03 04:03:26",
       "album": {
         "name": "Daredevil",
@@ -635,54 +699,6 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-04-03 04:03:26",
-      "album": {
-        "name": "westside",
-        "url": "https://open.spotify.com/album/6AJNR5UT0Cf3xF1q1FaIsc"
-      },
-      "artists": [
-        {
-          "name": "sindr",
-          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "westside",
-      "url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj"
-    },
-    {
-      "added_at": "2026-04-03 04:03:26",
-      "album": {
-        "name": "signs of life",
-        "url": "https://open.spotify.com/album/6CRgFmHNtmk7JIcvMeGASm"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 175696,
-      "name": "signs of life",
-      "url": "https://open.spotify.com/track/64NpFHuR72lUmwegiIxRjj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/2MfBbml4vlNl67SrvjEtQ7"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -799,22 +815,6 @@
       "duration_ms": 209591,
       "name": "auburn",
       "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/1QmYG5rDwfQFjtWFOMv6Kh"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Sleeping In My Car",
-      "url": "https://open.spotify.com/track/1z72b1oJqfdDbS3jnWcKjN"
     }
   ],
   "unique_name": "soda",

@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "CARMEN",
+        "url": "https://open.spotify.com/album/1ghysw5wqx5sWEhTQJi1jr"
+      },
+      "artists": [
+        {
+          "name": "Thibault Cauvin",
+          "url": "https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501973,
+      "name": "CARMEN",
+      "url": "https://open.spotify.com/track/2yN0lB6tCkAduZJ9FnSF7N"
+    },
+    {
+      "album": {
         "name": "Spanish Serenades",
         "url": "https://open.spotify.com/album/6vj2ueTEukJmKhNO8xKzkD"
       },
@@ -761,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Cordes basques",
+        "url": "https://open.spotify.com/album/6jrkAZSNK8ItNRhsVtH1qg"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Iradier",
+          "url": "https://open.spotify.com/artist/6yjKBVFIjoLCvFIgJXzvwo"
+        },
+        {
+          "name": "Arka\u00eftz Chambonnet",
+          "url": "https://open.spotify.com/artist/2nH266eglqh1ahKU7vItWy"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "La Rubia de los lunares (Arr. For Guitar by Juli\u00e1n Arcas)",
+      "url": "https://open.spotify.com/track/0oVSLWz7TILKmlZwW5cBR5"
+    },
+    {
+      "album": {
         "name": "Letters from Paris (Deluxe Version)",
         "url": "https://open.spotify.com/album/2h2G8u7GHvYwpVlD5IxCrB"
       },
@@ -956,6 +996,28 @@
       "duration_ms": 204298,
       "name": "Moon River (Arr. for Guitar by S\u00e9rgio Assad) - From \"Breakfast at Tiffany's\"",
       "url": "https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Guitar by Luis Leite)",
+        "url": "https://open.spotify.com/album/483CprlbBdjG2QDozAgmmY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vienna Guitar Project",
+          "url": "https://open.spotify.com/artist/5tK7Q4PcQM4IvGfeeSthlG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194148,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Guitar by Luis Leite)",
+      "url": "https://open.spotify.com/track/1AfitH1HzjWAvAskLpKIhl"
     },
     {
       "album": {

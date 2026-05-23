@@ -17015,6 +17015,24 @@
     },
     {
       "album": {
+        "name": "MALINO",
+        "url": "https://open.spotify.com/album/6dZAg2wjDklqV1H28NQ8OV"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99913,
+      "name": "FALSOS N\u00c3O V\u00c3O PASSAR",
+      "url": "https://open.spotify.com/track/4zsU8uiIEhQilwxtMNItWv"
+    },
+    {
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -45688,6 +45706,28 @@
       "duration_ms": 205190,
       "name": "Te Trombei na Noite",
       "url": "https://open.spotify.com/track/1M7RQZsflzNS073ohc5kxw"
+    },
+    {
+      "album": {
+        "name": "Te vi l\u00e1 no Site",
+        "url": "https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0"
+      },
+      "artists": [
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Te vi l\u00e1 no Site",
+      "url": "https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Yussef Dayes",
+  "description": "New jazz for open minds. Cover: aja monet",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -7077,6 +7077,32 @@
     },
     {
       "album": {
+        "name": "CHASING THE SUN",
+        "url": "https://open.spotify.com/album/2DuFUK5iYAisaI2mWiC9hS"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Richard Galliano",
+          "url": "https://open.spotify.com/artist/6yXri0y0q95UDiAyLzTM1y"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "CHASING THE SUN",
+      "url": "https://open.spotify.com/track/0qUqOkPmWP9o7e3GgM3Fgg"
+    },
+    {
+      "album": {
         "name": "Chavez",
         "url": "https://open.spotify.com/album/5yWMgkCnQelnExswN2RquW"
       },
@@ -10168,6 +10194,36 @@
       "duration_ms": 93132,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/4L8pGSUivnPwGsXIWAvGIF"
+    },
+    {
+      "album": {
+        "name": "Another Kind of Bird",
+        "url": "https://open.spotify.com/album/3bAbidDusuXWlANSq21iVD"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        },
+        {
+          "name": "Eric Alexander",
+          "url": "https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu"
+        },
+        {
+          "name": "Abraham Burton",
+          "url": "https://open.spotify.com/artist/4agzhEVtyMP2t2Oexr08fb"
+        },
+        {
+          "name": "Craig Handy",
+          "url": "https://open.spotify.com/artist/4zPZJDu0hy7O02eo0YxFaE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428360,
+      "name": "Donna Lee",
+      "url": "https://open.spotify.com/track/1TLEUcDyKrNQN7iFeb7wgu"
     },
     {
       "album": {
@@ -13598,7 +13654,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 224554,
       "name": "Form Before Meaning",
       "url": "https://open.spotify.com/track/5DKtPVzFRrmsVolwXZDhXL"
@@ -20348,7 +20404,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 212000,
       "name": "LAS TROMPETAS DE NAEL",
       "url": "https://open.spotify.com/track/333HTubjaxlX6lrTHytGS8"
@@ -23308,7 +23364,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 383029,
       "name": "melting clocks",
       "url": "https://open.spotify.com/track/1zHqiGUcy1mlYymAs1daZj"
@@ -29020,7 +29076,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 269512,
       "name": "Prelude For All Seekers",
       "url": "https://open.spotify.com/track/1K9sehA1QUYO5RfbGIRTCP"
@@ -41647,6 +41703,24 @@
     },
     {
       "album": {
+        "name": "War Time Poem",
+        "url": "https://open.spotify.com/album/1MSgWyOVYx7uUOmi3trvkd"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547188,
+      "name": "War Time Poem",
+      "url": "https://open.spotify.com/track/6kdZJSHB5iZUKIJnl6SRoa"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -43140,6 +43214,24 @@
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "album": {
+        "name": "the color of rain",
+        "url": "https://open.spotify.com/album/1UOnv9kNRxCm5v814qTjI4"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265474,
+      "name": "working class musicians",
+      "url": "https://open.spotify.com/track/0DaS0fBIDsMhFVblStvFJS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-136 songs - 9 hr 28 min
+137 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hagamos Fiesta](https://open.spotify.com/track/6Gik4A7UhOtr5KWgD5OCO4) | [Eliud Emmanuel Díaz](https://open.spotify.com/artist/1oJjdaBvEVBGCMzkkE2JPc) | [Hagamos Fiesta](https://open.spotify.com/album/1ipZ8fcwGnHRrNw8HnySTU) | 4:00 | 2024-12-11 | 2025-03-29 |
 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 | 2022-07-22 | 2024-04-19 |
 | [Harto](https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [Como Me Ves?](https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k) | 4:07 | 2022-10-25 |  |
+| [Hazme Renacer](https://open.spotify.com/track/4lOIqFqpNHhONmN8I64hhe) | [Juan Restrepo](https://open.spotify.com/artist/0N8PYFGyD5VCHuQbAiCwu4), [Marco López](https://open.spotify.com/artist/61BYqEd2g505e6OWOUaxqy) | [Hazme Renacer](https://open.spotify.com/album/4ApJfmhyrElqgPj7k6GAIt) | 5:43 | 2026-05-23 |  |
 | [Indescriptible \(En Vivo\)](https://open.spotify.com/track/211EnQJYwxWX5idIIM3kLu) | [Alexis Peña](https://open.spotify.com/artist/3ipq6fbp9zjPgdJOSudAcb) | [Indescriptible \(En Vivo\)](https://open.spotify.com/album/2P2x0AkxoRj028vtoMgmPF) | 5:31 | 2025-04-30 |  |
 | [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 | 2022-10-25 | 2025-09-27 |
 | [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 | 2022-07-22 | 2023-02-23 |
@@ -79,7 +80,7 @@
 | [Mi Amado Dios](https://open.spotify.com/track/0TRNxsVPOQqMRouzH2i0Db) | [Cristo Para Las Naciones Band](https://open.spotify.com/artist/4EqHQ5btr5YYUroQKJzJq7) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:35 | 2022-10-25 | 2025-03-01 |
 | [Mi Fortuna](https://open.spotify.com/track/5igbeY7E16lrlmihjA1D7p) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Paz a Lo Bien](https://open.spotify.com/album/3q17XLNjopeammaiugc7t9) | 3:47 | 2022-10-25 |  |
 | [Mi Fortuna](https://open.spotify.com/track/39JsvoZcpWvQHYlh12rn6l) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Mi Fortuna](https://open.spotify.com/album/3SPxbOvXqjTI15sKBpvFAo) | 3:48 | 2022-07-22 | 2024-04-19 |
-| [Mi Mirada Puesta en Ti](https://open.spotify.com/track/1DbbtSXVtQ10yZ9i0yvRRq) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Mi Mirada Puesta en Ti](https://open.spotify.com/album/5rBMnQBX6Krk7RvFeRO7Gc) | 2:31 | 2026-03-29 |  |
+| [Mi Mirada Puesta en Ti](https://open.spotify.com/track/1DbbtSXVtQ10yZ9i0yvRRq) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Mi Mirada Puesta en Ti](https://open.spotify.com/album/5rBMnQBX6Krk7RvFeRO7Gc) | 2:31 | 2026-03-29 | 2026-05-23 |
 | [Nada Es Imposible](https://open.spotify.com/track/6OjwMUQIffS74Z2qIsWmVO) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Ilumina](https://open.spotify.com/album/2NPZuJOrcVRr1r91pmKciq) | 4:18 | 2022-07-22 | 2025-07-26 |
 | [Nada es Imposible](https://open.spotify.com/track/4KOATy2zKQ3AFuetOrmCtu) | [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW), [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Las de siempre](https://open.spotify.com/album/1G5bwnHm2reSexgdDaXPC5) | 3:29 | 2025-11-21 |  |
 | [No Voy a Mirar Atrás](https://open.spotify.com/track/4qIWvUHQAbsXPZxhEaviJw) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [Morir a Mi](https://open.spotify.com/album/6DBJ08j5wc77c0f4yzhPHj) | 4:00 | 2022-10-25 | 2024-04-19 |

@@ -13125,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Letter",
+        "url": "https://open.spotify.com/album/6kj7KM5Mh4YaRv5Z2BnI2T"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195886,
+      "name": "Sentimental Letter",
+      "url": "https://open.spotify.com/track/5adGRhI6B086KTZworLOCB"
+    },
+    {
+      "album": {
         "name": "Share That Love (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO"
       },

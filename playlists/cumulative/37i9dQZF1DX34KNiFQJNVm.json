@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os lan\u00e7amentos dessa semana incluem Maiara & Maraysa, Ariana Grande, Felipe Amorim com Lu\u00edsa Sonza, Budah com AJULLIACOSTA e Franco, the Sir! e muito mais!",
+  "description": "Os lan\u00e7amentos dessa semana incluem Maiara & Maraisa, Ariana Grande, Felipe Amorim com Lu\u00edsa Sonza, Budah com AJULLIACOSTA e Franco, the Sir! e muito mais!",
   "name": "Novidades da Semana",
   "tracks": [
     {
@@ -135645,6 +135645,24 @@
     },
     {
       "album": {
+        "name": "MALINO",
+        "url": "https://open.spotify.com/album/6dZAg2wjDklqV1H28NQ8OV"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99913,
+      "name": "FALSOS N\u00c3O V\u00c3O PASSAR",
+      "url": "https://open.spotify.com/track/4zsU8uiIEhQilwxtMNItWv"
+    },
+    {
+      "album": {
         "name": "BEM VINDOS DE VOLTA",
         "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
       },
@@ -149285,6 +149303,32 @@
     },
     {
       "album": {
+        "name": "Foi Somente Ondas Vol. 1",
+        "url": "https://open.spotify.com/album/7mOspAMXGMWn2vgR6BtTB9"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "DJ Saci",
+          "url": "https://open.spotify.com/artist/1MtiMkKE1nbJQjBfJtuvJt"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Fragmento da Noite",
+      "url": "https://open.spotify.com/track/3tqs6a258zCjBXx4l7uKq4"
+    },
+    {
+      "album": {
         "name": "Fragmentos",
         "url": "https://open.spotify.com/album/1uCiWf182CcKW1iN3tDfJQ"
       },
@@ -149300,32 +149344,6 @@
       "duration_ms": 207446,
       "name": "Fragmentos",
       "url": "https://open.spotify.com/track/5RC7xO3f185S5s8qxlSt1h"
-    },
-    {
-      "album": {
-        "name": "Foi Somente Ondas Vol. 1",
-        "url": "https://open.spotify.com/album/7mOspAMXGMWn2vgR6BtTB9"
-      },
-      "artists": [
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Dj Saci",
-          "url": "https://open.spotify.com/artist/7qofKUsbiGhdNku4TaVcGf"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133846,
-      "name": "Fragmentos da Noite",
-      "url": "https://open.spotify.com/track/3tqs6a258zCjBXx4l7uKq4"
     },
     {
       "album": {
@@ -233057,6 +233075,36 @@
     },
     {
       "album": {
+        "name": "N\u00f3is Ta Diferente",
+        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
+      },
+      "artists": [
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162317,
+      "name": "Na Onde N\u00f3is Mora",
+      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
+    },
+    {
+      "album": {
         "name": "Na Paradinha",
         "url": "https://open.spotify.com/album/5MNe8SgFBS5CMllfljSyix"
       },
@@ -284482,6 +284530,60 @@
       "duration_ms": 1067860,
       "name": "Poetas no Topo 4",
       "url": "https://open.spotify.com/track/4w47dntseeMeuLPzFTKKB9"
+    },
+    {
+      "album": {
+        "name": "Poetas no Topo 5",
+        "url": "https://open.spotify.com/album/0Oc5j300LAfWzKkbfpes8k"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "AR Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723219,
+      "name": "Poetas no Topo 5",
+      "url": "https://open.spotify.com/track/0HlfxfVXJE8jZqrAM6PRua"
     },
     {
       "album": {
@@ -361139,6 +361241,28 @@
     },
     {
       "album": {
+        "name": "Te vi l\u00e1 no Site",
+        "url": "https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0"
+      },
+      "artists": [
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Te vi l\u00e1 no Site",
+      "url": "https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9"
+    },
+    {
+      "album": {
         "name": "Te Vi No Baile",
         "url": "https://open.spotify.com/album/0Dp8PXebPnJjECXx3zA6kf"
       },
@@ -366912,6 +367036,24 @@
       "duration_ms": 173866,
       "name": "The Craving (single version)",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -375616,24 +375758,6 @@
       "duration_ms": 208615,
       "name": "Trabalhosa",
       "url": "https://open.spotify.com/track/5uMTlqR8OqYlrB8kgL8koR"
-    },
-    {
-      "album": {
-        "name": "N\u00f3is Ta Diferente",
-        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
-      },
-      "artists": [
-        {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
     },
     {
       "album": {

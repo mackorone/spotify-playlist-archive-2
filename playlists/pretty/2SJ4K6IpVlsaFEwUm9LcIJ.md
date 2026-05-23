@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,322 likes - 23 songs - 1 hr 25 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,323 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 19 | [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 |
 | 20 | [Half a Million Miles from Home](https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:25 |
 | 21 | [The Turnaround Road](https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 5:19 |
-| 22 | [Forced Perspective](https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:25 |
-| 23 | [Fatale](https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:19 |
+| 22 | [Another Lifetime Floats Away](https://open.spotify.com/track/1NAluKvmuPDYJ7EnbSyhe3) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 4:34 |
+| 23 | [Forced Perspective](https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:25 |
+| 24 | [Fatale](https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:19 |
+| 25 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
+| 26 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
+| 27 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
+| 28 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 
-Snapshot ID: `AAAOWgoBZ4X4v2gdO87e/ahDm2MzwYBk`
+Snapshot ID: `AAAOZeRD4AZpCkhpjp2wAVc8wY/DPNAN`

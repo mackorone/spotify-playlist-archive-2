@@ -1,55 +1,15 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Taffy",
-  "num_followers": 3251670,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "num_followers": 3251630,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/wRosekfYkNCDOpQ1zgbCNZStm",
+  "snapshot_id": "AAAAAAjwcEdQhtWzpi8W0XHEvYALtW8r",
   "tracks": [
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Feeling On My Body",
-        "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
-      },
-      "artists": [
-        {
-          "name": "Taffy",
-          "url": "https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO"
-        },
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        }
-      ],
-      "duration_ms": 157977,
-      "name": "Feeling On My Body",
-      "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "GOMF (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "GOMF (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "BOAT REMIX",
         "url": "https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC"
@@ -73,7 +33,43 @@
       "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Feeling On My Body",
+        "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Taffy",
+          "url": "https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "duration_ms": 157977,
+      "name": "Feeling On My Body",
+      "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
@@ -89,7 +85,7 @@
       "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
         "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
@@ -109,23 +105,7 @@
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Popular",
-        "url": "https://open.spotify.com/album/7xck6NTRqumFEIvd7ganZZ"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Flo Jackson",
         "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
@@ -141,43 +121,23 @@
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Coconut Water",
-        "url": "https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB"
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/7xck6NTRqumFEIvd7ganZZ"
       },
       "artists": [
         {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
         }
       ],
-      "duration_ms": 117630,
-      "name": "Coconut Water",
-      "url": "https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41"
+      "duration_ms": 178413,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "ErrTime (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/2i2SkQ9IRn6q9E8RjhpOH3"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "ErrTime (feat. Latto) [Remix]",
-      "url": "https://open.spotify.com/track/5CanskmqatfFbm9O9Epavt"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "WHIM WHAMIEE",
         "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
@@ -197,23 +157,91 @@
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Best Bitch",
-        "url": "https://open.spotify.com/album/2Z2QLwalMC3lVnVm0AldBl"
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
       },
       "artists": [
         {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 122185,
-      "name": "Best Bitch",
-      "url": "https://open.spotify.com/track/309ZKuood80t3ULYEZAqmQ"
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Coconut Water",
+        "url": "https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "duration_ms": 117630,
+      "name": "Coconut Water",
+      "url": "https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "ErrTime (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/2i2SkQ9IRn6q9E8RjhpOH3"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "ErrTime (feat. Latto) [Remix]",
+      "url": "https://open.spotify.com/track/5CanskmqatfFbm9O9Epavt"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
+        "url": "https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) - Official Remix",
+      "url": "https://open.spotify.com/track/5tfpyQ5BVk6NoVxPoeZ7Eq"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "BIANCA (Extended)",
         "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
@@ -229,7 +257,7 @@
       "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
         "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
@@ -249,39 +277,27 @@
       "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Business & Personal (Intro)",
-        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 260799,
-      "name": "Business & Personal (Intro)",
-      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Spend Dat",
-        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
-      },
-      "artists": [
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
         {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 181391,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "LOVER GIRL",
         "url": "https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US"
@@ -297,26 +313,10 @@
       "url": "https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "It Bitches",
-      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Bunna Summa (Ice Cream Summer Deluxe)",
-        "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
+        "name": "Best Bitch",
+        "url": "https://open.spotify.com/album/2Z2QLwalMC3lVnVm0AldBl"
       },
       "artists": [
         {
@@ -324,28 +324,48 @@
           "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
         }
       ],
-      "duration_ms": 182805,
-      "name": "Mad Again",
-      "url": "https://open.spotify.com/track/1cNFwJ8hvTCz4k2BJCDyBW"
+      "duration_ms": 122185,
+      "name": "Best Bitch",
+      "url": "https://open.spotify.com/track/309ZKuood80t3ULYEZAqmQ"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Sexxy",
-        "url": "https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg"
+        "name": "Business & Personal (Intro)",
+        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
       },
       "artists": [
         {
-          "name": "Breskii",
-          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Sexxy",
-      "url": "https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW"
+      "duration_ms": 260799,
+      "name": "Business & Personal (Intro)",
+      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/63sFoTueGlL24BcRavBY1k"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Bri Biase",
+          "url": "https://open.spotify.com/artist/5BNET3ZYMt6C9B4COmNRNW"
+        }
+      ],
+      "duration_ms": 167436,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1Zd1VdUXmHO8eg6g7eRVl3"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
@@ -361,7 +381,23 @@
       "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Bunna Summa (Ice Cream Summer Deluxe)",
+        "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "Mad Again",
+      "url": "https://open.spotify.com/track/1cNFwJ8hvTCz4k2BJCDyBW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/1fFxMza5WpchuZFbIKRNFJ"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Gyatt",
         "url": "https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs"
@@ -397,7 +433,23 @@
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/4gB0n0IoS3eHmqnuemfDrC"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/5Pj6W4oQNEUvhZQhR4Gf2Y"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Putting Ya Dine",
         "url": "https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo"
@@ -413,27 +465,7 @@
       "url": "https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 149776,
-      "name": "Game On (ft. JT)",
-      "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/5x83UB3DpZleH2mUFJwOa8"
@@ -465,23 +497,7 @@
       "url": "https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 154469,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Most Likely",
         "url": "https://open.spotify.com/album/0ElEsXTYVF48QWJbmLmuV1"
@@ -497,7 +513,23 @@
       "url": "https://open.spotify.com/track/2K2QRBLIvQxFiseSkvFSKZ"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
@@ -517,23 +549,23 @@
       "url": "https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Pressed",
-        "url": "https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN"
+        "name": "Off Me",
+        "url": "https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Pressed",
-      "url": "https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs"
+      "duration_ms": 173345,
+      "name": "Off Me",
+      "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
@@ -549,7 +581,23 @@
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Sexxy",
+        "url": "https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg"
+      },
+      "artists": [
+        {
+          "name": "Breskii",
+          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Sexxy",
+      "url": "https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Baddie Baddie",
         "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
@@ -565,7 +613,23 @@
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 115002,
+      "name": "BIG FEELING",
+      "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/2kZwByLNOpxPu22QKwVoNZ"
@@ -581,7 +645,7 @@
       "url": "https://open.spotify.com/track/0sMqGaH6o0HGQbT0Ttxcji"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
@@ -597,43 +661,23 @@
       "url": "https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "girl, get up. (feat. SZA)",
-        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
+        "name": "Handful",
+        "url": "https://open.spotify.com/album/6Jt7B3f6UkWvvP71hjuTl1"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Lil M.U.",
+          "url": "https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn"
         }
       ],
-      "duration_ms": 188600,
-      "name": "girl, get up. (feat. SZA)",
-      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
+      "duration_ms": 136411,
+      "name": "Top Of Cars",
+      "url": "https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "MARCH",
-        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "MARCH",
-      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF"
@@ -649,43 +693,7 @@
       "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Grady Baby",
-        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "285 (feat. Monaleo)",
-      "url": "https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Pull Yo Skirt Up",
-        "url": "https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        }
-      ],
-      "duration_ms": 109565,
-      "name": "Pull Yo Skirt Up",
-      "url": "https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -705,71 +713,99 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Handful",
-        "url": "https://open.spotify.com/album/6Jt7B3f6UkWvvP71hjuTl1"
+        "name": "Grady Baby",
+        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
       },
       "artists": [
         {
-          "name": "Lil M.U.",
-          "url": "https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn"
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 136411,
-      "name": "Top Of Cars",
-      "url": "https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p"
+      "duration_ms": 118440,
+      "name": "285 (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+        "name": "Pull Yo Skirt Up",
+        "url": "https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
         }
       ],
-      "duration_ms": 121546,
-      "name": "Check Please",
-      "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
+      "duration_ms": 109565,
+      "name": "Pull Yo Skirt Up",
+      "url": "https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "LUCY",
-        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+        "name": "girl, get up. (feat. SZA)",
+        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
       },
       "artists": [
         {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 115002,
-      "name": "BIG FEELING",
-      "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
+      "duration_ms": 188600,
+      "name": "girl, get up. (feat. SZA)",
+      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
-        "name": "Off Me",
-        "url": "https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo"
+        "name": "Pressed",
+        "url": "https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN"
       },
       "artists": [
         {
-          "name": "Bri3",
-          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 173345,
-      "name": "Off Me",
-      "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
+      "duration_ms": 173893,
+      "name": "Pressed",
+      "url": "https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 149776,
+      "name": "Game On (ft. JT)",
+      "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Ran Out",
         "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"
@@ -785,7 +821,23 @@
       "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
+      "album": {
+        "name": "MARCH",
+        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "MARCH",
+      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+    },
+    {
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Who Is Bankroll?",
         "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
@@ -805,39 +857,7 @@
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "Kinda Famous (Deluxe)",
-        "url": "https://open.spotify.com/album/1bTRnEiTxdO68ZGsNFmWuf"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "My Ball",
-      "url": "https://open.spotify.com/track/39esb0WEASSAEgB5yU5OoL"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "oooshxt!",
-        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 135767,
-      "name": "oooshxt!",
-      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
-    },
-    {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Bunna Summa",
         "url": "https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
+      "added_at": "2026-05-22 04:01:35",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasuki Vaibhav",
-  "num_followers": 26936,
+  "num_followers": 26943,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKR48uMF6gmWjcSeMuvUtWLageW5",
+  "snapshot_id": "AAAAAMEPsM9cEvOaPSR4ATmTD0AhMy/K",
   "tracks": [
     {
       "added_at": "2026-04-13 07:13:28",
@@ -61,6 +61,34 @@
       "url": "https://open.spotify.com/track/4qXzFgtx9UuzUM3se30ZjB"
     },
     {
+      "added_at": "2026-05-22 07:30:35",
+      "album": {
+        "name": "Maaye",
+        "url": "https://open.spotify.com/album/4Q1AMpdHAQhapMHws822Ry"
+      },
+      "artists": [
+        {
+          "name": "Vishak Nagalapura",
+          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
+        },
+        {
+          "name": "Sumveditha Subhash",
+          "url": "https://open.spotify.com/artist/387lWEfFDmxDhckWU9n5kn"
+        },
+        {
+          "name": "MAD-D",
+          "url": "https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb"
+        },
+        {
+          "name": "Padani Tales",
+          "url": "https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3"
+        }
+      ],
+      "duration_ms": 205819,
+      "name": "Maaye",
+      "url": "https://open.spotify.com/track/35ZHQmmw1gdZZRebhOZoQV"
+    },
+    {
       "added_at": "2026-05-15 12:34:26",
       "album": {
         "name": "Manase",
@@ -91,6 +119,22 @@
       "duration_ms": 209308,
       "name": "Mysore Scene",
       "url": "https://open.spotify.com/track/6dQamSMR2TDsHYoSMrZZvb"
+    },
+    {
+      "added_at": "2026-05-22 07:31:22",
+      "album": {
+        "name": "RODHNE",
+        "url": "https://open.spotify.com/album/5JSoTwbYB3usoGJbHtXsPU"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        }
+      ],
+      "duration_ms": 176463,
+      "name": "RODHNE",
+      "url": "https://open.spotify.com/track/4D2Kf5W2cXbH5QYGfwhYYU"
     },
     {
       "added_at": "2026-05-19 14:00:26",
@@ -1189,22 +1233,6 @@
       "url": "https://open.spotify.com/track/2PcqYjhJmC3dmOSPeft1Qp"
     },
     {
-      "added_at": "2026-01-05 07:51:05",
-      "album": {
-        "name": "Mangaluru Dasara",
-        "url": "https://open.spotify.com/album/5wmnhM0r0XH4WnIPIMaYNH"
-      },
-      "artists": [
-        {
-          "name": "Athmik Rai",
-          "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "Welcome to Mangaluru",
-      "url": "https://open.spotify.com/track/2EWVpodmgSvzdCM1ay1Rc3"
-    },
-    {
       "added_at": "2025-11-03 08:23:44",
       "album": {
         "name": "YEN AAGIDE",
@@ -1227,22 +1255,6 @@
       "duration_ms": 252444,
       "name": "YEN AAGIDE",
       "url": "https://open.spotify.com/track/1lMJ3fbfShTNMDVN3h3e2g"
-    },
-    {
-      "added_at": "2025-12-02 08:36:42",
-      "album": {
-        "name": "Yaakaluve Ele Ranga - Kannada Lullaby",
-        "url": "https://open.spotify.com/album/4yyJEKXPWUnNSLmJQzKSwk"
-      },
-      "artists": [
-        {
-          "name": "Sowmya Raoh",
-          "url": "https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Yaakaluve Ele Ranga - Kannada Lullaby",
-      "url": "https://open.spotify.com/track/3XQY6eT4hZebumFg9s3iT8"
     },
     {
       "added_at": "2025-12-09 12:46:28",

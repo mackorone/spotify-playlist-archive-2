@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-132 songs - 8 hr 51 min
+133 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 | 2022-05-03 | 2024-04-19 |
 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 | 2022-02-04 |  |
 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 | 2022-02-04 |  |
+| [Minuet in G Minor, HWV 434/4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/0OL03IyN7LEAnN2cJCdR4B) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Handel: Minuet in G Minor, HWV 434/4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/album/3wpGvQAatfb8Y6N6aBkrtq) | 3:13 | 2026-05-22 |  |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2022-02-04 |  |
 | [Méditation from Thaïs](https://open.spotify.com/track/0XfFRLi9G87t57kqZAzeef) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Daniel Harding](https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6) | [Szymanowski: Violin Concerto No.1](https://open.spotify.com/album/3fxUOZ3z11RCitzsjevOws) | 5:31 | 2022-05-03 | 2024-04-19 |
 | [Mélancolie, FP 105](https://open.spotify.com/track/3bIVr7XTn1qmYmXNoBh9oA) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Stephen Hough's French Album](https://open.spotify.com/album/5A7UWQE4NG1cv0tT14uVS4) | 5:40 | 2025-07-04 |  |

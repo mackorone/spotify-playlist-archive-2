@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19422,
+  "num_followers": 19592,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "White Room",
+        "url": "https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "duration_ms": 212081,
+      "name": "Life Is A Game",
+      "url": "https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "White Room",
-        "url": "https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB"
-      },
-      "artists": [
-        {
-          "name": "BOKKA",
-          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
-        }
-      ],
-      "duration_ms": 212081,
-      "name": "Life Is A Game",
-      "url": "https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Sie\u0107 Indry",
+        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
+      },
+      "artists": [
+        {
+          "name": "Variete",
+          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
+        }
+      ],
+      "duration_ms": 251783,
+      "name": "Sycylia",
+      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "Oran\u017cowy \u015awit",
         "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Sie\u0107 Indry",
-        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
+        "name": "Pianorizon",
+        "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
       },
       "artists": [
         {
-          "name": "Variete",
-          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
+          "name": "Bartek W\u0105sik",
+          "url": "https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo"
         }
       ],
-      "duration_ms": 251783,
-      "name": "Sycylia",
-      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
+      "duration_ms": 165376,
+      "name": "Song Without Words",
+      "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1143,22 +1159,6 @@
       "duration_ms": 356623,
       "name": "Chwilowy uk\u0142ad wszystkiego",
       "url": "https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Pianorizon",
-        "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
-      },
-      "artists": [
-        {
-          "name": "Bartek W\u0105sik",
-          "url": "https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo"
-        }
-      ],
-      "duration_ms": 165376,
-      "name": "Song Without Words",
-      "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+      },
+      "artists": [
+        {
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "Budy\u0144 o smaku Mickiewicza",
         "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 181812,
       "name": "Pami\u0119tam twoje oczy",
       "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
-      },
-      "artists": [
-        {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Tequila Songs & Desert Winds",
-        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
-      },
-      "artists": [
-        {
-          "name": "Corruption",
-          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Tequila, Mezcal",
-      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "CITY CLUSTER",
         "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 253000,
       "name": "UP & DOWN",
       "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Tequila Songs & Desert Winds",
+        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
+      },
+      "artists": [
+        {
+          "name": "Corruption",
+          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Tequila, Mezcal",
+      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Looking Ahead",
-        "url": "https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9"
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
       },
       "artists": [
         {
-          "name": "Alan Balcerowski Quintet",
-          "url": "https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug"
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
         }
       ],
-      "duration_ms": 426280,
-      "name": "Give It a Rest",
-      "url": "https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ"
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
     }
   ],
   "unique_name": "Fryderyk 2026",

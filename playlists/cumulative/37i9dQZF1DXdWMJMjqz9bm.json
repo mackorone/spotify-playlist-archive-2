@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike",
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Yeat",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 133768,
       "name": "ACTIN UP",
       "url": "https://open.spotify.com/track/2qORdVolXx9UlNfCUD5aHd"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 144000,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/3SC0J65u4FEqOjTrj5Io7l"
@@ -1112,6 +1112,28 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
     },
     {
       "album": {
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 138021,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5rluRikyzOB8StNrzQISaO"
@@ -1788,7 +1810,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 146258,
       "name": "BOTHER ME (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX"
@@ -2844,7 +2866,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182533,
       "name": "coke nails",
       "url": "https://open.spotify.com/track/5DuAY3aXh2YiDDRhiyyWwC"
@@ -3004,7 +3026,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -3522,7 +3544,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156000,
       "name": "diamonds are forever",
       "url": "https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG"
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
@@ -4339,6 +4361,28 @@
     },
     {
       "album": {
+        "name": "everything tatted",
+        "url": "https://open.spotify.com/album/0qr3T3nplk2vw8hYxGPicO"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "everything tatted",
+      "url": "https://open.spotify.com/track/0qHEjwpsef1vuOUP5OoBvZ"
+    },
+    {
+      "album": {
         "name": "EVERYTIME",
         "url": "https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa"
       },
@@ -4368,7 +4412,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 215662,
       "name": "EXISTED",
       "url": "https://open.spotify.com/track/2WFPlR4bqnE0q80A6XndyH"
@@ -4636,7 +4680,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -4752,7 +4796,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -6272,7 +6316,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 237413,
       "name": "Head Shot / Gas In The Truck",
       "url": "https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R"
@@ -6432,7 +6476,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 132000,
       "name": "high like you",
       "url": "https://open.spotify.com/track/1dOvjgCSZdmJu1upMs994P"
@@ -6574,7 +6618,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
@@ -7104,7 +7148,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 157379,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5vvkYbBnNrI0Mh9cebJiMv"
@@ -7864,7 +7908,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214122,
       "name": "KO",
       "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
@@ -8884,7 +8928,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
@@ -9010,7 +9054,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 108666,
       "name": "MAZZALEEN",
       "url": "https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO"
@@ -9036,6 +9080,24 @@
       "duration_ms": 191106,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt"
+    },
+    {
+      "album": {
+        "name": "Melody I Can Finish",
+        "url": "https://open.spotify.com/album/5SRmWRHSdNrIsqjoLbsi4l"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142654,
+      "name": "Melody I Can Finish",
+      "url": "https://open.spotify.com/track/6jagulbw4V67UJOveEZuY9"
     },
     {
       "album": {
@@ -9090,6 +9152,24 @@
       "duration_ms": 154632,
       "name": "Mero Mero",
       "url": "https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/5bzm9L4AJLCpSMcaVqXXLX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/0lcAWg1SRPEzF41AtPM6Na"
     },
     {
       "album": {
@@ -9514,7 +9594,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 192492,
       "name": "Mr. Miracle",
       "url": "https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK"
@@ -9608,7 +9688,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156000,
       "name": "Mutual",
       "url": "https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8"
@@ -9788,7 +9868,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 155737,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z"
@@ -10512,7 +10592,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 111000,
       "name": "Off My Head",
       "url": "https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc"
@@ -13258,7 +13338,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 217102,
       "name": "starman",
       "url": "https://open.spotify.com/track/4t8xELB3RVb8n7dxaQ1H5I"
@@ -13604,7 +13684,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168205,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN"
@@ -14412,7 +14492,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188112,
       "name": "THINKIN BOUT YOU",
       "url": "https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB"
@@ -16034,7 +16114,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 176874,
       "name": "Wish (feat. Trippie Redd) - Trippie Mix",
       "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
@@ -16240,7 +16320,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204000,
       "name": "Yes Daddy",
       "url": "https://open.spotify.com/track/5NVH0o05dCAomhZXjdlpCc"
@@ -16410,7 +16490,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 128572,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/2aS1UfkTLKa5nYwnEPhsQl"

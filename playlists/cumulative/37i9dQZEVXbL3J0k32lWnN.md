@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,464 songs - 5 day 7 hr 25 min
+2,465 songs - 5 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1753,7 +1753,7 @@
 | [Please Don't Lie](https://open.spotify.com/track/73niCPzZkDLz33Ei7ji243) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Juvenile](https://open.spotify.com/album/0F6Y6ZoJH2KO4NxRbpDVtR) | 3:32 | 2022-12-03 | 2022-12-05 |
 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2025-04-01 | 2025-04-05 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-08 | 2024-09-22 |
-| [Plot Twist](https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:15 | 2026-05-16 |  |
+| [Plot Twist](https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:15 | 2026-05-16 | 2026-05-23 |
 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 | 2025-06-14 | 2025-08-18 |
 | [Police Bells & Church Sirens](https://open.spotify.com/track/7xSUV1EdDmwYSiVV7NL9qv) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Toppen Af Poppen 2021 Synger Simon Kvamm](https://open.spotify.com/album/27pIqtS1ugFus9X194xOby) | 3:42 | 2021-09-30 | 2021-10-10 |
 | [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 | 2026-03-07 | 2026-03-14 |
@@ -2316,6 +2316,7 @@
 | [Varmeste Herinde](https://open.spotify.com/track/7reYvNCilCtNLPQoT6aASR) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 3:08 | 2022-10-18 | 2022-10-23 |
 | [Vendetta](https://open.spotify.com/track/1yD45ue5YXqkWIv4YI0B7e) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Vendetta](https://open.spotify.com/album/1s7bRiwQ9gs8U9sOGgnnzk) | 3:28 | 2021-10-31 | 2021-11-14 |
 | [Venner der vokser](https://open.spotify.com/track/16quINpSnt7XrwAHyYClu2) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [VILD UNGDOM](https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM) | 1:35 | 2026-02-28 | 2026-03-05 |
+| [Ventet Hele Livet](https://open.spotify.com/track/63Os8q7TakFyL4XcPI7BF1) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Ventet Hele Livet](https://open.spotify.com/album/1kAUB6Hni0L2G7xyYOmosn) | 3:30 | 2026-05-22 |  |
 | [Verden Findes](https://open.spotify.com/track/2tXDT7Ac7K8hWPnC06SiHP) | [Helene Frank](https://open.spotify.com/artist/2lazDk0Zw7U1MG6PzcpJLv) | [Verden Findes](https://open.spotify.com/album/3zLrrBiVbZgM6aGKxdqbuB) | 3:03 | 2024-04-07 | 2024-04-12 |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-05-25 | 2024-06-22 |
 | [Verden Vågner \(feat\. Saveus\)](https://open.spotify.com/track/1nLdsD9ldwLYiQPJeBNBtM) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:36 | 2022-10-15 | 2022-10-19 |

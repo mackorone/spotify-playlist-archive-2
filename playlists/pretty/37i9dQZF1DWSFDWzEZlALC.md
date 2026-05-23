@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: anaïs
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,588 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,719 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 6 | [Besser als morgen](https://open.spotify.com/track/1kOVwHYDgVsTwmKviwWfxk) | [Audio88](https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK), [Yassin](https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3), [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Besser als morgen](https://open.spotify.com/album/5EBzjOMalgf4KhFOWxfVBF) | 3:45 |
 | 7 | [Herzschmerz](https://open.spotify.com/track/0tHq02GUfRMlTIHI0HO8SS) | [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [Herzschmerz](https://open.spotify.com/album/7KBL6jNJaUw78Ps60rtClW) | 3:13 |
 | 8 | [Sterne](https://open.spotify.com/track/3zlzga4iyuLlMUmLxy9SfO) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Sterne](https://open.spotify.com/album/0U4CicCkFYcli1eazwyj6p) | 3:33 |
-| 9 | [Track 12](https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Komm, wir bleiben stehen](https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk) | 0:00 |
+| 9 | [Hör Nie Auf](https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Komm, wir bleiben stehen](https://open.spotify.com/album/2QxmBnBSoQoigKUAbGX6Pk) | 3:04 |
 | 10 | [Gute Dinge](https://open.spotify.com/track/3xZMv0ZLRV46V9dC64NDmD) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gute Dinge](https://open.spotify.com/album/18SJpQHWPlzwdpuoh3mFu6) | 2:54 |
 | 11 | [Junkie](https://open.spotify.com/track/421pMbVNbXVDtSzNynVlop) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Junkie](https://open.spotify.com/album/4WIZ7EagNwkQp9WxzGCy9K) | 2:58 |
 | 12 | [Was dein Type?](https://open.spotify.com/track/2GLXGsU7YS9lAYD4Rdpgv6) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Was dein Type?](https://open.spotify.com/album/3XvSzyBmYti6dWFY4irDpV) | 2:01 |

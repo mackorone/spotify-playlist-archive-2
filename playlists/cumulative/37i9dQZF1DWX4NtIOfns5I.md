@@ -4,7 +4,7 @@
 
 > Jobi Riccio on the cover <3
 
-807 songs - 2 day 0 hr 43 min
+809 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Joy and Despair](https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy) | 4:00 | 2026-01-23 | 2026-04-18 |
 | [June](https://open.spotify.com/track/1UDpNiCJkm0scwYRJ9hpyu) | [Diana Silvers](https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs) | [June](https://open.spotify.com/album/1q3DiWWiwYauDmTNGgcjo2) | 4:04 | 2025-09-12 | 2026-02-21 |
 | [Just Because](https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Plateaus](https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo) | 3:46 | 2024-10-09 | 2025-03-13 |
+| [Just My Friend](https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Just My Friend](https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli) | 3:06 | 2026-05-22 |  |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 | 2026-02-21 |
 | [kid](https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [kid](https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa) | 3:11 | 2023-12-08 | 2024-10-19 |
 | [Kitchen Flowers](https://open.spotify.com/track/3AnnOEoPNIX18poepK9kcw) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Kitchen Flowers](https://open.spotify.com/album/40nWV4tr80TjQsWE0AaeQU) | 2:23 | 2025-03-28 | 2025-09-20 |
@@ -519,6 +520,7 @@
 | [Pale Blue Eyes](https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Pale Blue Eyes](https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk) | 3:33 | 2026-04-24 |  |
 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 | 2025-10-24 |  |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-05-30 | 2026-01-17 |
+| [Past The Veil](https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Past The Veil](https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW) | 3:52 | 2026-05-22 |  |
 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 | 2025-02-28 | 2025-09-27 |
 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 | 2025-03-13 |
 | [Peppermint](https://open.spotify.com/track/2qQaD63v4QM5O5ORUdY7sr) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Peppermint](https://open.spotify.com/album/4mXPbh85iKEiKRDR5LRFqV) | 3:33 | 2025-04-18 | 2025-09-13 |

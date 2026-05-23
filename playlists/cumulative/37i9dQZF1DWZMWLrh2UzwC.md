@@ -2,9 +2,9 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from Charli xcx, Ernie Zakri, Firdhaus, TAEYANG, ITZY, Jay Park, LNGSHOT, and more!
+> New music from Olivia Rodrigo, Charli xcx, Ernie Zakri, Firdhaus, TAEYANG, ITZY, Jay Park, LNGSHOT, and more!
 
-21,435 songs - 49 day 7 hr 20 min
+21,439 songs - 49 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [2GOOD4U](https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [2GOOD4U](https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6) | 2:50 | 2026-04-09 | 2026-04-17 |
 | [2HII](https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [2HII](https://open.spotify.com/album/2sYRcSfLpSpC5CCNNnlwtz) | 2:37 | 2024-12-13 | 2024-12-20 |
 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 | 2023-11-30 | 2023-12-08 |
+| [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-22 |  |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-15 | 2026-01-23 |
 | [2SIDES](https://open.spotify.com/track/5gQXfSwXJr9Rv8kIJbsbGc) | [Against Mel](https://open.spotify.com/artist/0RpKRBN5TzuJtdxfF7BAy2), [Rudeen](https://open.spotify.com/artist/7rbGFN00tHyGCKXH3ctR0f) | [SCENTS / SENSES](https://open.spotify.com/album/0mMujfIHAEv1yuUpau7ZzJ) | 2:49 | 2025-05-01 | 2025-05-09 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-04-21 | 2022-04-29 |
@@ -2255,6 +2256,7 @@
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-03-14 | 2024-03-22 |
 | [Boomerang](https://open.spotify.com/track/4jAuDvnVAufLVWL8r6Z4th) | [Delilian](https://open.spotify.com/artist/4U51OykrJl1cJzbkF1ZLat) | [Boomerang](https://open.spotify.com/album/7MkXfxcmkDtDTHheaI7Nn0) | 3:41 | 2025-07-03 | 2025-07-11 |
 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 | 2023-05-25 | 2023-06-02 |
+| [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-22 |  |
 | [BOOP](https://open.spotify.com/track/5ui8Ek43CwlZdRHmzzKDWg) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [BOOP](https://open.spotify.com/album/2vA5z1ja2a8mDZhhq61KVp) | 2:07 | 2023-03-30 | 2023-04-07 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-14 | 2022-04-22 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-17 | 2023-08-25 |
@@ -9580,7 +9582,7 @@
 | [Langitku Sendiri](https://open.spotify.com/track/5ZOD0ABSES4COP7WNVXKIT) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Lune](https://open.spotify.com/album/4FZP8ilZixYhGiF17JQaz9) | 4:29 | 2025-11-27 | 2025-12-05 |
 | [Langkah Tanpaku \- Labinak Original Soundtrack](https://open.spotify.com/track/1ZKbxWU6vq6kEYJROxYSmX) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Langkah Tanpaku \(Labinak Original Soundtrack\)](https://open.spotify.com/album/2nuAGuGn4dkTVk53yfhpUi) | 3:38 | 2025-08-28 | 2025-09-05 |
 | [Lantak Kau Lah](https://open.spotify.com/track/7DsciZNFr4za9SnflPKGA1) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Lantak Kau Lah](https://open.spotify.com/album/7umz4CdIgqrpktR9oT9rVE) | 3:20 | 2025-05-08 | 2025-05-16 |
-| [Lao Shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Lao Shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
+| [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-05 | 2026-02-13 |
 | [Laps \(feat\. Moonchild Sanelly\)](https://open.spotify.com/track/4JlfLLKYzjNRsJKm3o5z88) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Laps \(feat\. Moonchild Sanelly\)](https://open.spotify.com/album/4jeyWF5FJIbkcTPKAC8glW) | 3:49 | 2023-10-19 | 2023-10-27 |
 | [Lara](https://open.spotify.com/track/1LbH8dxZz7slwkCpVyHUfG) | [Lunar](https://open.spotify.com/artist/1LNISIYH01ppvQhrjyidYR) | [Lara](https://open.spotify.com/album/5oyF88NtR7not7FibDszBd) | 5:35 | 2025-07-24 | 2025-08-01 |
@@ -12886,6 +12888,7 @@
 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DRIP SEASON 4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 | 2022-01-14 | 2022-01-21 |
 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 | 2025-07-17 | 2025-07-25 |
 | [P.A.Q.A \(Passive\-Aggressive Question Avengers\)](https://open.spotify.com/track/0Ic6UxcuR3EgCsh8CpTrvk) | [The Ann & Ben Show](https://open.spotify.com/artist/3bFPiEQGWfoQ3qVmlldINL), [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [P.A.Q.A \(Passive\-Aggressive Question Avengers\)](https://open.spotify.com/album/17kdqT9SzrVg7Zz1NGwLYW) | 3:52 | 2023-01-19 | 2023-01-27 |
+| [P.O.V](https://open.spotify.com/track/5nl6Pju1iAfiUIb33yuMJy) | [O.V.A Official My](https://open.spotify.com/artist/2aap0qJeU1oqU5VJzkix23) | [P.O.V](https://open.spotify.com/album/6Oh4NVHYUEM8jC5CVWCE6r) | 2:53 | 2026-05-21 |  |
 | [P.O.W! \(Play On the World\)](https://open.spotify.com/track/2FgeeDfd0MeBi1bT8MP6ni) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/4WKhHCj1pBU1aVyEmRkMZQ) | 3:14 | 2023-03-09 | 2023-03-18 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-06-16 | 2022-06-24 |
 | [P2000](https://open.spotify.com/track/349wwJQlBSnVUImC0PBwH5) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 2](https://open.spotify.com/album/77ccljceESwTy5Mqrg4iFh) | 3:08 | 2025-11-13 | 2025-11-21 |
@@ -17101,6 +17104,7 @@
 | [The Court \- Dark\-Side Mix](https://open.spotify.com/track/5eO2qyIX1QQ21eUktFzDnO) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [The Court \(Dark\-Side Mix\)](https://open.spotify.com/album/4IuBnORoDnoJXSYPX4Cp4U) | 4:20 | 2023-02-09 | 2023-02-17 |
 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-06-01 |
 | [The Crowd](https://open.spotify.com/track/20Q4nLjYduvCYsCRYSuVQB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Crowd](https://open.spotify.com/album/0L026zqO8MoFweKbb9NJJA) | 3:02 | 2025-11-06 | 2025-11-14 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2025-10-31 |
 | [the cute girl from brewster hall](https://open.spotify.com/track/0CPKQPhAtz1ki7KgA3Fh95) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [the cute girl from brewster hall](https://open.spotify.com/album/7JN8u3btrgTomiWrfDjB3y) | 1:55 | 2023-04-13 | 2023-04-21 |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-13 | 2024-06-21 |

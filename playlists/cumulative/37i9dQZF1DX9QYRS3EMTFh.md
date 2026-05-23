@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen x Limitlezz
 
-913 songs - 1 day 14 hr 49 min
+913 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [My Doudou](https://open.spotify.com/track/1eSE9S5Z58BDnwafWr8Akw) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [My Doudou](https://open.spotify.com/album/3Yu0D13xgIcR974AFxFN85) | 2:20 | 2023-09-28 | 2023-11-17 |
 | [My Girl](https://open.spotify.com/track/6sW4DL65owAWH5Ps03N36z) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Marcus](https://open.spotify.com/artist/3c8IRGWxXH02QgDaLz3IOe) | [My Girl](https://open.spotify.com/album/1MAuPoSzXiIAwzqhyJEMM9) | 3:04 | 2025-02-20 | 2025-03-28 |
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-25 | 2023-06-23 |
+| [MÈTRE CARRÉ](https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [VOLCAN](https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4) | 2:34 | 2026-05-21 |  |
 | [Mété Kow](https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M) | [Lagess](https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq), [DJ Digital](https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN) | [Mété Kow](https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab) | 2:25 | 2022-06-02 | 2022-11-25 |
 | [Nani](https://open.spotify.com/track/1dDyeCWfRIOvfCXDs4Hmqw) | [Jason Imanuel](https://open.spotify.com/artist/3uQYsvZhFDNBb6bpVNEhO7), [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [Andrélon](https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2) | [Nani](https://open.spotify.com/album/7pB4QT7Nx9FBIgqSUUFPnV) | 2:16 | 2025-10-23 | 2025-11-21 |
 | [Narcos](https://open.spotify.com/track/310uX0CtnHdFhbTAjADKBs) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv), [Travon John](https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m) | [Narcos](https://open.spotify.com/album/2bRRFf3Q4ZA9ji74oCIDf6) | 2:09 | 2025-03-13 | 2025-04-04 |
@@ -843,7 +844,6 @@
 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 | 2024-01-05 |
 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 | 2025-08-28 | 2025-09-25 |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 | 2024-05-17 |
-| [Track 3](https://open.spotify.com/track/21y3V6VWN2tRpdCuRJv3TK) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [VOLCAN](https://open.spotify.com/album/1m1BzewOB8E5ho2d2chri4) | 0:00 | 2026-05-21 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-01 | 2024-03-01 |

@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-911 songs - 2 day 15 hr 7 min
+912 songs - 2 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [I Must Have That Man](https://open.spotify.com/track/3mbdUnczHqdFQ0PSui94o3) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [I Must Have That Man](https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4) | 5:12 | 2022-03-04 | 2022-07-29 |
 | [I Never Knew](https://open.spotify.com/track/1LJqVtPwHTUbdsXI1eZg1a) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Tymish Koznarsky](https://open.spotify.com/artist/3x2GwkCs29J7fM1QHXG9T4) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:57 | 2022-11-04 | 2023-04-09 |
 | [I Only Have Eyes For You](https://open.spotify.com/track/3ThCPINLVGtNGFhxLC4slT) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sunny Holiday](https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X) | [I Only Have Eyes For You](https://open.spotify.com/album/0RD4tTRG9JWmkhq4rpiRXk) | 3:12 | 2020-10-09 | 2022-02-18 |
-| [I Wanna Be Loved](https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [I Wanna Be Loved](https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I) | 3:50 | 2024-11-15 |  |
+| [I Wanna Be Loved](https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [I Wanna Be Loved](https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I) | 3:50 | 2024-11-15 | 2026-05-23 |
 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 | 2023-02-10 | 2024-05-25 |
 | [I Watch You Sleep](https://open.spotify.com/track/6kEJOhJ6viqoOny0dIeUXF) | [Claire Martin](https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh), [Scott Dunn](https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [I Watch You Sleep](https://open.spotify.com/album/1lcq7Ah6ZHGumjaVtAIpwb) | 4:30 | 2022-12-23 | 2023-02-24 |
 | [I Will Wait for You](https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [I Will Wait for You](https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv) | 3:47 | 2022-07-08 | 2023-09-30 |
@@ -792,6 +792,7 @@
 | [They Can't Take That Away From Me](https://open.spotify.com/track/0V3RUFrfJ71hezlZOgEXTI) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [They Can't Take That Away From Me](https://open.spotify.com/album/1O6o4OW0vfLS6sGV1VA5dz) | 2:38 | 2022-05-13 | 2023-03-18 |
 | [They Say It's Spring](https://open.spotify.com/track/18UXGACErp6VwySRavPglK) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 4:48 | 2023-03-24 | 2023-07-22 |
 | [They Say It's Spring](https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [They Say It's Spring](https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX) | 4:48 | 2023-03-24 | 2023-06-24 |
+| [They Say It's Spring](https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [They Say It's Spring](https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ) | 3:20 | 2026-05-22 |  |
 | [They Speak No Evil](https://open.spotify.com/track/14EugpqQJyjh1q414fjXhL) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [In The Brass Palace](https://open.spotify.com/album/724NffDLMHiaQkmHh6jt3o) | 8:11 | 2026-02-13 |  |
 | [Think of Me Softly](https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Think of Me Softly](https://open.spotify.com/album/2J7DlkkwNSEmjTG4PgbKbs) | 2:28 | 2025-05-02 |  |
 | [Third Time's the Charm](https://open.spotify.com/track/6tisjXGvkpnLQua7CO1R6E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:21 | 2023-06-30 | 2024-11-19 |

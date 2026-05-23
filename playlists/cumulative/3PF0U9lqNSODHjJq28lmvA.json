@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 278000,
       "name": "Alas",
       "url": "https://open.spotify.com/track/1TSqTgiMPOgrwhJrImxrkJ"
@@ -5747,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Bethany",
+        "url": "https://open.spotify.com/album/5ZueKMc7L3ajZ8hltqmrGj"
+      },
+      "artists": [
+        {
+          "name": "Hayley Bleho",
+          "url": "https://open.spotify.com/artist/7m3iY9UtEpcByTLVlwEFH7"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212243,
+      "name": "Bethany",
+      "url": "https://open.spotify.com/track/09p3KPZ7ojdlglGzJKWsEP"
+    },
+    {
+      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/5LVKdyyMUhomXuZHL0M9Ao"
       },
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 201000,
       "name": "Blues Till V\u00e4nner",
       "url": "https://open.spotify.com/track/3EeabFRD1osWSP0o2zLHs5"
@@ -8066,7 +8084,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 373426,
       "name": "Brother of my Enemy",
       "url": "https://open.spotify.com/track/6Z4HOSAVqt61K4gGORuRjE"
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 199992,
       "name": "City Boy",
       "url": "https://open.spotify.com/track/7qJ8QEnQBA7NEfcBHYaFtS"
@@ -13122,7 +13140,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198033,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/69noY9i5oUQjaj35il0t7c"
@@ -16612,7 +16630,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 149311,
       "name": "Duvor",
       "url": "https://open.spotify.com/track/5jGS3k5hAu6Yv2VhI6j1iy"
@@ -23192,7 +23210,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 346338,
       "name": "Gas Station",
       "url": "https://open.spotify.com/track/0c7qlP1qMfsO6otTyG4vQJ"
@@ -25919,6 +25937,24 @@
     },
     {
       "album": {
+        "name": "Hattarataivas",
+        "url": "https://open.spotify.com/album/5F0MbkaNlBHWNcfmd4Gp1x"
+      },
+      "artists": [
+        {
+          "name": "Hamina",
+          "url": "https://open.spotify.com/artist/5wPZpQd6Ejo6NSJ1EcMfin"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Hattarataivas",
+      "url": "https://open.spotify.com/track/1V41iElOZjKsHTC7lwEhrL"
+    },
+    {
+      "album": {
         "name": "Hayati",
         "url": "https://open.spotify.com/album/0j6pc14SZXpf4aGYjJHUAp"
       },
@@ -26501,6 +26537,24 @@
     },
     {
       "album": {
+        "name": "Off The Floor",
+        "url": "https://open.spotify.com/album/68ShspVlGtgiIhd5VySr9b"
+      },
+      "artists": [
+        {
+          "name": "Isobel Knight",
+          "url": "https://open.spotify.com/artist/68EAQ3CUHE8RYAhGttzHkA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371893,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/2XQCsSwoeUiTVDwW3GN0co"
+    },
+    {
+      "album": {
         "name": "Hell Or High Water",
         "url": "https://open.spotify.com/album/6MX9QiiX87FVn2sRrkck4U"
       },
@@ -26906,7 +26960,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 266000,
       "name": "Hiding out",
       "url": "https://open.spotify.com/track/3ovEm5WUG6anjKlVG3uKiU"
@@ -28328,7 +28382,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 273040,
       "name": "Hylife Soul",
       "url": "https://open.spotify.com/track/3es6i9I5v1l2M87rDrTjPE"
@@ -35458,7 +35512,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 183346,
       "name": "Lavender Breeze",
       "url": "https://open.spotify.com/track/3NRuvs5FVWoknhO2mFRKwz"
@@ -36956,7 +37010,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 205612,
       "name": "Lizard king (aldrig f\u00f6r varann)",
       "url": "https://open.spotify.com/track/6rnvU7mY2VjZpblRup5Gd9"
@@ -39443,6 +39497,24 @@
     },
     {
       "album": {
+        "name": "Maskrosor",
+        "url": "https://open.spotify.com/album/4IM8psMGhW4xLUCply62u6"
+      },
+      "artists": [
+        {
+          "name": "Johan Norefalk",
+          "url": "https://open.spotify.com/artist/4JIgSi7ltbZkhyAPXJcEx9"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208718,
+      "name": "Maskrosor",
+      "url": "https://open.spotify.com/track/6OZdbl8LSiepwuu3RSAh8p"
+    },
+    {
+      "album": {
         "name": "Seventh Secular Crusade",
         "url": "https://open.spotify.com/album/27O8sj45HZ4IEVUfnXKBNP"
       },
@@ -40556,6 +40628,24 @@
       "duration_ms": 126786,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6EyXPqvVbPs3rpJjBllazU"
+    },
+    {
+      "album": {
+        "name": "10 years and counting",
+        "url": "https://open.spotify.com/album/3L2P40C8I4px97OfKPJjNN"
+      },
+      "artists": [
+        {
+          "name": "A Message from Martyrs",
+          "url": "https://open.spotify.com/artist/7t5IZe95XCovYcgMATghI1"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252840,
+      "name": "Miles away, Breaking Down",
+      "url": "https://open.spotify.com/track/0w39JvvnggkN8DIUf6klYJ"
     },
     {
       "album": {
@@ -45337,6 +45427,24 @@
     },
     {
       "album": {
+        "name": "Off To Mars",
+        "url": "https://open.spotify.com/album/4TJhFszNQd2CXDdspJ3rcZ"
+      },
+      "artists": [
+        {
+          "name": "Phats De Juvenile",
+          "url": "https://open.spotify.com/artist/0oTnLCyNvqiPv8Tdt66WEP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483787,
+      "name": "Off To Mars",
+      "url": "https://open.spotify.com/track/1LpCZxJfZBOdaTGsONQyQw"
+    },
+    {
+      "album": {
         "name": "off-white glove",
         "url": "https://open.spotify.com/album/42vXE8XBR3roxlvVDRM62v"
       },
@@ -45936,7 +46044,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 203870,
       "name": "One Cold Afternoon",
       "url": "https://open.spotify.com/track/647KYP2Ly6mBao93WVAMfI"
@@ -46674,6 +46782,24 @@
       "duration_ms": 149768,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/5K1FLrMeLZMWgmP1Yxen9A"
+    },
+    {
+      "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/57xu5gr64AfQ8VxngmsUsY"
+      },
+      "artists": [
+        {
+          "name": "Isak Jakobsson",
+          "url": "https://open.spotify.com/artist/6p1dSTtiCvXjnCeAQsUodb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151027,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/5uT3yCvQmcB2elrRRTjuKS"
     },
     {
       "album": {
@@ -49660,6 +49786,24 @@
       "duration_ms": 185182,
       "name": "PY\u0141",
       "url": "https://open.spotify.com/track/5YH1THByBgwQM60W3aafMK"
+    },
+    {
+      "album": {
+        "name": "P\u00c4\u00c4 PILVISS\u00c4",
+        "url": "https://open.spotify.com/album/691URGIQIJHWs0aMC1TluX"
+      },
+      "artists": [
+        {
+          "name": "Rafa\u00e9la",
+          "url": "https://open.spotify.com/artist/3qIJZa4FZxCL9um3Mqzv6p"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274511,
+      "name": "P\u00c4\u00c4 PILVISS\u00c4",
+      "url": "https://open.spotify.com/track/3PM0es8gTKSJyGD2xpLlIQ"
     },
     {
       "album": {
@@ -54076,7 +54220,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 181704,
       "name": "SHAKESUM",
       "url": "https://open.spotify.com/track/0fnx8fSv9qtNZhkEBaATs3"
@@ -57352,7 +57496,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 272000,
       "name": "SRL Rhythm - Reimagined",
       "url": "https://open.spotify.com/track/7mIdPcI2gGjs0ehUD3JsbA"
@@ -59996,6 +60140,24 @@
       "duration_ms": 145990,
       "name": "Take The Throne (Deport The Fascists)",
       "url": "https://open.spotify.com/track/3ZLfeZiSfpIPT87bWYYpUE"
+    },
+    {
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/7Kfr5frO3p85fxfAlnPyyk"
+      },
+      "artists": [
+        {
+          "name": "Dimmed Charlie",
+          "url": "https://open.spotify.com/artist/1jqCe5tFhg7oknVnRYWXzC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246628,
+      "name": "Take you home",
+      "url": "https://open.spotify.com/track/0Z16RppqhriYsNAXsGbnSo"
     },
     {
       "album": {
@@ -63921,6 +64083,24 @@
     },
     {
       "album": {
+        "name": "Ritual of The Cloven Hoof",
+        "url": "https://open.spotify.com/album/044AlkuookXfVAqQZoiQUn"
+      },
+      "artists": [
+        {
+          "name": "Goddess",
+          "url": "https://open.spotify.com/artist/3cMo9MGlkvZHB92vcAxk5t"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401231,
+      "name": "To Be King",
+      "url": "https://open.spotify.com/track/7ae8egiJhy9SqdVNKCl8qv"
+    },
+    {
+      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/4irGiQdoW2yYNjQaa2PFba"
       },
@@ -64340,6 +64520,24 @@
       "duration_ms": 81157,
       "name": "Tourettes",
       "url": "https://open.spotify.com/track/16aAnG5ZF3lTFjwNU8gwNG"
+    },
+    {
+      "album": {
+        "name": "Traagiline Maagia",
+        "url": "https://open.spotify.com/album/2UXqiHfTyE583nM1YzcZeJ"
+      },
+      "artists": [
+        {
+          "name": "Wild Women Of Wongo",
+          "url": "https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Traagiline Maagia",
+      "url": "https://open.spotify.com/track/69udLR9wkOA3tuKAqaPxXJ"
     },
     {
       "album": {
@@ -65740,7 +65938,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 197322,
       "name": "UNHOLY",
       "url": "https://open.spotify.com/track/25Y4aovRJnguEVBJ9MRwAQ"
@@ -65891,6 +66089,28 @@
     },
     {
       "album": {
+        "name": "Until I met you",
+        "url": "https://open.spotify.com/album/5hUSO0i9Zi8gcLqA8iMnkA"
+      },
+      "artists": [
+        {
+          "name": "Lilly Rose",
+          "url": "https://open.spotify.com/artist/0uiMofKzxjLIfeo7SJMBjM"
+        },
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/0V5wpzV1FH0nbTyFg0P8xl"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202639,
+      "name": "Until I met you",
+      "url": "https://open.spotify.com/track/66gNNpDc0NjghNKdSvJxfR"
+    },
+    {
+      "album": {
         "name": "The Home Recording Sessions",
         "url": "https://open.spotify.com/album/4tBLXb4vuENqoM1of0z4sg"
       },
@@ -65978,6 +66198,24 @@
       "duration_ms": 299302,
       "name": "Urban Myth",
       "url": "https://open.spotify.com/track/1tnyTW1YpAXSegSPgldFMK"
+    },
+    {
+      "album": {
+        "name": "Us & The Moon",
+        "url": "https://open.spotify.com/album/2TaivHlUFH6WfSmbkpQtGn"
+      },
+      "artists": [
+        {
+          "name": "Tugboat Captain",
+          "url": "https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178102,
+      "name": "Us & The Moon",
+      "url": "https://open.spotify.com/track/7MjuRYCtVDzntNRvc7zhFG"
     },
     {
       "album": {

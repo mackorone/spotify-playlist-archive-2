@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Branbel en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Alvaro Diaz en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 217819,
       "name": "Al Tiempo",
       "url": "https://open.spotify.com/track/4qzItEnlJBTPp1ByoYIoIx"
+    },
+    {
+      "album": {
+        "name": "Al Verte",
+        "url": "https://open.spotify.com/album/12A3IQb8NDENJHxP1i1qSJ"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153695,
+      "name": "Al Verte",
+      "url": "https://open.spotify.com/track/0dQev8dfqNpLsxmoNTLaB0"
     },
     {
       "album": {
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 127105,
       "name": "Ladrona",
       "url": "https://open.spotify.com/track/2exqtw1dxXaOhhlvG2PTMc"
@@ -3864,7 +3882,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 184588,
       "name": "No Me Sirve M\u00e1s",
       "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
@@ -3886,6 +3904,24 @@
       "duration_ms": 172521,
       "name": "no voy a salir de casa",
       "url": "https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg"
+    },
+    {
+      "album": {
+        "name": "noquieroquemequieras",
+        "url": "https://open.spotify.com/album/4wZEfakLhS6cSmz8DDvGEJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207388,
+      "name": "noquieroquemequieras",
+      "url": "https://open.spotify.com/track/56pZj00RITsiBK8A8X9xWP"
     },
     {
       "album": {
@@ -4332,6 +4368,24 @@
       "duration_ms": 151333,
       "name": "Perspectiva",
       "url": "https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju"
+    },
+    {
+      "album": {
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208999,
+      "name": "PIENSO EN TI.",
+      "url": "https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd"
     },
     {
       "album": {

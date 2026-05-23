@@ -34,10 +34,32 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 123000,
       "name": "all right here",
       "url": "https://open.spotify.com/track/5q4o8ixhoGNpLGNu9QCyO2"
+    },
+    {
+      "album": {
+        "name": "allgood.",
+        "url": "https://open.spotify.com/album/1gWtETrEMpm1uqs9NWXKd2"
+      },
+      "artists": [
+        {
+          "name": "igory",
+          "url": "https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9"
+        },
+        {
+          "name": "howupheelin'",
+          "url": "https://open.spotify.com/artist/23RWeaDeSVPWEOGogfsQ0i"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "allgood.",
+      "url": "https://open.spotify.com/track/1wEfnLXJvgasmcSasbUqXi"
     },
     {
       "album": {
@@ -623,6 +645,32 @@
     },
     {
       "album": {
+        "name": "Faded Polaroid",
+        "url": "https://open.spotify.com/album/2867jvKSEjUEmrzqnZVCLi"
+      },
+      "artists": [
+        {
+          "name": "Yampb",
+          "url": "https://open.spotify.com/artist/7wRmia5KvfYF78xUv7sApg"
+        },
+        {
+          "name": "Vidalima",
+          "url": "https://open.spotify.com/artist/4dqsyVtpFvhnlBLwD3pPEZ"
+        },
+        {
+          "name": "The Retune Project",
+          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104470,
+      "name": "Faded Polaroid",
+      "url": "https://open.spotify.com/track/6FfoaT6X2kJ2aOo6cWfpnz"
+    },
+    {
+      "album": {
         "name": "fawn",
         "url": "https://open.spotify.com/album/2PQ21exhTZhwOXuwe89fTs"
       },
@@ -692,6 +740,28 @@
       "duration_ms": 135882,
       "name": "half past monday",
       "url": "https://open.spotify.com/track/7hCsmNzkCZVV3ktT0ARAHE"
+    },
+    {
+      "album": {
+        "name": "happy place",
+        "url": "https://open.spotify.com/album/3aa0qGC8PuDNAayRyTdaBE"
+      },
+      "artists": [
+        {
+          "name": "flowray",
+          "url": "https://open.spotify.com/artist/7apxuBS2y7E7Cs8ruOYhvd"
+        },
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "happy place",
+      "url": "https://open.spotify.com/track/1sNqxiiXbljgO8uhSIqurm"
     },
     {
       "album": {
@@ -1112,7 +1182,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 92867,
       "name": "Petit c\u0153ur",
       "url": "https://open.spotify.com/track/7yzFraT9cokM2IzDPxsW1m"
@@ -1246,7 +1316,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 125142,
       "name": "Sodium Light",
       "url": "https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N"
@@ -1366,7 +1436,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 158400,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/2fVnt6S7U3t8cEjUnyiFGA"
@@ -1486,6 +1556,24 @@
       "duration_ms": 138428,
       "name": "Vintage Shop",
       "url": "https://open.spotify.com/track/1gmvtemzXBWJjAxqyBd7AQ"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2L7Ic0245IFf8EZueMV15G"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6vWZy3veq3tjTzkQBAH1nt"
     },
     {
       "album": {

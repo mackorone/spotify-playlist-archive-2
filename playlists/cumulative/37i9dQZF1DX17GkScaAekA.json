@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "Dessner: Goiza Larrunen",
+        "url": "https://open.spotify.com/album/4Ju1T7qpYADFPO8weAcHhP"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "Goiza Larrunen",
+      "url": "https://open.spotify.com/track/5W51XW27tDmVhWWxCp0Vvp"
+    },
+    {
+      "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
       },

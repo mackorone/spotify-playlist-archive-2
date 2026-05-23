@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 95922,
+  "num_followers": 95931,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
-      },
-      "artists": [
-        {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1427,6 +1407,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "The Bones Of What You Believe",
         "url": "https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ"
       },
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
       },
       "artists": [
         {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
+      "duration_ms": 280426,
+      "name": "Dangerous (feat. Joywave)",
+      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
     },
     {
       "added_at": "2025-03-14 13:17:39",

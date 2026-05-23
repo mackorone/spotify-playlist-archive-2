@@ -2433,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Outsider Music Vol 1: you don't know what you want, do you?",
+        "url": "https://open.spotify.com/album/4f5t578repKV8L5eVA75GL"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "don't be sad :)!",
+      "url": "https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW"
+    },
+    {
+      "album": {
         "name": "Don't Cry Mama",
         "url": "https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77"
       },
@@ -10622,24 +10640,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "Outsider Music Vol 1: you don't know what you want, do you?",
-        "url": "https://open.spotify.com/album/4f5t578repKV8L5eVA75GL"
-      },
-      "artists": [
-        {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW"
     },
     {
       "album": {

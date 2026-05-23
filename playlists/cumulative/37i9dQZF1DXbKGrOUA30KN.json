@@ -8205,24 +8205,6 @@
     },
     {
       "album": {
-        "name": "es ist okay, dass du f\u00fchlst",
-        "url": "https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn"
-      },
-      "artists": [
-        {
-          "name": "liska",
-          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d"
-    },
-    {
-      "album": {
         "name": "Traumfrau",
         "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
       },
@@ -9970,6 +9952,24 @@
       "duration_ms": 227163,
       "name": "Zusammen ist man weniger kaputt",
       "url": "https://open.spotify.com/track/20O97YynklTMV7CBBqv7rq"
+    },
+    {
+      "album": {
+        "name": "es ist okay, dass du f\u00fchlst",
+        "url": "https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "z\u00e4hl die tage",
+      "url": "https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d"
     },
     {
       "album": {

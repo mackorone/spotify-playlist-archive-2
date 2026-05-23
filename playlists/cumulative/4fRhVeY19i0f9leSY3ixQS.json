@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "12|12|12",
+        "url": "https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1"
+      },
+      "artists": [
+        {
+          "name": "Faceless DIVERSUM",
+          "url": "https://open.spotify.com/artist/4bmj6GZWAkZhD2syFEuNXG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234799,
+      "name": "12.12.12 - Metal",
+      "url": "https://open.spotify.com/track/57pPSP64a0wCkcxCotqv9R"
+    },
+    {
+      "album": {
         "name": "1982",
         "url": "https://open.spotify.com/album/2bEQdG5K1qgVJUEMcJm7tO"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 220736,
       "name": "A Perfect Lie",
       "url": "https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b"
@@ -4510,6 +4528,24 @@
       "duration_ms": 259181,
       "name": "Clown",
       "url": "https://open.spotify.com/track/77rGav8CBbntBb4xJ8OmEU"
+    },
+    {
+      "album": {
+        "name": "Clown & Creator",
+        "url": "https://open.spotify.com/album/0UUY9cHNWzamnuvKSl7hSo"
+      },
+      "artists": [
+        {
+          "name": "Chaos Clown",
+          "url": "https://open.spotify.com/artist/17x1AVVVuYn9ztVV3MQ3p5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191279,
+      "name": "Clown & Creator",
+      "url": "https://open.spotify.com/track/6Qws1w87eGrmgLlj1dDa5C"
     },
     {
       "album": {
@@ -9711,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4npDY6tFGLNToFUMfFNOmx"
+      },
+      "artists": [
+        {
+          "name": "Mystery Art Orchestra",
+          "url": "https://open.spotify.com/artist/5kBF3oksrLBRCukTWymNWz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191309,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/16OgybtlMOAaJe9gk7oyJu"
+    },
+    {
+      "album": {
         "name": "Golden Bloom",
         "url": "https://open.spotify.com/album/39PBq7PV4fgMRqBwMJdK7I"
       },
@@ -9780,6 +9834,24 @@
       "duration_ms": 175247,
       "name": "goodbye - 2025 remastered",
       "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
+    },
+    {
+      "album": {
+        "name": "Gorebage Truck",
+        "url": "https://open.spotify.com/album/1Tpx3ZdMbASFVpuzmThuaS"
+      },
+      "artists": [
+        {
+          "name": "Fuck Tomb",
+          "url": "https://open.spotify.com/artist/70VzYMqJrUHmA7F8soZr9Y"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Gorebage Truck",
+      "url": "https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z"
     },
     {
       "album": {
@@ -14135,6 +14207,24 @@
     },
     {
       "album": {
+        "name": "Lost Space",
+        "url": "https://open.spotify.com/album/3UFzsop35G4pdbc4HZoDXz"
+      },
+      "artists": [
+        {
+          "name": "Intensea",
+          "url": "https://open.spotify.com/artist/0ueR7qZuaIY7tQrDHcDJxc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Lost Space",
+      "url": "https://open.spotify.com/track/6FgSIcRaYUXjxeR0bAxeq5"
+    },
+    {
+      "album": {
         "name": "Near Singleton",
         "url": "https://open.spotify.com/album/4Grag18jkQ6LbnsxCJ9Q4e"
       },
@@ -15520,7 +15610,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 301333,
       "name": "Mr. Collision",
       "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
@@ -16248,7 +16338,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 152899,
       "name": "No Escape",
       "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
@@ -20248,6 +20338,24 @@
     {
       "album": {
         "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/6TIFaHPRLDXgT77OSLMvCs"
+      },
+      "artists": [
+        {
+          "name": "Banner Of The Sun",
+          "url": "https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278459,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5HSrz3cGMEcTRQMgl3hQpu"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2Mnqf0vzlkUTdCg1maqgJH"
       },
       "artists": [
@@ -21755,6 +21863,24 @@
     },
     {
       "album": {
+        "name": "Something to Believe",
+        "url": "https://open.spotify.com/album/05cZtARQmJgtUC1SQTHbXk"
+      },
+      "artists": [
+        {
+          "name": "MILK Band",
+          "url": "https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209287,
+      "name": "Something to Believe",
+      "url": "https://open.spotify.com/track/1J4rPfNgavY56kbLpK3mEh"
+    },
+    {
+      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/11cfgh0urtJRClRcAAQyCp"
       },
@@ -22184,6 +22310,24 @@
       "duration_ms": 368598,
       "name": "Stasis (remaster)",
       "url": "https://open.spotify.com/track/63jFpls11N7SfViS2fwPa0"
+    },
+    {
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/4yhWf284wIaajxUJphgkxc"
+      },
+      "artists": [
+        {
+          "name": "Boneripper",
+          "url": "https://open.spotify.com/artist/6N5IU9LkU4ogtq88WIwDYe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146293,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/348sLULN7wJB1dIKrACj3L"
     },
     {
       "album": {
@@ -26550,6 +26694,24 @@
       "duration_ms": 87374,
       "name": "We All Need Money",
       "url": "https://open.spotify.com/track/14zE608zCJQOO94AzeRIr8"
+    },
+    {
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/1ERq85r9VyUwrDkSyXjgCj"
+      },
+      "artists": [
+        {
+          "name": "Re:Instinct",
+          "url": "https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181674,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/5G7MHyXAaAPf1DHbdmSsK6"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Forward City & Travis Greene
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Bri Babineaux
 
-793 songs - 2 day 19 hr 21 min
+795 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Laugh And Move On](https://open.spotify.com/track/1VlyxmUwsVgShXff1arXFy) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [The Journey](https://open.spotify.com/album/5dQ0QW4VDauiVLmFPwCJUk) | 6:10 | 2022-02-18 | 2023-02-11 |
 | [Lay It Down](https://open.spotify.com/track/0DX2oMQ2xFlFbo5IgDzWRf) | [Tatiana Barnett](https://open.spotify.com/artist/6Bn6E8yuXSJHpNEckXX7hi) | [Lay It Down](https://open.spotify.com/album/5ZWAK4lNzR53kossI3igfd) | 4:21 | 2022-02-18 | 2022-05-07 |
 | [Lead Me On \- Live](https://open.spotify.com/track/1BqBJvGZn8G7buagrQfmJP) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 7:41 | 2024-11-08 | 2026-02-14 |
+| [LEPER'S SONG](https://open.spotify.com/track/0C8vIv1S8WiFnQz9yLvqJT) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [LEPER'S SONG](https://open.spotify.com/album/6HInbqJya1khkvG5XbqBOk) | 3:56 | 2026-05-22 |  |
 | [Let God In \- Radio Edit](https://open.spotify.com/track/1DAJ0tC7d0wsIMA4atKkJC) | [Yemohni Jones](https://open.spotify.com/artist/2CJ0ek3LrVe8hyh0w1Zblg) | [Let God In \(Radio Edit\)](https://open.spotify.com/album/54sNt8MUvMaIBp3lfGfHMS) | 4:04 | 2023-01-06 | 2023-04-01 |
 | [Let Him In](https://open.spotify.com/track/00JwSM2j1iwqba0cEZUJNu) | [JOKIA](https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E) | [Let Him In](https://open.spotify.com/album/7vsjLmKmDaM5d6X6jk8Mtc) | 3:39 | 2022-02-18 | 2022-05-07 |
 | [Let Me Be Me](https://open.spotify.com/track/2juISx1af4lCrnMLW74UTa) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL) | [Let Me Be Me](https://open.spotify.com/album/6vc5Pz9bZct6fmjXIAtjzs) | 5:10 | 2022-05-06 | 2022-06-11 |
@@ -609,7 +610,7 @@
 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 | 2023-02-03 | 2023-04-22 |
 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 | 2022-10-07 | 2023-10-07 |
 | [So Good To Me \(HALLELUJAH!\)](https://open.spotify.com/track/2nbNrq7DcQad5jb1otsM3s) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Lawrence Kirby](https://open.spotify.com/artist/0E6wTE4ezhhV2wPMRhUVBF) | [So Good To Me \(HALLELUJAH!\)](https://open.spotify.com/album/6oQF7xLQ9DN3ybgaGIljaf) | 3:02 | 2024-05-10 | 2025-02-01 |
-| [So Much](https://open.spotify.com/track/6uqYWwJnvxaea90fGpnD5K) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [The Way](https://open.spotify.com/album/4WnUpf631dEc0KK4jXjK3y) | 6:46 | 2025-04-11 |  |
+| [So Much](https://open.spotify.com/track/6uqYWwJnvxaea90fGpnD5K) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [The Way](https://open.spotify.com/album/4WnUpf631dEc0KK4jXjK3y) | 6:46 | 2025-04-11 | 2026-05-23 |
 | [So What](https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 2:29 | 2024-07-12 | 2025-02-01 |
 | [Someday](https://open.spotify.com/track/2WS7AJ9C5YVvaBRP9VFdDc) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Gospel Music Changed My Life](https://open.spotify.com/album/2Wzln30Vd0PbmmLawqof8u) | 4:02 | 2023-04-28 | 2024-06-08 |
 | [Somehow](https://open.spotify.com/track/5EHuOntxkgCVoAXk1sB6Y1) | [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce) | [Somehow](https://open.spotify.com/album/17hHQjNjLfWw63XlqCfnK6) | 3:10 | 2024-05-03 | 2024-11-16 |
@@ -626,6 +627,7 @@
 | [Spirit Of The Living God](https://open.spotify.com/track/0nVnZUBYq7vqXPjNLDMI7e) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ) | [Spirit Of The Living God](https://open.spotify.com/album/1zxISXYB6vb2yplY9cF4kd) | 5:06 | 2025-11-07 | 2025-12-06 |
 | [Stand Still](https://open.spotify.com/track/0jZkU2WcbamGJBkMpWiXpO) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Stand Still](https://open.spotify.com/album/4FQPsor267WU0vJ8CqLFg1) | 3:57 | 2022-02-18 | 2022-04-16 |
 | [Stands Forever](https://open.spotify.com/track/1pGgUQ7ObuYnBGb8pt98Zw) | [Jay Todd](https://open.spotify.com/artist/5MsEDRnwrD69LtmZuBtu3A) | [Stands Forever](https://open.spotify.com/album/3Jw3aajoTdAgoH6Oj8lH9h) | 6:31 | 2022-06-24 | 2023-04-01 |
+| [Stay Here](https://open.spotify.com/track/2S4HKddVaa6hK6jaLcAtDZ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [Briana](https://open.spotify.com/album/5PVBgsc821POgqQ1dBcQ8i) | 3:51 | 2026-05-22 |  |
 | [Stayed On Him \(Isaiah 26:3\)](https://open.spotify.com/track/3n6Y6eZ1PIq8DOBcQJHVkK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:59 | 2022-02-18 | 2022-05-07 |
 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\)](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 | 2025-08-29 | 2025-10-04 |
 | [Still \- Radio Edit](https://open.spotify.com/track/0Bj9HFDjVXc04PnbhBlELT) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(Radio Edit\)](https://open.spotify.com/album/3QcnKaATy0tOWjRr3Fs27I) | 3:20 | 2025-10-03 | 2026-02-21 |

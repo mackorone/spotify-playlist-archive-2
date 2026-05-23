@@ -4,26 +4,33 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,372 likes - 17 songs - 1 hr 5 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,375 likes - 24 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tocando](https://open.spotify.com/track/2G0DeZgrAU8b1HCsgvTqB0) | [Helado Tropical](https://open.spotify.com/artist/4pqutkxj0y0je4UpFFX8B9), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Tocando](https://open.spotify.com/album/5ZS8pCBcLUQcNJml8sR397) | 2:28 |
-| 2 | [Bad Song](https://open.spotify.com/track/6IGQGhNmckvVyruZDqaHdk) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Bad Song](https://open.spotify.com/album/6pe759sVJ3ZdKfAQaYCvcb) | 5:11 |
-| 3 | [Paradise Rains](https://open.spotify.com/track/7v8BK91W0rwEpxWckubE9C) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Paradise Rains](https://open.spotify.com/album/2XsZLXPI21Ct2bN9xVlnKZ) | 3:19 |
-| 4 | [Daydream Unbeliever](https://open.spotify.com/track/3ddg6NKjbWsQ5vdERLqVSc) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Daydream Unbeliever / More and More](https://open.spotify.com/album/33cOIfx7QyoXfQ1SbeQVDk) | 4:22 |
-| 5 | [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 |
-| 6 | [Blue Around You](https://open.spotify.com/track/7r97Xk8EGDq0nJWg2rBrH0) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Blue Around You](https://open.spotify.com/album/08YMKapsgqvqI1Plv7AUpR) | 3:44 |
-| 7 | [Watts Moon Starr](https://open.spotify.com/track/5tOeUaurNSeGRgPZdJ0MF7) | [Kelley Stoltz](https://open.spotify.com/artist/6NZ4NDGpMT4p82PCJh57Ec) | [Watts Moon Starr](https://open.spotify.com/album/2tB6CggDOFGJXsVifBTSRs) | 2:49 |
-| 8 | [Third Side of the Moon](https://open.spotify.com/track/6FejTj8qZ51DhKMHYSOG4K) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Third Side of the Moon](https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB) | 4:27 |
-| 9 | [Don't Worry](https://open.spotify.com/track/6sjK4lq86CHB0fmpc28kYc) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [More](https://open.spotify.com/album/6oCEAeL5fCmc7jawaM5GQm) | 3:35 |
-| 10 | [Soft Cover](https://open.spotify.com/track/4mOw9VUFVoDaY8TNdDUYgs) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Soft Cover](https://open.spotify.com/album/57CBXdrPtKXcQq73xYOf7H) | 4:22 |
-| 11 | [Ultramarine](https://open.spotify.com/track/443DL7oQzzE2nfNr9afocb) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Ultramarine](https://open.spotify.com/album/7Kw6btvDnHPBJDIDxMiPtC) | 4:24 |
-| 12 | [Song for a...](https://open.spotify.com/track/28Peuwft9Gj8AhHAI8z9qU) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [Song for a...](https://open.spotify.com/album/2AiqjmESpJkCJooLVW7Aio) | 2:41 |
-| 13 | [nobody knows](https://open.spotify.com/track/2l5Q8dqqdeHMdZoZO5QJcN) | [mmj](https://open.spotify.com/artist/2z3i4Tv6kGYHyLrfk6lVQp) | [nobody knows](https://open.spotify.com/album/2HlI7Zr0JSvwIpOIuJATno) | 3:58 |
-| 14 | [Long Distance Lover](https://open.spotify.com/track/22k6sWlvTcXWkLcOgowhzL) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Long Distance Lover](https://open.spotify.com/album/4v7wrnv4j9370eG4O8SCdq) | 3:39 |
-| 15 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 |
-| 16 | [Arp12](https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Arp12](https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4) | 4:20 |
-| 17 | [Temporary Love](https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR) | [Paycheque](https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe) | [Temporary Love](https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh) | 3:59 |
+| 1 | [You You You](https://open.spotify.com/track/73iI786eHUeTO20CMObj6I) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [You You You](https://open.spotify.com/album/7mZF4cQ5x9ehIydxJPmdTn) | 5:30 |
+| 2 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
+| 3 | [Makeover](https://open.spotify.com/track/5jnYMwh1KAQrCyc6woj861) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Hold Onto Me Infinity](https://open.spotify.com/album/0rqMll4qDYKLlnYvqLPi4e) | 4:24 |
+| 4 | [Shooting Shadows](https://open.spotify.com/track/5ECMARBz2SDvN9Fb9fFaPw) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Shooting Shadows](https://open.spotify.com/album/6B2NjoUOLNGZ462oydPr8l) | 2:45 |
+| 5 | [New Muscles](https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [New Muscles](https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J) | 3:54 |
+| 6 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
+| 7 | [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 |
+| 8 | [Blowin' Up](https://open.spotify.com/track/3e4D5pOlmYbXIAso384L40) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/5IzNVQjOCqKQmOGOgvo1ag) | 3:25 |
+| 9 | [Hard Drive, Ontario](https://open.spotify.com/track/5KFssniJQFl4QPMgGeAro5) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/5IzNVQjOCqKQmOGOgvo1ag) | 4:23 |
+| 10 | [Let The Music Play](https://open.spotify.com/track/5cKhYiSB2VK4HQQ0xDGivn) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [388](https://open.spotify.com/album/7edG5yOWTvv6lVhB0NNlt6) | 3:31 |
+| 11 | [Comfort](https://open.spotify.com/track/6aHhOVVn31IOafWePtXcjM) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Comfort](https://open.spotify.com/album/5g8UGBl7Ih4taBICgmm5rL) | 5:35 |
+| 12 | [Kiss the City](https://open.spotify.com/track/5dnzYZszkPSf3DzHBGNLX9) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Kiss the City](https://open.spotify.com/album/4g9NdsWE7B9TrMuoO7cKSS) | 3:08 |
+| 13 | [Raincoat](https://open.spotify.com/track/5IH8ooWgqSWpLlAtx8DLKj) | [Widemouth](https://open.spotify.com/artist/7qYh2ZaHrTGx84UZEKFI4N) | [Raincoat](https://open.spotify.com/album/5EArTG8Acr4ZZA0AHFc9zf) | 3:06 |
+| 14 | [Cellophane](https://open.spotify.com/track/21Z0wBcGzpYfApwvtExhcx) | [Index](https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu) | [Cellophane](https://open.spotify.com/album/5NjU1LudG88gDcZu812oYZ) | 3:31 |
+| 15 | [Blue Wave](https://open.spotify.com/track/2Wd2v2wRLVvnkLeomMddaT) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [Blue Wave](https://open.spotify.com/album/4FTudQiosj8AFX72pFPeks) | 4:21 |
+| 16 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Kick Stones \(The Boys\)](https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx) | 3:56 |
+| 17 | [Sins of the Father \(From "Is God Is"\)](https://open.spotify.com/track/3tJIvWsiXdE0w6R8srMqx3) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Sins of the Father \(From "Is God Is"\)](https://open.spotify.com/album/67bPjQnDFPDf25kc65delu) | 3:20 |
+| 18 | [P Stands For Paddy](https://open.spotify.com/track/3wKUwnbRYE7ICHjAOmXdSO) | [Absolute Lilt](https://open.spotify.com/artist/60MiiZtr1mNeY5bp3Etait) | [P Stands For Paddy](https://open.spotify.com/album/0EMzvriMuuSSFlCxB29jw4) | 3:29 |
+| 19 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 |
+| 20 | [Negative Outlook](https://open.spotify.com/track/7zDxTahtvelpyetgYanOcT) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Forever](https://open.spotify.com/album/6CADceleZB7Ap68gWZHvb0) | 2:48 |
+| 21 | [HOLD THEM TO IT](https://open.spotify.com/track/1TnMBT6BMIzmYBtgWMSR5l) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [HOLD THEM TO IT](https://open.spotify.com/album/4rqgVXbzrGzv1rZq0gbxoH) | 5:29 |
+| 22 | [The Big One](https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6) | 3:38 |
+| 23 | [My Life In England Pt\. 1](https://open.spotify.com/track/5JdIm13mKk3zRGQrKGwMqd) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [My Life In England Pt\. 1](https://open.spotify.com/album/26do2wrbSl6DIHdjPqYk0r) | 5:06 |
+| 24 | [Obrigado](https://open.spotify.com/track/4EeirGvG8vgAd77tsDMNWn) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe) | 9:53 |
 
-Snapshot ID: `AAAYSMtkWHnxVShhOG7BHhRZHNEBAV1I`
+Snapshot ID: `AAAYSgCY5VMEupAic0JcIVG8CgyPFoLZ`

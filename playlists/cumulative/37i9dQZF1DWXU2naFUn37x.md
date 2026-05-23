@@ -4,7 +4,7 @@
 
 > Artie in cover della playlist dello street rap italiano ⛓️
 
-1,067 songs - 2 day 0 hr 26 min
+1,067 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,7 +979,6 @@
 | [TOWN](https://open.spotify.com/track/3fQyOBCQBj3gZfc9Q4e5P1) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [TOWN](https://open.spotify.com/album/5Q9ojCQVaArWuoFcWGHlqF) | 2:47 | 2024-03-21 | 2024-05-03 |
 | [Towro Industria](https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria](https://open.spotify.com/album/1QV1q7sKhU756R4S4maDMu) | 2:34 | 2022-05-11 | 2022-05-13 |
 | [Towro Industria 2](https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria 2](https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN) | 3:29 | 2023-04-06 | 2023-04-21 |
-| [Track 2](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 0:00 | 2026-05-21 |  |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-29 | 2023-09-27 |
 | [TRAPHOUSE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q) | 2:32 | 2023-04-27 | 2023-05-19 |
 | [Trappala](https://open.spotify.com/track/41A3UzjnfsiDSuhZ4dhMtw) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 2:37 | 2025-10-30 | 2025-12-05 |
@@ -1020,6 +1019,7 @@
 | [VERO TONY VERO SOSA](https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 | 2024-03-14 | 2024-05-24 |
 | [Vestiti da Rapper \(feat\. Guè\)](https://open.spotify.com/track/4JZ0yTdBeWP4RGQKv0JDCN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:44 | 2024-03-28 | 2024-06-28 |
 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 | 2026-04-02 |  |
+| [Victoria](https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Chic Nisello 2](https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5) | 2:48 | 2026-05-21 |  |
 | [Victoria \(feat\. Artie 5ive\)](https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:48 | 2023-08-21 | 2024-01-12 |
 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 | 2023-06-15 | 2023-12-01 |
 | [VIENI DALLA BADDIE \- interlude](https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VIENI DALLA BADDIE \(interlude\)](https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib) | 1:33 | 2024-04-18 | 2024-06-28 |

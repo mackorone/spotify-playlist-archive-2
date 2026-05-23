@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Ana Laura Lopes
 
-929 songs - 1 day 22 hr 27 min
+930 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [SUDAMÉRICA](https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [ROLIDEI](https://open.spotify.com/album/4RMCtuuCtPCxRHJCNuOEtT) | 3:08 | 2026-04-10 |  |
 | [Sumido](https://open.spotify.com/track/1lalcRBPVD5XJT1lQHcgoE) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Vitória](https://open.spotify.com/album/3xL7lEKuL1icXn7LjVudx0) | 3:09 | 2024-10-11 | 2024-11-09 |
 | [Sustentar](https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi), [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [Sustentar](https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF) | 2:27 | 2023-07-28 | 2023-09-30 |
+| [São Paulo É uma Mãe](https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [São Paulo É uma Mãe](https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB) | 2:11 | 2026-05-22 |  |
 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 | 2025-02-14 | 2026-01-31 |
 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2025-09-02 |
 | [Só Pra Te Falar](https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Só Pra Te Falar](https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK) | 2:41 | 2022-11-18 | 2023-01-28 |
@@ -860,7 +861,7 @@
 | [Tô te olhando](https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Tô te olhando](https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z) | 2:30 | 2023-09-15 | 2024-03-09 |
 | [Um Brinde A Vida](https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [Um Brinde A Vida](https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3) | 3:02 | 2023-09-01 | 2023-11-11 |
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-11-24 | 2024-04-10 |
-| [um dia tudo acaba](https://open.spotify.com/track/1ER2UcRQEIxghQsAcmd9bP) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Um Dia Tudo Acaba](https://open.spotify.com/album/5N1U8kZurTZaFdf5comnhb) | 3:12 | 2026-05-01 |  |
+| [um dia tudo acaba](https://open.spotify.com/track/1ER2UcRQEIxghQsAcmd9bP) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Um Dia Tudo Acaba](https://open.spotify.com/album/5N1U8kZurTZaFdf5comnhb) | 3:12 | 2026-05-01 | 2026-05-23 |
 | [Um Doce, Uma Flor](https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Um Doce, Uma Flor](https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL) | 2:25 | 2025-06-27 |  |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2022-05-13 | 2022-10-11 |
 | [Um pouco mais](https://open.spotify.com/track/61kXefXv98st5IDfzKWDQx) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [Um pouco mais](https://open.spotify.com/album/4agM9MbPpssU0zcJCf5jXs) | 2:07 | 2024-08-16 | 2024-11-16 |

@@ -26403,6 +26403,24 @@
     },
     {
       "album": {
+        "name": "Chic Nisello 2",
+        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "Carillon",
+      "url": "https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi"
+    },
+    {
+      "album": {
         "name": "playlist para el \u00faltimo vuelo",
         "url": "https://open.spotify.com/album/61qY5uFg2X8grGErjeJQSx"
       },
@@ -132967,6 +132985,24 @@
     },
     {
       "album": {
+        "name": "Splinter Cell",
+        "url": "https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Splinter Cell",
+      "url": "https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK"
+    },
+    {
+      "album": {
         "name": "Splurgin",
         "url": "https://open.spotify.com/album/107gr1rcqQ2pJyNbIwlm6V"
       },
@@ -133244,7 +133280,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145459,
-      "name": "STA T**** MI GUARDA",
+      "name": "STA T**** MI MANCA",
       "url": "https://open.spotify.com/track/2yto71cyV3FiGUvLYLikSP"
     },
     {
@@ -141573,42 +141609,6 @@
     },
     {
       "album": {
-        "name": "Chic Nisello 2",
-        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
-    },
-    {
-      "album": {
-        "name": "Chic Nisello 2",
-        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4fXtMPlE9PCDjFKg9xneWi"
-    },
-    {
-      "album": {
         "name": "Trafficant",
         "url": "https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7"
       },
@@ -148744,6 +148744,28 @@
       "duration_ms": 159318,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX"
+    },
+    {
+      "album": {
+        "name": "Chic Nisello 2",
+        "url": "https://open.spotify.com/album/62lH4sGjAggnHKh6kN4JV5"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
     },
     {
       "album": {

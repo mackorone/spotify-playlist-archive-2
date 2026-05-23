@@ -1,13 +1,189 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7983,
+  "num_followers": 7984,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPIjQxHoxgpsTmuqOgSi2jP9z63Ddw",
+  "snapshot_id": "AAAPN1TNGHBoJ4dSft87vDkG+M/SQ6ce",
   "tracks": [
+    {
+      "added_at": "2026-05-22 08:02:06",
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/0a3jkaF5j3200xysahBGiE"
+      },
+      "artists": [
+        {
+          "name": "John Monkman",
+          "url": "https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f"
+        }
+      ],
+      "duration_ms": 247193,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/6hmZIlkn18WhOdpUDZSVtD"
+    },
+    {
+      "added_at": "2026-05-22 08:06:30",
+      "album": {
+        "name": "Urwald",
+        "url": "https://open.spotify.com/album/1e7t4Sap3zQPnPSp6Ltu2o"
+      },
+      "artists": [
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        }
+      ],
+      "duration_ms": 440145,
+      "name": "Urwald",
+      "url": "https://open.spotify.com/track/6VH4ZtN0INoA2n5tMJXzqT"
+    },
+    {
+      "added_at": "2026-05-22 08:04:05",
+      "album": {
+        "name": "Planetary People",
+        "url": "https://open.spotify.com/album/68hjodhi4prwS2Az9eJ1ya"
+      },
+      "artists": [
+        {
+          "name": "Planetary Assault Systems",
+          "url": "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
+        }
+      ],
+      "duration_ms": 366592,
+      "name": "Retina Burn",
+      "url": "https://open.spotify.com/track/79vvs99IA3ujCq4mMqxsEC"
+    },
+    {
+      "added_at": "2026-05-22 10:15:45",
+      "album": {
+        "name": "Three Phase",
+        "url": "https://open.spotify.com/album/7eT61FAdaYvBUaTm3BGACG"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Lane",
+          "url": "https://open.spotify.com/artist/5Dqao2Fv0VVUaPE2gnQQmh"
+        }
+      ],
+      "duration_ms": 359007,
+      "name": "L2",
+      "url": "https://open.spotify.com/track/0DCV1q4FCEjAVoixneY3Y7"
+    },
+    {
+      "added_at": "2026-05-22 10:18:35",
+      "album": {
+        "name": "The Human Scientific Vessel",
+        "url": "https://open.spotify.com/album/6kDBvwcqcuJkrpLbn5uzKZ"
+      },
+      "artists": [
+        {
+          "name": "Zeta Reticula",
+          "url": "https://open.spotify.com/artist/79g45NRpVmRk2oF76VyruN"
+        }
+      ],
+      "duration_ms": 378416,
+      "name": "Yellow Dwarfs",
+      "url": "https://open.spotify.com/track/5lJnt2mzpMOPXwi2KtamyP"
+    },
+    {
+      "added_at": "2026-05-22 08:07:20",
+      "album": {
+        "name": "SLIMSUN EP",
+        "url": "https://open.spotify.com/album/6XSubMpH4X5HPDp4H8zQYk"
+      },
+      "artists": [
+        {
+          "name": "Mike Dehnert",
+          "url": "https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4"
+        }
+      ],
+      "duration_ms": 373085,
+      "name": "Primband",
+      "url": "https://open.spotify.com/track/5BOigFK9kRf40fbV7W1suM"
+    },
+    {
+      "added_at": "2026-05-22 08:04:35",
+      "album": {
+        "name": "Personal Rock",
+        "url": "https://open.spotify.com/album/6mli4NYFfaKhr4J12Xxjtg"
+      },
+      "artists": [
+        {
+          "name": "Gramm",
+          "url": "https://open.spotify.com/artist/7rJ3Myc4crprUmH9vfOzLY"
+        }
+      ],
+      "duration_ms": 383000,
+      "name": "Legends / Nugroove TM",
+      "url": "https://open.spotify.com/track/0FZf8jL1nRQEVlkzS85uZb"
+    },
+    {
+      "added_at": "2026-05-22 08:05:12",
+      "album": {
+        "name": "Sustained",
+        "url": "https://open.spotify.com/album/6lsMqvKS3W28eyhN12sNFa"
+      },
+      "artists": [
+        {
+          "name": "Jungst\u00f6tter",
+          "url": "https://open.spotify.com/artist/5SZDvUjUgJk2EFEPxaL3oP"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Overturn",
+      "url": "https://open.spotify.com/track/56uoFmilkzm5jYPsIUopOZ"
+    },
+    {
+      "added_at": "2026-05-22 08:05:50",
+      "album": {
+        "name": "M\u00e9taphysique Du Hit-Parade",
+        "url": "https://open.spotify.com/album/6KwMNeQm5o4X7yroCcD4aQ"
+      },
+      "artists": [
+        {
+          "name": "Pascal Comelade",
+          "url": "https://open.spotify.com/artist/1S8bX9opXYLkPIp7WPhySa"
+        }
+      ],
+      "duration_ms": 62000,
+      "name": "Egyptian Reggae",
+      "url": "https://open.spotify.com/track/0s1VriJCALwcVQ8jJ3EaRw"
+    },
+    {
+      "added_at": "2026-05-22 08:07:01",
+      "album": {
+        "name": "Get Closer",
+        "url": "https://open.spotify.com/album/7Ml11hhi8fe7rxGzNGO7v9"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "Get Closer",
+      "url": "https://open.spotify.com/track/4MEadO3tY6PM6jksMMMkYY"
+    },
+    {
+      "added_at": "2026-05-22 08:06:49",
+      "album": {
+        "name": "Return 2 Dust EP",
+        "url": "https://open.spotify.com/album/4SRSEbxJhsZMapYEpEwjpR"
+      },
+      "artists": [
+        {
+          "name": "Dust-e-1",
+          "url": "https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu"
+        }
+      ],
+      "duration_ms": 435692,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/7KbaDxrJ7rSmjzvaolmjm0"
+    },
     {
       "added_at": "2026-05-08 11:58:08",
       "album": {
@@ -39,22 +215,6 @@
       "duration_ms": 457775,
       "name": "Moonster",
       "url": "https://open.spotify.com/track/2rc81o95ISDAyg1ZWoxwZ4"
-    },
-    {
-      "added_at": "2026-05-08 11:58:42",
-      "album": {
-        "name": "Retina Burn",
-        "url": "https://open.spotify.com/album/2DjSdDP7oihrrE3wJBpKBF"
-      },
-      "artists": [
-        {
-          "name": "Planetary Assault Systems",
-          "url": "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
-        }
-      ],
-      "duration_ms": 366592,
-      "name": "Retina Burn",
-      "url": "https://open.spotify.com/track/2m4DJhDxpg9eEe7YpCE77c"
     },
     {
       "added_at": "2026-05-08 11:59:10",

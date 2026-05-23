@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,316 songs - 5 day 16 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,327 songs - 5 day 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2324,5 +2324,16 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2314 | [Fire on the Black Flags](https://open.spotify.com/track/2BZvjrW4tUWtkdMzSgS6Ua) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:49 |
 | 2315 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 |
 | 2316 | [This Is House \- Big Reunion Remix Edit](https://open.spotify.com/track/7IIv3pmbQLsPyd8R9Hr2Ms) | [Tin Tarantino](https://open.spotify.com/artist/6673KtaY9I3Et5rj9ecw2x), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [This Is House \(Big Reunion Remix\)](https://open.spotify.com/album/3CsoKhFiHbZ7YZm48kwlXP) | 2:08 |
+| 2317 | [Travelmate](https://open.spotify.com/track/0Mh6iLcMzLNIxfSX84WAiw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Travelmate](https://open.spotify.com/album/47kxoZjpnJHmVk6W72fGse) | 3:38 |
+| 2318 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 |
+| 2319 | [ALL ALONE](https://open.spotify.com/track/2UAxdjDnHDLvslaKR0zV6Y) | [Tristan](https://open.spotify.com/artist/5bSt94yD0HXB48H7DPHt9q) | [TRISTAN](https://open.spotify.com/album/0gHpsUXvvDpHFnI4rhRGIA) | 3:21 |
+| 2320 | [Goo Goo Gaga](https://open.spotify.com/track/0am0vWs8IH4VqFZy2s4Pfs) | [Benjamin Templar](https://open.spotify.com/artist/3rmgpHJQDffxXIboT46It7) | [Goo Goo Gaga](https://open.spotify.com/album/2e0uwXwZAXZQOFOTTxZJTW) | 1:37 |
+| 2321 | [Dreaming Again \(Here Comes The Summer\)](https://open.spotify.com/track/6o52QaW1UKPiGYZMHSNQcp) | [Jack Rush](https://open.spotify.com/artist/3XDqgBWAcvngQElHsP2rKX) | [Dreaming Again \(Here Comes The Summer\)](https://open.spotify.com/album/45oOvvTselXLgyp8a4qAkb) | 3:43 |
+| 2322 | [Loop Me In Your Memory](https://open.spotify.com/track/60zGgF3bdBIe3wuGsz7F2R) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:46 |
+| 2323 | [Kids On Fast\-Forward](https://open.spotify.com/track/0jMY3G8clCjyx96tkQX1yC) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:41 |
+| 2324 | [Out Of Place On Purpose](https://open.spotify.com/track/3HWz0mjtMOOk3B5xU4PsCQ) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 4:21 |
+| 2325 | [soft static summer](https://open.spotify.com/track/5PKJun6W17mqA9mAvoVwj0) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:59 |
+| 2326 | [Found your sweater](https://open.spotify.com/track/30HOGtAhNFUqfjx8qHhaZl) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:58 |
+| 2327 | [Atame \(Bluesman\)](https://open.spotify.com/track/4qw6a5YJHCJ5pviZHTzouF) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 2:33 |
 
-Snapshot ID: `AAAJuGjSQCQ6S5l/fT6Yz+VgMyptESDS`
+Snapshot ID: `AAAJvwJbD/U3AdinqX/mw75NOwx8Ns93`

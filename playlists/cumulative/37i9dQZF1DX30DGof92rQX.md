@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sheheryar Rehan
 
-516 songs - 1 day 3 hr 39 min
+517 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Heeriye](https://open.spotify.com/track/2YMb43SJMapRkI4csygZDY) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Heeriye](https://open.spotify.com/album/6J1Az4Bsh1FFLGQve1b9Ay) | 2:46 | 2025-10-03 | 2025-12-13 |
 | [High On You](https://open.spotify.com/track/4lPbWfuz7suz1wXRqG4f9I) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Ammar Khaled](https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et) | [High On You](https://open.spotify.com/album/1bjoz2yfDA18e8lcJVsRO7) | 2:26 | 2025-02-14 | 2025-05-31 |
 | [Holoyor \(feat\. Sherry Khattak\)](https://open.spotify.com/track/5UHwUAoOyE8S0zEuca2EBp) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Naveed Deevon](https://open.spotify.com/artist/4f5bivm9DnhRvOLqMWKtQ9), [Gojal Twins](https://open.spotify.com/artist/0fBSjQHjx2LysrtNnYpwMd), [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Holoyor \(feat\. Sherry Khattak\)](https://open.spotify.com/album/67agZ8nMtUH2YboHhmuktg) | 7:12 | 2026-05-08 |  |
+| [Hona Wohi Hai](https://open.spotify.com/track/3dgtKDaHJ3TWDlaGqJcvtB) | [Third Fret](https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Hona Wohi Hai](https://open.spotify.com/album/0yvCUenUQBs5jIQC89Nqjm) | 2:53 | 2026-05-22 |  |
 | [Hoor](https://open.spotify.com/track/5BYYkRatTk3RiIkEAHxRyi) | [Qasim Virk](https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX) | [Hoor](https://open.spotify.com/album/05N8fK1tvOOSOUA8owy9n7) | 2:55 | 2026-03-20 | 2026-03-28 |
 | [Hoor](https://open.spotify.com/track/09tcpqekQgXb87ETaAijXf) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/2TJkGp4JyFDLCE49DLsKvL) | 3:30 | 2025-05-30 | 2025-10-18 |
 | [Hopeless](https://open.spotify.com/track/1Uv0J1t3syWBWi0LZ1JH1D) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Hopeless](https://open.spotify.com/album/3y4IlGTkkK2rK9qrTr5gdI) | 3:51 | 2024-06-28 | 2025-01-17 |

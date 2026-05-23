@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de DFZM y Blessd.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Cachirula, LOOJAN y Martinwhite.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -6129,6 +6129,28 @@
     },
     {
       "album": {
+        "name": "COMBI COMPLETA",
+        "url": "https://open.spotify.com/album/4RFEkwT3HHXy0YV5knLKAr"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168052,
+      "name": "COMBI COMPLETA",
+      "url": "https://open.spotify.com/track/0u6dxoJ20nzArhetm4WUFX"
+    },
+    {
+      "album": {
         "name": "Comernos",
         "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
       },
@@ -10796,7 +10818,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188307,
       "name": "Exmaquina",
       "url": "https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV"
@@ -13958,7 +13980,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 202105,
       "name": "La Costa",
       "url": "https://open.spotify.com/track/5lTGwso40z732jsPfpuZkU"
@@ -21217,6 +21239,36 @@
     },
     {
       "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Otra Cosa",
+      "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
+    },
+    {
+      "album": {
         "name": "OTRA NOCHE",
         "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
       },
@@ -22680,7 +22732,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188636,
       "name": "PERREO LLORANDO",
       "url": "https://open.spotify.com/track/44n0bJGRKc0aaKsYXZGq06"
@@ -24868,6 +24920,28 @@
       "duration_ms": 171134,
       "name": "Sabor A Miel",
       "url": "https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE"
+    },
+    {
+      "album": {
+        "name": "SAD",
+        "url": "https://open.spotify.com/album/27z4hbnoFirQ1oXcIvcHTN"
+      },
+      "artists": [
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SAD",
+      "url": "https://open.spotify.com/track/40CVx7XqUaZAjTAgG8r6SV"
     },
     {
       "album": {

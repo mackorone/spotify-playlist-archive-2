@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-763 songs - 1 day 14 hr 22 min
+764 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Hearts Collide](https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg) | [leisse](https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs) | [Hearts Collide](https://open.spotify.com/album/2JvqQZD4tzk18z9xIwtj6O) | 1:58 | 2022-07-22 | 2025-06-11 |
 | [Heatwave \(feat\. Akon\) \- HUGEL Remix](https://open.spotify.com/track/1Rev0uexcpMr1ERkucbXnT) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Heatwave \(feat\. Akon\) \[The Remixes\]](https://open.spotify.com/album/6XsHmvUXIKt2pbKfHclwYU) | 3:52 | 2022-01-14 | 2022-09-26 |
 | [Heaven](https://open.spotify.com/track/3sFCrYlKCEnrTRfXEafPai) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Heaven](https://open.spotify.com/album/2sY7BFQFLbJZmQSAZhvOgB) | 2:57 | 2022-01-14 | 2024-06-01 |
+| [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 | 2026-05-22 |  |
 | [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-22 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3xSk2fq9Fo8iFt6VeHcxCA) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [Little Venice](https://open.spotify.com/artist/3CO23gK5THkoucYiRmPMAo), [Lesley Rains](https://open.spotify.com/artist/4N3lWor0nvoakWuvOugOU4) | [Hey, Soul Sister](https://open.spotify.com/album/66cMm7Bg1zcV8XgVEIQRmA) | 2:45 | 2026-03-20 |  |
 | [High And Low](https://open.spotify.com/track/4PwXNVqkIM8KBuEgYFqDiE) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:39 | 2022-01-14 | 2022-04-20 |
@@ -620,7 +621,7 @@
 | [Stick Together](https://open.spotify.com/track/2O2eG4ydk3x5gKOZN0XDXp) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Stick Together](https://open.spotify.com/album/3spz9fyI2iLi6rgliW6tTG) | 3:03 | 2023-05-12 | 2023-11-07 |
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-02-18 | 2022-04-09 |
 | [Stop Us Now](https://open.spotify.com/track/407OgfKRnLOrbepgBqwlRO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/6QiaLv2HcP28eMM5lkmfyg) | 2:13 | 2023-03-10 | 2024-04-19 |
-| [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 | 2026-03-20 |  |
+| [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 | 2026-03-20 | 2026-05-23 |
 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 | 2022-06-17 |  |
 | [Stuck In The Rain](https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Stuck In The Rain](https://open.spotify.com/album/7ab7Ci7GlsYDHYwFlPzdEA) | 2:49 | 2024-07-19 | 2025-04-09 |
 | [Stuck On You](https://open.spotify.com/track/6HdURgU5JoS6IbMrTCC3QM) | [On June](https://open.spotify.com/artist/4B5rYujqJxWucM0JyYsaFn) | [Stuck On You](https://open.spotify.com/album/4NfeEcNunybQTtvxVT8TwT) | 3:32 | 2022-01-14 | 2022-04-21 |

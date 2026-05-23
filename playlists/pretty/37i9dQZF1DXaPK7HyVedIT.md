@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: GIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,811 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,890 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 11 | [See\-Line Woman \- Mochakk Mix](https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [See\-Line Woman \(Mochakk Mix\)](https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV) | 4:48 |
 | 12 | [Cuba Libre](https://open.spotify.com/track/4QSoifvNrnkZpY2Qo5Ej3a) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Cuba Libre](https://open.spotify.com/album/3bB0PDAKyNX0kk632ZD6mU) | 3:18 |
 | 13 | [Tussy](https://open.spotify.com/track/1EfOxdqEUahIOapO5AqRnt) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Tussy](https://open.spotify.com/album/5yEhx4Q57OolFEFOyKga6G) | 3:35 |
-| 14 | [Track 1](https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Rise Together EP](https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD) | 0:00 |
+| 14 | [Rise Together](https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Rise Together EP](https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD) | 3:02 |
 | 15 | [Silence](https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Silence](https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG) | 6:05 |
 | 16 | [Mind Alert](https://open.spotify.com/track/69mO0n022H0cggGm85wYZw) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW) | [Mind Alert](https://open.spotify.com/album/1tnktXAiKSuqIFK6YNPOch) | 3:18 |
 | 17 | [Midnight Groove](https://open.spotify.com/track/2StsqxlW7tXeeKEjBBTust) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Nadin](https://open.spotify.com/artist/4sgVJb7jlCE51EaPmdyfiv) | [Midnight Groove](https://open.spotify.com/album/5n5JEUVqvnU6DH9XxOxfER) | 2:42 |

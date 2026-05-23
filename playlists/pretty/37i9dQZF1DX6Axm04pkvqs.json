@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 77025,
+  "num_followers": 77088,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Jesus Christ is seen",
-        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "Jesus Christ is seen",
-      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 468360,
       "name": "The Call (Chants)",
       "url": "https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Jesus Christ is seen",
+        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "Jesus Christ is seen",
+      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Chants of Ascension",
-        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA BANJO",
-          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
-        }
-      ],
-      "duration_ms": 570070,
-      "name": "Chants of Ascension",
-      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 444255,
       "name": "Sound of Revival",
       "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Chants of Ascension",
+        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA BANJO",
+          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
+        }
+      ],
+      "duration_ms": 570070,
+      "name": "Chants of Ascension",
+      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Withholding Nothing",
-        "url": "https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 325253,
-      "name": "My Heart Sings",
-      "url": "https://open.spotify.com/track/5splIOrU4UvxMrOYvMQGw0"
-    },
-    {
       "added_at": "2025-10-17 00:01:26",
       "album": {
         "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
@@ -479,6 +463,22 @@
       "duration_ms": 595916,
       "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
       "url": "https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Withholding Nothing",
+        "url": "https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 325253,
+      "name": "My Heart Sings",
+      "url": "https://open.spotify.com/track/5splIOrU4UvxMrOYvMQGw0"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "In His Presence, Vol. 2",
+        "url": "https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "duration_ms": 527200,
+      "name": "There Is a Place",
+      "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Adua Ke (Cover)",
         "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 300816,
       "name": "Adua Ke (Cover)",
       "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "In His Presence, Vol. 2",
-        "url": "https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP"
-      },
-      "artists": [
-        {
-          "name": "Dr Paul Enenche",
-          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
-        }
-      ],
-      "duration_ms": 527200,
-      "name": "There Is a Place",
-      "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0yVKmHilBXbDZgC3dT7zy5"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Secret Place (Live)",
-        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 385537,
-      "name": "Adullam (Live)",
-      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
-    },
-    {
       "added_at": "2025-08-29 00:01:17",
       "album": {
         "name": "Joy Chant",
@@ -811,6 +795,22 @@
       "duration_ms": 531724,
       "name": "Joy Chant",
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Secret Place (Live)",
+        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 385537,
+      "name": "Adullam (Live)",
+      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "There Is Prophecy over Me",
-        "url": "https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 800000,
-      "name": "There Is Prophecy over Me",
-      "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"
+      "duration_ms": 801576,
+      "name": "Ghana Chant",
+      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+        "name": "There Is Prophecy over Me",
+        "url": "https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH"
       },
       "artists": [
         {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
         }
       ],
-      "duration_ms": 801576,
-      "name": "Ghana Chant",
-      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
+      "duration_ms": 800000,
+      "name": "There Is Prophecy over Me",
+      "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Walk (Live)",
-        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 348473,
-      "name": "Holy Fire (Live)",
-      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "The Walk (Live)",
+        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 348473,
+      "name": "Holy Fire (Live)",
+      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Kadosh",
         "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 1442088,
       "name": "Midnight Cry, Vol. 2",
       "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Take Over",
-        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 835128,
-      "name": "Take Over",
-      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 835128,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Strings of Glory (Prayer Chant)",
         "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Eternity in View",
-        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 214479,
-      "name": "Intensify",
-      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "The Gospel of the Kingdom",
         "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 691314,
       "name": "Ruach Hakodesh",
       "url": "https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Eternity in View",
+        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 214479,
+      "name": "Intensify",
+      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
     },
     {
       "added_at": "2024-07-26 00:01:00",

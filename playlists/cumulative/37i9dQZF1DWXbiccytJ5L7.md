@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-181 songs - 9 hr 30 min
+182 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [My Way](https://open.spotify.com/track/2ffKq4FMAknQKEdFLOmhG0) | [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [Desperado](https://open.spotify.com/album/6VR5bkzVTgxlXpsEo9uaYf) | 4:41 | 2023-03-17 |  |
 | [My Way \(feat Tyler Hubbard\)](https://open.spotify.com/track/3qppdX325WO677KrczGZrv) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [My Way](https://open.spotify.com/album/42rGSwtLPemPlWDWNWLKym) | 2:24 | 2023-03-17 |  |
 | [Never That](https://open.spotify.com/track/2j30qP3L1KxCsShuiRJrqz) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Never That](https://open.spotify.com/album/0Zm7fPy6VYKbwcx67wWCry) | 2:57 | 2024-07-12 | 2025-05-03 |
+| [No Grace](https://open.spotify.com/track/1I3XdwCXZ5kGyjlgNSixE5) | [cieratherapper](https://open.spotify.com/artist/7kFzZsHkdwMd3lUUy5K9RD) | [No Grace](https://open.spotify.com/album/51smM18qcJTQTe4cPQleCO) | 2:53 | 2026-05-22 |  |
 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-02-21 |  |
 | [Outback \(Extended Remix\)](https://open.spotify.com/track/1TCEkwRoCOeqLSj7IxYSd3) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Durwood Black](https://open.spotify.com/artist/4MUvRyLfPPLd35bnFTUjDz), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [D\. Thrash](https://open.spotify.com/artist/0xZDRONxKQoyG5S2HTbjj5), [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Blacked Out](https://open.spotify.com/album/3s3zL0GTPCOopTqv9laBQy) | 8:09 | 2023-04-21 | 2024-04-19 |
 | [Outback \(Extended Remix\)](https://open.spotify.com/track/5ycmDZVfvCFRIwALkTFwbb) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Durwood Black](https://open.spotify.com/artist/4MUvRyLfPPLd35bnFTUjDz), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [D\. Thrash](https://open.spotify.com/artist/0xZDRONxKQoyG5S2HTbjj5), [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Blacked Out](https://open.spotify.com/album/4F2ntJClTmxq4oP82MuMV2) | 8:09 | 2023-03-17 |  |

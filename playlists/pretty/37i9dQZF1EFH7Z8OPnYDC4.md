@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 339 songs - 19 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 339 songs - 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,8 +279,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 269 | [Ladies Of The Evening](https://open.spotify.com/track/0D1nTmTvJNpZBxvlObK0o5) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 2:50 |
 | 270 | [Danger Down Deep](https://open.spotify.com/track/2nODfvtMNFVidNKxAHpulq) | [RCA Symphony Orchestra](https://open.spotify.com/artist/3k5jXckGxVF5jvZ6wap7fh), [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Victory at Sea \(Highlights\)](https://open.spotify.com/album/5PU45HipLqx3wu7JxEqmQx) | 3:51 |
 | 271 | [My Man Is On The Make \- Harpies In Sheep's Clothing](https://open.spotify.com/track/1a2NHVSL4sp4nJcnFMbEyH) | [Ben Selvin & His Orchestra](https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6) | [Women With Attitude](https://open.spotify.com/album/4P91Hu1uk3OzKeRrD7bXd5) | 2:32 |
-| 272 | [Rings Around Rabaul](https://open.spotify.com/track/5JLkyHNTMuL6oPWwY0LU3f) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 6:26 |
-| 273 | [Mediterranean Mosaic](https://open.spotify.com/track/4u3mpD2zaagN2K46y5tPiH) | [RCA Symphony Orchestra](https://open.spotify.com/artist/3k5jXckGxVF5jvZ6wap7fh), [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Victory at Sea \(Highlights\)](https://open.spotify.com/album/5PU45HipLqx3wu7JxEqmQx) | 3:16 |
+| 272 | [Mediterranean Mosaic](https://open.spotify.com/track/4u3mpD2zaagN2K46y5tPiH) | [RCA Symphony Orchestra](https://open.spotify.com/artist/3k5jXckGxVF5jvZ6wap7fh), [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Victory at Sea \(Highlights\)](https://open.spotify.com/album/5PU45HipLqx3wu7JxEqmQx) | 3:16 |
+| 273 | [Rings Around Rabaul](https://open.spotify.com/track/5JLkyHNTMuL6oPWwY0LU3f) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 6:26 |
 | 274 | [Pal Joey \(Suite\): I'm Talking to My Pal](https://open.spotify.com/track/1vUrYPL6WlwQQn0XKrsZbK) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Mandy Patinkin](https://open.spotify.com/artist/5sEmwxBNJizU2RUfVNo6BC), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Mandy Patinkin: Dress Casual](https://open.spotify.com/album/5yy38edKcuedVgLHwB50BI) | 1:58 |
 | 275 | [Everybody Loves You \(I'd Rather Be Right\)](https://open.spotify.com/track/1LYVlppi7F7eBojIBZvJaC) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Rodgers & Hart: Songs from the Shows](https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY) | 4:02 |
 | 276 | [Finale Act I: Let Antipholus In](https://open.spotify.com/track/4xbnX1XzW1ITJLsHizGAEg) | [Malcolm Gets](https://open.spotify.com/artist/4j0BEjh7PckU3efYXd1wUG), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [The Boys From Syracuse: A Musical Comedy Sensation \(1997 Original New York Recording\)](https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp) | 2:48 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 338 | [I'd Rather Be Right \(Have You Met Miss Jones?\)](https://open.spotify.com/track/0GxbqdIRUy6803s8SUKXLi) | [Andreas Pettersson Band](https://open.spotify.com/artist/5BqzhNBsVOAEiX5bKrfZ5l) | [Joyrider](https://open.spotify.com/album/4cdYLbXag0kzTWQtdh7p0x) | 6:42 |
 | 339 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AcSHvAAAAACfzSq1eJkfWDzq4rZJPDAQ`
+Snapshot ID: `AcSNXAAAAACqbdEjFFGm4g5KkqUic0Pc`

@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1447347,
+  "num_followers": 1447261,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Nasci pra ser - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 175402,
+      "name": "Nasci pra ser - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "A Vida \u00e9 Um Freestyle",
         "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Nasci pra ser - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 175402,
-      "name": "Nasci pra ser - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -939,6 +939,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        },
+        {
+          "name": "Anderson Nem",
+          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Voltar pra Casa",
+      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Flexiona / Poder da Gest\u00e3o",
         "url": "https://open.spotify.com/album/3W0FANh8OHZbvqn4OynCIh"
       },
@@ -983,34 +1011,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        },
-        {
-          "name": "Anderson Nem",
-          "url": "https://open.spotify.com/artist/1XftCIaBOOZWO9Y5yUeAun"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Voltar pra Casa",
-      "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "BOLA DE MEIA.",
         "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
       },
@@ -1027,6 +1027,50 @@
       "duration_ms": 213995,
       "name": "BOLA DE MEIA.",
       "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "AQUI \u00c9 BRASIL",
+        "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Real Puto",
+          "url": "https://open.spotify.com/artist/60PxwENw4FITS4hdlc3P1g"
+        },
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
+          "name": "Daav",
+          "url": "https://open.spotify.com/artist/01xou3PuMTkXGidGEXBlHj"
+        },
+        {
+          "name": "Regufe",
+          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+        },
+        {
+          "name": "Prod.Plasti",
+          "url": "https://open.spotify.com/artist/6f83s9wRCCydX8FMwn4eQK"
+        }
+      ],
+      "duration_ms": 354461,
+      "name": "AQUI \u00c9 BRASIL",
+      "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1091,50 +1135,6 @@
       "duration_ms": 214128,
       "name": "Ela quer de 100",
       "url": "https://open.spotify.com/track/3MiVY2AKcWWNDfkd1cOgkA"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "AQUI \u00c9 BRASIL",
-        "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Scarp",
-          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Real Puto",
-          "url": "https://open.spotify.com/artist/60PxwENw4FITS4hdlc3P1g"
-        },
-        {
-          "name": "Boladin 211",
-          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "Daav",
-          "url": "https://open.spotify.com/artist/01xou3PuMTkXGidGEXBlHj"
-        },
-        {
-          "name": "Regufe",
-          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
-        },
-        {
-          "name": "Prod.Plasti",
-          "url": "https://open.spotify.com/artist/6f83s9wRCCydX8FMwn4eQK"
-        }
-      ],
-      "duration_ms": 354461,
-      "name": "AQUI \u00c9 BRASIL",
-      "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "2K26",
+        "url": "https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "2K26",
+      "url": "https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 162461,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "2K26",
-        "url": "https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "2K26",
-      "url": "https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Um Pouco Pensativo",
+        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "duration_ms": 139033,
+      "name": "Um Pouco Pensativo",
+      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Um Pouco Pensativo",
-        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
-        }
-      ],
-      "duration_ms": 139033,
-      "name": "Um Pouco Pensativo",
-      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1539,30 +1539,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Pacman de Panicat",
-        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+        "name": "N\u00f3is Ta Diferente",
+        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
       },
       "artists": [
         {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
         },
         {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
         }
       ],
-      "duration_ms": 251539,
-      "name": "Pacman de Panicat",
-      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
+      "duration_ms": 162317,
+      "name": "Na Onde N\u00f3is Mora",
+      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1587,18 +1587,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "N\u00f3is Ta Diferente",
-        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
       },
       "artists": [
         {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",

@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Patron
 
-998 songs - 1 day 20 hr 43 min
+999 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,6 +918,7 @@
 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 | 2023-01-10 | 2023-06-16 |
 | [Y](https://open.spotify.com/track/4H8ns1mp3witrdJGLrJXR6) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Y](https://open.spotify.com/album/0NYQA2oHL7whhCPf2ll7RK) | 2:27 | 2025-04-24 | 2025-10-31 |
 | [YAKALARSAN](https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [YAKALARSAN](https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP) | 1:56 | 2023-03-30 | 2023-12-15 |
+| [Yakuza](https://open.spotify.com/track/1FCKLkYcg3blfx5ntvJ4Lw) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Yakuza](https://open.spotify.com/album/3sqPCt9Mt2FJHzpIm9hGdW) | 2:38 | 2026-05-21 |  |
 | [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 | 2023-02-06 | 2023-06-30 |
 | [YALAN DÜNYA](https://open.spotify.com/track/3OZnr6bBuVXuTb0wdYrO7l) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [YALAN DÜNYA](https://open.spotify.com/album/0PriynWZ6AefjNoEAYplMw) | 3:17 | 2024-04-25 | 2024-05-10 |
 | [Yalan Dünya](https://open.spotify.com/track/5InKH2FsxzDsWhbRTGSKMd) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Uni\-Q](https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf) | [Yalan Dünya](https://open.spotify.com/album/1Tsuu4OU7mNeVI2L5kw1Vd) | 3:50 | 2025-11-06 | 2025-11-28 |

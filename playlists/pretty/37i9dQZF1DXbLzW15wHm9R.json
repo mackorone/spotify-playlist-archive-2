@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that stay with you long after the credits roll... Cover: The Devil Wears Prada 2",
-  "num_followers": 163677,
+  "num_followers": 163714,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHv2jizTqWMff9cch0IUCBzazUL1",
+  "snapshot_id": "AAAAADgFmNxNldNQvaE/VrWvMrslPelS",
   "tracks": [
     {
       "added_at": "2026-05-01 16:40:44",
@@ -111,6 +111,26 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-05-22 04:00:05",
+      "album": {
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": "2026-04-06 02:33:10",
@@ -795,22 +815,6 @@
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
-    },
-    {
-      "added_at": "2026-04-06 02:33:10",
-      "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
     },
     {
       "added_at": "2026-04-06 02:33:10",

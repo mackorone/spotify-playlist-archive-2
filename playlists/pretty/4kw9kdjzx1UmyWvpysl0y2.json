@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123923,
+  "num_followers": 123924,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVaI3ZwcceCefQaww03dP8J8k4H4zt",
+  "snapshot_id": "AAAVaZ9YSgYzab6UBEafu3Yv1DpKkpJU",
   "tracks": [
+    {
+      "added_at": "2026-05-22 15:42:34",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/18StJiwbTUOylOsh8J2nBt"
+    },
     {
       "added_at": "2026-05-21 13:09:06",
       "album": {

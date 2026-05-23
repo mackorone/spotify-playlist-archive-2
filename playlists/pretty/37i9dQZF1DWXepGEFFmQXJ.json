@@ -1,6 +1,6 @@
 {
   "description": "The cream of today's country crop. Cover: Koe Wetzel",
-  "num_followers": 431860,
+  "num_followers": 431887,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
       "duration_ms": 156318,
       "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
       "url": "https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l"
+    },
+    {
+      "added_at": "2026-05-21 14:00:17",
+      "album": {
+        "name": "Land",
+        "url": "https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
     },
     {
       "added_at": "2026-05-21 14:00:17",

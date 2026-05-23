@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,684 songs - 6 day 12 hr 27 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,686 songs - 6 day 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2692,5 +2692,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2682 | [Propensity](https://open.spotify.com/track/18Cl6qI1vHMUUrhv5pfDkQ) | [Zandyr](https://open.spotify.com/artist/0hKRlhijvE8WHCySSS92fE) | [Propensity](https://open.spotify.com/album/6ZKaCcYFVrDqeFTVIH2e4h) | 3:54 |
 | 2683 | [Hello Sunshine](https://open.spotify.com/track/1JtJ656UHbsmNYBMkqlPKU) | [Rain on Monday](https://open.spotify.com/artist/3WUdqOixoY5hkjvcAx2Cjp) | [Northern Memories](https://open.spotify.com/album/3GufxC0a1JzofHAJ4D46TY) | 3:55 |
 | 2684 | [Red Rose](https://open.spotify.com/track/4Z8U7coTzF2AcGpAfrMCOQ) | [Adina R](https://open.spotify.com/artist/20gyYigmFBuwiAW9VU0Z9P) | [Red Rose](https://open.spotify.com/album/23M8sNY7WUH4obb4JPeS4a) | 4:51 |
+| 2685 | [TIRED](https://open.spotify.com/track/46I6GgqCcnrSk2DiBRqvmZ) | [74DEN](https://open.spotify.com/artist/0a5Gjv3Kvy5VaFkD4xLIa3) | [TIRED](https://open.spotify.com/album/4cOafjG643Mo8kJKTxJ88T) | 2:14 |
+| 2686 | [Drop It Clear It](https://open.spotify.com/track/349iLKh4Cd1pUcsYjlfU3P) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE), [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW) | [Drop It Clear It](https://open.spotify.com/album/7orRCgcrwUm4NRj5QZbdcx) | 3:12 |
 
-Snapshot ID: `AAALFda2YvYenVgJsCcrofaSemXiXcZb`
+Snapshot ID: `AAALF25FgD9jqvmK5Sfv4JYdAJggjxjP`

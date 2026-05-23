@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "PH vibin' cover: Earl Generao",
+  "description": "PH vibin' cover: Jason Dhakal",
   "name": "Pinas Vibes ",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 194665,
       "name": "5050",
       "url": "https://open.spotify.com/track/50iElIXT7KIJDDCE5SK0TJ"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 223216,
       "name": "Aking Mundo",
       "url": "https://open.spotify.com/track/2JgSxzMARxZte6hO7Kb56U"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 202353,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP"
@@ -1815,6 +1815,32 @@
     },
     {
       "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1"
+      },
+      "artists": [
+        {
+          "name": "Kiervy",
+          "url": "https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl"
+        },
+        {
+          "name": "Ram Millr",
+          "url": "https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX"
+        },
+        {
+          "name": "iHATEMONDAYS",
+          "url": "https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z"
+    },
+    {
+      "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ"
       },
@@ -2516,6 +2542,24 @@
       "duration_ms": 171152,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
+    },
+    {
+      "album": {
+        "name": "fallinlove?",
+        "url": "https://open.spotify.com/album/4FoPGnulf0eQ04csnAN1bG"
+      },
+      "artists": [
+        {
+          "name": "Rajondo",
+          "url": "https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "fallinlove?",
+      "url": "https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC"
     },
     {
       "album": {
@@ -5248,7 +5292,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 248888,
       "name": "Lunod",
       "url": "https://open.spotify.com/track/5EkCk3lKlnlKxkO9lHuPxo"
@@ -7018,7 +7062,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214940,
       "name": "pelikula",
       "url": "https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6"
@@ -7076,6 +7120,24 @@
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1WiZseSOEpGzkfxQlVTvAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/5tR2mt4gJ5JDMDfHg7EYTL"
     },
     {
       "album": {
@@ -7652,6 +7714,24 @@
       "duration_ms": 154000,
       "name": "Safe Ka Sa\u2019kin",
       "url": "https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4"
+    },
+    {
+      "album": {
+        "name": "Saglit",
+        "url": "https://open.spotify.com/album/5hVEg9JvcW016YKvi6DClp"
+      },
+      "artists": [
+        {
+          "name": "kiddotin",
+          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186211,
+      "name": "Saglit",
+      "url": "https://open.spotify.com/track/1St01QnpQ0VLiOCSnE2eta"
     },
     {
       "album": {
@@ -8306,6 +8386,24 @@
       "duration_ms": 241700,
       "name": "SONG 4 U",
       "url": "https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG"
+    },
+    {
+      "album": {
+        "name": "PERSONA:2000",
+        "url": "https://open.spotify.com/album/7Cyor4TuAVIk5EMlTUuxLN"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/3azKk9HATst4jPYVlduMIa"
     },
     {
       "album": {

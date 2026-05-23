@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Η Ελλάδα στον τελικό της Eurovision 🇬🇷! Καλή επιτυχία, Akylas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,766 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,773 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [DISPLAY](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 60 | [Telia](https://open.spotify.com/track/1hM5FY0uXg0NqTaeibm2cq) | [Ioakim Fokas](https://open.spotify.com/artist/3gPQS5zS2UCbrBuRtuxiNT), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Telia](https://open.spotify.com/album/4J7LEQh6SB3UGZFvRYTH4U) | 3:53 |
 
-Snapshot ID: `AAAAAFVDRLsn1D3U2Qfy9l8zEFcJpl+E`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

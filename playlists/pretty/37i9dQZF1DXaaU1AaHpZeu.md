@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Judeline en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,925 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,933 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 12 | [yo quisiera](https://open.spotify.com/track/6JW045I5tycJU6hAnCpuFh) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un viaje eterno](https://open.spotify.com/album/7DOyGqS22SVN0k8fz8GSDI) | 3:44 |
 | 13 | [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 |
 | 14 | [Adiós con alegría](https://open.spotify.com/track/3N6JwGkAXTKhuQiY8rG6b3) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw) | [Adiós con alegría](https://open.spotify.com/album/3NMsYlMVUOwhhg7ukzQA65) | 3:20 |
-| 15 | [Track 3](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 0:00 |
+| 15 | [2AM](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 2:41 |
 | 16 | [Abrigo de drama](https://open.spotify.com/track/5xAr61d3gfgKaJpP9VokP6) | [Cyclo](https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV) | [Abrigo de drama](https://open.spotify.com/album/0sLLkxvhJSax8yNdBxeZhw) | 4:27 |
 | 17 | [La ley de Murphy](https://open.spotify.com/track/26lCYSf4tymoo8zXx0ZFCV) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Retales III](https://open.spotify.com/album/7ybbUW1vBJfbr06fV5wVf6) | 2:20 |
 | 18 | [Tormenta de Verano](https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tormenta de Verano](https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9) | 2:14 |

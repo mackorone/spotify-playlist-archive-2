@@ -1,268 +1,224 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2615,
+  "num_followers": 2617,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAFvrmg22eUF+WCGDzLInWs4/LT9qMH",
+  "snapshot_id": "AAAF2gVcfyRjhyofNiWwUJfg4rCpLZS5",
   "tracks": [
     {
-      "added_at": "2026-05-15 15:25:51",
+      "added_at": "2026-05-22 14:24:14",
       "album": {
-        "name": "Gas Station",
-        "url": "https://open.spotify.com/album/5kQFDqnngz3YTkHpsZ5l8o"
+        "name": "Off To Mars",
+        "url": "https://open.spotify.com/album/4TJhFszNQd2CXDdspJ3rcZ"
       },
       "artists": [
         {
-          "name": "James C. Harris",
-          "url": "https://open.spotify.com/artist/5wuXurOcFpIo5MSPvI2zLd"
+          "name": "Phats De Juvenile",
+          "url": "https://open.spotify.com/artist/0oTnLCyNvqiPv8Tdt66WEP"
         }
       ],
-      "duration_ms": 346338,
-      "name": "Gas Station",
-      "url": "https://open.spotify.com/track/0c7qlP1qMfsO6otTyG4vQJ"
+      "duration_ms": 483787,
+      "name": "Off To Mars",
+      "url": "https://open.spotify.com/track/1LpCZxJfZBOdaTGsONQyQw"
     },
     {
-      "added_at": "2026-05-15 15:26:20",
+      "added_at": "2026-05-22 14:24:44",
       "album": {
-        "name": "SRL Rhythm (Reimagined)",
-        "url": "https://open.spotify.com/album/3mxZkHgJNKhuAVMUSG5acb"
+        "name": "Off The Floor",
+        "url": "https://open.spotify.com/album/68ShspVlGtgiIhd5VySr9b"
       },
       "artists": [
         {
-          "name": "loveoleglove",
-          "url": "https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7"
+          "name": "Isobel Knight",
+          "url": "https://open.spotify.com/artist/68EAQ3CUHE8RYAhGttzHkA"
         }
       ],
-      "duration_ms": 272000,
-      "name": "SRL Rhythm - Reimagined",
-      "url": "https://open.spotify.com/track/7mIdPcI2gGjs0ehUD3JsbA"
+      "duration_ms": 371893,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/2XQCsSwoeUiTVDwW3GN0co"
     },
     {
-      "added_at": "2026-05-15 15:27:01",
+      "added_at": "2026-05-22 14:25:09",
       "album": {
-        "name": "Karna",
-        "url": "https://open.spotify.com/album/7BPMWDWInVYGEeJSbuhr0t"
+        "name": "Ritual of The Cloven Hoof",
+        "url": "https://open.spotify.com/album/044AlkuookXfVAqQZoiQUn"
       },
       "artists": [
         {
-          "name": "Parallax",
-          "url": "https://open.spotify.com/artist/4E5QqPeWrE1H2ecxBzqXR2"
+          "name": "Goddess",
+          "url": "https://open.spotify.com/artist/3cMo9MGlkvZHB92vcAxk5t"
         }
       ],
-      "duration_ms": 373426,
-      "name": "Brother of my Enemy",
-      "url": "https://open.spotify.com/track/6Z4HOSAVqt61K4gGORuRjE"
+      "duration_ms": 401231,
+      "name": "To Be King",
+      "url": "https://open.spotify.com/track/7ae8egiJhy9SqdVNKCl8qv"
     },
     {
-      "added_at": "2026-05-15 15:27:21",
+      "added_at": "2026-05-22 14:25:27",
       "album": {
-        "name": "Lizard king (aldrig f\u00f6r varann)",
-        "url": "https://open.spotify.com/album/2Mjqej3aByKplmfkW6uBGZ"
+        "name": "Us & The Moon",
+        "url": "https://open.spotify.com/album/2TaivHlUFH6WfSmbkpQtGn"
       },
       "artists": [
         {
-          "name": "Odessa K",
-          "url": "https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7"
+          "name": "Tugboat Captain",
+          "url": "https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb"
         }
       ],
-      "duration_ms": 205612,
-      "name": "Lizard king (aldrig f\u00f6r varann)",
-      "url": "https://open.spotify.com/track/6rnvU7mY2VjZpblRup5Gd9"
+      "duration_ms": 178102,
+      "name": "Us & The Moon",
+      "url": "https://open.spotify.com/track/7MjuRYCtVDzntNRvc7zhFG"
     },
     {
-      "added_at": "2026-05-15 15:27:44",
+      "added_at": "2026-05-22 14:25:45",
       "album": {
-        "name": "Duvor",
-        "url": "https://open.spotify.com/album/7HTn5rx1TnAZaiKr2StHiu"
+        "name": "Hattarataivas",
+        "url": "https://open.spotify.com/album/5F0MbkaNlBHWNcfmd4Gp1x"
       },
       "artists": [
         {
-          "name": "Nils Albin",
-          "url": "https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi"
+          "name": "Hamina",
+          "url": "https://open.spotify.com/artist/5wPZpQd6Ejo6NSJ1EcMfin"
         }
       ],
-      "duration_ms": 149311,
-      "name": "Duvor",
-      "url": "https://open.spotify.com/track/5jGS3k5hAu6Yv2VhI6j1iy"
+      "duration_ms": 240000,
+      "name": "Hattarataivas",
+      "url": "https://open.spotify.com/track/1V41iElOZjKsHTC7lwEhrL"
     },
     {
-      "added_at": "2026-05-15 15:28:04",
+      "added_at": "2026-05-22 14:26:15",
       "album": {
-        "name": "Blues Till V\u00e4nner",
-        "url": "https://open.spotify.com/album/3zZNjZClSR86pVBypuliuB"
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/7Kfr5frO3p85fxfAlnPyyk"
       },
       "artists": [
         {
-          "name": "Landsv\u00e4g 76",
-          "url": "https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1"
+          "name": "Dimmed Charlie",
+          "url": "https://open.spotify.com/artist/1jqCe5tFhg7oknVnRYWXzC"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Blues Till V\u00e4nner",
-      "url": "https://open.spotify.com/track/3EeabFRD1osWSP0o2zLHs5"
+      "duration_ms": 246628,
+      "name": "Take you home",
+      "url": "https://open.spotify.com/track/0Z16RppqhriYsNAXsGbnSo"
     },
     {
-      "added_at": "2026-05-15 15:28:33",
+      "added_at": "2026-05-22 14:26:36",
       "album": {
-        "name": "Lavender Breeze",
-        "url": "https://open.spotify.com/album/4O15CkNPSiU4DL7QBr0Vtl"
+        "name": "Until I met you",
+        "url": "https://open.spotify.com/album/5hUSO0i9Zi8gcLqA8iMnkA"
       },
       "artists": [
         {
-          "name": "Valeria Frattini",
-          "url": "https://open.spotify.com/artist/5RkNVwHWnEpdI5vnIcC1P9"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Lavender Breeze",
-      "url": "https://open.spotify.com/track/3NRuvs5FVWoknhO2mFRKwz"
-    },
-    {
-      "added_at": "2026-05-15 15:28:55",
-      "album": {
-        "name": "City Boy",
-        "url": "https://open.spotify.com/album/7kAzy6KYvHxdwJa9oRWuAs"
-      },
-      "artists": [
-        {
-          "name": "Timothy Jacob Brown",
-          "url": "https://open.spotify.com/artist/0MUBMhxBd1044UUw6dg5mX"
-        }
-      ],
-      "duration_ms": 199992,
-      "name": "City Boy",
-      "url": "https://open.spotify.com/track/7qJ8QEnQBA7NEfcBHYaFtS"
-    },
-    {
-      "added_at": "2026-05-15 15:29:27",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3IEYBmcwi0yU7AlZDzdjzc"
-      },
-      "artists": [
-        {
-          "name": "Dracinda",
-          "url": "https://open.spotify.com/artist/2E22V5h9X6XRXbPfLYh20b"
-        }
-      ],
-      "duration_ms": 198033,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/69noY9i5oUQjaj35il0t7c"
-    },
-    {
-      "added_at": "2026-05-15 15:51:18",
-      "album": {
-        "name": "One Cold Afternoon",
-        "url": "https://open.spotify.com/album/6Dx2hOvksBd2fFyKqovKhS"
-      },
-      "artists": [
-        {
-          "name": "The Night Parrots",
-          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
-        }
-      ],
-      "duration_ms": 203870,
-      "name": "One Cold Afternoon",
-      "url": "https://open.spotify.com/track/647KYP2Ly6mBao93WVAMfI"
-    },
-    {
-      "added_at": "2026-05-15 15:54:11",
-      "album": {
-        "name": "SHAKESUM",
-        "url": "https://open.spotify.com/album/33ZBrEAsc5wwwZsUdefFSi"
-      },
-      "artists": [
-        {
-          "name": "PWEKEH",
-          "url": "https://open.spotify.com/artist/6B8pOmiTugPlGpxmX0JmGn"
-        }
-      ],
-      "duration_ms": 181704,
-      "name": "SHAKESUM",
-      "url": "https://open.spotify.com/track/0fnx8fSv9qtNZhkEBaATs3"
-    },
-    {
-      "added_at": "2026-05-15 15:54:55",
-      "album": {
-        "name": "Hold On, Little Me",
-        "url": "https://open.spotify.com/album/211X3GyZTCRYibelxcaGq5"
-      },
-      "artists": [
-        {
-          "name": "Phil Tindall",
-          "url": "https://open.spotify.com/artist/2fRgWrVJxPg4DFEeqNnKIG"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Hiding out",
-      "url": "https://open.spotify.com/track/3ovEm5WUG6anjKlVG3uKiU"
-    },
-    {
-      "added_at": "2026-05-15 15:55:33",
-      "album": {
-        "name": "Message for the Future Generation",
-        "url": "https://open.spotify.com/album/2sKzZ1K6t8lChUxro4ENGi"
-      },
-      "artists": [
-        {
-          "name": "Hylife Soul",
-          "url": "https://open.spotify.com/artist/2d1EyHjkqzCcQCKRH02D6u"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Hylife Soul",
-      "url": "https://open.spotify.com/track/3es6i9I5v1l2M87rDrTjPE"
-    },
-    {
-      "added_at": "2026-05-15 15:56:52",
-      "album": {
-        "name": "Alas",
-        "url": "https://open.spotify.com/album/31ycYIMx8d6a2z8nVzbEF1"
-      },
-      "artists": [
-        {
-          "name": "Eetee",
-          "url": "https://open.spotify.com/artist/5xQ7nhU8bjzlJi1Lfyn1tG"
+          "name": "Lilly Rose",
+          "url": "https://open.spotify.com/artist/0uiMofKzxjLIfeo7SJMBjM"
         },
         {
-          "name": "Paleface",
-          "url": "https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj"
-        },
-        {
-          "name": "Laineen Kasperi",
-          "url": "https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA"
-        },
-        {
-          "name": "Kissa U",
-          "url": "https://open.spotify.com/artist/6UH6mjgzvofWA6vKlhZtb2"
-        },
-        {
-          "name": "Tommy Lindgren",
-          "url": "https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3"
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/0V5wpzV1FH0nbTyFg0P8xl"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Alas",
-      "url": "https://open.spotify.com/track/1TSqTgiMPOgrwhJrImxrkJ"
+      "duration_ms": 202639,
+      "name": "Until I met you",
+      "url": "https://open.spotify.com/track/66gNNpDc0NjghNKdSvJxfR"
     },
     {
-      "added_at": "2026-05-15 15:58:29",
+      "added_at": "2026-05-22 14:27:02",
       "album": {
-        "name": "UNHOLY",
-        "url": "https://open.spotify.com/album/5qQIU10DR32QwxlJV7rbLu"
+        "name": "Traagiline Maagia",
+        "url": "https://open.spotify.com/album/2UXqiHfTyE583nM1YzcZeJ"
       },
       "artists": [
         {
-          "name": "MOTHER",
-          "url": "https://open.spotify.com/artist/436LWqzQmrcjN6iI1WsYJg"
+          "name": "Wild Women Of Wongo",
+          "url": "https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ"
         }
       ],
-      "duration_ms": 197322,
-      "name": "UNHOLY",
-      "url": "https://open.spotify.com/track/25Y4aovRJnguEVBJ9MRwAQ"
+      "duration_ms": 265500,
+      "name": "Traagiline Maagia",
+      "url": "https://open.spotify.com/track/69udLR9wkOA3tuKAqaPxXJ"
+    },
+    {
+      "added_at": "2026-05-22 14:27:20",
+      "album": {
+        "name": "Bethany",
+        "url": "https://open.spotify.com/album/5ZueKMc7L3ajZ8hltqmrGj"
+      },
+      "artists": [
+        {
+          "name": "Hayley Bleho",
+          "url": "https://open.spotify.com/artist/7m3iY9UtEpcByTLVlwEFH7"
+        }
+      ],
+      "duration_ms": 212243,
+      "name": "Bethany",
+      "url": "https://open.spotify.com/track/09p3KPZ7ojdlglGzJKWsEP"
+    },
+    {
+      "added_at": "2026-05-22 14:27:39",
+      "album": {
+        "name": "P\u00c4\u00c4 PILVISS\u00c4",
+        "url": "https://open.spotify.com/album/691URGIQIJHWs0aMC1TluX"
+      },
+      "artists": [
+        {
+          "name": "Rafa\u00e9la",
+          "url": "https://open.spotify.com/artist/3qIJZa4FZxCL9um3Mqzv6p"
+        }
+      ],
+      "duration_ms": 274511,
+      "name": "P\u00c4\u00c4 PILVISS\u00c4",
+      "url": "https://open.spotify.com/track/3PM0es8gTKSJyGD2xpLlIQ"
+    },
+    {
+      "added_at": "2026-05-22 14:28:00",
+      "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/57xu5gr64AfQ8VxngmsUsY"
+      },
+      "artists": [
+        {
+          "name": "Isak Jakobsson",
+          "url": "https://open.spotify.com/artist/6p1dSTtiCvXjnCeAQsUodb"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/5uT3yCvQmcB2elrRRTjuKS"
+    },
+    {
+      "added_at": "2026-05-22 14:28:22",
+      "album": {
+        "name": "10 years and counting",
+        "url": "https://open.spotify.com/album/3L2P40C8I4px97OfKPJjNN"
+      },
+      "artists": [
+        {
+          "name": "A Message from Martyrs",
+          "url": "https://open.spotify.com/artist/7t5IZe95XCovYcgMATghI1"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "Miles away, Breaking Down",
+      "url": "https://open.spotify.com/track/0w39JvvnggkN8DIUf6klYJ"
+    },
+    {
+      "added_at": "2026-05-22 14:28:42",
+      "album": {
+        "name": "Maskrosor",
+        "url": "https://open.spotify.com/album/4IM8psMGhW4xLUCply62u6"
+      },
+      "artists": [
+        {
+          "name": "Johan Norefalk",
+          "url": "https://open.spotify.com/artist/4JIgSi7ltbZkhyAPXJcEx9"
+        }
+      ],
+      "duration_ms": 208718,
+      "name": "Maskrosor",
+      "url": "https://open.spotify.com/track/6OZdbl8LSiepwuu3RSAh8p"
     }
   ],
   "unique_name": "Independent Music Friday",

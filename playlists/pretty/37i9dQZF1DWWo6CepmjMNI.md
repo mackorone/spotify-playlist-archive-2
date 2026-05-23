@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: TWINSHOUSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,018 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,016 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [สุดท้ายปลายทาง](https://open.spotify.com/track/74w5x0i1kMIlVDv1D4puQE) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [สุดท้ายปลายทาง](https://open.spotify.com/album/6Dg2N2TbeR35swCnHr0rRd) | 3:13 |
 | 2 | [พบกัน \(Other Side\)](https://open.spotify.com/track/0mHEr0RxeC51sigzX0bUDP) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [พบกัน \(Other Side\)](https://open.spotify.com/album/78XqnXjci1RJ8VikYAnPce) | 4:07 |
 | 3 | [ขอบคุณที่เธอเข้ามา \(thankyou\)](https://open.spotify.com/track/7x8Ah9Co2GFFyxwVXM3d63) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [ขอบคุณที่เธอเข้ามา \(thankyou\)](https://open.spotify.com/album/45dBrGEEczH3FBx6kw7RPA) | 4:07 |
-| 4 | [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
+| 4 | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
 | 5 | [เปรียบดั่งดอกไม้](https://open.spotify.com/track/0Cgi5fkIVF85qpwGCC3DuO) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [เปรียบดั่งดอกไม้](https://open.spotify.com/album/2hxjOSUqmLlbhD6Wn1JWeT) | 3:37 |
 | 6 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
 | 7 | [รักรักรัก \(you\)](https://open.spotify.com/track/2MJJxk6syNsix0WB400spD) | [SURFF](https://open.spotify.com/artist/0LJ6cw64d0z2B5oHIlaAt2) | [รักรักรัก \(you\)](https://open.spotify.com/album/6p9Mbk5hN3hzOVG0LbIoMq) | 3:38 |

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-376 songs - 21 hr 46 min
+380 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 | 2026-03-10 |
 | [Glue](https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [Glue](https://open.spotify.com/album/1SkgywYaggjQu4KO23HqG1) | 3:43 | 2026-01-06 | 2026-02-20 |
+| [Godstruck](https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD) | [kneeshake](https://open.spotify.com/artist/7Doc8VYJPdWcMthl4c2C9l) | [Godstruck](https://open.spotify.com/album/3Jv9c1emzRLP7eH7PrA1on) | 2:49 | 2026-05-22 |  |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 | 2026-03-29 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |
 | [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 | 2026-03-26 | 2026-04-21 |
@@ -259,6 +260,7 @@
 | [pleistras](https://open.spotify.com/track/1Mf23beWU7eorvugsrUrlX) | [jau aušta](https://open.spotify.com/artist/5jjLJkbhQh1zVWQeBy2U5q) | [pleistras](https://open.spotify.com/album/5lURCZT9YOyfo7fMHWJP1l) | 4:26 | 2026-04-20 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
 | [PRETTY GIRL DONT CRY \- Haunted Version](https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [PRETTY GIRL DONT CRY \(Haunted Version\)](https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip) | 3:55 | 2026-05-06 |  |
+| [PRONE](https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw) | [TNO NIKO](https://open.spotify.com/artist/61Iz8BdGNL4kbMED0ik4D0) | [PRONE](https://open.spotify.com/album/0jh7WYJiBllbzMOLa0f4ei) | 2:26 | 2026-05-22 |  |
 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 | 2026-03-10 |
 | [Purple Apology](https://open.spotify.com/track/43uzmSmFrFWUoysDNeRfVo) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 2:51 | 2026-03-31 | 2026-05-06 |
 | [Pushing Forty](https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm) | 3:08 | 2026-03-29 | 2026-04-30 |
@@ -310,6 +312,8 @@
 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 | 2026-04-23 |  |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 | 2026-05-14 |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 | 2026-05-06 |
+| [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 | 2026-05-22 |  |
+| [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-22 |  |
 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |
 | [The Anchor](https://open.spotify.com/track/0clMXe1bOcuX6uxlRrQ2OM) | [Richy McLoughlin](https://open.spotify.com/artist/2Zhk3KjyBwtA4jzgo8dFXy) | [Ultradian](https://open.spotify.com/album/08licc707KeCqg7jsXWOWB) | 2:46 | 2026-05-05 |  |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |

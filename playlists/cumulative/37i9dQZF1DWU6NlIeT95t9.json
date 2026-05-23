@@ -1151,6 +1151,32 @@
     },
     {
       "album": {
+        "name": "Hona Wohi Hai",
+        "url": "https://open.spotify.com/album/0yvCUenUQBs5jIQC89Nqjm"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173022,
+      "name": "Hona Wohi Hai",
+      "url": "https://open.spotify.com/track/3dgtKDaHJ3TWDlaGqJcvtB"
+    },
+    {
+      "album": {
         "name": "Hoor",
         "url": "https://open.spotify.com/album/2TJkGp4JyFDLCE49DLsKvL"
       },
@@ -1449,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Kami",
+        "url": "https://open.spotify.com/album/4RVPpahSbyKptR5HNyXBqZ"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6xA10nNluk8fggCxN1hoI7"
+    },
+    {
+      "album": {
         "name": "Kanwal",
         "url": "https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG"
       },
@@ -1713,6 +1757,36 @@
     },
     {
       "album": {
+        "name": "Lost In Love (feat. Shahid Hussain)",
+        "url": "https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "Damsaaz",
+          "url": "https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i"
+        },
+        {
+          "name": "Shahid Hussain",
+          "url": "https://open.spotify.com/artist/1P94Xkn1NMWS1uK4uGJ1x5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499723,
+      "name": "Lost In Love (feat. Shahid Hussain)",
+      "url": "https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa"
+    },
+    {
+      "album": {
         "name": "ghosts, and goodbyes",
         "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
       },
@@ -1862,7 +1936,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 120000,
       "name": "Mehbooba",
       "url": "https://open.spotify.com/track/1KjNSAlv5QpiXQz20ru0l7"
@@ -2458,7 +2532,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 197500,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN"
@@ -2874,7 +2948,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 263181,
       "name": "Since Tum",
       "url": "https://open.spotify.com/track/5GnF4uvEcIibqcoYgzIlgS"

@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "Quarto Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6o6okkJ5d9iwA0VAha2IXv"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Algu\u00e9m Melhor",
+      "url": "https://open.spotify.com/track/3xPL74iZjL7Ndl2znVQDjX"
+    },
+    {
+      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 162708,
       "name": "Bossinha",
       "url": "https://open.spotify.com/track/1gSKh4JqZ1odoPLK4d8SE4"
@@ -2792,7 +2814,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
@@ -5362,7 +5384,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188546,
       "name": "SUDAM\u00c9RICA",
       "url": "https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo"

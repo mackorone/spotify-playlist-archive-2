@@ -1,29 +1,13 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 66974,
+  "num_followers": 67005,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agz5gAAAAAD3SCuhZlA2tk7NyofocjbA",
+  "snapshot_id": "ag5LAAAAAAD5s7GWFGflVqqEBdrxr4Xa",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 159233,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
-    },
     {
       "added_at": null,
       "album": {
@@ -131,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Belleza De Mujer",
-        "url": "https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm"
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Qu\u00e9 Belleza De Mujer",
-      "url": "https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3"
+      "duration_ms": 159233,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
     },
     {
       "added_at": null,
@@ -163,6 +143,26 @@
       "duration_ms": 183920,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Belleza De Mujer",
+        "url": "https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Qu\u00e9 Belleza De Mujer",
+      "url": "https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3"
     },
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Yo",
-        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
       "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 174346,
-      "name": "Seg\u00fan Yo",
-      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
     },
     {
       "added_at": null,
@@ -431,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 130368,
       "name": "Tus Red flags",
       "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Yo",
+        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Seg\u00fan Yo",
+      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bateando Duro",
         "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 146522,
       "name": "Sal De Tu Casa",
       "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi m\u00e1s grande error",
         "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 143162,
       "name": "Mi m\u00e1s grande error",
       "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146032,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 169400,
       "name": "Amigo 09",
       "url": "https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146032,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
     },
     {
       "added_at": null,
@@ -907,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 191914,
-      "name": "cosas raras",
-      "url": "https://open.spotify.com/track/1Oo91InghZYlhbUL4o3QoW"
+      "duration_ms": 165826,
+      "name": "Tiempos De Guerra",
+      "url": "https://open.spotify.com/track/6FU9EaAAUBVhC1xwMPiKQ9"
     }
   ],
   "unique_name": "This Is La Receta",

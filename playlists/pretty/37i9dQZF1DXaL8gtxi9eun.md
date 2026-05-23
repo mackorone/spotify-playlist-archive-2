@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. الغلاف: عمرو دياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,935 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,005 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awel Kol Haga](https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:41 |
 | 2 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
 | 3 | [\(يا حبيبتي \) قلبي محارب \- من مسلسل \| وننسى اللي كان](https://open.spotify.com/track/7jZWRnAEAS4hioUh7mlbbH) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [\(يا حبيبتي \) قلبي محارب \[من مسلسل \| وننسى اللي كان\]](https://open.spotify.com/album/11HjxEynMj9YN8A8vdduaz) | 4:13 |
-| 4 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:43 |
+| 4 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 |
 | 5 | [عيونه هتدمع](https://open.spotify.com/track/7mIlBkspGjJk5c5hrR8Q4V) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [عيونه هتدمع](https://open.spotify.com/album/19acon5IOFHCQpSe7BT9bH) | 3:38 |
 | 6 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 |
 | 7 | [Ala Kol Hal](https://open.spotify.com/track/2hJA61WRuzWHQvmnFgUBzy) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Ala Kol Hal](https://open.spotify.com/album/6oecb6uYVCeKHDdkd2JtU8) | 4:32 |

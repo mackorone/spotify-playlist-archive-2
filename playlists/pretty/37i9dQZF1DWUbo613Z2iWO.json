@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: James Savage",
-  "num_followers": 59345,
+  "description": "R&B of the moment by the artists of the future. Cover: Eric Penn",
+  "num_followers": 59353,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJvBGkSH4SCQURPEMflEJwFJkhv",
+  "snapshot_id": "AAAAAP1lbqqE+MZ9Qg03duwWqPse7szu",
   "tracks": [
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "Hit & Run",
+        "url": "https://open.spotify.com/album/4VwNVf8kvBTBJXux1gJgVo"
+      },
+      "artists": [
+        {
+          "name": "Eric Penn",
+          "url": "https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/3c13bJESWcnsn180mOn6Wt"
+    },
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "HOW DO YOU SLEEP?",
+        "url": "https://open.spotify.com/album/0lkc0azCPCk33qepT0fSMl"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "duration_ms": 111730,
+      "name": "HOW DO YOU SLEEP?",
+      "url": "https://open.spotify.com/track/5lC63CMAg4Nd0mGVGIEPSg"
+    },
     {
       "added_at": "2026-05-15 06:02:32",
       "album": {
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/18xbuNAEvWdiJpFMLgyRHj"
     },
     {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "Left on RED",
+        "url": "https://open.spotify.com/album/5xBGTsaGc3BlKQweyj5PZw"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 145274,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
+    },
+    {
       "added_at": "2026-04-24 04:03:03",
       "album": {
         "name": "All U Need (with Jaymin)",
@@ -91,6 +139,38 @@
       "duration_ms": 194400,
       "name": "Blood On The Strings",
       "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
+    },
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/0VYD8n0LUPyzA8I7Md1cVj"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL"
+    },
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
     },
     {
       "added_at": "2026-05-08 05:09:15",
@@ -129,6 +209,38 @@
       "url": "https://open.spotify.com/track/4ZUNsrg67FyS47d8eLRV2I"
     },
     {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/6CpH5Y0tGJdhD3IP4h2VYN"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7y7Oii8NXB1cjrJr2ZEnt1"
+    },
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "NEW HEADSTONE need MIX",
+        "url": "https://open.spotify.com/album/5N19wjg3aSVDoKKr4niCPz"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        }
+      ],
+      "duration_ms": 148058,
+      "name": "NEW HEADSTONE need MIX",
+      "url": "https://open.spotify.com/track/63GhJimM2V6SKAa8NLTU6p"
+    },
+    {
       "added_at": "2026-05-01 04:52:34",
       "album": {
         "name": "So\u2026",
@@ -159,6 +271,22 @@
       "duration_ms": 174465,
       "name": "Break Me Off",
       "url": "https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF"
+    },
+    {
+      "added_at": "2026-05-22 03:52:17",
+      "album": {
+        "name": "what did you think love would be?",
+        "url": "https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "duration_ms": 203514,
+      "name": "what did you think love would be?",
+      "url": "https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB"
     },
     {
       "added_at": "2026-05-08 05:09:15",
@@ -2741,62 +2869,6 @@
       "url": "https://open.spotify.com/track/0xj2o8bku1O1kjebzgN7Uz"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "Is It Alright?",
-        "url": "https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 196548,
-      "name": "Is It Alright?",
-      "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
-    },
-    {
-      "added_at": "2025-12-19 05:00:40",
-      "album": {
-        "name": "Dark Skin Girl",
-        "url": "https://open.spotify.com/album/4Y7skuU0oFJNg870UIMLrW"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Dark Skin Girl",
-      "url": "https://open.spotify.com/track/1EMhBmEv65xyBIIB6Cfrgi"
-    },
-    {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "Cry Against The Wind",
-        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Cry Against The Wind",
-      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
-    },
-    {
       "added_at": "2025-11-21 08:55:41",
       "album": {
         "name": "Come Home",
@@ -2811,22 +2883,6 @@
       "duration_ms": 192000,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
     },
     {
       "added_at": "2025-10-24 04:10:35",
@@ -2903,22 +2959,6 @@
       "duration_ms": 135014,
       "name": "to see thru closed eyes",
       "url": "https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi"
-    },
-    {
-      "added_at": "2025-11-07 06:29:18",
-      "album": {
-        "name": "Is There Anybody Home? (Part 2)",
-        "url": "https://open.spotify.com/album/2Oz6kdTU95cJ6hm39moLER"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Act of God / Force Majeure",
-      "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
     },
     {
       "added_at": "2025-10-03 04:26:01",

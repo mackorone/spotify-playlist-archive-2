@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Adulta",
+        "url": "https://open.spotify.com/album/4DDy87wXTLUIJGmkoGGpSd"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101632,
+      "name": "Adulta",
+      "url": "https://open.spotify.com/track/20HkJbvVcpramHwwMg6gr3"
+    },
+    {
+      "album": {
         "name": "Upheld by Stillness: Renaissance Gems and their Reflections",
         "url": "https://open.spotify.com/album/08zedhBcaWzTZRs335IUSE"
       },
@@ -1352,6 +1370,24 @@
       "duration_ms": 292586,
       "name": "Concerto pour piano",
       "url": "https://open.spotify.com/track/6BsyXTqcpmZwVxNA4mM3Gr"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/50n7kf88uW0sRYb9nYnTuj"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306946,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/1LAuCAY9H01A2iANaS1fIY"
     },
     {
       "album": {
@@ -3919,6 +3955,28 @@
     },
     {
       "album": {
+        "name": "Mayer: String Quartets, Vol. 2",
+        "url": "https://open.spotify.com/album/2kHVx79qhLWH054PIygiGD"
+      },
+      "artists": [
+        {
+          "name": "Emilie Mayer",
+          "url": "https://open.spotify.com/artist/4zkusum5eZdIObW4RHOkIh"
+        },
+        {
+          "name": "Constanze Quartet",
+          "url": "https://open.spotify.com/artist/7wYPCiBB0EYIoAOVyrPjYp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271099,
+      "name": "String Quartet in F Major: IV. Allegretto. Finale",
+      "url": "https://open.spotify.com/track/44TZji92m9gnH2PMUPiufT"
+    },
+    {
+      "album": {
         "name": "Dalberg: The String Quartets",
         "url": "https://open.spotify.com/album/64S47XzarMQWJ3HWRI6hkG"
       },
@@ -4722,6 +4780,28 @@
       "duration_ms": 231000,
       "name": "Violin Sonata No. 1 in A Minor, Op. 105: II. Allegretto",
       "url": "https://open.spotify.com/track/4oYZCYKmeWMpZBRDsrScfB"
+    },
+    {
+      "album": {
+        "name": "Once Heard, Long Forgotten",
+        "url": "https://open.spotify.com/album/3YitkmzlXvSgdXUOCVTTP3"
+      },
+      "artists": [
+        {
+          "name": "Luise Adolpha Le Beau",
+          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
+        },
+        {
+          "name": "Arco e Tasto",
+          "url": "https://open.spotify.com/artist/07fIMJT32hEBaU46E2QyXp"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377346,
+      "name": "Violin Sonata No. 1 in C Minor, Op. 10: I. Allegro",
+      "url": "https://open.spotify.com/track/51UemZGqxp9O7PckKq4Mjr"
     },
     {
       "album": {

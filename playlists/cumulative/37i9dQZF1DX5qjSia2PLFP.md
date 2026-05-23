@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:13BgU01okousPOFvmiwecU">AZIEDOESNTEXIST<br/></a>
 
-1,403 songs - 2 day 16 hr 32 min
+1,404 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 | 2025-04-25 | 2025-05-04 |
 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 | 2024-03-29 | 2026-01-15 |
 | [Bad Bitty \(Remix\)](https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bad Bitty \(Remix\)](https://open.spotify.com/album/4X8qIyq7WLawahGInRD9RR) | 2:23 | 2024-08-02 | 2024-08-31 |
+| [Bad Bunny](https://open.spotify.com/track/1cDKU52pU1w73DYR6rQbJt) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Bad Bunny](https://open.spotify.com/album/07xtIZun1YMc0BuyVsseSP) | 2:22 | 2026-05-22 |  |
 | [Bad Guys \(Jiggy Jiggy\)](https://open.spotify.com/track/2cMBp20hDoXqAIBFuyKVGB) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bad Guys \(Jiggy Jiggy\)](https://open.spotify.com/album/0N7hQ8mMeBQ2rQkAwMm5K2) | 3:00 | 2026-01-09 | 2026-03-14 |
 | [BAD WEATHER](https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BAD WEATHER](https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV) | 1:52 | 2024-04-12 | 2024-04-19 |
 | [Badder Not Sadder](https://open.spotify.com/track/1TtBDWugbqv4YrSMAUffeT) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Badder Not Sadder](https://open.spotify.com/album/1HPdHGw0vMOEVx5u4wGuEJ) | 2:18 | 2024-01-19 | 2024-01-27 |
@@ -773,7 +774,7 @@
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-03 | 2022-03-05 |
 | [Maverick](https://open.spotify.com/track/3nCYFYW1XPFWCMRdSkonXU) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [Maverick](https://open.spotify.com/album/4w9sbpcDhkbSkeOZ0vrY76) | 3:25 | 2024-03-15 | 2024-03-23 |
 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 | 2026-02-27 |  |
-| [me & you](https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 2:29 | 2026-02-27 |  |
+| [me & you](https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 2:29 | 2026-02-27 | 2026-05-23 |
 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 | 2022-08-26 | 2022-12-31 |
 | [Me Vs Me](https://open.spotify.com/track/0XSg8jv57QNkWKE9zq4nNd) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Me Vs Me](https://open.spotify.com/album/34wxsgh1IRCfqkYpJ7tQjD) | 2:45 | 2024-10-11 | 2025-03-13 |
 | [Me, Myself, and I](https://open.spotify.com/track/7qCmgrOevw8X06IaG1tpuA) | [Jatavia Akiaa](https://open.spotify.com/artist/7EpIDQqFBXBLDeiurpvWxe) | [Me, Myself, and I](https://open.spotify.com/album/0xjvCuDf7QX8BzLXAnhWph) | 3:07 | 2023-10-25 | 2023-11-01 |

@@ -1,13 +1,77 @@
 {
-  "description": "on repeat for a reason. cover: Cameron Whitcomb",
-  "num_followers": 1549619,
+  "description": "on repeat for a reason. cover: Gracie Abrams",
+  "num_followers": 1549628,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuWRtjLt5SOUxF1Z3XipFAPRX78",
+  "snapshot_id": "AAAAAJNp+KfLYGfpr/2D6dekApDfvbAD",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2026-05-01 04:52:22",
+      "album": {
+        "name": "Songs I Wrote Since She Left",
+        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 205225,
+      "name": "Piece of Your Love",
+      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
     {
       "added_at": "2026-05-01 04:52:22",
       "album": {
@@ -27,18 +91,34 @@
     {
       "added_at": "2026-05-08 04:04:36",
       "album": {
-        "name": "The Lone Starlet",
-        "url": "https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z"
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
       },
       "artists": [
         {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 155729,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "added_at": "2026-05-08 04:04:36",
@@ -57,6 +137,86 @@
       "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
     },
     {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "How Lucky Am I?",
+        "url": "https://open.spotify.com/album/6cCUB8Pj1AlUhGjQqrTYKf"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 196408,
+      "name": "How Lucky Am I?",
+      "url": "https://open.spotify.com/track/6ZtoANZrSGWNy1OBL7Thtm"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
+        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "In Every Lifetime",
+      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Hard to Find",
+        "url": "https://open.spotify.com/album/3fQXXc6eVDocBXywDMDmsu"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 205436,
+      "name": "Hard to Find",
+      "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
+    },
+    {
+      "added_at": "2026-05-08 04:04:36",
+      "album": {
+        "name": "The Lone Starlet",
+        "url": "https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "duration_ms": 155729,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Debbie Don't Cry",
+        "url": "https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 180128,
+      "name": "Debbie Don't Cry",
+      "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
+    },
+    {
       "added_at": "2026-05-15 04:22:41",
       "album": {
         "name": "American Teenage Prophecy",
@@ -73,20 +233,36 @@
       "url": "https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH"
     },
     {
-      "added_at": "2026-05-08 04:04:36",
+      "added_at": "2026-05-22 04:55:57",
       "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+        "name": "blindfaith county",
+        "url": "https://open.spotify.com/album/63PCqsm4LhqC3OSWSN97RB"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
         }
       ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+      "duration_ms": 259255,
+      "name": "depends",
+      "url": "https://open.spotify.com/track/6ClRt5Ikl6VEO6xJrdKRCX"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Off Campus: The Mixtape",
+        "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 165810,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/2zXHNwVefEL7RmDeJueG12"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -121,6 +297,22 @@
       "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
     },
     {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Dull Red",
+        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "duration_ms": 213407,
+      "name": "What A Bummer!",
+      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
+    },
+    {
       "added_at": "2026-05-15 04:22:41",
       "album": {
         "name": "Housekeeping",
@@ -135,6 +327,22 @@
       "duration_ms": 205841,
       "name": "Housekeeping",
       "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -231,6 +439,22 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Chloe Showed Me",
+        "url": "https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 150797,
+      "name": "Chloe Showed Me",
+      "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -351,22 +575,6 @@
     {
       "added_at": "2026-05-01 04:52:22",
       "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
         "name": "Ribcage",
         "url": "https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt"
       },
@@ -379,38 +587,6 @@
       "duration_ms": 180347,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
-    },
-    {
-      "added_at": "2026-04-10 05:02:50",
-      "album": {
-        "name": "Damn Good Actress",
-        "url": "https://open.spotify.com/album/7IReyqV2mLXGxaNcJkBuh3"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
-        }
-      ],
-      "duration_ms": 169713,
-      "name": "Damn Good Actress",
-      "url": "https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC"
     },
     {
       "added_at": "2026-04-24 04:02:35",
@@ -637,22 +813,6 @@
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
     },
     {
-      "added_at": "2026-04-03 04:03:41",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 198617,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT"
-    },
-    {
       "added_at": "2026-03-27 05:09:53",
       "album": {
         "name": "better late than not at all",
@@ -833,22 +993,6 @@
       "url": "https://open.spotify.com/track/2h6ipaJ4usnWA8WwkSrnVI"
     },
     {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
-    },
-    {
       "added_at": "2026-03-13 04:00:49",
       "album": {
         "name": "The Way We Touch",
@@ -945,38 +1089,6 @@
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
-      "added_at": "2026-02-13 05:00:46",
-      "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
-        }
-      ],
-      "duration_ms": 167884,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
-    },
-    {
       "added_at": "2026-03-13 04:00:49",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -991,22 +1103,6 @@
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "Losing Streak",
-        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 218140,
-      "name": "Losing Streak",
-      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -1059,22 +1155,6 @@
       "duration_ms": 341017,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/6i2ifddYVX3yKRd9DO25mj"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -1157,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
       "added_at": "2026-03-20 04:00:49",
       "album": {
         "name": "Arrow Heart",
@@ -1253,38 +1317,6 @@
       "url": "https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
-        "url": "https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 149137,
-      "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
-      "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 190410,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl"
-    },
-    {
       "added_at": "2026-02-20 05:20:43",
       "album": {
         "name": "Stupid Bitches",
@@ -1315,22 +1347,6 @@
       "duration_ms": 235756,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6"
-    },
-    {
-      "added_at": "2026-01-23 05:34:57",
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "added_at": "2026-02-13 05:00:46",
@@ -1413,22 +1429,6 @@
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
       "added_at": "2026-02-13 20:08:25",
       "album": {
         "name": "Gold",
@@ -1507,22 +1507,6 @@
       "duration_ms": 155540,
       "name": "Love Bombs",
       "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
-    },
-    {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Normal Feelings",
-        "url": "https://open.spotify.com/album/5iXuIAOSa7ywKEmsSyQeYa"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Normal Feelings",
-      "url": "https://open.spotify.com/track/6sMPcbrBEdc8ZxSmidIkzy"
     },
     {
       "added_at": "2026-01-16 05:00:42",

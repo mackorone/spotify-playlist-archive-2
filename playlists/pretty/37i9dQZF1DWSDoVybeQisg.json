@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1256713,
+  "num_followers": 1256819,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Classic Yardbirds Vol.1",
-        "url": "https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U"
+        "name": "The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 145960,
-      "name": "Shapes Of Things",
-      "url": "https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b"
+      "duration_ms": 312253,
+      "name": "Venus In Furs",
+      "url": "https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0"
     }
   ],
   "unique_name": "Psychedelic Rock",

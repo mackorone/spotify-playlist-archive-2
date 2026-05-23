@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-148 songs - 12 hr 14 min
+149 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Eight Concert Studies for Piano, Op\. 40: III\. Toccatina](https://open.spotify.com/track/1DCksP8NjTjm3i0qM96xCW) | [Nikolai Kapustin](https://open.spotify.com/artist/4zTPXx27j9bFvcnui3sRNI), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w) | [The Berlin Recital – Encores](https://open.spotify.com/album/1gPiHxv3TKb6UFBua8nWM8) | 2:06 | 2021-12-02 |  |
 | [Erbarme dich, mein Gott \(From the St\. Matthew Passion\)](https://open.spotify.com/track/0fCw1m9tPATGUWLZSRXvNz) | [Eugen Cicero](https://open.spotify.com/artist/4EhSymJa7VCq6Wm1lZ8OVi) | [Swinging the Classics On MPS](https://open.spotify.com/album/4F2ApYDxzFRvN4XN2NNAYX) | 5:54 | 2021-12-02 |  |
 | [Eternal Source of Light Divine, HWV 74 \(Arrangement\)](https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh), [Concerto Stella Matutina](https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU) | [Nuove Invenzioni](https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK) | 5:53 | 2021-12-02 |  |
+| [Facile\-Batiste](https://open.spotify.com/track/6uzw70lkJtUrkrC2VWQujf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Facile\-Batiste](https://open.spotify.com/album/0rqIDFQjiHT3sohMYV0KS5) | 4:55 | 2026-05-22 |  |
 | [Fantaisie\-Impromptu](https://open.spotify.com/track/5gQ5aZsBSgeMccCz8TkWhd) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 6:13 | 2022-01-27 |  |
 | [First Gymnopedie](https://open.spotify.com/track/2U0UZHljhqhX50VbzsKo0K) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Psychicemotus](https://open.spotify.com/album/4UqqaK6LJahK6O4dbSTEKP) | 3:27 | 2022-07-07 | 2024-01-27 |
 | [First Gymnopedie](https://open.spotify.com/track/6A5DjTiYSkelNb2QuEV4vt) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Psychicemotus](https://open.spotify.com/album/5FEhFXoPdIEFU33KFf60H7) | 3:27 | 2021-12-02 | 2022-07-29 |

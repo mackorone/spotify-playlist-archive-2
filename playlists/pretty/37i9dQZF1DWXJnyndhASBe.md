@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Hubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,295 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,288 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 9 | [Border collie](https://open.spotify.com/track/5OzBUhbigJnRkPFiGlcZr0) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [facaldo](https://open.spotify.com/artist/0HlwqevkMNnO3xEMGDqca1), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Border collie](https://open.spotify.com/album/220ck3rTfplGLlRmyVIGYU) | 2:29 |
 | 10 | [NIE NA PRÓŻNO](https://open.spotify.com/track/7Be8ZfmNcN3gcaIYjkDdvG) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [NIE NA PRÓŻNO](https://open.spotify.com/album/3MfS1V1L5JfUvA07AY83av) | 2:26 |
 | 11 | [RIO / NA ŻYWO](https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt) | [RIO / NA ŻYWO](https://open.spotify.com/album/6UsHwxCaKaulN0AMONx9PT) | 3:04 |
-| 12 | [OSTATNI RAZ](https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Zabójstwo Liryczne 5](https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq) | 2:51 |
+| 12 | [OSTATNI RAZ](https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Raff J.R.](https://open.spotify.com/artist/7M5QLYpzgeunQvZiJWMOiy) | [Zabójstwo Liryczne 5](https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq) | 2:51 |
 | 13 | [Plan B](https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Plan B](https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh) | 3:12 |
 | 14 | [DUŚ](https://open.spotify.com/track/2QuXcLcVP4fKaJ5DrEeyzL) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [ROAD TO FURIA EP](https://open.spotify.com/album/6d8hedWZk1PkmdXhjtt4Q5) | 3:49 |
 | 15 | [nowe ciocie](https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk) | [rydawarrior](https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [NOWE CIOCIE](https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir) | 2:05 |

@@ -516,7 +516,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156245,
       "name": "38. Special",
       "url": "https://open.spotify.com/track/3BiC3lnYkgzHbYbkKJKbZx"
@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "ADN D'ANGE",
+        "url": "https://open.spotify.com/album/39pVqBjak6iX1yMvzJjemE"
+      },
+      "artists": [
+        {
+          "name": "Eaubad",
+          "url": "https://open.spotify.com/artist/462pDEWX9S9AleYYpieZWq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "ADN D'ANGE",
+      "url": "https://open.spotify.com/track/5Qm5K4JiezLKYRg6DYINbK"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0Z3IkxbiOkkX38WdYsw4E9"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 164571,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/32X8hYShxRYTmDAo7IAVG2"
@@ -1761,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Aucun XO",
+        "url": "https://open.spotify.com/album/4MXNvj8uT5XvGslz70q0ln"
+      },
+      "artists": [
+        {
+          "name": "Bobby One",
+          "url": "https://open.spotify.com/artist/6QgVdHngGqSaWthEvw6VFc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197540,
+      "name": "Aucun XO",
+      "url": "https://open.spotify.com/track/0L4KLnqNwACrRtkWqoTGuh"
+    },
+    {
+      "album": {
         "name": "Aucune promesse",
         "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
       },
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168175,
       "name": "Avec*Babe",
       "url": "https://open.spotify.com/track/3Vivke5XRY6gQuPuNCpp03"
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195813,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5"
@@ -2192,6 +2228,28 @@
       "duration_ms": 110503,
       "name": "BAD JAZZ",
       "url": "https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr"
+    },
+    {
+      "album": {
+        "name": "BAGG",
+        "url": "https://open.spotify.com/album/0noxNDSzPoshGC6venIRVh"
+      },
+      "artists": [
+        {
+          "name": "Bagg",
+          "url": "https://open.spotify.com/artist/1ReS7avPgg9cHvk7hyTS1z"
+        },
+        {
+          "name": "Le Gicko",
+          "url": "https://open.spotify.com/artist/6oR4H8kuK9CcynDnU6YF0W"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210202,
+      "name": "BAGG",
+      "url": "https://open.spotify.com/track/3cnnHD4RhD3TTiNC0GYUPR"
     },
     {
       "album": {
@@ -4030,7 +4088,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156000,
       "name": "Cadence",
       "url": "https://open.spotify.com/track/48Jt2LwzTduDDiqIyWqRAz"
@@ -4346,7 +4404,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154683,
       "name": "Ce monde est \u00e0 nous",
       "url": "https://open.spotify.com/track/30CHqGwMCBNNuPeiej1uaW"
@@ -4536,6 +4594,28 @@
       "duration_ms": 287407,
       "name": "CHAMBRE D'\u00c9CHO",
       "url": "https://open.spotify.com/track/5Ya8UiLpaOMw77lCSsMg6n"
+    },
+    {
+      "album": {
+        "name": "Chapitre",
+        "url": "https://open.spotify.com/album/6NNuPmpsifJj38yJ9U7zR3"
+      },
+      "artists": [
+        {
+          "name": "LeMind",
+          "url": "https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW"
+        },
+        {
+          "name": "Sins '99",
+          "url": "https://open.spotify.com/artist/004pH23lbCq906vbJ6UAdg"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Chapitre",
+      "url": "https://open.spotify.com/track/1bBldfyoOZsZbs8ln0vtQn"
     },
     {
       "album": {
@@ -5409,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Couche tard",
+        "url": "https://open.spotify.com/album/6XhE2xFiY9Zcc3yxknUoTL"
+      },
+      "artists": [
+        {
+          "name": "Sainte-Croix",
+          "url": "https://open.spotify.com/artist/6DXllKnZVeC1AJOMWt7vig"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Couche tard",
+      "url": "https://open.spotify.com/track/5mB6KgjCDvS5VUPIWDmqqk"
+    },
+    {
+      "album": {
         "name": "Couleur",
         "url": "https://open.spotify.com/album/1HTddb8BCVFbZOVEqZWgUi"
       },
@@ -5478,7 +5576,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 153533,
       "name": "Crash test",
       "url": "https://open.spotify.com/track/3Hq3axmt4CkOP9IueMNF2X"
@@ -7344,7 +7442,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 179505,
       "name": "Ego's Blade",
       "url": "https://open.spotify.com/track/6DPxlA33IominPyi8dAI8Y"
@@ -7446,7 +7544,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 117333,
       "name": "Emilio Pucci",
       "url": "https://open.spotify.com/track/1hOlzYeuNihAGmYLOdZTX3"
@@ -10304,7 +10402,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 199693,
       "name": "How's That Taste?!",
       "url": "https://open.spotify.com/track/11uqCzhRPsQuAVayCOGtBr"
@@ -10366,7 +10464,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175680,
       "name": "HYPERVENOM",
       "url": "https://open.spotify.com/track/3yS5q2ye9UoBngRL0ubkzO"
@@ -11910,6 +12008,28 @@
       "duration_ms": 173297,
       "name": "L'argent fait le bonheur",
       "url": "https://open.spotify.com/track/5Z2OcOObLRf6oJcDmyfSyP"
+    },
+    {
+      "album": {
+        "name": "L'avocat du diable",
+        "url": "https://open.spotify.com/album/2FjPczAlbcBtfwMPOpB4Gx"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "DJ Manifest",
+          "url": "https://open.spotify.com/artist/054xXaZopv6j8jKPiQhVtT"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "L'avocat du diable",
+      "url": "https://open.spotify.com/track/6fQdj0ReyLSRsnbhb50HaV"
     },
     {
       "album": {
@@ -13582,6 +13702,28 @@
       "duration_ms": 242330,
       "name": "Ma mani\u00e8re",
       "url": "https://open.spotify.com/track/7oZr8ex0Tg9nnU9fQGPK4d"
+    },
+    {
+      "album": {
+        "name": "CUTEMAFIACLUB III",
+        "url": "https://open.spotify.com/album/52OE02AvaSUbR1b0STveZF"
+      },
+      "artists": [
+        {
+          "name": "Monsi",
+          "url": "https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002"
+        },
+        {
+          "name": "Monzo!",
+          "url": "https://open.spotify.com/artist/3TEuxSjKu6jSSVxB2uroC6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125706,
+      "name": "Ma paire",
+      "url": "https://open.spotify.com/track/6qwxtVbRxdmlvRQIjI37Xb"
     },
     {
       "album": {
@@ -15396,7 +15538,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 246950,
       "name": "Nephilim",
       "url": "https://open.spotify.com/track/1piIxkcqYpkrFUvesVRKIJ"
@@ -17260,7 +17402,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154021,
       "name": "Peace Out",
       "url": "https://open.spotify.com/track/3pGGpYfzPhhwDL2XtyRkqJ"
@@ -17388,6 +17530,36 @@
       "duration_ms": 136363,
       "name": "Peurple",
       "url": "https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0"
+    },
+    {
+      "album": {
+        "name": "LUX Ultra",
+        "url": "https://open.spotify.com/album/4GtRDAsovOqx7Wv0qLrzII"
+      },
+      "artists": [
+        {
+          "name": "DO, the Outcast",
+          "url": "https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "Lightitupav",
+          "url": "https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB"
+        },
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Phone Numbers",
+      "url": "https://open.spotify.com/track/1XGlWjrNG4RRip8G7iXCdQ"
     },
     {
       "album": {
@@ -17850,6 +18022,28 @@
       "duration_ms": 148944,
       "name": "Pousse-moi pas",
       "url": "https://open.spotify.com/track/1mOkfJmBM5OPLMD2lxw4i6"
+    },
+    {
+      "album": {
+        "name": "Poutine",
+        "url": "https://open.spotify.com/album/62u0GQBMF2OrhXwxliOUai"
+      },
+      "artists": [
+        {
+          "name": "ville",
+          "url": "https://open.spotify.com/artist/4fir5zmF98wOaxSg7l1k2u"
+        },
+        {
+          "name": "Xlueur",
+          "url": "https://open.spotify.com/artist/6CN49gLAqPL2uwy9SpnJSz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106627,
+      "name": "Poutine",
+      "url": "https://open.spotify.com/track/6GEwQ2hv6gXZFNolHOKhuo"
     },
     {
       "album": {
@@ -19378,7 +19572,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 142222,
       "name": "risk",
       "url": "https://open.spotify.com/track/0BnFZYKfuxHDazunCJ7sXK"
@@ -22000,7 +22194,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 117114,
       "name": "TOUS LES MATINS",
       "url": "https://open.spotify.com/track/3VH9WlV3UyTGdmUur4Pk4S"
@@ -23262,6 +23456,24 @@
       "duration_ms": 162077,
       "name": "VRAI FLEXEUR",
       "url": "https://open.spotify.com/track/1qeWMqvXFZEip3Po5Vk2AD"
+    },
+    {
+      "album": {
+        "name": "VRAI JOUR 1",
+        "url": "https://open.spotify.com/album/5GpmGcxSUuPusOe7K8wXu0"
+      },
+      "artists": [
+        {
+          "name": "Clem Tucker",
+          "url": "https://open.spotify.com/artist/2WDsIBAWo2fvkKq4MB9Q2s"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184872,
+      "name": "VRAI JOUR 1",
+      "url": "https://open.spotify.com/track/461rghK1D3MOKY1JmcYC6a"
     },
     {
       "album": {

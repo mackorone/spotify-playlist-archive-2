@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANO/aIPLRaNIk2UdOZW8FAqRvcRt",
+  "snapshot_id": "AAAAAM29uCo15acQGC5b810sgkAIXpQH",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:50",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M"
     },
     {
+      "added_at": "2026-05-22 04:01:27",
+      "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 232698,
+      "name": "Past The Veil",
+      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
+    },
+    {
       "added_at": "2026-04-24 04:01:57",
       "album": {
         "name": "We Swallowed The Sky",
@@ -127,6 +143,22 @@
       "duration_ms": 240425,
       "name": "Believing",
       "url": "https://open.spotify.com/track/7xaa764VHfmidbR2nKxQFE"
+    },
+    {
+      "added_at": "2026-05-22 04:01:27",
+      "album": {
+        "name": "Just My Friend",
+        "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Just My Friend",
+      "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
     },
     {
       "added_at": "2026-05-13 15:01:48",

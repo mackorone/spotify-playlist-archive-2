@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: VIDEOTAPEMUSIC  \(Japan\)
 
-2,592 songs - 6 day 13 hr 47 min
+2,593 songs - 6 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-09 | 2023-03-18 |
 | [Di Balik Senyap](https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Di Balik Senyap](https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF) | 5:46 | 2026-02-13 | 2026-05-01 |
 | [Di Hotel Malibu](https://open.spotify.com/track/27ItwuFyKZbYH3hcmeDXLI) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/2aIHJbIgpUnEa2n0Bpt9FR) | 2:32 | 2026-04-02 | 2026-05-08 |
-| [Di Pinggir Marjin](https://open.spotify.com/track/1HSuk23o9CUYts5IpXkayV) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Di Pinggir Marjin](https://open.spotify.com/album/0wPMikKrIjVQNb8JrsGN4i) | 4:52 | 2026-03-06 |  |
+| [Di Pinggir Marjin](https://open.spotify.com/track/1HSuk23o9CUYts5IpXkayV) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Di Pinggir Marjin](https://open.spotify.com/album/0wPMikKrIjVQNb8JrsGN4i) | 4:52 | 2026-03-06 | 2026-05-23 |
 | [Dia Datang](https://open.spotify.com/track/0MKRgtcLuwUkLqEP7QGU0t) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Dia Datang](https://open.spotify.com/album/53yB8tV4eBipi2IdA6pDcq) | 5:10 | 2026-03-12 | 2026-05-01 |
 | [Dial Tone](https://open.spotify.com/track/227u5UMtxhLQGWqDbkE0Oc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Dial Tone](https://open.spotify.com/album/7z9APiQaFzWNPP8uECGPgv) | 2:41 | 2025-02-13 | 2025-03-07 |
 | [Die in me](https://open.spotify.com/track/5jR4qthBWL7FQVZEKUjaBg) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [The Mole in My Eye](https://open.spotify.com/album/7GhhRwJJGfIgPoL27gPxjT) | 3:52 | 2025-02-27 | 2025-03-07 |
@@ -1250,7 +1250,7 @@
 | [Malam Nirwana](https://open.spotify.com/track/44zBSotYhpaIicffJAv2bL) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Malam Nirwana](https://open.spotify.com/album/2qh8FM3GQvTsPcPPTGEkQ8) | 3:40 | 2025-05-01 | 2025-05-09 |
 | [Man on the Run](https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in the House?](https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm) | 2:33 | 2025-08-14 | 2025-10-03 |
 | [Mananatili](https://open.spotify.com/track/683vYd6JzbsguUFrX5VeG9) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Mananatili](https://open.spotify.com/album/5xJmMjAm9YSLcZJ0wwAiaL) | 3:51 | 2022-05-19 | 2022-07-08 |
-| [Mangoes](https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Mangoes](https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks) | 3:16 | 2026-04-24 |  |
+| [Mangoes](https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Mangoes](https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks) | 3:16 | 2026-04-24 | 2026-05-23 |
 | [Maniac](https://open.spotify.com/track/7plWPKFiIFsLylrUGjQLK9) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [blank](https://open.spotify.com/album/0EJiS68X3eMoUx5bggiPLc) | 3:36 | 2024-03-28 | 2024-05-24 |
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-05-30 | 2024-06-14 |
 | [Manila Bay](https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R) | [Time & Pace](https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ) | 3:53 | 2024-10-03 | 2024-11-09 |
@@ -2069,7 +2069,7 @@
 | [to the sun](https://open.spotify.com/track/5aQo7kv4u7sBffv33tiDf4) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [to the sun](https://open.spotify.com/album/4KaoUgkGoDZjwrniEm9km8) | 3:56 | 2025-01-10 | 2025-02-14 |
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:11 | 2024-10-10 | 2024-11-01 |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 | 2025-03-18 |
-| [Today, Today](https://open.spotify.com/track/2HOHvjZiZRInQXcy1SXkHD) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [TRUTHBUSTER](https://open.spotify.com/album/2OlUMnS2qteJ6rY9LnZ0ht) | 4:09 | 2026-03-20 |  |
+| [Today, Today](https://open.spotify.com/track/2HOHvjZiZRInQXcy1SXkHD) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [TRUTHBUSTER](https://open.spotify.com/album/2OlUMnS2qteJ6rY9LnZ0ht) | 4:09 | 2026-03-20 | 2026-05-23 |
 | [Together](https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Together](https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g) | 3:10 | 2024-08-16 | 2024-10-18 |
 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2023-08-29 | 2025-06-20 |
 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 | 2025-05-22 | 2025-06-20 |
@@ -2523,7 +2523,7 @@
 | [景美](https://open.spotify.com/track/3czww3w60fmC2JZnxSa0Z7) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [景美](https://open.spotify.com/album/6QNJgsgKDRWVr5umnDgOGC) | 3:35 | 2022-05-12 | 2022-06-17 |
 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 | 2023-11-16 | 2024-03-07 |
 | [有一天](https://open.spotify.com/track/6LYIGvFde0mIodHHvFUStu) | [DSPS](https://open.spotify.com/artist/4EJY7H6gmi3nXtTvt2ddD7) | [yolk on rice](https://open.spotify.com/album/0jnjGWmIJYFxCXmyFM9reQ) | 4:50 | 2025-11-13 | 2026-02-06 |
-| [朝日呻吟](https://open.spotify.com/track/4G2EJU7FKZzIltd0S7dnVg) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [朝日呻吟](https://open.spotify.com/album/0aJ3yRcgYotmov6aqKUuF7) | 3:35 | 2026-05-07 |  |
+| [朝日呻吟](https://open.spotify.com/track/4G2EJU7FKZzIltd0S7dnVg) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [朝日呻吟](https://open.spotify.com/album/0aJ3yRcgYotmov6aqKUuF7) | 3:35 | 2026-05-07 | 2026-05-23 |
 | [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-03-27 | 2025-06-20 |
 | [末日之戀](https://open.spotify.com/track/04IkgvVjxtp5YrWqNtNPUX) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [末日之戀](https://open.spotify.com/album/3tHQ6niOyfDc5rQ3hQVVUc) | 3:40 | 2026-04-10 | 2026-05-08 |
 | [朱門](https://open.spotify.com/track/1wBMqwDvWnlJpXcQRtPUnI) | [Dizkar](https://open.spotify.com/artist/4D7p9lfzPO5MydS79xCVRx) | [肥瘦音樂：豪華體驗](https://open.spotify.com/album/2sqhKv3wOC9ReKOGZ8VU4P) | 3:59 | 2026-01-22 | 2026-03-27 |
@@ -2532,7 +2532,8 @@
 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-06-01 | 2023-09-12 |
 | [母船](https://open.spotify.com/track/3ZATN9nilk2MxQXkl2B7AL) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [卵](https://open.spotify.com/album/4qe0XanRyN4rIkJxjdSoh6) | 4:01 | 2024-04-19 | 2024-05-24 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-02 | 2023-04-14 |
-| [沈默的鉅作 \(Woah\)](https://open.spotify.com/track/3COViYoOHF8BPPBXzx0vWG) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [沈默的鉅作](https://open.spotify.com/album/03EoCbW2Hhj6XAUV9Otnii) | 3:15 | 2026-05-21 |  |
+| [沈默的鉅作 \(Woah\)](https://open.spotify.com/track/1KRcwLwKC0edMxdxBoDdRu) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [沈默的鉅作 \(Woah\)](https://open.spotify.com/album/37SHr9vPIi2vhSILwvqGbI) | 3:15 | 2026-05-22 |  |
+| [沈默的鉅作 \(Woah\)](https://open.spotify.com/track/3COViYoOHF8BPPBXzx0vWG) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [沈默的鉅作](https://open.spotify.com/album/03EoCbW2Hhj6XAUV9Otnii) | 3:15 | 2026-05-21 | 2026-05-23 |
 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 | 2022-09-08 | 2022-10-14 |
 | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha) | [鱼惺味](https://open.spotify.com/artist/7AMQEk5MoxhbLmZrXwtZ6X) | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/album/7JETECMEUMKSjmWZlIcoKo) | 4:18 | 2025-08-01 | 2025-09-26 |
 | [泡泡](https://open.spotify.com/track/75Ha2AzsRFnlZ0uNkEp5yu) | [VOOID](https://open.spotify.com/artist/5KQSa8lX9YzvetL7ol4zeq) | [泡泡](https://open.spotify.com/album/0wXVShnHlCqezUvFoQ2HpT) | 6:05 | 2024-05-02 | 2024-05-24 |

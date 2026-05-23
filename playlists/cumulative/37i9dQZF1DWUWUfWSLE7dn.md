@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-195 songs - 9 hr 30 min
+196 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Luminary](https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9) | 3:09 | 2024-10-08 |  |
 | [Main Theme](https://open.spotify.com/track/0BqVTj3PfExdgXUu4vq7tb) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps \(Original Soundtrack Recording\)](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) | 1:56 | 2022-11-08 |  |
 | [May You Have](https://open.spotify.com/track/4lxipbD2T5d8Qf9D5zcLyx) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Highland Hymn](https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb) | 3:12 | 2022-03-09 | 2022-11-09 |
+| [Merregnon: Heart of Ice: The Ice Labyrinth](https://open.spotify.com/track/08J96cMj76zpraZDbtSRFE) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Eckehard Stier](https://open.spotify.com/artist/6TKr9lhopxSd6jE1aOwHx5) | [Uematsu: Merregnon: Heart of Ice: The Ice Labyrinth](https://open.spotify.com/album/40boqzCo33r93RMhx1xlDj) | 2:03 | 2026-05-22 |  |
 | [Middle Of The Night \(Violin\)](https://open.spotify.com/track/4NctNkFaMwv4cvgtB7l1JX) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym), [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Middle Of The Night \(Violin\)](https://open.spotify.com/album/4q133kwwkwcrxDTPmd4Nsd) | 3:02 | 2024-10-08 | 2025-08-09 |
 | [Missing Elena](https://open.spotify.com/track/1uBtPNNgpnizxqnsaxp8lm) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Missing Elena](https://open.spotify.com/album/7u9xxfqJGVZlIx7oI2yXRz) | 3:20 | 2022-05-20 | 2022-11-09 |
 | [Misty Mountains](https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF) | [Richard Armitage](https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb), [The Dwarf Cast](https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT) | 1:43 | 2024-08-23 |  |

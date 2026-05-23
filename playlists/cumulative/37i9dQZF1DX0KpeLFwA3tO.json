@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Held.",
+  "description": "The best new music from the wide world of punk. Cover: NOFX",
   "name": "All New Punk",
   "tracks": [
     {
@@ -868,6 +868,24 @@
       "duration_ms": 165779,
       "name": "40 winks",
       "url": "https://open.spotify.com/track/0yrju5I0Ps2ISUVe8Am9wG"
+    },
+    {
+      "album": {
+        "name": "40 Years Of Fuckin' Up",
+        "url": "https://open.spotify.com/album/40GqQCxBnK9IUqLgNNrAsC"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215038,
+      "name": "40 Years Of Fuckin' Up",
+      "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
     },
     {
       "album": {
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 236229,
       "name": "All For What",
       "url": "https://open.spotify.com/track/7G6fgPBnfjQ4HZlT75DaNL"
@@ -7296,7 +7314,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 173435,
       "name": "Borrowed Happiness",
       "url": "https://open.spotify.com/track/2xkkwNHZZSWWOQxlHCXa24"
@@ -11414,7 +11432,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 152413,
       "name": "CONFLICT",
       "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
@@ -11548,6 +11566,24 @@
       "duration_ms": 121826,
       "name": "conversations",
       "url": "https://open.spotify.com/track/6J0ohmUrbssmeOlfFTb7aY"
+    },
+    {
+      "album": {
+        "name": "Convulsing In the Dark",
+        "url": "https://open.spotify.com/album/463iKjT2fH3tgd3yLrkOWh"
+      },
+      "artists": [
+        {
+          "name": "No Cure",
+          "url": "https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206253,
+      "name": "Convulsing In The Dark",
+      "url": "https://open.spotify.com/track/0gFb3LaE43VKFLWK3DfniZ"
     },
     {
       "album": {
@@ -12226,6 +12262,24 @@
       "duration_ms": 303097,
       "name": "Crypto",
       "url": "https://open.spotify.com/track/14QfDfgWFrPZHO1XPY10Vu"
+    },
+    {
+      "album": {
+        "name": "Crystallize",
+        "url": "https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
     },
     {
       "album": {
@@ -13254,7 +13308,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209464,
       "name": "Dead Roses",
       "url": "https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ"
@@ -13402,7 +13456,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 228621,
       "name": "Deadvolt",
       "url": "https://open.spotify.com/track/2uXDRubOmLZDR488k78w1N"
@@ -14629,6 +14683,24 @@
     },
     {
       "album": {
+        "name": "DISOBEY",
+        "url": "https://open.spotify.com/album/5hBLe5uEbF9yvCbGaqRDyE"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89743,
+      "name": "DISOBEY",
+      "url": "https://open.spotify.com/track/5zktOiqY89zRewKkUfJ45A"
+    },
+    {
+      "album": {
         "name": "Disruption",
         "url": "https://open.spotify.com/album/0tXfqlsm6CycM64gjI8v6N"
       },
@@ -15062,6 +15134,24 @@
       "duration_ms": 86882,
       "name": "DOG POUND",
       "url": "https://open.spotify.com/track/3FZaY7dTwbVFOA2e45vbin"
+    },
+    {
+      "album": {
+        "name": "Dog Years",
+        "url": "https://open.spotify.com/album/5PaiTi2st3ZgGSJphBQyBv"
+      },
+      "artists": [
+        {
+          "name": "Smirk",
+          "url": "https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Dog Years",
+      "url": "https://open.spotify.com/track/6aIvdrCnUurjjeT3LzPbfr"
     },
     {
       "album": {
@@ -21045,6 +21135,24 @@
     },
     {
       "album": {
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
+    },
+    {
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr"
       },
@@ -22197,6 +22305,24 @@
     },
     {
       "album": {
+        "name": "grin & bear it",
+        "url": "https://open.spotify.com/album/1jQ5ZRxtDbZxkf9EqZSr1K"
+      },
+      "artists": [
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197449,
+      "name": "grin & bear it",
+      "url": "https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB"
+    },
+    {
+      "album": {
         "name": "MG Ultra",
         "url": "https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL"
       },
@@ -22854,7 +22980,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 187252,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/08jYTI4ETlL5TcLiOy8Emk"
@@ -23326,7 +23452,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188653,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1brKQo3huirw1f3QdzWbmB"
@@ -23474,7 +23600,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174042,
       "name": "HELLO FUCK YOU!",
       "url": "https://open.spotify.com/track/7w1xSZ46isV1mKwlYw2I6I"
@@ -25636,7 +25762,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178730,
       "name": "I MISS CALIFORNIA AND EVERY DOG I'VE EVER MET",
       "url": "https://open.spotify.com/track/1RuGmIJQLUDMcEali4sk3R"
@@ -32370,7 +32496,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 244571,
       "name": "Lovebird",
       "url": "https://open.spotify.com/track/6wER8KfUAILrQvv65xWuWl"
@@ -33990,6 +34116,24 @@
       "duration_ms": 122823,
       "name": "MINE",
       "url": "https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv"
+    },
+    {
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2piSSxwWGQmBXWAG2sK3K7"
+      },
+      "artists": [
+        {
+          "name": "Siouxie and the Skunks",
+          "url": "https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163232,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/2cJQpVx6bUpqiR6y2PKUy7"
     },
     {
       "album": {
@@ -37065,6 +37209,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222753,
+      "name": "Nobody's Coming To Save You",
+      "url": "https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi"
+    },
+    {
+      "album": {
         "name": "nobody's favorite person, not even my own",
         "url": "https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b"
       },
@@ -39809,6 +39971,24 @@
     },
     {
       "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/5q2JX9rGpFhShtwDtjrtKY"
+      },
+      "artists": [
+        {
+          "name": "Phantom Bay",
+          "url": "https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101564,
+      "name": "Partisan",
+      "url": "https://open.spotify.com/track/2E3tLNPJRD6weoob4n9qpi"
+    },
+    {
+      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/65SqN2FhdLPa7WIfCFBbUc"
       },
@@ -39820,7 +40000,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 230480,
       "name": "Partners In Crime",
       "url": "https://open.spotify.com/track/4PEMZ0bCCza8yxfZAYrp9C"
@@ -46205,6 +46385,24 @@
     },
     {
       "album": {
+        "name": "Shooting Shadows",
+        "url": "https://open.spotify.com/album/6B2NjoUOLNGZ462oydPr8l"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165221,
+      "name": "Shooting Shadows",
+      "url": "https://open.spotify.com/track/5ECMARBz2SDvN9Fb9fFaPw"
+    },
+    {
+      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
@@ -51880,7 +52078,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 224163,
       "name": "The Babadook",
       "url": "https://open.spotify.com/track/7kiFmqk5psRoNAwHNKtFH2"
@@ -52198,7 +52396,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 156393,
       "name": "The Diamond",
       "url": "https://open.spotify.com/track/58GILsHKsbFYYO6hDcM5nw"
@@ -56669,6 +56867,24 @@
     },
     {
       "album": {
+        "name": "Velcro",
+        "url": "https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208096,
+      "name": "Velcro",
+      "url": "https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga"
+    },
+    {
+      "album": {
         "name": "Velvet Concrete Park",
         "url": "https://open.spotify.com/album/3lo5eE56hjhnNfVOB85i06"
       },
@@ -58490,6 +58706,24 @@
       "duration_ms": 100789,
       "name": "When The Band Breaks Up Again",
       "url": "https://open.spotify.com/track/00SjZFplLEDMtpFPNKRyHw"
+    },
+    {
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "album": {

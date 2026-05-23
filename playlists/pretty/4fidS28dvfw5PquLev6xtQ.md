@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > My favorite things are better than cash ruling everything around me 🙃
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 52 likes - 99 songs - 12 hr 35 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 53 likes - 99 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1541,28 +1541,6 @@
     },
     {
       "album": {
-        "name": "Christmas with Septura",
-        "url": "https://open.spotify.com/album/5ymSfKFQoN8HSOJQojBpyk"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Septura",
-          "url": "https://open.spotify.com/artist/4hrdF7Xgeh69KNDuN99f0G"
-        }
-      ],
-      "date_added": "2025-12-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 69146,
-      "name": "Christmas Oratorio, BWV 248: No. 9, Ach mein herzliebes Jesulein (Arr. M. Knight for Brass Septet)",
-      "url": "https://open.spotify.com/track/2yldGg8RCdsW9QaqmccQrG"
-    },
-    {
-      "album": {
         "name": "Chilcott: Christmas Oratorio: IV. Hymn: Thou whose almighty word",
         "url": "https://open.spotify.com/album/2nzmX2ciuOIWzAyTbxPRMO"
       },
@@ -4057,32 +4035,6 @@
     },
     {
       "album": {
-        "name": "100 Christmas Classics",
-        "url": "https://open.spotify.com/album/1rr46Z1wTkT5Tgv8nqZxtd"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/1RkAKrHWpc4fxEGhqSlzZT"
-        },
-        {
-          "name": "Michael Erxleben",
-          "url": "https://open.spotify.com/artist/0syXtfFQI9MLB7WNbEvL4H"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171720,
-      "name": "Messiah, HWV 56, Pt. 1: No. 13, Pifa \"Pastoral Symphony\"",
-      "url": "https://open.spotify.com/track/536RfzvFtYfkqn9jFYfQHZ"
-    },
-    {
-      "album": {
         "name": "Cambridge Singers Christmas Album",
         "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
       },
@@ -4162,6 +4114,54 @@
       "duration_ms": 108000,
       "name": "Nesem v\u00e1m noviny",
       "url": "https://open.spotify.com/track/52lFjVQ1Y1rFvhJ4ZVOIim"
+    },
+    {
+      "album": {
+        "name": "100 Christmas Classics",
+        "url": "https://open.spotify.com/album/1rr46Z1wTkT5Tgv8nqZxtd"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/1RkAKrHWpc4fxEGhqSlzZT"
+        },
+        {
+          "name": "Michael Erxleben",
+          "url": "https://open.spotify.com/artist/0syXtfFQI9MLB7WNbEvL4H"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "No. 13, Pifa \"Pastoral Symphony\"",
+      "url": "https://open.spotify.com/track/536RfzvFtYfkqn9jFYfQHZ"
+    },
+    {
+      "album": {
+        "name": "Christmas with Septura",
+        "url": "https://open.spotify.com/album/5ymSfKFQoN8HSOJQojBpyk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Septura",
+          "url": "https://open.spotify.com/artist/4hrdF7Xgeh69KNDuN99f0G"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69146,
+      "name": "No. 9, Ach mein herzliebes Jesulein (Arr. M. Knight for Brass Septet)",
+      "url": "https://open.spotify.com/track/2yldGg8RCdsW9QaqmccQrG"
     },
     {
       "album": {

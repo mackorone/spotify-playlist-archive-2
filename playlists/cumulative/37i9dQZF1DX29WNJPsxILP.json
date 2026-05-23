@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Naam Sujal, Siyaahi & Dhanji",
+  "description": "Best of Hindi Hip-Hop! Cover: Young Aytee",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 189717,
       "name": "Bulletproof (From \"Lukkhe\")",
       "url": "https://open.spotify.com/track/2vDKx0f8l8pP2o0Xln1Nv2"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 192500,
       "name": "DREAMS",
       "url": "https://open.spotify.com/track/4YNoJ57umeUGKPwzV2cQF9"
@@ -4465,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "DNW (Desi New Wave)",
+        "url": "https://open.spotify.com/album/6Yvv5saVmNSWFQEuEkpX47"
+      },
+      "artists": [
+        {
+          "name": "Young Aytee",
+          "url": "https://open.spotify.com/artist/7eEc91UP4LiMMNOGg2fAzY"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "MY WAY",
+      "url": "https://open.spotify.com/track/6BUFHcVxtGT0ySekzyxfMM"
+    },
+    {
+      "album": {
         "name": "Na Pata Mujhe",
         "url": "https://open.spotify.com/album/5sQ9Adht5qiFiF2kyNZDdm"
       },
@@ -5115,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "Public Notice",
+        "url": "https://open.spotify.com/album/2ZzS0QaAJkh43G49uiquKS"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236153,
+      "name": "Public Notice",
+      "url": "https://open.spotify.com/track/131omEMzQUrzBZGZDQTIAo"
+    },
+    {
+      "album": {
         "name": "Punja Daab",
         "url": "https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s"
       },
@@ -5446,6 +5486,28 @@
       "duration_ms": 149696,
       "name": "Sad Gaana",
       "url": "https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB"
+    },
+    {
+      "album": {
+        "name": "SADAK 2.0",
+        "url": "https://open.spotify.com/album/0f2a5J5q1CcDkPGarPL2q9"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237998,
+      "name": "SADAK 2.0",
+      "url": "https://open.spotify.com/track/7jhPEKiDPU2hOhRJ7vv0Cg"
     },
     {
       "album": {
@@ -5800,7 +5862,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182664,
       "name": "SHOR",
       "url": "https://open.spotify.com/track/19zeSEyrjrqz7NH0YCWgJf"

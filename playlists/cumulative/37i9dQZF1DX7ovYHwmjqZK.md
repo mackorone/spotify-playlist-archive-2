@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-169 songs - 10 hr 8 min
+170 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 | 2021-11-26 |  |
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2021-11-26 |  |
 | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW) | [Chico Teixeira](https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW) | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn) | 2:41 | 2021-11-26 | 2023-11-25 |
-| [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 | 2024-08-23 |  |
+| [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 | 2024-08-23 | 2026-05-23 |
 | [Batidinha](https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 3:17 | 2021-11-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2021-11-26 |  |
 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 | 2021-11-26 |  |
@@ -134,6 +134,7 @@
 | [Samba E Amor](https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:52 | 2021-11-26 |  |
 | [Samba E Amor](https://open.spotify.com/track/6lpKDgaz4bitlyCCaiqceS) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Culpar al destino](https://open.spotify.com/album/16Qwqzzv4mIwlVDporwRaj) | 2:52 | 2022-10-14 | 2022-11-13 |
 | [Samba E Amor](https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 2:54 | 2021-11-26 | 2024-04-19 |
+| [Samba Impossível](https://open.spotify.com/track/7d9k8coOOz9Q91b27cYgIt) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Gilson Peranzzetta](https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm) | [O Mundo Livre de Menesca & Peranzza](https://open.spotify.com/album/61LlrDlnAnoNy3CpLC5oFB) | 3:08 | 2026-05-22 |  |
 | [Samba Sem Verão](https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9) | [Marcio Nucci](https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa), [Delia Fischer](https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Samba Sem Verão](https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH) | 4:13 | 2021-11-26 |  |
 | [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 | 2021-11-26 |  |
 | [Saudade da Saudade](https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR) | [Zé Miguel Wisnik](https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV), [José Miguel Wisnik](https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Sérgio Reze](https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF) | [O Anel \- Alaíde Costa Canta José Miguel Wisnik](https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy) | 4:14 | 2021-11-26 | 2024-08-10 |

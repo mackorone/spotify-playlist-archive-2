@@ -3479,6 +3479,36 @@
     },
     {
       "album": {
+        "name": "Eterno Retorno",
+        "url": "https://open.spotify.com/album/6LD1Twe6aXJyvc71sG6q2i"
+      },
+      "artists": [
+        {
+          "name": "Franqui Quiroga",
+          "url": "https://open.spotify.com/artist/3dXG6EbTyUNV7AaOp82wYs"
+        },
+        {
+          "name": "Kamada",
+          "url": "https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1XRqeyhOdnGNSaSORALpqY"
+        },
+        {
+          "name": "dj totaim",
+          "url": "https://open.spotify.com/artist/1tWueJPiiPrUTm9GVKZw4C"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Eterno Retorno",
+      "url": "https://open.spotify.com/track/3KLW0UqMdtby0wyvU844Ha"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1o",
         "url": "https://open.spotify.com/album/1mRJ6tAbjiDpNh1SWwajr7"
       },
@@ -3640,6 +3670,32 @@
       "duration_ms": 185526,
       "name": "Fino Siempre Brego",
       "url": "https://open.spotify.com/track/6VphjEZkYMKVqskBXSX8JJ"
+    },
+    {
+      "album": {
+        "name": "Firmes",
+        "url": "https://open.spotify.com/album/19pCSZDqDF822Orlj9C9hu"
+      },
+      "artists": [
+        {
+          "name": "Mati RJ",
+          "url": "https://open.spotify.com/artist/2ejm4L3s2FlqbYIKPPltxH"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "The B Brothers",
+          "url": "https://open.spotify.com/artist/6aMj3NbElv7ZTyrzy0KNzL"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Firmes",
+      "url": "https://open.spotify.com/track/7tX1xJvf1EM0vP6Hc4NPV4"
     },
     {
       "album": {
@@ -4162,7 +4218,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 157333,
       "name": "Gatita Under",
       "url": "https://open.spotify.com/track/62Fr9rBVEj3CYMtFoSM5R0"
@@ -6632,7 +6688,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185660,
       "name": "NOS RELOJEAN",
       "url": "https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u"
@@ -7935,6 +7991,32 @@
     },
     {
       "album": {
+        "name": "Rokit",
+        "url": "https://open.spotify.com/album/0gOeYlkhAKet9hEIsXqTYE"
+      },
+      "artists": [
+        {
+          "name": "Up & Down",
+          "url": "https://open.spotify.com/artist/5qj3vh4PhXH79eMEB7Q0v5"
+        },
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        },
+        {
+          "name": "Billy-G",
+          "url": "https://open.spotify.com/artist/54sFijfR6VAZXa8qQaoxqs"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Rokit",
+      "url": "https://open.spotify.com/track/5VRt5Ss75PnGOiXooOyxuw"
+    },
+    {
+      "album": {
         "name": "Rom\u00e1n",
         "url": "https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh"
       },
@@ -8026,7 +8108,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 199419,
       "name": "Rutracker",
       "url": "https://open.spotify.com/track/29f3hpbcyLSdCfs44Qw7RI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Maluma.",
+  "description": "Perreando toda la noche con Alvaro D\u00edaz.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 209108,
       "name": "100pol35",
       "url": "https://open.spotify.com/track/17720TgdxMGIBuu11ymavE"
@@ -9342,7 +9342,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 142125,
       "name": "GATITA OFICIAL",
       "url": "https://open.spotify.com/track/30RUPqywtsbXklcqmRn0Cn"
@@ -16215,6 +16215,36 @@
     },
     {
       "album": {
+        "name": "Os Drak da Vila",
+        "url": "https://open.spotify.com/album/1c3dJVEKEUPF2b5UbODtgc"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "MC Pessoa",
+          "url": "https://open.spotify.com/artist/1mo4tDfAbYvXNylm8hExb7"
+        },
+        {
+          "name": "MC GDL",
+          "url": "https://open.spotify.com/artist/65uZqk8hbCuVjZa3l9WWt1"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "Os Drak da Vila",
+      "url": "https://open.spotify.com/track/1xwjMnvp6efYhog0kqyBnE"
+    },
+    {
+      "album": {
         "name": "En Alta",
         "url": "https://open.spotify.com/album/0kv4uK3Io0mb6E609YJ1Gr"
       },
@@ -17534,6 +17564,28 @@
       "duration_ms": 178142,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0nMQi4r84bkq8hFnFJNaaL"
+    },
+    {
+      "album": {
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243319,
+      "name": "PERDISTE EL EMMY.",
+      "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
     },
     {
       "album": {
@@ -21136,7 +21188,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 139591,
       "name": "Seguimo a lo Under",
       "url": "https://open.spotify.com/track/2jfN0x37f1x3w0PNwLMnxZ"
@@ -22332,6 +22384,36 @@
       "duration_ms": 131956,
       "name": "SUDARI",
       "url": "https://open.spotify.com/track/16uz1SEv3PuzRNPFeW5er4"
+    },
+    {
+      "album": {
+        "name": "SUPER ESTRELL\u00c1",
+        "url": "https://open.spotify.com/album/5mQvY5J5GVYLatJxlcPDRy"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193608,
+      "name": "SUPER ESTRELL\u00c1",
+      "url": "https://open.spotify.com/track/5doVcAd81IK68erdkSs0dg"
     },
     {
       "album": {

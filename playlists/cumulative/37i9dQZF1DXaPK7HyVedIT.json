@@ -15449,6 +15449,24 @@
     },
     {
       "album": {
+        "name": "Rise Together EP",
+        "url": "https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182343,
+      "name": "Rise Together",
+      "url": "https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG"
+    },
+    {
+      "album": {
         "name": "RITZ",
         "url": "https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP"
       },
@@ -18740,24 +18758,6 @@
       "duration_ms": 236220,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U"
-    },
-    {
-      "album": {
-        "name": "Rise Together EP",
-        "url": "https://open.spotify.com/album/1n3AF1bGbwyazOQKqRr2dD"
-      },
-      "artists": [
-        {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1NVZn8fURvbX9xPJXO99tG"
     },
     {
       "album": {

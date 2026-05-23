@@ -9543,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "Step Vey",
+        "url": "https://open.spotify.com/album/7K6nDnG7QdiD928bpZ8ic4"
+      },
+      "artists": [
+        {
+          "name": "Yo STAR KRISH",
+          "url": "https://open.spotify.com/artist/1lO7kwj88vBhvLqktA06tn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Step Vey",
+      "url": "https://open.spotify.com/track/3xlfOfGSZBxmBfu5oe34RG"
+    },
+    {
+      "album": {
         "name": "Style (Maati S1)",
         "url": "https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO"
       },

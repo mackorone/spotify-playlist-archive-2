@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: TyriqueOrDie
 
-414 songs - 21 hr 36 min
+416 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Can You Be](https://open.spotify.com/track/3zoBAXsq6sFHs6T8yuoizy) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Kadiri](https://open.spotify.com/artist/3kZSDkPCtc5ICgzAmZSP4e) | [Can You Be](https://open.spotify.com/album/4rlDBqeWrfgWjLB3arW6Rv) | 3:13 | 2025-04-21 |  |
 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-10-27 | 2023-11-25 |
 | [Celeste](https://open.spotify.com/track/752zVBaA1LL8glTSAE4NFF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Celeste](https://open.spotify.com/album/2tVjIqXhXzuAvvUrth1sHZ) | 3:58 | 2024-08-30 |  |
+| [Chanel](https://open.spotify.com/track/4M2wpBspHtN6DVkSsEM1Fk) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Chanel](https://open.spotify.com/album/2aDRBThYdeLPU8G5phnteD) | 2:35 | 2026-05-22 |  |
 | [Changes](https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Changes](https://open.spotify.com/album/62sLTTuUdEYDnVHCdp3poe) | 5:04 | 2023-10-27 | 2024-02-27 |
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2023-10-27 | 2023-11-25 |
 | [Circuit](https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Limbo Slice](https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d) | [Circuit](https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE) | 3:25 | 2026-02-21 |  |
@@ -63,6 +64,7 @@
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-10-27 | 2024-05-13 |
 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-19 |  |
 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 | 2024-04-26 | 2024-05-04 |
+| [COLORADO](https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [COLORADO](https://open.spotify.com/album/0USW5CxIlgyrR0tSuOE8KC) | 1:54 | 2026-05-22 |  |
 | [Contemporary Love \- Paul Woolford Remix](https://open.spotify.com/track/5gyhzAGsG6Ezkv1OewvUu2) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Contemporary Love \(Paul Woolford Remix\)](https://open.spotify.com/album/6hrIx4HctLLoQUstYYsoIE) | 2:49 | 2023-10-27 | 2025-01-22 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2025-01-22 |
 | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm) | 3:15 | 2025-02-03 |  |

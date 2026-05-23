@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:47lrOrvCYsOUCEQQsj119K">Yung Singh</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,122 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,158 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [bring colour into my world](https://open.spotify.com/track/2yb38apuBUwNKwl66QvATH) | [Wallis](https://open.spotify.com/artist/6hMlsH6wXwl7BjZHZWJ2HZ) | [bring colour into my world](https://open.spotify.com/album/5q6yFSh2sITUn1KUfG2ARI) | 5:44 |
 | 50 | [Mrzy 2 \- Stone Mix](https://open.spotify.com/track/6VWzDlMg5tMjR71m1Db5S8) | [John T\. Gast](https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv) | [Infant](https://open.spotify.com/album/3mvCjBirMEPmvKTOgU6b9P) | 5:14 |
 
-Snapshot ID: `AAAAAKZghjo/j/kIWm1nvcshLhwyjBhM`
+Snapshot ID: `AAAAAI5iUBIbCebXCoUsxWnJ30kpbLNc`

@@ -4,7 +4,7 @@
 
 > Posłuchaj nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-248 songs - 17 hr 27 min
+249 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 | 2026-05-13 |  |
 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 | 2025-03-06 | 2026-05-14 |
 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 | 2024-03-25 | 2025-03-07 |
+| [Czas rozpalić piec](https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2) | [Włodzimierz Nahorny](https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS), [Nula Stankiewicz](https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS) | [Czas rozpalić piec](https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR) | 4:10 | 2026-05-13 |  |
 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 | 2024-03-25 | 2025-03-07 |
 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 | 2026-05-13 |  |
 | [De Joe](https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae) | [Zbigniew Jakubek](https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV), [Marek Raduli](https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e), [Michał Grott](https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu), [Michał Dąbrówka](https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr) | [De Joe](https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt) | 8:01 | 2024-03-25 | 2025-03-07 |
@@ -69,7 +70,7 @@
 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 | 2024-03-25 | 2025-03-07 |
 | [Futurama 3 \(fanserwis\)](https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Gedz](https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a), [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm) | [Futurama 3 \(fanserwis\)](https://open.spotify.com/album/3SO1Pzy8RRa66qGR5yAhBt) | 4:36 | 2025-03-06 | 2026-05-14 |
 | [Gelato](https://open.spotify.com/track/6ggmioMS1gYK0I5AAdv2NH) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:15 | 2024-03-25 | 2025-03-07 |
-| [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 | 2026-05-13 |  |
+| [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 | 2026-05-13 | 2026-05-23 |
 | [Gospel Song](https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD) | [WSPÓŁGŁOSY](https://open.spotify.com/artist/54Qt7Nkw3WSs9B87ThONjK), [Marcel Baliński](https://open.spotify.com/artist/2pji5lbpgJtbFUXwGNKsNW) | [Współgłosy](https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA) | 1:31 | 2025-03-06 | 2026-05-14 |
 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 | 2025-03-06 | 2026-05-14 |
 | [Górniczy stan](https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58) | [Marcin Wyrostek](https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL), [Orkiestra Symfoniczna Filharmonii Śląskiej](https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d), [Urszula Dudziak](https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk), [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Tradycyja](https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV) | 4:38 | 2025-03-06 | 2026-05-14 |

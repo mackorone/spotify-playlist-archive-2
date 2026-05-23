@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138989,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man\u2019s Desiring (Transcr. Hess for Piano)",
         "url": "https://open.spotify.com/album/2nEKEXX0SONygbGBA7bsuF"
       },

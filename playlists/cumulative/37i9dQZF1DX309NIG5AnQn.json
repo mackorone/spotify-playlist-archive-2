@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Bestia Beb\u00e9",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 RYAN",
   "name": "alt.rock",
   "tracks": [
     {
@@ -600,6 +600,24 @@
       "duration_ms": 160502,
       "name": "Ba\u00f1o de Sangre",
       "url": "https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj"
+    },
+    {
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164624,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE"
     },
     {
       "album": {
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "El Color del Mar",
+        "url": "https://open.spotify.com/album/1tvVYNHhsaychq5azdt6rX"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273193,
+      "name": "Excepcional",
+      "url": "https://open.spotify.com/track/2BhscWWOTsNtLUk4H8Xg4t"
+    },
+    {
+      "album": {
         "name": "Excursiones",
         "url": "https://open.spotify.com/album/4Cd1vQB8eqsz58K2mMuiFE"
       },
@@ -2680,6 +2716,24 @@
       "duration_ms": 195039,
       "name": "Gracias a Vos",
       "url": "https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN"
+    },
+    {
+      "album": {
+        "name": "Gringa Gringa",
+        "url": "https://open.spotify.com/album/19w6WAIKzdEImIdLeYlyAs"
+      },
+      "artists": [
+        {
+          "name": "SHOOSH",
+          "url": "https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299662,
+      "name": "Gringa Gringa",
+      "url": "https://open.spotify.com/track/561pFwIK3pcEg4MIgZVFrz"
     },
     {
       "album": {
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 225494,
       "name": "IDEAS MALAS +",
       "url": "https://open.spotify.com/track/6bpePYpOPcMLSrQwAMdXWq"
@@ -4668,7 +4722,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188696,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9"
@@ -6190,7 +6244,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 239203,
       "name": "Ya No Quiero Bailar",
       "url": "https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e"

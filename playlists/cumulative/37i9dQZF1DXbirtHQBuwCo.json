@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Olivia Marsh (\uc62c\ub9ac\ube44\uc544 \ub9c8\uc26c))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Gemini)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -11517,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "No Sugar in My Coffee",
+        "url": "https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "No Sugar in My Coffee",
+      "url": "https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f"
+    },
+    {
+      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -13644,7 +13662,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 130666,
       "name": "Roll",
       "url": "https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA"

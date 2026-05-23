@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Riot Ten",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Moody Good",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178285,
       "name": "ACID",
       "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "BE YOUR GHOST (feat. Roniit)",
       "url": "https://open.spotify.com/track/0YPy0ANcvTy5TrlWb6gJzJ"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/3yyM82APRc7v9P2jp4zjLE"
@@ -3296,6 +3296,24 @@
       "duration_ms": 151285,
       "name": "BLUNT SONG",
       "url": "https://open.spotify.com/track/4DtU9Pd6aqxfwFhQRaERIL"
+    },
+    {
+      "album": {
+        "name": "SPEEEDBUMP 01",
+        "url": "https://open.spotify.com/album/4Fz8otbOFmbFFelkTqmQYe"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Blurry Flurry",
+      "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
     },
     {
       "album": {
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Cash Out - YDG Remix",
       "url": "https://open.spotify.com/track/6ewgmx37XRRI3WZgtUbEEY"
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/1Evh2OWoESQAefl99XpFf4"
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 214372,
       "name": "CRASH OUT",
       "url": "https://open.spotify.com/track/37SWlw7MnjwthyjTJZKGoy"
@@ -7744,7 +7762,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 159428,
       "name": "DMT",
       "url": "https://open.spotify.com/track/7hWzKjcvsPIYORcrQ3zIia"
@@ -8654,7 +8672,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 220036,
       "name": "Ear Candy",
       "url": "https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu"
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 175448,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf"
@@ -10252,7 +10270,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 294857,
       "name": "Fire Linking Curse",
       "url": "https://open.spotify.com/track/2WAjBoUbqzIBES1l2DfmW1"
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 181655,
       "name": "Floot Loops",
       "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
@@ -11310,7 +11328,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 266400,
       "name": "GATEKEEPER",
       "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
@@ -12000,7 +12018,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 179000,
       "name": "Gut Feeling",
       "url": "https://open.spotify.com/track/4QaJ8qopyxWowl5C4nuGed"
@@ -13134,7 +13152,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 208035,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
@@ -13306,7 +13324,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 257648,
       "name": "Humid",
       "url": "https://open.spotify.com/track/0ZYi6XTTjoOQSDWy8Ubx5x"
@@ -13408,7 +13426,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 123830,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF"
@@ -14426,7 +14444,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 220824,
       "name": "Into U",
       "url": "https://open.spotify.com/track/7wi2gH9nsmatzDXs7Owitx"
@@ -14678,7 +14696,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 183428,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/2wVGikrHyivMCxdXTc5fsx"
@@ -15956,7 +15974,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Ybl2ps2tWOsD7rbiMU0Id"
@@ -16692,7 +16710,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -19170,7 +19188,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 226069,
       "name": "Open The Pit",
       "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
@@ -19480,7 +19498,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "OUT THE DIRT",
       "url": "https://open.spotify.com/track/0oMsxqEE3O0LyA5Fkc75P9"
@@ -19502,7 +19520,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "OUTLAWS",
       "url": "https://open.spotify.com/track/3DMyyEVcRhKd4lC5XdB653"
@@ -19882,7 +19900,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 160551,
       "name": "Play It Twice",
       "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
@@ -20208,7 +20226,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 161600,
       "name": "Pop, Lock & Drop It",
       "url": "https://open.spotify.com/track/3MGgzQBgl3nnrqychGdTtw"
@@ -21224,7 +21242,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168629,
       "name": "Rave Repeater",
       "url": "https://open.spotify.com/track/7vHFbHovK5g1MoWK7s696a"
@@ -22398,7 +22416,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 218482,
       "name": "Royal Blood",
       "url": "https://open.spotify.com/track/5L82P216AtFQS1YzGNge29"
@@ -24024,7 +24042,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 165982,
       "name": "Sleepy Hollow",
       "url": "https://open.spotify.com/track/3JMSPlp7DwYBf91nb0D35O"
@@ -24394,7 +24412,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204923,
       "name": "SONG REQUEST",
       "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
@@ -24452,7 +24470,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 245142,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2PFb529GawSghUq9dFJULp"
@@ -24610,7 +24628,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 170958,
       "name": "Space Whip",
       "url": "https://open.spotify.com/track/3ImEoNEyJXzpqkAwITnXCh"
@@ -27664,7 +27682,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 144335,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
@@ -28248,7 +28266,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 206400,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/2szlu9y9Q1S0UWcolBtyNJ"
@@ -28562,7 +28580,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"
@@ -28808,7 +28826,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 129629,
       "name": "VOLTAGE",
       "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
@@ -29046,7 +29064,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 169254,
       "name": "Want To Go",
       "url": "https://open.spotify.com/track/0g6N8pe0YwPd962Tckv2gn"
@@ -29438,6 +29456,28 @@
       "duration_ms": 195400,
       "name": "WDGAF",
       "url": "https://open.spotify.com/track/5Z3kCJv6U3hQ6Ti7ujd8Fj"
+    },
+    {
+      "album": {
+        "name": "WE SET IT",
+        "url": "https://open.spotify.com/album/2e6JtBXQg27iaaoauNmCZc"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "WE SET IT",
+      "url": "https://open.spotify.com/track/4QNQhyZRtjBYuvZgmn6dZL"
     },
     {
       "album": {

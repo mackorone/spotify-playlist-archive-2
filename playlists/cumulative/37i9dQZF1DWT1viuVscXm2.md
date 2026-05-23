@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-450 songs - 1 day 1 hr 24 min
+451 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 | 2024-09-28 |
 | [Cosas Pendientes](https://open.spotify.com/track/1TVfQEk0GYwfgCyajd1bNC) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Cosas Pendientes](https://open.spotify.com/album/54GetTgDwtsTB1rFfJTWi3) | 3:04 | 2025-03-28 | 2025-05-03 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-01-17 |  |
-| [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5rULZ8X4zPeTR5uMOBmCok) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Cuando Casi Te Olvidaba](https://open.spotify.com/album/5JXWEojlnN158g5IWSALss) | 3:43 | 2026-01-23 |  |
+| [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5rULZ8X4zPeTR5uMOBmCok) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Cuando Casi Te Olvidaba](https://open.spotify.com/album/5JXWEojlnN158g5IWSALss) | 3:43 | 2026-01-23 | 2026-05-23 |
 | [Cuando Estamos Juntos](https://open.spotify.com/track/0WtWzRthiwZgWqqAJXNuqr) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cuando Estamos Juntos](https://open.spotify.com/album/7ll3oGqfV6bBZLbNhU9QOV) | 3:21 | 2025-12-10 |  |
 | [Cuando Estoy Junto a Ti](https://open.spotify.com/track/7q4y6wIVvbK7F3pRdmhGag) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Cuando Estoy Junto a Ti](https://open.spotify.com/album/4tPeuU0CqqXN5IqN3yegkK) | 2:35 | 2025-07-11 | 2025-09-13 |
 | [Cuidado Que Te Supero](https://open.spotify.com/track/1e4Tx54QsKMoHdHsZCEFM3) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Cuidado Que Te Supero](https://open.spotify.com/album/4W2q8WrlRkTXxo3W8iUNtQ) | 2:34 | 2025-05-02 | 2025-07-12 |
@@ -379,6 +379,7 @@
 | [Te Juro Que No Es Verdad](https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Juro Que No Es Verdad](https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO) | 2:35 | 2024-10-18 | 2024-11-02 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-27 |
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2021-12-24 | 2024-01-20 |
+| [Te Miré](https://open.spotify.com/track/5AlUiQZSmPRSEg2fNR8BQt) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te Miré](https://open.spotify.com/album/1Gf484M4FT622DPxqjN3jS) | 2:37 | 2026-05-22 |  |
 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 | 2021-12-24 | 2024-07-20 |
 | [Te sigo amando](https://open.spotify.com/track/6HkNsuQygqug6v3WpoWd9R) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Te sigo amando](https://open.spotify.com/album/41ZuRJWoC3cNVkwEcrF1Ht) | 3:27 | 2025-08-22 | 2025-09-16 |
 | [Te Vas](https://open.spotify.com/track/1G6IPYBsyOdJvsl0rMAMU9) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Te Vas](https://open.spotify.com/album/0eYns1nAIWjjCU41lSgaKx) | 3:53 | 2024-12-06 |  |

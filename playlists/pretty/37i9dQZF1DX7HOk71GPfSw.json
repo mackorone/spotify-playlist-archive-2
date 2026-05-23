@@ -1,13 +1,29 @@
 {
-  "description": "May God Save The Three \ud83c\udf0a",
-  "num_followers": 500916,
+  "description": "King Nothingg Returns",
+  "num_followers": 500968,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1IZfnTCmgydMgGXd2GKhRYUgkY",
+  "snapshot_id": "AAAAAHfZTwWaIrzqLedWFYYLnMCT65Th",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:25",
+      "album": {
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 217672,
+      "name": "Versailles Flow",
+      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
+    },
     {
       "added_at": "2026-05-08 04:03:55",
       "album": {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdf43Md5h6cE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdf43Md5h6cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdf43Md5h6cE)
 
-### [Ambient Dreamscapes](https://open.spotify.com/playlist/37i9dQZF1DXdf43Md5h6cE)
+### [Ambient Dreams](https://open.spotify.com/playlist/37i9dQZF1DXdf43Md5h6cE)
 
 > Fill your mind with music for dreaming, thinking and longing.
 

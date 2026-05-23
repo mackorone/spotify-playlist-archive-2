@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 219047,
       "name": "Affection",
       "url": "https://open.spotify.com/track/44nG4fWJf3QnqBepcKtmxt"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 124545,
       "name": "Afters",
       "url": "https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 178139,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172661,
       "name": "Black Out Days (Stay Away)",
       "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 210461,
       "name": "Come Inside",
       "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
@@ -2321,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/50ZzvTxsiTrg0Yw0GARTEu"
+      },
+      "artists": [
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/2BqjXHLzJoSogA5U3bGn2P"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf"
       },
@@ -2580,6 +2602,28 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "album": {
+        "name": "Down For You (feat. Jyll)",
+        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Down For You (feat. Jyll)",
+      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
     },
     {
       "album": {
@@ -3382,6 +3426,46 @@
       "duration_ms": 193500,
       "name": "FREAK IN THE SHEETS",
       "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+    },
+    {
+      "album": {
+        "name": "Freaky G",
+        "url": "https://open.spotify.com/album/1MZzehRfHeQ2G7vTAQUgwn"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181507,
+      "name": "Freaky G",
+      "url": "https://open.spotify.com/track/03D6iANytXIFwl10jNUMci"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "album": {
@@ -5249,6 +5333,28 @@
     },
     {
       "album": {
+        "name": "Let Me Be In Your Arms",
+        "url": "https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Let Me Be In Your Arms",
+      "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
+    },
+    {
+      "album": {
         "name": "Lies (feat. Mila Falls)",
         "url": "https://open.spotify.com/album/3aDUGFHbqWla3M3xJ9mTZG"
       },
@@ -6252,7 +6358,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170213,
       "name": "My Loving",
       "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
@@ -7579,6 +7685,32 @@
     },
     {
       "album": {
+        "name": "Save Me Tonight (DJs From Mars Remix)",
+        "url": "https://open.spotify.com/album/5woqizzx92CIUWBrXtUIFt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Save Me Tonight - DJs From Mars Remix",
+      "url": "https://open.spotify.com/track/0BxSI26JIdSnulOeJDuRvl"
+    },
+    {
+      "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
@@ -7634,7 +7766,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
@@ -7976,6 +8108,32 @@
       "duration_ms": 173129,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63"
+    },
+    {
+      "album": {
+        "name": "So Good (feat. Kuuda)",
+        "url": "https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "So Good (feat. Kuuda)",
+      "url": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY"
     },
     {
       "album": {
@@ -8568,7 +8726,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 206009,
       "name": "Taking Over (feat. Obi Franky)",
       "url": "https://open.spotify.com/track/7fnm4mEmlhV9p9s2VhrLab"
@@ -8894,6 +9052,24 @@
       "duration_ms": 219738,
       "name": "Texting At Midnight",
       "url": "https://open.spotify.com/track/1dXU7GzSDtcDLprQwcAQyM"
+    },
+    {
+      "album": {
+        "name": "That Far",
+        "url": "https://open.spotify.com/album/1UXVs3IHWEvSkpBRHrUnyP"
+      },
+      "artists": [
+        {
+          "name": "Faux Real",
+          "url": "https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203083,
+      "name": "That Far",
+      "url": "https://open.spotify.com/track/0n9Ja7NNSuNOx8NylBe3ng"
     },
     {
       "album": {
@@ -9292,7 +9468,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"
@@ -9726,7 +9902,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190153,
       "name": "WACUKA",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
@@ -10130,7 +10306,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 157187,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/34o7rYBXpWWccWbNFD9WmT"
@@ -10313,6 +10489,28 @@
     },
     {
       "album": {
+        "name": "Lost, Found & Forgotten...",
+        "url": "https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/7vmGFcVZQMN6Pe1R2D81LA"
+    },
+    {
+      "album": {
         "name": "WILDFIRE",
         "url": "https://open.spotify.com/album/5kckaBe8QaB0WzC6fByoem"
       },
@@ -10450,6 +10648,28 @@
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
+    },
+    {
+      "album": {
+        "name": "Whitcomb vs. Flores",
+        "url": "https://open.spotify.com/album/2vb19WvLlPGC53cSSLSKdD"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156318,
+      "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/03w0lRrN7fzXyITv0ytl1Y"
     },
     {
       "album": {
@@ -10640,6 +10860,28 @@
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/3PBBPe3sLWrH2i6g5U4lRc"
+    },
+    {
+      "album": {
+        "name": "\u00c9nouement (Electronic)",
+        "url": "https://open.spotify.com/album/30wWjsUMHMMwHNKCgl9X1R"
+      },
+      "artists": [
+        {
+          "name": "Iskarelyn",
+          "url": "https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd"
+        },
+        {
+          "name": "Raffaele Grimaldi",
+          "url": "https://open.spotify.com/artist/4OCjOBEzP8yTUPh6puX8ly"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "\u00c9nouement - Electronic",
+      "url": "https://open.spotify.com/track/7gpVvlNPL6zCpRFj5uniwt"
     }
   ],
   "url": "https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC"

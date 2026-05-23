@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,393 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,400 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 40 | [Though I Walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I Walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
 | 41 | [Cloud](https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Cloud](https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT) | 4:03 |
 | 42 | [Be Close](https://open.spotify.com/track/6JqvAi5ve8N0jLyn35Dn27) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Be Close](https://open.spotify.com/album/7dFq18r3OrKBC1tL6Qu7Wb) | 3:32 |
-| 43 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
-| 44 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
+| 43 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
+| 44 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
 | 45 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 46 | [Won't He Do It](https://open.spotify.com/track/46ZBM9R4bs8utYpAnEBoeI) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Won't He Do It](https://open.spotify.com/album/2Wlq50XwYcYLwq3scFiacV) | 4:17 |
 | 47 | [Hope Returns](https://open.spotify.com/track/4tfpo5whNasRR4vLTX5sZD) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:53 |

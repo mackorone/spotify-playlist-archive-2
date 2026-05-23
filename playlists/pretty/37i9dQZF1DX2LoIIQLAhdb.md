@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : DAKEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,074 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,183 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 6](https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BACKSTAGE](https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN) | 0:00 |
+| 1 | [J'OUBLIERAI](https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BACKSTAGE](https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN) | 2:47 |
 | 2 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 |
 | 3 | [ZÉRO DEFAUT](https://open.spotify.com/track/4JJpP2JWOL2hO4vx4WJQ0l) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGERBOY Party](https://open.spotify.com/album/6dwlw37qooKhMsH4K1EbAL) | 2:45 |
 | 4 | [Ouvre\-moi ton cœur](https://open.spotify.com/track/65NSfsg411qIZOBSLOKhls) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Ouvre\-moi ton cœur](https://open.spotify.com/album/6ITnWpLVmNSV8SSJdWBzaj) | 2:51 |

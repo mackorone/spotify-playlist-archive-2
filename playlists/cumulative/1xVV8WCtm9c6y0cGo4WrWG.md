@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-487 songs - 1 day 0 hr 43 min
+488 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [REAL ME \(WITH METRO BOOMIN\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 | 2025-03-21 | 2025-06-08 |
 | [Real One \(feat\. Rich The Kid\)](https://open.spotify.com/track/5iltqBmJh9uCPKtLjdRZya) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Real One \(feat\. Rich The Kid\)](https://open.spotify.com/album/32EmBtxeF2ORdRHTcmljWN) | 2:46 | 2024-03-08 | 2024-09-10 |
 | [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 | 2025-07-25 |  |
+| [RED ROOM FREESTYLE](https://open.spotify.com/track/47hRNF6AA2dUw29LSgYw4C) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [RED ROOM FREESTYLE](https://open.spotify.com/album/27sUfBAJsvB2qA2G1DQ2uk) | 2:08 | 2026-05-22 |  |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-16 | 2024-06-29 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2024-01-12 | 2024-05-06 |
 | [Run](https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Run](https://open.spotify.com/album/0b9jz0diSiituyThsBewRd) | 2:55 | 2023-12-01 | 2024-08-03 |

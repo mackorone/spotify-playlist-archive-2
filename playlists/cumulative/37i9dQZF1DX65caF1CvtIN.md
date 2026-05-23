@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-282 songs - 12 hr 23 min
+283 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
 | [Starbreath Temple](https://open.spotify.com/track/14j5E6k5FrcLgGOCuHxBsK) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Starbreath Temple](https://open.spotify.com/album/0qSi7Ny2JUyE50GnAOPS8E) | 2:07 | 2025-09-15 |  |
 | [Starting Over](https://open.spotify.com/track/1jnu5LMtSf1tm4es25efJo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Starting Over](https://open.spotify.com/album/3JIMetqSsoh4CZHuMjA89d) | 2:10 | 2025-11-25 |  |
+| [Still here](https://open.spotify.com/track/7fEU3GxXppkdMdMNMirYc8) | [Liam Sorrell](https://open.spotify.com/artist/7oxpMg7b1GHRDeST0Q3OPd) | [Still here](https://open.spotify.com/album/44bEu6SriItrBYfAdgSgB2) | 2:39 | 2026-05-22 |  |
 | [Stillness of Time](https://open.spotify.com/track/7I8C7LhvYa25EjOB5dPIWg) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Stillness of Time](https://open.spotify.com/album/7lvuJhE8Tgp7Va9pZHFUDU) | 2:03 | 2026-04-17 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 | 2025-05-14 |
 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |

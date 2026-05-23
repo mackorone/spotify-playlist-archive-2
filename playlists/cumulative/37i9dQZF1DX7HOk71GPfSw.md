@@ -2,9 +2,9 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> May God Save The Three 🌊
+> King Nothingg Returns
 
-2,666 songs - 5 day 2 hr 5 min
+2,667 songs - 5 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2522,6 +2522,7 @@
 | [VENOM](https://open.spotify.com/track/7M24m8PIrhFBKaoHiHIGJc) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [VENOM](https://open.spotify.com/album/01p1sC68uf1AFy0XyTjuVI) | 2:43 | 2026-01-30 | 2026-03-21 |
 | [verdant green](https://open.spotify.com/track/460h55NFlMCLiX1LWZKp5V) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [verdant green](https://open.spotify.com/album/06Deua7SVhPE66kBV0dmrS) | 3:10 | 2022-06-24 | 2022-09-28 |
 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 | 2021-02-10 | 2021-02-26 |
+| [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 | 2026-05-22 |  |
 | [viBrAte](https://open.spotify.com/track/4CNXyGGebqSxKC515yy9s4) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [viBrAte](https://open.spotify.com/album/3N5jKNcb82G2JvD6CEMgU0) | 2:19 | 2021-10-08 | 2022-01-13 |
 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 | 2022-05-20 | 2022-11-12 |
 | [Villain](https://open.spotify.com/track/4B1OkbnOJpffeeClC3eeGp) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 3:33 | 2021-06-12 | 2022-01-13 |

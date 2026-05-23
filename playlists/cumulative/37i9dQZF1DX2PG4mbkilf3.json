@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Adria Kain from Toronto, ON.",
+  "description": "Your guide to R&B in Canada, with Drake & PARTYNEXTDOOR.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -4845,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Chrome Heart",
+        "url": "https://open.spotify.com/album/4fv5m46qLFdqmFGFz9yCTX"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110357,
+      "name": "Chrome Heart",
+      "url": "https://open.spotify.com/track/5s2xm1vfI9aoqJYcvOoOVB"
+    },
+    {
+      "album": {
         "name": "Cicadas",
         "url": "https://open.spotify.com/album/6yNtlbPAdV6k2O4sNL1ea7"
       },
@@ -6137,6 +6155,32 @@
     },
     {
       "album": {
+        "name": "Date Night",
+        "url": "https://open.spotify.com/album/5NMR3Qpnvjoh5Atyw5SJA6"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        },
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Gabe Bondoc",
+          "url": "https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143964,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/0qBJf99P4Hj9O6Bri30hNZ"
+    },
+    {
+      "album": {
         "name": "Day Dreamer",
         "url": "https://open.spotify.com/album/5Q5vrXqQu1mm7YEBD7sS4b"
       },
@@ -7336,7 +7380,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 217499,
       "name": "Donna's 407",
       "url": "https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi"
@@ -9369,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
+    },
+    {
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/7BvZYCmXe6CGNxIPcTvndh"
       },
@@ -9892,6 +9954,24 @@
       "duration_ms": 210536,
       "name": "Fyne Shyt",
       "url": "https://open.spotify.com/track/09n405SyUzIGiCT41ZeWCZ"
+    },
+    {
+      "album": {
+        "name": "G.Y.A.M.L (My Love)",
+        "url": "https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207459,
+      "name": "G.Y.A.M.L (My Love)",
+      "url": "https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0"
     },
     {
       "album": {
@@ -10714,6 +10794,24 @@
       "duration_ms": 171479,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6"
+    },
+    {
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1KH1c730KkwSkzenm6OEKn"
+      },
+      "artists": [
+        {
+          "name": "KAYAM",
+          "url": "https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113513,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/1ogoFWyYuVSet49PaIii8F"
     },
     {
       "album": {
@@ -13122,6 +13220,24 @@
       "duration_ms": 225943,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g"
+    },
+    {
+      "album": {
+        "name": "In My Face",
+        "url": "https://open.spotify.com/album/59zlUYZSvhuCVykYcKPzTT"
+      },
+      "artists": [
+        {
+          "name": "DVYN",
+          "url": "https://open.spotify.com/artist/2lNzOGT77XIuh6iRkLnWzw"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173689,
+      "name": "In My Face",
+      "url": "https://open.spotify.com/track/3rYcRzz27T43kIjxb4hfHw"
     },
     {
       "album": {
@@ -20465,6 +20581,24 @@
     },
     {
       "album": {
+        "name": "Gemini Moon",
+        "url": "https://open.spotify.com/album/3TMxYvZnfavln0bhn9nxZl"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160723,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/5WwvrJP8Fsd4PY85pNjtyU"
+    },
+    {
+      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/0Ua8pmFJYWdEU0yUcli2qK"
       },
@@ -23696,7 +23830,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
@@ -25778,7 +25912,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 135737,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/7MsoAWBJkodTKy7zghKQtc"
@@ -27282,7 +27416,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 227394,
       "name": "Talk To Me (feat. Haviah Mighty)",
       "url": "https://open.spotify.com/track/43Gd6pEuO7k7jOONcwiRfR"
@@ -29837,6 +29971,24 @@
     },
     {
       "album": {
+        "name": "WAHALA RIDDIM",
+        "url": "https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "WAHALA RIDDIM",
+      "url": "https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8"
+    },
+    {
+      "album": {
         "name": "waht if?",
         "url": "https://open.spotify.com/album/1DOJptck1um4MzLR84HylK"
       },
@@ -30128,6 +30280,24 @@
       "duration_ms": 197941,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/0FbxG4ozdUkNv6S3GbJ4B3"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/0x0yp2CHifRK1mFZDPMsjn"
+      },
+      "artists": [
+        {
+          "name": "Yarah",
+          "url": "https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/5nDZsM5oHcrUqZ9j4ybVtQ"
     },
     {
       "album": {

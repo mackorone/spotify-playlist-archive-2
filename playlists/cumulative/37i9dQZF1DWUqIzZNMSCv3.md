@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-161 songs - 10 hr 33 min
+162 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/track/6WQ6j6zfc6fq8sR0cebfhv) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafal Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/album/59X9bucEPShYPvfT3b2MiI) | 1:48 | 2025-10-03 |  |
 | [Menuets, RCT 6/3\-4](https://open.spotify.com/track/55MKF4WkMkVUcvJUr9SUP5) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Rameau: Menuets, RCT 6/3\-4](https://open.spotify.com/album/1pvXtnqy0WvrTFbfd2duVK) | 2:54 | 2025-04-11 |  |
 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 | 2021-12-06 |  |
+| [Minuet in G Minor, HWV 434/4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/0OL03IyN7LEAnN2cJCdR4B) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Handel: Minuet in G Minor, HWV 434/4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/album/3wpGvQAatfb8Y6N6aBkrtq) | 3:13 | 2026-05-22 |  |
 | [Miroirs, M\. 43: III\. Une barque sur l'océan](https://open.spotify.com/track/7tqqjaAAS8K1Stnz5EpGVl) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: The Complete Solo Piano Works](https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj) | 6:48 | 2025-04-04 |  |
 | [Morgen, Op\. 27 No\. 4 \(Arr\. Reger for Piano\)](https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 3:52 | 2023-08-04 |  |
 | [Mozart / Arr\. Grieg for Two Pianos: Piano Sonata No\. 16 in C Major, K\. 545 "Semplice": I\. Allegro \(Live\)](https://open.spotify.com/track/2PyqTgz2ua9PTukuaX4qeK) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Le Piano Roi](https://open.spotify.com/album/2fh24IMVfrS3p6pfUNvWrr) | 4:42 | 2021-12-06 | 2022-03-15 |

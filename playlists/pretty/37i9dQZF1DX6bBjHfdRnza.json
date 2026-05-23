@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 213048,
+  "num_followers": 213092,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEdBALxoj3W81dISb4uQj+NbT6Pm",
+  "snapshot_id": "AAAAAMk9buBCTa6U6RhpCN2KM8nDnaDY",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -23,6 +23,22 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/62JhWfYpN7ZoG7ChLbBIRG"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "duration_ms": 160431,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7ADo6iZnGE8vG2kf9tpvHe"
     },
     {
       "added_at": "2026-05-15 04:01:46",
@@ -59,6 +75,22 @@
       "duration_ms": 157058,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/7gQ7KRpSF7Aj0wacN8r1aI"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "duration_ms": 250975,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/2Pdwxd1x0iI4vklxUeqKlL"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -215,6 +247,22 @@
       "duration_ms": 293129,
       "name": "Compatible",
       "url": "https://open.spotify.com/track/60CTEaRChLiPqEJbuq9qnH"
+    },
+    {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-05-06 19:01:48",
@@ -1049,26 +1097,6 @@
       "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "MONEY IN THE BANK",
-        "url": "https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 132874,
-      "name": "MONEY IN THE BANK",
-      "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
-    },
-    {
       "added_at": "2026-02-26 18:54:06",
       "album": {
         "name": "333 dance songs",
@@ -1145,22 +1173,6 @@
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        }
-      ],
-      "duration_ms": 255086,
-      "name": "MOVE THAT BODY",
-      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
-    },
-    {
       "added_at": "2026-01-23 17:35:42",
       "album": {
         "name": "Eyes",
@@ -1175,22 +1187,6 @@
       "duration_ms": 184015,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Touched EP",
-        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
-      },
-      "artists": [
-        {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "Touched",
-      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
     }
   ],
   "unique_name": "Fresh Finds Dance",

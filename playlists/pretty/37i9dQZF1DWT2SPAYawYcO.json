@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from: Lola Young, Ecca Vandal, Kylie Minogue, Charli xcx, Stormzy, ODEAL, KETTAMA  + more ",
-  "num_followers": 452494,
+  "description": "Brand new music from: Olivia Rodrigo, Lola Young, Ecca Vandal, Kylie Minogue, Charli xcx, Stormzy, ODEAL, KETTAMA + more",
+  "num_followers": 452944,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALXi1TJXcYyVnPFJrCi1xLlHWvM",
+  "snapshot_id": "AAAAADWdUUjAoMIfFo6hq54nwGuY3iQI",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
     {
       "added_at": "2026-05-21 14:00:28",
       "album": {
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/5mALlwaDBhzXt3OEiKIHEc"
     },
     {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
       "added_at": "2026-05-21 23:00:19",
       "album": {
         "name": "Let Me Be In Your Arms",
@@ -187,6 +219,22 @@
       "duration_ms": 193358,
       "name": "Let Me Be In Your Arms",
       "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
+    },
+    {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "Terrified .",
+        "url": "https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 158110,
+      "name": "Playlist .",
+      "url": "https://open.spotify.com/track/2cPU1MnlgHgeUKjaX7ZBKb"
     },
     {
       "added_at": "2026-05-21 14:00:28",
@@ -561,6 +609,26 @@
       "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
     },
     {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "everything tatted",
+        "url": "https://open.spotify.com/album/0qr3T3nplk2vw8hYxGPicO"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "everything tatted",
+      "url": "https://open.spotify.com/track/0qHEjwpsef1vuOUP5OoBvZ"
+    },
+    {
       "added_at": "2026-05-21 14:00:28",
       "album": {
         "name": "Midnight Mavericks",
@@ -729,6 +797,22 @@
       "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
     },
     {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "2POPS",
+        "url": "https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "2POPS",
+      "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
+    },
+    {
       "added_at": "2026-05-21 14:00:28",
       "album": {
         "name": "tomato baby",
@@ -799,6 +883,22 @@
       "duration_ms": 188452,
       "name": "Last October",
       "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+    },
+    {
+      "added_at": "2026-05-22 04:02:01",
+      "album": {
+        "name": "Just My Type",
+        "url": "https://open.spotify.com/album/21yuAJjTiB2TWc1hoH1iKa"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 160922,
+      "name": "Just My Type",
+      "url": "https://open.spotify.com/track/2gNlXEKVALGg73k51Ord3x"
     },
     {
       "added_at": "2026-05-21 14:00:28",
@@ -890,10 +990,14 @@
         {
           "name": "Big Yavo",
           "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 198791,
+      "name": "Shake It (feat. Key Glock)",
       "url": "https://open.spotify.com/track/1rdsj0XHRALG1xGTQwQDZC"
     },
     {
@@ -932,8 +1036,8 @@
           "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 221632,
+      "name": "Solid Ground",
       "url": "https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ"
     },
     {
@@ -1151,6 +1255,22 @@
       "duration_ms": 162773,
       "name": "Keepsake",
       "url": "https://open.spotify.com/track/5Kp7StD6u2gQP9Di1mUnyJ"
+    },
+    {
+      "added_at": "2026-05-21 14:00:28",
+      "album": {
+        "name": "Land",
+        "url": "https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
     },
     {
       "added_at": "2026-05-21 14:00:28",
@@ -1410,10 +1530,14 @@
         {
           "name": "NSG",
           "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 210373,
+      "name": "BACKKA",
       "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
     },
     {

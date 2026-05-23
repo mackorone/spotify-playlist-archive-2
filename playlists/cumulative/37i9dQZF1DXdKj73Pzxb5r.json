@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Jo Soegono",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Thee Marloes",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -718,6 +718,24 @@
       "duration_ms": 254000,
       "name": "Beranilah Melawan",
       "url": "https://open.spotify.com/track/2svN10V6fzLbrrKlJYvVKq"
+    },
+    {
+      "album": {
+        "name": "Berapa Kali Kita Akan Saling Memaafkan",
+        "url": "https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284463,
+      "name": "Berapa Kali Kita Akan Saling Memaafkan",
+      "url": "https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd"
     },
     {
       "album": {
@@ -1761,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "DALAM TERANG",
+        "url": "https://open.spotify.com/album/5ckD1s2iX4610yR9tJ6whs"
+      },
+      "artists": [
+        {
+          "name": "tradeto",
+          "url": "https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286117,
+      "name": "DALAM TERANG",
+      "url": "https://open.spotify.com/track/4iEqtH7U9TaqBiZDb5axN7"
+    },
+    {
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK"
       },
@@ -2376,6 +2412,24 @@
     {
       "album": {
         "name": "Emily",
+        "url": "https://open.spotify.com/album/5jzwIdeFwCSTwWnfZbqJlp"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/07OCKM5sBpaAixnJiRf9BN"
+    },
+    {
+      "album": {
+        "name": "Emily",
         "url": "https://open.spotify.com/album/4EeMy2xG66d55u96B5guOV"
       },
       "artists": [
@@ -2744,7 +2798,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 182479,
       "name": "Filsafat Cinta",
       "url": "https://open.spotify.com/track/3TzsJgxnPv3yZiRMlzXx41"
@@ -3719,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Di Hotel Malibu",
+        "url": "https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169439,
+      "name": "I'm Just A Girl",
+      "url": "https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA"
+    },
+    {
+      "album": {
         "name": "SINCERELY FOREVER (LIVE from The Session)",
         "url": "https://open.spotify.com/album/0jywF6WGWP9gTYKnC64vnk"
       },
@@ -3864,7 +3936,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 287038,
       "name": "Itu Aku (feat. The Adams)",
       "url": "https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70"
@@ -3882,7 +3954,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 216190,
       "name": "IYAA",
       "url": "https://open.spotify.com/track/4XfW8WDKYzgNC2G5xMHQUk"
@@ -4665,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Rasa&Rasa",
+        "url": "https://open.spotify.com/album/4Q3EngYfM5IHtJq8fEgbqK"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198336,
+      "name": "Kurela",
+      "url": "https://open.spotify.com/track/7yA0mZGp8AzRLJRpOsojZD"
+    },
+    {
+      "album": {
         "name": "Labirin Pikiran",
         "url": "https://open.spotify.com/album/2P42a3gPX8ZCNJFTXjum89"
       },
@@ -4770,7 +4860,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 236923,
       "name": "Lagu Penyelamat",
       "url": "https://open.spotify.com/track/5dAcCrYZeNxCg1BkO580Aj"
@@ -5650,6 +5740,24 @@
       "duration_ms": 302142,
       "name": "Melayang",
       "url": "https://open.spotify.com/track/6NDRdNur75SmvumwhjxwJ0"
+    },
+    {
+      "album": {
+        "name": "Melompat Lebih Tinggi",
+        "url": "https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "Melompat Lebih Tinggi",
+      "url": "https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC"
     },
     {
       "album": {
@@ -6648,7 +6756,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200308,
       "name": "Pelangi Selusin Warna",
       "url": "https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ"
@@ -6772,6 +6880,24 @@
       "duration_ms": 231818,
       "name": "People Never Change",
       "url": "https://open.spotify.com/track/0ctg3ul5v15bY48DeoeAIv"
+    },
+    {
+      "album": {
+        "name": "People On The Side",
+        "url": "https://open.spotify.com/album/08XrFYLgW7W8gwD7I8ipq4"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188432,
+      "name": "People On The Side",
+      "url": "https://open.spotify.com/track/1f3g7q172vaZWeMUq2xMN0"
     },
     {
       "album": {
@@ -7900,7 +8026,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 240995,
       "name": "Sembunyi Dulu",
       "url": "https://open.spotify.com/track/2ZKB9tTGEIvDxxRTRb9eo7"
@@ -8715,6 +8841,28 @@
     },
     {
       "album": {
+        "name": "Surya Jelang Menepi",
+        "url": "https://open.spotify.com/album/6FS99pfFvh9DOunjHVPTQK"
+      },
+      "artists": [
+        {
+          "name": "Sore Ze Band",
+          "url": "https://open.spotify.com/artist/1GPCdTigxTW4JyQukKSYSC"
+        },
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233190,
+      "name": "Surya Jelang Menepi",
+      "url": "https://open.spotify.com/track/3eC6yE8jzNwMz82t4ACijy"
+    },
+    {
+      "album": {
         "name": "Tak Ada Jawabnya",
         "url": "https://open.spotify.com/album/2QaOgwKaakcCg0R64dVrNm"
       },
@@ -8834,7 +8982,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 218896,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3"
@@ -9036,7 +9184,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 261492,
       "name": "Tentang Mimpi Berupa Pelangi",
       "url": "https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN"
@@ -9374,7 +9522,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 212482,
       "name": "to fathom the throes - ACT III : The End",
       "url": "https://open.spotify.com/track/0LKm3M0HzJt46A4Oe8Bk9o"
@@ -9504,6 +9652,32 @@
       "duration_ms": 212800,
       "name": "Under SUBSTANCE",
       "url": "https://open.spotify.com/track/4Jvr4IKUvzGj0ymn5Ja0oN"
+    },
+    {
+      "album": {
+        "name": "underwear",
+        "url": "https://open.spotify.com/album/6wnACZvhlmCR7wAnibUKOZ"
+      },
+      "artists": [
+        {
+          "name": "Heiakim",
+          "url": "https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1"
+        },
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "HNATA",
+          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "underwear",
+      "url": "https://open.spotify.com/track/6XBoqpPkQnSTG1tt6lfW50"
     },
     {
       "album": {

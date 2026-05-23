@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Marcos Vidal, Marcos Witt, & Marco Barrientos ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Enoc Parra",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -9376,7 +9376,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 285200,
       "name": "La Casa de Jehov\u00e1",
       "url": "https://open.spotify.com/track/1EbS3mkymF6ZE1z2rIfADN"
@@ -11994,6 +11994,24 @@
       "duration_ms": 363832,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/10SXg8PcGtWGyONDuxxZ80"
+    },
+    {
+      "album": {
+        "name": "NCB 20A",
+        "url": "https://open.spotify.com/album/3gtgcIfZdL1OrdkCrplLMP"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323712,
+      "name": "NCB 20A",
+      "url": "https://open.spotify.com/track/2eHa6JvvteLRCrYgX4drOv"
     },
     {
       "album": {
@@ -14925,6 +14943,24 @@
     },
     {
       "album": {
+        "name": "Salvaste Mi Vida",
+        "url": "https://open.spotify.com/album/37o66RuaOtW8sNILXeG4jK"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485915,
+      "name": "Salvaste Mi Vida",
+      "url": "https://open.spotify.com/track/5gXauaIBHrn4I6ZBackxnN"
+    },
+    {
+      "album": {
         "name": "SALVAVIDAS",
         "url": "https://open.spotify.com/album/6ic5oiKI6zGuXGz1ZKsO7O"
       },
@@ -16200,7 +16236,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 352382,
       "name": "Suya Es La Batalla",
       "url": "https://open.spotify.com/track/0jKOzUncGT0oy8Vy85Pk5V"

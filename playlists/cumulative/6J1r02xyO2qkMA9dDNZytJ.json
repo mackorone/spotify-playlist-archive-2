@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 185196,
       "name": "Gonna Be The One",
       "url": "https://open.spotify.com/track/7JwFEqeNLXMp3muZ35CctP"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 175250,
       "name": "L.O.V.E. Love",
       "url": "https://open.spotify.com/track/4Vq7hzpl5hGr1cUCyx2t2y"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 161299,
       "name": "Ladies & Gentlemen",
       "url": "https://open.spotify.com/track/2GkP7xIKD7Cid7VtOGdee8"
@@ -2832,6 +2832,28 @@
       "duration_ms": 140787,
       "name": "Let It In",
       "url": "https://open.spotify.com/track/0GZmhzycLPrYgUElDVnppA"
+    },
+    {
+      "album": {
+        "name": "Let Me Be In Your Arms",
+        "url": "https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Let Me Be In Your Arms",
+      "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
     },
     {
       "album": {
@@ -3165,6 +3187,28 @@
     },
     {
       "album": {
+        "name": "Midnight Rumours",
+        "url": "https://open.spotify.com/album/2jXhcBSJWNUl3rhjGaBP42"
+      },
+      "artists": [
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        },
+        {
+          "name": "Bubba Brothers",
+          "url": "https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181236,
+      "name": "Midnight Rumours",
+      "url": "https://open.spotify.com/track/0Y24T2ERGosqi7N20d5XK1"
+    },
+    {
+      "album": {
         "name": "Momo",
         "url": "https://open.spotify.com/album/6M6LuwKSVW6b9aLpKfBghx"
       },
@@ -3184,6 +3228,24 @@
       "duration_ms": 209523,
       "name": "Momo",
       "url": "https://open.spotify.com/track/5cZwfsjkjjyXi2sqLgBUuT"
+    },
+    {
+      "album": {
+        "name": "Move Like This",
+        "url": "https://open.spotify.com/album/3P3VDUJlrFDpQsQjpiojaM"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Kerr",
+          "url": "https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Move Like This",
+      "url": "https://open.spotify.com/track/6cO8tmMn4Zz8s3HFqUs3gY"
     },
     {
       "album": {
@@ -3731,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Pop That Cat EP",
+        "url": "https://open.spotify.com/album/6nLxHdv0VoU6Q2IMfJ4gQG"
+      },
+      "artists": [
+        {
+          "name": "La Madone",
+          "url": "https://open.spotify.com/artist/21EpNwakAOgzzs77fNTcF6"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Pop That Cat",
+      "url": "https://open.spotify.com/track/0P0Kb3YoN3zGFk3caJ7FUn"
+    },
+    {
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
       },
@@ -3804,7 +3884,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193828,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/6RVVtEI9tVwRavWcoW7q2T"
@@ -4651,6 +4731,28 @@
     },
     {
       "album": {
+        "name": "The Pipe",
+        "url": "https://open.spotify.com/album/6pc2h6qSlReqKSZjITN6lN"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "The Pipe",
+      "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
+    },
+    {
+      "album": {
         "name": "The Rhythm",
         "url": "https://open.spotify.com/album/1EKtBiMswY0ulnozSY1eUC"
       },
@@ -5268,7 +5370,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 195117,
       "name": "You",
       "url": "https://open.spotify.com/track/6miDtKDFBvBAl2QPYOtTOt"

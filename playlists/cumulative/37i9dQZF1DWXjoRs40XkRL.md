@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-417 songs - 1 day 14 hr 6 min
+418 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Kin Bairan](https://open.spotify.com/track/2w6DUtvptCNLkod2Z9rbNJ) | [Nitesh Khanna](https://open.spotify.com/artist/4rb2PYf8qNfTQbsEIlyhR1) | [Kin Bairan](https://open.spotify.com/album/5RUZKVfkfMAjmq27RdKVfN) | 2:54 | 2023-01-13 | 2024-01-02 |
 | [Kisi Roz \- From "Auron Mein Kahan Dum Tha"](https://open.spotify.com/track/32pFFYJ4Rhr7JoxupIen7p) | [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [M\. M\. Kreem](https://open.spotify.com/artist/5YewttB9YNwpp5u3SGrRER), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kisi Roz \(From "Auron Mein Kahan Dum Tha"\)](https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3) | 5:11 | 2024-06-30 |  |
 | [Koyal](https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Koyal](https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw) | 3:28 | 2025-04-08 |  |
-| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 |  |
+| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 | 2026-05-23 |
 | [Koyaliya Kook Sunave](https://open.spotify.com/track/7qtwHsQZ2fvmYezRmfmaL0) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Nandini Shankar](https://open.spotify.com/artist/0C2DP7uplGzdy1Y1Jsykal) | [Koyaliya Kook Sunave](https://open.spotify.com/album/79KTGruCDjxSAF9oFDWe9s) | 4:33 | 2025-10-10 | 2026-02-22 |
 | [Koyeliya Kook Sunave](https://open.spotify.com/track/38UtZoKc7J5ZtMomrIzx7B) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Koyeliya Kook Sunave](https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg) | 4:34 | 2024-04-05 | 2024-05-29 |
 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 | 2022-05-17 | 2024-02-23 |
@@ -369,6 +369,7 @@
 | [Sakal Ban \(From "Heeramandi"\) \- Original](https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Sakal Ban \(From "Heeramandi"\) \- Single](https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh) | 2:30 | 2024-03-09 |  |
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 | 2023-05-24 |
 | [Sakhi](https://open.spotify.com/track/59dHLAyAbJdUnkdoLOLGmC) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Love And Machines](https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m) | 4:08 | 2026-04-10 |  |
+| [Sakhi Mori](https://open.spotify.com/track/2Zgp68rx8p6RC4xWMauNkj) | [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Sakhi Mori](https://open.spotify.com/album/6ySjcSZ1eeXWHzvs2fXJQP) | 5:18 | 2026-05-21 |  |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 | 2023-08-24 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4DSORlBFO3jKHgrDB2esk0) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya](https://open.spotify.com/album/40a6zO11blPvhA4CnqCtw6) | 4:18 | 2022-05-17 | 2022-07-29 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4KMsPlI229IQ4z3dqcCbIV) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya \- Single](https://open.spotify.com/album/0mdDqBvNFnVhNLbWFtDFB1) | 4:18 | 2022-07-12 | 2023-05-24 |

@@ -4,11 +4,13 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Jeremy Camp
 
-299 songs - 19 hr 6 min
+302 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A HOLY MESS](https://open.spotify.com/track/0tY7GdyvPaZOnqSuNKqpiu) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [A HOLY MESS](https://open.spotify.com/album/1A2MbKMJBqtU6OI3NsuD0I) | 4:05 | 2025-10-24 |  |
+| [Absolution](https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Absolution](https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9) | 4:05 | 2026-05-23 |  |
+| [Acts of Piety](https://open.spotify.com/track/0a5ecbwi5na0yP5dhF1VVJ) | [amen](https://open.spotify.com/artist/4oYfyBavNX48RqJIPLbIsP) | [Acts of Piety](https://open.spotify.com/album/0k7oPFu3vU71na759mh0zu) | 4:07 | 2026-05-23 |  |
 | [Adhd](https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Hurricane](https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9) | 3:13 | 2021-05-28 | 2024-06-29 |
 | [Afterlife](https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [ICU](https://open.spotify.com/album/1ONx4lNrLIA7Bb6RBYJuwU) | 3:22 | 2024-06-28 | 2025-02-08 |
 | [Alive Again](https://open.spotify.com/track/2Qs5QhWKIA0rIwTluk1eC6) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Closer To Chaos](https://open.spotify.com/album/6sBVH05QGfPRLAH99AeKH9) | 3:34 | 2021-05-28 | 2022-03-12 |
@@ -85,12 +87,13 @@
 | [Dynamite](https://open.spotify.com/track/640VdPw2sCaTOB3pcwyIm5) | [Wonderstate](https://open.spotify.com/artist/2xOK3RqDm2UQv4cFIOXUS9) | [Dynamite](https://open.spotify.com/album/1BsxgPBJY5uEhTRArgsrgO) | 2:55 | 2025-10-24 |  |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-06-28 | 2024-08-10 |
 | [End of the World](https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 5:54 | 2023-02-17 | 2024-06-29 |
-| [Enough!](https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Enough!](https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH) | 3:31 | 2025-07-11 |  |
+| [Enough!](https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Enough!](https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH) | 3:31 | 2025-07-11 | 2026-05-23 |
 | [Erase](https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W) | 4:03 | 2021-05-28 | 2024-11-02 |
 | [Erase](https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/15add9fux55wlIQygXNPz9) | 4:03 | 2022-03-11 | 2024-04-19 |
 | [ERASED](https://open.spotify.com/track/2y9DkHR5bZiHRZPqxua0yK) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd), [TCAT Collective](https://open.spotify.com/artist/0ioGzHH1QMU8SMjEzRDzsA) | [ERASED](https://open.spotify.com/album/61zOlCXBGmSoga7p5Dhkxs) | 3:17 | 2026-01-23 | 2026-05-12 |
 | [Eternal \- Rerecorded](https://open.spotify.com/track/51MiPUN7frWF7aobcZU6BP) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Eternal \(15th Anniversary Rerecorded Version\)](https://open.spotify.com/album/68S2PQxK7RFnGbWFVOMBxY) | 3:30 | 2025-06-13 | 2025-10-25 |
 | [Everything You Ever Wanted](https://open.spotify.com/track/7p7qgUCeFGKs3KKI73UKuF) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Audiophile](https://open.spotify.com/artist/1WzHgbLRerusCquTLsOq2T) | [Everything You Ever Wanted](https://open.spotify.com/album/0xriOiFfYg15JlgpCCkDXA) | 3:44 | 2025-09-26 | 2026-03-30 |
+| [Exile](https://open.spotify.com/track/5Wv0yx3Q5KrOzKQnxA46W6) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Exile](https://open.spotify.com/album/5Iu0iD1eNXus3IwYhc0m6R) | 4:23 | 2026-05-23 |  |
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
 | [Faith Over Fear](https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC) | [Aaron Michaels](https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd) | [Faith Over Fear](https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0) | 3:14 | 2023-07-28 |  |
 | [False Teacher](https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF) | [False Teacher](https://open.spotify.com/album/3PRPXE54dzg139VheNYLXN) | 4:20 | 2025-02-28 | 2025-10-25 |

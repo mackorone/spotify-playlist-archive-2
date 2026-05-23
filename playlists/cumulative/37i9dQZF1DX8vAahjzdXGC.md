@@ -2,9 +2,9 @@
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Rilisan baru pekan ini dari Adrian Khalif, Isyana Sarasvati, Fabio Asher, Lola Young dan masih banyak lagi dari dalam dan mancanegara.
+> Rilisan baru pekan ini dari Olivia Rodrigo, Adrian Khalif, Isyana Sarasvati, Fabio Asher, Lola Young dan masih banyak lagi dari dalam dan mancanegara.
 
-31,611 songs - 74 day 22 hr 19 min
+31,613 songs - 74 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3714,6 +3714,7 @@
 | [Boomerang](https://open.spotify.com/track/7MnF2Ixe8XtW4DBvQct6v6) | [IANA](https://open.spotify.com/artist/6faA2DorFdL9KKsXsbrdau) | [Boomerang](https://open.spotify.com/album/1JDakGHXpblUBCbD53987Z) | 4:42 | 2020-12-31 | 2021-01-08 |
 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 | 2023-05-25 | 2023-06-02 |
 | [Boomin \(feat\. Missy Elliott & Future\)](https://open.spotify.com/track/6tCV8RZVP7zW59Ybxj6COL) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 5:31 | 2020-06-19 | 2020-06-29 |
+| [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-22 |  |
 | [BOOP](https://open.spotify.com/track/5ui8Ek43CwlZdRHmzzKDWg) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [BOOP](https://open.spotify.com/album/2vA5z1ja2a8mDZhhq61KVp) | 2:07 | 2023-03-30 | 2023-04-07 |
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2020-06-12 | 2020-06-19 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-14 | 2022-04-22 |
@@ -27243,6 +27244,7 @@
 | [the craziest thing i've ever done](https://open.spotify.com/track/504MLnUGC8qPxtsWmwY3hl) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [the craziest thing i've ever done](https://open.spotify.com/album/4s2wMCiGFlOwbJwW63ZRec) | 3:11 | 2021-03-14 | 2021-03-19 |
 | [The Crowd](https://open.spotify.com/track/20Q4nLjYduvCYsCRYSuVQB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Crowd](https://open.spotify.com/album/0L026zqO8MoFweKbb9NJJA) | 3:02 | 2025-11-06 | 2025-11-14 |
 | [The Cure](https://open.spotify.com/track/4fzm0dCKiZm6T1yWIkPUiO) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG), [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL), [LEETEUK](https://open.spotify.com/artist/1rVpXgPDVeUXPKKqVEnAGb), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [KUN](https://open.spotify.com/artist/2OXZdo5nEz7O3lJhCLa4aa), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 3:40 | 2022-12-29 | 2023-01-06 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2025-10-31 |
 | [the cute girl from brewster hall](https://open.spotify.com/track/0CPKQPhAtz1ki7KgA3Fh95) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [the cute girl from brewster hall](https://open.spotify.com/album/7JN8u3btrgTomiWrfDjB3y) | 1:55 | 2023-04-13 | 2023-04-21 |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-13 | 2024-06-21 |

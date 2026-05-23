@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,283 songs - 3 day 8 hr 14 min
+1,289 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Aortic Desecration](https://open.spotify.com/track/4fQm28Cj2twbMqhD49lz9b) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [Aortic Desecration](https://open.spotify.com/album/4PWETtMYDc04hUibeHCetD) | 4:11 | 2023-06-23 | 2024-02-03 |
 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 | 2024-04-12 | 2025-04-11 |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-07-26 | 2025-04-11 |
+| [Archangel](https://open.spotify.com/track/65vZylpwBBH0Jj4UdWGWvD) | [Left to Die](https://open.spotify.com/artist/2cfAUKaPP0oQKpZNXDrS2m) | [Archangel](https://open.spotify.com/album/0n9lF3gcW78Lajs46CdwJr) | 3:17 | 2026-05-22 |  |
 | [Are You There?](https://open.spotify.com/track/36fHnpGEi1FctgBibPYgeg) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Deo Gratias](https://open.spotify.com/album/0FiZOFkh6fw3C4DTD5cyKF) | 4:32 | 2026-04-17 |  |
 | [Armageddon Eyes](https://open.spotify.com/track/7uzHcVdVNeUpNDdo56yMN2) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Bloom In Heaven](https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0) | 4:03 | 2025-03-28 | 2026-04-25 |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2024-02-03 |
@@ -220,6 +221,7 @@
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 | 2023-07-15 |
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 | 2023-07-15 |
 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-09 | 2025-04-11 |
+| [Convulsing In The Dark](https://open.spotify.com/track/0gFb3LaE43VKFLWK3DfniZ) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU) | [Convulsing In the Dark](https://open.spotify.com/album/463iKjT2fH3tgd3yLrkOWh) | 3:26 | 2026-05-22 |  |
 | [Corazón](https://open.spotify.com/track/4k6lS9WnUeCTI0vHlgjfSE) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 1:53 | 2023-05-19 | 2024-02-03 |
 | [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-05-24 | 2025-04-11 |
 | [covet](https://open.spotify.com/track/7aSAS4wLFqOxP6qpM0AyJx) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [covet](https://open.spotify.com/album/1PhkInhcRAJpBpvnzDi7zA) | 3:48 | 2026-03-13 |  |
@@ -330,6 +332,7 @@
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 | 2023-07-15 |
 | [Ecstasy](https://open.spotify.com/track/39Sc8677qaGqgSY5a2q9z4) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Ecstasy / Human Terror](https://open.spotify.com/album/5OV119ac34Sn6GoixidXLa) | 3:44 | 2026-03-06 |  |
 | [ego](https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [ego](https://open.spotify.com/album/5NsQMntHonlG4cw7wN68uB) | 3:40 | 2026-01-30 |  |
+| [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 | 2026-05-22 |  |
 | [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 | 2025-04-11 |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-24 | 2026-01-24 |
@@ -719,6 +722,7 @@
 | [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 | 2022-09-02 | 2023-07-15 |
 | [Nihilist](https://open.spotify.com/track/4jsAmHn1fcFDWsgIrYdKJt) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR) | [Nihilist](https://open.spotify.com/album/4QFihXSxs446lvfBxZtvBF) | 2:46 | 2025-09-26 |  |
 | [NMP](https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [NMP](https://open.spotify.com/album/0MOfr3DoxeFA5hSGEVAfR4) | 7:45 | 2023-03-17 | 2024-02-03 |
+| [No Arms](https://open.spotify.com/track/0XC9BnUa6dG392hk4k2iyF) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [No Arms](https://open.spotify.com/album/1GnN2X6XTyBpYp83ejSK0b) | 3:43 | 2026-05-22 |  |
 | [No Consequence](https://open.spotify.com/track/6fMyxWuKyKE43zDMAmFnSl) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [No Consequence](https://open.spotify.com/album/6sAo6b1udi0VKcxUmnHpC9) | 3:31 | 2025-03-21 | 2026-04-25 |
 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 | 2022-09-09 | 2023-07-15 |
 | [no faith](https://open.spotify.com/track/6O6NyA4HXvkWkMsACy0ifP) | [Bodyweb](https://open.spotify.com/artist/3huApecbypmvQJVccpEoxj) | [deadwired](https://open.spotify.com/album/73RthiLmt6ZapCWA2QKdwY) | 2:28 | 2025-09-05 |  |
@@ -888,6 +892,7 @@
 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 | 2024-07-12 | 2025-04-11 |
 | [Rubedo](https://open.spotify.com/track/3I2N7BXukhilSgt3THdbnl) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [Rubedo](https://open.spotify.com/album/2qo2oHqL7irjoKL6kQokDC) | 6:41 | 2022-02-18 | 2023-07-15 |
 | [RUIN](https://open.spotify.com/track/5422oh6gdTk5iRElU7mctV) | [Heal The Hurt](https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN) | [RUIN](https://open.spotify.com/album/6HDiybJgkvzTNDcQMr9iPj) | 2:43 | 2024-07-26 | 2025-04-11 |
+| [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 | 2026-05-22 |  |
 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 | 2025-04-25 |  |
 | [Sacred](https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM) | 3:49 | 2025-05-09 |  |
 | [Sacred Place](https://open.spotify.com/track/4vh60PeSeou1Se94jFW6jn) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Sacred Place](https://open.spotify.com/album/0KniTIfZOJKRpbCsIwTe8S) | 2:46 | 2025-04-11 |  |
@@ -950,6 +955,7 @@
 | [Slow Talk](https://open.spotify.com/track/02EG7ed9hWM4AB31YoChgJ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Leap of Death](https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6) | 3:56 | 2024-08-16 | 2025-04-11 |
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 | 2024-02-03 |
 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 | 2023-09-29 | 2024-02-03 |
+| [Snowblind](https://open.spotify.com/track/11LEv0RsjebMdHVjXQWxvy) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Snowblind](https://open.spotify.com/album/5eox4zR88okOl5Nm0B1RtO) | 3:20 | 2026-05-22 |  |
 | [snuff.tape](https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [snuff.tape](https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y) | 3:39 | 2024-08-09 | 2025-04-11 |
 | [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 | 2025-06-20 |  |
 | [So True To My Own](https://open.spotify.com/track/7pMBk0u7EMExWF4vYJ1EiT) | [Hold My Own](https://open.spotify.com/artist/0wX6EizFx2wnsU3jGd1luW), [Disgrace](https://open.spotify.com/artist/6xmtgaO9Xsepypg9XN1YtA), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Da Trifecta](https://open.spotify.com/album/0xqcjJzWNGCLSAWAjmvZVA) | 2:39 | 2024-07-05 | 2025-04-11 |

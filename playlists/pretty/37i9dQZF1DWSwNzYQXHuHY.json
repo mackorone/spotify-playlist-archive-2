@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12516,
+  "num_followers": 12517,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHd7QJjm+2gmIrybef5yFlJKqiw",
+  "snapshot_id": "AAAAAPaudLskfzMLbgkty0G4D/X978Qq",
   "tracks": [
     {
       "added_at": "2026-05-13 08:52:28",
@@ -263,18 +263,22 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
+        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
+        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
       "artists": [
         {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
+      "duration_ms": 233456,
+      "name": "A midsummer night's sweetness",
+      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -295,22 +299,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
-        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
+        "name": "Paint on Spring",
+        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
       },
       "artists": [
         {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Raina",
-          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
         }
       ],
-      "duration_ms": 233456,
-      "name": "A midsummer night's sweetness",
-      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+      "duration_ms": 232653,
+      "name": "Paint on Spring",
+      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -819,22 +819,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "The moment eyes meet",
-        "url": "https://open.spotify.com/album/1BHEqYMB2RO4jKh06PBYpt"
+        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
+        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
       },
       "artists": [
         {
-          "name": "Lee WonSeok",
-          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
-        },
-        {
-          "name": "Sunny Hill",
-          "url": "https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf"
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
         }
       ],
-      "duration_ms": 226000,
-      "name": "The moment eyes meet",
-      "url": "https://open.spotify.com/track/0gM1bMvFSpfw6y7Zbo2DVG"
+      "duration_ms": 163000,
+      "name": "Love Frequency",
+      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -859,18 +855,22 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
-        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
+        "name": "The moment eyes meet",
+        "url": "https://open.spotify.com/album/1BHEqYMB2RO4jKh06PBYpt"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "Lee WonSeok",
+          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+        },
+        {
+          "name": "Sunny Hill",
+          "url": "https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Love Frequency",
-      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
+      "duration_ms": 226000,
+      "name": "The moment eyes meet",
+      "url": "https://open.spotify.com/track/0gM1bMvFSpfw6y7Zbo2DVG"
     }
   ],
   "unique_name": "\uc378 !",

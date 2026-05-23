@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 363376,
+  "num_followers": 363442,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Don't You Want Me - Edit",
-      "url": "https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
         "name": "This Style",
         "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 334129,
       "name": "This Style",
       "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Don't You Want Me - Edit",
+      "url": "https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0"
     },
     {
       "added_at": "2024-03-22 16:20:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "Ebeneezer Goode - EP",
-        "url": "https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV"
-      },
-      "artists": [
-        {
-          "name": "The Shamen",
-          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
-        }
-      ],
-      "duration_ms": 234786,
-      "name": "Ebeneezer Goode - Beat Edit",
-      "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "Blueprint (The Best of)",
-        "url": "https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY"
+        "name": "Ebeneezer Goode - EP",
+        "url": "https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV"
       },
       "artists": [
         {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+          "name": "The Shamen",
+          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
         }
       ],
-      "duration_ms": 350560,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
+      "duration_ms": 234786,
+      "name": "Ebeneezer Goode - Beat Edit",
+      "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
+      },
+      "artists": [
+        {
+          "name": "Baby D",
+          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
     }
   ],
   "unique_name": "Rave Classics",

@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/4qCXYMWUlG7mSbB3TLJpuC"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221401,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0QdXhy1NEPdmnLpcnANzLP"
+    },
+    {
+      "album": {
         "name": "bad guy",
         "url": "https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 217628,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/0WY5pNhJTjXLYuYApsSzQM"
@@ -1172,6 +1190,24 @@
       "duration_ms": 188041,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/0OHFTKMwZoSFRT9oaFTAao"
+    },
+    {
+      "album": {
+        "name": "Beauty And A Beat",
+        "url": "https://open.spotify.com/album/771vVsTsYFWSjm4UCs8pvB"
+      },
+      "artists": [
+        {
+          "name": "Man In The Moon",
+          "url": "https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178383,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/3xGz1yHLwSqFojO5L429qH"
     },
     {
       "album": {
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 197690,
       "name": "Californication",
       "url": "https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z"
@@ -3850,7 +3886,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 190040,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5hIVXvMjjdK4sOnl6XaKPH"
@@ -4750,7 +4786,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 197828,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0vXHSZjKoNAsrD0FJfqsn9"
@@ -5045,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/6XIKBq7AzpI4948ehDZdPK"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tomas",
+          "url": "https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/6cUMicvOMvc2IO42Wxhiuz"
+    },
+    {
+      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/1ilNJ3bCe2jyKIAqjo9iIw"
       },
@@ -5243,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "I'm Like a Bird",
+        "url": "https://open.spotify.com/album/5v16a9pJchQbDZs3Ek528N"
+      },
+      "artists": [
+        {
+          "name": "Falk Tyler",
+          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/6lzk90e6rDkBZmg2O0iiEW"
+    },
+    {
+      "album": {
         "name": "I'm So Excited",
         "url": "https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o"
       },
@@ -5294,6 +5366,24 @@
       "duration_ms": 163444,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1"
+    },
+    {
+      "album": {
+        "name": "If I Ain't Got You",
+        "url": "https://open.spotify.com/album/26aYsNou3jXJx66ZeywvB8"
+      },
+      "artists": [
+        {
+          "name": "Carl Fredman",
+          "url": "https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221222,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/2y8MsTG4gQ1G2hC5nWbQBx"
     },
     {
       "album": {
@@ -7216,7 +7306,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 171318,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4v4TQL0zZUalWpttyMgNF2"
@@ -8656,7 +8746,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 173624,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub"
@@ -8951,6 +9041,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5cyRp3LNdeffNPIWWFmCxC"
+      },
+      "artists": [
+        {
+          "name": "Phileas Galle",
+          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/67Ar1CRAeJ8zmgCxXiSsIj"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb"
       },
@@ -9056,6 +9164,24 @@
       "duration_ms": 231851,
       "name": "Stay",
       "url": "https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7GkR7MgoB8K7fVntprF7Bf"
+      },
+      "artists": [
+        {
+          "name": "Otis J. Hart",
+          "url": "https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227877,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3K6sfBeFE5O3O79SqZV1yv"
     },
     {
       "album": {
@@ -9347,6 +9473,24 @@
     },
     {
       "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3dADTxNe7R3LLA4j83IT7E"
+      },
+      "artists": [
+        {
+          "name": "Elias Vennberg",
+          "url": "https://open.spotify.com/artist/3miBDeJljfO3UV4CDc1q8B"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145369,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/7I05Ub5CEjMO8YIaJEtcVw"
+    },
+    {
+      "album": {
         "name": "Sweather Weather",
         "url": "https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH"
       },
@@ -9452,6 +9596,24 @@
       "duration_ms": 196500,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/7DFKPgtVJzqVPMDvTi4Ccm"
+    },
+    {
+      "album": {
+        "name": "Take Me To Church",
+        "url": "https://open.spotify.com/album/7e1Gabpqu7HTRpDH00rurP"
+      },
+      "artists": [
+        {
+          "name": "Asher Moreau",
+          "url": "https://open.spotify.com/artist/13PX2wdFfIRZ47RLgMZjq0"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178705,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/0OMqhP4WR0L2HOyLa6CNHa"
     },
     {
       "album": {
@@ -9952,7 +10114,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 145671,
       "name": "The River",
       "url": "https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe"
@@ -11270,7 +11432,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 201187,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo"
@@ -11360,7 +11522,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 169787,
       "name": "Where The Streets Have No Name",
       "url": "https://open.spotify.com/track/0iwIdXQHWuyU7Ze6wBnNun"
@@ -11436,6 +11598,24 @@
       "duration_ms": 236500,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED"
+    },
+    {
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Smbg9yigOUljVnk4HRPAd"
+      },
+      "artists": [
+        {
+          "name": "Blue Spov",
+          "url": "https://open.spotify.com/artist/0v4UETzymroBlTsmlVCdNa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212182,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/0nviVIOaSeiE5IgcoiCj53"
     },
     {
       "album": {
@@ -11540,7 +11720,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 198374,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8"

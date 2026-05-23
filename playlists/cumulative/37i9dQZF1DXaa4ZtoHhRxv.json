@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Two Friends\n",
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo",
   "name": "Country EDM",
   "tracks": [
     {
@@ -2329,6 +2329,28 @@
     },
     {
       "album": {
+        "name": "Heaven On Your Mind",
+        "url": "https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Heaven On Your Mind",
+      "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
+    },
+    {
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
       },
@@ -4167,6 +4189,28 @@
     },
     {
       "album": {
+        "name": "Saving This Bottle (feat. Wyatt Flores)",
+        "url": "https://open.spotify.com/album/0lEuI3pwNNM61THkCkkFhu"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185247,
+      "name": "Saving This Bottle (feat. Wyatt Flores)",
+      "url": "https://open.spotify.com/track/1v0jM6IaTnEIroGq7EzDYM"
+    },
+    {
+      "album": {
         "name": "She's Country (feat. Finesse) [Club Mix]",
         "url": "https://open.spotify.com/album/2Y8I2MyKLMAfnyBQ9OX7aN"
       },
@@ -5674,6 +5718,28 @@
       "duration_ms": 153281,
       "name": "World on Fire - VAVO Remix",
       "url": "https://open.spotify.com/track/7uzhzMMLvN8GKb0JhBs1uc"
+    },
+    {
+      "album": {
+        "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+        "url": "https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156318,
+      "name": "Would U Still Love Me (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l"
     },
     {
       "album": {

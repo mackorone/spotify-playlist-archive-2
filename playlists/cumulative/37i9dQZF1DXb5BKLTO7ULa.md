@@ -4,7 +4,7 @@
 
 > Nieuw: Sarah Julia \(RADAR\-artiest\), Lola Young, Bankzitters en meer..
 
-15,842 songs - 34 day 11 hr 55 min
+15,843 songs - 34 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [2D](https://open.spotify.com/track/1HbTajbhhihioGg49ASGKi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [2D](https://open.spotify.com/album/3ShOm5WyhWyolqP3nDIzjd) | 3:30 | 2024-02-22 | 2024-03-01 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-07 | 2024-11-15 |
 | [2NITE](https://open.spotify.com/track/4pVdahLI8Vd8qUP6hIzfdm) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [2NITE](https://open.spotify.com/album/4xyACGCbVoWjSDXfQo5nLJ) | 3:51 | 2026-04-30 | 2026-05-08 |
-| [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:06 | 2026-05-21 |  |
+| [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-21 |  |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-15 | 2026-01-23 |
 | [3](https://open.spotify.com/track/0uZUqNsxHVCkeUEWR4xEF5) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [3](https://open.spotify.com/album/0hcQV6ZiVlOpu5rI9ktWkP) | 2:53 | 2025-10-30 | 2025-11-07 |
 | [3\-5\-2](https://open.spotify.com/track/3SAJdRbktQcInLWIVyshbP) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [3\-5\-2](https://open.spotify.com/album/6NZY7YmBrv67OVLBVBY7ZX) | 2:14 | 2023-11-02 | 2023-11-10 |
@@ -2090,6 +2090,7 @@
 | [Buisje](https://open.spotify.com/track/1MYBjzOVuHeT2QzZh9r9zL) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI) | [Buisje](https://open.spotify.com/album/0WxJsAir92VQesdKmnI6W4) | 3:06 | 2023-03-17 | 2023-03-25 |
 | [Buitenspel](https://open.spotify.com/track/7fgNzQkswlJDjQZQPUoeRt) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Buitenspel](https://open.spotify.com/album/2Dq3zVPAKWwxdMVRvfkEzr) | 2:28 | 2023-06-29 | 2023-07-07 |
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-03-27 | 2025-04-04 |
+| [Bullshit](https://open.spotify.com/track/1BNVFucw40F08CYPbH3Ufy) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Wasted Potential](https://open.spotify.com/album/6nmffO3cnvEQW6CFMzltql) | 4:10 | 2026-05-21 |  |
 | [Bullshit](https://open.spotify.com/track/5TWAZg0WxDZxFkd3OqIzW1) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Bullshit](https://open.spotify.com/album/5oPOBewtDHaokf2ApJPkNX) | 2:45 | 2023-03-17 | 2023-03-25 |
 | [Bum Bum](https://open.spotify.com/track/6HKkFZEqWe7wtvGfbB2MrW) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [Bum Bum](https://open.spotify.com/album/5KWjASVHme2ciPOAhREokK) | 3:17 | 2023-08-17 | 2023-08-25 |
 | [BUMA](https://open.spotify.com/track/0tDiHHTmwoFNMroJ3OHNLf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [BUMA](https://open.spotify.com/album/5jXlUSm2wJgI4AyC4L0o6P) | 2:35 | 2025-11-13 | 2025-11-21 |
@@ -13344,6 +13345,7 @@
 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-06-01 |
 | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/track/1vE88eOSWUb2hjljglRfc1) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/album/2RcjbKoEHJVmhX5DYD3PMu) | 5:39 | 2025-01-23 | 2025-01-31 |
 | [The Crying Room](https://open.spotify.com/track/1eI3ZMVBhaqVKaBsAPJvaT) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [The Crying Room](https://open.spotify.com/album/0AJUcdvl9KQEemaaHHQ7kR) | 5:15 | 2024-08-29 | 2024-09-06 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2025-10-31 |
 | [The Curse](https://open.spotify.com/track/3CQ2enaVe1ucLcVnlnlM2Q) | [Cloudsurfers](https://open.spotify.com/artist/1elg1Km9e1Rmt61ggsGUp6) | [The Curse](https://open.spotify.com/album/3P4ErK6LTfy89KlRbDLwuN) | 3:22 | 2023-08-03 | 2023-08-11 |
 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-13 | 2025-11-21 |
@@ -14002,7 +14004,6 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2023-03-03 |
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-25 | 2023-06-02 |
 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 | 2025-05-29 | 2025-06-06 |
-| [Track 9](https://open.spotify.com/track/1BNVFucw40F08CYPbH3Ufy) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Wasted Potential](https://open.spotify.com/album/6nmffO3cnvEQW6CFMzltql) | 0:00 | 2026-05-21 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2023-05-05 |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-02-06 |

@@ -4,7 +4,7 @@
 
 > FreshMula in cover della playlist con il futuro del rap italiano 📈
 
-2,435 songs - 4 day 6 hr 48 min
+2,436 songs - 4 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2071,12 +2071,13 @@
 | [SPIN!](https://open.spotify.com/track/2uHC2JQ6sR4oaeTRzpEEBM) | [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [RAISS](https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x) | [SPIN!](https://open.spotify.com/album/4l1zShc8Qu5Gd1rhuM432B) | 2:15 | 2025-01-16 | 2025-02-07 |
 | [SPINE](https://open.spotify.com/track/5RIVdYGPzyyiZka8hNQnhn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m) | [SPINE](https://open.spotify.com/album/2oJHYGkwruFLvBkNA61DCL) | 2:48 | 2025-09-25 | 2025-10-31 |
 | [SPLINTER \(feat\. Ceejay, Songop\)](https://open.spotify.com/track/6atZtlvpsVVBqom5Kj7Zqg) | [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa), [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm), [Songop](https://open.spotify.com/artist/1W85h651mGAVGp2CmvCOna) | [CITOFONO](https://open.spotify.com/album/7nofaRLowREEfUK6zYYICx) | 2:33 | 2026-05-21 |  |
+| [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-05-22 |  |
 | [Spoiler](https://open.spotify.com/track/2Qz0nR63jOUTXUI9CN18zV) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/6mufSdKht2eiUgYGnMrpRi) | 2:36 | 2023-05-15 | 2023-07-14 |
 | [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 | 2022-12-15 | 2023-05-17 |
 | [Springsteen](https://open.spotify.com/track/4YnVZJvjlBtyoKXhyeHzhQ) | [ren](https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI) | [Springsteen](https://open.spotify.com/album/3h8oHYvQxuwjN8DMv4jOeF) | 2:48 | 2026-04-23 | 2026-05-22 |
 | [SPUSH IT \(feat\. Seth\)](https://open.spotify.com/track/1yV75WUAe328AslapBt2xp) | [Duke](https://open.spotify.com/artist/2oHl7bAGCeeL1FWRd5x8sk), [Seth](https://open.spotify.com/artist/2xZhuR9GbbhSJrPIyBIs6J) | [SPUSH IT](https://open.spotify.com/album/2DLUsd2ld6xymX7m1mBe9c) | 2:53 | 2026-02-12 | 2026-04-03 |
 | [Sta Piovendo](https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Alawais](https://open.spotify.com/artist/5Sh9ne0WUEOvdvTbSHyDJt) | [Sta Piovendo](https://open.spotify.com/album/1guRvnS6o8DFHm8Q9rZ1np) | 2:37 | 2024-08-08 | 2024-08-23 |
-| [STA T\*\*\*\* MI GUARDA](https://open.spotify.com/track/2yto71cyV3FiGUvLYLikSP) | [Kemio](https://open.spotify.com/artist/3lcUhj4fQ2c5kkxPaoomoc), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [Verrà la morte e avrà i tuoi occhi](https://open.spotify.com/album/1s6pEdDFwinUMB8OuWDM15) | 2:25 | 2026-05-21 |  |
+| [STA T\*\*\*\* MI MANCA](https://open.spotify.com/track/2yto71cyV3FiGUvLYLikSP) | [Kemio](https://open.spotify.com/artist/3lcUhj4fQ2c5kkxPaoomoc), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [Verrà la morte e avrà i tuoi occhi](https://open.spotify.com/album/1s6pEdDFwinUMB8OuWDM15) | 2:25 | 2026-05-21 |  |
 | [STAI ZITTA](https://open.spotify.com/track/1zpQEwAJOAx6FP6UGDiyhh) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [STAI ZITTA](https://open.spotify.com/album/2tW6wrlWpbdfhdS9gN1Nw6) | 3:22 | 2024-03-07 | 2024-03-22 |
 | [STALKER \(feat\. Dani Faiv\)](https://open.spotify.com/track/798WTms9uKEpmZftdCcqdo) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [STALKER \(feat\. Dani Faiv\)](https://open.spotify.com/album/7mzodHfi59RHpoHlId8nbU) | 2:45 | 2025-07-24 | 2025-09-05 |
 | [Stanza d'Albergo](https://open.spotify.com/track/2UT55zrpVAV9H5lfznHvqV) | [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Stanza d'Albergo](https://open.spotify.com/album/36Tbt2hCPcgWysAHWruNI3) | 2:39 | 2026-01-29 | 2026-03-13 |

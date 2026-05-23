@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-330 songs - 18 hr 0 min
+332 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Love Me Like You Do](https://open.spotify.com/track/1D7gsXVvw3TShPsODTbYmZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 1](https://open.spotify.com/album/60cEfy1gNvNLktg5UAlf36) | 3:17 | 2022-11-18 | 2022-11-26 |
 | [Love Yourself](https://open.spotify.com/track/28NnTNYumoVjjrGq9UIF9m) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 1](https://open.spotify.com/album/22bGVJ3OITsYg6IfBNjfKw) | 3:54 | 2022-11-18 | 2022-11-26 |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-25 | 2025-02-20 |
+| [Lush Life](https://open.spotify.com/track/0UFsE0g6dD2NPzMJ8oVnKX) | [Verdicia](https://open.spotify.com/artist/4X45Wd9FJSbyAqDFqzmDeb) | [Lush Life](https://open.spotify.com/album/2ffWfl7SrcZ1mlvnTWvvGe) | 2:47 | 2026-05-22 |  |
 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 | 2023-04-04 | 2025-04-26 |
 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 | 2021-11-25 | 2025-04-26 |
 | [Man I Need](https://open.spotify.com/track/6iNqBfDCNF2D1f3milOqY4) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [Man I Need](https://open.spotify.com/album/3eDOnV1wk7cpsNWmQDn2X9) | 2:43 | 2025-11-28 |  |
@@ -329,6 +330,7 @@
 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-28 | 2025-04-26 |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-25 | 2025-04-26 |
 | [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 | 2022-05-13 | 2023-02-22 |
+| [Yesterday](https://open.spotify.com/track/1lxyTPSci1m1A7NeDclNnT) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Yesterday](https://open.spotify.com/album/30dS1q1VvfWMTID5KW9inI) | 2:40 | 2026-05-22 |  |
 | [Yesterday](https://open.spotify.com/track/0y1sd3xVFcmWb3wRAyGp53) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Yesterday](https://open.spotify.com/album/45cN17gBhJE9L0DSOQ5w1K) | 2:11 | 2025-03-25 | 2025-07-17 |
 | [You and Me](https://open.spotify.com/track/6yoNRCtmcgAqKUJ9hvLaqT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [The Modern Wedding Collection, Vol\. 2](https://open.spotify.com/album/2XwUsjzSF4Qxd7cHcFSCsm) | 4:27 | 2022-11-18 | 2022-11-26 |
 | [You Are Not Alone](https://open.spotify.com/track/1cIeaqYDfdLuNK6lI1jkre) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [You Are Not Alone](https://open.spotify.com/album/5ktiaAEAmPsLLYmVTmJJ5E) | 3:15 | 2025-03-18 | 2025-07-17 |

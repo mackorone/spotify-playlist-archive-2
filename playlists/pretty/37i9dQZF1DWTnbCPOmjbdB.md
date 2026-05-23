@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Ania Karwan
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,135 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,163 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 8 | [Grawitacja](https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Grawitacja](https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8) | 3:03 |
 | 9 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 |
 | 10 | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/track/3YroZZ167DAVEk8YfzZgdg) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/album/6RN3TzcM1iclrKEiD4qwsl) | 2:04 |
-| 11 | [SERCE I ROZUM](https://open.spotify.com/track/6rL6SiKacpWQC94R3zUufm) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [MULTIVERSE \(Family Friendly\)](https://open.spotify.com/album/0Ggw5hwg9UljzlinhHzz42) | 2:44 |
+| 11 | [SERCE I ROZUM](https://open.spotify.com/track/4JzOzyns9PvRQz72kSEQmg) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [MULTIVERSE](https://open.spotify.com/album/16pmd5Gavfu1HLDyX5carC) | 2:44 |
 | 12 | [NIEWINNA](https://open.spotify.com/track/5euzxxwtFMHFIzL1PXbuEs) | [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr) | [NIEWINNA](https://open.spotify.com/album/3qSwbqOEhDvRkwEqJ6brjD) | 2:33 |
 | 13 | [W końcu cię odnajdę](https://open.spotify.com/track/1AwJywnwSt9L7czgkc8mD9) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Lisek](https://open.spotify.com/artist/6NLNdYvnVRWIDdiOBY26fX) | [W końcu cię odnajdę](https://open.spotify.com/album/0Y81ELFTlNCfdkgyvig04t) | 3:04 |
 | 14 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 65 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 |
 
-Snapshot ID: `AAAAAPRUqFNGzlBCluisiJLKBZ7sraHD`
+Snapshot ID: `AAAAAP6AQVR6rPRrssheTLNRckUywU2Y`

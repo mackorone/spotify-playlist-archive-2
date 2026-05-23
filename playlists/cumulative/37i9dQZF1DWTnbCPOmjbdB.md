@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Ania Karwan
 
-896 songs - 1 day 19 hr 32 min
+897 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,8 @@
 | [serce](https://open.spotify.com/track/1C1z1YoannKXDFP2qZN9Aw) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [serce](https://open.spotify.com/album/4GXYgfjr6cfP2Z4a1hCP5r) | 3:04 | 2026-01-15 | 2026-02-06 |
 | [Serce](https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Serce](https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi) | 3:13 | 2026-01-15 | 2026-01-23 |
 | [Serce](https://open.spotify.com/track/4sraugoYKif53mYvrE8eE9) | [Sara Girgis](https://open.spotify.com/artist/44C4qLyvUVoeivjV3cl3hG) | [Serce](https://open.spotify.com/album/3OkjIzRyh2ahjgl8iSkzae) | 2:26 | 2025-10-16 | 2025-10-24 |
-| [SERCE I ROZUM](https://open.spotify.com/track/6rL6SiKacpWQC94R3zUufm) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [MULTIVERSE \(Family Friendly\)](https://open.spotify.com/album/0Ggw5hwg9UljzlinhHzz42) | 2:44 | 2026-05-21 |  |
+| [SERCE I ROZUM](https://open.spotify.com/track/4JzOzyns9PvRQz72kSEQmg) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [MULTIVERSE](https://open.spotify.com/album/16pmd5Gavfu1HLDyX5carC) | 2:44 | 2026-05-22 |  |
+| [SERCE I ROZUM](https://open.spotify.com/track/6rL6SiKacpWQC94R3zUufm) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Mortal](https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [MULTIVERSE \(Family Friendly\)](https://open.spotify.com/album/0Ggw5hwg9UljzlinhHzz42) | 2:44 | 2026-05-21 | 2026-05-23 |
 | [Setny raz](https://open.spotify.com/track/5Ica9fWLc1SMqiX9fEpRdB) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Setny raz](https://open.spotify.com/album/0Uz9pDYogrYWiDt856XlhK) | 2:26 | 2026-01-08 | 2026-01-30 |
 | [sezon](https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [sezon](https://open.spotify.com/album/31swt0uojnqryFf44XBDzx) | 3:01 | 2026-04-16 |  |
 | [Sianokosy](https://open.spotify.com/track/75fleacPWnXaCfjJgOzVci) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [Sianokosy](https://open.spotify.com/album/5BXGCzyst7PbuqNmQE0iGd) | 3:13 | 2025-11-27 | 2026-01-02 |

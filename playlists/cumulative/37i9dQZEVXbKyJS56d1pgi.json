@@ -11714,7 +11714,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -33394,7 +33394,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -34419,6 +34419,24 @@
     },
     {
       "album": {
+        "name": "SOU GRANDE NO AMOR",
+        "url": "https://open.spotify.com/album/6CWgwUXIjsD7TWLK24hP0x"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "SOU GRANDE NO AMOR",
+      "url": "https://open.spotify.com/track/3ODDkzwIsHPRxTmtjP4DCs"
+    },
+    {
+      "album": {
         "name": "V\u00cdCIOS",
         "url": "https://open.spotify.com/album/1tPqE6P02oOnJIDcVFXKY8"
       },
@@ -34430,7 +34448,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 160993,
       "name": "SOU GRANDE NO AMOR",
       "url": "https://open.spotify.com/track/4bDhxq6aHiBNpKUwub7Fb9"
@@ -34448,7 +34466,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193156,
       "name": "SOZINHO",
       "url": "https://open.spotify.com/track/0XA08uwn2SSl9Uzj07kkNd"
@@ -39968,7 +39986,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
@@ -40008,10 +40026,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 154799,
       "name": "V\u00cdCIOS",
       "url": "https://open.spotify.com/track/0O69DKNBLFK8n3or2uYnMh"
+    },
+    {
+      "album": {
+        "name": "V\u00cdCIOS",
+        "url": "https://open.spotify.com/album/1mIlESlfdl2mhi9lLy4xm9"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154799,
+      "name": "V\u00cdCIOS",
+      "url": "https://open.spotify.com/track/4VmjNuq8Ux0VGWEn9SajwY"
     },
     {
       "album": {

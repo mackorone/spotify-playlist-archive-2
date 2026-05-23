@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "pretona, responsa, do corre - pergunta da luanna pra sua namorada (!)",
+  "description": "quanto vale uma pe\u00e7a pronta ser substitu\u00edda? ",
   "name": "AULAS",
   "tracks": [
     {
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 170927,
       "name": "Caindo em si",
       "url": "https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT"
@@ -4566,7 +4566,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 181395,
       "name": "Farol Pra Cego (TypeDalsa)",
       "url": "https://open.spotify.com/track/0LNxZ3OnR5FlKdrIbVSihd"
@@ -7722,6 +7722,32 @@
       "duration_ms": 202304,
       "name": "NEM ERA PRA EU T\u00c1 AQUI (Deus Que Me Escolheu)",
       "url": "https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh"
+    },
+    {
+      "album": {
+        "name": "Caindo em si",
+        "url": "https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Manel Beats",
+          "url": "https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99740,
+      "name": "Nem tudo \u00e9 sobre Mim",
+      "url": "https://open.spotify.com/track/266IekD3RXBT28GyfDLFPT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Best blends of Electronic music across Africa. Cover: Tina Ardor ",
-  "num_followers": 11037,
+  "num_followers": 11047,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
+        "name": "Kandamiza",
+        "url": "https://open.spotify.com/album/69aXHXhZ9bVeeMir0rmKB1"
+      },
+      "artists": [
+        {
+          "name": "Joy Zahar",
+          "url": "https://open.spotify.com/artist/2bKA3nq1ytnyFSyb9oHHQ7"
+        },
+        {
+          "name": "Fadhilee Itulya",
+          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Kandamiza",
+      "url": "https://open.spotify.com/track/7cCNRAzAPOQqCRIFvm5SR8"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
         "name": "Tuliza",
         "url": "https://open.spotify.com/album/1LXdEkvW3d3eVdowMatSLM"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 171726,
       "name": "Tuliza",
       "url": "https://open.spotify.com/track/4wlSzuD1Tp7MGnhv96VMHF"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
-        "name": "Kandamiza",
-        "url": "https://open.spotify.com/album/69aXHXhZ9bVeeMir0rmKB1"
-      },
-      "artists": [
-        {
-          "name": "Joy Zahar",
-          "url": "https://open.spotify.com/artist/2bKA3nq1ytnyFSyb9oHHQ7"
-        },
-        {
-          "name": "Fadhilee Itulya",
-          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Kandamiza",
-      "url": "https://open.spotify.com/track/7cCNRAzAPOQqCRIFvm5SR8"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "Namtaka",
-        "url": "https://open.spotify.com/album/4AYiEM2J4ZjG76f2bnJOAN"
-      },
-      "artists": [
-        {
-          "name": "Deep7s",
-          "url": "https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl"
-        },
-        {
-          "name": "J Nana",
-          "url": "https://open.spotify.com/artist/5MKzRozKLB0cR0yRSkgsKf"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Namtaka",
-      "url": "https://open.spotify.com/track/6qRGbqFWrs6TqlhSsiuWKG"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0TedAvkRfgyKpqLN4yiDoC"
       },
@@ -1155,38 +1135,22 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "Zikitam",
-        "url": "https://open.spotify.com/album/2VXVl5JTSUm8nUsFPtRW93"
+        "name": "Namtaka",
+        "url": "https://open.spotify.com/album/4AYiEM2J4ZjG76f2bnJOAN"
       },
       "artists": [
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 442806,
-      "name": "Zikitam",
-      "url": "https://open.spotify.com/track/0oaWtcLLfinD33n9YekqKz"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
-        "name": "Mbife",
-        "url": "https://open.spotify.com/album/77oTcUUBV5W01mJNLALybv"
-      },
-      "artists": [
-        {
-          "name": "TASHEENO",
-          "url": "https://open.spotify.com/artist/2hcpVfTMKULfNt9c8YjGXa"
+          "name": "Deep7s",
+          "url": "https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl"
         },
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "J Nana",
+          "url": "https://open.spotify.com/artist/5MKzRozKLB0cR0yRSkgsKf"
         }
       ],
-      "duration_ms": 363332,
-      "name": "Mbife",
-      "url": "https://open.spotify.com/track/3g71YwRFqD4et9JWmGZG00"
+      "duration_ms": 129836,
+      "name": "Namtaka",
+      "url": "https://open.spotify.com/track/6qRGbqFWrs6TqlhSsiuWKG"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1215,6 +1179,42 @@
       "duration_ms": 142000,
       "name": "Please",
       "url": "https://open.spotify.com/track/25Sl4iKGi1dtuQkfNPCfa8"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
+        "name": "Mbife",
+        "url": "https://open.spotify.com/album/77oTcUUBV5W01mJNLALybv"
+      },
+      "artists": [
+        {
+          "name": "TASHEENO",
+          "url": "https://open.spotify.com/artist/2hcpVfTMKULfNt9c8YjGXa"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 363332,
+      "name": "Mbife",
+      "url": "https://open.spotify.com/track/3g71YwRFqD4et9JWmGZG00"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
+        "name": "Zikitam",
+        "url": "https://open.spotify.com/album/2VXVl5JTSUm8nUsFPtRW93"
+      },
+      "artists": [
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 442806,
+      "name": "Zikitam",
+      "url": "https://open.spotify.com/track/0oaWtcLLfinD33n9YekqKz"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
+        "name": "All Around Me",
+        "url": "https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        },
+        {
+          "name": "OKCHUKU",
+          "url": "https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk"
+        }
+      ],
+      "duration_ms": 475826,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/30FNCwR7KCTEVps0GdG3kR"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 176000,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/67oInsUfvZZajnohju01XN"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
-        "name": "All Around Me",
-        "url": "https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        },
-        {
-          "name": "OKCHUKU",
-          "url": "https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk"
-        }
-      ],
-      "duration_ms": 475826,
-      "name": "All Around Me",
-      "url": "https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
+        "name": "PILIPILI",
+        "url": "https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "duration_ms": 321391,
+      "name": "Pilipili",
+      "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
         "name": "REASON [SYLVANO - remix (Radio edit)]",
         "url": "https://open.spotify.com/album/2xYVbgPfuPB7gfoPNiO8by"
       },
@@ -1515,22 +1535,22 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "PILIPILI",
-        "url": "https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP"
+        "name": "Hakuna Kulala",
+        "url": "https://open.spotify.com/album/1ibDZSKzrDsVA4dJn3tIzC"
       },
       "artists": [
         {
-          "name": "Tina Ardor",
-          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+          "name": "Big Nyagz",
+          "url": "https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF"
         },
         {
-          "name": "Hendrick Sam",
-          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
         }
       ],
-      "duration_ms": 321391,
-      "name": "Pilipili",
-      "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
+      "duration_ms": 369773,
+      "name": "Hakuna Kulala",
+      "url": "https://open.spotify.com/track/5jru8BTeBGpxpflajpAAYp"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1555,26 +1575,6 @@
       "duration_ms": 227375,
       "name": "Wakwa",
       "url": "https://open.spotify.com/track/3epuHbFCdS8oI0LOC1n10D"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
-        "name": "Hakuna Kulala",
-        "url": "https://open.spotify.com/album/1ibDZSKzrDsVA4dJn3tIzC"
-      },
-      "artists": [
-        {
-          "name": "Big Nyagz",
-          "url": "https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 369773,
-      "name": "Hakuna Kulala",
-      "url": "https://open.spotify.com/track/5jru8BTeBGpxpflajpAAYp"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1863,6 +1863,30 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/3nnMBOlDSZxAbUHwXAdivp"
+      },
+      "artists": [
+        {
+          "name": "MxCarter",
+          "url": "https://open.spotify.com/artist/26nxGJBaSxkBeD0sLwLXzN"
+        },
+        {
+          "name": "Jay Rox",
+          "url": "https://open.spotify.com/artist/2YcJC1hnLjOIvNN3naeAlG"
+        },
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6JNwNQAUjFBAbz608tIlus"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
         "name": "Chokoza",
         "url": "https://open.spotify.com/album/37W7gTj82WchaF8CIFYGy7"
       },
@@ -1907,30 +1931,6 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/3nnMBOlDSZxAbUHwXAdivp"
-      },
-      "artists": [
-        {
-          "name": "MxCarter",
-          "url": "https://open.spotify.com/artist/26nxGJBaSxkBeD0sLwLXzN"
-        },
-        {
-          "name": "Jay Rox",
-          "url": "https://open.spotify.com/artist/2YcJC1hnLjOIvNN3naeAlG"
-        },
-        {
-          "name": "Rody Joh",
-          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6JNwNQAUjFBAbz608tIlus"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
         "name": "Twende Sote",
         "url": "https://open.spotify.com/album/0BzgoSaQLVlvQTNTcYlB7M"
       },
@@ -1947,26 +1947,6 @@
       "duration_ms": 286000,
       "name": "Twende Sote",
       "url": "https://open.spotify.com/track/67UcmLeU6AcWxWLsODFtJb"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/59SSlA8rAV2ZAanVp77jrS"
-      },
-      "artists": [
-        {
-          "name": "Rammor",
-          "url": "https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0QV64AFrLfAkExawq7QPsO"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -1995,30 +1975,6 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "Asubuhi (Remixes)",
-        "url": "https://open.spotify.com/album/2h2SI7dFlCUQwazGFQVCto"
-      },
-      "artists": [
-        {
-          "name": "Will B (UK)",
-          "url": "https://open.spotify.com/artist/59nSOoGDeR6LmQjmvremjj"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        },
-        {
-          "name": "JO\u0112HUMAN",
-          "url": "https://open.spotify.com/artist/21MyBXBQoAVQ9Tx6RaTMWz"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Asubuhi (JO\u0112HUMAN Remix) - Radio",
-      "url": "https://open.spotify.com/track/3uMkVNgXJ9TuCn4qkaIcDH"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
         "name": "Pona",
         "url": "https://open.spotify.com/album/0zZUdlpWoG82KSye1rCxuk"
       },
@@ -2039,6 +1995,50 @@
       "duration_ms": 306193,
       "name": "Pona",
       "url": "https://open.spotify.com/track/19K7668JaOg0XRIWmXvBtu"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/59SSlA8rAV2ZAanVp77jrS"
+      },
+      "artists": [
+        {
+          "name": "Rammor",
+          "url": "https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0QV64AFrLfAkExawq7QPsO"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
+        "name": "Asubuhi (Remixes)",
+        "url": "https://open.spotify.com/album/2h2SI7dFlCUQwazGFQVCto"
+      },
+      "artists": [
+        {
+          "name": "Will B (UK)",
+          "url": "https://open.spotify.com/artist/59nSOoGDeR6LmQjmvremjj"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "JO\u0112HUMAN",
+          "url": "https://open.spotify.com/artist/21MyBXBQoAVQ9Tx6RaTMWz"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Asubuhi (JO\u0112HUMAN Remix) - Radio",
+      "url": "https://open.spotify.com/track/3uMkVNgXJ9TuCn4qkaIcDH"
     },
     {
       "added_at": "2026-04-30 23:59:29",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2026-04-30 23:59:29",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
-      },
-      "artists": [
-        {
-          "name": "Tony Finger",
-          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Fantasize",
-      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
-    },
-    {
-      "added_at": "2026-04-30 23:59:29",
-      "album": {
         "name": "M2Ki2",
         "url": "https://open.spotify.com/album/4cjHPIp6ZCDLddXq9n9rsX"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 416015,
       "name": "M2Ki2",
       "url": "https://open.spotify.com/track/0gIFH2K59Ry9gQQ2avfnzh"
+    },
+    {
+      "added_at": "2026-04-30 23:59:29",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
+      },
+      "artists": [
+        {
+          "name": "Tony Finger",
+          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Fantasize",
+      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
     },
     {
       "added_at": "2026-04-30 23:59:29",

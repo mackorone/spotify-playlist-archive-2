@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: PASH
 
-2,768 songs - 5 day 23 hr 2 min
+2,769 songs - 5 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2120,6 +2120,7 @@
 | [SOBER](https://open.spotify.com/track/673krmlD3UUTMrn8coVoyg) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [SOBER](https://open.spotify.com/album/34EGXNAdQcDnduc5tkpGpm) | 2:50 | 2024-04-04 | 2024-04-19 |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-13 | 2024-11-15 |
 | [Softly](https://open.spotify.com/track/7vVVjc2PIBZz0Xma2mdFNW) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Softly](https://open.spotify.com/album/4ZVxT9a32tUaiXWmvR2vfb) | 2:58 | 2025-09-25 | 2025-10-31 |
+| [Solid Ground](https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [PASH](https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP) | 3:41 | 2026-05-21 |  |
 | [Solo](https://open.spotify.com/track/6UQ0GUr5v1aDCR4iW1OWuW) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [the wild, the innocent & the raging](https://open.spotify.com/album/5HRTO3VPXz185L1l7DxSvu) | 3:19 | 2025-11-20 | 2026-01-23 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-03-21 | 2024-04-05 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-14 | 2023-11-09 |
@@ -2343,6 +2344,7 @@
 | [the bright side of you](https://open.spotify.com/track/5P8DySKQHYBj90E36zBGYG) | [ZUVA](https://open.spotify.com/artist/2KC09pBV4Po13y6jOwSKID) | [Not That I Care](https://open.spotify.com/album/6Kxw0Cp9LMYQfeWR4kJqdG) | 2:46 | 2025-07-03 | 2025-08-08 |
 | [The City](https://open.spotify.com/track/5Fp2SCjCRKDuL308IcKi8J) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [The City](https://open.spotify.com/album/0cHCnOrM7CHplz9BlUXUrS) | 3:32 | 2024-05-16 | 2024-06-21 |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-06-28 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2025-12-19 |
 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-13 | 2026-01-23 |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 | 2025-10-17 |
@@ -2491,7 +2493,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 6](https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [PASH](https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP) | 0:00 | 2026-05-21 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2026-02-06 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |

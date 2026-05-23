@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-148 songs - 10 hr 25 min
+149 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Chansons grises: V\. L'heure exquise](https://open.spotify.com/track/3VL9QHQY04uiGGFThywvlu) | [Reynaldo Hahn](https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Daria Hovora](https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv) | [Cello Works](https://open.spotify.com/album/5JmjvX5Bj56PwFdT1a8kTE) | 3:32 | 2021-03-08 |  |
 | [Cinema Paradiso](https://open.spotify.com/track/58YDhpSV3U1SHZeySmnR9e) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Cinema Paradiso](https://open.spotify.com/album/3FziV2ZJTUBDyHQyzW73zV) | 2:43 | 2021-03-08 | 2022-01-06 |
 | [Darkwood 1](https://open.spotify.com/track/3Yd9BawtErogF5B2p6e3MV) | [David Darling](https://open.spotify.com/artist/5qQyBIUGDM3QvXlTIo7puq) | [Cello](https://open.spotify.com/album/6dk74Wt3hzq5LC3T6V7Kms) | 2:23 | 2021-03-08 |  |
+| [Don Quixote Variation \(After Don Quixote, Op\. 35: III\. Finale\)](https://open.spotify.com/track/4cvOCAhyHvl9RZbf5ccBsU) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA), [Moritzburg Ensemble](https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Don Quixote Variation \(After Don Quixote, Op\. 35: III\. Finale\)](https://open.spotify.com/album/7qQ60Y3TiH9zX6VLqmRdcu) | 2:40 | 2026-05-22 |  |
 | [Du bist die Ruh, Op\. 59/3, D\. 776](https://open.spotify.com/track/12Q1dPxQhzdwCe9ZeKFtiV) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Daria Hovora](https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv) | [Schubert: Songs without Words](https://open.spotify.com/album/0z8Lnbz84Irq0iBQcTS4es) | 5:01 | 2022-06-16 | 2024-04-19 |
 | [Du bist die Ruh, Op.59/3, D.776](https://open.spotify.com/track/0iPqjUiYAizCJVc8TdZyjb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Daria Hovora](https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv) | [Schubert: Songs without Words](https://open.spotify.com/album/1eUU0JQTQCAnuSg8a5SikA) | 5:01 | 2021-03-08 |  |
 | [Du bist die Ruh, Op.59/3, D.776](https://open.spotify.com/track/4dDKwiuaSocMnrFN10csqb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Daria Hovora](https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv) | [Romantic Thanksgiving](https://open.spotify.com/album/4dmHTGenh8L7NpJBs5JIjf) | 5:01 | 2022-11-11 | 2022-11-13 |

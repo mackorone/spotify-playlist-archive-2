@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "num_followers": 24322,
+  "num_followers": 24323,
   "original_name": "life is sweet",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOWgoBZ4X4v2gdO87e/ahDm2MzwYBk",
+  "snapshot_id": "AAAOZeRD4AZpCkhpjp2wAVc8wY/DPNAN",
   "tracks": [
     {
       "added_at": "2026-05-05 17:12:50",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH"
     },
     {
+      "added_at": "2026-05-22 23:20:37",
+      "album": {
+        "name": "Wendy Eisenberg",
+        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
+      },
+      "artists": [
+        {
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Another Lifetime Floats Away",
+      "url": "https://open.spotify.com/track/1NAluKvmuPDYJ7EnbSyhe3"
+    },
+    {
       "added_at": "2026-05-16 17:11:56",
       "album": {
         "name": "+3",
@@ -375,6 +391,70 @@
       "duration_ms": 199234,
       "name": "Fatale",
       "url": "https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx"
+    },
+    {
+      "added_at": "2026-05-22 19:37:58",
+      "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
+    },
+    {
+      "added_at": "2026-05-22 19:37:40",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "added_at": "2026-05-22 23:19:51",
+      "album": {
+        "name": "idea 1",
+        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "idea 1",
+      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
+    },
+    {
+      "added_at": "2026-05-22 23:21:17",
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     }
   ],
   "unique_name": "life is sweet",

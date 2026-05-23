@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1233092,
+  "num_followers": 1233148,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agz5gAAAAADdh+RXslyv3kW8jSaBTU5R",
+  "snapshot_id": "ag5LAAAAAAArM0BtlTtnvhdys6iDqYyt",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Dramacydal",
-          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Me Against The World",
-      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 257626,
       "name": "Better Dayz",
       "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
       "added_at": null,
@@ -823,30 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: The Final Chapter",
-        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
       },
       "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Living in Pain (feat. 2Pac, Mary J. Blige & Nas)",
-      "url": "https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL"
+      "duration_ms": 274626,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
     },
     {
       "added_at": null,
@@ -871,22 +863,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+        "name": "Duets: The Final Chapter",
+        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
       },
       "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Stretch",
-          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
+      "duration_ms": 241400,
+      "name": "Living in Pain (feat. 2Pac, Mary J. Blige & Nas)",
+      "url": "https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL"
     },
     {
       "added_at": null,

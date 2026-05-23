@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-152 songs - 9 hr 43 min
+153 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2021-11-09 |  |
 | [Four Seasons Winter Variation \(After Violin Concerto in F Minor, Op\. 8, No\. 4, RV 297, III\. Allegro\-Lento\)](https://open.spotify.com/track/4HGKwAl6H8z4J2DSaZamSg) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Vivaldi: Four Seasons Winter Variation \(After Violin Concerto in F Minor, Op\. 8, No\. 4, RV 297, III\. Allegro\-Lento\)](https://open.spotify.com/album/2l4Qv7ErSsOLMm4Jx6W4pC) | 1:43 | 2023-10-20 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2021-11-09 |  |
+| [Goiza Larrunen](https://open.spotify.com/track/5W51XW27tDmVhWWxCp0Vvp) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Dessner: Goiza Larrunen](https://open.spotify.com/album/4Ju1T7qpYADFPO8weAcHhP) | 3:18 | 2026-05-22 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2021-11-09 |  |
 | [Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/track/7izqT26X2qmMbqiNAQZruO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/album/3jKFKndTaIy2veF3S9Uwld) | 3:15 | 2023-09-22 |  |
 | [Gymnopédie No\. 3](https://open.spotify.com/track/0hZBK2IS2uKdWVwEWXX1vB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Erik Satie & Friends](https://open.spotify.com/album/32kkHw8GnItrzLQ1qwupbJ) | 2:55 | 2021-11-09 |  |

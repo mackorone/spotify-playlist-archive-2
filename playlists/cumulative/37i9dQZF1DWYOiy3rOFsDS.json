@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Arroba Nat en portada.",
+  "description": "Romance a la antig\u00fcita con Edgar Alejandro en portada.",
   "name": "nuevo bolero",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 237729,
       "name": "Amor Bonito (Track #1)",
       "url": "https://open.spotify.com/track/2aPWnLUDJxaU7shcekwG02"
@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda",
+        "url": "https://open.spotify.com/album/3mzhwCxm3ILPSOSDa2xR7D"
+      },
+      "artists": [
+        {
+          "name": "Ana Peynado",
+          "url": "https://open.spotify.com/artist/0I0ief1haJvtn0Py4Y70sP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/6KOC0wpku5n0sjqzUTFGQE"
+    },
+    {
+      "album": {
         "name": "Diego El Cigala in Concert (Special Edition American Tour 2012)",
         "url": "https://open.spotify.com/album/7787gRVyjKfPdwXeWIgm4h"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 158450,
       "name": "Malherido",
       "url": "https://open.spotify.com/track/1Lfhhu1D58V0otk3tCCFub"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 188760,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
@@ -6051,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "Que Suerte",
+        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Que Suerte",
+      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
+    },
+    {
+      "album": {
         "name": "Quien Eres Tu?",
         "url": "https://open.spotify.com/album/6jE4T5q7pdWKEmykp2FwKX"
       },
@@ -7556,6 +7592,24 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/1tgoKrE09TkNaE6YDrkql6"
+    },
+    {
+      "album": {
+        "name": "Tu Aprendiz",
+        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Tu Aprendiz",
+      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
     },
     {
       "album": {

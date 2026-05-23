@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "2POPS",
+        "url": "https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "2POPS",
+      "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
+    },
+    {
+      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -60197,6 +60215,28 @@
     },
     {
       "album": {
+        "name": "KAOTISK KUNST",
+        "url": "https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177220,
+      "name": "FIS & BALLADE (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
+    },
+    {
+      "album": {
         "name": "CANDYLAND",
         "url": "https://open.spotify.com/album/6C6PapFkCVwEfkZGIvSgPE"
       },
@@ -60306,6 +60346,32 @@
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "album": {
+        "name": "Stadig Rolig",
+        "url": "https://open.spotify.com/album/1v8yoUwVGGlhUulMd4uLzq"
+      },
+      "artists": [
+        {
+          "name": "Dj Static",
+          "url": "https://open.spotify.com/artist/1RhA8EPYlpcfkyz08MTnjv"
+        },
+        {
+          "name": "MARQ",
+          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
+        },
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/4DvWaQm4FBP8ykYbOOZflA"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255766,
+      "name": "Fjender",
+      "url": "https://open.spotify.com/track/5sxOJi8K19JswhPSjCQ1js"
     },
     {
       "album": {
@@ -104417,7 +104483,7 @@
     },
     {
       "album": {
-        "name": "Lao Shi",
+        "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
       "artists": [
@@ -104430,7 +104496,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131440,
-      "name": "Lao Shi",
+      "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
@@ -174177,6 +174243,24 @@
     },
     {
       "album": {
+        "name": "Sir' Det Bar' (Fra DR Ultra's \"Sir' Det Bar'\")",
+        "url": "https://open.spotify.com/album/1kZVdCf3LbTFpmHRDeKdkR"
+      },
+      "artists": [
+        {
+          "name": "DR Ultra",
+          "url": "https://open.spotify.com/artist/7zeDWg1bvq7K5Ry8p0HVrI"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Ta' Min H\u00e5nd",
+      "url": "https://open.spotify.com/track/1y3f3Pk3tZeJJEBb0RYRGe"
+    },
+    {
+      "album": {
         "name": "Tabt Generation",
         "url": "https://open.spotify.com/album/1zt8eenZjf2kIOP6uL7obX"
       },
@@ -177878,6 +177962,24 @@
       "duration_ms": 208993,
       "name": "The Crushed",
       "url": "https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -185342,60 +185444,6 @@
       "duration_ms": 159000,
       "name": "TOYBOY",
       "url": "https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T"
-    },
-    {
-      "album": {
-        "name": "Sir' Det Bar' (Fra DR Ultra's \"Sir' Det Bar'\")",
-        "url": "https://open.spotify.com/album/1kZVdCf3LbTFpmHRDeKdkR"
-      },
-      "artists": [
-        {
-          "name": "DR Ultra",
-          "url": "https://open.spotify.com/artist/7zeDWg1bvq7K5Ry8p0HVrI"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1y3f3Pk3tZeJJEBb0RYRGe"
-    },
-    {
-      "album": {
-        "name": "KAOTISK KUNST",
-        "url": "https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
-    },
-    {
-      "album": {
-        "name": "Stadig Rolig",
-        "url": "https://open.spotify.com/album/1v8yoUwVGGlhUulMd4uLzq"
-      },
-      "artists": [
-        {
-          "name": "Dj Static",
-          "url": "https://open.spotify.com/artist/1RhA8EPYlpcfkyz08MTnjv"
-        }
-      ],
-      "date_added": "2026-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5sxOJi8K19JswhPSjCQ1js"
     },
     {
       "album": {

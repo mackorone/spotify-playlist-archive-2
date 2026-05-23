@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Good songs from songwriters who draw from pop, indie, country and folk 🌟<br/>Cover: Cammy Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,904 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,905 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Otherside](https://open.spotify.com/track/27dzGiTmNPRGkdLo80GZdo) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Suddenly, Everything’s Changing](https://open.spotify.com/album/1rzTiIXtXoyXQuVgiahpT6) | 3:51 |
 | 100 | [Silver Spoon in My Cup](https://open.spotify.com/track/3rk2J5DFW8OnyvbcKjAzKY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Silver Spoon in My Cup](https://open.spotify.com/album/2f0HdhN3wutRyhBgUlOlKI) | 2:22 |
 
-Snapshot ID: `AAAAAAmVRiqzjEDTPpXl+Xy48ra2Fj0P`
+Snapshot ID: `AAAAAE/d7ldsrh3IJ3BlgmV/9roU/Yq8`

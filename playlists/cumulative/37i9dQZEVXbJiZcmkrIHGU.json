@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 262675,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/0HZFTqqGkiY37nlA8fltkN"
@@ -5584,6 +5584,24 @@
       "duration_ms": 262675,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj"
+    },
+    {
+      "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/6iVWfqIBLz2Ppu61qIkoLp"
+      },
+      "artists": [
+        {
+          "name": "MDB",
+          "url": "https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262675,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/2dbv99NW00YKRwy6H6FdZC"
     },
     {
       "album": {
@@ -32589,6 +32607,24 @@
     },
     {
       "album": {
+        "name": "H&K x Habits",
+        "url": "https://open.spotify.com/album/5xSegxbgxJbE5xtFofu5Ob"
+      },
+      "artists": [
+        {
+          "name": "ForceTx",
+          "url": "https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126066,
+      "name": "H&K x Habits",
+      "url": "https://open.spotify.com/track/43KRh9HLaXnRMhbV5sDZB7"
+    },
+    {
+      "album": {
         "name": "H.M.P.2",
         "url": "https://open.spotify.com/album/6u1tXGs4skInVNCNXovwma"
       },
@@ -44348,7 +44384,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -53924,7 +53960,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -55310,7 +55346,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -57412,6 +57448,28 @@
       "duration_ms": 215063,
       "name": "on my way",
       "url": "https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e"
+    },
+    {
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
       "album": {
@@ -69046,7 +69104,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -75324,7 +75382,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 284310,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
@@ -78828,7 +78886,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

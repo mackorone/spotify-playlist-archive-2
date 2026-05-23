@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Genezio.
+> Du Congo, au monde 🌍 avec Tonton Naza.
 
-749 songs - 1 day 17 hr 55 min
+750 songs - 1 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Congo Blinders](https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Ekoya](https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb) | 2:39 | 2025-01-31 | 2025-02-22 |
 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 | 2025-08-01 | 2025-11-29 |
 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-07-18 | 2025-11-29 |
-| [Corps à Corps](https://open.spotify.com/track/0pDCPrK2MzBtLUfuYOzlSL) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Corps à Corps](https://open.spotify.com/album/0eM5nAFiyxIPokSsdP8IpK) | 2:20 | 2026-04-03 |  |
+| [Corps à Corps](https://open.spotify.com/track/0pDCPrK2MzBtLUfuYOzlSL) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Corps à Corps](https://open.spotify.com/album/0eM5nAFiyxIPokSsdP8IpK) | 2:20 | 2026-04-03 | 2026-05-23 |
 | [CORTÈGE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:54 | 2024-04-12 | 2024-04-19 |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
 | [CR7](https://open.spotify.com/track/6WRS0yCNFp8nwFwVRujLA6) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [CR7](https://open.spotify.com/album/1Ugm583SMex1WqKhfb7Xee) | 2:59 | 2024-05-31 | 2024-07-19 |
@@ -482,7 +482,7 @@
 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 | 2023-03-18 |
 | [Muziko \(Remix\)](https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX) | [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mambo](https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ) | 4:34 | 2023-11-24 | 2024-05-03 |
 | [MWA MBUYI](https://open.spotify.com/track/7vsDFUAI6IIgMcjPhyQgDD) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [MWA MBUYI](https://open.spotify.com/album/7nkfOiaZr6MA0eDnhC9wNN) | 3:45 | 2023-11-24 | 2024-12-21 |
-| [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 | 2026-04-17 |  |
+| [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 | 2026-04-17 | 2026-05-23 |
 | [Mwasi Kitoko](https://open.spotify.com/track/6q9pwWCx3IubrcewoHVB3K) | [Nicky B Fly](https://open.spotify.com/artist/73UrAsxfBxDVNpRzbjgxl6) | [Mwasi Kitoko](https://open.spotify.com/album/3SRG4VoNV8gwAalyWgJJ0D) | 2:49 | 2024-08-23 | 2024-10-26 |
 | [Mwassi Ngondo](https://open.spotify.com/track/1N3rBs8QokCj7q5lDHGnKT) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Mwassi Ngondo](https://open.spotify.com/album/1F20VfFW4hQUdE6lD86kNj) | 3:46 | 2025-09-19 | 2026-01-15 |
 | [Mwinda](https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Mwinda](https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs) | 5:00 | 2023-09-15 | 2023-12-16 |
@@ -663,6 +663,7 @@
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 | 2024-08-24 |
 | [Temps Eza Te](https://open.spotify.com/track/2I4MIsNTZQQP8tQuVx4RWJ) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Temps Eza Te](https://open.spotify.com/album/6KKWHY1r95yu3VQYrsjVwI) | 3:31 | 2023-02-10 | 2023-03-18 |
+| [Tentation](https://open.spotify.com/track/18M04FaA1qU3GYrynMMz2j) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Tentation](https://open.spotify.com/album/3C0G1SjT04gvGoc34GE15P) | 2:59 | 2026-05-22 |  |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-29 | 2023-12-02 |
 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 | 2024-06-14 | 2025-08-02 |
 | [Tia Mungwa Na Biloko](https://open.spotify.com/track/25rtib76p78hDb0hZ25s24) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Tia Mungwa Na Biloko](https://open.spotify.com/album/2NCbNX15XjFAzdd5FmJUwz) | 3:23 | 2025-06-20 | 2025-07-12 |

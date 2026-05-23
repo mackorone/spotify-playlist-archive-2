@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: 41
 
-165 songs - 7 hr 35 min
+167 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [He Kant](https://open.spotify.com/track/4DjaEteBLN6f13XuF8f4CO) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [He Kant](https://open.spotify.com/album/53eBLt3qAQcnf2Hg5k4Uhq) | 2:37 | 2025-07-25 |  |
 | [Heavenly pt3](https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Heavenly pt3](https://open.spotify.com/album/2ZVSpquFwdo2Hz4et5ULEn) | 2:53 | 2025-05-23 | 2025-06-07 |
 | [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 | 2024-11-30 |
+| [IDK](https://open.spotify.com/track/74PjW0jUFYXW5BBYr7p4e8) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Y'all Won](https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi) | 2:49 | 2026-05-22 |  |
 | [Idk Why](https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Damaged Thoughts](https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu) | 3:11 | 2025-07-25 |  |
 | [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 | 2024-10-25 | 2025-06-18 |
 | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 | 2025-07-25 | 2025-10-18 |
@@ -169,6 +170,7 @@
 | [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 | 2025-11-29 |
 | [What These Niggas Want](https://open.spotify.com/track/2UNIVvqZBbSljTy2EhvSnF) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Earth to Breezy](https://open.spotify.com/album/7CO70qKtgBLZ5Etx25rnuZ) | 2:13 | 2025-06-17 | 2025-07-26 |
 | [WHAT'S THE WORD](https://open.spotify.com/track/4hfl3p9kFftWFy2BG1fCsE) | [SLIZZY ENT](https://open.spotify.com/artist/5uKNhhqqDiqLjmZwOi8s4B), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Payroll](https://open.spotify.com/artist/7yzcsplXURYcG1Luakmkqy) | [SLIZZY POPE PRESENTS: SLIZZGIVING](https://open.spotify.com/album/1QM4YHDm72UD1QkoZMoN6s) | 2:19 | 2025-11-28 |  |
+| [Where You Been](https://open.spotify.com/track/3KC4y0j0A8mMd2uAwL3Qxd) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Where You Been](https://open.spotify.com/album/0G2IabpSUdJQB9ZbN881i5) | 2:57 | 2026-05-22 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 | 2025-05-22 |
 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 | 2024-10-25 |  |
 | [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 | 2025-02-23 |

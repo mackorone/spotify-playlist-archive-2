@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Muzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,395 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,442 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Imposter Syndrome](https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Duplicity](https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq) | 3:17 |
 | 50 | [Edumare](https://open.spotify.com/track/3wRbBb8NdUfFI6TQa60GgX) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [ADISA](https://open.spotify.com/album/7xzQAUxUFDCFfLK0B97SJ5) | 2:21 |
 
-Snapshot ID: `AAAAANEDvPl3S9nSjHWwcZW8nXQB2vDt`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

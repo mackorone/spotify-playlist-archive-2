@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: James Savage",
+  "description": "R&B of the moment by the artists of the future. Cover: Eric Penn",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 164306,
       "name": "Act of God / Force Majeure",
       "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
@@ -7026,7 +7026,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 260240,
       "name": "Cry Against The Wind",
       "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
@@ -7406,7 +7406,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 144000,
       "name": "Dark Skin Girl",
       "url": "https://open.spotify.com/track/1EMhBmEv65xyBIIB6Cfrgi"
@@ -10856,7 +10856,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 177688,
       "name": "Float",
       "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
@@ -10986,6 +10986,24 @@
       "duration_ms": 157606,
       "name": "Fold",
       "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
+    },
+    {
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
     },
     {
       "album": {
@@ -13781,6 +13799,24 @@
     },
     {
       "album": {
+        "name": "Hit & Run",
+        "url": "https://open.spotify.com/album/4VwNVf8kvBTBJXux1gJgVo"
+      },
+      "artists": [
+        {
+          "name": "Eric Penn",
+          "url": "https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/3c13bJESWcnsn180mOn6Wt"
+    },
+    {
+      "album": {
         "name": "Hit a Wall",
         "url": "https://open.spotify.com/album/4s07kCH6AwFdyU5SpJ4iZk"
       },
@@ -14211,6 +14247,24 @@
     },
     {
       "album": {
+        "name": "HOW DO YOU SLEEP?",
+        "url": "https://open.spotify.com/album/0lkc0azCPCk33qepT0fSMl"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111730,
+      "name": "HOW DO YOU SLEEP?",
+      "url": "https://open.spotify.com/track/5lC63CMAg4Nd0mGVGIEPSg"
+    },
+    {
+      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/3KKqCaSclRCPC94FaCywTD"
       },
@@ -14567,6 +14621,24 @@
     },
     {
       "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/0VYD8n0LUPyzA8I7Md1cVj"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL"
+    },
+    {
+      "album": {
         "name": "Here nor there",
         "url": "https://open.spotify.com/album/7IngwF6npRbqJSPEMLGZvx"
       },
@@ -14840,6 +14912,24 @@
       "duration_ms": 237623,
       "name": "I Wanna Know - Acoustic",
       "url": "https://open.spotify.com/track/2wQusm1xPyFfduOzej331l"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/6CpH5Y0tGJdhD3IP4h2VYN"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7y7Oii8NXB1cjrJr2ZEnt1"
     },
     {
       "album": {
@@ -15860,7 +15950,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 196548,
       "name": "Is It Alright?",
       "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
@@ -20729,6 +20819,24 @@
     },
     {
       "album": {
+        "name": "NEW HEADSTONE need MIX",
+        "url": "https://open.spotify.com/album/5N19wjg3aSVDoKKr4niCPz"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148058,
+      "name": "NEW HEADSTONE need MIX",
+      "url": "https://open.spotify.com/track/63GhJimM2V6SKAa8NLTU6p"
+    },
+    {
+      "album": {
         "name": "New Moves",
         "url": "https://open.spotify.com/album/2VXaTb8Dz9ecOXXMp6ehtv"
       },
@@ -21908,6 +22016,24 @@
       "duration_ms": 132706,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i"
+    },
+    {
+      "album": {
+        "name": "Left on RED",
+        "url": "https://open.spotify.com/album/5xBGTsaGc3BlKQweyj5PZw"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145274,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
     },
     {
       "album": {
@@ -32446,6 +32572,24 @@
       "duration_ms": 204200,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"
+    },
+    {
+      "album": {
+        "name": "what did you think love would be?",
+        "url": "https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203514,
+      "name": "what did you think love would be?",
+      "url": "https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB"
     },
     {
       "album": {

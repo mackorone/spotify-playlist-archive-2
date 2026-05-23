@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Minttu, Costi, Darude..\. ja moni muu  🎶
 
-11,219 songs - 24 day 17 hr 57 min
+11,221 songs - 24 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [2AM](https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [2AM](https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx) | 2:26 | 2024-07-18 | 2024-07-27 |
 | [2AM In Lagos](https://open.spotify.com/track/2qfPXqKiNJmjvEEuq7pE8k) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES) | [123...Arcade!](https://open.spotify.com/album/3YARAu2R6ekkXdD9jMwUJF) | 3:15 | 2025-11-06 | 2025-11-14 |
 | [2AM Rockstars](https://open.spotify.com/track/61L8dsmWwsNfMK5EoAewrR) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [2AM Rockstars](https://open.spotify.com/album/4ylwCIaE9wln3Xhb8KdiSQ) | 2:28 | 2025-09-26 | 2025-10-03 |
+| [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-21 |  |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-15 | 2026-01-23 |
 | [3 tyttöystävää](https://open.spotify.com/track/3NcvK2De0oCWcCqy503Uz9) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [3 tyttöystävää](https://open.spotify.com/album/3B1G53FVMVcRxUBGKTCigK) | 2:17 | 2026-02-12 | 2026-02-20 |
 | [3 Yötä Juhannukseen](https://open.spotify.com/track/0iAp9l8qtGkqGcGiVHjtk3) | [Olli Helenius](https://open.spotify.com/artist/7GKUfB9z21AJzb2s48lepE) | [3 Yötä Juhannukseen](https://open.spotify.com/album/5FHLMkYWytIq9pUAgjMjjs) | 3:35 | 2026-05-14 | 2026-05-22 |
@@ -5134,7 +5135,7 @@
 | [Language Of Love](https://open.spotify.com/track/5DXEoQhgxXds4gwNgTQfHP) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Language Of Love](https://open.spotify.com/album/6UWP1g39NtTOVHmv7c0gTP) | 2:40 | 2025-03-20 | 2025-03-28 |
 | [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 | 2024-08-15 | 2024-08-23 |
 | [Lanternlight](https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:06 | 2024-09-19 | 2024-09-27 |
-| [Lao Shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Lao Shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
+| [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
 | [Lapin salot samoo](https://open.spotify.com/track/0YXUcxHYZbRIqU1vH59wuO) | [Dänkki Briha](https://open.spotify.com/artist/2GYqRFibbCXFZdqNMoulxX) | [Lapin salot samoo](https://open.spotify.com/album/3arE7J5tsfBqRQ37cUrRFO) | 2:57 | 2024-05-16 | 2024-05-24 |
 | [Lapis philosophorum](https://open.spotify.com/track/43KgbIw8U93aV7iZlpPIxX) | [Jaakko Laitinen & Väärä Raha](https://open.spotify.com/artist/5QPVowsUcqhMFwZXmdGNUv) | [Lapis philosophorum](https://open.spotify.com/album/4REXtOg58aYwpKD378GkPo) | 4:18 | 2025-08-14 | 2025-08-23 |
 | [Lapsenkasvoinen](https://open.spotify.com/track/62LwTzbU30n05aXZZjrmZx) | [Tommi Kalenius](https://open.spotify.com/artist/1qjLtuPfpeVmDE54cuHKZJ) | [Lapsenkasvoinen](https://open.spotify.com/album/7rgIA4pzvZixUwDhimzMDF) | 2:54 | 2024-12-05 | 2024-12-13 |
@@ -9459,6 +9460,7 @@
 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-06-01 |
 | [The Crown Is Permanent](https://open.spotify.com/track/0IkInBbJ1PvQdJJ8Bwk0TU) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [The Crown Is Permanent](https://open.spotify.com/album/4rtlwGmgW5PZuniqhUPUst) | 3:26 | 2025-04-24 | 2025-05-02 |
 | [The Crowned King of Ancient Forest](https://open.spotify.com/track/3qLpBHjTvpgVme9HoTAD3D) | [Suotana](https://open.spotify.com/artist/3hGRvDW3UnwxI5OIsfwEGx) | [The Crowned King of Ancient Forest](https://open.spotify.com/album/25dQHRHJlpw00WTZNvfOg1) | 6:09 | 2025-07-24 | 2025-08-01 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 | 2025-10-31 |
 | [THE DAM](https://open.spotify.com/track/4zD1UlSWZ1YvG9pJmjVXZ8) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [SHOCK TO THE SYSTEM \(PART ONE\)](https://open.spotify.com/album/3Phx7bXkyoGS0O39giHiXS) | 4:00 | 2024-09-26 | 2024-10-04 |
 | [The Darkest City](https://open.spotify.com/track/3BbhpYIU01QJ21EYXX9g3F) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [May The Bridges We Burn Light The Way](https://open.spotify.com/album/3obnGtCJC6klk2uDxVxW9V) | 6:55 | 2025-11-06 | 2025-11-14 |

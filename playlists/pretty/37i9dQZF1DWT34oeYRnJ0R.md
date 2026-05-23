@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: J Balvin, Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,414 likes - 205 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,416 likes - 205 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

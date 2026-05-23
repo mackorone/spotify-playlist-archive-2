@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-286 songs - 1 day 1 hr 17 min
+288 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 | 2023-04-14 | 2023-06-03 |
 | [Grab \- Zeltak Rework](https://open.spotify.com/track/6xjvBdd3RHCO29G0oFT7zy) | [Victor Nagaev](https://open.spotify.com/artist/3bUtwhpt91iFwTeT9dOff2), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Grab \(Zeltak Rework\)](https://open.spotify.com/album/3VGUnyKoOoZj8s74HgWd6v) | 5:52 | 2023-01-27 | 2023-10-07 |
 | [Grave Diggers](https://open.spotify.com/track/6rmQkZIZdWWYTEHOFA6kIf) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [DJ ARNE L II](https://open.spotify.com/artist/0R8R6kw1LetFJx6iMe6Dss) | [Grave Diggers](https://open.spotify.com/album/0bEMf5f6jfPZWFlSQOSoh2) | 2:33 | 2025-05-16 |  |
+| [Gravity](https://open.spotify.com/track/4USrcpm7ebBeo8DZVH1AnG) | [Flour](https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510) | [Gravity](https://open.spotify.com/album/7jROzXwP13is4ynjnbTVUz) | 5:36 | 2026-05-22 |  |
 | [Greyhound](https://open.spotify.com/track/5YIK9j2oOlu5DlZa9i0JYp) | [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Greyhound](https://open.spotify.com/album/6WsTgT0tzFKJ5BzNRNN3XF) | 6:24 | 2023-10-06 | 2025-05-17 |
 | [Hard Bounce](https://open.spotify.com/track/4j4DjDuz3jR0ZUilIPcK2B) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Hard Bounce](https://open.spotify.com/album/7HdgdZXU7yAffKKf33B9PJ) | 5:10 | 2023-10-06 | 2025-05-17 |
 | [Hatred Feeds the Will](https://open.spotify.com/track/1oVn2G82y34oB5zzW7XUSx) | [Plvs Vltra](https://open.spotify.com/artist/6gfPMLir2FEJ7BpDH0aybS) | [Hatred Feeds the Will](https://open.spotify.com/album/1YynPDTfYxH1XKkr9Wgsha) | 8:20 | 2022-12-02 | 2023-01-28 |
@@ -192,6 +193,7 @@
 | [Offset](https://open.spotify.com/track/5kyGvlqctXWnqPRDLHGJ4x) | [Fractions](https://open.spotify.com/artist/2RByDQmWqVdS6XaXHgwGpH) | [Neanderthal Disco](https://open.spotify.com/album/7vnHRkJ8JMDuXUgolW171C) | 6:45 | 2022-12-02 | 2023-01-28 |
 | [On the Run](https://open.spotify.com/track/4GLH7QixXubrLoM399vqOI) | [Sera J](https://open.spotify.com/artist/5jcERq66fAe2jraFESRyBE) | [Symbiosis III](https://open.spotify.com/album/08BMofEoyizd04X7K2jyNm) | 4:31 | 2026-02-27 |  |
 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 | 2025-05-16 | 2025-11-29 |
+| [our frequency](https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [our frequency](https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm) | 4:24 | 2026-05-22 |  |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2025-05-16 |  |
 | [Our House \- Original Mix](https://open.spotify.com/track/2n5NQA2tegbdpBljR0sFn1) | [Tatanka Project](https://open.spotify.com/artist/4vxZFxZEA5z4ilGwcKrAjz), [Steve Shaden](https://open.spotify.com/artist/4A1OUjXSxwdTmiGG5lbqVv) | [Our House](https://open.spotify.com/album/4JSbLFD5waFrPlaDZy6xs7) | 5:49 | 2023-10-06 | 2025-05-17 |
 | [Overdriver](https://open.spotify.com/track/0GF7dmw6Ru8PJZZqacGW9b) | [Jusai](https://open.spotify.com/artist/6MrL0meWSWEZf17trGIQmk) | [Inferno](https://open.spotify.com/album/6OYHtHtDE8E5SKTOKH6Jz5) | 6:23 | 2023-01-27 | 2023-10-07 |
@@ -228,7 +230,7 @@
 | [Screaming](https://open.spotify.com/track/5382vwQ9nBUPT9SI5SwMdh) | [AnD](https://open.spotify.com/artist/2QFYNMeBzrLvlTB8HDr01C) | [Beast Mode](https://open.spotify.com/album/6TSumWOVNbNQy4sLwzc5II) | 5:41 | 2023-04-14 | 2023-06-03 |
 | [Secret Weapon \- Original Mix](https://open.spotify.com/track/4Mt3RT79yjr79rBznZJnfq) | [RBX](https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST) | [Breakdown EP](https://open.spotify.com/album/6SnOO5DS67kQV8QJyhT77T) | 5:49 | 2023-10-06 | 2024-12-28 |
 | [Seraphin](https://open.spotify.com/track/5xJr20EuKMamebCzVjBNKn) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 4:55 | 2023-01-27 | 2023-10-07 |
-| [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 | 2025-05-16 |  |
+| [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 | 2025-05-16 | 2026-05-23 |
 | [Sex and Cocaine](https://open.spotify.com/track/2Aiev24bau2UBh6rdiX58o) | [Åre:gone](https://open.spotify.com/artist/0OGldyTNlaYb1RJbvB9CcD) | [PUBLIC HOSTILITY PT.1](https://open.spotify.com/album/5x4nqiIsndU4RxLQFSJVLM) | 6:00 | 2022-12-02 | 2023-01-28 |
 | [Shiv Gayatri](https://open.spotify.com/track/2CL5VwUH5GG5xbr7jAQQw6) | [Åre:gone](https://open.spotify.com/artist/0OGldyTNlaYb1RJbvB9CcD) | [Nada Brahma](https://open.spotify.com/album/4RdyRCNoiZ7ZZaabTMbmiX) | 4:36 | 2023-10-06 | 2025-05-17 |
 | [Shot \- Original Mix](https://open.spotify.com/track/14FIBGvZmcT7vIv9nfrMiv) | [Svetec](https://open.spotify.com/artist/2IOR06B1bFw3KTm2UADPY4), [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Mad Fusions Vol.01.](https://open.spotify.com/album/57GXqMa0yiNu4vgqqOQRgB) | 5:39 | 2022-12-02 | 2023-01-28 |
@@ -291,7 +293,7 @@
 | [World of Magic \- Original Mix](https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7) | [Nika Key](https://open.spotify.com/artist/6PMYdlBji0qnyKvhAKydGv) | [World of Magic](https://open.spotify.com/album/4mXUHr646P99aa02c5o5El) | 7:22 | 2023-10-06 |  |
 | [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-16 | 2025-03-04 |
 | [You Want More](https://open.spotify.com/track/79eTTS35Pkav11RYByADD7) | [Analect](https://open.spotify.com/artist/5oMo0oEwNSokwvVOrX2FTk) | [One Step Further](https://open.spotify.com/album/30sbfn8qrOUr1qtqvUtOdq) | 5:25 | 2022-12-02 | 2023-01-28 |
-| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-11-10 |  |
+| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-11-10 | 2026-05-23 |
 | [Zor](https://open.spotify.com/track/4X5GFMJPVcHd5Nuo9G2Vyq) | [BLONDEX](https://open.spotify.com/artist/0QnGNIjMdJOJQaDEDi2wym) | [Zor](https://open.spotify.com/album/5WSPNMi8NG2kbrsjc1GBCx) | 5:18 | 2026-02-27 |  |
 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2023-10-06 | 2024-12-28 |
 
